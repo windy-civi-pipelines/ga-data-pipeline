@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Act 190",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 105"
+}

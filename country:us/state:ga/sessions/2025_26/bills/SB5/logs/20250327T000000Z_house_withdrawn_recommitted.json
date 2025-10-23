@@ -1,0 +1,19 @@
+{
+  "action": {
+    "description": "House Withdrawn, Recommitted",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee",
+      "withdrawal"
+    ],
+    "related_entities": [
+      {
+        "name": "Insurance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 5"
+}

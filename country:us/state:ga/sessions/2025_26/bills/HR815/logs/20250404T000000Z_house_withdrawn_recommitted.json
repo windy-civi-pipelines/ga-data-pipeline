@@ -1,0 +1,19 @@
+{
+  "action": {
+    "description": "House Withdrawn, Recommitted",
+    "date": "2025-04-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee",
+      "withdrawal"
+    ],
+    "related_entities": [
+      {
+        "name": "Technology and Infrastructure Innovation",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HR 815"
+}

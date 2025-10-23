@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "House Third Reading Lost",
+    "date": "2025-03-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 8"
+}

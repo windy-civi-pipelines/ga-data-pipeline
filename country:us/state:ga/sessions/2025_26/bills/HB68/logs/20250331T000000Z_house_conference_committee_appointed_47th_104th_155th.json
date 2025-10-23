@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House Conference Committee Appointed 47th, 104th, 155th",
+    "date": "2025-03-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 68"
+}
