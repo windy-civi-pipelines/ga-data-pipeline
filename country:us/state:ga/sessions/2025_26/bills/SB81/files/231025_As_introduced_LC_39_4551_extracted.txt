@@ -1,0 +1,915 @@
+Title: Senate Bill 81
+Official Title: Senate Bill 81
+Number of Sections: 1
+Source: versions - As introduced LC 39 4551
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4551
+By: Senators Brass of the 6th, Walker III of the 20th, Summers of the 13th, Kennedy of the
+18th, Jones II of the 22nd and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 22 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated,
+2 relating to motor vehicle franchise practices, so as provide for protection of consumer data
+3 in motor vehicle sales or lease transactions by affiliates of franchisors, manufacturers, and
+4 distributors; to provide for procedures, conditions, and limitations on the use of motor
+5 vehicle dealer data; to provide for standards for access and integration of data collected and
+6 maintained by dealers and by third parties on behalf of dealers; to provide for applicability;
+7 to provide for requirements of franchisors, manufacturers, and distributors in relation to
+8 dealers; to provide for additional unlawful activities by franchisors; to revise legislative
+9 findings; to provide for definitions; to amend Code Section 40-2-39 of the Official Code of
+10 Georgia Annotated, relating to registration and licensing of new motor vehicle dealers,
+11 temporary site permits, administrative fines, and penalty, so as to provide for activities which
+12 qualify as activity as a new motor vehicle dealer; to provide for related matters; to repeal
+13 conflicting laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 81
+- 1 -
+25 LC 39 4551
+15 SECTION 1.
+16 Article 22 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to
+17 motor vehicle franchise practices, is amended by revising Code Section 10-1-621, relating
+18 to legislative findings, as follows:
+19 "10-1-621.
+20 The General Assembly finds and declares that:
+21 (1) The distribution and sale of motor vehicles within this state are vital to the general
+22 economy of this state and to the public interest and public welfare;
+23 (2) The provision for warranty service, recall service, and the repair of predelivery
+24 transportation damages to motor vehicles is of substantial concern to the people of this
+25 state;
+26 (3) Robust competition among dealers benefits consumers through competitive pricing,
+27 service, and convenient repair facilities, thus the The maintenance of full and fair
+28 inter-brand and intra-brand competition among dealers and others is in the public interest;
+29 and
+30 (4) The maintenance of strong and sound dealerships is essential to provide continuing
+31 and necessary reliable services to the consuming public in this state, to the introduction
+32 of new automotive technology and support and maintenance of such after a sale, to
+33 protect against the creation or perpetuation of monopolies and other practices that are
+34 detrimental to public welfare and local businesses, and to provide stable employment to
+35 the citizens of this state."
+36 SECTION 2.
+37 Said article is further amended by revising Code Section 10-1-632, relating to protection of
+38 consumer data in motor vehicle sales or lease transactions and burden of proof for violations,
+39 as follows:
+S. B. 81
+- 2 -
+25 LC 39 4551
+40 "10-1-632.
+41 (a) With respect to consumer data, a franchisor, manufacturer, distributor, or affiliate
+42 thereof or a third party acting on behalf of a franchisor, manufacturer, or distributor, or
+43 affiliate thereof:
+44 (1) Shall comply with and shall not cause a dealer to violate any applicable restrictions
+45 on reuse or disclosure of the consumer data established by federal or state law;
+46 (2) Shall provide a written statement to the dealer upon request describing the established
+47 procedures adopted by such franchisor, manufacturer, distributor, or affiliate thereof or
+48 third party acting on behalf of the franchisor, manufacturer, or distributor which meet or
+49 exceed any federal or state requirements to safeguard the consumer data, including, but
+50 not limited to, those established in the federal Gramm-Leach-Bliley Act, 15 U.S.C.
+51 Section 6801, et seq.;
+52 (3) Shall, upon the written request of the dealer, provide a written list of the consumer
+53 data obtained from the dealer and all persons to whom any consumer data has been
+54 provided by the franchisor, manufacturer, distributor, or affiliate thereof or a third party
+55 acting on behalf of a franchisor, manufacturer, or distributor during the preceding six
+56 months. The dealer may make such a request no more than once every six months. The
+57 list must indicate the specific fields of consumer data which were provided to each
+58 person. Notwithstanding the foregoing, such a list shall not be required to include:
+59 (A) A person to whom consumer data was provided, or the specific consumer data
+60 provided to such person, if the person was, at the time such consumer data was
+61 provided, a service provider, subcontractor, or consultant acting in the course of
+62 performance of services on behalf of or for the benefit of the dealer, franchisor,
+63 manufacturer, distributor, third party, or dealer affiliate, provided that the dealer,
+64 franchisor, manufacturer, distributor, third party, or dealer affiliate has entered into an
+65 agreement with such person requiring that such person comply with the safeguard
+66 requirements of applicable state and federal law, including, but not limited to, those
+S. B. 81
+- 3 -
+25 LC 39 4551
+67 established in the federal Gramm-Leach-Bliley Act, 15 U.S.C. Section 6801, et seq.;
+68 and
+69 (B) A person to whom consumer data was provided, or the specific consumer data
+70 provided to such person, if the dealer has previously consented in writing to such
+71 person receiving such consumer data and the dealer has not withdrawn such consent in
+72 writing;
+73 (4) May not require that a dealer grant the franchisor, manufacturer, distributor, or
+74 affiliate thereof or a third party acting on behalf of a franchisor, manufacturer, or
+75 distributor direct or indirect access to such dealer's data management system to obtain
+76 consumer data. A franchisor, manufacturer, distributor, affiliate, or a third party acting
+77 on behalf of a franchisor, manufacturer, or distributor must shall permit a dealer to
+78 furnish consumer data in a widely accepted file format, such as comma delimited, and
+79 through a third-party vendor selected by the dealer.; provided, however, that However,
+80 a franchisor, manufacturer, or distributor, or affiliate thereof or a third party acting on
+81 behalf of a franchisor, manufacturer, or distributor may access or obtain consumer data
+82 directly from a dealer's data management system with the express consent of the dealer.
+83 Such consent shall The consent must be in the form of a written document that is separate
+84 from the parties' franchise agreement, is executed by the dealer, and may be withdrawn
+85 allow for withdrawal by the dealer upon 30 days' written notice to the franchisor,
+86 manufacturer, or distributor as applicable. For incentive programs beginning on or after
+87 July 1, 2019, such consent shall not be required as a condition to a motor vehicle dealer's
+88 participation in an incentive program unless such consent is necessary to obtain consumer
+89 data to implement the program; and
+90 (5) Shall indemnify the dealer for any third-party claims asserted against or damages
+91 incurred by the dealer to the extent caused by access to, use of, or disclosure of consumer
+92 data in violation of this Code section by the franchisor, manufacturer, distributor, or
+S. B. 81
+- 4 -
+25 LC 39 4551
+93 affiliate thereof or a third party to whom the franchisor, manufacturer, or distributor has
+94 provided consumer data.
+95 (b) Nothing contained in this Code section shall limit the ability of the a franchisor, the
+96 manufacturer, or distributor, to require that the dealer provide, or use in accordance with
+97 the law, such customer information related solely to such manufacturer's or distributor's
+98 own vehicle makes to the extent necessary to do any of the following:
+99 (1) Satisfy any safety or recall notice obligations or other legal notice obligations on the
+100 part of the manufacturer;
+101 (2) Complete the sale and delivery of a new motor vehicle to a customer;
+102 (3) Validate and pay customer or dealer incentives;
+103 (4) Submit to the franchisor, manufacturer, or distributor claims for any services supplied
+104 by the dealer for any claim for warranty parts or repairs;
+105 (5) Market analysis;
+106 (6) Evaluate sales and service customer satisfaction with the dealer, including surveys;
+107 or
+108 (7) Reasonable marketing purposes that benefit the dealer.
+109 (c) In any cause of action against a franchisor, manufacturer, or distributor, or affiliate
+110 thereof for a violation of this Code section, the party bringing the action shall have the
+111 burden of proof."
+112 SECTION 3.
+113 Said article is further amended by adding a new Code section to read as follows:
+114 "10-1-633.
+115 (a) As used in this Code section, the term:
+116 (1) 'Authorized integrator' means a third party with whom a dealer has entered into a
+117 written contract to perform a specific function which requires such third party to access
+118 protected dealer data or write data to a dealer data system or both.
+S. B. 81
+- 5 -
+25 LC 39 4551
+119 (2) 'Data access overcharge' means any charge to a dealer or person authorized to
+120 perform integration that is greater than an amount which reimburses direct costs incurred
+121 by a dealer data systems vendor for integration. When a dealer data systems vendor fails
+122 to disclose the direct costs of integration and provide documentation of such costs, any
+123 direct costs sought to be reimbursed shall be considered a data access overcharge.
+124 (3) 'Dealer data system' means any software or hardware provided by a third party and
+125 used by a dealer in its business operations to store, process, or maintain protected dealer
+126 data.
+127 (4) 'Dealer data systems vendor' means any third party that stores protected dealer data
+128 pursuant to written contract with a dealer and shall include a dealer management system
+129 or customer relations management system provided by a third party. Such term shall not
+130 include a manufacturer, distributor, or affiliate subject to Code Section 10-1-632.
+131 (5) 'Integration' means access by an authorized integrator to protected dealer data which
+132 does not require access to any copyright protected material but allows for access to all
+133 protected dealer data and which can be accomplished by any commercially reasonable
+134 means not otherwise in violation of this Code section.
+135 (6) 'Prior express written consent' means written consent provided by the dealer that is
+136 contained in a document separate from any other consent, contract, franchise agreement,
+137 or other writing and that specifically outlines a dealer's consent for an authorized
+138 integrator to obtain protected dealer data, including the scope and duration of such
+139 consent, and may be unilaterally revoked by the dealer upon 30 days' notice without
+140 cause and immediately with cause.
+141 (7) 'Protected dealer data' means any of the following data that is stored in a dealer data
+142 system:
+143 (A) Personal, financial, or other data pertaining to a consumer that is provided to a
+144 dealer by a consumer;
+145 (B) Motor vehicle diagnostic data; or
+S. B. 81
+- 6 -
+25 LC 39 4551
+146 (C) Any other data relating to the business operations of a dealer stored or maintained
+147 within a dealer data system.
+148 (8) 'Secure open application programming interface' or 'secure open API' means an
+149 application programming interface that allows an authorized integrator to integrate with
+150 a dealer data system remotely and securely.
+151 (9) 'STAR standards' means standards for the automotive retail industry established by
+152 the Standards for Technology in Automotive Retail organization.
+153 (10) 'Third party' includes service providers, vendors, including dealer data systems
+154 vendors and authorized integrators, and any other individual or entity other than a dealer.
+155 Such term shall not include any manufacturer; distributor; affiliate of a manufacturer or
+156 distributor; a third party acting on behalf of or engaged contractually or by other
+157 agreement with a manufacturer or distributor; any governmental entity acting pursuant
+158 to federal, state, or local law; or any third party acting pursuant to a valid court order.
+159 (b) It shall be unlawful for a third party to:
+160 (1) Access, share, sell, copy, use, or transmit protected dealer data from a dealer data
+161 system without the prior express written consent of a dealer;
+162 (2) Take any action, by contract, technical means, or otherwise, that would prohibit or
+163 limit a dealer's ability to protect, store, copy, share, or use any protected dealer data,
+164 including, but not limited to:
+165 (A) Imposing any data access overcharges or other restrictions of any kind on the
+166 dealer or any authorized integrator for integration;
+167 (B) Prohibiting an authorized integrator or any third party identified by a dealer as an
+168 authorized integrator that has satisfied or is compliant with the STAR standards, or a
+169 standard compatible with such standards, from performing integration or placing
+170 unreasonable restrictions on integration, which shall include, but not be limited to:
+171 (i) Unreasonable restrictions on the scope or nature of the data shared with an
+172 authorized integrator;
+S. B. 81
+- 7 -
+25 LC 39 4551
+173 (ii) Unreasonable restrictions on the ability of an authorized integrator to write data
+174 to a dealer data system;
+175 (iii) Unreasonable restrictions or conditions on a third party accessing or sharing
+176 protected dealer data or writing data to a dealer data system; and
+177 (iv) Requiring unreasonable access to sensitive, competitive, or other confidential
+178 business information of a third party as a condition for access to protected dealer data
+179 or as a condition to share protected dealer data with an authorized integrator;
+180 (C) Prohibiting or limiting a dealer's ability to store, copy, securely share, or use
+181 protected dealer data outside the dealer data system in any manner and for any reason;
+182 or
+183 (D) Permitting access to or accessing protected dealer data without prior express
+184 written consent by the dealer.
+185 (c)(1) A secure open application programming interface shall:
+186 (A) Be made available by a dealer data systems vendor to any authorized integrator
+187 upon request by a dealer;
+188 (B) Include all relevant endpoints to allow for access to all protected dealer data or to
+189 integrate with protected dealer data; and
+190 (C) Provide granularity and control necessary for dealers and authorized integrators to
+191 integrate the data necessary pursuant to contract terms between the dealer and
+192 authorized integrator.
+193 (2) For purposes of this Code section, secure open application programming shall not
+194 require that an application programming interface be available to the public or at no cost
+195 to an authorized integrator, provided that no data access overcharge may be assessed in
+196 connection with a secure open API.
+197 (d)(1) A dealer data systems vendor shall adopt and make available a standardized
+198 integration framework that allows for integration through secure open APIs to authorized
+199 integrators. In the event that application programming interfaces are no longer the
+S. B. 81
+- 8 -
+25 LC 39 4551
+200 reasonable commercial or technical standard for secure data integration, a similar open
+201 access integration method may be provided to the extent such method provides the same
+202 or better secure integration to dealers and authorized integrators as a secure open API.
+203 Any dealer data systems vendor that utilizes STAR standards or a comparable system
+204 shall comply with the requirements of this subsection.
+205 (2) A dealer data systems vendor and authorized integrator:
+206 (A) Shall be authorized to integrate, or otherwise access, use, store, or share protected
+207 dealer data to the extent only outlined in and authorized by the dealer data systems
+208 vendor contract or authorized integrator contract;
+209 (B) Shall provide that any dealer data systems vendor contract or authorized integrator
+210 contract may be terminated upon no more than 90 days' notice from the dealer; and
+211 (C) Shall, in order to prevent any risk of consumer harm or inconvenience, ensure a
+212 secure transition of all protected dealer data to a successor dealer data systems vendor
+213 or authorized integrator upon notice of a dealer's intent to terminate a dealer data
+214 systems vendor contract or authorized integrator contract. The requirements of this
+215 subparagraph may be satisfied by taking any of the following actions:
+216 (i) Providing unrestricted access to all protected dealer data and all other data stored
+217 in the dealer data system within a commercially reasonable time and in a format that
+218 a successor dealer data systems vendor or authorized integrator is capable of
+219 accessing and using;
+220 (ii) Deleting or returning to the dealer all protected dealer data prior to termination
+221 of the contract pursuant to any written directions of the dealer;
+222 (iii) Providing a dealer, upon request, with a list of all entities with whom it is sharing
+223 or has shared protected dealer data or to whom it has allowed access to protected
+224 dealer data; and
+225 (iv) Allowing a dealer to audit access to and use of any protected dealer data by the
+226 dealer data systems vendor or authorized integrator access.
+S. B. 81
+- 9 -
+25 LC 39 4551
+227 (3) Any dealer data systems vendor, authorized integrator, or third party acting
+228 pursuant to a written contract with or on behalf of a dealer shall indemnify the dealer
+229 for any third-party claims asserted against or damages incurred by the dealer from
+230 complaints, claims, or actions arising out of the willful, negligent, or impermissible use
+231 or disclosure of protected dealer data, customer data, or other sensitive information in
+232 a dealer data system by the dealer data system vendor, authorized integrator, or third
+233 party. Such indemnification shall include, but not be limited to, judgments, settlements,
+234 fines, penalties, litigation costs, defense costs, court costs, costs related to the disclosure
+235 of security breaches, and attorneys' fees arising out of complaints, claims, civil, or
+236 administrative actions.
+237 (e) A manufacturer, franchisor, distributor, or affiliate thereof, or any third party acting on
+238 behalf of a manufacturer, franchisor, distributor, or affiliate thereof; a data systems vendor;
+239 or dealer shall not prohibit a dealer from regularly and continually monitoring or auditing
+240 the specific data accessed from or written to a dealer data system or from complying with
+241 applicable state and federal laws or any rules or regulations promulgated thereunder. This
+242 subsection shall not impose an obligation on a manufacturer, franchisor, distributor, or
+243 affiliate thereof, a data systems vendor, or a third party to perform such monitoring or
+244 auditing.
+245 (f) A manufacturer, franchisor, distributor, data systems vendor or any third party acting
+246 on behalf of a manufacturer, franchisor, distributor, data systems vendor, or dealer shall not
+247 prohibit a dealer from copying, storing, or backing up data stored on its dealer data
+248 systems, or duplicating the critical components or functions thereof, for the purpose of
+249 allowing a dealer to restore business operations in the event of a security breach or other
+250 event that renders a dealer data system inoperable. This subsection shall not impose an
+251 obligation on a manufacturer, franchisor, distributor, data systems vendor, or third party
+252 to provide such capabilities. This subsection shall not relieve a dealer from any contractual
+S. B. 81
+- 10 -
+25 LC 39 4551
+253 obligation relating to the safeguard, storage, copy, use, ownership, or sharing of or access
+254 to data.
+255 (g) A dealer data systems vendor or authorized integrator shall not be held responsible for
+256 any action taken directly by a dealer or for any appropriately taken action upon written
+257 request of a dealer to the extent that such action prevents such vendor or integrator from
+258 meeting any legal obligation regarding the protection of protected dealer data or results in
+259 any liability as a consequence of such actions by the dealer.
+260 (h) A dealer shall not be held responsible for any action taken directly by any of its dealer
+261 data systems vendors or authorized integrators or for any appropriately taken action upon
+262 written request of a dealer data systems vendor or authorized integrator to the extent that
+263 such action prevents such dealer from meeting any legal obligation regarding the protection
+264 of protected dealer data or results in any liability as a consequence of such actions by the
+265 dealer data systems vendor or authorized integrator.
+266 (i) The rights conferred on dealers in this Code section are not waivable and may not be
+267 reduced or otherwise modified by any contract, agreement, or incentive program.
+268 (j) Nothing in this Code section shall:
+269 (1) Be interpreted to prevent a dealer or third party from discharging its obligations or
+270 limiting responsibilities as a service provider to protect and secure protected dealer data
+271 under an agreement or as otherwise required pursuant to federal, state, or local law;
+272 (2) Give a new motor vehicle dealer any ownership or rights to share or use motor
+273 vehicle diagnostic data beyond what is necessary to fulfill a dealer's obligation to provide
+274 warranty, repair, or service work to its customers;
+275 (3) Govern, restrict, or apply to data that exists outside of a dealer data system; or
+276 (4) Relieve a manufacturer, franchisor, distributor, third party acting on behalf of a
+277 manufacturer, franchisor, distributor, or affiliate thereof from the requirements of Code
+278 Section 10-1-632."
+S. B. 81
+- 11 -
+25 LC 39 4551
+279 SECTION 4.
+280 Said article is further amended in Code Section 10-1-641, relating to requirements of
+281 franchisor, manufacturer, and distributor, reasonable compensation for parts and labor, recall
+282 notices, and stop-sales, by revising paragraph (1) of subsection (a) as follows:
+283 "(a)(1) Each franchisor, manufacturer, or distributor:
+284 (A) Shall specify in writing to each of its dealers in this state the dealer's obligations
+285 for predelivery preparation including the repair of damages incurred in the
+286 transportation of vehicles as set forth in Code Section 10-1-642, recall work, and
+287 warranty service on its products;
+288 (B) Shall, at the election of the dealer, reasonably compensate the dealer for parts and
+289 labor provided for such warranty service work as provided in paragraph (2) of this
+290 subsection;
+291 (C) Shall provide the dealer with a schedule of compensation to be paid such dealer for
+292 parts, work, and service in connection therewith; and
+293 (D) Shall provide the dealer with a schedule of the time allowance for the performance
+294 of such work and service. Any such schedule of compensation shall include reasonable
+295 compensation for diagnostic work, repair service, and labor. Time allowances for the
+296 diagnosis and performance of such work and service shall be reasonable and adequate
+297 for the work to be performed; and
+298 (E) Shall provide compensation to the dealer for assistance provided to a retail buyer
+299 or lessee whose vehicle required a change, repair, or update by remote means to any
+300 part, system, or accessory or to any function of his or her vehicle by the vehicle
+301 manufacturer, franchisor, or distributor when such service was performed at the
+302 dealership or by dealership personnel at another location at the request of the customer
+303 or at the request of the manufacturer, franchisor, distributor on behalf of the customer."
+S. B. 81
+- 12 -
+25 LC 39 4551
+304 SECTION 5.
+305 Said article is further amended in Code Section 10-1-662, relating to unlawful activities by
+306 franchisors, by revising paragraphs (1), (20), and (21) of and adding a new paragraph to
+307 subsection (a) to read as follows:
+308 "(1)(A) To delay, refuse, or fail to deliver new motor vehicles or new motor vehicle
+309 parts or accessories in a reasonable time and in reasonable quantity if such vehicles,
+310 parts, or accessories are publicly advertised as being available for immediate delivery.
+311 Upon written request of the dealer, the franchisor shall communicate its allocation
+312 process in writing in a clear and concise manner within 30 days from receipt of the
+313 dealer's request. For purposes of this paragraph, a reasonable quantity of vehicles:
+314 (i) Is fair and equitable to all line-make dealers in this state; and
+315 (ii) Does not unfairly discriminate among line-make dealers in its allocation process.
+316 (B) This paragraph is not violated, however, if such failure is caused by acts or causes
+317 the occurrence of temporary international, national, or regional product or services
+318 shortages resulting from natural disaster; unavailability or scarcity of parts or service;
+319 labor strikes; supply chain disruptions; product recalls; or other factors and events
+320 beyond the control of the franchisor that temporarily reduce the supply of a franchisor
+321 or if a state or federal law, rule, or regulation necessitates modification of the allocation.
+322 (C) Nothing contained in this paragraph shall relieve a manufacturer, franchise or
+323 distributor from its obligations under paragraph (9) of subsection (b) of Code
+324 Section 10-1-661;"
+325 "(20) To take any materially adverse action against a dealer, including a dealer's ability
+326 to participate in or receive a benefit or payment owed from any incentive or
+327 reimbursement program, based on criteria it has established, implemented, or enforced
+328 for measuring the performance, including, but not limited to, sales or service
+329 performance, of a dealer unless such criteria:
+330 (A) Is fair, reasonable, and equitable; and
+S. B. 81
+- 13 -
+25 LC 39 4551
+331 (B) Is based on accurate and relevant information; or
+332 (21) To deny, delay payment for, restrict, or bill back a claim by a dealer for payment
+333 or reimbursement for incentives, hold-backs, sales or service promotion or other special
+334 program money, or any other amount owed to such dealer by the franchisor, if based
+335 solely on the dealer's compliance with a specific program requirement of the franchisor
+336 that would cause the dealer to violate a law or any properly promulgated rule or
+337 regulation of this state; or
+338 (22) To fail to provide to the dealer a written disclosure, which may be provided to a
+339 potential consumer of a new motor vehicle, of each accessory or function of the motor
+340 vehicle that may be initiated, updated, changed, or maintained by the manufacturer or
+341 distributor through remote means, and the charge to the consumer for the initiation,
+342 update, change, or maintenance that is known at the time of the transaction. A
+343 manufacturer or distributor may comply with this paragraph by notifying the dealer that
+344 the information is available on a public website or by other digital means."
+345 SECTION 6.
+346 Code Section 40-2-39 of the Official Code of Georgia Annotated, relating to registration and
+347 licensing of new motor vehicle dealers, temporary site permits, administrative fines, and
+348 penalty, is amended by revising paragraph (2) of subsection (b) as follows:
+349 "(2)(A) It shall be unlawful for any person to engage in any activity as a new motor
+350 vehicle dealer except at an established place of business which has been registered as
+351 such under this Code section and Code Section 40-2-38 or at a temporary site.
+352 (B) For purposes of this Code section, activity as a new motor vehicle dealer shall
+353 include:
+354 (i) Selling, leasing, offering to sell or lease, or negotiating binding terms with a retail
+355 consumer for the purchase or lease of a new motor vehicle;
+S. B. 81
+- 14 -
+25 LC 39 4551
+356 (ii) Soliciting, accepting, or receiving a deposit or other payment for the retail
+357 purchase or lease of a new motor vehicle;
+358 (iii) Soliciting, accepting, or processing a reservation from a retail consumer for a
+359 specific motor vehicle; or
+360 (iv) Soliciting, accepting, offering, or negotiating with a retail consumer a binding
+361 value for a motor vehicle being traded in as part of the purchase or lease of a new
+362 motor vehicle.
+363 (C) For purposes of this Code section, activity as a new motor vehicle dealer shall not
+364 include:
+365 (i) Facilitating the receipt of a deposit or a payment under a retail installment sale
+366 contract or lease on behalf of a dealer;
+367 (ii) The disclosure of a manufacturer's suggested retail price;
+368 (iii) The display of new motor vehicles for information or demonstration purposes
+369 only;
+370 (iv) The operation of a public website or other means of electronic communication
+371 that identifies to a consumer any conditional prices or financing rates, available
+372 financing sources, add-on product prices, or conditional trade-in values that are not
+373 binding on a dealer; or
+374 (v) Sales, leasing, marketing, or advertising activities of manufacturers, franchisors,
+375 and distributors by or through their line-make dealers in accordance with Article 22
+376 of Chapter 1 of Title 10."
+377 SECTION 7.
+378 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 81
+- 15 -
+[DELETED: 5L]
+[DELETED: 5L a c r f t t T m o f a f]
+[DELETED: 5L t s p i t p w a t t s c d w a s p s o c a i t c o o s o b o o f t b o t d f d t p o d a p t t d]
+[DELETED: 5L t o a t p a o b o a f m o f w b t d u 3 d w n t t f]
+[DELETED: 5L]
+[DELETED: 5L o w a t s o a d c f a a]
+[DELETED: 5L a t p a o b o o e c o b o c w s s f p i o p]
+[DELETED: 5L t d n p t c t b t d a]
+[DELETED: 5L s d d s v o a i i c o]
+[DELETED: 5L  A d d s v a i o t p a a d f c s o b u d s o i d d]
+[DELETED: 5L]
+[DELETED: 5L a i f a i C S 1 r t r o p p i t r o d i i t f o d w s s w p a t]
+[DELETED: 5L f i o u p ( o s ( o C p i o r a b o p o f a i o m t p i b n l t s o s]
+[DELETED: 5L w c t d t v a l o a p p r o c o m t i k a t t o t t  ]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4551
+Senate Bill 81
+By: Senators Brass of the 6th, Walker III of the 20th, Summers of the 13th, Kennedy of the
+18th, Jones II of the 22nd and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 22 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated,
+2 relating to motor vehicle franchise practices, so as provide for protection of consumer data
+3 in motor vehicle sales or lease transactions by affiliates of franchisors, manufacturers, and
+4 distributors; to provide for procedures, conditions, and limitations on the use of motor
+5 vehicle dealer data; to provide for standards for access and integration of data collected and
+6 maintained by dealers and by third parties on behalf of dealers; to provide for applicability;
+7 to provide for requirements of franchisors, manufacturers, and distributors in relation to
+8 dealers; to provide for additional unlawful activities by franchisors; to revise legislative
+9 findings; to provide for definitions; to amend Code Section 40-2-39 of the Official Code of
+10 Georgia Annotated, relating to registration and licensing of new motor vehicle dealers,
+11 temporary site permits, administrative fines, and penalty, so as to provide for activities which
+12 qualify as activity as a new motor vehicle dealer; to provide for related matters; to repeal
+13 conflicting laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 81
+- 1 -
+
+25 LC 39 4551
+15 SECTION 1.
+16 Article 22 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to
+17 motor vehicle franchise practices, is amended by revising Code Section 10-1-621, relating
+18 to legislative findings, as follows:
+19 "10-1-621.
+20 The General Assembly finds and declares that:
+21 (1) The distribution and sale of motor vehicles within this state are vital to the general
+22 economy of this state and to the public interest and public welfare;
+23 (2) The provision for warranty service, recall service, and the repair of predelivery
+24 transportation damages to motor vehicles is of substantial concern to the people of this
+25 state;
+26 (3) Robust competition among dealers benefits consumers through competitive pricing,
+27 service, and convenient repair facilities, thus the The maintenance of full and fair
+28 inter-brand and intra-brand competition among dealers and others is in the public interest;
+29 and
+30 (4) The maintenance of strong and sound dealerships is essential to provide continuing
+31 and necessary reliable services to the consuming public in this state, to the introduction
+32 of new automotive technology and support and maintenance of such after a sale, to
+33 protect against the creation or perpetuation of monopolies and other practices that are
+34 detrimental to public welfare and local businesses, and to provide stable employment to
+35 the citizens of this state."
+36 SECTION 2.
+37 Said article is further amended by revising Code Section 10-1-632, relating to protection of
+38 consumer data in motor vehicle sales or lease transactions and burden of proof for violations,
+39 as follows:
+S. B. 81
+- 2 -
+
+25 LC 39 4551
+40 "10-1-632.
+41 (a) With respect to consumer data, a franchisor, manufacturer, distributor, or affiliate
+42 thereof or a third party acting on behalf of a franchisor, manufacturer, or distributor, or
+43 affiliate thereof:
+44 (1) Shall comply with and shall not cause a dealer to violate any applicable restrictions
+45 on reuse or disclosure of the consumer data established by federal or state law;
+46 (2) Shall provide a written statement to the dealer upon request describing the established
+47 procedures adopted by such franchisor, manufacturer, distributor, or affiliate thereof or
+48 third party acting on behalf of the franchisor, manufacturer, or distributor which meet or
+49 exceed any federal or state requirements to safeguard the consumer data, including, but
+50 not limited to, those established in the federal Gramm-Leach-Bliley Act, 15 U.S.C.
+51 Section 6801, et seq.;
+52 (3) Shall, upon the written request of the dealer, provide a written list of the consumer
+53 data obtained from the dealer and all persons to whom any consumer data has been
+54 provided by the franchisor, manufacturer, distributor, or affiliate thereof or a third party
+55 acting on behalf of a franchisor, manufacturer, or distributor during the preceding six
+56 months. The dealer may make such a request no more than once every six months. The
+57 list must indicate the specific fields of consumer data which were provided to each
+58 person. Notwithstanding the foregoing, such a list shall not be required to include:
+59 (A) A person to whom consumer data was provided, or the specific consumer data
+60 provided to such person, if the person was, at the time such consumer data was
+61 provided, a service provider, subcontractor, or consultant acting in the course of
+62 performance of services on behalf of or for the benefit of the dealer, franchisor,
+63 manufacturer, distributor, third party, or dealer affiliate, provided that the dealer,
+64 franchisor, manufacturer, distributor, third party, or dealer affiliate has entered into an
+65 agreement with such person requiring that such person comply with the safeguard
+66 requirements of applicable state and federal law, including, but not limited to, those
+S. B. 81
+- 3 -
+
+25 LC 39 4551
+67 established in the federal Gramm-Leach-Bliley Act, 15 U.S.C. Section 6801, et seq.;
+68 and
+69 (B) A person to whom consumer data was provided, or the specific consumer data
+70 provided to such person, if the dealer has previously consented in writing to such
+71 person receiving such consumer data and the dealer has not withdrawn such consent in
+72 writing;
+73 (4) May not require that a dealer grant the franchisor, manufacturer, distributor, or
+74 affiliate thereof or a third party acting on behalf of a franchisor, manufacturer, or
+75 distributor direct or indirect access to such dealer's data management system to obtain
+76 consumer data. A franchisor, manufacturer, distributor, affiliate, or a third party acting
+77 on behalf of a franchisor, manufacturer, or distributor must shall permit a dealer to
+78 furnish consumer data in a widely accepted file format, such as comma delimited, and
+79 through a third-party vendor selected by the dealer.; provided, however, that However,
+80 a franchisor, manufacturer, or distributor, or affiliate thereof or a third party acting on
+81 behalf of a franchisor, manufacturer, or distributor may access or obtain consumer data
+82 directly from a dealer's data management system with the express consent of the dealer.
+83 Such consent shall The consent must be in the form of a written document that is separate
+84 from the parties' franchise agreement, is executed by the dealer, and may be withdrawn
+85 allow for withdrawal by the dealer upon 30 days' written notice to the franchisor,
+86 manufacturer, or distributor as applicable. For incentive programs beginning on or after
+87 July 1, 2019, such consent shall not be required as a condition to a motor vehicle dealer's
+88 participation in an incentive program unless such consent is necessary to obtain consumer
+89 data to implement the program; and
+90 (5) Shall indemnify the dealer for any third-party claims asserted against or damages
+91 incurred by the dealer to the extent caused by access to, use of, or disclosure of consumer
+92 data in violation of this Code section by the franchisor, manufacturer, distributor, or
+S. B. 81
+- 4 -
+
+25 LC 39 4551
+93 affiliate thereof or a third party to whom the franchisor, manufacturer, or distributor has
+94 provided consumer data.
+95 (b) Nothing contained in this Code section shall limit the ability of the a franchisor, the
+96 manufacturer, or distributor, to require that the dealer provide, or use in accordance with
+97 the law, such customer information related solely to such manufacturer's or distributor's
+98 own vehicle makes to the extent necessary to do any of the following:
+99 (1) Satisfy any safety or recall notice obligations or other legal notice obligations on the
+100 part of the manufacturer;
+101 (2) Complete the sale and delivery of a new motor vehicle to a customer;
+102 (3) Validate and pay customer or dealer incentives;
+103 (4) Submit to the franchisor, manufacturer, or distributor claims for any services supplied
+104 by the dealer for any claim for warranty parts or repairs;
+105 (5) Market analysis;
+106 (6) Evaluate sales and service customer satisfaction with the dealer, including surveys;
+107 or
+108 (7) Reasonable marketing purposes that benefit the dealer.
+109 (c) In any cause of action against a franchisor, manufacturer, or distributor, or affiliate
+110 thereof for a violation of this Code section, the party bringing the action shall have the
+111 burden of proof."
+112 SECTION 3.
+113 Said article is further amended by adding a new Code section to read as follows:
+114 "10-1-633.
+115 (a) As used in this Code section, the term:
+116 (1) 'Authorized integrator' means a third party with whom a dealer has entered into a
+117 written contract to perform a specific function which requires such third party to access
+118 protected dealer data or write data to a dealer data system or both.
+S. B. 81
+- 5 -
+
+25 LC 39 4551
+119 (2) 'Data access overcharge' means any charge to a dealer or person authorized to
+120 perform integration that is greater than an amount which reimburses direct costs incurred
+121 by a dealer data systems vendor for integration. When a dealer data systems vendor fails
+122 to disclose the direct costs of integration and provide documentation of such costs, any
+123 direct costs sought to be reimbursed shall be considered a data access overcharge.
+124 (3) 'Dealer data system' means any software or hardware provided by a third party and
+125 used by a dealer in its business operations to store, process, or maintain protected dealer
+126 data.
+127 (4) 'Dealer data systems vendor' means any third party that stores protected dealer data
+128 pursuant to written contract with a dealer and shall include a dealer management system
+129 or customer relations management system provided by a third party. Such term shall not
+130 include a manufacturer, distributor, or affiliate subject to Code Section 10-1-632.
+131 (5) 'Integration' means access by an authorized integrator to protected dealer data which
+132 does not require access to any copyright protected material but allows for access to all
+133 protected dealer data and which can be accomplished by any commercially reasonable
+134 means not otherwise in violation of this Code section.
+135 (6) 'Prior express written consent' means written consent provided by the dealer that is
+136 contained in a document separate from any other consent, contract, franchise agreement,
+137 or other writing and that specifically outlines a dealer's consent for an authorized
+138 integrator to obtain protected dealer data, including the scope and duration of such
+139 consent, and may be unilaterally revoked by the dealer upon 30 days' notice without
+140 cause and immediately with cause.
+141 (7) 'Protected dealer data' means any of the following data that is stored in a dealer data
+142 system:
+143 (A) Personal, financial, or other data pertaining to a consumer that is provided to a
+144 dealer by a consumer;
+145 (B) Motor vehicle diagnostic data; or
+S. B. 81
+- 6 -
+
+25 LC 39 4551
+146 (C) Any other data relating to the business operations of a dealer stored or maintained
+147 within a dealer data system.
+148 (8) 'Secure open application programming interface' or 'secure open API' means an
+149 application programming interface that allows an authorized integrator to integrate with
+150 a dealer data system remotely and securely.
+151 (9) 'STAR standards' means standards for the automotive retail industry established by
+152 the Standards for Technology in Automotive Retail organization.
+153 (10) 'Third party' includes service providers, vendors, including dealer data systems
+154 vendors and authorized integrators, and any other individual or entity other than a dealer.
+155 Such term shall not include any manufacturer; distributor; affiliate of a manufacturer or
+156 distributor; a third party acting on behalf of or engaged contractually or by other
+157 agreement with a manufacturer or distributor; any governmental entity acting pursuant
+158 to federal, state, or local law; or any third party acting pursuant to a valid court order.
+159 (b) It shall be unlawful for a third party to:
+160 (1) Access, share, sell, copy, use, or transmit protected dealer data from a dealer data
+161 system without the prior express written consent of a dealer;
+162 (2) Take any action, by contract, technical means, or otherwise, that would prohibit or
+163 limit a dealer's ability to protect, store, copy, share, or use any protected dealer data,
+164 including, but not limited to:
+165 (A) Imposing any data access overcharges or other restrictions of any kind on the
+166 dealer or any authorized integrator for integration;
+167 (B) Prohibiting an authorized integrator or any third party identified by a dealer as an
+168 authorized integrator that has satisfied or is compliant with the STAR standards, or a
+169 standard compatible with such standards, from performing integration or placing
+170 unreasonable restrictions on integration, which shall include, but not be limited to:
+171 (i) Unreasonable restrictions on the scope or nature of the data shared with an
+172 authorized integrator;
+S. B. 81
+- 7 -
+
+25 LC 39 4551
+173 (ii) Unreasonable restrictions on the ability of an authorized integrator to write data
+174 to a dealer data system;
+175 (iii) Unreasonable restrictions or conditions on a third party accessing or sharing
+176 protected dealer data or writing data to a dealer data system; and
+177 (iv) Requiring unreasonable access to sensitive, competitive, or other confidential
+178 business information of a third party as a condition for access to protected dealer data
+179 or as a condition to share protected dealer data with an authorized integrator;
+180 (C) Prohibiting or limiting a dealer's ability to store, copy, securely share, or use
+181 protected dealer data outside the dealer data system in any manner and for any reason;
+182 or
+183 (D) Permitting access to or accessing protected dealer data without prior express
+184 written consent by the dealer.
+185 (c)(1) A secure open application programming interface shall:
+186 (A) Be made available by a dealer data systems vendor to any authorized integrator
+187 upon request by a dealer;
+188 (B) Include all relevant endpoints to allow for access to all protected dealer data or to
+189 integrate with protected dealer data; and
+190 (C) Provide granularity and control necessary for dealers and authorized integrators to
+191 integrate the data necessary pursuant to contract terms between the dealer and
+192 authorized integrator.
+193 (2) For purposes of this Code section, secure open application programming shall not
+194 require that an application programming interface be available to the public or at no cost
+195 to an authorized integrator, provided that no data access overcharge may be assessed in
+196 connection with a secure open API.
+197 (d)(1) A dealer data systems vendor shall adopt and make available a standardized
+198 integration framework that allows for integration through secure open APIs to authorized
+199 integrators. In the event that application programming interfaces are no longer the
+S. B. 81
+- 8 -
+
+25 LC 39 4551
+200 reasonable commercial or technical standard for secure data integration, a similar open
+201 access integration method may be provided to the extent such method provides the same
+202 or better secure integration to dealers and authorized integrators as a secure open API.
+203 Any dealer data systems vendor that utilizes STAR standards or a comparable system
+204 shall comply with the requirements of this subsection.
+205 (2) A dealer data systems vendor and authorized integrator:
+206 (A) Shall be authorized to integrate, or otherwise access, use, store, or share protected
+207 dealer data to the extent only outlined in and authorized by the dealer data systems
+208 vendor contract or authorized integrator contract;
+209 (B) Shall provide that any dealer data systems vendor contract or authorized integrator
+210 contract may be terminated upon no more than 90 days' notice from the dealer; and
+211 (C) Shall, in order to prevent any risk of consumer harm or inconvenience, ensure a
+212 secure transition of all protected dealer data to a successor dealer data systems vendor
+213 or authorized integrator upon notice of a dealer's intent to terminate a dealer data
+214 systems vendor contract or authorized integrator contract. The requirements of this
+215 subparagraph may be satisfied by taking any of the following actions:
+216 (i) Providing unrestricted access to all protected dealer data and all other data stored
+217 in the dealer data system within a commercially reasonable time and in a format that
+218 a successor dealer data systems vendor or authorized integrator is capable of
+219 accessing and using;
+220 (ii) Deleting or returning to the dealer all protected dealer data prior to termination
+221 of the contract pursuant to any written directions of the dealer;
+222 (iii) Providing a dealer, upon request, with a list of all entities with whom it is sharing
+223 or has shared protected dealer data or to whom it has allowed access to protected
+224 dealer data; and
+225 (iv) Allowing a dealer to audit access to and use of any protected dealer data by the
+226 dealer data systems vendor or authorized integrator access.
+S. B. 81
+- 9 -
+
+25 LC 39 4551
+227 (3) Any dealer data systems vendor, authorized integrator, or third party acting
+228 pursuant to a written contract with or on behalf of a dealer shall indemnify the dealer
+229 for any third-party claims asserted against or damages incurred by the dealer from
+230 complaints, claims, or actions arising out of the willful, negligent, or impermissible use
+231 or disclosure of protected dealer data, customer data, or other sensitive information in
+232 a dealer data system by the dealer data system vendor, authorized integrator, or third
+233 party. Such indemnification shall include, but not be limited to, judgments, settlements,
+234 fines, penalties, litigation costs, defense costs, court costs, costs related to the disclosure
+235 of security breaches, and attorneys' fees arising out of complaints, claims, civil, or
+236 administrative actions.
+237 (e) A manufacturer, franchisor, distributor, or affiliate thereof, or any third party acting on
+238 behalf of a manufacturer, franchisor, distributor, or affiliate thereof; a data systems vendor;
+239 or dealer shall not prohibit a dealer from regularly and continually monitoring or auditing
+240 the specific data accessed from or written to a dealer data system or from complying with
+241 applicable state and federal laws or any rules or regulations promulgated thereunder. This
+242 subsection shall not impose an obligation on a manufacturer, franchisor, distributor, or
+243 affiliate thereof, a data systems vendor, or a third party to perform such monitoring or
+244 auditing.
+245 (f) A manufacturer, franchisor, distributor, data systems vendor or any third party acting
+246 on behalf of a manufacturer, franchisor, distributor, data systems vendor, or dealer shall not
+247 prohibit a dealer from copying, storing, or backing up data stored on its dealer data
+248 systems, or duplicating the critical components or functions thereof, for the purpose of
+249 allowing a dealer to restore business operations in the event of a security breach or other
+250 event that renders a dealer data system inoperable. This subsection shall not impose an
+251 obligation on a manufacturer, franchisor, distributor, data systems vendor, or third party
+252 to provide such capabilities. This subsection shall not relieve a dealer from any contractual
+S. B. 81
+- 10 -
+
+25 LC 39 4551
+253 obligation relating to the safeguard, storage, copy, use, ownership, or sharing of or access
+254 to data.
+255 (g) A dealer data systems vendor or authorized integrator shall not be held responsible for
+256 any action taken directly by a dealer or for any appropriately taken action upon written
+257 request of a dealer to the extent that such action prevents such vendor or integrator from
+258 meeting any legal obligation regarding the protection of protected dealer data or results in
+259 any liability as a consequence of such actions by the dealer.
+260 (h) A dealer shall not be held responsible for any action taken directly by any of its dealer
+261 data systems vendors or authorized integrators or for any appropriately taken action upon
+262 written request of a dealer data systems vendor or authorized integrator to the extent that
+263 such action prevents such dealer from meeting any legal obligation regarding the protection
+264 of protected dealer data or results in any liability as a consequence of such actions by the
+265 dealer data systems vendor or authorized integrator.
+266 (i) The rights conferred on dealers in this Code section are not waivable and may not be
+267 reduced or otherwise modified by any contract, agreement, or incentive program.
+268 (j) Nothing in this Code section shall:
+269 (1) Be interpreted to prevent a dealer or third party from discharging its obligations or
+270 limiting responsibilities as a service provider to protect and secure protected dealer data
+271 under an agreement or as otherwise required pursuant to federal, state, or local law;
+272 (2) Give a new motor vehicle dealer any ownership or rights to share or use motor
+273 vehicle diagnostic data beyond what is necessary to fulfill a dealer's obligation to provide
+274 warranty, repair, or service work to its customers;
+275 (3) Govern, restrict, or apply to data that exists outside of a dealer data system; or
+276 (4) Relieve a manufacturer, franchisor, distributor, third party acting on behalf of a
+277 manufacturer, franchisor, distributor, or affiliate thereof from the requirements of Code
+278 Section 10-1-632."
+S. B. 81
+- 11 -
+
+25 LC 39 4551
+279 SECTION 4.
+280 Said article is further amended in Code Section 10-1-641, relating to requirements of
+281 franchisor, manufacturer, and distributor, reasonable compensation for parts and labor, recall
+282 notices, and stop-sales, by revising paragraph (1) of subsection (a) as follows:
+283 "(a)(1) Each franchisor, manufacturer, or distributor:
+284 (A) Shall specify in writing to each of its dealers in this state the dealer's obligations
+285 for predelivery preparation including the repair of damages incurred in the
+286 transportation of vehicles as set forth in Code Section 10-1-642, recall work, and
+287 warranty service on its products;
+288 (B) Shall, at the election of the dealer, reasonably compensate the dealer for parts and
+289 labor provided for such warranty service work as provided in paragraph (2) of this
+290 subsection;
+291 (C) Shall provide the dealer with a schedule of compensation to be paid such dealer for
+292 parts, work, and service in connection therewith; and
+293 (D) Shall provide the dealer with a schedule of the time allowance for the performance
+294 of such work and service. Any such schedule of compensation shall include reasonable
+295 compensation for diagnostic work, repair service, and labor. Time allowances for the
+296 diagnosis and performance of such work and service shall be reasonable and adequate
+297 for the work to be performed; and
+298 (E) Shall provide compensation to the dealer for assistance provided to a retail buyer
+299 or lessee whose vehicle required a change, repair, or update by remote means to any
+300 part, system, or accessory or to any function of his or her vehicle by the vehicle
+301 manufacturer, franchisor, or distributor when such service was performed at the
+302 dealership or by dealership personnel at another location at the request of the customer
+303 or at the request of the manufacturer, franchisor, distributor on behalf of the customer."
+S. B. 81
+- 12 -
+
+25 LC 39 4551
+304 SECTION 5.
+305 Said article is further amended in Code Section 10-1-662, relating to unlawful activities by
+306 franchisors, by revising paragraphs (1), (20), and (21) of and adding a new paragraph to
+307 subsection (a) to read as follows:
+308 "(1)(A) To delay, refuse, or fail to deliver new motor vehicles or new motor vehicle
+309 parts or accessories in a reasonable time and in reasonable quantity if such vehicles,
+310 parts, or accessories are publicly advertised as being available for immediate delivery.
+311 Upon written request of the dealer, the franchisor shall communicate its allocation
+312 process in writing in a clear and concise manner within 30 days from receipt of the
+313 dealer's request. For purposes of this paragraph, a reasonable quantity of vehicles:
+314 (i) Is fair and equitable to all line-make dealers in this state; and
+315 (ii) Does not unfairly discriminate among line-make dealers in its allocation process.
+316 (B) This paragraph is not violated, however, if such failure is caused by acts or causes
+317 the occurrence of temporary international, national, or regional product or services
+318 shortages resulting from natural disaster; unavailability or scarcity of parts or service;
+319 labor strikes; supply chain disruptions; product recalls; or other factors and events
+320 beyond the control of the franchisor that temporarily reduce the supply of a franchisor
+321 or if a state or federal law, rule, or regulation necessitates modification of the allocation.
+322 (C) Nothing contained in this paragraph shall relieve a manufacturer, franchise or
+323 distributor from its obligations under paragraph (9) of subsection (b) of Code
+324 Section 10-1-661;"
+325 "(20) To take any materially adverse action against a dealer, including a dealer's ability
+326 to participate in or receive a benefit or payment owed from any incentive or
+327 reimbursement program, based on criteria it has established, implemented, or enforced
+328 for measuring the performance, including, but not limited to, sales or service
+329 performance, of a dealer unless such criteria:
+330 (A) Is fair, reasonable, and equitable; and
+S. B. 81
+- 13 -
+
+25 LC 39 4551
+331 (B) Is based on accurate and relevant information; or
+332 (21) To deny, delay payment for, restrict, or bill back a claim by a dealer for payment
+333 or reimbursement for incentives, hold-backs, sales or service promotion or other special
+334 program money, or any other amount owed to such dealer by the franchisor, if based
+335 solely on the dealer's compliance with a specific program requirement of the franchisor
+336 that would cause the dealer to violate a law or any properly promulgated rule or
+337 regulation of this state; or
+338 (22) To fail to provide to the dealer a written disclosure, which may be provided to a
+339 potential consumer of a new motor vehicle, of each accessory or function of the motor
+340 vehicle that may be initiated, updated, changed, or maintained by the manufacturer or
+341 distributor through remote means, and the charge to the consumer for the initiation,
+342 update, change, or maintenance that is known at the time of the transaction. A
+343 manufacturer or distributor may comply with this paragraph by notifying the dealer that
+344 the information is available on a public website or by other digital means."
+345 SECTION 6.
+346 Code Section 40-2-39 of the Official Code of Georgia Annotated, relating to registration and
+347 licensing of new motor vehicle dealers, temporary site permits, administrative fines, and
+348 penalty, is amended by revising paragraph (2) of subsection (b) as follows:
+349 "(2)(A) It shall be unlawful for any person to engage in any activity as a new motor
+350 vehicle dealer except at an established place of business which has been registered as
+351 such under this Code section and Code Section 40-2-38 or at a temporary site.
+352 (B) For purposes of this Code section, activity as a new motor vehicle dealer shall
+353 include:
+354 (i) Selling, leasing, offering to sell or lease, or negotiating binding terms with a retail
+355 consumer for the purchase or lease of a new motor vehicle;
+S. B. 81
+- 14 -
+
+25 LC 39 4551
+356 (ii) Soliciting, accepting, or receiving a deposit or other payment for the retail
+357 purchase or lease of a new motor vehicle;
+358 (iii) Soliciting, accepting, or processing a reservation from a retail consumer for a
+359 specific motor vehicle; or
+360 (iv) Soliciting, accepting, offering, or negotiating with a retail consumer a binding
+361 value for a motor vehicle being traded in as part of the purchase or lease of a new
+362 motor vehicle.
+363 (C) For purposes of this Code section, activity as a new motor vehicle dealer shall not
+364 include:
+365 (i) Facilitating the receipt of a deposit or a payment under a retail installment sale
+366 contract or lease on behalf of a dealer;
+367 (ii) The disclosure of a manufacturer's suggested retail price;
+368 (iii) The display of new motor vehicles for information or demonstration purposes
+369 only;
+370 (iv) The operation of a public website or other means of electronic communication
+371 that identifies to a consumer any conditional prices or financing rates, available
+372 financing sources, add-on product prices, or conditional trade-in values that are not
+373 binding on a dealer; or
+374 (v) Sales, leasing, marketing, or advertising activities of manufacturers, franchisors,
+375 and distributors by or through their line-make dealers in accordance with Article 22
+376 of Chapter 1 of Title 10."
+377 SECTION 7.
+378 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 81
+- 15 -
+
+[DELETED: 5L]
+[DELETED: 5L a c r f t t T m o f a f]
+[DELETED: 5L t s p i t p w a t t s c d w a s p s o c a i t c o o s o b o o f t b o t d f d t p o d a p t t d]
+[DELETED: 5L t o a t p a o b o a f m o f w b t d u 3 d w n t t f]
+[DELETED: 5L]
+[DELETED: 5L o w a t s o a d c f a a]
+[DELETED: 5L a t p a o b o o e c o b o c w s s f p i o p]
+[DELETED: 5L t d n p t c t b t d a]
+[DELETED: 5L s d d s v o a i i c o]
+[DELETED: 5L  A d d s v a i o t p a a d f c s o b u d s o i d d]
+[DELETED: 5L]
+[DELETED: 5L a i f a i C S 1 r t r o p p i t r o d i i t f o d w s s w p a t]
+[DELETED: 5L f i o u p ( o s ( o C p i o r a b o p o f a i o m t p i b n l t s o s]
+[DELETED: 5L w c t d t v a l o a p p r o c o m t i k a t t o t t  ]
+[DELETED: 5L]

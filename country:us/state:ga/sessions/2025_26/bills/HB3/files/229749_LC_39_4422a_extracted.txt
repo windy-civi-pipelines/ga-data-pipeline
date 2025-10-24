@@ -1,0 +1,277 @@
+Title: House Bill 3
+Official Title: House Bill 3
+Number of Sections: 1
+Source: versions - LC 39 4422/a
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4422
+By: Representative Au of the 50th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 5 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia
+2 Annotated, relating to Brady Law Regulations, so as to require universal background checks
+3 in all manner of firearm transfers; to provide for definitions; to provide for exceptions; to
+4 provide for criminal penalties; to provide for applicability; to provide for related matters; to
+5 repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Part 5 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated,
+9 relating to Brady Law Regulations, is amended by revising Code Section 16-11-171, relating
+10 to definitions, as follows:
+11 "16-11-171.
+12 As used in this part, the term:
+13 (1) 'Center' means the Georgia Crime Information Center within the Georgia Bureau of
+14 Investigation.
+15 (2) 'Dealer' means any person licensed as a dealer pursuant to 18 U.S.C. Section 921, et
+16 seq.
+H. B. 3
+- 1 -
+25 LC 39 4422
+17 (3) 'Firearm' means any weapon that is designed to or may readily be converted to expel
+18 a projectile by the action of an explosive or the frame or receiver of any such weapon,
+19 any firearm muffler or firearm silencer, or any destructive device as defined in 18 U.S.C.
+20 Section 921(a)(3).
+21 (4) 'Involuntarily hospitalized' means hospitalized as an inpatient in any mental health
+22 facility pursuant to Code Section 37-3-81 or hospitalized as an inpatient in any mental
+23 health facility as a result of being adjudicated mentally incompetent to stand trial or being
+24 adjudicated not guilty by reason of insanity at the time of the crime pursuant to Part 2 of
+25 Article 6 of Chapter 7 of Title 17.
+26 (5) 'NICS' means the National Instant Criminal Background Check System created by
+27 the federal 'Brady Handgun Violence Prevention Act' (P. L. No. 103-159).
+28 (6) 'Person' means an individual or any corporation, company, association, firm,
+29 partnership, club, organization, society, joint stock company, or other entity and shall
+30 include any entity that engages in business in this state, in whole or part, through internet
+31 or mail order sales.
+32 (7) 'Transferee' means a person who intends to receive a firearm from an unlicensed
+33 person.
+34 (8) 'Transferor' means an unlicensed person who intends to transfer a firearm.
+35 (9) 'Unlicensed person' means a person who is not validly licensed as a firearms dealer,
+36 manufacturer, or importer pursuant to 18 U.S.C. Section 921, et seq."
+37 SECTION 2.
+38 Said part is further amended by adding a new Code section to read as follows:
+39 "16-11-174.
+40 (a) No unlicensed person shall transfer a firearm unless such transfer is facilitated by a
+41 dealer in accordance with this Code section.
+H. B. 3
+- 2 -
+25 LC 39 4422
+42 (b)(1) A dealer who facilitates a firearm transfer on behalf of an unlicensed person shall
+43 use the same procedures and comply with all state and federal laws required by such
+44 dealer for the transfer of a firearm from the inventory of such dealer, including, but not
+45 limited to, completion of an NICS check and maintenance of records.
+46 (2) When an NICS check indicates that a transferee is not prohibited from receiving or
+47 possessing a firearm under state or federal law and all legal requirements to complete the
+48 transfer have been met, the dealer shall deliver the firearm to the transferee.
+49 (3) When an NICS check indicates that a transferee is prohibited from receiving or
+50 possessing a firearm under state or federal law, or if a dealer cannot otherwise lawfully
+51 deliver a firearm to a transferee, a dealer shall not complete the transfer and shall return
+52 a firearm to a transferor; provided, however, that, if an NICS check indicates that the
+53 transferor is prohibited from receiving or possessing a firearm, the dealer shall not return
+54 the firearm to the transferor.
+55 (c) A dealer shall be authorized to charge a reasonable fee to facilitate the transfer of a
+56 firearm pursuant to this Code section.
+57 (d) The provisions of this Code section shall not apply to:
+58 (1) A transfer of any:
+59 (A) Firearm, including any handgun with a matchlock, flintlock, percussion cap, or
+60 similar type of ignition system, manufactured in or before 1898, or any replica thereof,
+61 provided that such replica is not designed or redesigned to use rimfire or conventional
+62 center-fire fixed ammunition or to use rimfire or conventional center-fire fixed
+63 ammunition which is no longer manufactured in the United States and which is not
+64 readily available in the ordinary channels of commercial trade; or
+65 (B) Firearm which is a curio or relic as defined by 27 C.F.R. 178.11 in effect on
+66 January 1, 2025;
+67 (2) A transfer of a firearm by or to a law enforcement agency or officer, a person
+68 licensed or registered as a private detective business or private security business under
+H. B. 3
+- 3 -
+25 LC 39 4422
+69 Chapter 38 of Title 43, or a member of the armed forces of the United States, to the extent
+70 that such person is acting within the course and scope of his or her employment and
+71 official duties;
+72 (3) A transfer that is a loan or gift between spouses; between domestic partners; between
+73 parents and children, including stepparents and stepchildren; between siblings; between
+74 aunts, uncles, nieces, and nephews; or between grandparents and grandchildren, if the
+75 transferor has no reason to believe that the transferee will use or intends to use the firearm
+76 in a crime or that the transferee is prohibited from receiving or possessing a firearm under
+77 state or federal law;
+78 (4) A transfer to an executor, administrator, trustee, or personal representative of an
+79 estate or a trust that occurs by operation of law upon the death of an individual;
+80 (5) A temporary transfer that is necessary to prevent imminent death or great bodily
+81 harm, including harm to self, family, household members, or others, if the transferee
+82 possesses the firearm only as long as is reasonably necessary to prevent such imminent
+83 death or great bodily harm;
+84 (6) A transfer that is approved by the Attorney General under Section 5812 of the
+85 Internal Revenue Code of 1986;
+86 (7) A temporary transfer solely for the purpose of service or repair of a firearm; or
+87 (8) A temporary transfer if the transferor has no reason to believe that the transferee will
+88 use or intends to use the firearm in a crime or that the transferee is prohibited from
+89 receiving or possessing a firearm under state or federal law, provided that such transfer
+90 occurs:
+91 (A) While in the presence of the transferor;
+92 (B) At a shooting range or in a shooting gallery or other area designated for the
+93 purpose of target shooting; or
+94 (C) For the purposes of hunting, trapping, or fishing, if the transferor has no reason to
+95 believe that the transferee intends to use the firearm in a place where it is illegal and has
+H. B. 3
+- 4 -
+25 LC 39 4422
+96 reason to believe that the transferee will comply with all licensing and permit
+97 requirements for such hunting, trapping, or fishing.
+98 (e) A person who knowingly violates any provision of this Code section shall:
+99 (1) For a first offense, be guilty of a misdemeanor; or
+100 (2) For a second or subsequent offense, be guilty of a felony and, upon conviction, be
+101 punished by imprisonment for not less than one nor more than three years.
+102 (f) This Code section shall apply to transfers completed on or after July 1, 2025, and shall
+103 not apply to any transfer completed prior to such date."
+104 SECTION 3.
+105 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 3
+- 5 -
+[DELETED: 5L0]
+[DELETED: 5L  ' m a i o a c c a f]
+[DELETED: 5L f a o t u r o c c f]
+[DELETED: 5L]
+[DELETED: 5L t b t t t w c w a l a p]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4422
+House Bill 3
+By: Representative Au of the 50th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 5 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia
+2 Annotated, relating to Brady Law Regulations, so as to require universal background checks
+3 in all manner of firearm transfers; to provide for definitions; to provide for exceptions; to
+4 provide for criminal penalties; to provide for applicability; to provide for related matters; to
+5 repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Part 5 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated,
+9 relating to Brady Law Regulations, is amended by revising Code Section 16-11-171, relating
+10 to definitions, as follows:
+11 "16-11-171.
+12 As used in this part, the term:
+13 (1) 'Center' means the Georgia Crime Information Center within the Georgia Bureau of
+14 Investigation.
+15 (2) 'Dealer' means any person licensed as a dealer pursuant to 18 U.S.C. Section 921, et
+16 seq.
+H. B. 3
+- 1 -
+
+25 LC 39 4422
+17 (3) 'Firearm' means any weapon that is designed to or may readily be converted to expel
+18 a projectile by the action of an explosive or the frame or receiver of any such weapon,
+19 any firearm muffler or firearm silencer, or any destructive device as defined in 18 U.S.C.
+20 Section 921(a)(3).
+21 (4) 'Involuntarily hospitalized' means hospitalized as an inpatient in any mental health
+22 facility pursuant to Code Section 37-3-81 or hospitalized as an inpatient in any mental
+23 health facility as a result of being adjudicated mentally incompetent to stand trial or being
+24 adjudicated not guilty by reason of insanity at the time of the crime pursuant to Part 2 of
+25 Article 6 of Chapter 7 of Title 17.
+26 (5) 'NICS' means the National Instant Criminal Background Check System created by
+27 the federal 'Brady Handgun Violence Prevention Act' (P. L. No. 103-159).
+28 (6) 'Person' means an individual or any corporation, company, association, firm,
+29 partnership, club, organization, society, joint stock company, or other entity and shall
+30 include any entity that engages in business in this state, in whole or part, through internet
+31 or mail order sales.
+32 (7) 'Transferee' means a person who intends to receive a firearm from an unlicensed
+33 person.
+34 (8) 'Transferor' means an unlicensed person who intends to transfer a firearm.
+35 (9) 'Unlicensed person' means a person who is not validly licensed as a firearms dealer,
+36 manufacturer, or importer pursuant to 18 U.S.C. Section 921, et seq."
+37 SECTION 2.
+38 Said part is further amended by adding a new Code section to read as follows:
+39 "16-11-174.
+40 (a) No unlicensed person shall transfer a firearm unless such transfer is facilitated by a
+41 dealer in accordance with this Code section.
+H. B. 3
+- 2 -
+
+25 LC 39 4422
+42 (b)(1) A dealer who facilitates a firearm transfer on behalf of an unlicensed person shall
+43 use the same procedures and comply with all state and federal laws required by such
+44 dealer for the transfer of a firearm from the inventory of such dealer, including, but not
+45 limited to, completion of an NICS check and maintenance of records.
+46 (2) When an NICS check indicates that a transferee is not prohibited from receiving or
+47 possessing a firearm under state or federal law and all legal requirements to complete the
+48 transfer have been met, the dealer shall deliver the firearm to the transferee.
+49 (3) When an NICS check indicates that a transferee is prohibited from receiving or
+50 possessing a firearm under state or federal law, or if a dealer cannot otherwise lawfully
+51 deliver a firearm to a transferee, a dealer shall not complete the transfer and shall return
+52 a firearm to a transferor; provided, however, that, if an NICS check indicates that the
+53 transferor is prohibited from receiving or possessing a firearm, the dealer shall not return
+54 the firearm to the transferor.
+55 (c) A dealer shall be authorized to charge a reasonable fee to facilitate the transfer of a
+56 firearm pursuant to this Code section.
+57 (d) The provisions of this Code section shall not apply to:
+58 (1) A transfer of any:
+59 (A) Firearm, including any handgun with a matchlock, flintlock, percussion cap, or
+60 similar type of ignition system, manufactured in or before 1898, or any replica thereof,
+61 provided that such replica is not designed or redesigned to use rimfire or conventional
+62 center-fire fixed ammunition or to use rimfire or conventional center-fire fixed
+63 ammunition which is no longer manufactured in the United States and which is not
+64 readily available in the ordinary channels of commercial trade; or
+65 (B) Firearm which is a curio or relic as defined by 27 C.F.R. 178.11 in effect on
+66 January 1, 2025;
+67 (2) A transfer of a firearm by or to a law enforcement agency or officer, a person
+68 licensed or registered as a private detective business or private security business under
+H. B. 3
+- 3 -
+
+25 LC 39 4422
+69 Chapter 38 of Title 43, or a member of the armed forces of the United States, to the extent
+70 that such person is acting within the course and scope of his or her employment and
+71 official duties;
+72 (3) A transfer that is a loan or gift between spouses; between domestic partners; between
+73 parents and children, including stepparents and stepchildren; between siblings; between
+74 aunts, uncles, nieces, and nephews; or between grandparents and grandchildren, if the
+75 transferor has no reason to believe that the transferee will use or intends to use the firearm
+76 in a crime or that the transferee is prohibited from receiving or possessing a firearm under
+77 state or federal law;
+78 (4) A transfer to an executor, administrator, trustee, or personal representative of an
+79 estate or a trust that occurs by operation of law upon the death of an individual;
+80 (5) A temporary transfer that is necessary to prevent imminent death or great bodily
+81 harm, including harm to self, family, household members, or others, if the transferee
+82 possesses the firearm only as long as is reasonably necessary to prevent such imminent
+83 death or great bodily harm;
+84 (6) A transfer that is approved by the Attorney General under Section 5812 of the
+85 Internal Revenue Code of 1986;
+86 (7) A temporary transfer solely for the purpose of service or repair of a firearm; or
+87 (8) A temporary transfer if the transferor has no reason to believe that the transferee will
+88 use or intends to use the firearm in a crime or that the transferee is prohibited from
+89 receiving or possessing a firearm under state or federal law, provided that such transfer
+90 occurs:
+91 (A) While in the presence of the transferor;
+92 (B) At a shooting range or in a shooting gallery or other area designated for the
+93 purpose of target shooting; or
+94 (C) For the purposes of hunting, trapping, or fishing, if the transferor has no reason to
+95 believe that the transferee intends to use the firearm in a place where it is illegal and has
+H. B. 3
+- 4 -
+
+25 LC 39 4422
+96 reason to believe that the transferee will comply with all licensing and permit
+97 requirements for such hunting, trapping, or fishing.
+98 (e) A person who knowingly violates any provision of this Code section shall:
+99 (1) For a first offense, be guilty of a misdemeanor; or
+100 (2) For a second or subsequent offense, be guilty of a felony and, upon conviction, be
+101 punished by imprisonment for not less than one nor more than three years.
+102 (f) This Code section shall apply to transfers completed on or after July 1, 2025, and shall
+103 not apply to any transfer completed prior to such date."
+104 SECTION 3.
+105 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 3
+- 5 -
+
+[DELETED: 5L0]
+[DELETED: 5L  ' m a i o a c c a f]
+[DELETED: 5L f a o t u r o c c f]
+[DELETED: 5L]
+[DELETED: 5L t b t t t w c w a l a p]

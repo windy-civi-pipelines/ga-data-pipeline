@@ -1,0 +1,318 @@
+25 LC 56 0308
+House Bill 423
+By: Representatives Wade of the 9th, Donatucci of the 105th, Reeves of the 99th, Silcox of the
+53rd, Hilton of the 48th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 12 of Chapter 3 of Title 38 and Part 4 of Article 2 of Chapter 5 of Title 46
+2 of the Official Code of Georgia Annotated, relating to emergency communications authority
+3 and emergency telephone number 9-1-1 system, respectively, so as to provide for Next
+4 Generation 9-1-1 systems and services; to revise and provide for definitions; to revise the
+5 duties and responsibilities of the Georgia Emergency Communications Authority as relevant
+6 to Next Generation 9-1-1 systems and services; to add members to the board of directors of
+7 such authority; to require all new 9-1-1 systems conform to wireless enhanced 9-1-1 service
+8 or NG9-1-1 service standards; to revise the role of the executive director of the authority; to
+9 provide for related matters; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 PART I
+12 SECTION 1-1.
+13 Article 12 of Chapter 3 of Title 38 of the Official Code of Georgia Annotated, relating to
+14 emergency communications authority, is amended by revising Code Section 38-3-181,
+15 relating to definitions, as follows:
+H. B. 423
+- 1 -
+
+25 LC 56 0308
+16 "38-3-181.
+17 As used in this article, the term:
+18 (1) 'Authority' means the Georgia Emergency Communications Authority established
+19 pursuant to Code Section 38-3-182.
+20 (2) 'Board of directors' or 'board' means the governing body of the authority.
+21 (2.1) 'Commonly accepted standards' means the technical standards followed by the
+22 communications industry for network, device, and internet protocol connectivity that
+23 enables interoperability. Such standards are developed and approved by a standards
+24 development organization that is accredited by an American standards body, such as the
+25 Association of Public-Safety Communications Officials, the Internet Engineering Task
+26 Force, or the National Emergency Number Association.
+27 (2.2) 'Emergency medical dispatch' means the management of requests for emergency
+28 medical assistance by utilizing a system of:
+29 (A) A tiered response or priority dispatching of emergency medical resources based
+30 on the level of medical assistance appropriate for the victim; and
+31 (B) Prearrival first aid or other medical instructions given by trained
+32 telecommunicators responsible for receiving 9-1-1 calls and dispatching public safety
+33 agencies.
+34 (3) 'Emergency 9-1-1 system' or '9-1-1 system' has the same meaning as provided set
+35 forth in Code Section 46-5-122.
+36 (4) 'Enhanced ZIP Code' has the same meaning as provided set forth in Code Section
+37 46-5-122.
+38 (4.1) 'ESInet' means a state emergency services IP network which is an NG9-1-1 network
+39 contracted by the Georgia Emergency Communications Authority to one or more
+40 NG9-1-1 system providers for the purpose of securely receiving 9-1-1 requests for
+41 emergency assistance, transferring 9-1-1 requests for emergency assistance and all
+H. B. 423
+- 2 -
+
+25 LC 56 0308
+42 associated data, providing centralized network management and security monitoring, and
+43 enabling call routing using GIS data.
+44 (4.2) 'Geographic information systems data' or 'GIS data' means digital geospatial
+45 information that can be used to assist in locating a person who places a 9-1-1 request for
+46 emergency assistance, including, but not limited to, mapped data sets, such as public
+47 safety answering point boundaries; boundaries; site structure address points; road
+48 centerlines; emergency service boundaries; and other additional data.
+49 (5) 'Local government' means a county, municipality, regional authority, or consolidated
+50 government in this state that operates or contracts for the operation of a public safety
+51 answering point and has adopted a resolution or ordinance pursuant to Code
+52 Section 46-5-133 to impose 9-1-1 charges under Code Section 46-5-134.
+53 (5.1) 'Next Generation core services' means services required to deliver secure,
+54 interoperable, multimedia-capable services to public safety answering points, seamlessly
+55 and without the need for proprietary interfaces.
+56 (6) 'Next Generation 9-1-1' or 'NG911' 'NG9-1-1' is a secure, nationwide, interoperable,
+57 standards-based, all Internet protocol emergency communications infrastructure enabling
+58 end-to-end transmission of all types of data, including, but not limited to, voice and
+59 multimedia communications from the public to a public safety answering point. means
+60 an internet protocol based system that:
+61 (A) Ensures interoperability;
+62 (B) Is secure;
+63 (C) Provides resiliency and redundancy;
+64 (D) Employs commonly accepted standards;
+65 (E) Enables 9-1-1 public safety answering points to receive, process, and analyze all
+66 types of 9-1-1 requests for emergency assistance;
+67 (F) Acquires and integrates additional information useful for handling 9-1-1 requests
+68 for emergency assistance; and
+H. B. 423
+- 3 -
+
+25 LC 56 0308
+69 (G) Supports the sharing of information related to 9-1-1 requests for emergency
+70 assistance among public safety answering points and emergency response providers.
+71 (6.1) 'Next Generation 9-1-1 system provider' or 'NG9-1-1 system provider' means an
+72 entity that provides a Next Generation 9-1-1 system to a public safety answering point.
+73 (7) '9-1-1 charge' has the same meaning as provided set forth in Code Section 46-5-122.
+74 (7.1) '9-1-1 request for emergency assistance' means a communication, such as voice,
+75 text, picture, multimedia, or any other type of data, that is sent to a 9-1-1 public safety
+76 answering point for the purpose of requesting emergency assistance.
+77 (8) 'Primary public safety answering point' means the first point of reception of a 9-1-1
+78 request for emergency assistance by a facility that has been designated to receive 9-1-1
+79 requests for emergency assistance and route such requests to emergency service
+80 personnel as defined in 47 U.S.C.A. Section 222.
+81 (8)(8.1) 'Public safety answering point' has the same meaning as provided set forth in
+82 Code Section 46-5-122.
+83 (9) 'Service supplier' has the same meaning as provided set forth in Code Section
+84 46-5-122.
+85 (10) 'Telephone subscriber' has the same meaning as provided set forth in Code Section
+86 46-5-122.
+87 (11) 'Wireless enhanced 9-1-1 charge' has the same meaning as provided set forth in
+88 Code Section 46-5-122."
+89 SECTION 1-2.
+90 Said article is further amended by revising subsection (c) and paragraph (1) of subsection (d)
+91 of Code Section 38-3-182, relating to establishment of the Georgia Emergency
+92 Communications Authority, purpose, duties and responsibilities, board of directors, perpetual
+93 existence, power and authority, operation, and regulation, as follows:
+H. B. 423
+- 4 -
+
+25 LC 56 0308
+94 "(c) In addition to the purposes specified in subsection (b) of this Code section, the
+95 authority shall have the duties and responsibilities to:
+96 (1) Apply for, receive, and use federal grants or state grants or both;
+97 (2) Study, evaluate, and recommend, and enforce technology standards commonly
+98 accepted standards for a state-wide NG9-1-1 system the regional and state-wide provision
+99 of a public safety communications network and 9-1-1 system;
+100 (3) Identify any changes necessary to accomplish more effective and efficient 9-1-1
+101 service across this state, including consolidation and interoperability of 9-1-1 systems;
+102 (4) Identify any changes necessary in the assessment and collection of fees under Part 4
+103 of Article 2 of Chapter 5 of Title 46;
+104 (5) Develop, offer, or make recommendations to the Georgia Public Safety Training
+105 Center, Georgia Peace Officer Standards and Training Council, and other state agencies
+106 as to training that should be provided to telecommunicators, trainers, supervisors, and
+107 directors of public safety answering points;
+108 (6) Recommend minimum standards for operation of public safety answering points;
+109 (7) Collect data and statistics regarding the performance of public safety answering
+110 points;
+111 (8) Identify any necessary changes or enhancements to develop and deploy NG911
+112 NG9-1-1 statewide state wide; and
+113 (9) Upon request by a public safety answering point, provide assistance to such public
+114 safety answering point with its locally managed processes to be regarded as Logan's List:
+115 the collection, storage, retrieval, and dissemination of information voluntarily submitted
+116 to a public safety answering point which indicates an individual has a physical, mental,
+117 or neurological condition which impedes his or her ability to communicate with any law
+118 enforcement officer or emergency responder.;
+H. B. 423
+- 5 -
+
+25 LC 56 0308
+119 (10) Administer the deployment of a 9-1-1 service for emerging communications
+120 technologies, including, but not limited to, the state ESInet and Next Generation core
+121 services;
+122 (11) Establish and operate a network management center in coordination with
+123 cybersecurity subject matter experts to protect the state ESInet, Next Generation core
+124 services, and public safety answering points;
+125 (12) Monitor the state ESInet performance and service provider adherence to commonly
+126 accepted standards;
+127 (13) Establish cooperative purchasing agreements or other contracts for the procurement
+128 of goods and services, including, but not limited to, call-handling equipment, computer
+129 aided dispatch, data management, and logging recorders;
+130 (14) Coordinate, adopt, and communicate all necessary technical standards and
+131 requirements to ensure an effective state-wide interconnected and interoperable state
+132 ESInet;
+133 (15) Coordinate, adopt, and communicate all necessary technical standards and
+134 requirements for GIS data related to NG9-1-1;
+135 (16) Collect, manage, and analyze 9-1-1 requests for emergency assistance data delivered
+136 to the state ESInet for the purpose of monitoring state ESInet and Next Generation core
+137 services performance;
+138 (17) Coordinate outreach and education programs on how the public and emergency
+139 response providers can best use NG9-1-1 and the capabilities and usefulness of NG9-1-1;
+140 (18) Coordinate with rural and urban 9-1-1 public safety answering points, regional
+141 authorities, local authorities, and other relevant stakeholders to develop a plan for the
+142 implementation of NG9-1-1;
+143 (19) Coordinate with rural and urban 9-1-1 public safety answering points, regional
+144 authorities, local authorities, and other relevant stakeholders to prepare and submit
+145 applications for eligible grant funding related to NG9-1-1;
+H. B. 423
+- 6 -
+
+25 LC 56 0308
+146 (20) Promote interoperability between 9-1-1 public safety answering points that are
+147 deploying or have deployed Next Generation 9-1-1 and emergency response providers,
+148 including users of the nation-wide public safety broadband network;
+149 (21) Coordinate with adjoining states, Native American tribes, and federal entities to
+150 establish and maintain NG9-1-1; and
+151 (22) Develop recommendations for the most efficient and effective short-term and
+152 long-term implementation and maintenance of NG9-1-1.
+153 (d)(1) Control and management of the authority shall be vested in a board of directors
+154 which shall consist of the following:
+155 (A) The commissioner of public safety or his or her designee;
+156 (B) The commissioner of revenue or his or her designee;
+157 (C) The director of the Georgia Public Safety Training Center or his or her designee;
+158 (D) Three members appointed by the Governor who shall be 9-1-1 directors, each of
+159 whom shall be currently employed by a public safety answering point. The
+160 Georgia 9-1-1 Directors Association, the Georgia Chapter of the Association of Public
+161 Safety Communications Officials, and the Georgia Chapter of the National Emergency
+162 Number Association may provide recommendations to the Governor for such
+163 appointments;
+164 (E) One member appointed by the Governor who shall be an elected member of a
+165 county governing authority that operates or contracts for the operation of a public safety
+166 answering point. The Association County Commissioners of Georgia may provide
+167 recommendations to the Governor for such appointment;
+168 (F) One member appointed by the Governor who shall be a county manager, county
+169 administrator, or finance officer from a county that operates or contracts for the
+170 operation of a public safety answering point. The Association County Commissioners
+171 of Georgia may provide recommendations to the Governor for such appointment;
+H. B. 423
+- 7 -
+
+25 LC 56 0308
+172 (G) One member appointed by the Governor who shall be an elected member of a city
+173 governing authority that operates or contracts for the operation of a public safety
+174 answering point. The Georgia Municipal Association may provide recommendations
+175 to the Governor for such appointment;
+176 (H) One member appointed by the Governor who shall be a city manager, city
+177 administrator, or finance officer from a city that operates or contracts for the operation
+178 of a public safety answering point. The Georgia Municipal Association may provide
+179 recommendations to the Governor for such appointment;
+180 (I) Two members from the telecommunications industry who shall be appointed by the
+181 Governor;
+182 (J) One member appointed by the Governor who is a sheriff responsible for managing
+183 a public safety answering point. The Georgia Sheriffs' Association may provide
+184 recommendations to the Governor for such appointment;
+185 (K) One police chief appointed by the Governor who is serving a local government.
+186 The Georgia Association of Chiefs of Police may provide recommendations to the
+187 Governor for such appointment; and
+188 (L) One fire chief appointed by the Governor who is serving a local government. The
+189 Georgia Association of Fire Chiefs may provide recommendations to the Governor for
+190 such appointment.;
+191 (M) The executive director of the Georgia Technology Authority or his or her
+192 designee;
+193 (N) One member who is a subject matter expert in cybersecurity who shall be
+194 appointed by the Governor; and
+195 (O) One member who is a subject matter expert in geographic information systems
+196 data who shall be appointed by the Governor."
+H. B. 423
+- 8 -
+
+25 LC 56 0308
+197 SECTION 1-3.
+198 Said article is further amended by revising Code Section 38-3-183, relating to appointment
+199 of executive director, role, and additional staffing, as follows:
+200 "38-3-183.
+201 The director of the Georgia Emergency Management and Homeland Security Agency shall
+202 appoint an executive director, subject to approval by the board, who shall be the
+203 administrative head of the authority, and shall establish the salary of the executive director.
+204 The executive director shall serve at the pleasure of such director. The executive director
+205 shall be considered the state 9-1-1 administrator for the purposes of relevant state and
+206 federal law and program requirements. The executive director, with the concurrence and
+207 approval of such director, shall hire officers, agents, and employees; prescribe their duties,
+208 responsibilities, and qualifications; set their salaries; and perform such other duties as may
+209 be prescribed by the authority. Such officers, agents, and employees shall serve at the
+210 pleasure of the executive director."
+211 PART II
+212 SECTION 2-1.
+213 Part 4 of Article 2 of Chapter 5 of Title 46 of the Official Code of Georgia Annotated,
+214 relating to emergency telephone number 9-1-1 system, is amended by adding a new
+215 paragraph to Code Section 46-5-122, relating to definitions, to read as follows:
+216 "(10.1) 'Next Generation 9-1-1' or 'NG9-1-1' shall have the same meaning as set forth in
+217 Code Section 38-3-181."
+H. B. 423
+- 9 -
+
+25 LC 56 0308
+218 SECTION 2-2.
+219 Said part is further amended by revising paragraph (1) of subsection (a) of Code Section
+220 46-5-124, relating to guidelines for implementing state-wide emergency 9-1-1 system and
+221 training and equipment standards, as follows:
+222 "(1) Steps of action necessary for public agencies to effect the necessary coordination,
+223 regulation, and development preliminary to a 9-1-1 system that shall incorporate the
+224 requirements of each public service safety agency in each local government of Georgia;"
+225 SECTION 2-3.
+226 Said part is further amended by revising Code Section 46-5-126, relating to cooperation by
+227 commission and telephone industry, as follows:
+228 "46-5-126.
+229 The authority shall coordinate its activities with those of the Public Service Commission,
+230 commission which shall encourage the Georgia telephone industry to activate facility
+231 modification plans for a timely 9-1-1 support the timely implementation of NG9-1-1."
+232 SECTION 2-4.
+233 Said part is further amended by revising Code Section 46-5-127, relating to approval of 9-1-1
+234 systems by agency and written confirmation by authority required for 9-1-1 systems
+235 established on or after January 1, 2019, as follows:
+236 "46-5-127.
+237 (a) After January 1, 1978, and prior to January 1, 2019, no emergency 9-1-1 system shall
+238 be established, and no existing system shall be expanded to provide wireless
+239 enhanced 9-1-1 service, without written confirmation by the Georgia Emergency
+240 Management and Homeland Security Agency that the local plan conforms to the guidelines
+241 and procedures provided for in Code Section 46-5-124.
+H. B. 423
+- 10 -
+
+25 LC 56 0308
+242 (b) On or after January 1, 2019, and prior to July 1, 2025, no emergency 9-1-1 system shall
+243 be established, and no existing system shall be expanded to provide wireless
+244 enhanced 9-1-1 service, without written confirmation by the authority that the local plan
+245 conforms to the guidelines and procedures provided for in Code Section 46-5-124. The
+246 authority shall not deny the establishment of a new system or an expansion to provide
+247 wireless enhanced 9-1-1 service if the local plan conforms to the guidelines and procedures
+248 provided for in Code Section 46-5-124.
+249 (c) On or after July 1, 2025, no emergency 9-1-1 system shall be established, and no
+250 existing system shall be expanded to provide wireless enhanced 9-1-1 service or NG9-1-1
+251 service, without written confirmation by the authority that the local plan conforms to the
+252 guidelines and procedures provided for in Code Section 46-5-124. The authority shall not
+253 deny establishment of a new system or an expansion to provide wireless enhanced 9-1-1
+254 service or NG9-1-1 service if the local plan conforms to the guidelines and procedures
+255 provided for in Code Section 46-5-124."
+256 PART III
+257 SECTION 3-1.
+258 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 423
+- 11 -
+
+[DELETED: 5L9,5,9,htht3,8,dt c a i a b r C S 3]
+[DELETED: 5L  P f a o o m i g b t b t G E C A t o o m s p f t p o s r r f a t 9 r f e a a a]
+[DELETED: 5L  ' i s d o ' d m d g a p b b s s a p r p a h a a r o o p t C  ' G c s m s r t d s]
+[DELETED: 5L 9 f e a a r s r t e s C S 3 r t e o t G E]
+[DELETED: 5L]
+[DELETED: 5L  A t d o a 9 s f e c  E a o a n m c i c w  C a a c a n t s a  C a a c a n t s a l a a o r s t p a s]
+[DELETED: 5L s b c e b a p s a p  T A m p r t t G f s o f o f a c t o o c f t]
+[DELETED: 5L  O m a b t G w s b a c m c p s a p  T G S A m p  T e d o t G T A o h o h  O m w i a s m e i c w s b]
+[DELETED: 5L a e d s t a b t b w s b t t e t n 9 s i a b a a n]
+[DELETED: 5L b a a w c b a r f 9 s e a n e s s b e t p w 9 s w w c b t G E]
+[DELETED: 5L e a n e s s b e t p w]

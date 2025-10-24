@@ -1,0 +1,110 @@
+Title: Senate Bill 104
+Official Title: Senate Bill 104
+Number of Sections: 1
+Source: versions - As Introduced LC 61 0100
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 61 0100
+By: Senators Anavitarte of the 31st, Albers of the 56th, Gooch of the 51st, Walker III of the
+20th, Robertson of the 29th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 29 of Title 50 of the Official Code of Georgia Annotated, relating to
+2 information technology relative to state government, so as to prohibit the use or installation
+3 of any artificial intelligence system on state equipment when the company that developed or
+4 deployed such artificial intelligence system is associated with the People's Republic of China;
+5 to provide definitions; to provide for related matters; to repeal conflicting laws; and for other
+6 purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Chapter 29 of Title 50 of the Official Code of Georgia Annotated, relating to information
+10 technology relative to state government, is amended by adding a new article to read as
+11 follows:
+12 "ARTICLE 3
+13 50-29-30.
+14 As used in this article, the term:
+S. B. 104
+- 1 -
+25 LC 61 0100
+15 (1) 'Agency' means the State of Georgia and any branch, department, agency, division,
+16 board, bureau, entity, official, employee, or agent of the state and any county,
+17 municipality, school district, consolidated government, or authority created by or
+18 pursuant to the Constitution of the State of Georgia or any general or local law of this
+19 state and any official, employee, or agent of any such entity.
+20 (2) 'Artificial intelligence system' means an engineered or machine based system that
+21 emulates the capability of a person to receive audio, visual, text, or any other form of
+22 information and use the information received to emulate a human cognitive process,
+23 including, but not limited to, learning, generalizing, reasoning, planning, predicting,
+24 acting, or communicating; provided, however, that artificial intelligence systems may
+25 vary in the forms of information they can receive and in the human cognitive processes
+26 they can emulate.
+27 50-29-31.
+28 No agency shall install or use any artificial intelligence system on state equipment if the
+29 company that developed or deployed such artificial intelligence system is directly or
+30 indirectly owned or operated by the People's Republic of China or is domiciled in, has its
+31 principal place of business in, has headquarters in, or is organized under the laws of the
+32 People's Republic of China."
+33 SECTION 2.
+34 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 104
+- 2 -
+[DELETED: 5L]
+[DELETED: 5L b e o e o a o t s a a c s d c g o a c b o]
+
+
+================================================================================
+
+Raw Text:
+25 LC 61 0100
+Senate Bill 104
+By: Senators Anavitarte of the 31st, Albers of the 56th, Gooch of the 51st, Walker III of the
+20th, Robertson of the 29th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 29 of Title 50 of the Official Code of Georgia Annotated, relating to
+2 information technology relative to state government, so as to prohibit the use or installation
+3 of any artificial intelligence system on state equipment when the company that developed or
+4 deployed such artificial intelligence system is associated with the People's Republic of China;
+5 to provide definitions; to provide for related matters; to repeal conflicting laws; and for other
+6 purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Chapter 29 of Title 50 of the Official Code of Georgia Annotated, relating to information
+10 technology relative to state government, is amended by adding a new article to read as
+11 follows:
+12 "ARTICLE 3
+13 50-29-30.
+14 As used in this article, the term:
+S. B. 104
+- 1 -
+
+25 LC 61 0100
+15 (1) 'Agency' means the State of Georgia and any branch, department, agency, division,
+16 board, bureau, entity, official, employee, or agent of the state and any county,
+17 municipality, school district, consolidated government, or authority created by or
+18 pursuant to the Constitution of the State of Georgia or any general or local law of this
+19 state and any official, employee, or agent of any such entity.
+20 (2) 'Artificial intelligence system' means an engineered or machine based system that
+21 emulates the capability of a person to receive audio, visual, text, or any other form of
+22 information and use the information received to emulate a human cognitive process,
+23 including, but not limited to, learning, generalizing, reasoning, planning, predicting,
+24 acting, or communicating; provided, however, that artificial intelligence systems may
+25 vary in the forms of information they can receive and in the human cognitive processes
+26 they can emulate.
+27 50-29-31.
+28 No agency shall install or use any artificial intelligence system on state equipment if the
+29 company that developed or deployed such artificial intelligence system is directly or
+30 indirectly owned or operated by the People's Republic of China or is domiciled in, has its
+31 principal place of business in, has headquarters in, or is organized under the laws of the
+32 People's Republic of China."
+33 SECTION 2.
+34 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 104
+- 2 -
+
+[DELETED: 5L]
+[DELETED: 5L b e o e o a o t s a a c s d c g o a c b o]

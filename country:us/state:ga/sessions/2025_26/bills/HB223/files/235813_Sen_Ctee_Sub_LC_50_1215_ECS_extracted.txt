@@ -1,0 +1,851 @@
+Title: The Senate Committee on Finance offered the following
+Official Title: The Senate Committee on Finance offered the following
+Number of Sections: 1
+Source: versions - Sen Ctee Sub LC 50 1215-ECS
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 1215-ECS
+substitute to HB 223:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 48 of the Official Code of Georgia Annotated, relating to revenue and
+2 taxation, so as to authorize certain local governing authorities to provide temporary tax relief
+3 from ad valorem taxes levied for the harvest or sale of standing timber from eligible timber
+4 property that was severely damaged or destroyed in certain disaster areas; to provide for
+5 conditions and procedures; to provide for the establishment of a certification form; to provide
+6 for audits; to provide for grants to such local governing authorities to offset the loss of certain
+7 revenues resulting from certain disaster damage to standing timber and such temporary tax
+8 relief; to provide for an appropriations contingency; to provide for a grant cap; to provide for
+9 the calculation of equalized adjusted property tax digests; to require the establishment of
+10 criteria regarding damage or destruction; to exclude from the calculation of taxable net
+11 income certain disaster relief or assistance grant program payments and crop insurance
+12 proceeds for agricultural losses suffered due to Hurricane Helene; to provide for refundable
+13 income tax credits for certain timber producers based on certain casualty losses related to
+14 Hurricane Helene; to provide for transferability of such credits; to provide for an aggregate
+15 annual cap; to provide for terms and conditions; to provide for credit preapproval; to provide
+16 for legislative findings; to provide for definitions; to provide for a sales and use tax
+17 exemption for a limited period of time for building materials used to repair or replace
+18 greenhouses and real property structures or fixtures used exclusively for the production of
+- 1 -
+25 LC 50 1215-ECS
+19 animals; to provide for rules and regulations; to provide for definitions; to provide for related
+20 matters; to provide for a short title and legislative findings and intent; to provide for an
+21 effective date; to repeal conflicting laws; and for other purposes.
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+23 PART I
+24 SECTION 1-1.
+25 This part shall be known and may be cited as the "Timberlands Recovery, Exemption, and
+26 Earnings Stability (TREES) Act."
+27 SECTION 1-2.
+28 The General Assembly finds that:
+29 (1) Hurricane Helene has had a catastrophic impact on the citizens and the economy of
+30 many areas in this state, has particularly devastated the timber industry on which the
+31 citizens of southwest Georgia are heavily dependent for their livelihood by reducing or
+32 eliminating the long-held investments in standing timber and timberlands of businesses and
+33 families, and has created both a public fire hazard and a danger of insect infestations due
+34 to the massive amounts of downed timber caused by the severity of this natural disaster;
+35 (2) As of November, 2024, the estimated losses to standing timber caused by Hurricane
+36 Helene as measured by the State Forestry Commission were nearly $1.3 billion;
+37 (3) Timberlands as investments are unique as an agriculture product in this state, as timber
+38 products often take ten years or longer to realize any return on the investment;
+39 (4) Many counties, municipalities, and local school districts rely on the taxes levied at the
+40 time of timber's harvest or sale pursuant to Code Section 48-5-7.5, but with the destruction
+41 of timberlands throughout this state, that tax revenue will likely not be realized; and
+- 2 -
+25 LC 50 1215-ECS
+42 (5) It is the intent of the General Assembly to authorize local governing authorities to
+43 provide temporary tax relief from the taxes levied pursuant to Code 48-5-7.5 so that the
+44 timber industry, and the businesses and families that provide timber products to such
+45 industry, will realize a reduced cost for growing new product and recovering from the
+46 devastating effects of Hurricane Helene. These reduced costs will help stabilize the market
+47 and allow for quicker harvesting and recovery of lands where some timber is still
+48 salvageable.
+49 SECTION 1-3.
+50 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+51 amended by adding a new Code section to read as follows:
+52 "48-5-33.1.
+53 (a) As used in this Code section, the term:
+54 (1) 'Disaster area' means any county designated for public assistance or individual and
+55 public assistance pursuant to the Federal Emergency Management Agency
+56 FEMA-4830-DR Georgia disaster declaration as of November 4, 2024.
+57 (2) 'Eligible governing authority' means the governing authority of any county,
+58 consolidated government, or municipality or the governing body of any county or
+59 independent board of education that is located in whole or in part in the disaster area.
+60 (3) 'Eligible standing timber' means any timber which is subject to taxation pursuant to
+61 Code Section 48-5-7.5 that is on eligible timber property.
+62 (4) 'Eligible timber property' means any parcel, tract, stand, or other identifiable unit of
+63 property that:
+64 (A) Contains standing timber which would, in the ordinary course of business, be sold
+65 or harvested;
+66 (B) Is timberland property as such term is defined in Code Section 48-5-600;
+67 (C) Is located within the disaster area; and
+- 3 -
+25 LC 50 1215-ECS
+68 (D) Was severely damaged or destroyed as a result of the natural disaster.
+69 (5) 'Severely damaged or destroyed' means damaged to the extent which would require
+70 salvage thinning, a salvage operation, or clear-cut of eligible standing timber based on
+71 criteria established by the State Forestry Commission pursuant to subsection (k) of this
+72 Code section.
+73 (b) Pursuant to Article VII, Section I, Paragraph III(h) of the Constitution of Georgia and
+74 in accordance with the provisions of this Code section, an eligible governing authority may
+75 grant temporary tax relief from taxes levied for eligible standing timber pursuant to Code
+76 Section 48-5-7.5 during:
+77 (1) The final quarter of 2024; and
+78 (2) Each quarter of 2025.
+79 (c) To grant the temporary tax relief authorized by subsection (b) of this Code section, an
+80 eligible governing authority shall adopt a resolution or ordinance that:
+81 (1) Declares that its jurisdiction contains eligible timber property;
+82 (2) Consents to grant the tax relief provided under this Code section;
+83 (3) Requires that taxpayers seeking such tax relief submit the certification established
+84 pursuant to subsection (f) of this Code section and that such certification shall be
+85 accepted by the eligible governing authority; and
+86 (4) Waives the levy and collection of payment of taxes otherwise due pursuant to Code
+87 Section 48-5-7.5 for the final quarter of 2024 and during each quarter of 2025.
+88 (d) Upon adoption of the resolution or ordinance provided under subsection (c) of this
+89 Code section, no taxpayer who submits the certification established pursuant to
+90 subsection (f) of this Code section shall be required to pay taxes otherwise levied pursuant
+91 to Code Section 48-5-7.5 for eligible standing timber during the final quarter of 2024 or
+92 during any quarter of 2025.
+93 (e) In the event taxes were levied and paid by a taxpayer pursuant to Code
+94 Section 48-5-7.5 for eligible standing timber during the final quarter of 2024 or during any
+- 4 -
+25 LC 50 1215-ECS
+95 quarter of 2025, the eligible governing authority to which such taxes were payable or
+96 collected shall provide that a refund be issued to such taxpayer for the total amount paid
+97 in the same manner as otherwise provided under Code Section 48-5-380. If such taxes
+98 were levied but unpaid, the eligible governing authority to which such taxes are payable
+99 or collected shall waive payment and collection as provided in the resolution or ordinance
+100 adopted pursuant to subsection (c) of this Code section, and shall be provided by the tax
+101 collector or tax commissioner an updated tax bill reflecting that the amount is no longer
+102 due.
+103 (f)(1) A certification form shall be established by the State Forestry Commission in
+104 consultation with the commissioner and Association County Commissioners of Georgia
+105 within ten days of the effective of this Code section. In addition to requiring necessary
+106 identification and location information, such certification shall:
+107 (A) Require such taxpayer to declare that their otherwise taxable property is eligible
+108 standing timber;
+109 (B) Require such taxpayer to declare that they are making a claim for temporary tax
+110 relief for eligible standing timber pursuant to this Code section; and
+111 (C) Allow the taxpayer to attach photographs of their eligible timber property,
+112 verification by a registered forester that the otherwise taxable property is eligible timber
+113 property, or other supporting documentation.
+114 (2) Such certification shall be completed by the taxpayer and shall be submitted to the
+115 eligible governing authority as provided in the resolution or ordinance adopted pursuant
+116 to subsection (c) of this Code section.
+117 (3) The State Forestry Commission shall distribute or otherwise make available such
+118 certification form to taxpayers.
+119 (g) The State Forestry Commission is authorized to conduct audits of property for
+120 compliance with this Code section at the request of the tax collector or tax commissioner
+121 for an eligible governing authority. In the event the State Forestry Commission conducts
+- 5 -
+25 LC 50 1215-ECS
+122 an audit and finds that the temporary tax relief granted to a taxpayer pursuant to this Code
+123 section was improper, the State Forestry Commission shall report such findings to the tax
+124 collector or tax commissioner who may pursue all remedies available by law as necessary
+125 to recapture the tax that would have been due but for being wrongfully claimed by a
+126 taxpayer.
+127 (h) Any temporary tax relief approved or allowed under this Code section shall be paid
+128 from funds of the eligible governing authority to which the taxes were or were to have been
+129 paid.
+130 (i)(1) For the purpose of offsetting an eligible governing authority's revenue loss in the
+131 final quarter of 2024 and any quarter of 2025 due to the destruction of eligible standing
+132 timber in the disaster area and the temporary tax relief authorized pursuant to this Code
+133 section, the commissioner shall, subject to an appropriation by the General Assembly
+134 specifically referencing the provisions of this Code section, provide a grant to each
+135 eligible governing authority that has consented to grant the temporary tax relief
+136 authorized pursuant to this Code section.
+137 (2) A grant provided for in paragraph (1) of this subsection shall be allotted to each
+138 eligible governing authority based on:
+139 (A) The governing authority's estimated revenue loss as described in paragraph (1) of
+140 this subsection;
+141 (B) The revenue received by such governing authority pursuant to Code
+142 Section 48-5-7.5 in each of the preceding three years; and
+143 (C) The estimated damage to eligible standing timber in the jurisdiction as provided
+144 in the Hurricane Helene Timber Damage Assessment published by the State Forestry
+145 Commission on November 5, 2024, or other reliable data from the State Forestry
+146 Commission.
+- 6 -
+25 LC 50 1215-ECS
+147 (3) No grant to an eligible governing authority provided pursuant to paragraph (1) of this
+148 subsection shall exceed the average of the total revenue received by such governing
+149 authority pursuant to Code Section 48-5-7.5 in 2021, 2022, and 2023.
+150 (j)(1) The grants provided pursuant to subsection (i) of this Code section shall not be
+151 included in the calculation of the equalized adjusted property tax digest under Code
+152 Section 48-5-274 for the purpose of calculating the required local five mill share for
+153 school funding purposes under Code Section 20-2-164.
+154 (2) The temporary tax relief authorized pursuant to this Code section shall not affect the
+155 requirement provided for in paragraph (2) of subsection (m) of Code Section 48-5-7.5
+156 that the fair market value of timber harvested or sold be added to a digest and be included
+157 in the calculation of the equalized adjusted property tax digest under Code
+158 Section 48-5-274 for the purpose of calculating the required local five mill share for
+159 school funding purposes under Code Section 20-2-164.
+160 (k)(1) The commissioner, tax collectors, and tax commissioners shall be authorized to
+161 consult with the State Forestry Commission to implement the provisions of this Code
+162 section.
+163 (2) The State Forestry Commission shall establish criteria for determining whether
+164 timber property is severely damaged or destroyed. In establishing such criteria, such
+165 commission may consider:
+166 (A) The average damage sustained throughout the timber property;
+167 (B) Whether the timber property has adequate remaining trees per acre to maintain
+168 viable timber property; and
+169 (C) The risk of insect and disease damage to the timber property as a result of the
+170 disaster.
+171 (l) The commissioner may promulgate any rules and regulations necessary to implement
+172 and administer the provisions this Code section."
+- 7 -
+25 LC 50 1215-ECS
+173 PART II
+174 SECTION 2-1.
+175 Said title is further amended in Code Section 48-7-27, relating to computation of taxable net
+176 income, by adding new paragraphs to subsection (a) to read as follows:
+177 "(11.3) For taxable years beginning on or after January 1, 2025, and ending on or before
+178 December 31, 2029, income received as payments from a federal disaster relief or
+179 assistance grant program administered by this state or its instrumentalities or the United
+180 States Department of Agriculture, if such federal grant program was established
+181 specifically to address agricultural losses suffered due to Hurricane Helene which was a
+182 weather event declared to be a major disaster in this state by the President of the United
+183 States during the 2024 calendar year, to the extent such income is included in federal
+184 adjusted gross income or federal taxable income;
+185 (11.4) For taxable years beginning on or after January 1, 2025, and ending on or before
+186 December 31, 2025, federal crop insurance proceeds received for the destruction or
+187 damage to crops due to Hurricane Helene which was a weather event declared to be a
+188 major disaster in this state by the President of the United States during the 2024 calendar
+189 year, to the extent such proceeds are included in federal adjusted gross income or federal
+190 taxable income;"
+191 SECTION 2-2.
+192 Said title is further amended by adding a new Code section to read as follows:
+193 "48-7-40.37.
+194 (a)(1) The General Assembly finds and determines that Hurricane Helene has had a
+195 catastrophic impact on the citizens and the economy of Georgia, has particularly
+196 devastated the timber industry on which the citizens of Georgia are heavily dependent for
+197 their livelihood, and has created both a public fire hazard and a danger of insect
+- 8 -
+25 LC 50 1215-ECS
+198 infestations due to the massive amounts of downed timber caused by the severity of this
+199 natural disaster.
+200 (2) The General Assembly further finds and declares that it is appropriate and advisable
+201 to provide relief to the timber industry in the form of a tax credit targeted to those
+202 taxpayers that have suffered substantial economic losses and that will have to incur
+203 significant expenses for salvaging downed timber, site clearance, restoration, and
+204 reforestation over the coming years.
+205 (b) As used in this Code section, the term:
+206 (1) 'Disaster area' means the real property encompassed by the borders of the 66 counties
+207 included in the renewal of the State of Emergency pronounced in the Executive Order of
+208 the Governor dated October 29, 2024, and filed in the official records of the office of the
+209 Governor as Executive Order No. 10.29.24.01.
+210 (2) 'Eligible timber property' means timber which on September 24, 2024, was being
+211 grown by a taxpayer in a disaster area as part of a trade or business or a transaction
+212 entered into for profit.
+213 (3) 'Timber' means trees grown for the primary purpose of commercial production of
+214 food or wood or wood fiber products.
+215 (4) 'Timber casualty loss' means the amount of the diminution of value included in the
+216 computation of the casualty loss deduction for such casualty losses claimed and allowed
+217 pursuant to Section 165 of the Internal Revenue Code of 1986 as casualty losses incurred
+218 by a taxpayer between September 24, 2024, and December 31, 2024, as a result of
+219 damage to or destruction of eligible timber property caused by Hurricane Helene.
+220 (c)(1) A taxpayer shall be allowed tax credits against the tax imposed by this article in
+221 an amount equal to 100 percent of such taxpayer's timber casualty loss; provided,
+222 however, that the credit amount shall not exceed the number of the taxpayer's affected
+223 acres of eligible timber property in such disaster areas multiplied by $550.00.
+- 9 -
+25 LC 50 1215-ECS
+224 (2) To be allowed such tax credits, a taxpayer shall submit an application for preapproval
+225 of such credits based on timber casualty losses incurred by such taxpayer by
+226 December 31, 2025.
+227 (d)(1) The commissioner shall require preapproval applications to contain such
+228 information as is necessary to substantiate a taxpayer's eligibility for tax credits allowed
+229 pursuant to this Code section.
+230 (2) The commissioner is authorized to require electronic submission of preapproval
+231 applications in the manner specified by the commissioner.
+232 (3) The commissioner shall review completed preapproval applications in the order in
+233 which such applications were submitted and shall provide notice to each taxpayer that
+234 submitted an application within 30 days of receipt stating whether such taxpayer's
+235 application is complete or incomplete.
+236 (4) In no event shall the commissioner preapprove tax credits pursuant to this Code
+237 section in an amount that exceeds $200 million in aggregate.
+238 (5) In the event that properly completed and timely submitted preapproval applications
+239 are submitted for an amount that exceeds the amount of funds available to fully fund the
+240 tax credits requested, the commissioner shall prorate the available funds between or
+241 among the applicants.
+242 (6) The commissioner shall approve properly completed and timely submitted
+243 preapproval applications and issue a preapproval certificate to the taxpayer by
+244 January 31, 2026, certifying the amount of credits such taxpayer is eligible to claim if the
+245 taxpayer meets the conditions of this Code section.
+246 (e) In no event shall the amount of the tax credits allowed pursuant to this Code section
+247 exceed $200 million in aggregate.
+248 (f)(1)(A) Tax credits allowed pursuant to this Code section shall be eligible to be
+249 claimed only by the taxpayer to which the commissioner issued a preapproval
+250 certificate.
+- 10 -
+25 LC 50 1215-ECS
+251 (B) Tax credits allowed pursuant to this Code section shall only be claimed in the
+252 taxable year in which the taxpayer first completes:
+253 (i) The restoration of each acre for which timber casualty losses were incurred to a
+254 condition that has an adequately stocked stand that is expected to result in forest
+255 products or ecological services in the foreseeable future; or
+256 (ii) The replanting of timber in a quantity projected to yield at maturity at least 90
+257 percent of the value of the timber casualty loss claimed. Such timber shall be planted
+258 within the same county in which the eligible timber property was being grown when
+259 the timber casualty loss was incurred. Timber market conditions as of
+260 September 25, 2024, shall be used for the purposes of establishing projected value.
+261 (2) To claim tax credits allowed pursuant to this Code section, a taxpayer shall attach to
+262 such taxpayer's state tax return certification from the taxpayer that the requirements of
+263 this Code section have been met and any other information required by the commissioner,
+264 including information which demonstrates that it has completed the restoration or
+265 replanting of timber required pursuant to paragraph (1) of this subsection.
+266 (3) Any tax credits allowed pursuant to this Code section shall be claimed on or before
+267 December 31, 2030.
+268 (g)(1) The total amount of the tax credits allowed pursuant to this Code section for a
+269 taxable year may exceed the taxpayer's income tax liability. Such tax credits allowed in
+270 excess of a taxpayer's income tax liability shall be refundable to such taxpayer, provided
+271 that such taxpayer is the same taxpayer that incurred the timber casualty loss.
+272 (2) Tax credits claimed pursuant to this Code section but not used in any taxable year
+273 may be carried forward for ten years from the close of the taxable year in which the
+274 credits are claimed.
+275 (h) Tax credits claimed pursuant to this Code section but neither used by the taxpayer
+276 against its income tax liability nor refunded may be transferred or sold one time to one
+277 single other Georgia taxpayer, subject to the following conditions:
+- 11 -
+25 LC 50 1215-ECS
+278 (1) Only the taxpayer that claimed the tax credits allowed pursuant to this Code section
+279 shall make the transfer or sale of such tax credits;
+280 (2) The taxpayer that claimed the tax credits allowed pursuant to this Code section shall
+281 submit to the commissioner written notification of any transfer or sale of such tax credits
+282 within 30 days after the transfer or sale of the tax credits. Such written notification shall
+283 include:
+284 (A) Such taxpayer's credit balance prior to transfer;
+285 (B) The credit certificate number;
+286 (C) The remaining balance of credits after transfer;
+287 (D) The tax identification number of the transferee;
+288 (E) The date of transfer;
+289 (F) The amount of credits transferred; and
+290 (G) Other information as may be required by the department;
+291 (3) Failure to comply with any provision of this subsection shall result in the
+292 disallowance of the tax credits allowed pursuant to this Code section until the taxpayer
+293 that claimed the credits is in full compliance;
+294 (4) The transfer or sale of the tax credits shall not extend the time during which such tax
+295 credits may be used. The carry-forward period for tax credits that are transferred or sold
+296 shall begin on the date on which such tax credits were originally claimed;
+297 (5) A transferee shall have only such rights to claim and use the tax credits that were
+298 available to the transferor at the time of the transfer; provided, however, that a transferee
+299 shall not be eligible to transfer or receive a refund of such tax credits. To the extent that
+300 the transferor did not have rights to claim or use the tax credits at the time of the transfer,
+301 the commissioner shall disallow the tax credits claimed by the transferee or recapture the
+302 tax credits from the transferee or transferor. The transferee's recourse shall not be against
+303 the commissioner; and
+- 12 -
+25 LC 50 1215-ECS
+304 (6) The transferee shall acquire the tax credits allowed pursuant to this Code section for
+305 a minimum of 60 percent of the amount of the tax credits so transferred.
+306 (i)(1) A taxpayer claiming, transferring, or selling tax credits allowed pursuant to this
+307 Code section shall be required to reimburse the department for any department initiated
+308 audits relating to the tax credits, provided that such amount shall not exceed the value of
+309 the credits claimed by the taxpayer. This paragraph shall not apply to routine tax audits
+310 of such taxpayer that may include the review of the tax credits provided in this Code
+311 section.
+312 (2) The commissioner shall have access to timber property for the purpose of
+313 determining eligibility for both the preapproval and claiming of tax credits allowed and
+314 conducting audits pursuant to this Code section, provided that prior notice is given to any
+315 taxpayer that submitted a preapproval application or transferred or claimed tax credits
+316 pursuant to this Code section and the owner of the underlying real property.
+317 (3) The commissioner may pursue all remedies available by law as necessary to
+318 recapture tax credits wrongfully preapproved, allowed, or claimed by a taxpayer or a
+319 taxpayer's transferee.
+320 (4) The commissioner shall be authorized to consult with the State Forestry Commission
+321 as necessary to administer and enforce the provisions of this Code section.
+322 (j) The commissioner shall be authorized to promulgate any rules and regulations
+323 necessary to implement and administer the provisions of this Code section."
+324 SECTION 2-3.
+325 Said title is further amended in Chapter 8, relating to sales and use taxes, by revising
+326 paragraph (3) of subsection (a) of Code Section 48-8-3.3, relating to exemptions for
+327 agricultural operations and establishment of Georgia Agricultural Trust Fund, as follows:
+328 "(3)(A) 'Agricultural production inputs' means seed; seedlings; plants grown from seed,
+329 cuttings, or liners; fertilizers; insecticides; livestock and poultry feeds, drugs, and
+- 13 -
+25 LC 50 1215-ECS
+330 instruments used for the administration of such drugs; fencing products and materials
+331 used to produce agricultural products regardless of whether the fencing products or
+332 materials become incorporated into real property; fungicides; rodenticides; herbicides;
+333 defoliants; soil fumigants; plant growth regulating chemicals; desiccants, including, but
+334 not limited to, shavings and sawdust from wood, peanut hulls, fuller's earth, straw, and
+335 hay; feed for animals, including, but not limited to, livestock, fish, equine, hogs, or
+336 poultry; sugar used as food for honeybees kept for the commercial production of honey,
+337 beeswax, and honeybees; cattle, hogs, sheep, equine, poultry, or bees when sold for
+338 breeding purposes; ice or other refrigerants, including, but not limited to, nitrogen,
+339 carbon dioxide, ammonia, and propylene glycol used in the processing for market or
+340 the chilling of agricultural products in storage facilities, rooms, compartments, or
+341 delivery trucks; materials, containers, crates, boxes, labels, sacks, bags, or bottles used
+342 for packaging agricultural products when the product is either sold in the containers,
+343 sacks, bags, or bottles directly to the consumer or when such use is incidental to the sale
+344 of the product for resale; and containers, plastic, canvas, and other fabrics used in the
+345 care and raising of agricultural products or canvas used in covering feed bins, silos,
+346 greenhouses, and other similar storage structures.
+347 (B)(i) For the period beginning on the effective date of this Act and ending on
+348 December 31, 2025, such term also means building materials used to repair or
+349 replace:
+350 (I) Greenhouses; and
+351 (II) Real property structures or fixtures used exclusively for the production of
+352 animals, including, but not limited to, poultry sheds and livestock barns.
+353 (ii) Notwithstanding subsection (c) of Code Section 48-8-63, contractors shall not
+354 incur any use tax on any building materials that a qualified agricultural producer
+355 purchases tax-exempt under division (i) of this subparagraph for use in an agricultural
+356 operation and furnishes to such contractor for installation into real property."
+- 14 -
+25 LC 50 1215-ECS
+357 PART III
+358 SECTION 3-1.
+359 This Act shall become effective upon its approval by the Governor or upon its becoming law
+360 without such approval.
+361 SECTION 3-2.
+362 All laws and parts of laws in conflict with this Act are repealed.
+- 15 -
+[DELETED: 5LTtfpcfrrt0c1i2p3i4H5a6f l f t p f d t p f a s a u t7e8g]
+[DELETED: 5L9a0m1e2B3P4S5T6E7S8T9(0m1c2e3f4t5(6H7(8p9(0t1o]
+[DELETED: 5L2(3p4t5i6d7a a f q h a r o l w s t i s8s9S0T1a243(4(5p a p t t F E M A6F7(  ' g a m t g a o a c8c g o m o t g b o a c o9i0(1C2(3p4(5o6(7(]
+[DELETED: 5L8(9(0s1c2C3(4i5g6S7(8(9(0e1(2(3(4p t s ( o t C s a t s c s b5a6(7S8(9C s n t w s t c e p t0s1t2d3(  I t e t w l a p b a t p t C4S]
+[DELETED: 5L5q6c7i8w9o0a1c2d3(4c5w6i7(8s9(0r1(  A t t t a p o t e t p2v3p4(5e6t7(8c9(  T S F C i a t c a o p f0c1f]
+[DELETED: 5L2a3s4c5t6t7(8f9p0(1f2t3s4s5e g a t h c t g t t t r6a7(8e9(0t1(  T r r b s g a p t C2S3(4i5C6C]
+[DELETED: 5L7(8s9a0(1i2S3s4(5r6t7i t c o t e a p t d u C8S9s0(1c2s3(4t5c6(7(8v9(0d1(2a]
+[DELETED: 5L3P4S5S6i7(8D 3 2 i r a p f a f d r o9a0S D o A i s f g p w e1s2w3S4a5(6D7d8m9y0t1S2S344(5c i o t c a t e o G h p6d7t l a h c b a p f h a a d o i]
+[DELETED: 5L8i9n0(1t2t3s e f s d t s c r a4r5(6(7i8t9G0(1g2e3(4f5(6c7p8b9d0(1a a e t 1 p o s t t c l p2h3a]
+[DELETED: 5L4(5o s c b o t c l i b s t b6D7(  T c s r p a t c s8i9p0(1a2(3w4s a a w 3 d o r s w s t5a6(7s8(9a0t1a2(  T c s a p c a t s3p a a i a p c t t t b4J5t6(7e8(9c o b t t t w t c i a p0c]
+[DELETED: 5L1(2t3(4c5p6(7p8w9t t c l w i  T m c a o0S1(2s3t4i i w d t i h c t r o5r6(7D8(9t0e1t2(3m4c5(6a7s]
+[DELETED: 5L8(9s0(1s2w3i4(5(6(7(8(9(0(1(  F t c w a p o t s s r i t2d3t4(5c6s7(8a9s0t1t2t3t]
+[DELETED: 5L4(5a6(7C8a9t0o1s2(  T c s h a t t p f t p o3d4c5t6p7(  T c m p a r a b l a n t8r9t0(1a2(  T c s b a t p a r a r3n4S5S6p ( o s ( o C S 4 r t e f7a8(9c]
+[DELETED: 5L0i1u2m3d4n5h6p7b8b9c0t1d2f3s4o5c6g8D 3 2 s t a m b m u t r o9r0(1(2a3(4i5p6o]
+[DELETED: 5L7P8S9T0w1S2A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 1215-ECS
+The Senate Committee on Finance offered the following
+substitute to HB 223:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 48 of the Official Code of Georgia Annotated, relating to revenue and
+2 taxation, so as to authorize certain local governing authorities to provide temporary tax relief
+3 from ad valorem taxes levied for the harvest or sale of standing timber from eligible timber
+4 property that was severely damaged or destroyed in certain disaster areas; to provide for
+5 conditions and procedures; to provide for the establishment of a certification form; to provide
+6 for audits; to provide for grants to such local governing authorities to offset the loss of certain
+7 revenues resulting from certain disaster damage to standing timber and such temporary tax
+8 relief; to provide for an appropriations contingency; to provide for a grant cap; to provide for
+9 the calculation of equalized adjusted property tax digests; to require the establishment of
+10 criteria regarding damage or destruction; to exclude from the calculation of taxable net
+11 income certain disaster relief or assistance grant program payments and crop insurance
+12 proceeds for agricultural losses suffered due to Hurricane Helene; to provide for refundable
+13 income tax credits for certain timber producers based on certain casualty losses related to
+14 Hurricane Helene; to provide for transferability of such credits; to provide for an aggregate
+15 annual cap; to provide for terms and conditions; to provide for credit preapproval; to provide
+16 for legislative findings; to provide for definitions; to provide for a sales and use tax
+17 exemption for a limited period of time for building materials used to repair or replace
+18 greenhouses and real property structures or fixtures used exclusively for the production of
+- 1 -
+
+25 LC 50 1215-ECS
+19 animals; to provide for rules and regulations; to provide for definitions; to provide for related
+20 matters; to provide for a short title and legislative findings and intent; to provide for an
+21 effective date; to repeal conflicting laws; and for other purposes.
+22 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+23 PART I
+24 SECTION 1-1.
+25 This part shall be known and may be cited as the "Timberlands Recovery, Exemption, and
+26 Earnings Stability (TREES) Act."
+27 SECTION 1-2.
+28 The General Assembly finds that:
+29 (1) Hurricane Helene has had a catastrophic impact on the citizens and the economy of
+30 many areas in this state, has particularly devastated the timber industry on which the
+31 citizens of southwest Georgia are heavily dependent for their livelihood by reducing or
+32 eliminating the long-held investments in standing timber and timberlands of businesses and
+33 families, and has created both a public fire hazard and a danger of insect infestations due
+34 to the massive amounts of downed timber caused by the severity of this natural disaster;
+35 (2) As of November, 2024, the estimated losses to standing timber caused by Hurricane
+36 Helene as measured by the State Forestry Commission were nearly $1.3 billion;
+37 (3) Timberlands as investments are unique as an agriculture product in this state, as timber
+38 products often take ten years or longer to realize any return on the investment;
+39 (4) Many counties, municipalities, and local school districts rely on the taxes levied at the
+40 time of timber's harvest or sale pursuant to Code Section 48-5-7.5, but with the destruction
+41 of timberlands throughout this state, that tax revenue will likely not be realized; and
+- 2 -
+
+25 LC 50 1215-ECS
+42 (5) It is the intent of the General Assembly to authorize local governing authorities to
+43 provide temporary tax relief from the taxes levied pursuant to Code 48-5-7.5 so that the
+44 timber industry, and the businesses and families that provide timber products to such
+45 industry, will realize a reduced cost for growing new product and recovering from the
+46 devastating effects of Hurricane Helene. These reduced costs will help stabilize the market
+47 and allow for quicker harvesting and recovery of lands where some timber is still
+48 salvageable.
+49 SECTION 1-3.
+50 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+51 amended by adding a new Code section to read as follows:
+52 "48-5-33.1.
+53 (a) As used in this Code section, the term:
+54 (1) 'Disaster area' means any county designated for public assistance or individual and
+55 public assistance pursuant to the Federal Emergency Management Agency
+56 FEMA-4830-DR Georgia disaster declaration as of November 4, 2024.
+57 (2) 'Eligible governing authority' means the governing authority of any county,
+58 consolidated government, or municipality or the governing body of any county or
+59 independent board of education that is located in whole or in part in the disaster area.
+60 (3) 'Eligible standing timber' means any timber which is subject to taxation pursuant to
+61 Code Section 48-5-7.5 that is on eligible timber property.
+62 (4) 'Eligible timber property' means any parcel, tract, stand, or other identifiable unit of
+63 property that:
+64 (A) Contains standing timber which would, in the ordinary course of business, be sold
+65 or harvested;
+66 (B) Is timberland property as such term is defined in Code Section 48-5-600;
+67 (C) Is located within the disaster area; and
+- 3 -
+
+25 LC 50 1215-ECS
+68 (D) Was severely damaged or destroyed as a result of the natural disaster.
+69 (5) 'Severely damaged or destroyed' means damaged to the extent which would require
+70 salvage thinning, a salvage operation, or clear-cut of eligible standing timber based on
+71 criteria established by the State Forestry Commission pursuant to subsection (k) of this
+72 Code section.
+73 (b) Pursuant to Article VII, Section I, Paragraph III(h) of the Constitution of Georgia and
+74 in accordance with the provisions of this Code section, an eligible governing authority may
+75 grant temporary tax relief from taxes levied for eligible standing timber pursuant to Code
+76 Section 48-5-7.5 during:
+77 (1) The final quarter of 2024; and
+78 (2) Each quarter of 2025.
+79 (c) To grant the temporary tax relief authorized by subsection (b) of this Code section, an
+80 eligible governing authority shall adopt a resolution or ordinance that:
+81 (1) Declares that its jurisdiction contains eligible timber property;
+82 (2) Consents to grant the tax relief provided under this Code section;
+83 (3) Requires that taxpayers seeking such tax relief submit the certification established
+84 pursuant to subsection (f) of this Code section and that such certification shall be
+85 accepted by the eligible governing authority; and
+86 (4) Waives the levy and collection of payment of taxes otherwise due pursuant to Code
+87 Section 48-5-7.5 for the final quarter of 2024 and during each quarter of 2025.
+88 (d) Upon adoption of the resolution or ordinance provided under subsection (c) of this
+89 Code section, no taxpayer who submits the certification established pursuant to
+90 subsection (f) of this Code section shall be required to pay taxes otherwise levied pursuant
+91 to Code Section 48-5-7.5 for eligible standing timber during the final quarter of 2024 or
+92 during any quarter of 2025.
+93 (e) In the event taxes were levied and paid by a taxpayer pursuant to Code
+94 Section 48-5-7.5 for eligible standing timber during the final quarter of 2024 or during any
+- 4 -
+
+25 LC 50 1215-ECS
+95 quarter of 2025, the eligible governing authority to which such taxes were payable or
+96 collected shall provide that a refund be issued to such taxpayer for the total amount paid
+97 in the same manner as otherwise provided under Code Section 48-5-380. If such taxes
+98 were levied but unpaid, the eligible governing authority to which such taxes are payable
+99 or collected shall waive payment and collection as provided in the resolution or ordinance
+100 adopted pursuant to subsection (c) of this Code section, and shall be provided by the tax
+101 collector or tax commissioner an updated tax bill reflecting that the amount is no longer
+102 due.
+103 (f)(1) A certification form shall be established by the State Forestry Commission in
+104 consultation with the commissioner and Association County Commissioners of Georgia
+105 within ten days of the effective of this Code section. In addition to requiring necessary
+106 identification and location information, such certification shall:
+107 (A) Require such taxpayer to declare that their otherwise taxable property is eligible
+108 standing timber;
+109 (B) Require such taxpayer to declare that they are making a claim for temporary tax
+110 relief for eligible standing timber pursuant to this Code section; and
+111 (C) Allow the taxpayer to attach photographs of their eligible timber property,
+112 verification by a registered forester that the otherwise taxable property is eligible timber
+113 property, or other supporting documentation.
+114 (2) Such certification shall be completed by the taxpayer and shall be submitted to the
+115 eligible governing authority as provided in the resolution or ordinance adopted pursuant
+116 to subsection (c) of this Code section.
+117 (3) The State Forestry Commission shall distribute or otherwise make available such
+118 certification form to taxpayers.
+119 (g) The State Forestry Commission is authorized to conduct audits of property for
+120 compliance with this Code section at the request of the tax collector or tax commissioner
+121 for an eligible governing authority. In the event the State Forestry Commission conducts
+- 5 -
+
+25 LC 50 1215-ECS
+122 an audit and finds that the temporary tax relief granted to a taxpayer pursuant to this Code
+123 section was improper, the State Forestry Commission shall report such findings to the tax
+124 collector or tax commissioner who may pursue all remedies available by law as necessary
+125 to recapture the tax that would have been due but for being wrongfully claimed by a
+126 taxpayer.
+127 (h) Any temporary tax relief approved or allowed under this Code section shall be paid
+128 from funds of the eligible governing authority to which the taxes were or were to have been
+129 paid.
+130 (i)(1) For the purpose of offsetting an eligible governing authority's revenue loss in the
+131 final quarter of 2024 and any quarter of 2025 due to the destruction of eligible standing
+132 timber in the disaster area and the temporary tax relief authorized pursuant to this Code
+133 section, the commissioner shall, subject to an appropriation by the General Assembly
+134 specifically referencing the provisions of this Code section, provide a grant to each
+135 eligible governing authority that has consented to grant the temporary tax relief
+136 authorized pursuant to this Code section.
+137 (2) A grant provided for in paragraph (1) of this subsection shall be allotted to each
+138 eligible governing authority based on:
+139 (A) The governing authority's estimated revenue loss as described in paragraph (1) of
+140 this subsection;
+141 (B) The revenue received by such governing authority pursuant to Code
+142 Section 48-5-7.5 in each of the preceding three years; and
+143 (C) The estimated damage to eligible standing timber in the jurisdiction as provided
+144 in the Hurricane Helene Timber Damage Assessment published by the State Forestry
+145 Commission on November 5, 2024, or other reliable data from the State Forestry
+146 Commission.
+- 6 -
+
+25 LC 50 1215-ECS
+147 (3) No grant to an eligible governing authority provided pursuant to paragraph (1) of this
+148 subsection shall exceed the average of the total revenue received by such governing
+149 authority pursuant to Code Section 48-5-7.5 in 2021, 2022, and 2023.
+150 (j)(1) The grants provided pursuant to subsection (i) of this Code section shall not be
+151 included in the calculation of the equalized adjusted property tax digest under Code
+152 Section 48-5-274 for the purpose of calculating the required local five mill share for
+153 school funding purposes under Code Section 20-2-164.
+154 (2) The temporary tax relief authorized pursuant to this Code section shall not affect the
+155 requirement provided for in paragraph (2) of subsection (m) of Code Section 48-5-7.5
+156 that the fair market value of timber harvested or sold be added to a digest and be included
+157 in the calculation of the equalized adjusted property tax digest under Code
+158 Section 48-5-274 for the purpose of calculating the required local five mill share for
+159 school funding purposes under Code Section 20-2-164.
+160 (k)(1) The commissioner, tax collectors, and tax commissioners shall be authorized to
+161 consult with the State Forestry Commission to implement the provisions of this Code
+162 section.
+163 (2) The State Forestry Commission shall establish criteria for determining whether
+164 timber property is severely damaged or destroyed. In establishing such criteria, such
+165 commission may consider:
+166 (A) The average damage sustained throughout the timber property;
+167 (B) Whether the timber property has adequate remaining trees per acre to maintain
+168 viable timber property; and
+169 (C) The risk of insect and disease damage to the timber property as a result of the
+170 disaster.
+171 (l) The commissioner may promulgate any rules and regulations necessary to implement
+172 and administer the provisions this Code section."
+- 7 -
+
+25 LC 50 1215-ECS
+173 PART II
+174 SECTION 2-1.
+175 Said title is further amended in Code Section 48-7-27, relating to computation of taxable net
+176 income, by adding new paragraphs to subsection (a) to read as follows:
+177 "(11.3) For taxable years beginning on or after January 1, 2025, and ending on or before
+178 December 31, 2029, income received as payments from a federal disaster relief or
+179 assistance grant program administered by this state or its instrumentalities or the United
+180 States Department of Agriculture, if such federal grant program was established
+181 specifically to address agricultural losses suffered due to Hurricane Helene which was a
+182 weather event declared to be a major disaster in this state by the President of the United
+183 States during the 2024 calendar year, to the extent such income is included in federal
+184 adjusted gross income or federal taxable income;
+185 (11.4) For taxable years beginning on or after January 1, 2025, and ending on or before
+186 December 31, 2025, federal crop insurance proceeds received for the destruction or
+187 damage to crops due to Hurricane Helene which was a weather event declared to be a
+188 major disaster in this state by the President of the United States during the 2024 calendar
+189 year, to the extent such proceeds are included in federal adjusted gross income or federal
+190 taxable income;"
+191 SECTION 2-2.
+192 Said title is further amended by adding a new Code section to read as follows:
+193 "48-7-40.37.
+194 (a)(1) The General Assembly finds and determines that Hurricane Helene has had a
+195 catastrophic impact on the citizens and the economy of Georgia, has particularly
+196 devastated the timber industry on which the citizens of Georgia are heavily dependent for
+197 their livelihood, and has created both a public fire hazard and a danger of insect
+- 8 -
+
+25 LC 50 1215-ECS
+198 infestations due to the massive amounts of downed timber caused by the severity of this
+199 natural disaster.
+200 (2) The General Assembly further finds and declares that it is appropriate and advisable
+201 to provide relief to the timber industry in the form of a tax credit targeted to those
+202 taxpayers that have suffered substantial economic losses and that will have to incur
+203 significant expenses for salvaging downed timber, site clearance, restoration, and
+204 reforestation over the coming years.
+205 (b) As used in this Code section, the term:
+206 (1) 'Disaster area' means the real property encompassed by the borders of the 66 counties
+207 included in the renewal of the State of Emergency pronounced in the Executive Order of
+208 the Governor dated October 29, 2024, and filed in the official records of the office of the
+209 Governor as Executive Order No. 10.29.24.01.
+210 (2) 'Eligible timber property' means timber which on September 24, 2024, was being
+211 grown by a taxpayer in a disaster area as part of a trade or business or a transaction
+212 entered into for profit.
+213 (3) 'Timber' means trees grown for the primary purpose of commercial production of
+214 food or wood or wood fiber products.
+215 (4) 'Timber casualty loss' means the amount of the diminution of value included in the
+216 computation of the casualty loss deduction for such casualty losses claimed and allowed
+217 pursuant to Section 165 of the Internal Revenue Code of 1986 as casualty losses incurred
+218 by a taxpayer between September 24, 2024, and December 31, 2024, as a result of
+219 damage to or destruction of eligible timber property caused by Hurricane Helene.
+220 (c)(1) A taxpayer shall be allowed tax credits against the tax imposed by this article in
+221 an amount equal to 100 percent of such taxpayer's timber casualty loss; provided,
+222 however, that the credit amount shall not exceed the number of the taxpayer's affected
+223 acres of eligible timber property in such disaster areas multiplied by $550.00.
+- 9 -
+
+25 LC 50 1215-ECS
+224 (2) To be allowed such tax credits, a taxpayer shall submit an application for preapproval
+225 of such credits based on timber casualty losses incurred by such taxpayer by
+226 December 31, 2025.
+227 (d)(1) The commissioner shall require preapproval applications to contain such
+228 information as is necessary to substantiate a taxpayer's eligibility for tax credits allowed
+229 pursuant to this Code section.
+230 (2) The commissioner is authorized to require electronic submission of preapproval
+231 applications in the manner specified by the commissioner.
+232 (3) The commissioner shall review completed preapproval applications in the order in
+233 which such applications were submitted and shall provide notice to each taxpayer that
+234 submitted an application within 30 days of receipt stating whether such taxpayer's
+235 application is complete or incomplete.
+236 (4) In no event shall the commissioner preapprove tax credits pursuant to this Code
+237 section in an amount that exceeds $200 million in aggregate.
+238 (5) In the event that properly completed and timely submitted preapproval applications
+239 are submitted for an amount that exceeds the amount of funds available to fully fund the
+240 tax credits requested, the commissioner shall prorate the available funds between or
+241 among the applicants.
+242 (6) The commissioner shall approve properly completed and timely submitted
+243 preapproval applications and issue a preapproval certificate to the taxpayer by
+244 January 31, 2026, certifying the amount of credits such taxpayer is eligible to claim if the
+245 taxpayer meets the conditions of this Code section.
+246 (e) In no event shall the amount of the tax credits allowed pursuant to this Code section
+247 exceed $200 million in aggregate.
+248 (f)(1)(A) Tax credits allowed pursuant to this Code section shall be eligible to be
+249 claimed only by the taxpayer to which the commissioner issued a preapproval
+250 certificate.
+- 10 -
+
+25 LC 50 1215-ECS
+251 (B) Tax credits allowed pursuant to this Code section shall only be claimed in the
+252 taxable year in which the taxpayer first completes:
+253 (i) The restoration of each acre for which timber casualty losses were incurred to a
+254 condition that has an adequately stocked stand that is expected to result in forest
+255 products or ecological services in the foreseeable future; or
+256 (ii) The replanting of timber in a quantity projected to yield at maturity at least 90
+257 percent of the value of the timber casualty loss claimed. Such timber shall be planted
+258 within the same county in which the eligible timber property was being grown when
+259 the timber casualty loss was incurred. Timber market conditions as of
+260 September 25, 2024, shall be used for the purposes of establishing projected value.
+261 (2) To claim tax credits allowed pursuant to this Code section, a taxpayer shall attach to
+262 such taxpayer's state tax return certification from the taxpayer that the requirements of
+263 this Code section have been met and any other information required by the commissioner,
+264 including information which demonstrates that it has completed the restoration or
+265 replanting of timber required pursuant to paragraph (1) of this subsection.
+266 (3) Any tax credits allowed pursuant to this Code section shall be claimed on or before
+267 December 31, 2030.
+268 (g)(1) The total amount of the tax credits allowed pursuant to this Code section for a
+269 taxable year may exceed the taxpayer's income tax liability. Such tax credits allowed in
+270 excess of a taxpayer's income tax liability shall be refundable to such taxpayer, provided
+271 that such taxpayer is the same taxpayer that incurred the timber casualty loss.
+272 (2) Tax credits claimed pursuant to this Code section but not used in any taxable year
+273 may be carried forward for ten years from the close of the taxable year in which the
+274 credits are claimed.
+275 (h) Tax credits claimed pursuant to this Code section but neither used by the taxpayer
+276 against its income tax liability nor refunded may be transferred or sold one time to one
+277 single other Georgia taxpayer, subject to the following conditions:
+- 11 -
+
+25 LC 50 1215-ECS
+278 (1) Only the taxpayer that claimed the tax credits allowed pursuant to this Code section
+279 shall make the transfer or sale of such tax credits;
+280 (2) The taxpayer that claimed the tax credits allowed pursuant to this Code section shall
+281 submit to the commissioner written notification of any transfer or sale of such tax credits
+282 within 30 days after the transfer or sale of the tax credits. Such written notification shall
+283 include:
+284 (A) Such taxpayer's credit balance prior to transfer;
+285 (B) The credit certificate number;
+286 (C) The remaining balance of credits after transfer;
+287 (D) The tax identification number of the transferee;
+288 (E) The date of transfer;
+289 (F) The amount of credits transferred; and
+290 (G) Other information as may be required by the department;
+291 (3) Failure to comply with any provision of this subsection shall result in the
+292 disallowance of the tax credits allowed pursuant to this Code section until the taxpayer
+293 that claimed the credits is in full compliance;
+294 (4) The transfer or sale of the tax credits shall not extend the time during which such tax
+295 credits may be used. The carry-forward period for tax credits that are transferred or sold
+296 shall begin on the date on which such tax credits were originally claimed;
+297 (5) A transferee shall have only such rights to claim and use the tax credits that were
+298 available to the transferor at the time of the transfer; provided, however, that a transferee
+299 shall not be eligible to transfer or receive a refund of such tax credits. To the extent that
+300 the transferor did not have rights to claim or use the tax credits at the time of the transfer,
+301 the commissioner shall disallow the tax credits claimed by the transferee or recapture the
+302 tax credits from the transferee or transferor. The transferee's recourse shall not be against
+303 the commissioner; and
+- 12 -
+
+25 LC 50 1215-ECS
+304 (6) The transferee shall acquire the tax credits allowed pursuant to this Code section for
+305 a minimum of 60 percent of the amount of the tax credits so transferred.
+306 (i)(1) A taxpayer claiming, transferring, or selling tax credits allowed pursuant to this
+307 Code section shall be required to reimburse the department for any department initiated
+308 audits relating to the tax credits, provided that such amount shall not exceed the value of
+309 the credits claimed by the taxpayer. This paragraph shall not apply to routine tax audits
+310 of such taxpayer that may include the review of the tax credits provided in this Code
+311 section.
+312 (2) The commissioner shall have access to timber property for the purpose of
+313 determining eligibility for both the preapproval and claiming of tax credits allowed and
+314 conducting audits pursuant to this Code section, provided that prior notice is given to any
+315 taxpayer that submitted a preapproval application or transferred or claimed tax credits
+316 pursuant to this Code section and the owner of the underlying real property.
+317 (3) The commissioner may pursue all remedies available by law as necessary to
+318 recapture tax credits wrongfully preapproved, allowed, or claimed by a taxpayer or a
+319 taxpayer's transferee.
+320 (4) The commissioner shall be authorized to consult with the State Forestry Commission
+321 as necessary to administer and enforce the provisions of this Code section.
+322 (j) The commissioner shall be authorized to promulgate any rules and regulations
+323 necessary to implement and administer the provisions of this Code section."
+324 SECTION 2-3.
+325 Said title is further amended in Chapter 8, relating to sales and use taxes, by revising
+326 paragraph (3) of subsection (a) of Code Section 48-8-3.3, relating to exemptions for
+327 agricultural operations and establishment of Georgia Agricultural Trust Fund, as follows:
+328 "(3)(A) 'Agricultural production inputs' means seed; seedlings; plants grown from seed,
+329 cuttings, or liners; fertilizers; insecticides; livestock and poultry feeds, drugs, and
+- 13 -
+
+25 LC 50 1215-ECS
+330 instruments used for the administration of such drugs; fencing products and materials
+331 used to produce agricultural products regardless of whether the fencing products or
+332 materials become incorporated into real property; fungicides; rodenticides; herbicides;
+333 defoliants; soil fumigants; plant growth regulating chemicals; desiccants, including, but
+334 not limited to, shavings and sawdust from wood, peanut hulls, fuller's earth, straw, and
+335 hay; feed for animals, including, but not limited to, livestock, fish, equine, hogs, or
+336 poultry; sugar used as food for honeybees kept for the commercial production of honey,
+337 beeswax, and honeybees; cattle, hogs, sheep, equine, poultry, or bees when sold for
+338 breeding purposes; ice or other refrigerants, including, but not limited to, nitrogen,
+339 carbon dioxide, ammonia, and propylene glycol used in the processing for market or
+340 the chilling of agricultural products in storage facilities, rooms, compartments, or
+341 delivery trucks; materials, containers, crates, boxes, labels, sacks, bags, or bottles used
+342 for packaging agricultural products when the product is either sold in the containers,
+343 sacks, bags, or bottles directly to the consumer or when such use is incidental to the sale
+344 of the product for resale; and containers, plastic, canvas, and other fabrics used in the
+345 care and raising of agricultural products or canvas used in covering feed bins, silos,
+346 greenhouses, and other similar storage structures.
+347 (B)(i) For the period beginning on the effective date of this Act and ending on
+348 December 31, 2025, such term also means building materials used to repair or
+349 replace:
+350 (I) Greenhouses; and
+351 (II) Real property structures or fixtures used exclusively for the production of
+352 animals, including, but not limited to, poultry sheds and livestock barns.
+353 (ii) Notwithstanding subsection (c) of Code Section 48-8-63, contractors shall not
+354 incur any use tax on any building materials that a qualified agricultural producer
+355 purchases tax-exempt under division (i) of this subparagraph for use in an agricultural
+356 operation and furnishes to such contractor for installation into real property."
+- 14 -
+
+25 LC 50 1215-ECS
+357 PART III
+358 SECTION 3-1.
+359 This Act shall become effective upon its approval by the Governor or upon its becoming law
+360 without such approval.
+361 SECTION 3-2.
+362 All laws and parts of laws in conflict with this Act are repealed.
+- 15 -
+
+[DELETED: 5LTtfpcfrrt0c1i2p3i4H5a6f l f t p f d t p f a s a u t7e8g]
+[DELETED: 5L9a0m1e2B3P4S5T6E7S8T9(0m1c2e3f4t5(6H7(8p9(0t1o]
+[DELETED: 5L2(3p4t5i6d7a a f q h a r o l w s t i s8s9S0T1a243(4(5p a p t t F E M A6F7(  ' g a m t g a o a c8c g o m o t g b o a c o9i0(1C2(3p4(5o6(7(]
+[DELETED: 5L8(9(0s1c2C3(4i5g6S7(8(9(0e1(2(3(4p t s ( o t C s a t s c s b5a6(7S8(9C s n t w s t c e p t0s1t2d3(  I t e t w l a p b a t p t C4S]
+[DELETED: 5L5q6c7i8w9o0a1c2d3(4c5w6i7(8s9(0r1(  A t t t a p o t e t p2v3p4(5e6t7(8c9(  T S F C i a t c a o p f0c1f]
+[DELETED: 5L2a3s4c5t6t7(8f9p0(1f2t3s4s5e g a t h c t g t t t r6a7(8e9(0t1(  T r r b s g a p t C2S3(4i5C6C]
+[DELETED: 5L7(8s9a0(1i2S3s4(5r6t7i t c o t e a p t d u C8S9s0(1c2s3(4t5c6(7(8v9(0d1(2a]
+[DELETED: 5L3P4S5S6i7(8D 3 2 i r a p f a f d r o9a0S D o A i s f g p w e1s2w3S4a5(6D7d8m9y0t1S2S344(5c i o t c a t e o G h p6d7t l a h c b a p f h a a d o i]
+[DELETED: 5L8i9n0(1t2t3s e f s d t s c r a4r5(6(7i8t9G0(1g2e3(4f5(6c7p8b9d0(1a a e t 1 p o s t t c l p2h3a]
+[DELETED: 5L4(5o s c b o t c l i b s t b6D7(  T c s r p a t c s8i9p0(1a2(3w4s a a w 3 d o r s w s t5a6(7s8(9a0t1a2(  T c s a p c a t s3p a a i a p c t t t b4J5t6(7e8(9c o b t t t w t c i a p0c]
+[DELETED: 5L1(2t3(4c5p6(7p8w9t t c l w i  T m c a o0S1(2s3t4i i w d t i h c t r o5r6(7D8(9t0e1t2(3m4c5(6a7s]
+[DELETED: 5L8(9s0(1s2w3i4(5(6(7(8(9(0(1(  F t c w a p o t s s r i t2d3t4(5c6s7(8a9s0t1t2t3t]
+[DELETED: 5L4(5a6(7C8a9t0o1s2(  T c s h a t t p f t p o3d4c5t6p7(  T c m p a r a b l a n t8r9t0(1a2(  T c s b a t p a r a r3n4S5S6p ( o s ( o C S 4 r t e f7a8(9c]
+[DELETED: 5L0i1u2m3d4n5h6p7b8b9c0t1d2f3s4o5c6g8D 3 2 s t a m b m u t r o9r0(1(2a3(4i5p6o]
+[DELETED: 5L7P8S9T0w1S2A]

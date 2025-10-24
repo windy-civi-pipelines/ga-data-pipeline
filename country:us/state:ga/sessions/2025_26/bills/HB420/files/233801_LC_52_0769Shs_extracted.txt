@@ -1,0 +1,169 @@
+Title: The House Committee on Insurance offers the following substitute to HB 420:
+Official Title: The House Committee on Insurance offers the following substitute to HB 420:
+Number of Sections: 1
+Source: versions - LC 52 0769S/hs
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0769S
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated,
+2 relating to general provisions regarding insurance, so as to require certain health benefit
+3 policies to cover genetic testing for an inherited mutation and cancer imaging under certain
+4 conditions; to provide for definitions; to provide for cost-sharing requirements; to protect the
+5 eligibility of health savings accounts; to provide for rules and regulations; to provide for
+6 related matters; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+10 general provisions regarding insurance, is amended by adding a new Code section to read as
+11 follows:
+12 "33-24-59.34.
+13 (a) As used in this Code section, the term:
+14 (1) 'Cancer imaging' means imaging modalities available to healthcare providers who
+15 diagnose, stage, and treat human cancer in accordance with nationally recognized clinical
+16 practice guidelines.
+H. B. 420 (SUB)
+- 1 -
+25 LC 52 0769S
+17 (2) 'Cost-sharing requirement' means a deductible, coinsurance, or copayment and any
+18 maximum limitation on the application of such deductible, coinsurance, copayment, or
+19 similar out-of-pocket expense.
+20 (3) 'Genetic testing for an inherited mutation' means germline multi-gene testing for an
+21 inherited mutation or pathogenic variants in an individual's genes that are associated with
+22 an increased risk of cancer.
+23 (4) 'Health benefit policy' means any individual or group plan, policy, or contract for
+24 healthcare services issued, delivered, issued for delivery, executed, or renewed in this
+25 state which provides major medical benefits, including those contracts executed by this
+26 state on behalf of indigents and on behalf of state employees under Article 1 of Chapter
+27 18 of Title 45, public school teachers and employees under Part 6 of Article 17 of
+28 Chapter 2 of Title 20, and members and employees of the board of regents under Code
+29 Section 31-2-4, by a healthcare corporation, health maintenance organization, preferred
+30 provider organization, accident and sickness insurer, fraternal benefit society, hospital
+31 service corporation, medical service corporation, or any similar entity and any
+32 self-insured healthcare plan not subject to the exclusive jurisdiction of the Employee
+33 Retirement Income Security Act of 1974, 29 U.S.C. Section 1001, et seq.
+34 (5) 'Nationally recognized clinical practice guidelines' means evidence based clinical
+35 practice guidelines developed by independent organizations or medical professional
+36 societies utilizing a transparent methodology and reporting structure and with a
+37 conflict-of-interest policy. Such guidelines establish standards of care informed by a
+38 systematic review of evidence and an assessment of the benefits and risks of any
+39 alternative care options and include recommendations intended to optimize patient care.
+40 (b) All health benefit policies renewed or issued on or after July 1, 2025, shall include
+41 coverage for:
+H. B. 420 (SUB)
+- 2 -
+25 LC 52 0769S
+42 (1) Genetic testing for an inherited mutation for a covered person with a personal or
+43 family history of cancer when such testing is recommended by a healthcare provider and
+44 is in accordance with nationally recognized clinical practice guidelines; and
+45 (2) Cancer imaging for a covered person with an increased risk of cancer when such
+46 imaging is recommended by a healthcare provider and is in accordance with nationally
+47 recognized clinical practice guidelines.
+48 (c) The coverage provided for in subsection (b) of this Code section shall be subject to any
+49 cost-sharing requirement of a covered person's health benefit policy.
+50 (d) If application of the provisions of this Code section would result in health savings
+51 account ineligibility under 26 U.S.C. Section 223 as it existed on January 1, 2025, then
+52 such provisions shall apply only to health savings accounts with qualified high deductible
+53 health plans with respect to the deductibles of such plans after an individual has satisfied
+54 the minimum deductibles; provided, however, that the provisions of this Code section shall
+55 apply to items or services that are preventive care pursuant to Section 223(c)(2)(C) of the
+56 Internal Revenue Code.
+57 (e) The Commissioner shall promulgate rules and regulations necessary to implement the
+58 provisions of this Code section in accordance with current guidelines established by
+59 professional medical organizations such as the National Comprehensive Cancer Network."
+60 SECTION 2.
+61 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 420 (SUB)
+- 3 -
+[DELETED: 5LTrpcerBSA0g1f233(4(5d6p]
+[DELETED: 5L7(8m9s0(1i2a3(4h5s6s718C9S0p1s c m s c o a s e a a2s3R4(5p6s u a t m a r s a w 7c8s r o e a a a o t b a r o a9a0(1c]
+[DELETED: 5L2(3f4i5(6i7r8(9c0(1a2s3h4t5a6I7(8p o t C s i a w c g e b9p0S1A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0769S
+The House Committee on Insurance offers the following substitute to HB 420:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated,
+2 relating to general provisions regarding insurance, so as to require certain health benefit
+3 policies to cover genetic testing for an inherited mutation and cancer imaging under certain
+4 conditions; to provide for definitions; to provide for cost-sharing requirements; to protect the
+5 eligibility of health savings accounts; to provide for rules and regulations; to provide for
+6 related matters; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+10 general provisions regarding insurance, is amended by adding a new Code section to read as
+11 follows:
+12 "33-24-59.34.
+13 (a) As used in this Code section, the term:
+14 (1) 'Cancer imaging' means imaging modalities available to healthcare providers who
+15 diagnose, stage, and treat human cancer in accordance with nationally recognized clinical
+16 practice guidelines.
+H. B. 420 (SUB)
+- 1 -
+
+25 LC 52 0769S
+17 (2) 'Cost-sharing requirement' means a deductible, coinsurance, or copayment and any
+18 maximum limitation on the application of such deductible, coinsurance, copayment, or
+19 similar out-of-pocket expense.
+20 (3) 'Genetic testing for an inherited mutation' means germline multi-gene testing for an
+21 inherited mutation or pathogenic variants in an individual's genes that are associated with
+22 an increased risk of cancer.
+23 (4) 'Health benefit policy' means any individual or group plan, policy, or contract for
+24 healthcare services issued, delivered, issued for delivery, executed, or renewed in this
+25 state which provides major medical benefits, including those contracts executed by this
+26 state on behalf of indigents and on behalf of state employees under Article 1 of Chapter
+27 18 of Title 45, public school teachers and employees under Part 6 of Article 17 of
+28 Chapter 2 of Title 20, and members and employees of the board of regents under Code
+29 Section 31-2-4, by a healthcare corporation, health maintenance organization, preferred
+30 provider organization, accident and sickness insurer, fraternal benefit society, hospital
+31 service corporation, medical service corporation, or any similar entity and any
+32 self-insured healthcare plan not subject to the exclusive jurisdiction of the Employee
+33 Retirement Income Security Act of 1974, 29 U.S.C. Section 1001, et seq.
+34 (5) 'Nationally recognized clinical practice guidelines' means evidence based clinical
+35 practice guidelines developed by independent organizations or medical professional
+36 societies utilizing a transparent methodology and reporting structure and with a
+37 conflict-of-interest policy. Such guidelines establish standards of care informed by a
+38 systematic review of evidence and an assessment of the benefits and risks of any
+39 alternative care options and include recommendations intended to optimize patient care.
+40 (b) All health benefit policies renewed or issued on or after July 1, 2025, shall include
+41 coverage for:
+H. B. 420 (SUB)
+- 2 -
+
+25 LC 52 0769S
+42 (1) Genetic testing for an inherited mutation for a covered person with a personal or
+43 family history of cancer when such testing is recommended by a healthcare provider and
+44 is in accordance with nationally recognized clinical practice guidelines; and
+45 (2) Cancer imaging for a covered person with an increased risk of cancer when such
+46 imaging is recommended by a healthcare provider and is in accordance with nationally
+47 recognized clinical practice guidelines.
+48 (c) The coverage provided for in subsection (b) of this Code section shall be subject to any
+49 cost-sharing requirement of a covered person's health benefit policy.
+50 (d) If application of the provisions of this Code section would result in health savings
+51 account ineligibility under 26 U.S.C. Section 223 as it existed on January 1, 2025, then
+52 such provisions shall apply only to health savings accounts with qualified high deductible
+53 health plans with respect to the deductibles of such plans after an individual has satisfied
+54 the minimum deductibles; provided, however, that the provisions of this Code section shall
+55 apply to items or services that are preventive care pursuant to Section 223(c)(2)(C) of the
+56 Internal Revenue Code.
+57 (e) The Commissioner shall promulgate rules and regulations necessary to implement the
+58 provisions of this Code section in accordance with current guidelines established by
+59 professional medical organizations such as the National Comprehensive Cancer Network."
+60 SECTION 2.
+61 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 420 (SUB)
+- 3 -
+
+[DELETED: 5LTrpcerBSA0g1f233(4(5d6p]
+[DELETED: 5L7(8m9s0(1i2a3(4h5s6s718C9S0p1s c m s c o a s e a a2s3R4(5p6s u a t m a r s a w 7c8s r o e a a a o t b a r o a9a0(1c]
+[DELETED: 5L2(3f4i5(6i7r8(9c0(1a2s3h4t5a6I7(8p o t C s i a w c g e b9p0S1A]

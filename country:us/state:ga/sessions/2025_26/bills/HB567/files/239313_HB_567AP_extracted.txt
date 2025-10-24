@@ -1,0 +1,523 @@
+Title: House Bill 567 (AS PASSED HOUSE AND SENATE)
+Official Title: House Bill 567 (AS PASSED HOUSE AND SENATE)
+Number of Sections: 1
+Source: versions - HB 567/AP*
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25 HB 567/AP
+By: Representatives Dempsey of the 13th, Hatchett of the 155th, Hawkins of the 27th, Buckner
+of the 137th, and Taylor of the 173rd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 11 of Title 43 of the Official Code of Georgia Annotated,
+2 relating to licenses for the practice of dentistry, so as to authorize and regulate teledentistry
+3 by licensed dentists in this state; to provide for definitions; to provide for exemptions and
+4 conditions; to provide for authorized practices; to provide for a referred dentist; to provide
+5 for ownership of documents; to provide for a limited number of dental hygienists to perform
+6 teledentistry under certain conditions; to provide for rules and regulations; to amend Article 1
+7 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to general
+8 provisions of insurance, so as to allow for coverage of dental services provided through
+9 teledentistry; to provide for related matters; to provide an effective date; to repeal conflicting
+10 laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Article 2 of Chapter 11 of Title 43 of the Official Code of Georgia Annotated, relating to
+14 licenses for the practice of dentistry, is amended by adding a new Code section to read as
+15 follows:
+H. B. 567
+- 1 -
+25 HB 567/AP
+16 "43-11-54.
+17 (a) As used in this Code section, the term:
+18 (1) 'Authorizing dentist' means a dentist licensed by and in good standing with the board
+19 and practicing in the State of Georgia.
+20 (2) 'Dental hygienist' means a licensed dental hygienist in good standing with the board
+21 who meets the requirements to perform the specific dental hygiene functions permitted
+22 under general supervision under Code Section 43-11-74.
+23 (3) 'Digital scan' means a computer generated replica of the hard and soft tissues of the
+24 oral cavity created with digital technology and enhanced digital photography.
+25 (4) 'Direct supervision' shall have the same meaning as set forth in Code Section
+26 43-l1-74.
+27 (5) 'General supervision' shall have the same meaning as set forth in Code Section
+28 43-11-74.
+29 (6) 'Referred dentist' means a dentist licensed by and in good standing with the board
+30 practicing in this state to provide in-person dental treatment to patients receiving dental
+31 care through a teledentistry interaction under this Code section.
+32 (7) 'Store and forward technologies' means technologies that allow for the electronic
+33 transmission of dental and health information, including images, photographs,
+34 documents, and health histories, through a secure communication system.
+35 (8) 'Synchronous, real-time communication' means a live, two-way interaction between
+36 the authorizing dentist and a dental hygienist or patient permitted under this Code section
+37 using audiovisual telecommunications technology but shall not constitute direct
+38 supervision for the purposes of Code Section 43-l1-74 and the practice of dentistry in this
+39 state.
+40 (9) 'Teledentistry' means the delivery of dental care through the use of synchronous,
+41 real-time communication in conjunction with and supported by store and forward
+42 technologies under the general supervision of the authorizing dentist when dental care is
+H. B. 567
+- 2 -
+25 HB 567/AP
+43 provided to a patient physically located at a site in this state that is different from the site
+44 where the authorizing dentist is physically located. A teledentistry interaction shall not
+45 constitute or be considered the equivalent of an in-person, clinical examination by a
+46 licensed dentist.
+47 (b) No licensed dentist in this state shall provide dental care through teledentistry except
+48 under the conditions specified in this Code section.
+49 (c) A licensed dentist who intends to provide dental care through teledentistry pursuant to
+50 this Code section shall notify the board of such intent and provide written documentation
+51 evidencing that such dentist has:
+52 (1) A physical office for the provision of dental services in this state; and
+53 (2) Established a referral relationship with a referred dentist who practices dentistry and
+54 treats patients in a physical and operational dental office located in this state.
+55 Such dentist shall provide other reasonably pertinent information as prescribed by the
+56 board.
+57 (d) Subject to the conditions specified in subsection (e) of this Code section, an
+58 authorizing dentist shall only be allowed to:
+59 (1) Authorize a dental hygienist to perform the specific dental hygiene functions
+60 permitted under general supervision in accordance with the requirements of Code Section
+61 43-11-74, except as otherwise provided in paragraph (1) of subsection (e) of this Code
+62 section;
+63 (2) Prescribe a medication that is not a controlled substance for a patient receiving dental
+64 care through a teledentistry interaction;
+65 (3) Authorize the performance of digital scans by a dentist or dental hygienist;
+66 (4) Authorize the use of store and forward technologies to transmit patient records,
+67 images, digital scans, X-rays, and other relevant health information between the
+68 authorizing dentist and a dental hygienist for the purposes of evaluating a patient's oral
+69 health condition and authorizing the performance of dental care permitted under this
+H. B. 567
+- 3 -
+25 HB 567/AP
+70 Code section. The authorizing dentist shall be the custodian of all patient records for the
+71 purposes of this Code section unless the patient is treated by a referred dentist. In such
+72 instance, the referred dentist shall be the custodian of the patient's records associated with
+73 the dental care the referred dentist provides to the patient, and such referred dentist shall
+74 furnish copies of these records to the authorizing dentist;
+75 (5) Provide consultation to another provider regarding the patient's care; and
+76 (6) Provide the following teledentistry services that are appropriately delivered without
+77 an in-person clinical examination:
+78 (A) Emergency evaluation;
+79 (B) Rendering second opinions; and
+80 (C) Assessment, diagnosis, consultation, treatment, and monitoring of a patient.
+81 Teledentistry services described in this paragraph do not include orthodontics, delivering
+82 of dental appliances, or the supervision of a dental hygienist.
+83 (e) Authorizing and referring dentists as well as those acting under their supervision shall
+84 be subject to the following conditions when providing dental care through teledentistry as
+85 authorized in subsection (d) of this Code section:
+86 (1) Teledentistry services shall be consistent with how dental treatment is provided in
+87 person and shall adhere to the standards of appropriate patient care required in other
+88 dental care settings, including, but not limited to, appropriate patient examination, the
+89 taking and review of X-rays, and review of a patient's medical and dental history;
+90 (2)(A) Initial consultations with new patients may be conducted via teledentistry,
+91 provided that the authorizing dentist establishes a bona fide dentist-patient relationship
+92 by reviewing the patient's medical and dental history and verifying the patient's identity
+93 and physical location to ensure the patient is physically located in this state when dental
+94 care is provided and shall obtain the requisite consent from a parent or guardian if the
+95 patient is a minor.
+H. B. 567
+- 4 -
+25 HB 567/AP
+96 (B) An in-person clinical examination shall be performed immediately prior to
+97 providing or authorizing services or treatments to patients that are not reversible or that
+98 otherwise result in increased risk to the patient. For ongoing dentist-patient
+99 relationships, dentists shall strongly encourage patients to be seen in person at least
+100 annually.
+101 (3) The authorizing dentist shall prepare a written authorization, which shall be given to
+102 the patient and included in the patient's record, providing the name and license number
+103 of the authorizing dentist and the name and license number of the dental hygienist
+104 treating the patient during the teledentistry interaction, as well as any other information
+105 the authorizing dentist or board deems appropriate;
+106 (4) Prior to first performing teledentistry services, and at least annually thereafter,
+107 informed consent shall be obtained from the patient, or from the parent or guardian if the
+108 patient is a minor, explaining the alternatives to and the capabilities and limitations of
+109 teledentistry, which shall include a written statement advising that a teledentistry
+110 interaction is not equivalent to an in-person clinical examination and that the authorizing
+111 dentist shall not be physically present during the delivery of dental care. Such informed
+112 consent shall also be documented and included in the patient's record;
+113 (5) The authorizing dentist shall provide dental services through teledentistry only if
+114 such dental services are appropriate for the patient, as determined by such authorizing
+115 dentist;
+116 (6)(A) The authorizing dentist shall provide the name, license number, office mailing
+117 address, and office phone number of the referred dentist to the patient after each
+118 teledentistry interaction.
+119 (B) The referred dentist shall accept a referral to treat all dental emergencies and
+120 provide all necessary dental care, as determined by and in consultation with the
+121 authorizing dentist.
+H. B. 567
+- 5 -
+25 HB 567/AP
+122 (7)(A) An authorizing dentist may only authorize up to four dental hygienists to
+123 perform the functions permitted in subsection (d) of this Code section at any one time.
+124 This requirement shall not apply to the performance of dental hygiene duties by
+125 personnel of the Department of Public Health or county boards of health.
+126 (B) A dental hygienist performing the functions permitted in subsection (d) of this
+127 Code section via teledentistry shall have at least two years of experience in the practice
+128 of dental hygiene, shall be in compliance with continuing education requirements
+129 pursuant to Code Section 43-11-73.1 and cardiopulmonary resuscitation certification
+130 requirements contained in Code Section 43-11-73, and shall be licensed in good
+131 standing.
+132 (C) A dental hygienist practicing under general supervision via teledentistry pursuant
+133 to this Code section shall maintain professional liability insurance in accordance with
+134 board rules and regulations; provided, however, that this subparagraph shall not apply
+135 to an entity covered under sovereign immunity;
+136 (8) No authorizing dentist or dental hygienist shall attempt to waive liability for
+137 teledentistry services in advance of delivering such services, and no authorizing dentist
+138 or dental hygienist shall attempt to prevent a patient from filing any complaint with any
+139 governmental agency or authority relating to the provision of dental care through
+140 teledentistry; and
+141 (9) The authorizing dentist shall ensure that the use of teledentistry complies with the
+142 privacy and security requirements of the federal Health Insurance Portability and
+143 Accountability Act of 1996, in effect on January 1, 2025, as well as those of Chapter 33
+144 of Title 31.
+145 (f) Nothing in this Code section shall be construed to:
+146 (1) Require a licensed dentist in this state to practice teledentistry;
+147 (2) Require a licensed dentist to authorize a dental hygienist to perform the functions
+148 permitted in this Code section via teledentistry;
+H. B. 567
+- 6 -
+25 HB 567/AP
+149 (3) Require a school or facility receiving dental hygiene services provided pursuant to
+150 subsection (h) or (i) of Code Section 43-ll-74 to purchase any equipment to provide
+151 dental care through teledentistry; or
+152 (4) Expand the scope of practice for dental hygienists or establish independent dental
+153 hygiene practice.
+154 (g) The board shall promulgate rules and regulations that are reasonably necessary to
+155 implement the provisions of this Code section."
+156 SECTION 2.
+157 Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+158 general provisions of insurance, is amended by revising Code Section 33-24-59.15 as
+159 follows:
+160 "33-24-59.15.
+161 (a) As used in this Code section:
+162 (1) 'Care management organization' shall have the same meaning as set forth in Code
+163 Section 33-21A-2.
+164 (1)(2) 'Covered dental services' means dental care services for which a reimbursement
+165 is available under a covered person's dental benefit plan, or for which a reimbursement
+166 would be available but for the application of contractual limitations such as deductibles,
+167 copayments, coinsurance, waiting periods, annual or lifetime maximums, frequency
+168 limitations, alternative benefit payments, or any other limitation.
+169 (2)(3) 'Covered person' means any subscriber, enrollee, member, beneficiary, or
+170 participant, or his or her dependent, for whom benefits are payable when that covered
+171 person receives dental care services rendered or authorized by a dentist licensed under
+172 Chapter 11 of Title 43.
+173 (3)(4) 'Dental benefit plan' means any individual or group plan, policy, contract, or
+174 subscription agreement which includes or is for dental care services that is issued,
+H. B. 567
+- 7 -
+25 HB 567/AP
+175 delivered, issued for delivery, or renewed in this state whether by a health care healthcare
+176 insurer, health maintenance organization, preferred provider organization, accident and
+177 sickness insurer, fraternal benefit society, health care healthcare plan, or any other person,
+178 firm, corporation, joint venture, or other similar business entity that pays for, purchases,
+179 or furnishes dental care services to patients, insureds, beneficiaries, or covered
+180 dependents in this state.
+181 (4)(5) 'Dental insurer' means any person, firm, corporation, joint venture, or other similar
+182 business entity that offers dental benefit plans in consideration of periodic payments.
+183 (b) No contract between a dental insurer and a dentist shall require a dentist to accept an
+184 amount set by the dental insurer as payment for dental care services that are not covered
+185 dental services under the covered person's dental benefit plan.
+186 (c) A dental insurer or other person or entity providing third-party administrator services
+187 shall not make available any providers in its dentist network to a plan that sets dental fees
+188 for any services except covered services.
+189 (d) A dental insurer shall not draft, publish, disseminate, or circulate explanation of benefit
+190 forms that include language which directly or indirectly implies that a dentist may or
+191 should extend discounts to patients for noncovered dental services. Statements by a dental
+192 insurer which are prohibited by this Code section include but are not limited to, 'Our
+193 members value the services you provide and we encourage you to continue extending the
+194 discount on noncovered services.
+195 (e) Any dental benefit plan issued, amended, or renewed on or after January 1, 2026,
+196 between a dental insurer, contracted vendor thereof, or a care management organization
+197 and a healthcare provider for the provision of healthcare services to a plan enrollee may
+198 provide coverage for the cost of dental care provided through teledentistry as directed
+199 through regulations promulgated by the Commissioner.
+200 (f) A dental insurer, contracted vendor thereof, or care management organization shall not:
+H. B. 567
+- 8 -
+25 HB 567/AP
+201 (1) Exclude a service appropriately provided through teledentistry from coverage solely
+202 because the service is provided through teledentistry and is not provided through
+203 in-person consultation or contact between an authorizing dentist and a patient; or
+204 (2) Require its insureds to receive dental care through teledentistry in lieu of an
+205 in-person, clinical examination."
+206 SECTION 3.
+207 This Act shall become effective on January 1, 2026.
+208 SECTION 4.
+209 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 567
+- 9 -
+[DELETED: 5H3,5,7,htht7,3hr]
+[DELETED: 5H  ' s s h t s m a s f i C S o d a h i i i p a t t b s n c d c i c w a s b s a f]
+[DELETED: 5H  S t t c s i s ( o t C s a  A a d h t p t s d h f d s X a o r h i b t]
+[DELETED: 5H]
+[DELETED: 5H  A i c e s b p i p t r i i r t t p  F o d w s i a w s a t a t a n d c a d b a i c w t]
+[DELETED: 5H r s n a t t p o d h d b c i C S 4 a s b l i g  N a d o d h s a t w l f a o a r t t p o d c t a s r o t f H I P a]
+[DELETED: 5H p o i i a b r C S 3 a  ' p m a s e m b o a w i o i f d c s t i i]
+[DELETED: 5H f d c s t p i b o c]
+[DELETED: 5H t s i p t t a i n p t  R i i t r d c t t i l o a]
+
+
+================================================================================
+
+Raw Text:
+25 HB 567/AP
+House Bill 567 (AS PASSED HOUSE AND SENATE)
+By: Representatives Dempsey of the 13th, Hatchett of the 155th, Hawkins of the 27th, Buckner
+of the 137th, and Taylor of the 173rd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 11 of Title 43 of the Official Code of Georgia Annotated,
+2 relating to licenses for the practice of dentistry, so as to authorize and regulate teledentistry
+3 by licensed dentists in this state; to provide for definitions; to provide for exemptions and
+4 conditions; to provide for authorized practices; to provide for a referred dentist; to provide
+5 for ownership of documents; to provide for a limited number of dental hygienists to perform
+6 teledentistry under certain conditions; to provide for rules and regulations; to amend Article 1
+7 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to general
+8 provisions of insurance, so as to allow for coverage of dental services provided through
+9 teledentistry; to provide for related matters; to provide an effective date; to repeal conflicting
+10 laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Article 2 of Chapter 11 of Title 43 of the Official Code of Georgia Annotated, relating to
+14 licenses for the practice of dentistry, is amended by adding a new Code section to read as
+15 follows:
+H. B. 567
+- 1 -
+
+25 HB 567/AP
+16 "43-11-54.
+17 (a) As used in this Code section, the term:
+18 (1) 'Authorizing dentist' means a dentist licensed by and in good standing with the board
+19 and practicing in the State of Georgia.
+20 (2) 'Dental hygienist' means a licensed dental hygienist in good standing with the board
+21 who meets the requirements to perform the specific dental hygiene functions permitted
+22 under general supervision under Code Section 43-11-74.
+23 (3) 'Digital scan' means a computer generated replica of the hard and soft tissues of the
+24 oral cavity created with digital technology and enhanced digital photography.
+25 (4) 'Direct supervision' shall have the same meaning as set forth in Code Section
+26 43-l1-74.
+27 (5) 'General supervision' shall have the same meaning as set forth in Code Section
+28 43-11-74.
+29 (6) 'Referred dentist' means a dentist licensed by and in good standing with the board
+30 practicing in this state to provide in-person dental treatment to patients receiving dental
+31 care through a teledentistry interaction under this Code section.
+32 (7) 'Store and forward technologies' means technologies that allow for the electronic
+33 transmission of dental and health information, including images, photographs,
+34 documents, and health histories, through a secure communication system.
+35 (8) 'Synchronous, real-time communication' means a live, two-way interaction between
+36 the authorizing dentist and a dental hygienist or patient permitted under this Code section
+37 using audiovisual telecommunications technology but shall not constitute direct
+38 supervision for the purposes of Code Section 43-l1-74 and the practice of dentistry in this
+39 state.
+40 (9) 'Teledentistry' means the delivery of dental care through the use of synchronous,
+41 real-time communication in conjunction with and supported by store and forward
+42 technologies under the general supervision of the authorizing dentist when dental care is
+H. B. 567
+- 2 -
+
+25 HB 567/AP
+43 provided to a patient physically located at a site in this state that is different from the site
+44 where the authorizing dentist is physically located. A teledentistry interaction shall not
+45 constitute or be considered the equivalent of an in-person, clinical examination by a
+46 licensed dentist.
+47 (b) No licensed dentist in this state shall provide dental care through teledentistry except
+48 under the conditions specified in this Code section.
+49 (c) A licensed dentist who intends to provide dental care through teledentistry pursuant to
+50 this Code section shall notify the board of such intent and provide written documentation
+51 evidencing that such dentist has:
+52 (1) A physical office for the provision of dental services in this state; and
+53 (2) Established a referral relationship with a referred dentist who practices dentistry and
+54 treats patients in a physical and operational dental office located in this state.
+55 Such dentist shall provide other reasonably pertinent information as prescribed by the
+56 board.
+57 (d) Subject to the conditions specified in subsection (e) of this Code section, an
+58 authorizing dentist shall only be allowed to:
+59 (1) Authorize a dental hygienist to perform the specific dental hygiene functions
+60 permitted under general supervision in accordance with the requirements of Code Section
+61 43-11-74, except as otherwise provided in paragraph (1) of subsection (e) of this Code
+62 section;
+63 (2) Prescribe a medication that is not a controlled substance for a patient receiving dental
+64 care through a teledentistry interaction;
+65 (3) Authorize the performance of digital scans by a dentist or dental hygienist;
+66 (4) Authorize the use of store and forward technologies to transmit patient records,
+67 images, digital scans, X-rays, and other relevant health information between the
+68 authorizing dentist and a dental hygienist for the purposes of evaluating a patient's oral
+69 health condition and authorizing the performance of dental care permitted under this
+H. B. 567
+- 3 -
+
+25 HB 567/AP
+70 Code section. The authorizing dentist shall be the custodian of all patient records for the
+71 purposes of this Code section unless the patient is treated by a referred dentist. In such
+72 instance, the referred dentist shall be the custodian of the patient's records associated with
+73 the dental care the referred dentist provides to the patient, and such referred dentist shall
+74 furnish copies of these records to the authorizing dentist;
+75 (5) Provide consultation to another provider regarding the patient's care; and
+76 (6) Provide the following teledentistry services that are appropriately delivered without
+77 an in-person clinical examination:
+78 (A) Emergency evaluation;
+79 (B) Rendering second opinions; and
+80 (C) Assessment, diagnosis, consultation, treatment, and monitoring of a patient.
+81 Teledentistry services described in this paragraph do not include orthodontics, delivering
+82 of dental appliances, or the supervision of a dental hygienist.
+83 (e) Authorizing and referring dentists as well as those acting under their supervision shall
+84 be subject to the following conditions when providing dental care through teledentistry as
+85 authorized in subsection (d) of this Code section:
+86 (1) Teledentistry services shall be consistent with how dental treatment is provided in
+87 person and shall adhere to the standards of appropriate patient care required in other
+88 dental care settings, including, but not limited to, appropriate patient examination, the
+89 taking and review of X-rays, and review of a patient's medical and dental history;
+90 (2)(A) Initial consultations with new patients may be conducted via teledentistry,
+91 provided that the authorizing dentist establishes a bona fide dentist-patient relationship
+92 by reviewing the patient's medical and dental history and verifying the patient's identity
+93 and physical location to ensure the patient is physically located in this state when dental
+94 care is provided and shall obtain the requisite consent from a parent or guardian if the
+95 patient is a minor.
+H. B. 567
+- 4 -
+
+25 HB 567/AP
+96 (B) An in-person clinical examination shall be performed immediately prior to
+97 providing or authorizing services or treatments to patients that are not reversible or that
+98 otherwise result in increased risk to the patient. For ongoing dentist-patient
+99 relationships, dentists shall strongly encourage patients to be seen in person at least
+100 annually.
+101 (3) The authorizing dentist shall prepare a written authorization, which shall be given to
+102 the patient and included in the patient's record, providing the name and license number
+103 of the authorizing dentist and the name and license number of the dental hygienist
+104 treating the patient during the teledentistry interaction, as well as any other information
+105 the authorizing dentist or board deems appropriate;
+106 (4) Prior to first performing teledentistry services, and at least annually thereafter,
+107 informed consent shall be obtained from the patient, or from the parent or guardian if the
+108 patient is a minor, explaining the alternatives to and the capabilities and limitations of
+109 teledentistry, which shall include a written statement advising that a teledentistry
+110 interaction is not equivalent to an in-person clinical examination and that the authorizing
+111 dentist shall not be physically present during the delivery of dental care. Such informed
+112 consent shall also be documented and included in the patient's record;
+113 (5) The authorizing dentist shall provide dental services through teledentistry only if
+114 such dental services are appropriate for the patient, as determined by such authorizing
+115 dentist;
+116 (6)(A) The authorizing dentist shall provide the name, license number, office mailing
+117 address, and office phone number of the referred dentist to the patient after each
+118 teledentistry interaction.
+119 (B) The referred dentist shall accept a referral to treat all dental emergencies and
+120 provide all necessary dental care, as determined by and in consultation with the
+121 authorizing dentist.
+H. B. 567
+- 5 -
+
+25 HB 567/AP
+122 (7)(A) An authorizing dentist may only authorize up to four dental hygienists to
+123 perform the functions permitted in subsection (d) of this Code section at any one time.
+124 This requirement shall not apply to the performance of dental hygiene duties by
+125 personnel of the Department of Public Health or county boards of health.
+126 (B) A dental hygienist performing the functions permitted in subsection (d) of this
+127 Code section via teledentistry shall have at least two years of experience in the practice
+128 of dental hygiene, shall be in compliance with continuing education requirements
+129 pursuant to Code Section 43-11-73.1 and cardiopulmonary resuscitation certification
+130 requirements contained in Code Section 43-11-73, and shall be licensed in good
+131 standing.
+132 (C) A dental hygienist practicing under general supervision via teledentistry pursuant
+133 to this Code section shall maintain professional liability insurance in accordance with
+134 board rules and regulations; provided, however, that this subparagraph shall not apply
+135 to an entity covered under sovereign immunity;
+136 (8) No authorizing dentist or dental hygienist shall attempt to waive liability for
+137 teledentistry services in advance of delivering such services, and no authorizing dentist
+138 or dental hygienist shall attempt to prevent a patient from filing any complaint with any
+139 governmental agency or authority relating to the provision of dental care through
+140 teledentistry; and
+141 (9) The authorizing dentist shall ensure that the use of teledentistry complies with the
+142 privacy and security requirements of the federal Health Insurance Portability and
+143 Accountability Act of 1996, in effect on January 1, 2025, as well as those of Chapter 33
+144 of Title 31.
+145 (f) Nothing in this Code section shall be construed to:
+146 (1) Require a licensed dentist in this state to practice teledentistry;
+147 (2) Require a licensed dentist to authorize a dental hygienist to perform the functions
+148 permitted in this Code section via teledentistry;
+H. B. 567
+- 6 -
+
+25 HB 567/AP
+149 (3) Require a school or facility receiving dental hygiene services provided pursuant to
+150 subsection (h) or (i) of Code Section 43-ll-74 to purchase any equipment to provide
+151 dental care through teledentistry; or
+152 (4) Expand the scope of practice for dental hygienists or establish independent dental
+153 hygiene practice.
+154 (g) The board shall promulgate rules and regulations that are reasonably necessary to
+155 implement the provisions of this Code section."
+156 SECTION 2.
+157 Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+158 general provisions of insurance, is amended by revising Code Section 33-24-59.15 as
+159 follows:
+160 "33-24-59.15.
+161 (a) As used in this Code section:
+162 (1) 'Care management organization' shall have the same meaning as set forth in Code
+163 Section 33-21A-2.
+164 (1)(2) 'Covered dental services' means dental care services for which a reimbursement
+165 is available under a covered person's dental benefit plan, or for which a reimbursement
+166 would be available but for the application of contractual limitations such as deductibles,
+167 copayments, coinsurance, waiting periods, annual or lifetime maximums, frequency
+168 limitations, alternative benefit payments, or any other limitation.
+169 (2)(3) 'Covered person' means any subscriber, enrollee, member, beneficiary, or
+170 participant, or his or her dependent, for whom benefits are payable when that covered
+171 person receives dental care services rendered or authorized by a dentist licensed under
+172 Chapter 11 of Title 43.
+173 (3)(4) 'Dental benefit plan' means any individual or group plan, policy, contract, or
+174 subscription agreement which includes or is for dental care services that is issued,
+H. B. 567
+- 7 -
+
+25 HB 567/AP
+175 delivered, issued for delivery, or renewed in this state whether by a health care healthcare
+176 insurer, health maintenance organization, preferred provider organization, accident and
+177 sickness insurer, fraternal benefit society, health care healthcare plan, or any other person,
+178 firm, corporation, joint venture, or other similar business entity that pays for, purchases,
+179 or furnishes dental care services to patients, insureds, beneficiaries, or covered
+180 dependents in this state.
+181 (4)(5) 'Dental insurer' means any person, firm, corporation, joint venture, or other similar
+182 business entity that offers dental benefit plans in consideration of periodic payments.
+183 (b) No contract between a dental insurer and a dentist shall require a dentist to accept an
+184 amount set by the dental insurer as payment for dental care services that are not covered
+185 dental services under the covered person's dental benefit plan.
+186 (c) A dental insurer or other person or entity providing third-party administrator services
+187 shall not make available any providers in its dentist network to a plan that sets dental fees
+188 for any services except covered services.
+189 (d) A dental insurer shall not draft, publish, disseminate, or circulate explanation of benefit
+190 forms that include language which directly or indirectly implies that a dentist may or
+191 should extend discounts to patients for noncovered dental services. Statements by a dental
+192 insurer which are prohibited by this Code section include but are not limited to, 'Our
+193 members value the services you provide and we encourage you to continue extending the
+194 discount on noncovered services.
+195 (e) Any dental benefit plan issued, amended, or renewed on or after January 1, 2026,
+196 between a dental insurer, contracted vendor thereof, or a care management organization
+197 and a healthcare provider for the provision of healthcare services to a plan enrollee may
+198 provide coverage for the cost of dental care provided through teledentistry as directed
+199 through regulations promulgated by the Commissioner.
+200 (f) A dental insurer, contracted vendor thereof, or care management organization shall not:
+H. B. 567
+- 8 -
+
+25 HB 567/AP
+201 (1) Exclude a service appropriately provided through teledentistry from coverage solely
+202 because the service is provided through teledentistry and is not provided through
+203 in-person consultation or contact between an authorizing dentist and a patient; or
+204 (2) Require its insureds to receive dental care through teledentistry in lieu of an
+205 in-person, clinical examination."
+206 SECTION 3.
+207 This Act shall become effective on January 1, 2026.
+208 SECTION 4.
+209 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 567
+- 9 -
+
+[DELETED: 5H3,5,7,htht7,3hr]
+[DELETED: 5H  ' s s h t s m a s f i C S o d a h i i i p a t t b s n c d c i c w a s b s a f]
+[DELETED: 5H  S t t c s i s ( o t C s a  A a d h t p t s d h f d s X a o r h i b t]
+[DELETED: 5H]
+[DELETED: 5H  A i c e s b p i p t r i i r t t p  F o d w s i a w s a t a t a n d c a d b a i c w t]
+[DELETED: 5H r s n a t t p o d h d b c i C S 4 a s b l i g  N a d o d h s a t w l f a o a r t t p o d c t a s r o t f H I P a]
+[DELETED: 5H p o i i a b r C S 3 a  ' p m a s e m b o a w i o i f d c s t i i]
+[DELETED: 5H f d c s t p i b o c]
+[DELETED: 5H t s i p t t a i n p t  R i i t r d c t t i l o a]

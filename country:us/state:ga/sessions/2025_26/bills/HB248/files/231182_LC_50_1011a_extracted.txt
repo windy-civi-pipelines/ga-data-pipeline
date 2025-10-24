@@ -1,0 +1,151 @@
+Title: House Bill 248
+Official Title: House Bill 248
+Number of Sections: 1
+Source: versions - LC 50 1011/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 1011
+By: Representatives Jasperse of the 11th, Kelley of the 16th, Powell of the 33rd, Williams of
+the 148th, and Camp of the 135th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+2 income taxes, so as to provide for a tax credit for certain expenses incurred by taxpayers for
+3 certain geothermal machinery installations at residential dwellings; to provide for definitions;
+4 to provide for terms and conditions; to provide for a sunset date; to provide for related
+5 matters; to provide for an effective date and applicability; to repeal conflicting laws; and for
+6 other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes,
+10 is amended by adding a new Code section to read as follows:
+11 "48-7-29.27.
+12 (a) As used in this Code section, the term:
+13 (1) 'Eligible geothermal installation expenses' means expenses incurred by a taxpayer for
+14 a geothermal machinery installation for a residential dwelling that is owned by the
+15 taxpayer.
+H. B. 248
+- 1 -
+25 LC 50 1011
+16 (2) 'Geothermal machinery and equipment' means all controls, tanks, pumps, heat
+17 exchangers, and other equipment used directly and exclusively for a geothermal
+18 machinery installation. Such term excludes any land or structural elements of any
+19 building or any equipment ordinarily contained within a dwelling regardless of a
+20 geothermal machinery installation.
+21 (3) 'Geothermal machinery installation' means the installation of any:
+22 (A) Heat pump that uses the ground or ground water as a thermal energy source to heat
+23 a structure or as a thermal energy sink to cool a structure, together with necessary
+24 geothermal and machinery equipment, which is placed in service on or after July 1,
+25 2025, and meets or exceeds applicable federal Energy Star requirements on the date that
+26 it is placed in service; or
+27 (B) System that uses the internal heat of the earth as a substitute for traditional energy
+28 sources for water heating or active space heating or cooling, together with necessary
+29 geothermal machinery and equipment, which is placed in service on or after July 1,
+30 2025, and meets or exceeds applicable federal Energy Star requirements on the date that
+31 it is placed in service.
+32 (b) For taxable years beginning on or after January 1, 2026, a taxpayer shall be allowed
+33 an income tax credit against the tax imposed by Code Section 48-7-20 that is equal to 25
+34 percent of the eligible geothermal installation expenses incurred by the taxpayer for a
+35 dwelling; provided, however, that such tax credit shall only be applied over a period of five
+36 taxable years and shall not exceed $5,000.00 for any taxable year and no amount shall be
+37 allowed or carried forward after such years. A taxpayer shall only be eligible for the tax
+38 credit allowed under this Code section once per dwelling.
+39 (c) In no event shall the total amount of any tax credit allowed under this Code section for
+40 a taxable year exceed the taxpayer's income tax liability. No such tax credit shall be
+41 allowed the taxpayer against prior years' tax liability. Except as provided in subsection (b)
+H. B. 248
+- 2 -
+25 LC 50 1011
+42 of this Code section, no amount of the tax credit shall be allowed to be carried forward to
+43 apply to the taxpayer's succeeding years' tax liability.
+44 (d) This Code section shall stand repealed and reserved by operation of law on
+45 December 31, 2030."
+46 SECTION 2.
+47 This Act shall become effective on July 1, 2025, and shall be applicable to taxable years
+48 beginning on or after January 1, 2026.
+49 SECTION 3.
+50 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 248
+- 3 -
+[DELETED: 5L1,6,3,hthr8,5ht]
+[DELETED: 5L  ' m a e m a c t p h a o e u d a e f a g i  S t e a l o s e o a o a e o c w a d r o ]
+[DELETED: 5L  T C s s s r a r b o o l o]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 1011
+House Bill 248
+By: Representatives Jasperse of the 11th, Kelley of the 16th, Powell of the 33rd, Williams of
+the 148th, and Camp of the 135th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+2 income taxes, so as to provide for a tax credit for certain expenses incurred by taxpayers for
+3 certain geothermal machinery installations at residential dwellings; to provide for definitions;
+4 to provide for terms and conditions; to provide for a sunset date; to provide for related
+5 matters; to provide for an effective date and applicability; to repeal conflicting laws; and for
+6 other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes,
+10 is amended by adding a new Code section to read as follows:
+11 "48-7-29.27.
+12 (a) As used in this Code section, the term:
+13 (1) 'Eligible geothermal installation expenses' means expenses incurred by a taxpayer for
+14 a geothermal machinery installation for a residential dwelling that is owned by the
+15 taxpayer.
+H. B. 248
+- 1 -
+
+25 LC 50 1011
+16 (2) 'Geothermal machinery and equipment' means all controls, tanks, pumps, heat
+17 exchangers, and other equipment used directly and exclusively for a geothermal
+18 machinery installation. Such term excludes any land or structural elements of any
+19 building or any equipment ordinarily contained within a dwelling regardless of a
+20 geothermal machinery installation.
+21 (3) 'Geothermal machinery installation' means the installation of any:
+22 (A) Heat pump that uses the ground or ground water as a thermal energy source to heat
+23 a structure or as a thermal energy sink to cool a structure, together with necessary
+24 geothermal and machinery equipment, which is placed in service on or after July 1,
+25 2025, and meets or exceeds applicable federal Energy Star requirements on the date that
+26 it is placed in service; or
+27 (B) System that uses the internal heat of the earth as a substitute for traditional energy
+28 sources for water heating or active space heating or cooling, together with necessary
+29 geothermal machinery and equipment, which is placed in service on or after July 1,
+30 2025, and meets or exceeds applicable federal Energy Star requirements on the date that
+31 it is placed in service.
+32 (b) For taxable years beginning on or after January 1, 2026, a taxpayer shall be allowed
+33 an income tax credit against the tax imposed by Code Section 48-7-20 that is equal to 25
+34 percent of the eligible geothermal installation expenses incurred by the taxpayer for a
+35 dwelling; provided, however, that such tax credit shall only be applied over a period of five
+36 taxable years and shall not exceed $5,000.00 for any taxable year and no amount shall be
+37 allowed or carried forward after such years. A taxpayer shall only be eligible for the tax
+38 credit allowed under this Code section once per dwelling.
+39 (c) In no event shall the total amount of any tax credit allowed under this Code section for
+40 a taxable year exceed the taxpayer's income tax liability. No such tax credit shall be
+41 allowed the taxpayer against prior years' tax liability. Except as provided in subsection (b)
+H. B. 248
+- 2 -
+
+25 LC 50 1011
+42 of this Code section, no amount of the tax credit shall be allowed to be carried forward to
+43 apply to the taxpayer's succeeding years' tax liability.
+44 (d) This Code section shall stand repealed and reserved by operation of law on
+45 December 31, 2030."
+46 SECTION 2.
+47 This Act shall become effective on July 1, 2025, and shall be applicable to taxable years
+48 beginning on or after January 1, 2026.
+49 SECTION 3.
+50 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 248
+- 3 -
+
+[DELETED: 5L1,6,3,hthr8,5ht]
+[DELETED: 5L  ' m a e m a c t p h a o e u d a e f a g i  S t e a l o s e o a o a e o c w a d r o ]
+[DELETED: 5L  T C s s s r a r b o o l o]

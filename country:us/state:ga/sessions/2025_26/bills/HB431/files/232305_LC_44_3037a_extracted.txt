@@ -1,0 +1,173 @@
+Title: House Bill 431
+Official Title: House Bill 431
+Number of Sections: 1
+Source: versions - LC 44 3037/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 44 3037
+By: Representatives Jones of the 25th, Powell of the 33rd, Ridley of the 6th, Hatchett of the
+155th, Corbett of the 174th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia
+2 Annotated, the "Fair Business Practices Act of 1975," so as to provide for a limitation on
+3 interchange fees charged by payment card networks for credit or debit card transactions at
+4 retailers; to provide requirements for payment card networks in relation to such interchange
+5 fees; to provide for a civil penalty; to provide for definitions; to provide for a short title; to
+6 provide for related matters; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "Consumer Inflation Reduction and Tax
+10 Fairness Act."
+11 SECTION 2.
+12 Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, the
+13 "Fair Business Practices Act of 1975," is amended by adding a new Code section to read as
+14 follows:
+H. B. 431
+- 1 -
+25 LC 44 3037
+15 "10-1-393.20.
+16 (a) As used in this Code section, the term:
+17 (1) 'Credit or debit card transaction' means a purchase of goods or services by a
+18 consumer at a retailer in this state, an online purchase shipped to an address in this state,
+19 or a purchase made at a location in this state made using a credit or debit card.
+20 (2) 'Goods and services consumer purchase price' means the retail price paid by a
+21 consumer for the actual goods or services provided by a retailer, excluding the taxes.
+22 (3) 'Interchange fee' means a fee established, charged, or received by a payment card
+23 network for the purpose of compensating the payment card issuer or payment card
+24 network for its involvement in a credit or debit card transaction.
+25 (4) 'Payment card issuer' means a person or entity that issues a credit or debit card or
+26 such issuer's agent.
+27 (5) 'Payment card network' means an entity that directly or through licensed members,
+28 third-party processors, or agents provides the proprietary services, infrastructure, and
+29 software that route information and data to conduct credit or debit card transaction
+30 authorization, clearance, and settlement. Such term includes the system a person uses in
+31 order to accept as a form of payment a brand of debit card, credit card, or other device
+32 that may be used to carry out credit or debit card transactions.
+33 (6) 'Retailer' means any person, business, or entity that operates a physical or digital
+34 location in this state or that sells, supplies, or offers goods or services for sale directly to
+35 consumers and accepts credit or debit card transactions in this state.
+36 (7) 'Taxes' means the amount of any state and local sales and use and excise taxes
+37 applicable to a sale of goods or services provided by a retailer in this state.
+38 (b) No payment card network shall apply an interchange fee to a retailer based on an
+39 amount greater than the goods and services consumer purchase price.
+40 (c) A payment card network shall either exclude the amount of any taxes from the
+41 calculation of interchange fees specific to each credit or debit card transaction or, on no
+H. B. 431
+- 2 -
+25 LC 44 3037
+42 later than a quarterly basis, refund the amount of interchange fees proportionate to the
+43 amount attributable to the taxes. Nothing in this Code section obligates a payment card
+44 network to verify the accuracy or completeness of the applicable taxes at the time of sale
+45 before calculating the interchange fee specific to each credit or debit card transaction.
+46 (d) If a retailer is unable or chooses not to capture and transmit the applicable taxes at the
+47 time of sale, the payment card network is not obligated to exclude taxes from the
+48 calculation of interchange fees for such retailer's credit or debit card transactions at the time
+49 of sale, and, upon receipt of proof of taxes collected by such retailer, the payment card
+50 network shall provide the refund on a quarterly basis consistent with subsection (c) of this
+51 Code section.
+52 (e) A payment card network that willfully violates this Code section shall be subject to a
+53 civil penalty of any interchange fees paid by the retailer on the taxes for the goods or
+54 services provided by such retailer in a calendar year plus 10 percent.
+55 (f) It shall be unlawful to alter or manipulate an interchange fee:
+56 (1) By increasing the interchange fee rate that is imposed upon the portion of a credit or
+57 debit card transaction;
+58 (2) That is not attributable to taxes; and
+59 (3) That is imposed to circumvent the effect of this Code section."
+60 SECTION 3.
+61 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 431
+- 3 -
+[DELETED: 5L5,3,6,hrdt5,4,ht]
+[DELETED: 5L  ' o d c t m a p o g o s b   A p c n s e e t a o t f t]
+[DELETED: 5L o s t p c n i n o t e t f t]
+
+
+================================================================================
+
+Raw Text:
+25 LC 44 3037
+House Bill 431
+By: Representatives Jones of the 25th, Powell of the 33rd, Ridley of the 6th, Hatchett of the
+155th, Corbett of the 174th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia
+2 Annotated, the "Fair Business Practices Act of 1975," so as to provide for a limitation on
+3 interchange fees charged by payment card networks for credit or debit card transactions at
+4 retailers; to provide requirements for payment card networks in relation to such interchange
+5 fees; to provide for a civil penalty; to provide for definitions; to provide for a short title; to
+6 provide for related matters; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "Consumer Inflation Reduction and Tax
+10 Fairness Act."
+11 SECTION 2.
+12 Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, the
+13 "Fair Business Practices Act of 1975," is amended by adding a new Code section to read as
+14 follows:
+H. B. 431
+- 1 -
+
+25 LC 44 3037
+15 "10-1-393.20.
+16 (a) As used in this Code section, the term:
+17 (1) 'Credit or debit card transaction' means a purchase of goods or services by a
+18 consumer at a retailer in this state, an online purchase shipped to an address in this state,
+19 or a purchase made at a location in this state made using a credit or debit card.
+20 (2) 'Goods and services consumer purchase price' means the retail price paid by a
+21 consumer for the actual goods or services provided by a retailer, excluding the taxes.
+22 (3) 'Interchange fee' means a fee established, charged, or received by a payment card
+23 network for the purpose of compensating the payment card issuer or payment card
+24 network for its involvement in a credit or debit card transaction.
+25 (4) 'Payment card issuer' means a person or entity that issues a credit or debit card or
+26 such issuer's agent.
+27 (5) 'Payment card network' means an entity that directly or through licensed members,
+28 third-party processors, or agents provides the proprietary services, infrastructure, and
+29 software that route information and data to conduct credit or debit card transaction
+30 authorization, clearance, and settlement. Such term includes the system a person uses in
+31 order to accept as a form of payment a brand of debit card, credit card, or other device
+32 that may be used to carry out credit or debit card transactions.
+33 (6) 'Retailer' means any person, business, or entity that operates a physical or digital
+34 location in this state or that sells, supplies, or offers goods or services for sale directly to
+35 consumers and accepts credit or debit card transactions in this state.
+36 (7) 'Taxes' means the amount of any state and local sales and use and excise taxes
+37 applicable to a sale of goods or services provided by a retailer in this state.
+38 (b) No payment card network shall apply an interchange fee to a retailer based on an
+39 amount greater than the goods and services consumer purchase price.
+40 (c) A payment card network shall either exclude the amount of any taxes from the
+41 calculation of interchange fees specific to each credit or debit card transaction or, on no
+H. B. 431
+- 2 -
+
+25 LC 44 3037
+42 later than a quarterly basis, refund the amount of interchange fees proportionate to the
+43 amount attributable to the taxes. Nothing in this Code section obligates a payment card
+44 network to verify the accuracy or completeness of the applicable taxes at the time of sale
+45 before calculating the interchange fee specific to each credit or debit card transaction.
+46 (d) If a retailer is unable or chooses not to capture and transmit the applicable taxes at the
+47 time of sale, the payment card network is not obligated to exclude taxes from the
+48 calculation of interchange fees for such retailer's credit or debit card transactions at the time
+49 of sale, and, upon receipt of proof of taxes collected by such retailer, the payment card
+50 network shall provide the refund on a quarterly basis consistent with subsection (c) of this
+51 Code section.
+52 (e) A payment card network that willfully violates this Code section shall be subject to a
+53 civil penalty of any interchange fees paid by the retailer on the taxes for the goods or
+54 services provided by such retailer in a calendar year plus 10 percent.
+55 (f) It shall be unlawful to alter or manipulate an interchange fee:
+56 (1) By increasing the interchange fee rate that is imposed upon the portion of a credit or
+57 debit card transaction;
+58 (2) That is not attributable to taxes; and
+59 (3) That is imposed to circumvent the effect of this Code section."
+60 SECTION 3.
+61 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 431
+- 3 -
+
+[DELETED: 5L5,3,6,hrdt5,4,ht]
+[DELETED: 5L  ' o d c t m a p o g o s b   A p c n s e e t a o t f t]
+[DELETED: 5L o s t p c n i n o t e t f t]

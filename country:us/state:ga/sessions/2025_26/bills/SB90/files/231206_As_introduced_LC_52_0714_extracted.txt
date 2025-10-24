@@ -1,0 +1,879 @@
+Title: Senate Bill 90
+Official Title: Senate Bill 90
+Number of Sections: 1
+Source: versions - As introduced LC 52 0714
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0714
+By: Senators Tillery of the 19th and Albers of the 56th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 3 of Chapter 19 of Title 15 and Article 1 of Chapter 17 of Title 45 of the
+2 Official Code of Georgia Annotated, relating to the regulation of the practice of law and
+3 general provisions regarding notaries public, respectively, so as to provide for the
+4 modernization of certain legal, notarial, and court services using electronic means; to allow
+5 an attorney to conduct a real estate closing for property in this state using electronic means
+6 under certain conditions; to clarify the definition of the practice of law; to provide for
+7 definitions; to prohibit witness-only closings; to prohibit the unauthorized practice of law;
+8 to provide for penalties, liability, remedies, relief, and class action lawsuits; to provide for
+9 legislative construction; to provide for legislative findings; to provide for certain notarial acts
+10 to be performed remotely using electronic means when certain requirements are satisfied; to
+11 provide for requirements and exemptions; to permit the use of an electronic seal of office;
+12 to provide for criminal penalties and civil liability, including compensatory and other
+13 damages; to provide for class action lawsuits; to provide for related matters; to provide for
+14 an effective date; to repeal conflicting laws; and for other purposes.
+15 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 90
+- 1 -
+25 LC 52 0714
+16 PART I
+17 Real estate closing using electronic means
+18 SECTION 1-1.
+19 The General Assembly recognizes that the Supreme Court of Georgia, in the exercise of its
+20 authority to govern the practice of law in this state, has issued several opinions addressing
+21 real estate closings and the practice of law, including, but not limited to, Formal Advisory
+22 Opinion No. 86-5 (86-R9) (May 12, 1989), Formal Advisory Opinion No. 00-3 (February 11,
+23 2000), In re: Formal Advisory Opinion No. 00-3 (November 10, 2003), Formal Advisory
+24 Opinion No. 04-1 (August 6, 2004), In re: Formal Advisory Opinion No. 13-1
+25 (September 22, 2014), UPL Advisory Opinion No. 2003-2 (April 22, 2003), and In re: UPL
+26 Advisory Opinion No. 2003-2 (November 10, 2003). The General Assembly finds that it is
+27 in the public's interest to codify the rulings of such opinions on what constitutes the
+28 unauthorized practice of law as it pertains to real estate closings in this state.
+29 SECTION 1-2.
+30 Article 3 of Chapter 19 of Title 15 of the Official Code of Georgia Annotated, relating to the
+31 regulation of the practice of law, is amended by revising Code Section 15-19-50, relating to
+32 "practice of law" defined, as follows:
+33 "15-19-50.
+34 (a) The practice of law in this state is defined as:
+35 (1) Representing litigants in court and preparing pleadings and other papers incident to
+36 any action or special proceedings in any court or other judicial body;
+37 (2) Conveyancing, including the transfer of ownership of real property located in this
+38 state or any act in a real estate closing that constitutes the practice of law;
+39 (3) The preparation of legal instruments of all kinds whereby a legal right is secured;
+S. B. 90
+- 2 -
+25 LC 52 0714
+40 (4) The rendering of opinions as to the validity or invalidity of titles to real or personal
+41 property;
+42 (5) The giving of any legal advice; and
+43 (6) Any action taken for others in any matter connected with the law.
+44 (b) Nothing in paragraph (2) of subsection (a) of this Code section shall prohibit acts taken
+45 by an individual while solely representing himself or herself in the purchase or sale of real
+46 estate property located in this state."
+47 SECTION 1-3.
+48 Said article is further amended by adding new Code sections to read as follows:
+49 "15-19-50.1.
+50 As used in this article, the term:
+51 (1) 'In person electronic notarization' means a notarial act in which: the signatory appears
+52 in front of and is identified by the notary in the same physical location at the time of
+53 notarization; the document is presented in a digital format and signed using an electronic
+54 signature; the notary witnesses the act of signing the document; and the notary uses an
+55 electronic seal and signature to notarize the document.
+56 (2) 'Real estate closing using electronic means' refers to the continuous, interconnected
+57 series of events through which title to real property located in this state is conveyed from
+58 one party to another party and includes all acts conducted in whole or in part using
+59 electronic means as provided for in Code Section 15-19-50.2.
+60 (3) 'Security instrument' means any written document presented for recording for the
+61 purpose of conveying or creating a lien or encumbrance on real estate for the purpose of
+62 securing a long-term note secured by real estate.
+63 (4) 'Technology provider' means an individual or entity that offers the services of a
+64 tamper-evident technology for electronic notarial acts.
+S. B. 90
+- 3 -
+25 LC 52 0714
+65 (5) 'Witness-only closing' means a real estate closing in which an attorney presides over
+66 the execution of deeds of conveyance and other closing documents but purports to do so
+67 merely as a witness and notary and not as someone who is practicing law.
+68 15-19-50.2.
+69 (a) Any witness-only closing shall be unlawful in this state.
+70 (b) An attorney conducting any real estate closing shall:
+71 (1) Be licensed and present in this state at the time of such closing;
+72 (2) Directly supervise and be responsible for the entirety of such closing, including all
+73 employees, agents, and contractors who assist the attorney with such closing;
+74 (3) Perform any and all duties otherwise required by law and by the rules and opinions
+75 of the Supreme Court of Georgia; and
+76 (4) Comply with subsection (c) of this Code section if conducting a real estate closing
+77 using electronic means.
+78 (c) In any real estate closing using electronic means, the participants shall have the
+79 following duties:
+80 (1) The attorney shall:
+81 (A) Obtain consent from all participants to such closing, including any mortgage
+82 lender, to the use of electronic means to facilitate such closing prior to such closing;
+83 (B) Utilize two-way audio-video communication technology that is sufficiently secure
+84 to prevent interference with the authenticity, integrity, and security of all documents for
+85 such closing;
+86 (C) Confirm the identity of any signatory through knowledge based authentication or
+87 the presentation of a government issued form of identification and credential analysis;
+88 (D) Ensure that two-way audio-video communication technology records such closing
+89 and that such recording contains the following:
+90 (i) The date and time of such closing, including any notarial act;
+S. B. 90
+- 4 -
+25 LC 52 0714
+91 (ii) A description of the documents that are being notarized;
+92 (iii) An attestation that the attorney is physically located in this state at the time of
+93 such closing; and
+94 (iv) A clear image of any government issued identification that was used to verify the
+95 identity of each participant;
+96 (E) Conduct only one real estate closing using electronic means at a time;
+97 (F) Certify that the copy of the electronic record is an accurate copy of such record;
+98 and
+99 (G) Retain possession of all electronic documents, a copy of the audio-video recording,
+100 and other records of such closing for at least six years;
+101 (2) The witness shall:
+102 (A)(i) Be in the same physical location as the signatory, able to see, hear, and
+103 communicate with the signatory, and able to witness the signature; or
+104 (ii) Be present in this state and able to see, hear, and communicate with the signatory
+105 and witness the signature through two-way audio-video communication technology;
+106 (B) Witness the signatory sign the document; and
+107 (C) Immediately sign the document as a witness; and
+108 (3) The notary public shall:
+109 (A) Be the attorney conducting such closing and shall provide his or her bar number
+110 on each notarized document;
+111 (B) Be present in this state;
+112 (C) Be able to see, hear, and communicate with the signatory and witness the signature
+113 by being in the same physical location for an in person electronic notarization or by
+114 using two-way audio-video communication technology for a real estate closing using
+115 electronic means;
+116 (D) Witness the signatory sign the document; and
+S. B. 90
+- 5 -
+25 LC 52 0714
+117 (E) Immediately notarize the document using an electronic seal compliant with the
+118 provisions of Code Section 45-17-6.
+119 (d) Any person, including, but not limited to, a notary public, a technology provider, a
+120 mortgage lender or its affiliates, employees, agents, and attorneys, or an attorney or the
+121 attorney's employee or agent, that aids or abets another person in violating the provisions
+122 of this Code section shall, upon the first or second conviction, be guilty of a misdemeanor;
+123 provided, however, that, upon a third or subsequent conviction, such person shall be guilty
+124 of a felony, punishable by imprisonment of not less than one year nor more than five years,
+125 a fine of up to $5,000.00, or both."
+126 SECTION 1-4.
+127 Said article is further amended by revising subsection (a) of Code Section 15-19-51, relating
+128 to unauthorized practice of law forbidden, as follows:
+129 "(a) It shall be unlawful for any person other than a duly licensed attorney at law:
+130 (1) To practice or appear as an attorney at law for any person other than himself or
+131 herself in any court of this state or before any judicial body;
+132 (2) To make it a business to practice as an attorney at law for any person other than
+133 himself or herself in any of such courts;
+134 (3) To hold himself or herself out to the public or otherwise to any person as being
+135 entitled to practice law;
+136 (4) To render or furnish legal services or advice;
+137 (5) To furnish attorneys or counsel;
+138 (6) To render legal services of any kind in actions or proceedings of any nature;
+139 (7) To assume or use or advertise the title of 'lawyer,' 'attorney,' 'attorney at law,' or
+140 equivalent terms in any language in such manner as to convey the impression that he or
+141 she is entitled to practice law or is entitled to furnish legal advice, services, or counsel;
+142 or
+S. B. 90
+- 6 -
+25 LC 52 0714
+143 (8) To advertise that either alone or together with, by, or through any person, whether
+144 a duly and regularly admitted attorney at law or not, he or she has, owns, conducts, or
+145 maintains an office for the practice of law or for furnishing legal advice, services, or
+146 counsel; or
+147 (9) To perform any act that constitutes the practice of law under the law or under the
+148 rules and opinions of the Supreme Court of Georgia."
+149 SECTION 1-5.
+150 Said article is further amended by revising Code Section 15-19-58, relating to injunctive
+151 relief, venue, procedure, and other remedies not curtailed, as follows:
+152 "15-19-58.
+153 (a) The Attorney General, any district attorney, Either the State Bar of Georgia, the
+154 Judicial Council of this state, or any organized bar association of this state is authorized to
+155 institute in the proper superior court of this state an action or actions seeking injunctive
+156 relief, civil penalties not to exceed $10,000.00 per violation, restitution for an ascertainable
+157 loss caused by such violation, and investigative costs, reasonable expenses, and attorney's
+158 and witness fees, against any person, firm, or corporation, when it determines after an
+159 investigation determines that such person, firm, or corporation:
+160 (1) Is engaged in the unauthorized or unlawful practice of law;
+161 (2) Reserved;
+162 (3) Is in In violation of Code Section 15-19-55 or rules promulgated by the Supreme
+163 Court, is orally or by in writing, for a consideration then or afterwards to be charged or
+164 received by himself or herself or another, offering or tendering to another person, without
+165 the solicitation of such other person, the services of an attorney at law, resident or
+166 nonresident of this state, in order for the attorney to institute an action or represent the
+167 person in the courts of this or any other state or of the United States in the enforcement
+S. B. 90
+- 7 -
+25 LC 52 0714
+168 or collection by law of any claim, debt, or demand of any such person against another or
+169 is suggesting or urging the bringing of the action; or
+170 (4) Is engaged in the practice of seeking out and proposing to other persons that they
+171 present and urge through any attorney at law the collection of any claim, debt, or demand
+172 of such person against another.
+173 (b) The venue of any action authorized by this Code section shall be determined by the
+174 constitutional and statutory provisions relating to cases in equity.
+175 (c) The hearing, interlocutory or final, and the trial of actions authorized by this Code
+176 section shall be governed by the laws of this state relating to injunctions, as shall appeals
+177 from orders or judgments therein.
+178 (d) In any action brought under this Code section, the final judgment, if in favor of the
+179 plaintiff, shall perpetually enjoin the defendant or defendants from the commission or
+180 continuance of the act or acts complained of. Restraining orders or temporary injunctions
+181 may be granted as in other cases in which injunctive relief is sought. Any person who
+182 violates the terms of an injunction, judgment, or consent order entered under the provisions
+183 of this Code section shall forfeit and pay to the state a civil penalty of not more
+184 than $20,000.00 per violation of such injunction, judgment, or consent order, and
+185 investigative costs, reasonable expenses, and attorney's and witness fees.
+186 (e) This Code section and Code Section 15-19-57 shall not repeal or curtail any remedy
+187 provided in cases of unauthorized or unlawful practice of law, and nothing contained in
+188 these Code sections shall be construed as abridging the powers of the courts in such
+189 matters."
+190 SECTION 1-6.
+191 Said article is further amended by revising Code Section 15-19-60, relating to consumer
+192 action for damages for violations, as follows:
+S. B. 90
+- 8 -
+25 LC 52 0714
+193 "15-19-60.
+194 Any consumer who is a party to a one-to-four family residential real estate transaction or
+195 a consumer debtor or a trustee of a consumer debtor in a bankruptcy case that involves a
+196 one-to-four family residential real property who is damaged by a violation of this article
+197 or a violation of the Supreme Court's rules or opinions governing the unlicensed practice
+198 of law shall be entitled to maintain a civil action to recover damages, treble damages,
+199 reasonable attorney's fees, and expenses of litigation. A claim for a violation of this Code
+200 section shall be asserted in an individual action only and shall not be the subject of a class
+201 action under Code Section 9-11-23. This Code section shall not prevent the activities
+202 authorized by Code Section 15-19-52, 15-19-53, 15-19-54, 15-19-59, or 43-40-25.1.
+203 (a) Any buyer, seller, or borrower that is or was a party to a residential or commercial real
+204 estate closing in which any person involved in such transaction engaged in conduct
+205 constituting the unauthorized or unlawful practice of law or a class of such plaintiffs shall
+206 be entitled to maintain a civil action to recover damages. Such damages shall include, but
+207 not be limited to:
+208 (1) Actual monetary losses incurred by the plaintiff or the class of plaintiffs as a result
+209 of a violation of the provisions this article, or $1,000.00 in damages for each such
+210 violation, whichever is greater;
+211 (2) Any expenses paid by the plaintiff or the class of plaintiffs for the services of any
+212 person or entity that violated the provisions of this article; and
+213 (3) De minimis or nominal damages incurred by the plaintiff or the class of plaintiffs as
+214 a result of a violation of the provisions of this article.
+215 (b) In addition to any other penalties provided for by law, if the court finds that the
+216 defendant willfully or knowingly violated the provisions of this article, the court may, in
+217 its discretion, increase the award to an amount equal to not more than three times the
+218 amount available under paragraph (1) of subsection (a) of this Code section. The court
+219 shall consider the frequency and persistence of noncompliance by the defendant, the nature
+S. B. 90
+- 9 -
+25 LC 52 0714
+220 of such noncompliance, the extent to which such noncompliance was intentional, the
+221 number of persons or sales impacted by the violation, the impact of the judgment, and the
+222 resources of the defendant.
+223 (c) Any person, including, but not limited to, a notary public, a technology provider, a
+224 mortgage lender or its affiliates, employees, agents, and attorneys, or an attorney or the
+225 attorney's employee or agent, that, while participating in a residential or commercial real
+226 estate closing, engages in conduct that constitutes the unauthorized or unlawful practice of
+227 law, knowingly aids and abets another person in committing such conduct, or otherwise
+228 violates the provisions of this article regulating real estate transactions shall be liable for
+229 damages resulting from such conduct.
+230 (d) When the loan agreement for a real estate transaction contains an arbitration clause and
+231 the mortgage lender or such lender's agent engages in conduct that constitutes the
+232 unauthorized or unlawful practice of law or an unlawful notarial act, the arbitration clause
+233 shall not be enforceable to the extent it restricts or excludes damages or remedies that
+234 would be available to the plaintiff in court, including the right to participate in a class
+235 action.
+236 (e) The court may provide such equitable relief it deems necessary or proper, including
+237 invalidating any security instrument in connection with the sale of the real estate property
+238 at issue executed in violation of the provisions of this article and enjoining the defendants
+239 from further violations of the provisions of this article.
+240 (f) In a successful action to enforce the provisions of this article, a court shall award
+241 plaintiffs costs, including reasonable attorney's fees. When a class of plaintiffs prevails,
+242 class counsel shall be entitled to the greater of one-third of the class's recovery or the
+243 number of hours billed at a reasonable hourly rate times a multiplier set by the court in its
+244 discretion, whichever is greater.
+245 (g) A person shall not be held liable for damages in any action brought under this article
+246 if the person shows by a preponderance of the evidence that the violation was not
+S. B. 90
+- 10 -
+25 LC 52 0714
+247 intentional and resulted from a bona fide error notwithstanding the maintenance of
+248 procedures implemented to avoid such error.
+249 (h) A cause of action brought under this Code section may be filed in any court of
+250 competent jurisdiction within this state without regard to the amount in controversy. Such
+251 cause of action shall be filed within one year from the date on which the violation occurred
+252 or the date of discovery of the violation, whichever is later.
+253 (i) This Code section shall not prevent the activities authorized by this article, Chapter 17
+254 of Title 45, and Code Section 43-40-25.1."
+255 PART II
+256 Notarization using electronic means
+257 SECTION 2-1.
+258 Article 1 of Chapter 17 of Title 45 of the Official Code of Georgia Annotated, relating to
+259 general provisions regarding notaries public, is amended by revising Code Section 45-17-9,
+260 relating to where notarial acts may be exercised, as follows:
+261 "45-17-9.
+262 (a) Notarial acts may be exercised in any county in the state, provided that the notary
+263 public shall be physically located in this state and the notarial act is performed in the
+264 physical presence of the notary public as provided in subsection (b) of this Code section
+265 or is performed remotely as provided in subsection (c) of this Code section.
+266 (b) Any notarial act to be performed in the physical presence of the notary public shall take
+267 place in the same physical location and at the same time and close enough for the notary
+268 public to see, hear, communicate with, and exchange tangible identification credentials
+269 with the individual whose act is being notarized.
+270 (c) Any notarial act to be performed remotely shall meet the following requirements:
+S. B. 90
+- 11 -
+25 LC 52 0714
+271 (1) The notary public shall use real-time two-way audio-video communication
+272 technology that allows the parties to see, hear, and communicate with each other and is
+273 sufficiently secure to prevent interference with the authenticity, integrity, and security of
+274 the transaction, corruption or loss of the recording of the transaction, and unauthorized
+275 use of or tampering with the recording, record, and backup record;
+276 (2) The signatory shall be physically located in the United States or one of its territories
+277 or military bases or at a United States embassy, consulate, or diplomatic mission location
+278 and present evidence of his or her identity and location;
+279 (3) The notary public shall witness the signature;
+280 (4) The notary public shall document evidence of the acts provided for in paragraphs (1)
+281 through (3) of this subsection; and
+282 (5) The notarial act shall not be performed to:
+283 (A) Create or execute a will, codicil, or testamentary trust; or
+284 (B) Notarize the signature on any security instrument or document executed for the
+285 conveyance of real property located in this state, whether or not such security
+286 instrument or document is recorded, except as provided for in Code Section 15-19-50.2.
+287 (d) A notary public may use an electronic seal of office to perform a notarial act as
+288 provided for in subsection (c) of this Code section or to perform an in-person electronic
+289 notarization in a real estate closing using electronic means as provided for in Code
+290 Section 15-19-50.2. Such electronic seal of office shall comply with the provisions of
+291 Code Section 45-17-6."
+292 SECTION 2-2.
+293 Said article is further amended by revising Code Section 45-17-20, relating to penalty and
+294 prosecution of violations of article, as follows:
+S. B. 90
+- 12 -
+25 LC 52 0714
+295 "45-17-20.
+296 (a) Any person who violates subsection (d) of Code Section 45-17-8 shall be guilty of a
+297 misdemeanor or performs any notarial act without complying with the provisions of this
+298 article shall, upon a first or second conviction, be guilty of a misdemeanor; provided,
+299 however, that, upon a third or subsequent conviction, such person shall be guilty of a
+300 felony, punishable by imprisonment of not less than one year nor more than five years, a
+301 fine of up to $5,000.00, or both.
+302 (b) Any person who performs any notarial service without complying with the provisions
+303 of this article shall, upon the, including, but not limited to, a notary public, a technology
+304 provider, a mortgage lender or its affiliates, employees, agents, and attorneys, or an
+305 attorney or the attorney's employee or agent, that aids or abets another person in violating
+306 the provisions of this article, including, but not limited to, directing the performance of an
+307 unauthorized notarial act, shall, upon a first or second conviction, be guilty of a
+308 misdemeanor and; provided, however, that, upon a third or subsequent conviction, such
+309 person shall be guilty of a felony, punishable by imprisonment of not less than one year nor
+310 more than five years, a fine of up to $5,000.00, or both."
+311 SECTION 2-3.
+312 Said article is further amended by adding a new Code section to read as follows:
+313 "45-17-21.
+314 (a) Any person, including, but not limited to, a notary public, a technology provider, a
+315 mortgage lender or its affiliates, employees, agents, and attorneys, or an attorney or the
+316 attorney's employee or agent, that, while participating in a residential or commercial real
+317 estate closing involving property located in this state, engages in conduct that constitutes
+318 an unlawful notarial act, knowingly aids and abets another person in committing an
+319 unlawful notarial act, or otherwise violates the provisions of this article regulating real
+320 estate transactions shall be liable for damages resulting from such illegal conduct.
+S. B. 90
+- 13 -
+25 LC 52 0714
+321 (b) Any buyer, seller, or borrower that is or was party to a residential or commercial real
+322 estate closing involving property located in this state in which any person engaged in an
+323 unlawful notarial act or other violation of the provisions of this article or a class of such
+324 plaintiffs shall be entitled to maintain a civil action to recover damages. Such damages
+325 shall include, but not be limited to:
+326 (1) Actual monetary losses incurred by the plaintiff or class of plaintiffs as a result of a
+327 violation of the provisions of this article, or $1,000.00 in damages for each such violation,
+328 whichever is greater;
+329 (2) Any expenses paid by the plaintiff or class of plaintiffs for the services of any person
+330 or entity that violated the provisions of this article; and
+331 (3) De minimis or nominal damages incurred by the plaintiff or class of plaintiffs as a
+332 result of a violation of the provisions of this article.
+333 (c) In addition to penalties provided for in this article, if the court finds that the defendant
+334 willfully or knowingly violated the provisions of this article, the court may, in its
+335 discretion, increase the award to any amount equal to not more than three times the amount
+336 available under paragraph (1) of subsection (b) of this Code section.
+337 (d) When the loan agreement for a real estate transaction contains an arbitration clause and
+338 the mortgage lender or such lender's agent engages in conduct that constitutes an unlawful
+339 notarial act, the arbitration clause shall not be enforceable to the extent it restricts or
+340 excludes damages or remedies that would be available to the plaintiff in court, including
+341 the right to participate in a class action.
+342 (e) The court may provide such equitable relief it deems necessary or proper, including
+343 invalidating any security instrument executed in violation of Code Section 45-17-9 in
+344 connection with the sale of the real estate property at issue and enjoining the defendants
+345 from further violations of the provisions of this article.
+346 (f) In a successful action to enforce the provisions of this article, a court shall award the
+347 plaintiff costs, including reasonable attorney's fees. When a class of plaintiffs prevails,
+S. B. 90
+- 14 -
+25 LC 52 0714
+348 class counsel shall be entitled to the greater of one-third of the class's recovery or the
+349 number of hours billed at reasonable hourly rate times a multiplier set by the court in its
+350 discretion, whichever is greater.
+351 (g) A cause of action brought under this Code section may be filed in any court of
+352 competent jurisdiction within this state without regard to the amount in controversy. Such
+353 cause of action shall be filed within one year from the date on which the violation occurred
+354 or the date of discovery of the violation, whichever is later."
+355 PART III
+356 Effective date and repealer
+357 SECTION 3-1.
+358 This Act shall become effective upon its approval by the Governor or upon its becoming law
+359 without such approval.
+360 SECTION 3-2.
+361 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 90
+- 15 -
+[DELETED: 5L p r n p r s a t p f t p f c p a c l i c a o]
+[DELETED: 5L N 0 ( 6 2 I r F A O N 1 t p i t c t r o s o o w c t]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L t C s s f a p t t s a c p o n m $ p v o s i j o c o a]
+[DELETED: 5L c i w a p i i s t e i c]
+[DELETED: 5L m l o s l a e i c t c t t p s b a p o t e t t v w n]
+[DELETED: 5L a r f a b f e n t m o]
+[DELETED: 5L  T n p s u r t a c o r p l i t s w o n s s i a r e c u e m a p f i C]
+[DELETED: 5L a m l o i a e a a a o a n a s u a f o s c b g o  u n a k a a a a p i c a]
+[DELETED: 5L o k v t p o t a t c m i i]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0714
+Senate Bill 90
+By: Senators Tillery of the 19th and Albers of the 56th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 3 of Chapter 19 of Title 15 and Article 1 of Chapter 17 of Title 45 of the
+2 Official Code of Georgia Annotated, relating to the regulation of the practice of law and
+3 general provisions regarding notaries public, respectively, so as to provide for the
+4 modernization of certain legal, notarial, and court services using electronic means; to allow
+5 an attorney to conduct a real estate closing for property in this state using electronic means
+6 under certain conditions; to clarify the definition of the practice of law; to provide for
+7 definitions; to prohibit witness-only closings; to prohibit the unauthorized practice of law;
+8 to provide for penalties, liability, remedies, relief, and class action lawsuits; to provide for
+9 legislative construction; to provide for legislative findings; to provide for certain notarial acts
+10 to be performed remotely using electronic means when certain requirements are satisfied; to
+11 provide for requirements and exemptions; to permit the use of an electronic seal of office;
+12 to provide for criminal penalties and civil liability, including compensatory and other
+13 damages; to provide for class action lawsuits; to provide for related matters; to provide for
+14 an effective date; to repeal conflicting laws; and for other purposes.
+15 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 90
+- 1 -
+
+25 LC 52 0714
+16 PART I
+17 Real estate closing using electronic means
+18 SECTION 1-1.
+19 The General Assembly recognizes that the Supreme Court of Georgia, in the exercise of its
+20 authority to govern the practice of law in this state, has issued several opinions addressing
+21 real estate closings and the practice of law, including, but not limited to, Formal Advisory
+22 Opinion No. 86-5 (86-R9) (May 12, 1989), Formal Advisory Opinion No. 00-3 (February 11,
+23 2000), In re: Formal Advisory Opinion No. 00-3 (November 10, 2003), Formal Advisory
+24 Opinion No. 04-1 (August 6, 2004), In re: Formal Advisory Opinion No. 13-1
+25 (September 22, 2014), UPL Advisory Opinion No. 2003-2 (April 22, 2003), and In re: UPL
+26 Advisory Opinion No. 2003-2 (November 10, 2003). The General Assembly finds that it is
+27 in the public's interest to codify the rulings of such opinions on what constitutes the
+28 unauthorized practice of law as it pertains to real estate closings in this state.
+29 SECTION 1-2.
+30 Article 3 of Chapter 19 of Title 15 of the Official Code of Georgia Annotated, relating to the
+31 regulation of the practice of law, is amended by revising Code Section 15-19-50, relating to
+32 "practice of law" defined, as follows:
+33 "15-19-50.
+34 (a) The practice of law in this state is defined as:
+35 (1) Representing litigants in court and preparing pleadings and other papers incident to
+36 any action or special proceedings in any court or other judicial body;
+37 (2) Conveyancing, including the transfer of ownership of real property located in this
+38 state or any act in a real estate closing that constitutes the practice of law;
+39 (3) The preparation of legal instruments of all kinds whereby a legal right is secured;
+S. B. 90
+- 2 -
+
+25 LC 52 0714
+40 (4) The rendering of opinions as to the validity or invalidity of titles to real or personal
+41 property;
+42 (5) The giving of any legal advice; and
+43 (6) Any action taken for others in any matter connected with the law.
+44 (b) Nothing in paragraph (2) of subsection (a) of this Code section shall prohibit acts taken
+45 by an individual while solely representing himself or herself in the purchase or sale of real
+46 estate property located in this state."
+47 SECTION 1-3.
+48 Said article is further amended by adding new Code sections to read as follows:
+49 "15-19-50.1.
+50 As used in this article, the term:
+51 (1) 'In person electronic notarization' means a notarial act in which: the signatory appears
+52 in front of and is identified by the notary in the same physical location at the time of
+53 notarization; the document is presented in a digital format and signed using an electronic
+54 signature; the notary witnesses the act of signing the document; and the notary uses an
+55 electronic seal and signature to notarize the document.
+56 (2) 'Real estate closing using electronic means' refers to the continuous, interconnected
+57 series of events through which title to real property located in this state is conveyed from
+58 one party to another party and includes all acts conducted in whole or in part using
+59 electronic means as provided for in Code Section 15-19-50.2.
+60 (3) 'Security instrument' means any written document presented for recording for the
+61 purpose of conveying or creating a lien or encumbrance on real estate for the purpose of
+62 securing a long-term note secured by real estate.
+63 (4) 'Technology provider' means an individual or entity that offers the services of a
+64 tamper-evident technology for electronic notarial acts.
+S. B. 90
+- 3 -
+
+25 LC 52 0714
+65 (5) 'Witness-only closing' means a real estate closing in which an attorney presides over
+66 the execution of deeds of conveyance and other closing documents but purports to do so
+67 merely as a witness and notary and not as someone who is practicing law.
+68 15-19-50.2.
+69 (a) Any witness-only closing shall be unlawful in this state.
+70 (b) An attorney conducting any real estate closing shall:
+71 (1) Be licensed and present in this state at the time of such closing;
+72 (2) Directly supervise and be responsible for the entirety of such closing, including all
+73 employees, agents, and contractors who assist the attorney with such closing;
+74 (3) Perform any and all duties otherwise required by law and by the rules and opinions
+75 of the Supreme Court of Georgia; and
+76 (4) Comply with subsection (c) of this Code section if conducting a real estate closing
+77 using electronic means.
+78 (c) In any real estate closing using electronic means, the participants shall have the
+79 following duties:
+80 (1) The attorney shall:
+81 (A) Obtain consent from all participants to such closing, including any mortgage
+82 lender, to the use of electronic means to facilitate such closing prior to such closing;
+83 (B) Utilize two-way audio-video communication technology that is sufficiently secure
+84 to prevent interference with the authenticity, integrity, and security of all documents for
+85 such closing;
+86 (C) Confirm the identity of any signatory through knowledge based authentication or
+87 the presentation of a government issued form of identification and credential analysis;
+88 (D) Ensure that two-way audio-video communication technology records such closing
+89 and that such recording contains the following:
+90 (i) The date and time of such closing, including any notarial act;
+S. B. 90
+- 4 -
+
+25 LC 52 0714
+91 (ii) A description of the documents that are being notarized;
+92 (iii) An attestation that the attorney is physically located in this state at the time of
+93 such closing; and
+94 (iv) A clear image of any government issued identification that was used to verify the
+95 identity of each participant;
+96 (E) Conduct only one real estate closing using electronic means at a time;
+97 (F) Certify that the copy of the electronic record is an accurate copy of such record;
+98 and
+99 (G) Retain possession of all electronic documents, a copy of the audio-video recording,
+100 and other records of such closing for at least six years;
+101 (2) The witness shall:
+102 (A)(i) Be in the same physical location as the signatory, able to see, hear, and
+103 communicate with the signatory, and able to witness the signature; or
+104 (ii) Be present in this state and able to see, hear, and communicate with the signatory
+105 and witness the signature through two-way audio-video communication technology;
+106 (B) Witness the signatory sign the document; and
+107 (C) Immediately sign the document as a witness; and
+108 (3) The notary public shall:
+109 (A) Be the attorney conducting such closing and shall provide his or her bar number
+110 on each notarized document;
+111 (B) Be present in this state;
+112 (C) Be able to see, hear, and communicate with the signatory and witness the signature
+113 by being in the same physical location for an in person electronic notarization or by
+114 using two-way audio-video communication technology for a real estate closing using
+115 electronic means;
+116 (D) Witness the signatory sign the document; and
+S. B. 90
+- 5 -
+
+25 LC 52 0714
+117 (E) Immediately notarize the document using an electronic seal compliant with the
+118 provisions of Code Section 45-17-6.
+119 (d) Any person, including, but not limited to, a notary public, a technology provider, a
+120 mortgage lender or its affiliates, employees, agents, and attorneys, or an attorney or the
+121 attorney's employee or agent, that aids or abets another person in violating the provisions
+122 of this Code section shall, upon the first or second conviction, be guilty of a misdemeanor;
+123 provided, however, that, upon a third or subsequent conviction, such person shall be guilty
+124 of a felony, punishable by imprisonment of not less than one year nor more than five years,
+125 a fine of up to $5,000.00, or both."
+126 SECTION 1-4.
+127 Said article is further amended by revising subsection (a) of Code Section 15-19-51, relating
+128 to unauthorized practice of law forbidden, as follows:
+129 "(a) It shall be unlawful for any person other than a duly licensed attorney at law:
+130 (1) To practice or appear as an attorney at law for any person other than himself or
+131 herself in any court of this state or before any judicial body;
+132 (2) To make it a business to practice as an attorney at law for any person other than
+133 himself or herself in any of such courts;
+134 (3) To hold himself or herself out to the public or otherwise to any person as being
+135 entitled to practice law;
+136 (4) To render or furnish legal services or advice;
+137 (5) To furnish attorneys or counsel;
+138 (6) To render legal services of any kind in actions or proceedings of any nature;
+139 (7) To assume or use or advertise the title of 'lawyer,' 'attorney,' 'attorney at law,' or
+140 equivalent terms in any language in such manner as to convey the impression that he or
+141 she is entitled to practice law or is entitled to furnish legal advice, services, or counsel;
+142 or
+S. B. 90
+- 6 -
+
+25 LC 52 0714
+143 (8) To advertise that either alone or together with, by, or through any person, whether
+144 a duly and regularly admitted attorney at law or not, he or she has, owns, conducts, or
+145 maintains an office for the practice of law or for furnishing legal advice, services, or
+146 counsel; or
+147 (9) To perform any act that constitutes the practice of law under the law or under the
+148 rules and opinions of the Supreme Court of Georgia."
+149 SECTION 1-5.
+150 Said article is further amended by revising Code Section 15-19-58, relating to injunctive
+151 relief, venue, procedure, and other remedies not curtailed, as follows:
+152 "15-19-58.
+153 (a) The Attorney General, any district attorney, Either the State Bar of Georgia, the
+154 Judicial Council of this state, or any organized bar association of this state is authorized to
+155 institute in the proper superior court of this state an action or actions seeking injunctive
+156 relief, civil penalties not to exceed $10,000.00 per violation, restitution for an ascertainable
+157 loss caused by such violation, and investigative costs, reasonable expenses, and attorney's
+158 and witness fees, against any person, firm, or corporation, when it determines after an
+159 investigation determines that such person, firm, or corporation:
+160 (1) Is engaged in the unauthorized or unlawful practice of law;
+161 (2) Reserved;
+162 (3) Is in In violation of Code Section 15-19-55 or rules promulgated by the Supreme
+163 Court, is orally or by in writing, for a consideration then or afterwards to be charged or
+164 received by himself or herself or another, offering or tendering to another person, without
+165 the solicitation of such other person, the services of an attorney at law, resident or
+166 nonresident of this state, in order for the attorney to institute an action or represent the
+167 person in the courts of this or any other state or of the United States in the enforcement
+S. B. 90
+- 7 -
+
+25 LC 52 0714
+168 or collection by law of any claim, debt, or demand of any such person against another or
+169 is suggesting or urging the bringing of the action; or
+170 (4) Is engaged in the practice of seeking out and proposing to other persons that they
+171 present and urge through any attorney at law the collection of any claim, debt, or demand
+172 of such person against another.
+173 (b) The venue of any action authorized by this Code section shall be determined by the
+174 constitutional and statutory provisions relating to cases in equity.
+175 (c) The hearing, interlocutory or final, and the trial of actions authorized by this Code
+176 section shall be governed by the laws of this state relating to injunctions, as shall appeals
+177 from orders or judgments therein.
+178 (d) In any action brought under this Code section, the final judgment, if in favor of the
+179 plaintiff, shall perpetually enjoin the defendant or defendants from the commission or
+180 continuance of the act or acts complained of. Restraining orders or temporary injunctions
+181 may be granted as in other cases in which injunctive relief is sought. Any person who
+182 violates the terms of an injunction, judgment, or consent order entered under the provisions
+183 of this Code section shall forfeit and pay to the state a civil penalty of not more
+184 than $20,000.00 per violation of such injunction, judgment, or consent order, and
+185 investigative costs, reasonable expenses, and attorney's and witness fees.
+186 (e) This Code section and Code Section 15-19-57 shall not repeal or curtail any remedy
+187 provided in cases of unauthorized or unlawful practice of law, and nothing contained in
+188 these Code sections shall be construed as abridging the powers of the courts in such
+189 matters."
+190 SECTION 1-6.
+191 Said article is further amended by revising Code Section 15-19-60, relating to consumer
+192 action for damages for violations, as follows:
+S. B. 90
+- 8 -
+
+25 LC 52 0714
+193 "15-19-60.
+194 Any consumer who is a party to a one-to-four family residential real estate transaction or
+195 a consumer debtor or a trustee of a consumer debtor in a bankruptcy case that involves a
+196 one-to-four family residential real property who is damaged by a violation of this article
+197 or a violation of the Supreme Court's rules or opinions governing the unlicensed practice
+198 of law shall be entitled to maintain a civil action to recover damages, treble damages,
+199 reasonable attorney's fees, and expenses of litigation. A claim for a violation of this Code
+200 section shall be asserted in an individual action only and shall not be the subject of a class
+201 action under Code Section 9-11-23. This Code section shall not prevent the activities
+202 authorized by Code Section 15-19-52, 15-19-53, 15-19-54, 15-19-59, or 43-40-25.1.
+203 (a) Any buyer, seller, or borrower that is or was a party to a residential or commercial real
+204 estate closing in which any person involved in such transaction engaged in conduct
+205 constituting the unauthorized or unlawful practice of law or a class of such plaintiffs shall
+206 be entitled to maintain a civil action to recover damages. Such damages shall include, but
+207 not be limited to:
+208 (1) Actual monetary losses incurred by the plaintiff or the class of plaintiffs as a result
+209 of a violation of the provisions this article, or $1,000.00 in damages for each such
+210 violation, whichever is greater;
+211 (2) Any expenses paid by the plaintiff or the class of plaintiffs for the services of any
+212 person or entity that violated the provisions of this article; and
+213 (3) De minimis or nominal damages incurred by the plaintiff or the class of plaintiffs as
+214 a result of a violation of the provisions of this article.
+215 (b) In addition to any other penalties provided for by law, if the court finds that the
+216 defendant willfully or knowingly violated the provisions of this article, the court may, in
+217 its discretion, increase the award to an amount equal to not more than three times the
+218 amount available under paragraph (1) of subsection (a) of this Code section. The court
+219 shall consider the frequency and persistence of noncompliance by the defendant, the nature
+S. B. 90
+- 9 -
+
+25 LC 52 0714
+220 of such noncompliance, the extent to which such noncompliance was intentional, the
+221 number of persons or sales impacted by the violation, the impact of the judgment, and the
+222 resources of the defendant.
+223 (c) Any person, including, but not limited to, a notary public, a technology provider, a
+224 mortgage lender or its affiliates, employees, agents, and attorneys, or an attorney or the
+225 attorney's employee or agent, that, while participating in a residential or commercial real
+226 estate closing, engages in conduct that constitutes the unauthorized or unlawful practice of
+227 law, knowingly aids and abets another person in committing such conduct, or otherwise
+228 violates the provisions of this article regulating real estate transactions shall be liable for
+229 damages resulting from such conduct.
+230 (d) When the loan agreement for a real estate transaction contains an arbitration clause and
+231 the mortgage lender or such lender's agent engages in conduct that constitutes the
+232 unauthorized or unlawful practice of law or an unlawful notarial act, the arbitration clause
+233 shall not be enforceable to the extent it restricts or excludes damages or remedies that
+234 would be available to the plaintiff in court, including the right to participate in a class
+235 action.
+236 (e) The court may provide such equitable relief it deems necessary or proper, including
+237 invalidating any security instrument in connection with the sale of the real estate property
+238 at issue executed in violation of the provisions of this article and enjoining the defendants
+239 from further violations of the provisions of this article.
+240 (f) In a successful action to enforce the provisions of this article, a court shall award
+241 plaintiffs costs, including reasonable attorney's fees. When a class of plaintiffs prevails,
+242 class counsel shall be entitled to the greater of one-third of the class's recovery or the
+243 number of hours billed at a reasonable hourly rate times a multiplier set by the court in its
+244 discretion, whichever is greater.
+245 (g) A person shall not be held liable for damages in any action brought under this article
+246 if the person shows by a preponderance of the evidence that the violation was not
+S. B. 90
+- 10 -
+
+25 LC 52 0714
+247 intentional and resulted from a bona fide error notwithstanding the maintenance of
+248 procedures implemented to avoid such error.
+249 (h) A cause of action brought under this Code section may be filed in any court of
+250 competent jurisdiction within this state without regard to the amount in controversy. Such
+251 cause of action shall be filed within one year from the date on which the violation occurred
+252 or the date of discovery of the violation, whichever is later.
+253 (i) This Code section shall not prevent the activities authorized by this article, Chapter 17
+254 of Title 45, and Code Section 43-40-25.1."
+255 PART II
+256 Notarization using electronic means
+257 SECTION 2-1.
+258 Article 1 of Chapter 17 of Title 45 of the Official Code of Georgia Annotated, relating to
+259 general provisions regarding notaries public, is amended by revising Code Section 45-17-9,
+260 relating to where notarial acts may be exercised, as follows:
+261 "45-17-9.
+262 (a) Notarial acts may be exercised in any county in the state, provided that the notary
+263 public shall be physically located in this state and the notarial act is performed in the
+264 physical presence of the notary public as provided in subsection (b) of this Code section
+265 or is performed remotely as provided in subsection (c) of this Code section.
+266 (b) Any notarial act to be performed in the physical presence of the notary public shall take
+267 place in the same physical location and at the same time and close enough for the notary
+268 public to see, hear, communicate with, and exchange tangible identification credentials
+269 with the individual whose act is being notarized.
+270 (c) Any notarial act to be performed remotely shall meet the following requirements:
+S. B. 90
+- 11 -
+
+25 LC 52 0714
+271 (1) The notary public shall use real-time two-way audio-video communication
+272 technology that allows the parties to see, hear, and communicate with each other and is
+273 sufficiently secure to prevent interference with the authenticity, integrity, and security of
+274 the transaction, corruption or loss of the recording of the transaction, and unauthorized
+275 use of or tampering with the recording, record, and backup record;
+276 (2) The signatory shall be physically located in the United States or one of its territories
+277 or military bases or at a United States embassy, consulate, or diplomatic mission location
+278 and present evidence of his or her identity and location;
+279 (3) The notary public shall witness the signature;
+280 (4) The notary public shall document evidence of the acts provided for in paragraphs (1)
+281 through (3) of this subsection; and
+282 (5) The notarial act shall not be performed to:
+283 (A) Create or execute a will, codicil, or testamentary trust; or
+284 (B) Notarize the signature on any security instrument or document executed for the
+285 conveyance of real property located in this state, whether or not such security
+286 instrument or document is recorded, except as provided for in Code Section 15-19-50.2.
+287 (d) A notary public may use an electronic seal of office to perform a notarial act as
+288 provided for in subsection (c) of this Code section or to perform an in-person electronic
+289 notarization in a real estate closing using electronic means as provided for in Code
+290 Section 15-19-50.2. Such electronic seal of office shall comply with the provisions of
+291 Code Section 45-17-6."
+292 SECTION 2-2.
+293 Said article is further amended by revising Code Section 45-17-20, relating to penalty and
+294 prosecution of violations of article, as follows:
+S. B. 90
+- 12 -
+
+25 LC 52 0714
+295 "45-17-20.
+296 (a) Any person who violates subsection (d) of Code Section 45-17-8 shall be guilty of a
+297 misdemeanor or performs any notarial act without complying with the provisions of this
+298 article shall, upon a first or second conviction, be guilty of a misdemeanor; provided,
+299 however, that, upon a third or subsequent conviction, such person shall be guilty of a
+300 felony, punishable by imprisonment of not less than one year nor more than five years, a
+301 fine of up to $5,000.00, or both.
+302 (b) Any person who performs any notarial service without complying with the provisions
+303 of this article shall, upon the, including, but not limited to, a notary public, a technology
+304 provider, a mortgage lender or its affiliates, employees, agents, and attorneys, or an
+305 attorney or the attorney's employee or agent, that aids or abets another person in violating
+306 the provisions of this article, including, but not limited to, directing the performance of an
+307 unauthorized notarial act, shall, upon a first or second conviction, be guilty of a
+308 misdemeanor and; provided, however, that, upon a third or subsequent conviction, such
+309 person shall be guilty of a felony, punishable by imprisonment of not less than one year nor
+310 more than five years, a fine of up to $5,000.00, or both."
+311 SECTION 2-3.
+312 Said article is further amended by adding a new Code section to read as follows:
+313 "45-17-21.
+314 (a) Any person, including, but not limited to, a notary public, a technology provider, a
+315 mortgage lender or its affiliates, employees, agents, and attorneys, or an attorney or the
+316 attorney's employee or agent, that, while participating in a residential or commercial real
+317 estate closing involving property located in this state, engages in conduct that constitutes
+318 an unlawful notarial act, knowingly aids and abets another person in committing an
+319 unlawful notarial act, or otherwise violates the provisions of this article regulating real
+320 estate transactions shall be liable for damages resulting from such illegal conduct.
+S. B. 90
+- 13 -
+
+25 LC 52 0714
+321 (b) Any buyer, seller, or borrower that is or was party to a residential or commercial real
+322 estate closing involving property located in this state in which any person engaged in an
+323 unlawful notarial act or other violation of the provisions of this article or a class of such
+324 plaintiffs shall be entitled to maintain a civil action to recover damages. Such damages
+325 shall include, but not be limited to:
+326 (1) Actual monetary losses incurred by the plaintiff or class of plaintiffs as a result of a
+327 violation of the provisions of this article, or $1,000.00 in damages for each such violation,
+328 whichever is greater;
+329 (2) Any expenses paid by the plaintiff or class of plaintiffs for the services of any person
+330 or entity that violated the provisions of this article; and
+331 (3) De minimis or nominal damages incurred by the plaintiff or class of plaintiffs as a
+332 result of a violation of the provisions of this article.
+333 (c) In addition to penalties provided for in this article, if the court finds that the defendant
+334 willfully or knowingly violated the provisions of this article, the court may, in its
+335 discretion, increase the award to any amount equal to not more than three times the amount
+336 available under paragraph (1) of subsection (b) of this Code section.
+337 (d) When the loan agreement for a real estate transaction contains an arbitration clause and
+338 the mortgage lender or such lender's agent engages in conduct that constitutes an unlawful
+339 notarial act, the arbitration clause shall not be enforceable to the extent it restricts or
+340 excludes damages or remedies that would be available to the plaintiff in court, including
+341 the right to participate in a class action.
+342 (e) The court may provide such equitable relief it deems necessary or proper, including
+343 invalidating any security instrument executed in violation of Code Section 45-17-9 in
+344 connection with the sale of the real estate property at issue and enjoining the defendants
+345 from further violations of the provisions of this article.
+346 (f) In a successful action to enforce the provisions of this article, a court shall award the
+347 plaintiff costs, including reasonable attorney's fees. When a class of plaintiffs prevails,
+S. B. 90
+- 14 -
+
+25 LC 52 0714
+348 class counsel shall be entitled to the greater of one-third of the class's recovery or the
+349 number of hours billed at reasonable hourly rate times a multiplier set by the court in its
+350 discretion, whichever is greater.
+351 (g) A cause of action brought under this Code section may be filed in any court of
+352 competent jurisdiction within this state without regard to the amount in controversy. Such
+353 cause of action shall be filed within one year from the date on which the violation occurred
+354 or the date of discovery of the violation, whichever is later."
+355 PART III
+356 Effective date and repealer
+357 SECTION 3-1.
+358 This Act shall become effective upon its approval by the Governor or upon its becoming law
+359 without such approval.
+360 SECTION 3-2.
+361 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 90
+- 15 -
+
+[DELETED: 5L p r n p r s a t p f t p f c p a c l i c a o]
+[DELETED: 5L N 0 ( 6 2 I r F A O N 1 t p i t c t r o s o o w c t]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L t C s s f a p t t s a c p o n m $ p v o s i j o c o a]
+[DELETED: 5L c i w a p i i s t e i c]
+[DELETED: 5L m l o s l a e i c t c t t p s b a p o t e t t v w n]
+[DELETED: 5L a r f a b f e n t m o]
+[DELETED: 5L  T n p s u r t a c o r p l i t s w o n s s i a r e c u e m a p f i C]
+[DELETED: 5L a m l o i a e a a a o a n a s u a f o s c b g o  u n a k a a a a p i c a]
+[DELETED: 5L o k v t p o t a t c m i i]
+[DELETED: 5L]

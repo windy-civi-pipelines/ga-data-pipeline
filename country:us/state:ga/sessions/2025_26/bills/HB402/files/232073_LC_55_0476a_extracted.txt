@@ -1,0 +1,499 @@
+Title: House Bill 402
+Official Title: House Bill 402
+Number of Sections: 1
+Source: versions - LC 55 0476/a
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0476
+By: Representatives Frye of the 122nd, Bell of the 75th, Drenner of the 85th, Sanchez of the
+42nd, Paris of the 142nd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 46 and 50 of the Official Code of Georgia Annotated, relating to public
+2 utilities and public transportation and state government, respectively, so as to provide for the
+3 establishment of renewable energy sources and renewable energy portfolio standard goals
+4 by the Public Service Commission for electric service providers; to provide for the inclusion
+5 of existing or planned renewable energy resources in integrated resource plans; to authorize
+6 the Georgia Environmental Finance Authority to finance and perform certain duties in
+7 connection with projects relating to renewable energy facilities; to provide for limited
+8 liability; to revise and provide for definitions; to provide for rules and regulations; to provide
+9 legislative findings; to provide for related matters; to repeal conflicting laws; and for other
+10 purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Title 46 of the Official Code of Georgia Annotated, relating to public utilities and public
+14 transportation, is amended in Article 1 of Chapter 3, relating to generation and distribution
+15 of electricity generally, by adding a new part to read as follows:
+H. B. 402
+- 1 -
+25 LC 55 0476
+16 "Part 6
+17 46-3-69.5.
+18 (a) It is the intent of the legislature to recognize the economic, environmental, and fuel
+19 diversity benefits of renewable energy resources; to encourage further development of
+20 these resources; and to encourage the establishment of a market for renewable energy in
+21 Georgia using this state's renewable energy resources. These efforts can reduce the
+22 consumption of fossil fuels for the generation of electricity and reduce this state's
+23 dependence on finite, nonrenewable resources. Accordingly, the General Assembly finds
+24 and declares that goals should be established for electric service providers to guide them
+25 in incorporating renewable resources into their resource portfolios.
+26 (b) The purpose of this part is to lessen Georgia's dependence on fossil fuels and the
+27 exposure of Georgia's consumers to volatile and rising prices for coal and natural gas by
+28 encouraging the greater use of renewable energy by establishing goals for electric service
+29 providers in implementing portfolio standards for renewable energy.
+30 46-3-69.6.
+31 As used in this part, the term:
+32 (1) 'Biomass material' means organic matter, excluding fossil fuels and black liquor,
+33 including agricultural crops; plants; trees; wood; wood wastes and residues; sawmill
+34 waste; sawdust; wood chips; bark chips; forest thinning, harvesting, or clearing residues;
+35 wood waste from pallets or other wood demolition debris; peanut shells; cotton plants;
+36 corn stalks; and plant matter, including aquatic plants, grasses, stalks, vegetation, and
+37 residues, including hulls, shells, or cellulose-containing fibers.
+38 (2) 'Electric membership corporation' means a corporation organized under Article 4 of
+39 this chapter.
+H. B. 402
+- 2 -
+25 LC 55 0476
+40 (3) 'Electric service provider' means any electric utility, electric membership corporation,
+41 or municipal electric provider engaged in the business of distributing electricity to retail
+42 or wholesale electric customers in this state.
+43 (4) 'Low impact hydropower' means energy produced by a dam and powerhouse that is:
+44 (A) Certified as low impact by the Low Impact Hydropower Institute; or
+45 (B) Evaluated by the commission as being compliant with the following standards:
+46 (i) Providing river flows that are healthy for fish, wildlife, and water quality,
+47 including seasonal flow fluctuations where appropriate;
+48 (ii) Protecting water quality in the river;
+49 (iii) Providing effective fish passage and protecting fish from entrainment;
+50 (iv) Taking sufficient action to protect, mitigate, and enhance environmental
+51 conditions in the watershed;
+52 (v) Avoiding negative impact on species classified as threatened or endangered by
+53 the federal or state government;
+54 (vi) Avoiding inappropriate impact on cultural resources;
+55 (vii) Providing free access to the water and accommodating recreational activities on
+56 the river; and
+57 (viii) Avoiding any recommendation for removal by a federal or state agency due to
+58 adverse environmental impacts.
+59 (5) 'Municipal electric provider' means an entity that provides electric services and that
+60 is owned or operated by a municipal corporation.
+61 (6) 'Renewable energy' means electrical energy produced from or by renewable energy
+62 sources.
+63 (7) 'Renewable energy sources' means any of the following: wind; solar energy; low
+64 impact hydropower; geothermal resources; ocean thermal energy; wave or tidal energy;
+65 biofuels derived entirely from organic sources other than coal, petroleum, or natural gas;
+66 the combustion of landfill gas; methane gas resulting from the anaerobic decomposition
+H. B. 402
+- 3 -
+25 LC 55 0476
+67 of organic materials; plasma arc; pyrolysis; gasification; biomass materials; postconsumer
+68 waste paper; forest related sources, including mill residues, waste pallets, crates, and
+69 dunnage; or forest and agricultural biomass sources, including orchard tree crops,
+70 vineyard, grain, legumes, sugar, switchgrass, other crop by-products or residues, and
+71 precommercial thinning, slash, brush, or landscape trimmings, but not including
+72 old-growth timber.
+73 46-3-69.7.
+74 (a) On or before July 1, 2026, the commission shall establish renewable energy sources
+75 and renewable energy portfolio standard goals for electric service providers to reach on an
+76 annual basis. Such goals shall not exceed 20 percent of annual net electricity sales for each
+77 electric service provider. In developing the renewable energy sources and renewable
+78 energy portfolio standard goals, the commission shall evaluate current and forecasted
+79 levelized costs in cents per kilowatt hour for all electric service providers through 2030 and
+80 current and forecasted installed capacity in kilowatts for each renewable energy generation
+81 method for all electric service providers through 2050.
+82 (b) Electric service providers are encouraged to meet and maintain the renewable energy
+83 sources and renewable energy portfolio standard goals established pursuant to
+84 subsection (a) of this Code section.
+85 46-3-69.8.
+86 On or before July 1, 2026, the commission shall adopt rules and regulations to carry out the
+87 provisions of this part. Such rules and regulations shall, at a minimum:
+88 (1) Provide for a reporting system to monitor voluntary compliance with this part. Such
+89 reporting system shall require electric service providers to report whether they are subject
+90 to energy portfolio requirements in more than one state and the amount of such
+91 requirements, if applicable, and to indicate the sources of energy used to voluntarily
+H. B. 402
+- 4 -
+25 LC 55 0476
+92 comply with the renewable energy sources and renewable energy portfolio standard goals
+93 established pursuant to subsection (a) of Code Section 46-3-46.7 and the requirements
+94 of other applicable states; and
+95 (2) Provide for annual reporting by all electric service providers of renewable energy
+96 usage, how the generation costs of renewable energy compare to costs from other
+97 generation sources, and the average price paid for the sources of the renewable energy
+98 produced."
+99 SECTION 2.
+100 Said title is further amended in Code Section 46-3A-1, relating to definitions relative to
+101 integrated resource planning, by revising paragraph (7) as follows:
+102 "(7) 'Plan' means an integrated resource plan which contains the utility's electric demand
+103 and energy forecast for at least a 20 year period, contains the utility's program for meeting
+104 the requirements shown in its forecast in an economical and reliable manner, contains the
+105 utility's analysis of all capacity resource options, including both demand-side and
+106 supply-side options, and sets forth the utility's assumptions and conclusions with respect
+107 to the effect of each capacity resource option on the future cost and reliability of electric
+108 service. The plan shall also:
+109 (A) Contain the size and type of facilities which are expected to be owned or operated
+110 in whole or in part by such utility and the construction of which is expected to
+111 commence during the ensuing ten years or such longer period as the commission deems
+112 necessary and shall identify all existing facilities intended to be removed from service
+113 during such period or upon completion of such construction;
+114 (B) Contain practical alternatives to the fuel type and method of generation of the
+115 proposed electric generating facilities and set forth in detail the reasons for selecting the
+116 fuel type and method of generation;
+H. B. 402
+- 5 -
+25 LC 55 0476
+117 (C) Contain a statement of the estimated impact of proposed and alternative generating
+118 plants on the environment and the means by which potential adverse impacts will be
+119 avoided or minimized;
+120 (D) Indicate in detail the projected demand for electric energy for a 20 year period and
+121 the basis for determining the projected demand;
+122 (E) Describe the utility's relationship to other utilities in regional associations, power
+123 pools, and networks;
+124 (F) Identify and describe all major research projects and programs which will continue
+125 or commence in the succeeding three years and set forth the reasons for selecting
+126 specific areas of research;
+127 (G) Identify and describe existing and planned programs and policies to discourage
+128 inefficient and excessive power use;
+129 (H) Identify and describe existing and planned renewable energy resources, if any,
+130 used by the utility and whether such existing and planned renewable energy resources
+131 are sufficient to comply with the renewable energy sources and renewable energy
+132 portfolio standard goals established pursuant to subsection (a) of Code Section
+133 46-3-46.7; and
+134 (H)(I) Provide any other information as may be required by the commission."
+135 SECTION 3.
+136 Title 50 of the Official Code of Georgia Annotated, relating to state government, is amended
+137 in Code Section 50-23-4, relating to definitions relative to the Georgia Environmental
+138 Finance Authority, by revising paragraphs (5) and (6) and adding a new paragraph to read
+139 as follows:
+140 "(5) 'Environmental facilities' means any projects, structures, and other real or personal
+141 property acquired, rehabilitated, constructed, or planned:
+H. B. 402
+- 6 -
+25 LC 55 0476
+142 (A) For the purposes of supplying, distributing, and treating water and diverting,
+143 channeling, or controlling water flow and head including, but not limited to, surface or
+144 ground water, canals, reservoirs, channels, basins, dams, aqueducts, standpipes,
+145 penstocks, conduits, pipelines, mains, pumping stations, water distribution systems,
+146 compensating reservoirs, intake stations, waterworks or sources of water supply, wells,
+147 purification or filtration plants or other treatment plants and works, connections, water
+148 meters, mechanical equipment, electric generating equipment, rights of flowage or
+149 division and other plant structures, equipment, conveyances, real or personal property
+150 or rights therein and appurtenances, furnishings, accessories, and devices thereto
+151 necessary or useful and convenient for the collection, conveyance, distribution,
+152 pumping, treatment, storing, or disposing of water;
+153 (B) For the purposes of collecting, treating, or disposing of sewage including, but not
+154 limited to, main, trunk, intercepting, connecting, lateral, outlet, or other sewers, outfall,
+155 pumping stations, treatment and disposal plants, ground water rechange basins,
+156 backflow prevention devices, sludge dewatering or disposal equipment and facilities,
+157 clarifiers, filters, phosphorus removal equipment and other plants, soil absorption
+158 systems, innovative systems or equipment, structures, equipment, vehicles,
+159 conveyances, real or personal property or rights therein, and appurtenances thereto
+160 necessary or useful and convenient for the collection, conveyance, pumping, treatment,
+161 neutralization, storing, and disposing of sewage;
+162 (C) For the purposes of collecting, treating, recycling, composting, or disposing of
+163 solid waste, including, but not limited to, trucks, dumpsters, intermediate reception
+164 stations or facilities, transfer stations, incinerators, shredders, treatment plants, landfills,
+165 landfill equipment, barrels, binders, barges, alternative technologies and other plant
+166 structures, equipment, conveyances, improvements, real or personal property or rights
+167 therein, and appurtenances, furnishings, accessories, and devices thereto necessary or
+168 useful and convenient for the collection, treatment, or disposal of solid waste; or
+H. B. 402
+- 7 -
+25 LC 55 0476
+169 (D) For the purposes of carrying out a community land conservation project or a state
+170 land conservation project pursuant to Chapter 22 of Title 36; or
+171 (E) For the purposes of generating, storing, and transmitting renewable energy, as such
+172 term is defined in Code Section 46-3-69.6, including, but not limited to, generation
+173 facilities, battery storage facilities, electric transformers, transmission lines, equipment,
+174 vehicles, conveyances, real or personal property or rights therein and appurtenances,
+175 furnishings, accessories, and devices thereto necessary or useful and convenient for the
+176 generation, storing, and transmitting of such renewable energy.
+177 (6) 'Environmental services' means the provision, collectively or individually, of water
+178 facilities, sewerage facilities, solid waste facilities, renewable energy facilities,
+179 community land conservation projects or state land conservation projects pursuant to
+180 Chapter 22 Title 36, or management services."
+181 "(12.1) 'Renewable energy facility' means any environmental facility described in
+182 subparagraph (E) of paragraph (5) of this Code section."
+183 SECTION 4.
+184 Said title is further amended in subsection (b) of Code Section 50-23-5, relating to purpose,
+185 powers, and duties, by striking "and" at the end of paragraph (33), by striking the period and
+186 inserting in lieu thereof "; and" at the end of subparagraph (J) of paragraph (34), and by
+187 adding a new paragraph to read as follows:
+188 "(35) To promulgate and adopt rules and regulations to carry out the purposes of this
+189 chapter."
+190 SECTION 5.
+191 Said title is further amended in Code Section 50-23-12, relating to personal liability of
+192 members, officers, and employees of the authority, by revising paragraph (2) as follows:
+H. B. 402
+- 8 -
+25 LC 55 0476
+193 "(2) The construction, ownership, maintenance, or operation of any solid waste system,
+194 sewerage system, renewable energy system, environmental facility, or water system
+195 owned by a local government; or"
+196 SECTION 6.
+197 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 402
+- 9 -
+[DELETED: 5L2,5,5,dtht2,2,dn w p r t r e f t p f l]
+[DELETED: 5L u t s r e r  T e c r t o f f f t g o e a r t s]
+[DELETED: 5L  P r f t a h f f w a w q  T s a t p m a e e]
+[DELETED: 5L o f a a b s i o t c t s b o l t b n i a r e p s g e p t e p r i m t o s a t a o s]
+[DELETED: 5L h t g c o r e c t c f o a o a c r o i b d a w o i p b s u a t c o w i e t]
+[DELETED: 5L s g e p t s ( o C S C S 5 r t d r t t G E]
+[DELETED: 5L w c r c b d a s r t a a f a a d t o u a c f t c c d s t a d p g w r b f p r e a o p s a i s o e s e v]
+[DELETED: 5L s f s w f r e f  ' e f m a e f d i]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0476
+House Bill 402
+By: Representatives Frye of the 122nd, Bell of the 75th, Drenner of the 85th, Sanchez of the
+42nd, Paris of the 142nd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 46 and 50 of the Official Code of Georgia Annotated, relating to public
+2 utilities and public transportation and state government, respectively, so as to provide for the
+3 establishment of renewable energy sources and renewable energy portfolio standard goals
+4 by the Public Service Commission for electric service providers; to provide for the inclusion
+5 of existing or planned renewable energy resources in integrated resource plans; to authorize
+6 the Georgia Environmental Finance Authority to finance and perform certain duties in
+7 connection with projects relating to renewable energy facilities; to provide for limited
+8 liability; to revise and provide for definitions; to provide for rules and regulations; to provide
+9 legislative findings; to provide for related matters; to repeal conflicting laws; and for other
+10 purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Title 46 of the Official Code of Georgia Annotated, relating to public utilities and public
+14 transportation, is amended in Article 1 of Chapter 3, relating to generation and distribution
+15 of electricity generally, by adding a new part to read as follows:
+H. B. 402
+- 1 -
+
+25 LC 55 0476
+16 "Part 6
+17 46-3-69.5.
+18 (a) It is the intent of the legislature to recognize the economic, environmental, and fuel
+19 diversity benefits of renewable energy resources; to encourage further development of
+20 these resources; and to encourage the establishment of a market for renewable energy in
+21 Georgia using this state's renewable energy resources. These efforts can reduce the
+22 consumption of fossil fuels for the generation of electricity and reduce this state's
+23 dependence on finite, nonrenewable resources. Accordingly, the General Assembly finds
+24 and declares that goals should be established for electric service providers to guide them
+25 in incorporating renewable resources into their resource portfolios.
+26 (b) The purpose of this part is to lessen Georgia's dependence on fossil fuels and the
+27 exposure of Georgia's consumers to volatile and rising prices for coal and natural gas by
+28 encouraging the greater use of renewable energy by establishing goals for electric service
+29 providers in implementing portfolio standards for renewable energy.
+30 46-3-69.6.
+31 As used in this part, the term:
+32 (1) 'Biomass material' means organic matter, excluding fossil fuels and black liquor,
+33 including agricultural crops; plants; trees; wood; wood wastes and residues; sawmill
+34 waste; sawdust; wood chips; bark chips; forest thinning, harvesting, or clearing residues;
+35 wood waste from pallets or other wood demolition debris; peanut shells; cotton plants;
+36 corn stalks; and plant matter, including aquatic plants, grasses, stalks, vegetation, and
+37 residues, including hulls, shells, or cellulose-containing fibers.
+38 (2) 'Electric membership corporation' means a corporation organized under Article 4 of
+39 this chapter.
+H. B. 402
+- 2 -
+
+25 LC 55 0476
+40 (3) 'Electric service provider' means any electric utility, electric membership corporation,
+41 or municipal electric provider engaged in the business of distributing electricity to retail
+42 or wholesale electric customers in this state.
+43 (4) 'Low impact hydropower' means energy produced by a dam and powerhouse that is:
+44 (A) Certified as low impact by the Low Impact Hydropower Institute; or
+45 (B) Evaluated by the commission as being compliant with the following standards:
+46 (i) Providing river flows that are healthy for fish, wildlife, and water quality,
+47 including seasonal flow fluctuations where appropriate;
+48 (ii) Protecting water quality in the river;
+49 (iii) Providing effective fish passage and protecting fish from entrainment;
+50 (iv) Taking sufficient action to protect, mitigate, and enhance environmental
+51 conditions in the watershed;
+52 (v) Avoiding negative impact on species classified as threatened or endangered by
+53 the federal or state government;
+54 (vi) Avoiding inappropriate impact on cultural resources;
+55 (vii) Providing free access to the water and accommodating recreational activities on
+56 the river; and
+57 (viii) Avoiding any recommendation for removal by a federal or state agency due to
+58 adverse environmental impacts.
+59 (5) 'Municipal electric provider' means an entity that provides electric services and that
+60 is owned or operated by a municipal corporation.
+61 (6) 'Renewable energy' means electrical energy produced from or by renewable energy
+62 sources.
+63 (7) 'Renewable energy sources' means any of the following: wind; solar energy; low
+64 impact hydropower; geothermal resources; ocean thermal energy; wave or tidal energy;
+65 biofuels derived entirely from organic sources other than coal, petroleum, or natural gas;
+66 the combustion of landfill gas; methane gas resulting from the anaerobic decomposition
+H. B. 402
+- 3 -
+
+25 LC 55 0476
+67 of organic materials; plasma arc; pyrolysis; gasification; biomass materials; postconsumer
+68 waste paper; forest related sources, including mill residues, waste pallets, crates, and
+69 dunnage; or forest and agricultural biomass sources, including orchard tree crops,
+70 vineyard, grain, legumes, sugar, switchgrass, other crop by-products or residues, and
+71 precommercial thinning, slash, brush, or landscape trimmings, but not including
+72 old-growth timber.
+73 46-3-69.7.
+74 (a) On or before July 1, 2026, the commission shall establish renewable energy sources
+75 and renewable energy portfolio standard goals for electric service providers to reach on an
+76 annual basis. Such goals shall not exceed 20 percent of annual net electricity sales for each
+77 electric service provider. In developing the renewable energy sources and renewable
+78 energy portfolio standard goals, the commission shall evaluate current and forecasted
+79 levelized costs in cents per kilowatt hour for all electric service providers through 2030 and
+80 current and forecasted installed capacity in kilowatts for each renewable energy generation
+81 method for all electric service providers through 2050.
+82 (b) Electric service providers are encouraged to meet and maintain the renewable energy
+83 sources and renewable energy portfolio standard goals established pursuant to
+84 subsection (a) of this Code section.
+85 46-3-69.8.
+86 On or before July 1, 2026, the commission shall adopt rules and regulations to carry out the
+87 provisions of this part. Such rules and regulations shall, at a minimum:
+88 (1) Provide for a reporting system to monitor voluntary compliance with this part. Such
+89 reporting system shall require electric service providers to report whether they are subject
+90 to energy portfolio requirements in more than one state and the amount of such
+91 requirements, if applicable, and to indicate the sources of energy used to voluntarily
+H. B. 402
+- 4 -
+
+25 LC 55 0476
+92 comply with the renewable energy sources and renewable energy portfolio standard goals
+93 established pursuant to subsection (a) of Code Section 46-3-46.7 and the requirements
+94 of other applicable states; and
+95 (2) Provide for annual reporting by all electric service providers of renewable energy
+96 usage, how the generation costs of renewable energy compare to costs from other
+97 generation sources, and the average price paid for the sources of the renewable energy
+98 produced."
+99 SECTION 2.
+100 Said title is further amended in Code Section 46-3A-1, relating to definitions relative to
+101 integrated resource planning, by revising paragraph (7) as follows:
+102 "(7) 'Plan' means an integrated resource plan which contains the utility's electric demand
+103 and energy forecast for at least a 20 year period, contains the utility's program for meeting
+104 the requirements shown in its forecast in an economical and reliable manner, contains the
+105 utility's analysis of all capacity resource options, including both demand-side and
+106 supply-side options, and sets forth the utility's assumptions and conclusions with respect
+107 to the effect of each capacity resource option on the future cost and reliability of electric
+108 service. The plan shall also:
+109 (A) Contain the size and type of facilities which are expected to be owned or operated
+110 in whole or in part by such utility and the construction of which is expected to
+111 commence during the ensuing ten years or such longer period as the commission deems
+112 necessary and shall identify all existing facilities intended to be removed from service
+113 during such period or upon completion of such construction;
+114 (B) Contain practical alternatives to the fuel type and method of generation of the
+115 proposed electric generating facilities and set forth in detail the reasons for selecting the
+116 fuel type and method of generation;
+H. B. 402
+- 5 -
+
+25 LC 55 0476
+117 (C) Contain a statement of the estimated impact of proposed and alternative generating
+118 plants on the environment and the means by which potential adverse impacts will be
+119 avoided or minimized;
+120 (D) Indicate in detail the projected demand for electric energy for a 20 year period and
+121 the basis for determining the projected demand;
+122 (E) Describe the utility's relationship to other utilities in regional associations, power
+123 pools, and networks;
+124 (F) Identify and describe all major research projects and programs which will continue
+125 or commence in the succeeding three years and set forth the reasons for selecting
+126 specific areas of research;
+127 (G) Identify and describe existing and planned programs and policies to discourage
+128 inefficient and excessive power use;
+129 (H) Identify and describe existing and planned renewable energy resources, if any,
+130 used by the utility and whether such existing and planned renewable energy resources
+131 are sufficient to comply with the renewable energy sources and renewable energy
+132 portfolio standard goals established pursuant to subsection (a) of Code Section
+133 46-3-46.7; and
+134 (H)(I) Provide any other information as may be required by the commission."
+135 SECTION 3.
+136 Title 50 of the Official Code of Georgia Annotated, relating to state government, is amended
+137 in Code Section 50-23-4, relating to definitions relative to the Georgia Environmental
+138 Finance Authority, by revising paragraphs (5) and (6) and adding a new paragraph to read
+139 as follows:
+140 "(5) 'Environmental facilities' means any projects, structures, and other real or personal
+141 property acquired, rehabilitated, constructed, or planned:
+H. B. 402
+- 6 -
+
+25 LC 55 0476
+142 (A) For the purposes of supplying, distributing, and treating water and diverting,
+143 channeling, or controlling water flow and head including, but not limited to, surface or
+144 ground water, canals, reservoirs, channels, basins, dams, aqueducts, standpipes,
+145 penstocks, conduits, pipelines, mains, pumping stations, water distribution systems,
+146 compensating reservoirs, intake stations, waterworks or sources of water supply, wells,
+147 purification or filtration plants or other treatment plants and works, connections, water
+148 meters, mechanical equipment, electric generating equipment, rights of flowage or
+149 division and other plant structures, equipment, conveyances, real or personal property
+150 or rights therein and appurtenances, furnishings, accessories, and devices thereto
+151 necessary or useful and convenient for the collection, conveyance, distribution,
+152 pumping, treatment, storing, or disposing of water;
+153 (B) For the purposes of collecting, treating, or disposing of sewage including, but not
+154 limited to, main, trunk, intercepting, connecting, lateral, outlet, or other sewers, outfall,
+155 pumping stations, treatment and disposal plants, ground water rechange basins,
+156 backflow prevention devices, sludge dewatering or disposal equipment and facilities,
+157 clarifiers, filters, phosphorus removal equipment and other plants, soil absorption
+158 systems, innovative systems or equipment, structures, equipment, vehicles,
+159 conveyances, real or personal property or rights therein, and appurtenances thereto
+160 necessary or useful and convenient for the collection, conveyance, pumping, treatment,
+161 neutralization, storing, and disposing of sewage;
+162 (C) For the purposes of collecting, treating, recycling, composting, or disposing of
+163 solid waste, including, but not limited to, trucks, dumpsters, intermediate reception
+164 stations or facilities, transfer stations, incinerators, shredders, treatment plants, landfills,
+165 landfill equipment, barrels, binders, barges, alternative technologies and other plant
+166 structures, equipment, conveyances, improvements, real or personal property or rights
+167 therein, and appurtenances, furnishings, accessories, and devices thereto necessary or
+168 useful and convenient for the collection, treatment, or disposal of solid waste; or
+H. B. 402
+- 7 -
+
+25 LC 55 0476
+169 (D) For the purposes of carrying out a community land conservation project or a state
+170 land conservation project pursuant to Chapter 22 of Title 36; or
+171 (E) For the purposes of generating, storing, and transmitting renewable energy, as such
+172 term is defined in Code Section 46-3-69.6, including, but not limited to, generation
+173 facilities, battery storage facilities, electric transformers, transmission lines, equipment,
+174 vehicles, conveyances, real or personal property or rights therein and appurtenances,
+175 furnishings, accessories, and devices thereto necessary or useful and convenient for the
+176 generation, storing, and transmitting of such renewable energy.
+177 (6) 'Environmental services' means the provision, collectively or individually, of water
+178 facilities, sewerage facilities, solid waste facilities, renewable energy facilities,
+179 community land conservation projects or state land conservation projects pursuant to
+180 Chapter 22 Title 36, or management services."
+181 "(12.1) 'Renewable energy facility' means any environmental facility described in
+182 subparagraph (E) of paragraph (5) of this Code section."
+183 SECTION 4.
+184 Said title is further amended in subsection (b) of Code Section 50-23-5, relating to purpose,
+185 powers, and duties, by striking "and" at the end of paragraph (33), by striking the period and
+186 inserting in lieu thereof "; and" at the end of subparagraph (J) of paragraph (34), and by
+187 adding a new paragraph to read as follows:
+188 "(35) To promulgate and adopt rules and regulations to carry out the purposes of this
+189 chapter."
+190 SECTION 5.
+191 Said title is further amended in Code Section 50-23-12, relating to personal liability of
+192 members, officers, and employees of the authority, by revising paragraph (2) as follows:
+H. B. 402
+- 8 -
+
+25 LC 55 0476
+193 "(2) The construction, ownership, maintenance, or operation of any solid waste system,
+194 sewerage system, renewable energy system, environmental facility, or water system
+195 owned by a local government; or"
+196 SECTION 6.
+197 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 402
+- 9 -
+
+[DELETED: 5L2,5,5,dtht2,2,dn w p r t r e f t p f l]
+[DELETED: 5L u t s r e r  T e c r t o f f f t g o e a r t s]
+[DELETED: 5L  P r f t a h f f w a w q  T s a t p m a e e]
+[DELETED: 5L o f a a b s i o t c t s b o l t b n i a r e p s g e p t e p r i m t o s a t a o s]
+[DELETED: 5L h t g c o r e c t c f o a o a c r o i b d a w o i p b s u a t c o w i e t]
+[DELETED: 5L s g e p t s ( o C S C S 5 r t d r t t G E]
+[DELETED: 5L w c r c b d a s r t a a f a a d t o u a c f t c c d s t a d p g w r b f p r e a o p s a i s o e s e v]
+[DELETED: 5L s f s w f r e f  ' e f m a e f d i]
+[DELETED: 5L]

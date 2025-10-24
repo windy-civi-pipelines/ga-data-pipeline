@@ -1,0 +1,932 @@
+Title: House Bill 193
+Official Title: House Bill 193
+Number of Sections: 1
+Source: versions - LC 28 5000/a
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+25 LC 28 5000
+By: Representative Moore of the 91st
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 31 of the Official Code of Georgia Annotated, relating to health, so as to
+2 provide that persons doing business in this state shall not expose individuals to chemicals
+3 known to cause cancer or reproductive toxicity without first giving clear and reasonable
+4 warning nor discharge such chemicals into drinking water; to provide for the content and
+5 manner of the giving of such warnings; to provide for exceptions; to provide that the
+6 Governor shall publish lists of such chemicals; to authorize the Attorney General and, under
+7 specified conditions, district attorneys and other persons to seek injunctions and civil
+8 penalties; to provide for the Safe Drinking Water and Toxic Enforcement Fund and its
+9 purposes and funding; to provide for definitions; to provide a short title; to provide for
+10 related matters; to provide a contingent effective date; to repeal conflicting laws; and for
+11 other purposes.
+12 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+13 SECTION 1.
+14 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended by adding
+15 a new chapter to read as follows:
+H. B. 193
+- 1 -
+25 LC 28 5000
+16 "CHAPTER 55
+17 31-55-1.
+18 This chapter shall be known and may be cited as the 'Safe Drinking Water and Toxic
+19 Enforcement Act of 2025.' This chapter may also be known and may be cited as the
+20 'Georgia Proposition 25 Act.'
+21 31-55-2.
+22 As used in this chapter, the term:
+23 (1) 'Person' means an individual, trust, firm, joint stock company, corporation, company,
+24 partnership, limited liability company, or association.
+25 (2) 'Person in the course of doing business' shall not include any person employing fewer
+26 than ten employees in his or her business; any city, county, or school district or any
+27 department or agency thereof; the state or any department or agency thereof; the federal
+28 government or any department or agency thereof; or any entity in its operation of a public
+29 water system as defined in Code Section 12-5-172.
+30 (3) 'Reproductive toxicity' means the potential risk from a given chemical, physical, or
+31 biological agent to adversely affect both male and female fertility as well as offspring
+32 development. Such term may include adverse effects on sexual function, ovarian
+33 function, and fertility as well as developmental toxicity in the offspring. Lowered
+34 effective fertility related to such term relates to both male and female effects alike and
+35 is reflected in decreased sperm counts, semen quality, and ovarian failure.
+36 (4) 'Significant amount' means any detectable amount except an amount which would
+37 meet the exemption test in Code Section 31-55-8 if an individual were exposed to such
+38 an amount in drinking water.
+39 (5) 'Source of drinking water' means either a present source of drinking water or water
+40 which is identified or designated as being suitable for domestic or municipal uses.
+H. B. 193
+- 2 -
+25 LC 28 5000
+41 (6) 'Threaten to violate' means to create a condition in which there is a substantial
+42 probability that a violation will occur.
+43 (7) 'Warning' within the meaning of Code Section 31-55-4 need not be provided
+44 separately to each exposed individual and may be provided by general methods such as
+45 labels on consumer products, inclusion of notices in mailings to water customers, posting
+46 of notices, placing notices in public news media, and the like; provided, however, that the
+47 warning accomplished is clear and reasonable. In order to minimize the burden on retail
+48 sellers of consumer products including foods, regulations implementing Code
+49 Section 31-55-4 shall to the extent practicable place the obligation to provide any
+50 warning materials such as labels on the producer or packager rather than on the retail
+51 seller, except where the retail seller itself is responsible for introducing a chemical known
+52 to the state to cause cancer or reproductive toxicity into the consumer product in question.
+53 31-55-3.
+54 No person in the course of doing business shall knowingly discharge or release a chemical
+55 known to the state to cause cancer or reproductive toxicity into water or onto or into land
+56 where such chemical passes or probably will pass into any source of drinking water,
+57 notwithstanding any other provision or authorization of law except as provided in Code
+58 Section 31-55-7.
+59 31-55-4.
+60 No person in the course of doing business shall knowingly and intentionally expose any
+61 individual to a chemical known to the state to cause cancer or reproductive toxicity without
+62 first giving clear and reasonable warning to such individual except as provided in Code
+63 Section 31-55-8.
+H. B. 193
+- 3 -
+25 LC 28 5000
+64 31-55-5.
+65 (a) A person that violates or threatens to violate Code Section 31-55-3 or 31-55-4 may be
+66 enjoined in any court of competent jurisdiction in this state.
+67 (b)(1) A person that has violated Code Section 31-55-3 or 31-55-4 shall be liable for a
+68 civil penalty not to exceed $2,500.00 per day for each violation in addition to any other
+69 penalty established by law. Such civil penalty may be assessed and recovered in a civil
+70 action brought in any court of competent jurisdiction in this state.
+71 (2) In assessing the amount of a civil penalty for a violation of this chapter, the court
+72 shall consider all of the following:
+73 (A) The nature and extent of the violation;
+74 (B) The number and severity of the violations;
+75 (C) The economic effect of the penalty on the violator;
+76 (D) Whether the violator took good faith measures to comply with this chapter;
+77 (E) The willfulness of the violator's misconduct;
+78 (F) The deterrent effect that the imposition of the penalty would have on both the
+79 violator and the regulated community as a whole; and
+80 (G) Any other factor that justice may require.
+81 (c) Actions pursuant to this Code section may be brought by the Attorney General, by a
+82 district attorney, or as provided in subsection (d) of this Code section.
+83 (d) Actions pursuant to this Code section may be brought by a person in the public interest
+84 if both of the following requirements are met:
+85 (1) The private action is commenced more than 60 days from the date that the person has
+86 given notice of an alleged violation of Code Section 31-55-3 or 31-55-4 that is the subject
+87 of the private action to the Attorney General, the district attorney of the judicial circuit
+88 in which the alleged violator is located, and the alleged violator. If the notice alleges a
+89 violation of Code Section 31-55-4, the notice of the alleged violation shall include a
+90 certificate of merit executed by the attorney for the noticing party or by the noticing
+H. B. 193
+- 4 -
+25 LC 28 5000
+91 party, if the noticing party is not represented by an attorney. The certificate of merit shall
+92 state that the person executing the certificate has consulted with one or more persons with
+93 relevant and appropriate experience or expertise who have reviewed facts, studies, or
+94 other data regarding the exposure to the listed chemical that is the subject of the action,
+95 and that, based on that information, the person executing the certificate believes there is
+96 a reasonable and meritorious case for the private action. Factual information sufficient
+97 to establish the basis of the certificate of merit, including the information identified in
+98 paragraph (2) of subsection (h) of this Code section, shall be attached to the certificate
+99 of merit that is served on the Attorney General; and
+100 (2) Neither the Attorney General nor the district attorney has commenced and is
+101 diligently prosecuting an action against the violation.
+102 (e)(1)(A) If, after reviewing the factual information sufficient to establish the basis for
+103 the certificate of merit and meeting and conferring with the noticing party regarding the
+104 basis for the certificate of merit, the Attorney General believes there is no merit to the
+105 action, the Attorney General shall serve a letter to the noticing party and the alleged
+106 violator stating the Attorney General believes there is no merit to the action.
+107 (B) If the Attorney General does not serve a letter pursuant to subparagraph (A) of this
+108 paragraph, this shall not be construed as an endorsement by the Attorney General of the
+109 merit of the action.
+110 (2) A person bringing an action in the public interest pursuant to subsection (d) of this
+111 Code section and a person filing an action in which a violation of this chapter is alleged
+112 shall notify the Attorney General that the action has been filed. Neither this subsection
+113 nor the procedures provided in subsections (f), (g), (h), (i), (j), and (k) of this Code
+114 section shall affect the requirements imposed by statute concerning whether a person
+115 filing an action in which a violation of this chapter is alleged is required to comply with
+116 the requirements of subsection (d) of this Code section.
+H. B. 193
+- 5 -
+25 LC 28 5000
+117 (f)(1) A person filing an action in the public interest pursuant to subsection (d) of this
+118 Code section, a private person filing an action in which a violation of this chapter is
+119 alleged, or a private person settling a violation of this chapter alleged in a notice given
+120 pursuant to paragraph (1) of subsection (d) of this Code section shall, after the action or
+121 violation is subject either to a settlement or to a judgment, submit to the Attorney General
+122 a reporting form that includes the results of that settlement or judgment and the final
+123 disposition of the case, even if dismissed. At the time of the filing of a judgment
+124 pursuant to an action brought in the public interest pursuant to subsection (d) of this Code
+125 section, or an action brought by a private person in which a violation of this chapter is
+126 alleged, the plaintiff shall file an affidavit verifying that the report required by this
+127 subsection has been accurately completed and submitted to the Attorney General.
+128 (2) A person bringing an action in the public interest pursuant to subsection (d) of this
+129 Code section or a private person bringing an action in which a violation of this chapter
+130 is alleged shall, after the action is either subject to a settlement, with or without court
+131 approval, or to a judgment, submit to the Attorney General a report that includes
+132 information on any corrective action being taken as a part of the settlement or resolution
+133 of the action.
+134 (3) The Attorney General shall develop a reporting form that specifies the information
+135 that shall be reported, including, but not limited to, for purposes of paragraph (2) of
+136 subsection (e) of this Code section, the date the action was filed and the nature of the
+137 relief sought, and, for purposes of this subsection, the amount of the settlement or civil
+138 penalty assessed, other financial terms of the settlement, and any other information the
+139 Attorney General deems appropriate.
+140 (4) If there is a settlement of an action brought by a person in the public interest under
+141 subsection (d) of this Code section, the plaintiff shall submit the settlement, other than
+142 a voluntary dismissal in which no consideration is received from the defendant, to the
+H. B. 193
+- 6 -
+25 LC 28 5000
+143 court for approval upon noticed motion, and the court may approve the settlement only
+144 if the court makes all of the following findings:
+145 (A) The warning that is required by the settlement complies with this chapter;
+146 (B) The award of attorney's fees is reasonable under Georgia law; and
+147 (C) The penalty amount is reasonable based on the criteria set forth in paragraph (2)
+148 of subsection (b) of this Code section.
+149 (5) The plaintiff subject to paragraph (4) of this subsection has the burden of producing
+150 evidence sufficient to sustain each required finding. The plaintiff shall serve the motion
+151 and all supporting papers on the Attorney General, who may appear and participate in a
+152 proceeding without intervening in the case.
+153 (6) Neither this subsection nor the procedures provided in paragraph (2) of subsection (e)
+154 and subsections (g), (h), (i), (j), and (k) of this Code section shall affect the requirements
+155 imposed by statute concerning whether claims raised by a person or public prosecutor not
+156 a party to the action are precluded by a settlement approved by the court.
+157 (g) The Attorney General shall maintain a record of the information submitted pursuant
+158 to subsections (e) and (f) of this Code section and shall make this information available to
+159 the public.
+160 (h)(1) The basis for the certificate of merit required by subsection (d) of this Code
+161 section shall be discoverable only to the extent that the information is relevant to the
+162 subject matter of the action and not subject to the attorney-client privilege, the attorney
+163 work product privilege, or any other legal privilege.
+164 (2) Upon the conclusion of an action brought pursuant to subsection (d) of this Code
+165 section with respect to a defendant, if the trial court determines that there was no actual
+166 or threatened exposure to a listed chemical, the court may, upon the motion of that
+167 alleged violator or upon the court's own motion, review the basis for the belief of the
+168 person executing the certificate of merit, expressed in the certificate of merit, that an
+169 exposure to a listed chemical had occurred or was threatened. The information in the
+H. B. 193
+- 7 -
+25 LC 28 5000
+170 certificate of merit, including the identity of the persons consulted with and relied on by
+171 the certifier and the facts, studies, or other data reviewed by those persons, shall be
+172 disclosed to the court in an in-camera proceeding at which the moving party shall not be
+173 present. If the court finds that there was no credible factual basis for the certifier's belief
+174 that an exposure to a listed chemical had occurred or was threatened, then the action shall
+175 be deemed frivolous within the meaning of Code Section 9-15-14. The court shall not
+176 find a factual basis credible on the basis of a legal theory of liability that is frivolous
+177 within the meaning of Code Section 9-15-14.
+178 (i) The Attorney General may provide the factual information submitted to establish the
+179 basis of the certificate of merit on request to a district attorney within whose judicial circuit
+180 the violation is alleged to have occurred or to any other state or federal government agency,
+181 but, in all other respects, the Attorney General shall maintain and ensure that all recipients
+182 maintain the submitted information as confidential official information to the full extent
+183 authorized.
+184 (j) In an action brought by the Attorney General or a district attorney pursuant to this
+185 chapter, the Attorney General or district attorney may seek and recover costs and attorney's
+186 fees on behalf of a party who provides a notice pursuant to subsection (d) of this Code
+187 section and who renders assistance in that action.
+188 (k) Any person who serves a notice of alleged violation pursuant to paragraph (1) of
+189 subsection (d) of this Code section for an exposure identified in such paragraph, as
+190 appropriate, shall provide to the alleged violator at the time the notice of alleged violation
+191 is served a notice of special compliance procedure and proof of compliance form pursuant
+192 to subsection (l) of this Code section and shall not file an action for that exposure against
+193 the alleged violator, or recover from the alleged violator in a settlement any payment in lieu
+194 of penalties or any reimbursement for costs and attorney's fees, if all of the following
+195 conditions have been met:
+H. B. 193
+- 8 -
+25 LC 28 5000
+196 (1) The notice given pursuant to paragraph (1) of subsection (d) of this Code section was
+197 served on or after January 1, 2027, and alleges that the alleged violator failed to provide
+198 clear and reasonable warning as required under Code Section 31-55-4 regarding one or
+199 more of the following:
+200 (A) An exposure to alcoholic beverages that are consumed on the alleged violator's
+201 premises to the extent onsite consumption is permitted by law;
+202 (B) An exposure to a chemical known to the state to cause cancer or reproductive
+203 toxicity in a food or beverage prepared and sold on the alleged violator's premises
+204 primarily intended for immediate consumption on or off premises, to the extent of both
+205 of the following:
+206 (i) The chemical was not intentionally added; and
+207 (ii) The chemical was formed by cooking or similar preparation of food or beverage
+208 components necessary to render the food or beverage palatable or to avoid
+209 microbiological contamination;
+210 (C) An exposure to environmental tobacco smoke caused by entry of persons, other
+211 than employees, on premises owned or operated by the alleged violator where smoking
+212 is permitted at any location on the premises; or
+213 (D) An exposure to chemicals known to the state to cause cancer or reproductive
+214 toxicity in engine exhaust, to the extent the exposure occurs inside a facility owned or
+215 operated by the alleged violator and primarily intended for parking noncommercial
+216 vehicles;
+217 (2) Within 14 days after service of the notice, the alleged violator has done all of the
+218 following:
+219 (A) Corrected the alleged violation;
+220 (B)(i) Agreed to pay a civil penalty for the alleged violation of Code Section 31-55-4
+221 in the amount of $500.00, to be adjusted every five years pursuant to division (ii) of
+222 this subparagraph, per facility or premises where the alleged violation occurred, of
+H. B. 193
+- 9 -
+25 LC 28 5000
+223 which 75 percent shall be deposited in the Safe Drinking Water and Toxic
+224 Enforcement Fund, and 25 percent shall be paid to the person that served the notice
+225 as provided in Code Section 31-55-9.
+226 (ii) On April 1, 2031, and at each five-year interval thereafter, the dollar amount of
+227 the civil penalty provided pursuant to this subparagraph shall be adjusted by the
+228 Judicial Council of Georgia based on the change in the annual Georgia Consumer
+229 Price Index for All Urban Consumers published by the Bureau of Labor Statistics of
+230 the United States Department of Labor for the most recent five-year period ending on
+231 December 31 of the year preceding the year in which the adjustment is made, rounded
+232 to the nearest $5.00. The Judicial Council of Georgia shall every five years publish
+233 the dollar amount of the adjusted civil penalty provided pursuant to this subparagraph,
+234 together with the date of the next scheduled adjustment; and
+235 (C) Notified, in writing, the person that served the notice of the alleged violation that
+236 the violation has been corrected. The written notice shall include the notice of special
+237 compliance procedure and proof of compliance form specified in subsection (l) of this
+238 Code section, which was provided by the person serving notice of the alleged violation
+239 and which shall be completed by the alleged violator as directed in the notice; and
+240 (3) The alleged violator shall deliver the civil penalty to the person that served the notice
+241 of the alleged violation within 30 days of service of that notice, and the person that served
+242 the notice of violation shall remit the portion of the penalty due to the Safe Drinking
+243 Water and Toxic Enforcement Fund within 30 days of receipt of the funds from the
+244 alleged violator.
+245 (l) The Attorney General shall promulgate a form for the notice which is required to be
+246 provided to an alleged violator pursuant to subsection (k) of this Code section by April 1,
+247 2027. Such notice shall provide for identification of the persons bringing the notice and
+248 provide a contact individual with an address for mail and electronic communications with
+249 such persons; a statement of intent to pursue private action if the public enforcement
+H. B. 193
+- 10 -
+25 LC 28 5000
+250 agencies do not commence or diligently pursue an action to rectify the problem complained
+251 of; a summary of the provisions of this chapter; a statement of the alleged violation; the
+252 number and duration of the alleged violations; a specific identification of the product which
+253 is the subject of the complaint; the chemical allegedly causing the exposure; the routes of
+254 such exposure; the types of harm resulting from such exposure; a demand for preservation
+255 of evidence by all noticed recipients to include all documents relating to the presence of
+256 the chemical in the product; purchase and sales information for the product, which shall
+257 include, but not be limited to, purchasers and suppliers, quantities sold and in inventory,
+258 the identity of the manufacturers, producers, packagers, importers, suppliers, and
+259 distributors, quantity sold or distributed per transaction, as well as the suppliers of the raw
+260 material, and the current inventory of the product in Georgia; efforts to comply with the
+261 provisions of this chapter with respect to the product, and communications with any person
+262 relating to the presence or potential presence of the chemical in the product.
+263 (m) An alleged violator may satisfy the conditions set forth in subsection (k) of this Code
+264 section only one time for a violation arising from the same exposure in the same facility
+265 or on the same premises.
+266 (n) Nothing in subsection (k) of this Code section shall prevent the Attorney General or
+267 a district attorney in whose judicial circuit a violation is alleged to have occurred from
+268 filing an action pursuant to subsection (c) of this Code section against an alleged violator.
+269 In any such action, the amount of any civil penalty for a violation shall be reduced to
+270 reflect any payment made by the alleged violator for the same alleged violation pursuant
+271 to subparagraph (k)(2)(B) of this Code section.
+272 (o) If a violation of this chapter is alleged or the application or construction of provisions
+273 of this chapter is at issue in a proceeding in the Supreme Court or the Court of Appeals,
+274 each party shall serve a copy of the party's brief or petition and brief on the Attorney
+275 General. Service on the Attorney General shall be accomplished by serving the brief, or
+276 petition and brief, at the service address designated by the Attorney General. A brief shall
+H. B. 193
+- 11 -
+25 LC 28 5000
+277 not be accepted or filed unless the proof of service shows service on the Attorney General.
+278 A party failing to comply with this subsection shall be given a reasonable opportunity to
+279 cure the failure before the court imposes sanction, and, in that instance, the court shall
+280 allow the Attorney General reasonable additional time to file a brief in the matter.
+281 31-55-6.
+282 (a) On or before January 1, 2027, the Governor shall cause to be published a list of those
+283 chemicals known to the state to cause cancer or reproductive toxicity as provided in this
+284 chapter, and the Attorney General shall cause such list to be revised and republished in
+285 light of additional knowledge at least once per year thereafter. Such list shall include at a
+286 minimum those substances listed as human or animal carcinogens by the International
+287 Agency for Research on Cancer, as amended, and those substances within the scope of the
+288 federal Hazard Communication Standard, 29 C.F.R. Section 1910.1200, as amended.
+289 (b) A chemical is known to the state to cause cancer or reproductive toxicity within the
+290 meaning of this chapter if, in the opinion of the state's qualified experts, it has been clearly
+291 shown through scientifically valid testing according to generally accepted principles to
+292 cause cancer or reproductive toxicity; if a body considered to be authoritative by such
+293 experts has formally identified it as causing cancer or reproductive toxicity; or if an agency
+294 of the state or federal government has formally required it to be labeled or identified as
+295 causing cancer or reproductive toxicity.
+296 (c) On or before January 1, 2027, and at least once per year thereafter, the Governor shall
+297 cause to be published a separate list of those chemicals that at the time of publication are
+298 required by state or federal law to have been tested for potential to cause cancer or
+299 reproductive toxicity but that the state's qualified experts have not found to have been
+300 adequately tested as required.
+301 (d) The Governor shall identify and consult with the state's qualified experts as necessary
+302 to carry out his or her duties under this Code section.
+H. B. 193
+- 12 -
+25 LC 28 5000
+303 (e) In carrying out the duties of the Governor under this Code section, the Governor and
+304 his or her designees shall not be considered to be adopting or amending a regulation within
+305 the meaning of Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act.'
+306 31-55-7.
+307 (a) Code Section 31-55-3 shall not apply to any discharge or release that takes place less
+308 than 20 months subsequent to the listing of the chemical in question on the list required to
+309 be published under subsection (a) of Code Section 31-55-6.
+310 (b)(1) Code Section 31-55-3 shall not apply to any discharge or release that meets both
+311 of the following criteria:
+312 (A) The discharge or release will not cause any significant amount of the discharged
+313 or released chemical to enter any source of drinking water; and
+314 (B) The discharge or release is in conformity with all other laws and with every
+315 applicable regulation, permit, requirement, and order.
+316 (2) In any action brought to enforce Code Section 31-55-3, the burden of showing that
+317 a discharge or release meets the criteria of this subsection shall be on the defendant.
+318 31-55-8.
+319 (a) Code Section 31-55-4 shall not apply to any of the following:
+320 (1) An exposure for which federal law governs warnings in a manner that preempts state
+321 authority;
+322 (2) An exposure that takes place less than 12 months subsequent to the listing of the
+323 chemical in question on the list required to be published under subsection (a) of Code
+324 Section 31-55-6; and
+325 (3) An exposure for which the person responsible can show that the exposure poses no
+326 significant risk assuming lifetime exposure at the level in question for substances known
+327 to the state to cause cancer, and that the exposure will have no observable effect assuming
+H. B. 193
+- 13 -
+25 LC 28 5000
+328 exposure at 1,000 times the level in question for substances known to the state to cause
+329 reproductive toxicity, based on evidence and standards of comparable scientific validity
+330 to the evidence and standards which form the scientific basis for the listing of such
+331 chemical pursuant to subsection (a) of Code Section 31-55-6.
+332 (b) In any action brought to enforce Code Section 31-55-4, the burden of showing that an
+333 exposure meets the criteria of this Code section shall be on the defendant.
+334 31-55-9.
+335 (a) The Governor shall designate a lead agency and other agencies that may be required
+336 to implement this chapter, including this Code section. Each agency so designated may
+337 adopt and modify rules and regulations, standards, and permits as necessary to conform
+338 with and implement this chapter and to further its purposes.
+339 (b) The Safe Drinking Water and Toxic Enforcement Fund is hereby established in the
+340 state treasury. The director of the lead agency designated by the Governor to implement
+341 this chapter may expend the funds in the Safe Drinking Water and Toxic Enforcement
+342 Fund, upon appropriation by the General Assembly, to implement and administer this
+343 chapter. The lead agency designated by the Governor under this Code section shall submit
+344 a report to the Governor, Lieutenant Governor, and Speaker of the House of
+345 Representatives on December 1 of each calendar year detailing the revenues and expenses
+346 of such fund.
+347 (c) In addition to any other money that may be deposited in the Safe Drinking Water and
+348 Toxic Enforcement Fund, all of the following amounts shall be deposited in the fund:
+349 (1) Seventy-five percent of all civil and criminal penalties collected pursuant to this
+350 chapter; and
+351 (2) Any interest earned upon the money deposited into the Safe Drinking Water and
+352 Toxic Enforcement Fund.
+H. B. 193
+- 14 -
+25 LC 28 5000
+353 (d) Twenty-five percent of all civil and criminal penalties collected pursuant to this chapter
+354 shall be paid to the office of the Attorney General or the district attorney, whichever office
+355 brought the action, or, in the case of an action brought by a person under subsection (d) of
+356 Code Section 31-55-5, to that person.
+357 31-55-10.
+358 Nothing in this chapter shall alter or diminish any legal obligation otherwise required in
+359 common law or by statute or regulation, and nothing in this chapter shall create or enlarge
+360 any defense in any action to enforce such legal obligation. Penalties and sanctions imposed
+361 under this chapter shall be in addition to any penalties or sanctions otherwise prescribed
+362 by law.
+363 31-55-11.
+364 The Department of Economic Development shall post in a conspicuous location on its
+365 public website, and include with any informational materials provided to businesses
+366 relating to a business's obligations under state law, a disclaimer that states the following:
+367 'The Safe Drinking Water and Toxic Enforcement Act of 2025 requires businesses to
+368 provide a clear and reasonable warning before knowingly and intentionally exposing
+369 anyone to chemicals that are known to the state to cause cancer or birth defects or other
+370 reproductive harm. It is important to know that a product that receives certification from
+371 the United States Food and Drug Administration, or another federal agency or state
+372 agency, is not necessarily exempt from Georgia requirements for chemical exposure
+373 warnings. Businesses should be aware of the levels of harmful chemicals in their
+374 products and of applicable requirements under the Safe Drinking Water and Toxic
+375 Enforcement Act of 2025.'"
+H. B. 193
+- 15 -
+25 LC 28 5000
+376 SECTION 2.
+377 This Act shall become effective on January 1, 2027, if a constitutional amendment is adopted
+378 by the electors at the 2026 General Election authorizing the creation of the Safe Drinking
+379 Water and Toxic Enforcement Fund. If such constitutional amendment is not adopted at the
+380 2026 General Election, then this Act shall not become effective and shall be repealed by
+381 operation of law on such date.
+382 SECTION 3.
+383 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 193
+- 16 -
+[DELETED: 5L1 o t g o s w t p f e t p t t c d a a o p t s i a c]
+[DELETED: 5L  S t m i a e o s f o a f a w a d t i t o L]
+[DELETED: 5L  ' w t m o C S 3 n n b p o c p i f r i C 3 s t t e p p t o t p a]
+[DELETED: 5L]
+[DELETED: 5L  N t A G n t d a h c a i]
+[DELETED: 5L o t a j s t t A G a r t i]
+[DELETED: 5L]
+[DELETED: 5L ( o t C s f a e i i s p a]
+[DELETED: 5L n t r t f o b p o t a]
+[DELETED: 5L 7 p s b d i t S D W a T]
+[DELETED: 5L i o t m p p i s a]
+[DELETED: 5L b s o f l t h b t f p t c c o]
+[DELETED: 5L]
+[DELETED: 5L r t t G L G a S o t H o]
+[DELETED: 5L w a i w a i m p t b  B s b a o t l o h c i t a o a r u t S D W a T]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 28 5000
+House Bill 193
+By: Representative Moore of the 91st
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 31 of the Official Code of Georgia Annotated, relating to health, so as to
+2 provide that persons doing business in this state shall not expose individuals to chemicals
+3 known to cause cancer or reproductive toxicity without first giving clear and reasonable
+4 warning nor discharge such chemicals into drinking water; to provide for the content and
+5 manner of the giving of such warnings; to provide for exceptions; to provide that the
+6 Governor shall publish lists of such chemicals; to authorize the Attorney General and, under
+7 specified conditions, district attorneys and other persons to seek injunctions and civil
+8 penalties; to provide for the Safe Drinking Water and Toxic Enforcement Fund and its
+9 purposes and funding; to provide for definitions; to provide a short title; to provide for
+10 related matters; to provide a contingent effective date; to repeal conflicting laws; and for
+11 other purposes.
+12 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+13 SECTION 1.
+14 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended by adding
+15 a new chapter to read as follows:
+H. B. 193
+- 1 -
+
+25 LC 28 5000
+16 "CHAPTER 55
+17 31-55-1.
+18 This chapter shall be known and may be cited as the 'Safe Drinking Water and Toxic
+19 Enforcement Act of 2025.' This chapter may also be known and may be cited as the
+20 'Georgia Proposition 25 Act.'
+21 31-55-2.
+22 As used in this chapter, the term:
+23 (1) 'Person' means an individual, trust, firm, joint stock company, corporation, company,
+24 partnership, limited liability company, or association.
+25 (2) 'Person in the course of doing business' shall not include any person employing fewer
+26 than ten employees in his or her business; any city, county, or school district or any
+27 department or agency thereof; the state or any department or agency thereof; the federal
+28 government or any department or agency thereof; or any entity in its operation of a public
+29 water system as defined in Code Section 12-5-172.
+30 (3) 'Reproductive toxicity' means the potential risk from a given chemical, physical, or
+31 biological agent to adversely affect both male and female fertility as well as offspring
+32 development. Such term may include adverse effects on sexual function, ovarian
+33 function, and fertility as well as developmental toxicity in the offspring. Lowered
+34 effective fertility related to such term relates to both male and female effects alike and
+35 is reflected in decreased sperm counts, semen quality, and ovarian failure.
+36 (4) 'Significant amount' means any detectable amount except an amount which would
+37 meet the exemption test in Code Section 31-55-8 if an individual were exposed to such
+38 an amount in drinking water.
+39 (5) 'Source of drinking water' means either a present source of drinking water or water
+40 which is identified or designated as being suitable for domestic or municipal uses.
+H. B. 193
+- 2 -
+
+25 LC 28 5000
+41 (6) 'Threaten to violate' means to create a condition in which there is a substantial
+42 probability that a violation will occur.
+43 (7) 'Warning' within the meaning of Code Section 31-55-4 need not be provided
+44 separately to each exposed individual and may be provided by general methods such as
+45 labels on consumer products, inclusion of notices in mailings to water customers, posting
+46 of notices, placing notices in public news media, and the like; provided, however, that the
+47 warning accomplished is clear and reasonable. In order to minimize the burden on retail
+48 sellers of consumer products including foods, regulations implementing Code
+49 Section 31-55-4 shall to the extent practicable place the obligation to provide any
+50 warning materials such as labels on the producer or packager rather than on the retail
+51 seller, except where the retail seller itself is responsible for introducing a chemical known
+52 to the state to cause cancer or reproductive toxicity into the consumer product in question.
+53 31-55-3.
+54 No person in the course of doing business shall knowingly discharge or release a chemical
+55 known to the state to cause cancer or reproductive toxicity into water or onto or into land
+56 where such chemical passes or probably will pass into any source of drinking water,
+57 notwithstanding any other provision or authorization of law except as provided in Code
+58 Section 31-55-7.
+59 31-55-4.
+60 No person in the course of doing business shall knowingly and intentionally expose any
+61 individual to a chemical known to the state to cause cancer or reproductive toxicity without
+62 first giving clear and reasonable warning to such individual except as provided in Code
+63 Section 31-55-8.
+H. B. 193
+- 3 -
+
+25 LC 28 5000
+64 31-55-5.
+65 (a) A person that violates or threatens to violate Code Section 31-55-3 or 31-55-4 may be
+66 enjoined in any court of competent jurisdiction in this state.
+67 (b)(1) A person that has violated Code Section 31-55-3 or 31-55-4 shall be liable for a
+68 civil penalty not to exceed $2,500.00 per day for each violation in addition to any other
+69 penalty established by law. Such civil penalty may be assessed and recovered in a civil
+70 action brought in any court of competent jurisdiction in this state.
+71 (2) In assessing the amount of a civil penalty for a violation of this chapter, the court
+72 shall consider all of the following:
+73 (A) The nature and extent of the violation;
+74 (B) The number and severity of the violations;
+75 (C) The economic effect of the penalty on the violator;
+76 (D) Whether the violator took good faith measures to comply with this chapter;
+77 (E) The willfulness of the violator's misconduct;
+78 (F) The deterrent effect that the imposition of the penalty would have on both the
+79 violator and the regulated community as a whole; and
+80 (G) Any other factor that justice may require.
+81 (c) Actions pursuant to this Code section may be brought by the Attorney General, by a
+82 district attorney, or as provided in subsection (d) of this Code section.
+83 (d) Actions pursuant to this Code section may be brought by a person in the public interest
+84 if both of the following requirements are met:
+85 (1) The private action is commenced more than 60 days from the date that the person has
+86 given notice of an alleged violation of Code Section 31-55-3 or 31-55-4 that is the subject
+87 of the private action to the Attorney General, the district attorney of the judicial circuit
+88 in which the alleged violator is located, and the alleged violator. If the notice alleges a
+89 violation of Code Section 31-55-4, the notice of the alleged violation shall include a
+90 certificate of merit executed by the attorney for the noticing party or by the noticing
+H. B. 193
+- 4 -
+
+25 LC 28 5000
+91 party, if the noticing party is not represented by an attorney. The certificate of merit shall
+92 state that the person executing the certificate has consulted with one or more persons with
+93 relevant and appropriate experience or expertise who have reviewed facts, studies, or
+94 other data regarding the exposure to the listed chemical that is the subject of the action,
+95 and that, based on that information, the person executing the certificate believes there is
+96 a reasonable and meritorious case for the private action. Factual information sufficient
+97 to establish the basis of the certificate of merit, including the information identified in
+98 paragraph (2) of subsection (h) of this Code section, shall be attached to the certificate
+99 of merit that is served on the Attorney General; and
+100 (2) Neither the Attorney General nor the district attorney has commenced and is
+101 diligently prosecuting an action against the violation.
+102 (e)(1)(A) If, after reviewing the factual information sufficient to establish the basis for
+103 the certificate of merit and meeting and conferring with the noticing party regarding the
+104 basis for the certificate of merit, the Attorney General believes there is no merit to the
+105 action, the Attorney General shall serve a letter to the noticing party and the alleged
+106 violator stating the Attorney General believes there is no merit to the action.
+107 (B) If the Attorney General does not serve a letter pursuant to subparagraph (A) of this
+108 paragraph, this shall not be construed as an endorsement by the Attorney General of the
+109 merit of the action.
+110 (2) A person bringing an action in the public interest pursuant to subsection (d) of this
+111 Code section and a person filing an action in which a violation of this chapter is alleged
+112 shall notify the Attorney General that the action has been filed. Neither this subsection
+113 nor the procedures provided in subsections (f), (g), (h), (i), (j), and (k) of this Code
+114 section shall affect the requirements imposed by statute concerning whether a person
+115 filing an action in which a violation of this chapter is alleged is required to comply with
+116 the requirements of subsection (d) of this Code section.
+H. B. 193
+- 5 -
+
+25 LC 28 5000
+117 (f)(1) A person filing an action in the public interest pursuant to subsection (d) of this
+118 Code section, a private person filing an action in which a violation of this chapter is
+119 alleged, or a private person settling a violation of this chapter alleged in a notice given
+120 pursuant to paragraph (1) of subsection (d) of this Code section shall, after the action or
+121 violation is subject either to a settlement or to a judgment, submit to the Attorney General
+122 a reporting form that includes the results of that settlement or judgment and the final
+123 disposition of the case, even if dismissed. At the time of the filing of a judgment
+124 pursuant to an action brought in the public interest pursuant to subsection (d) of this Code
+125 section, or an action brought by a private person in which a violation of this chapter is
+126 alleged, the plaintiff shall file an affidavit verifying that the report required by this
+127 subsection has been accurately completed and submitted to the Attorney General.
+128 (2) A person bringing an action in the public interest pursuant to subsection (d) of this
+129 Code section or a private person bringing an action in which a violation of this chapter
+130 is alleged shall, after the action is either subject to a settlement, with or without court
+131 approval, or to a judgment, submit to the Attorney General a report that includes
+132 information on any corrective action being taken as a part of the settlement or resolution
+133 of the action.
+134 (3) The Attorney General shall develop a reporting form that specifies the information
+135 that shall be reported, including, but not limited to, for purposes of paragraph (2) of
+136 subsection (e) of this Code section, the date the action was filed and the nature of the
+137 relief sought, and, for purposes of this subsection, the amount of the settlement or civil
+138 penalty assessed, other financial terms of the settlement, and any other information the
+139 Attorney General deems appropriate.
+140 (4) If there is a settlement of an action brought by a person in the public interest under
+141 subsection (d) of this Code section, the plaintiff shall submit the settlement, other than
+142 a voluntary dismissal in which no consideration is received from the defendant, to the
+H. B. 193
+- 6 -
+
+25 LC 28 5000
+143 court for approval upon noticed motion, and the court may approve the settlement only
+144 if the court makes all of the following findings:
+145 (A) The warning that is required by the settlement complies with this chapter;
+146 (B) The award of attorney's fees is reasonable under Georgia law; and
+147 (C) The penalty amount is reasonable based on the criteria set forth in paragraph (2)
+148 of subsection (b) of this Code section.
+149 (5) The plaintiff subject to paragraph (4) of this subsection has the burden of producing
+150 evidence sufficient to sustain each required finding. The plaintiff shall serve the motion
+151 and all supporting papers on the Attorney General, who may appear and participate in a
+152 proceeding without intervening in the case.
+153 (6) Neither this subsection nor the procedures provided in paragraph (2) of subsection (e)
+154 and subsections (g), (h), (i), (j), and (k) of this Code section shall affect the requirements
+155 imposed by statute concerning whether claims raised by a person or public prosecutor not
+156 a party to the action are precluded by a settlement approved by the court.
+157 (g) The Attorney General shall maintain a record of the information submitted pursuant
+158 to subsections (e) and (f) of this Code section and shall make this information available to
+159 the public.
+160 (h)(1) The basis for the certificate of merit required by subsection (d) of this Code
+161 section shall be discoverable only to the extent that the information is relevant to the
+162 subject matter of the action and not subject to the attorney-client privilege, the attorney
+163 work product privilege, or any other legal privilege.
+164 (2) Upon the conclusion of an action brought pursuant to subsection (d) of this Code
+165 section with respect to a defendant, if the trial court determines that there was no actual
+166 or threatened exposure to a listed chemical, the court may, upon the motion of that
+167 alleged violator or upon the court's own motion, review the basis for the belief of the
+168 person executing the certificate of merit, expressed in the certificate of merit, that an
+169 exposure to a listed chemical had occurred or was threatened. The information in the
+H. B. 193
+- 7 -
+
+25 LC 28 5000
+170 certificate of merit, including the identity of the persons consulted with and relied on by
+171 the certifier and the facts, studies, or other data reviewed by those persons, shall be
+172 disclosed to the court in an in-camera proceeding at which the moving party shall not be
+173 present. If the court finds that there was no credible factual basis for the certifier's belief
+174 that an exposure to a listed chemical had occurred or was threatened, then the action shall
+175 be deemed frivolous within the meaning of Code Section 9-15-14. The court shall not
+176 find a factual basis credible on the basis of a legal theory of liability that is frivolous
+177 within the meaning of Code Section 9-15-14.
+178 (i) The Attorney General may provide the factual information submitted to establish the
+179 basis of the certificate of merit on request to a district attorney within whose judicial circuit
+180 the violation is alleged to have occurred or to any other state or federal government agency,
+181 but, in all other respects, the Attorney General shall maintain and ensure that all recipients
+182 maintain the submitted information as confidential official information to the full extent
+183 authorized.
+184 (j) In an action brought by the Attorney General or a district attorney pursuant to this
+185 chapter, the Attorney General or district attorney may seek and recover costs and attorney's
+186 fees on behalf of a party who provides a notice pursuant to subsection (d) of this Code
+187 section and who renders assistance in that action.
+188 (k) Any person who serves a notice of alleged violation pursuant to paragraph (1) of
+189 subsection (d) of this Code section for an exposure identified in such paragraph, as
+190 appropriate, shall provide to the alleged violator at the time the notice of alleged violation
+191 is served a notice of special compliance procedure and proof of compliance form pursuant
+192 to subsection (l) of this Code section and shall not file an action for that exposure against
+193 the alleged violator, or recover from the alleged violator in a settlement any payment in lieu
+194 of penalties or any reimbursement for costs and attorney's fees, if all of the following
+195 conditions have been met:
+H. B. 193
+- 8 -
+
+25 LC 28 5000
+196 (1) The notice given pursuant to paragraph (1) of subsection (d) of this Code section was
+197 served on or after January 1, 2027, and alleges that the alleged violator failed to provide
+198 clear and reasonable warning as required under Code Section 31-55-4 regarding one or
+199 more of the following:
+200 (A) An exposure to alcoholic beverages that are consumed on the alleged violator's
+201 premises to the extent onsite consumption is permitted by law;
+202 (B) An exposure to a chemical known to the state to cause cancer or reproductive
+203 toxicity in a food or beverage prepared and sold on the alleged violator's premises
+204 primarily intended for immediate consumption on or off premises, to the extent of both
+205 of the following:
+206 (i) The chemical was not intentionally added; and
+207 (ii) The chemical was formed by cooking or similar preparation of food or beverage
+208 components necessary to render the food or beverage palatable or to avoid
+209 microbiological contamination;
+210 (C) An exposure to environmental tobacco smoke caused by entry of persons, other
+211 than employees, on premises owned or operated by the alleged violator where smoking
+212 is permitted at any location on the premises; or
+213 (D) An exposure to chemicals known to the state to cause cancer or reproductive
+214 toxicity in engine exhaust, to the extent the exposure occurs inside a facility owned or
+215 operated by the alleged violator and primarily intended for parking noncommercial
+216 vehicles;
+217 (2) Within 14 days after service of the notice, the alleged violator has done all of the
+218 following:
+219 (A) Corrected the alleged violation;
+220 (B)(i) Agreed to pay a civil penalty for the alleged violation of Code Section 31-55-4
+221 in the amount of $500.00, to be adjusted every five years pursuant to division (ii) of
+222 this subparagraph, per facility or premises where the alleged violation occurred, of
+H. B. 193
+- 9 -
+
+25 LC 28 5000
+223 which 75 percent shall be deposited in the Safe Drinking Water and Toxic
+224 Enforcement Fund, and 25 percent shall be paid to the person that served the notice
+225 as provided in Code Section 31-55-9.
+226 (ii) On April 1, 2031, and at each five-year interval thereafter, the dollar amount of
+227 the civil penalty provided pursuant to this subparagraph shall be adjusted by the
+228 Judicial Council of Georgia based on the change in the annual Georgia Consumer
+229 Price Index for All Urban Consumers published by the Bureau of Labor Statistics of
+230 the United States Department of Labor for the most recent five-year period ending on
+231 December 31 of the year preceding the year in which the adjustment is made, rounded
+232 to the nearest $5.00. The Judicial Council of Georgia shall every five years publish
+233 the dollar amount of the adjusted civil penalty provided pursuant to this subparagraph,
+234 together with the date of the next scheduled adjustment; and
+235 (C) Notified, in writing, the person that served the notice of the alleged violation that
+236 the violation has been corrected. The written notice shall include the notice of special
+237 compliance procedure and proof of compliance form specified in subsection (l) of this
+238 Code section, which was provided by the person serving notice of the alleged violation
+239 and which shall be completed by the alleged violator as directed in the notice; and
+240 (3) The alleged violator shall deliver the civil penalty to the person that served the notice
+241 of the alleged violation within 30 days of service of that notice, and the person that served
+242 the notice of violation shall remit the portion of the penalty due to the Safe Drinking
+243 Water and Toxic Enforcement Fund within 30 days of receipt of the funds from the
+244 alleged violator.
+245 (l) The Attorney General shall promulgate a form for the notice which is required to be
+246 provided to an alleged violator pursuant to subsection (k) of this Code section by April 1,
+247 2027. Such notice shall provide for identification of the persons bringing the notice and
+248 provide a contact individual with an address for mail and electronic communications with
+249 such persons; a statement of intent to pursue private action if the public enforcement
+H. B. 193
+- 10 -
+
+25 LC 28 5000
+250 agencies do not commence or diligently pursue an action to rectify the problem complained
+251 of; a summary of the provisions of this chapter; a statement of the alleged violation; the
+252 number and duration of the alleged violations; a specific identification of the product which
+253 is the subject of the complaint; the chemical allegedly causing the exposure; the routes of
+254 such exposure; the types of harm resulting from such exposure; a demand for preservation
+255 of evidence by all noticed recipients to include all documents relating to the presence of
+256 the chemical in the product; purchase and sales information for the product, which shall
+257 include, but not be limited to, purchasers and suppliers, quantities sold and in inventory,
+258 the identity of the manufacturers, producers, packagers, importers, suppliers, and
+259 distributors, quantity sold or distributed per transaction, as well as the suppliers of the raw
+260 material, and the current inventory of the product in Georgia; efforts to comply with the
+261 provisions of this chapter with respect to the product, and communications with any person
+262 relating to the presence or potential presence of the chemical in the product.
+263 (m) An alleged violator may satisfy the conditions set forth in subsection (k) of this Code
+264 section only one time for a violation arising from the same exposure in the same facility
+265 or on the same premises.
+266 (n) Nothing in subsection (k) of this Code section shall prevent the Attorney General or
+267 a district attorney in whose judicial circuit a violation is alleged to have occurred from
+268 filing an action pursuant to subsection (c) of this Code section against an alleged violator.
+269 In any such action, the amount of any civil penalty for a violation shall be reduced to
+270 reflect any payment made by the alleged violator for the same alleged violation pursuant
+271 to subparagraph (k)(2)(B) of this Code section.
+272 (o) If a violation of this chapter is alleged or the application or construction of provisions
+273 of this chapter is at issue in a proceeding in the Supreme Court or the Court of Appeals,
+274 each party shall serve a copy of the party's brief or petition and brief on the Attorney
+275 General. Service on the Attorney General shall be accomplished by serving the brief, or
+276 petition and brief, at the service address designated by the Attorney General. A brief shall
+H. B. 193
+- 11 -
+
+25 LC 28 5000
+277 not be accepted or filed unless the proof of service shows service on the Attorney General.
+278 A party failing to comply with this subsection shall be given a reasonable opportunity to
+279 cure the failure before the court imposes sanction, and, in that instance, the court shall
+280 allow the Attorney General reasonable additional time to file a brief in the matter.
+281 31-55-6.
+282 (a) On or before January 1, 2027, the Governor shall cause to be published a list of those
+283 chemicals known to the state to cause cancer or reproductive toxicity as provided in this
+284 chapter, and the Attorney General shall cause such list to be revised and republished in
+285 light of additional knowledge at least once per year thereafter. Such list shall include at a
+286 minimum those substances listed as human or animal carcinogens by the International
+287 Agency for Research on Cancer, as amended, and those substances within the scope of the
+288 federal Hazard Communication Standard, 29 C.F.R. Section 1910.1200, as amended.
+289 (b) A chemical is known to the state to cause cancer or reproductive toxicity within the
+290 meaning of this chapter if, in the opinion of the state's qualified experts, it has been clearly
+291 shown through scientifically valid testing according to generally accepted principles to
+292 cause cancer or reproductive toxicity; if a body considered to be authoritative by such
+293 experts has formally identified it as causing cancer or reproductive toxicity; or if an agency
+294 of the state or federal government has formally required it to be labeled or identified as
+295 causing cancer or reproductive toxicity.
+296 (c) On or before January 1, 2027, and at least once per year thereafter, the Governor shall
+297 cause to be published a separate list of those chemicals that at the time of publication are
+298 required by state or federal law to have been tested for potential to cause cancer or
+299 reproductive toxicity but that the state's qualified experts have not found to have been
+300 adequately tested as required.
+301 (d) The Governor shall identify and consult with the state's qualified experts as necessary
+302 to carry out his or her duties under this Code section.
+H. B. 193
+- 12 -
+
+25 LC 28 5000
+303 (e) In carrying out the duties of the Governor under this Code section, the Governor and
+304 his or her designees shall not be considered to be adopting or amending a regulation within
+305 the meaning of Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act.'
+306 31-55-7.
+307 (a) Code Section 31-55-3 shall not apply to any discharge or release that takes place less
+308 than 20 months subsequent to the listing of the chemical in question on the list required to
+309 be published under subsection (a) of Code Section 31-55-6.
+310 (b)(1) Code Section 31-55-3 shall not apply to any discharge or release that meets both
+311 of the following criteria:
+312 (A) The discharge or release will not cause any significant amount of the discharged
+313 or released chemical to enter any source of drinking water; and
+314 (B) The discharge or release is in conformity with all other laws and with every
+315 applicable regulation, permit, requirement, and order.
+316 (2) In any action brought to enforce Code Section 31-55-3, the burden of showing that
+317 a discharge or release meets the criteria of this subsection shall be on the defendant.
+318 31-55-8.
+319 (a) Code Section 31-55-4 shall not apply to any of the following:
+320 (1) An exposure for which federal law governs warnings in a manner that preempts state
+321 authority;
+322 (2) An exposure that takes place less than 12 months subsequent to the listing of the
+323 chemical in question on the list required to be published under subsection (a) of Code
+324 Section 31-55-6; and
+325 (3) An exposure for which the person responsible can show that the exposure poses no
+326 significant risk assuming lifetime exposure at the level in question for substances known
+327 to the state to cause cancer, and that the exposure will have no observable effect assuming
+H. B. 193
+- 13 -
+
+25 LC 28 5000
+328 exposure at 1,000 times the level in question for substances known to the state to cause
+329 reproductive toxicity, based on evidence and standards of comparable scientific validity
+330 to the evidence and standards which form the scientific basis for the listing of such
+331 chemical pursuant to subsection (a) of Code Section 31-55-6.
+332 (b) In any action brought to enforce Code Section 31-55-4, the burden of showing that an
+333 exposure meets the criteria of this Code section shall be on the defendant.
+334 31-55-9.
+335 (a) The Governor shall designate a lead agency and other agencies that may be required
+336 to implement this chapter, including this Code section. Each agency so designated may
+337 adopt and modify rules and regulations, standards, and permits as necessary to conform
+338 with and implement this chapter and to further its purposes.
+339 (b) The Safe Drinking Water and Toxic Enforcement Fund is hereby established in the
+340 state treasury. The director of the lead agency designated by the Governor to implement
+341 this chapter may expend the funds in the Safe Drinking Water and Toxic Enforcement
+342 Fund, upon appropriation by the General Assembly, to implement and administer this
+343 chapter. The lead agency designated by the Governor under this Code section shall submit
+344 a report to the Governor, Lieutenant Governor, and Speaker of the House of
+345 Representatives on December 1 of each calendar year detailing the revenues and expenses
+346 of such fund.
+347 (c) In addition to any other money that may be deposited in the Safe Drinking Water and
+348 Toxic Enforcement Fund, all of the following amounts shall be deposited in the fund:
+349 (1) Seventy-five percent of all civil and criminal penalties collected pursuant to this
+350 chapter; and
+351 (2) Any interest earned upon the money deposited into the Safe Drinking Water and
+352 Toxic Enforcement Fund.
+H. B. 193
+- 14 -
+
+25 LC 28 5000
+353 (d) Twenty-five percent of all civil and criminal penalties collected pursuant to this chapter
+354 shall be paid to the office of the Attorney General or the district attorney, whichever office
+355 brought the action, or, in the case of an action brought by a person under subsection (d) of
+356 Code Section 31-55-5, to that person.
+357 31-55-10.
+358 Nothing in this chapter shall alter or diminish any legal obligation otherwise required in
+359 common law or by statute or regulation, and nothing in this chapter shall create or enlarge
+360 any defense in any action to enforce such legal obligation. Penalties and sanctions imposed
+361 under this chapter shall be in addition to any penalties or sanctions otherwise prescribed
+362 by law.
+363 31-55-11.
+364 The Department of Economic Development shall post in a conspicuous location on its
+365 public website, and include with any informational materials provided to businesses
+366 relating to a business's obligations under state law, a disclaimer that states the following:
+367 'The Safe Drinking Water and Toxic Enforcement Act of 2025 requires businesses to
+368 provide a clear and reasonable warning before knowingly and intentionally exposing
+369 anyone to chemicals that are known to the state to cause cancer or birth defects or other
+370 reproductive harm. It is important to know that a product that receives certification from
+371 the United States Food and Drug Administration, or another federal agency or state
+372 agency, is not necessarily exempt from Georgia requirements for chemical exposure
+373 warnings. Businesses should be aware of the levels of harmful chemicals in their
+374 products and of applicable requirements under the Safe Drinking Water and Toxic
+375 Enforcement Act of 2025.'"
+H. B. 193
+- 15 -
+
+25 LC 28 5000
+376 SECTION 2.
+377 This Act shall become effective on January 1, 2027, if a constitutional amendment is adopted
+378 by the electors at the 2026 General Election authorizing the creation of the Safe Drinking
+379 Water and Toxic Enforcement Fund. If such constitutional amendment is not adopted at the
+380 2026 General Election, then this Act shall not become effective and shall be repealed by
+381 operation of law on such date.
+382 SECTION 3.
+383 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 193
+- 16 -
+
+[DELETED: 5L1 o t g o s w t p f e t p t t c d a a o p t s i a c]
+[DELETED: 5L  S t m i a e o s f o a f a w a d t i t o L]
+[DELETED: 5L  ' w t m o C S 3 n n b p o c p i f r i C 3 s t t e p p t o t p a]
+[DELETED: 5L]
+[DELETED: 5L  N t A G n t d a h c a i]
+[DELETED: 5L o t a j s t t A G a r t i]
+[DELETED: 5L]
+[DELETED: 5L ( o t C s f a e i i s p a]
+[DELETED: 5L n t r t f o b p o t a]
+[DELETED: 5L 7 p s b d i t S D W a T]
+[DELETED: 5L i o t m p p i s a]
+[DELETED: 5L b s o f l t h b t f p t c c o]
+[DELETED: 5L]
+[DELETED: 5L r t t G L G a S o t H o]
+[DELETED: 5L w a i w a i m p t b  B s b a o t l o h c i t a o a r u t S D W a T]
+[DELETED: 5L]

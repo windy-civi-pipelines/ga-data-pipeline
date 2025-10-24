@@ -1,0 +1,147 @@
+Title: House Bill 478
+Official Title: House Bill 478
+Number of Sections: 1
+Source: versions - LC 59 0111/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 59 0111
+By: Representative Kendrick of the 95th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia
+2 Annotated, relating to the Fair Business Practices Act, so as to require that AI generated
+3 content used in commerce and trade include a disclaimer indicating such content was
+4 generated using artificial intelligence; to provide for the form of such disclaimers; to provide
+5 for a definition; to provide for related matters; to repeal conflicting laws; and for other
+6 purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated,
+10 relating to the Fair Business Practices Act, is amended in Code Section 10-1-392, relating
+11 to definitions, by adding a new paragraph to read as follows:
+12 "(.1) 'AI generated content' means a video recording, video file, audio recording, audio
+13 file, still image, or still image file that is created through the use of an engineered or
+14 machine based system that emulates the capability of a person to receive audio, visual,
+15 text, or any other form of information and use the information received to emulate a
+16 human cognitive process, including, but not limited to, learning, generalizing, reasoning,
+H. B. 478
+- 1 -
+25 LC 59 0111
+17 planning, predicting, acting, or communicating; provided, however, that artificial
+18 intelligence systems may vary in the forms of information they can receive and in the
+19 human cognitive processes they can emulate."
+20 SECTION 2.
+21 Said part is further amended by adding a new Code section to read as follows:
+22 "10-1-393.20.
+23 (a) On or after July 1, 2025, any individual engaged in the dissemination of AI generated
+24 content to facilitate commerce or trade shall ensure such content includes a disclosure that
+25 artificial intelligence was used to make all or part of such content.
+26 (b) Disclosures required under subsection (a) of this Code section for AI generated content
+27 that involves the use, in whole or in part, of visual media shall be:
+28 (1) In writing and completed in each written language used in such content; and
+29 (2) Clearly readable, which shall mean that the text of the disclosure shall:
+30 (A) Appear in letters equal to or greater than 30 percent of the vertical picture height;
+31 (B) Be visible for a period of at least 30 percent of the media's length, in the case of
+32 moving images and video; and
+33 (C) Appear with a reasonable degree of color contrast between the background and the
+34 text of the statement. A statement satisfies the color contrast requirement of this
+35 subparagraph if it is printed in black text on a white background or if the degree of
+36 color contrast between the background and the text of the statement is no less than the
+37 color contrast between the background and the largest type size used in the content.
+38 (c) Disclosures required under subsection (a) of this Code section for AI generated content
+39 that involves the use, in whole or in part, of audible media shall be announced, articulated,
+40 spoken, or otherwise rendered completely using the same audible volume, the same rate
+41 of speaking as measured in words per minute, and each spoken language as used in such
+42 content.
+H. B. 478
+- 2 -
+25 LC 59 0111
+43 (d) It shall be unlawful to omit disclosures required under subsection (a) of this Code
+44 section.
+45 (e) Each video recording, video file, audio recording, audio file, still image, or still image
+46 file disseminated in facilitating commerce or trade that omits disclosures required under
+47 subsection (a) of this Code section shall constitute a separate violation."
+48 SECTION 3.
+49 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 478
+- 3 -
+[DELETED: 5L5 u i c a t i a d i s c w]
+[DELETED: 5L p a o c p h t a]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 59 0111
+House Bill 478
+By: Representative Kendrick of the 95th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia
+2 Annotated, relating to the Fair Business Practices Act, so as to require that AI generated
+3 content used in commerce and trade include a disclaimer indicating such content was
+4 generated using artificial intelligence; to provide for the form of such disclaimers; to provide
+5 for a definition; to provide for related matters; to repeal conflicting laws; and for other
+6 purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated,
+10 relating to the Fair Business Practices Act, is amended in Code Section 10-1-392, relating
+11 to definitions, by adding a new paragraph to read as follows:
+12 "(.1) 'AI generated content' means a video recording, video file, audio recording, audio
+13 file, still image, or still image file that is created through the use of an engineered or
+14 machine based system that emulates the capability of a person to receive audio, visual,
+15 text, or any other form of information and use the information received to emulate a
+16 human cognitive process, including, but not limited to, learning, generalizing, reasoning,
+H. B. 478
+- 1 -
+
+25 LC 59 0111
+17 planning, predicting, acting, or communicating; provided, however, that artificial
+18 intelligence systems may vary in the forms of information they can receive and in the
+19 human cognitive processes they can emulate."
+20 SECTION 2.
+21 Said part is further amended by adding a new Code section to read as follows:
+22 "10-1-393.20.
+23 (a) On or after July 1, 2025, any individual engaged in the dissemination of AI generated
+24 content to facilitate commerce or trade shall ensure such content includes a disclosure that
+25 artificial intelligence was used to make all or part of such content.
+26 (b) Disclosures required under subsection (a) of this Code section for AI generated content
+27 that involves the use, in whole or in part, of visual media shall be:
+28 (1) In writing and completed in each written language used in such content; and
+29 (2) Clearly readable, which shall mean that the text of the disclosure shall:
+30 (A) Appear in letters equal to or greater than 30 percent of the vertical picture height;
+31 (B) Be visible for a period of at least 30 percent of the media's length, in the case of
+32 moving images and video; and
+33 (C) Appear with a reasonable degree of color contrast between the background and the
+34 text of the statement. A statement satisfies the color contrast requirement of this
+35 subparagraph if it is printed in black text on a white background or if the degree of
+36 color contrast between the background and the text of the statement is no less than the
+37 color contrast between the background and the largest type size used in the content.
+38 (c) Disclosures required under subsection (a) of this Code section for AI generated content
+39 that involves the use, in whole or in part, of audible media shall be announced, articulated,
+40 spoken, or otherwise rendered completely using the same audible volume, the same rate
+41 of speaking as measured in words per minute, and each spoken language as used in such
+42 content.
+H. B. 478
+- 2 -
+
+25 LC 59 0111
+43 (d) It shall be unlawful to omit disclosures required under subsection (a) of this Code
+44 section.
+45 (e) Each video recording, video file, audio recording, audio file, still image, or still image
+46 file disseminated in facilitating commerce or trade that omits disclosures required under
+47 subsection (a) of this Code section shall constitute a separate violation."
+48 SECTION 3.
+49 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 478
+- 3 -
+
+[DELETED: 5L5 u i c a t i a d i s c w]
+[DELETED: 5L p a o c p h t a]
+[DELETED: 5L]

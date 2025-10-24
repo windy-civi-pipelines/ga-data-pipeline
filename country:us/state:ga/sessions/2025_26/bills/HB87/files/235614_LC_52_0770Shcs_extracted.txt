@@ -1,0 +1,293 @@
+Title: House Bill 87 (COMMITTEE SUBSTITUTE)
+Official Title: House Bill 87 (COMMITTEE SUBSTITUTE)
+Number of Sections: 1
+Source: versions - LC 52 0770S/hcs
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0770S
+By: Representatives Clark of the 100th, Wiedower of the 121st, Mathiak of the 82nd, Williams
+of the 148th, Schofield of the 63rd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 33 of the Official Code of Georgia Annotated, relating to insurance, so as to
+2 require health benefit policy coverage for medically necessary orthotic devices and prosthetic
+3 devices and their materials and components; to provide for definitions; to provide for
+4 requirements; to provide for reporting; to provide for rules and regulations; to provide for
+5 related matters; to provide for an effective date and appropriations; to repeal conflicting laws;
+6 and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Title 33 of the Official Code of Georgia Annotated, relating to insurance, is amended in
+10 Chapter 24, relating to insurance generally, by adding a new Code section to read as follows:
+11 "33-24-59.34.
+12 (a) As used in this Code section, the term:
+13 (1) 'Cost-sharing requirement' shall have the same meaning as set forth in Code
+14 Section 33-24-59.32.
+15 (2) 'Covered person' means an individual covered under a health benefit policy.
+H. B. 87 (SUB)
+- 1 -
+25 LC 52 0770S
+16 (3) 'Health benefit policy' shall have the same meaning as set forth in Code
+17 Section 33-24-59.21.
+18 (4) 'Health insurer' means any person, corporation, or other entity authorized to provide
+19 health benefit policies under this title.
+20 (5) 'Medically necessary' shall have the same meaning as set forth in Code
+21 Section 33-46-4 and shall be in accordance with nationally recognized clinical practice
+22 guidelines.
+23 (6) 'Nationally recognized clinical practice guidelines' means evidence based clinical
+24 practice guidelines developed by independent organizations or medical professional
+25 societies utilizing a transparent methodology and reporting structure and with a conflict
+26 of interest policy. Such guidelines establish standards of care informed by a systematic
+27 review of evidence and an assessment of the benefits and risks of alternative care options
+28 and include recommendations intended to optimize patient care.
+29 (7) 'Orthotic device' or 'orthosis' means a custom fabricated or custom fitted device that
+30 is designed, fabricated, modified, or fitted to correct, support, or compensate for a
+31 neuromusculoskeletal disorder or acquired condition for the purpose of stabilizing,
+32 stretching, or immobilizing a body part, improving alignment, preventing deformities,
+33 protecting against injury, or assisting with motion or function, and is worn on the outside
+34 of the body to help with such structural or functional problems. Such term does not
+35 include fabric or elastic supports, corsets, arch supports, low-temperature plastic splints,
+36 trusses, elastic hoses, canes, crutches, soft cervical collars, dental appliances, or other
+37 similar devices that are carried in stock and sold as over-the-counter items by a drug
+38 store, department store, corset shop, or surgical supply facility.
+39 (8) 'Prosthetic device' or 'prosthesis' means a custom designed, fabricated, fitted,
+40 modified, or fitted and modified device to replace an absent external body part for
+41 purposes of restoring physiological function or cosmesis or both. Such term does not
+42 include artificial eyes or ears; dental appliances; cosmetic devices such as artificial
+H. B. 87 (SUB)
+- 2 -
+25 LC 52 0770S
+43 breasts, eyelashes, or wigs; or other devices that do not have a significant impact on
+44 mobility or the musculoskeletal functions of the body.
+45 (b) All health benefit policies renewed or issued on or after January 1, 2026, shall include
+46 coverage for orthotic devices and prosthetic devices that are medically necessary for:
+47 (1) Activities of daily living;
+48 (2) Essential job related activities;
+49 (3) Personal hygiene related activities, including, but not limited to, showering, bathing,
+50 and toileting; or
+51 (4) Physical activities, including, but not limited to, running, biking, swimming, and
+52 strength training, so as to maximize the covered person's whole body health and both
+53 upper and lower limb function.
+54 (c) The coverage provided for in this Code section shall include no more than three
+55 orthotic devices or prosthetic devices per affected limb per covered person during any
+56 three-year period. Such coverage shall include:
+57 (1) All materials and components for the use of the orthotic device or prosthetic device,
+58 including:
+59 (A) The orthosis or prosthesis;
+60 (B) Structural components such as the socket;
+61 (C) Suspension mechanisms such as the pin, lock, suction, and elevated vacuum;
+62 (D) Hip joint, knee joint, foot, alignable parts, and terminal device;
+63 (E) Connective components such as pads, bands, and cushions; and
+64 (F) Consumable items such as socks, sleeves, and liners;
+65 (2) Formulation of the device's design, fabrication, measurements and fittings;
+66 (3) Education and training on using and maintaining such device; and
+67 (4) The repair of such device and its components.
+68 (d)(1) The replacement of an orthotic device or prosthetic device and its materials and
+69 components when such device is less than three years old shall be medically necessary
+H. B. 87 (SUB)
+- 3 -
+25 LC 52 0770S
+70 if there is adequate documentation of a change in the physiological condition of the
+71 covered person, an irreparable change in the condition of the device or any of its
+72 components, or the condition of the device or a component of the device requires repairs
+73 and the cost of such repairs would be more than 60 percent of the cost of the device.
+74 (2) A socket replacement shall be medically necessary if there is adequate documentation
+75 of a physiological need, including, but not limited to, a change in the residual limb, a
+76 functional need change, irreparable damage, or wear and tear due to excessive weight of
+77 a covered person or physical demands of an active covered person.
+78 (e) A health insurer shall not be required to replace or repair an orthotic device or
+79 prosthetic device due to misuse, malicious damage, gross neglect, loss, or theft.
+80 (f) The coverage provided for in this Code section:
+81 (1) Shall be considered as habilitative or rehabilitative benefits for purposes of any state
+82 or federal requirements for coverage of essential health benefits;
+83 (2) Shall be comparable to coverage for other medical and surgical benefits under the
+84 health benefit policy, including restorative internal devices;
+85 (3) May be subject to the same cost-sharing requirements that apply to other medical
+86 devices and services covered by the health benefit policy; provided, however, that such
+87 requirements shall not be solely applicable to such coverage; and
+88 (4) May be limited, or the cost-sharing requirements for such coverage may be altered
+89 for out-of-network providers; provided, however, that any limitations shall not be more
+90 restrictive than the restrictions and requirements applicable to the out-of-network
+91 coverage for the policy's medical or surgical coverage.
+92 (g) Nothing in this Code section shall be construed to prohibit a health insurer from issuing
+93 or renewing a health benefit policy which provides benefits greater than the minimum
+94 benefits required under this Code section or from issuing or renewing a policy which
+95 provides benefits which are generally more favorable to the covered person than those
+96 required under this Code section.
+H. B. 87 (SUB)
+- 4 -
+25 LC 52 0770S
+97 (h) By July 1, 2032, the Commissioner shall submit a report to the House Committee on
+98 Insurance and the Senate Insurance and Labor Committee regarding the implementation
+99 of the coverage required under this Code section. All health insurers issuing or renewing
+100 health benefit policies subject to the provisions of this Code section shall provide the
+101 department with all data requested by the department for inclusion in such report,
+102 including, but limited to, the total number of claims submitted, the total number of claims
+103 paid, and the total amount of claims paid for the coverage provided for by this Code section
+104 for policy years from 2026 to 2030.
+105 (i) The Commissioner shall promulgate rules and regulations necessary to implement the
+106 provisions of this Code section."
+107 SECTION 2.
+108 This Act shall become effective upon its approval by the Governor or upon its becoming law
+109 without such approval, except that any coverage provided under a contract executed by this
+110 state shall be subject to appropriations.
+111 SECTION 3.
+112 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 87 (SUB)
+- 5 -
+[DELETED: 5L0,1,2,hstn8,3,hr a t m a c t p f d t p f  ' r s h t s m a s f i C]
+[DELETED: 5L  ' b p s h t s m a s f i C  ' n s h t s m a s f i C d f m o f t c s o c f  d o a c f t p o s  ' d o ' m a c d f f]
+[DELETED: 5L]
+[DELETED: 5L p a i c i t c o t d o a o i  A h i s n b r t r o r a o d o t t r a r a t t o]
+[DELETED: 5L w a d r b t d f i i s r]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0770S
+House Bill 87 (COMMITTEE SUBSTITUTE)
+By: Representatives Clark of the 100th, Wiedower of the 121st, Mathiak of the 82nd, Williams
+of the 148th, Schofield of the 63rd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 33 of the Official Code of Georgia Annotated, relating to insurance, so as to
+2 require health benefit policy coverage for medically necessary orthotic devices and prosthetic
+3 devices and their materials and components; to provide for definitions; to provide for
+4 requirements; to provide for reporting; to provide for rules and regulations; to provide for
+5 related matters; to provide for an effective date and appropriations; to repeal conflicting laws;
+6 and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Title 33 of the Official Code of Georgia Annotated, relating to insurance, is amended in
+10 Chapter 24, relating to insurance generally, by adding a new Code section to read as follows:
+11 "33-24-59.34.
+12 (a) As used in this Code section, the term:
+13 (1) 'Cost-sharing requirement' shall have the same meaning as set forth in Code
+14 Section 33-24-59.32.
+15 (2) 'Covered person' means an individual covered under a health benefit policy.
+H. B. 87 (SUB)
+- 1 -
+
+25 LC 52 0770S
+16 (3) 'Health benefit policy' shall have the same meaning as set forth in Code
+17 Section 33-24-59.21.
+18 (4) 'Health insurer' means any person, corporation, or other entity authorized to provide
+19 health benefit policies under this title.
+20 (5) 'Medically necessary' shall have the same meaning as set forth in Code
+21 Section 33-46-4 and shall be in accordance with nationally recognized clinical practice
+22 guidelines.
+23 (6) 'Nationally recognized clinical practice guidelines' means evidence based clinical
+24 practice guidelines developed by independent organizations or medical professional
+25 societies utilizing a transparent methodology and reporting structure and with a conflict
+26 of interest policy. Such guidelines establish standards of care informed by a systematic
+27 review of evidence and an assessment of the benefits and risks of alternative care options
+28 and include recommendations intended to optimize patient care.
+29 (7) 'Orthotic device' or 'orthosis' means a custom fabricated or custom fitted device that
+30 is designed, fabricated, modified, or fitted to correct, support, or compensate for a
+31 neuromusculoskeletal disorder or acquired condition for the purpose of stabilizing,
+32 stretching, or immobilizing a body part, improving alignment, preventing deformities,
+33 protecting against injury, or assisting with motion or function, and is worn on the outside
+34 of the body to help with such structural or functional problems. Such term does not
+35 include fabric or elastic supports, corsets, arch supports, low-temperature plastic splints,
+36 trusses, elastic hoses, canes, crutches, soft cervical collars, dental appliances, or other
+37 similar devices that are carried in stock and sold as over-the-counter items by a drug
+38 store, department store, corset shop, or surgical supply facility.
+39 (8) 'Prosthetic device' or 'prosthesis' means a custom designed, fabricated, fitted,
+40 modified, or fitted and modified device to replace an absent external body part for
+41 purposes of restoring physiological function or cosmesis or both. Such term does not
+42 include artificial eyes or ears; dental appliances; cosmetic devices such as artificial
+H. B. 87 (SUB)
+- 2 -
+
+25 LC 52 0770S
+43 breasts, eyelashes, or wigs; or other devices that do not have a significant impact on
+44 mobility or the musculoskeletal functions of the body.
+45 (b) All health benefit policies renewed or issued on or after January 1, 2026, shall include
+46 coverage for orthotic devices and prosthetic devices that are medically necessary for:
+47 (1) Activities of daily living;
+48 (2) Essential job related activities;
+49 (3) Personal hygiene related activities, including, but not limited to, showering, bathing,
+50 and toileting; or
+51 (4) Physical activities, including, but not limited to, running, biking, swimming, and
+52 strength training, so as to maximize the covered person's whole body health and both
+53 upper and lower limb function.
+54 (c) The coverage provided for in this Code section shall include no more than three
+55 orthotic devices or prosthetic devices per affected limb per covered person during any
+56 three-year period. Such coverage shall include:
+57 (1) All materials and components for the use of the orthotic device or prosthetic device,
+58 including:
+59 (A) The orthosis or prosthesis;
+60 (B) Structural components such as the socket;
+61 (C) Suspension mechanisms such as the pin, lock, suction, and elevated vacuum;
+62 (D) Hip joint, knee joint, foot, alignable parts, and terminal device;
+63 (E) Connective components such as pads, bands, and cushions; and
+64 (F) Consumable items such as socks, sleeves, and liners;
+65 (2) Formulation of the device's design, fabrication, measurements and fittings;
+66 (3) Education and training on using and maintaining such device; and
+67 (4) The repair of such device and its components.
+68 (d)(1) The replacement of an orthotic device or prosthetic device and its materials and
+69 components when such device is less than three years old shall be medically necessary
+H. B. 87 (SUB)
+- 3 -
+
+25 LC 52 0770S
+70 if there is adequate documentation of a change in the physiological condition of the
+71 covered person, an irreparable change in the condition of the device or any of its
+72 components, or the condition of the device or a component of the device requires repairs
+73 and the cost of such repairs would be more than 60 percent of the cost of the device.
+74 (2) A socket replacement shall be medically necessary if there is adequate documentation
+75 of a physiological need, including, but not limited to, a change in the residual limb, a
+76 functional need change, irreparable damage, or wear and tear due to excessive weight of
+77 a covered person or physical demands of an active covered person.
+78 (e) A health insurer shall not be required to replace or repair an orthotic device or
+79 prosthetic device due to misuse, malicious damage, gross neglect, loss, or theft.
+80 (f) The coverage provided for in this Code section:
+81 (1) Shall be considered as habilitative or rehabilitative benefits for purposes of any state
+82 or federal requirements for coverage of essential health benefits;
+83 (2) Shall be comparable to coverage for other medical and surgical benefits under the
+84 health benefit policy, including restorative internal devices;
+85 (3) May be subject to the same cost-sharing requirements that apply to other medical
+86 devices and services covered by the health benefit policy; provided, however, that such
+87 requirements shall not be solely applicable to such coverage; and
+88 (4) May be limited, or the cost-sharing requirements for such coverage may be altered
+89 for out-of-network providers; provided, however, that any limitations shall not be more
+90 restrictive than the restrictions and requirements applicable to the out-of-network
+91 coverage for the policy's medical or surgical coverage.
+92 (g) Nothing in this Code section shall be construed to prohibit a health insurer from issuing
+93 or renewing a health benefit policy which provides benefits greater than the minimum
+94 benefits required under this Code section or from issuing or renewing a policy which
+95 provides benefits which are generally more favorable to the covered person than those
+96 required under this Code section.
+H. B. 87 (SUB)
+- 4 -
+
+25 LC 52 0770S
+97 (h) By July 1, 2032, the Commissioner shall submit a report to the House Committee on
+98 Insurance and the Senate Insurance and Labor Committee regarding the implementation
+99 of the coverage required under this Code section. All health insurers issuing or renewing
+100 health benefit policies subject to the provisions of this Code section shall provide the
+101 department with all data requested by the department for inclusion in such report,
+102 including, but limited to, the total number of claims submitted, the total number of claims
+103 paid, and the total amount of claims paid for the coverage provided for by this Code section
+104 for policy years from 2026 to 2030.
+105 (i) The Commissioner shall promulgate rules and regulations necessary to implement the
+106 provisions of this Code section."
+107 SECTION 2.
+108 This Act shall become effective upon its approval by the Governor or upon its becoming law
+109 without such approval, except that any coverage provided under a contract executed by this
+110 state shall be subject to appropriations.
+111 SECTION 3.
+112 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 87 (SUB)
+- 5 -
+
+[DELETED: 5L0,1,2,hstn8,3,hr a t m a c t p f d t p f  ' r s h t s m a s f i C]
+[DELETED: 5L  ' b p s h t s m a s f i C  ' n s h t s m a s f i C d f m o f t c s o c f  d o a c f t p o s  ' d o ' m a c d f f]
+[DELETED: 5L]
+[DELETED: 5L p a i c i t c o t d o a o i  A h i s n b r t r o r a o d o t t r a r a t t o]
+[DELETED: 5L w a d r b t d f i i s r]

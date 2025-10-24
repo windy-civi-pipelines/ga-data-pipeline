@@ -1,0 +1,454 @@
+Title: House Bill 902
+Official Title: House Bill 902
+Number of Sections: 1
+Source: versions - LC 52 0851/a
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0851
+By: Representatives Jones of the 25th, Barrett of the 24th, Williams of the 148th, Douglas of
+the 78th, and Kelley of the 16th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 33 of the Official Code of Georgia Annotated, relating to insurance, so as to
+2 provide for transparency and accountability in insurance rates and rate regulation after the
+3 enactment of tort reform law; to provide for definitions; to provide for examinations and
+4 hearings; to provide for the publication of certain information; to extend the time for data
+5 collection and analysis related to tort reform law; to provide for findings on savings from tort
+6 reform law; to provide for the publication of reports; to provide for related matters; to
+7 provide for an effective date; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Title 33 of the Official Code of Georgia Annotated, relating to insurance, is amended in
+11 Chapter 9, relating to regulation of rates, underwriting rules, and related organizations, by
+12 revising Code Section 33-9-4, relating to standards applicable to making and use of rates, as
+13 follows:
+14 "33-9-4.
+15 (a) As used in this Code section, the term:
+H. B. 902
+- 1 -
+25 LC 52 0851
+16 (1) 'Excessive' means the rate is likely to produce a long-term profit that is unreasonably
+17 high in relation to the insurance coverage provided. Any rate increase of 10 percent or
+18 more within any 12 month period and any filing for a rate increase two or more times
+19 within any 24 month period shall be presumed to be excessive.
+20 (2) 'Inadequate' means the rate is insufficient to sustain projected losses and expenses to
+21 which the rate applies and continued use of the rate endangers the solvency of the insurer
+22 or has the effect of substantially lessening competition or creating a monopoly in a
+23 market.
+24 (3) 'Unfairly discriminatory' means the rate is not based on sound actuarial principles,
+25 does not bear a reasonable relationship to the expected loss and expense experience
+26 among risks, or is based wholly or partly on the race, creed, color, ethnicity, or national
+27 origin of the applicant, policyholder, or insured.
+28 (b) The following standards shall apply to the making and use of rates pertaining to all
+29 classes of insurance to which this chapter is applicable:
+30 (1) Rates shall not be excessive, or inadequate, or as defined in this Code section, nor
+31 shall they be unfairly discriminatory;
+32 (2) No rate shall be held to be excessive unless such rate is unreasonably high for the
+33 insurance provided and a reasonable degree of competition does not exist in the area with
+34 respect to the classification to which such rate is applicable; provided, however, with
+35 respect to rate filings involving an increase in rates, no rate for personal private passenger
+36 motor vehicle insurance shall be held to be excessive unless such rate is unreasonably
+37 high for the insurance provided and a reasonable degree of competition does not exist;
+38 (3) No rate shall be held inadequate unless it is unreasonably low for the insurance
+39 provided and continued use of it would endanger solvency of the insurer, or unless the
+40 use of such rate by the insurer using such rate has, or will, if continued, tend to destroy
+41 competition or create a monopoly;
+H. B. 902
+- 2 -
+25 LC 52 0851
+42 (4)(2) Consideration shall be given to the extent applicable to past and prospective loss
+43 experience within and outside this state, to conflagration and catastrophe hazards, to a
+44 reasonable margin for underwriting profit and contingencies, to past and prospective
+45 expenses both country wide and those specially applicable to this state, to the insurer's
+46 average yield from investment income, and to all other factors, including judgment
+47 factors, deemed relevant within and outside this state; and, in the case of fire insurance
+48 rates, consideration may be given to the experience of the fire insurance business during
+49 the most recent five-year period;
+50 (5)(3) Consideration may also be given, in the making and use of rates, to dividends,
+51 savings, or unabsorbed premium deposits allowed or returned by insurers to their
+52 policyholders, members, or subscribers;
+53 (6)(4) The systems of expense provisions included in the rates for use by any insurer or
+54 group of insurers may differ from those of other insurers or groups of insurers to reflect
+55 the operating methods of any such insurer or group with respect to any kind of insurance
+56 or with respect to any subdivision or combination thereof;
+57 (7)(5) Risks may be grouped by classifications for the establishment of rates and
+58 minimum premiums. Classification rates may be modified to produce rates for individual
+59 risks in accordance with rating plans which establish standards for measuring variations
+60 in hazards or expense provisions, or both. Such standards may measure any difference
+61 among risks that have a probable effect upon losses or expenses. Classifications or
+62 modifications of classifications of risks may be established based upon size, expense,
+63 management, individual experience, location or dispersion of hazard, or any other
+64 reasonable considerations. Such classifications and modifications shall apply to all risks
+65 under the same or substantially the same circumstances or conditions; provided, however,
+66 the Commissioner shall establish the maximum amount of any such modification;
+67 (8)(6) Nothing contained in this Code section or elsewhere in this chapter shall be
+68 construed to repeal or modify Chapter 6 of this title, relating to unfair trade practices, and
+H. B. 902
+- 3 -
+25 LC 52 0851
+69 any rate, rating classification, rating plan or schedule, or variation thereof established in
+70 violation of Chapter 6 of this title shall, in addition to the consequences stated in Chapter
+71 6 of this title or elsewhere, be deemed violative of to violate this Code section;
+72 (9)(7) No insurer shall base any standard or rating plan on vehicle insurance, in whole
+73 or in part, directly or indirectly, upon race, creed, or ethnic extraction; and
+74 (10)(8) No insurer shall base any standard or rating plan on vehicle insurance, in whole
+75 or in part, directly or indirectly, upon any physical disability of an insured unless the
+76 disability directly impairs the ability of the insured to drive a motor vehicle."
+77 SECTION 2.
+78 Said title is further amended in said chapter by revising subsection (e) of Code
+79 Section 33-9-21, relating to maintenance and filing rates, rating plans, rating systems, or
+80 underwriting rules and examination of claim reserve practices by the Commissioner, as
+81 follows:
+82 "(e)(1) When a rate filing of an insurer required under subsection (d) of this Code section
+83 results in any overall rate increase of 10 percent or more within any 12 month period or
+84 when an insurer files for a rate increase more than two times within any 24 month period,
+85 the Commissioner shall order an a financial and market conduct examination of that
+86 insurer to determine the accuracy of the claim reserves, the applicability of the claim
+87 reserve practices for the loss data used in support of such filing, and any other component
+88 of the rate filing, such insurer's compliance with federal and state laws and regulations,
+89 and such insurer's marketing practices, claims handling, complaint handling, and
+90 policyholder service; provided, however, that in the event the overall increase is less than
+91 25 percent within any 12 month period and the Commissioner affirmatively determines
+92 that he or she has sufficient information to evaluate such rate increase and that the cost
+93 thereof would not be justified, he or she may waive all or part of such examination. In
+94 all other rate filings required under subsection (d) of this Code section, the Commissioner
+H. B. 902
+- 4 -
+25 LC 52 0851
+95 may order an a financial and market conduct examination of that insurer as provided in
+96 this subsection. Such examination shall be conducted in accordance with the provisions
+97 of Chapter 2 of this title. Upon notification by the Commissioner of his or her intent to
+98 conduct such examination, the insurer shall be prohibited from placing the rates so filed
+99 in effect until such examination has been reviewed and certified by the Commissioner as
+100 being complete. Such examination, if conducted by the Commissioner, shall be reviewed
+101 and certified within 90 45 days of the date such rate, rating plan, rating system, or
+102 underwriting rule is filed; provided, however, that, if the Commissioner makes an
+103 affirmative finding that the examination may not be completed within the 90 day such
+104 period, he or she may extend such time for one additional 60 45 day period.
+105 (2) The Commissioner shall conduct a public hearing within 30 days of the completion
+106 of any examination conducted pursuant to this subsection. The Commissioner shall be
+107 authorized to take depositions, subpoena witnesses, administer oaths or affirmations,
+108 examine any individual under oath, and compel the production of records, books, papers,
+109 and other documents, including, but not limited to, a detailed actuarial report
+110 demonstrating the necessity of the proposed rate increase based on claims trends, risk
+111 factors, and financial solvency; a breakdown of administrative expenses, claim costs, and
+112 anticipated profit margins; a statement on how the proposed rate increase shall affect
+113 policyholders, including families, small businesses, and commercial enterprises in this
+114 state; historical past rate changes and corresponding justifications for the preceding five
+115 years; and any other documents deemed necessary. Any examination hearing required
+116 under this Code section subsection shall be conducted in accordance with Chapter 2 of
+117 this title."
+118 SECTION 3.
+119 Said title is further amended in said chapter by revising Code Section 33-9-41, which is
+120 designated as reserved, as follows:
+H. B. 902
+- 5 -
+25 LC 52 0851
+121 "33-9-41.
+122 (a) On and after July 1, 2026, the Commissioner shall maintain on the department's
+123 website in a readily accessible format any rate increases in insurance plans, as
+124 demonstrated by the percentage increase from the prior year's premium, based on rates,
+125 rating plans, rating systems, and underwriting rules filed pursuant to Code Section 33-9-21.
+126 Such data shall be organized by line of insurance and by insurer and shall indicate whether
+127 an examination or hearing was conducted.
+128 (b) On and after July 1, 2026, any domestic, foreign, or alien insurer that is authorized to
+129 write insurance in this state shall publish on its website in a readily accessible format any
+130 rate increases in insurance plans, as demonstrated by the percentage increase from the prior
+131 year's premium, based on rates, rating plans, rating systems, and underwriting rules filed
+132 pursuant to Code Section 33-9-21. Such insurer may offer any explanations for such rate
+133 increases and may indicate when rates stayed the same or decreased.
+134 (c) The data published as provided for in subsections (a) and (b) of this Code section shall
+135 be based on data in existence on or after January 1, 2019, and shall be updated annually and
+136 whenever a rate is increased. Reserved."
+137 SECTION 4.
+138 Said title is further amended in Chapter 66, relating to data analysis for tort reform, by
+139 revising subsection (a) of Code Section 33-66-5, relating to data requests, timing, and
+140 limitations, as follows:
+141 "(a) No later than July 1, 2024, and as often as necessary through July 1, 2029 2035, the
+142 Commissioner shall request data from insurers, licensed rating organizations, and state
+143 agencies for the Commissioner to make findings regarding the impact of tort lawsuits and
+144 the assessment of tort related risks. The Commissioner may allow for the confidential
+145 submission of such requested data via electronic means."
+H. B. 902
+- 6 -
+25 LC 52 0851
+146 SECTION 5.
+147 Said title is further amended in said chapter by revising Code Section 33-66-7, relating to
+148 subsequent reports, as follows:
+149 "33-66-7.
+150 (a) The Commissioner shall generate a subsequent report in substantially similar form to
+151 the initial report provided for in Code Section 33-66-6, and such subsequent report shall
+152 include but not be limited to:
+153 (1) Historic and predictive trends based on submitted data;
+154 (2) The effects of any enacted tort reform legislation, including any savings or other
+155 benefits passed on to policyholders, the general public, and the state. Such findings may
+156 be based on analysis of any data available to the Commissioner, including data submitted
+157 to the Commissioner pursuant to Code Section 33-66-5 or the department pursuant to this
+158 title, including, but not limited to, reported earned premiums, requests for rate increases,
+159 the number of insurers issuing liability policies in this state or applying for or renewing
+160 a certificate of authority in this state, and the number of insurers deleting lines of
+161 business, withdrawing from the business of insurance, or surrendering a certificate of
+162 authority in this state; and
+163 (3) Any further determinations or recommendations for legislative action.
+164 (b) No later than November 1, 2029, the Commissioner shall submit the subsequent report
+165 provided for in subsection (a) of this Code section to the Governor's Office office, the
+166 House Committee on Insurance, and the Senate Insurance and Labor Committee, and the
+167 presiding officers of both houses of the General Assembly and shall notify legislators of
+168 the General Assembly of the availability of such report. The Commissioner shall publish
+169 such report on the department's website in a prominent location."
+H. B. 902
+- 7 -
+25 LC 52 0851
+170 SECTION 6.
+171 Said title is further amended in said chapter by revising Code Section 33-66-8, relating to
+172 repealer, as follows:
+173 "33-66-8.
+174 This chapter shall stand repealed in its entirety on January 1, 2030 2036."
+175 SECTION 7.
+176 This Act shall become effective upon its approval by the Governor or upon its becoming law
+177 without such approval.
+178 SECTION 8.
+179 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 902
+- 8 -
+[DELETED: 5L5,4,8,htht8,6ht]
+[DELETED: 5L]
+[DELETED: 5L o u p d a o r b i t t  R m b g b c f t e o r a i e l o d o h o a o]
+[DELETED: 5L t i f a i s c b r s ( o C s i m p c h c h a]
+[DELETED: 5L r i f p h t i t C m a o d i b n l t a d a r]
+[DELETED: 5L i a r a f a r i i i p a t d]
+[DELETED: 5L c o a i t s a t n o i d l o]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0851
+House Bill 902
+By: Representatives Jones of the 25th, Barrett of the 24th, Williams of the 148th, Douglas of
+the 78th, and Kelley of the 16th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 33 of the Official Code of Georgia Annotated, relating to insurance, so as to
+2 provide for transparency and accountability in insurance rates and rate regulation after the
+3 enactment of tort reform law; to provide for definitions; to provide for examinations and
+4 hearings; to provide for the publication of certain information; to extend the time for data
+5 collection and analysis related to tort reform law; to provide for findings on savings from tort
+6 reform law; to provide for the publication of reports; to provide for related matters; to
+7 provide for an effective date; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Title 33 of the Official Code of Georgia Annotated, relating to insurance, is amended in
+11 Chapter 9, relating to regulation of rates, underwriting rules, and related organizations, by
+12 revising Code Section 33-9-4, relating to standards applicable to making and use of rates, as
+13 follows:
+14 "33-9-4.
+15 (a) As used in this Code section, the term:
+H. B. 902
+- 1 -
+
+25 LC 52 0851
+16 (1) 'Excessive' means the rate is likely to produce a long-term profit that is unreasonably
+17 high in relation to the insurance coverage provided. Any rate increase of 10 percent or
+18 more within any 12 month period and any filing for a rate increase two or more times
+19 within any 24 month period shall be presumed to be excessive.
+20 (2) 'Inadequate' means the rate is insufficient to sustain projected losses and expenses to
+21 which the rate applies and continued use of the rate endangers the solvency of the insurer
+22 or has the effect of substantially lessening competition or creating a monopoly in a
+23 market.
+24 (3) 'Unfairly discriminatory' means the rate is not based on sound actuarial principles,
+25 does not bear a reasonable relationship to the expected loss and expense experience
+26 among risks, or is based wholly or partly on the race, creed, color, ethnicity, or national
+27 origin of the applicant, policyholder, or insured.
+28 (b) The following standards shall apply to the making and use of rates pertaining to all
+29 classes of insurance to which this chapter is applicable:
+30 (1) Rates shall not be excessive, or inadequate, or as defined in this Code section, nor
+31 shall they be unfairly discriminatory;
+32 (2) No rate shall be held to be excessive unless such rate is unreasonably high for the
+33 insurance provided and a reasonable degree of competition does not exist in the area with
+34 respect to the classification to which such rate is applicable; provided, however, with
+35 respect to rate filings involving an increase in rates, no rate for personal private passenger
+36 motor vehicle insurance shall be held to be excessive unless such rate is unreasonably
+37 high for the insurance provided and a reasonable degree of competition does not exist;
+38 (3) No rate shall be held inadequate unless it is unreasonably low for the insurance
+39 provided and continued use of it would endanger solvency of the insurer, or unless the
+40 use of such rate by the insurer using such rate has, or will, if continued, tend to destroy
+41 competition or create a monopoly;
+H. B. 902
+- 2 -
+
+25 LC 52 0851
+42 (4)(2) Consideration shall be given to the extent applicable to past and prospective loss
+43 experience within and outside this state, to conflagration and catastrophe hazards, to a
+44 reasonable margin for underwriting profit and contingencies, to past and prospective
+45 expenses both country wide and those specially applicable to this state, to the insurer's
+46 average yield from investment income, and to all other factors, including judgment
+47 factors, deemed relevant within and outside this state; and, in the case of fire insurance
+48 rates, consideration may be given to the experience of the fire insurance business during
+49 the most recent five-year period;
+50 (5)(3) Consideration may also be given, in the making and use of rates, to dividends,
+51 savings, or unabsorbed premium deposits allowed or returned by insurers to their
+52 policyholders, members, or subscribers;
+53 (6)(4) The systems of expense provisions included in the rates for use by any insurer or
+54 group of insurers may differ from those of other insurers or groups of insurers to reflect
+55 the operating methods of any such insurer or group with respect to any kind of insurance
+56 or with respect to any subdivision or combination thereof;
+57 (7)(5) Risks may be grouped by classifications for the establishment of rates and
+58 minimum premiums. Classification rates may be modified to produce rates for individual
+59 risks in accordance with rating plans which establish standards for measuring variations
+60 in hazards or expense provisions, or both. Such standards may measure any difference
+61 among risks that have a probable effect upon losses or expenses. Classifications or
+62 modifications of classifications of risks may be established based upon size, expense,
+63 management, individual experience, location or dispersion of hazard, or any other
+64 reasonable considerations. Such classifications and modifications shall apply to all risks
+65 under the same or substantially the same circumstances or conditions; provided, however,
+66 the Commissioner shall establish the maximum amount of any such modification;
+67 (8)(6) Nothing contained in this Code section or elsewhere in this chapter shall be
+68 construed to repeal or modify Chapter 6 of this title, relating to unfair trade practices, and
+H. B. 902
+- 3 -
+
+25 LC 52 0851
+69 any rate, rating classification, rating plan or schedule, or variation thereof established in
+70 violation of Chapter 6 of this title shall, in addition to the consequences stated in Chapter
+71 6 of this title or elsewhere, be deemed violative of to violate this Code section;
+72 (9)(7) No insurer shall base any standard or rating plan on vehicle insurance, in whole
+73 or in part, directly or indirectly, upon race, creed, or ethnic extraction; and
+74 (10)(8) No insurer shall base any standard or rating plan on vehicle insurance, in whole
+75 or in part, directly or indirectly, upon any physical disability of an insured unless the
+76 disability directly impairs the ability of the insured to drive a motor vehicle."
+77 SECTION 2.
+78 Said title is further amended in said chapter by revising subsection (e) of Code
+79 Section 33-9-21, relating to maintenance and filing rates, rating plans, rating systems, or
+80 underwriting rules and examination of claim reserve practices by the Commissioner, as
+81 follows:
+82 "(e)(1) When a rate filing of an insurer required under subsection (d) of this Code section
+83 results in any overall rate increase of 10 percent or more within any 12 month period or
+84 when an insurer files for a rate increase more than two times within any 24 month period,
+85 the Commissioner shall order an a financial and market conduct examination of that
+86 insurer to determine the accuracy of the claim reserves, the applicability of the claim
+87 reserve practices for the loss data used in support of such filing, and any other component
+88 of the rate filing, such insurer's compliance with federal and state laws and regulations,
+89 and such insurer's marketing practices, claims handling, complaint handling, and
+90 policyholder service; provided, however, that in the event the overall increase is less than
+91 25 percent within any 12 month period and the Commissioner affirmatively determines
+92 that he or she has sufficient information to evaluate such rate increase and that the cost
+93 thereof would not be justified, he or she may waive all or part of such examination. In
+94 all other rate filings required under subsection (d) of this Code section, the Commissioner
+H. B. 902
+- 4 -
+
+25 LC 52 0851
+95 may order an a financial and market conduct examination of that insurer as provided in
+96 this subsection. Such examination shall be conducted in accordance with the provisions
+97 of Chapter 2 of this title. Upon notification by the Commissioner of his or her intent to
+98 conduct such examination, the insurer shall be prohibited from placing the rates so filed
+99 in effect until such examination has been reviewed and certified by the Commissioner as
+100 being complete. Such examination, if conducted by the Commissioner, shall be reviewed
+101 and certified within 90 45 days of the date such rate, rating plan, rating system, or
+102 underwriting rule is filed; provided, however, that, if the Commissioner makes an
+103 affirmative finding that the examination may not be completed within the 90 day such
+104 period, he or she may extend such time for one additional 60 45 day period.
+105 (2) The Commissioner shall conduct a public hearing within 30 days of the completion
+106 of any examination conducted pursuant to this subsection. The Commissioner shall be
+107 authorized to take depositions, subpoena witnesses, administer oaths or affirmations,
+108 examine any individual under oath, and compel the production of records, books, papers,
+109 and other documents, including, but not limited to, a detailed actuarial report
+110 demonstrating the necessity of the proposed rate increase based on claims trends, risk
+111 factors, and financial solvency; a breakdown of administrative expenses, claim costs, and
+112 anticipated profit margins; a statement on how the proposed rate increase shall affect
+113 policyholders, including families, small businesses, and commercial enterprises in this
+114 state; historical past rate changes and corresponding justifications for the preceding five
+115 years; and any other documents deemed necessary. Any examination hearing required
+116 under this Code section subsection shall be conducted in accordance with Chapter 2 of
+117 this title."
+118 SECTION 3.
+119 Said title is further amended in said chapter by revising Code Section 33-9-41, which is
+120 designated as reserved, as follows:
+H. B. 902
+- 5 -
+
+25 LC 52 0851
+121 "33-9-41.
+122 (a) On and after July 1, 2026, the Commissioner shall maintain on the department's
+123 website in a readily accessible format any rate increases in insurance plans, as
+124 demonstrated by the percentage increase from the prior year's premium, based on rates,
+125 rating plans, rating systems, and underwriting rules filed pursuant to Code Section 33-9-21.
+126 Such data shall be organized by line of insurance and by insurer and shall indicate whether
+127 an examination or hearing was conducted.
+128 (b) On and after July 1, 2026, any domestic, foreign, or alien insurer that is authorized to
+129 write insurance in this state shall publish on its website in a readily accessible format any
+130 rate increases in insurance plans, as demonstrated by the percentage increase from the prior
+131 year's premium, based on rates, rating plans, rating systems, and underwriting rules filed
+132 pursuant to Code Section 33-9-21. Such insurer may offer any explanations for such rate
+133 increases and may indicate when rates stayed the same or decreased.
+134 (c) The data published as provided for in subsections (a) and (b) of this Code section shall
+135 be based on data in existence on or after January 1, 2019, and shall be updated annually and
+136 whenever a rate is increased. Reserved."
+137 SECTION 4.
+138 Said title is further amended in Chapter 66, relating to data analysis for tort reform, by
+139 revising subsection (a) of Code Section 33-66-5, relating to data requests, timing, and
+140 limitations, as follows:
+141 "(a) No later than July 1, 2024, and as often as necessary through July 1, 2029 2035, the
+142 Commissioner shall request data from insurers, licensed rating organizations, and state
+143 agencies for the Commissioner to make findings regarding the impact of tort lawsuits and
+144 the assessment of tort related risks. The Commissioner may allow for the confidential
+145 submission of such requested data via electronic means."
+H. B. 902
+- 6 -
+
+25 LC 52 0851
+146 SECTION 5.
+147 Said title is further amended in said chapter by revising Code Section 33-66-7, relating to
+148 subsequent reports, as follows:
+149 "33-66-7.
+150 (a) The Commissioner shall generate a subsequent report in substantially similar form to
+151 the initial report provided for in Code Section 33-66-6, and such subsequent report shall
+152 include but not be limited to:
+153 (1) Historic and predictive trends based on submitted data;
+154 (2) The effects of any enacted tort reform legislation, including any savings or other
+155 benefits passed on to policyholders, the general public, and the state. Such findings may
+156 be based on analysis of any data available to the Commissioner, including data submitted
+157 to the Commissioner pursuant to Code Section 33-66-5 or the department pursuant to this
+158 title, including, but not limited to, reported earned premiums, requests for rate increases,
+159 the number of insurers issuing liability policies in this state or applying for or renewing
+160 a certificate of authority in this state, and the number of insurers deleting lines of
+161 business, withdrawing from the business of insurance, or surrendering a certificate of
+162 authority in this state; and
+163 (3) Any further determinations or recommendations for legislative action.
+164 (b) No later than November 1, 2029, the Commissioner shall submit the subsequent report
+165 provided for in subsection (a) of this Code section to the Governor's Office office, the
+166 House Committee on Insurance, and the Senate Insurance and Labor Committee, and the
+167 presiding officers of both houses of the General Assembly and shall notify legislators of
+168 the General Assembly of the availability of such report. The Commissioner shall publish
+169 such report on the department's website in a prominent location."
+H. B. 902
+- 7 -
+
+25 LC 52 0851
+170 SECTION 6.
+171 Said title is further amended in said chapter by revising Code Section 33-66-8, relating to
+172 repealer, as follows:
+173 "33-66-8.
+174 This chapter shall stand repealed in its entirety on January 1, 2030 2036."
+175 SECTION 7.
+176 This Act shall become effective upon its approval by the Governor or upon its becoming law
+177 without such approval.
+178 SECTION 8.
+179 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 902
+- 8 -
+
+[DELETED: 5L5,4,8,htht8,6ht]
+[DELETED: 5L]
+[DELETED: 5L o u p d a o r b i t t  R m b g b c f t e o r a i e l o d o h o a o]
+[DELETED: 5L t i f a i s c b r s ( o C s i m p c h c h a]
+[DELETED: 5L r i f p h t i t C m a o d i b n l t a d a r]
+[DELETED: 5L i a r a f a r i i i p a t d]
+[DELETED: 5L c o a i t s a t n o i d l o]
+[DELETED: 5L]

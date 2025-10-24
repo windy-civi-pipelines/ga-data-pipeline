@@ -1,0 +1,169 @@
+Title: House Bill 248 (COMMITTEE SUBSTITUTE)
+Official Title: House Bill 248 (COMMITTEE SUBSTITUTE)
+Number of Sections: 1
+Source: versions - LC 50 1178S/hcs
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 1178S
+By: Representatives Jasperse of the 11th, Kelley of the 16th, Powell of the 33rd, Williams of
+the 148th, and Camp of the 135th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+2 income taxes, so as to provide for a tax credit for certain expenses incurred by taxpayers for
+3 certain geothermal machinery installations at residential dwellings; to provide for definitions;
+4 to provide for terms, conditions, and procedures; to provide for a sunset date; to provide for
+5 related matters; to provide for an effective date and applicability; to repeal conflicting laws;
+6 and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes,
+10 is amended by adding a new Code section to read as follows:
+11 "48-7-29.27.
+12 (a) As used in this Code section, the term:
+13 (1) 'Eligible geothermal installation expenses' means expenses incurred by a taxpayer for
+14 a geothermal machinery installation for a residential dwelling that is owned by the
+15 taxpayer.
+H. B. 248 (SUB)
+- 1 -
+25 LC 50 1178S
+16 (2) 'Geothermal machinery and equipment' means all controls, tanks, pumps, heat
+17 exchangers, and other equipment used directly and exclusively for a geothermal
+18 machinery installation. Such term excludes any land or structural elements of any
+19 building or any equipment ordinarily contained within a dwelling regardless of a
+20 geothermal machinery installation.
+21 (3) 'Geothermal machinery installation' means the installation of any:
+22 (A) Heat pump that uses the ground or ground water as a thermal energy source to heat
+23 a structure or as a thermal energy sink to cool a structure, together with necessary
+24 geothermal and machinery equipment, which is placed in service on or after
+25 January 1, 2026, and meets or exceeds applicable federal Energy Star requirements on
+26 the date that it is placed in service; or
+27 (B) System that uses the internal heat of the earth as a substitute for traditional energy
+28 sources for water heating or active space heating or cooling, together with necessary
+29 geothermal machinery and equipment, which is placed in service on or after
+30 January 1, 2026, and meets or exceeds applicable federal Energy Star requirements on
+31 the date that it is placed in service.
+32 (b) For taxable years beginning on or after January 1, 2026, a taxpayer shall be allowed
+33 an income tax credit against the tax imposed by Code Section 48-7-20 that is equal to 25
+34 percent of the eligible geothermal installation expenses incurred by the taxpayer for a
+35 dwelling; provided, however, that such tax credit shall only be applied over a period of five
+36 taxable years and shall not exceed $5,000.00 for any taxable year and no amount shall be
+37 allowed or carried forward after such years. A taxpayer shall only be eligible for the tax
+38 credit allowed under this Code section once per dwelling.
+39 (c)(1) In no event shall the aggregate limit of tax credits allowed under this Code section
+40 for any year exceed $2.5 million. In no event shall the total amount of any tax credit
+41 allowed under this Code section for a taxable year exceed the taxpayer's income tax
+42 liability. No such tax credit shall be allowed the taxpayer against prior years' tax liability.
+H. B. 248 (SUB)
+- 2 -
+25 LC 50 1178S
+43 (2) Except as provided in subsection (b) of this Code section, no amount of the tax credit
+44 shall be allowed to be carried forward to apply to the taxpayer's succeeding years' tax
+45 liability.
+46 (d) A taxpayer seeking to claim a tax credit pursuant to this Code section shall submit an
+47 application to the department for preapproval of such tax credit in the manner specified by
+48 the department. The department shall preapprove such application within 30 days based
+49 on the order in which properly completed applications were submitted. In the event that
+50 two or more applications were submitted on the same day and the amount of funds
+51 available will not be sufficient to fully fund the tax credits requested, the commissioner
+52 shall prorate the available funds between or among the applicants.
+53 (e) This Code section shall stand repealed and reserved by operation of law on
+54 December 31, 2031."
+55 SECTION 2.
+56 This Act shall become effective on July 1, 2025, and shall be applicable to taxable years
+57 beginning on or after January 1, 2026.
+58 SECTION 3.
+59 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 248 (SUB)
+- 3 -
+[DELETED: 5L1,6,3,hthr8,5ht]
+[DELETED: 5L  ' m a e m a c t p h a o e u d a e f a g i  S t e a l o s e o a o a e o c w a d r o  a m e w i p i s o o a m a e w i p i s o o a]
+[DELETED: 5L o m a w s o t s d a t a o f  T C s s s r a r b o o l o]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 1178S
+House Bill 248 (COMMITTEE SUBSTITUTE)
+By: Representatives Jasperse of the 11th, Kelley of the 16th, Powell of the 33rd, Williams of
+the 148th, and Camp of the 135th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+2 income taxes, so as to provide for a tax credit for certain expenses incurred by taxpayers for
+3 certain geothermal machinery installations at residential dwellings; to provide for definitions;
+4 to provide for terms, conditions, and procedures; to provide for a sunset date; to provide for
+5 related matters; to provide for an effective date and applicability; to repeal conflicting laws;
+6 and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes,
+10 is amended by adding a new Code section to read as follows:
+11 "48-7-29.27.
+12 (a) As used in this Code section, the term:
+13 (1) 'Eligible geothermal installation expenses' means expenses incurred by a taxpayer for
+14 a geothermal machinery installation for a residential dwelling that is owned by the
+15 taxpayer.
+H. B. 248 (SUB)
+- 1 -
+
+25 LC 50 1178S
+16 (2) 'Geothermal machinery and equipment' means all controls, tanks, pumps, heat
+17 exchangers, and other equipment used directly and exclusively for a geothermal
+18 machinery installation. Such term excludes any land or structural elements of any
+19 building or any equipment ordinarily contained within a dwelling regardless of a
+20 geothermal machinery installation.
+21 (3) 'Geothermal machinery installation' means the installation of any:
+22 (A) Heat pump that uses the ground or ground water as a thermal energy source to heat
+23 a structure or as a thermal energy sink to cool a structure, together with necessary
+24 geothermal and machinery equipment, which is placed in service on or after
+25 January 1, 2026, and meets or exceeds applicable federal Energy Star requirements on
+26 the date that it is placed in service; or
+27 (B) System that uses the internal heat of the earth as a substitute for traditional energy
+28 sources for water heating or active space heating or cooling, together with necessary
+29 geothermal machinery and equipment, which is placed in service on or after
+30 January 1, 2026, and meets or exceeds applicable federal Energy Star requirements on
+31 the date that it is placed in service.
+32 (b) For taxable years beginning on or after January 1, 2026, a taxpayer shall be allowed
+33 an income tax credit against the tax imposed by Code Section 48-7-20 that is equal to 25
+34 percent of the eligible geothermal installation expenses incurred by the taxpayer for a
+35 dwelling; provided, however, that such tax credit shall only be applied over a period of five
+36 taxable years and shall not exceed $5,000.00 for any taxable year and no amount shall be
+37 allowed or carried forward after such years. A taxpayer shall only be eligible for the tax
+38 credit allowed under this Code section once per dwelling.
+39 (c)(1) In no event shall the aggregate limit of tax credits allowed under this Code section
+40 for any year exceed $2.5 million. In no event shall the total amount of any tax credit
+41 allowed under this Code section for a taxable year exceed the taxpayer's income tax
+42 liability. No such tax credit shall be allowed the taxpayer against prior years' tax liability.
+H. B. 248 (SUB)
+- 2 -
+
+25 LC 50 1178S
+43 (2) Except as provided in subsection (b) of this Code section, no amount of the tax credit
+44 shall be allowed to be carried forward to apply to the taxpayer's succeeding years' tax
+45 liability.
+46 (d) A taxpayer seeking to claim a tax credit pursuant to this Code section shall submit an
+47 application to the department for preapproval of such tax credit in the manner specified by
+48 the department. The department shall preapprove such application within 30 days based
+49 on the order in which properly completed applications were submitted. In the event that
+50 two or more applications were submitted on the same day and the amount of funds
+51 available will not be sufficient to fully fund the tax credits requested, the commissioner
+52 shall prorate the available funds between or among the applicants.
+53 (e) This Code section shall stand repealed and reserved by operation of law on
+54 December 31, 2031."
+55 SECTION 2.
+56 This Act shall become effective on July 1, 2025, and shall be applicable to taxable years
+57 beginning on or after January 1, 2026.
+58 SECTION 3.
+59 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 248 (SUB)
+- 3 -
+
+[DELETED: 5L1,6,3,hthr8,5ht]
+[DELETED: 5L  ' m a e m a c t p h a o e u d a e f a g i  S t e a l o s e o a o a e o c w a d r o  a m e w i p i s o o a m a e w i p i s o o a]
+[DELETED: 5L o m a w s o t s d a t a o f  T C s s s r a r b o o l o]

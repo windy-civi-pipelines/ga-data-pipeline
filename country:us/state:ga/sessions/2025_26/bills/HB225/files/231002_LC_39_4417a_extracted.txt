@@ -1,0 +1,271 @@
+Title: House Bill 225
+Official Title: House Bill 225
+Number of Sections: 1
+Source: versions - LC 39 4417/a
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4417
+By: Representatives Washburn of the 144th, Stephens of the 164th, Lumsden of the 12th,
+Yearta of the 152nd, McClain of the 109th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 14 of Title 40 of the Official Code of Georgia Annotated,
+2 relating to speed detection devices, so as to repeal all laws relative to enforcement of
+3 speeding violations in school zones through the use of automated traffic enforcement safety
+4 devices; to provide for conforming changes; to prohibit a local governing body or law
+5 enforcement agency from entering into or renewing a contract that provides for enforcement
+6 of laws relative to speeding violations in school zones through the use of automated traffic
+7 enforcement safety devices; to provide for related matters; to provide for effective dates; to
+8 repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Article 2 of Chapter 14 of Title 40 of the Official Code of Georgia Annotated, relating to
+12 speed detection devices, is amended by repealing Code Section 40-14-1.1, relating to
+13 definitions.
+H. B. 225
+- 1 -
+25 LC 39 4417
+14 SECTION 2.
+15 Said article is further amended by repealing Code Section 40-14-1.2, relating to agent not
+16 private investigator or subject to certain laws.
+17 SECTION 3.
+18 Said article is further amended in Code Section 40-14-2, relating to permit required for use,
+19 use not authorized where officers paid on fee system, and operation by registered or certified
+20 peace officers, by repealing subsection (c).
+21 SECTION 4.
+22 Said article is further amended by revising Code Section 40-14-5, relating to testing of radar
+23 devices, removal of inaccurate radar devices from service, and maintenance of testing log
+24 and independent calibration tests of automated traffic enforcement devices, as follows:
+25 "40-14-5.
+26 (a) Each state, county, municipal, or campus law enforcement officer using a radar device,
+27 except for an automated traffic enforcement safety device as provided for under Code
+28 Section 40-14-18, shall test the device for accuracy and record and maintain the results of
+29 the test at the beginning and end of each duty tour. Each such test shall be made in
+30 accordance with the manufacturer's recommended procedure. Any radar unit not meeting
+31 the manufacturer's minimum accuracy requirements shall be removed from service and
+32 thereafter shall not be used by the state, county, municipal, or campus law enforcement
+33 agency until it has been serviced, calibrated, and recertified by a technician with the
+34 qualifications specified in Code Section 40-14-4.
+35 (b) Each county, municipal, or campus law enforcement officer using a radar device,
+36 except for an automated traffic enforcement safety device as provided for under Code
+37 Section 40-14-18, shall notify each person against whom the officer intends to make a case
+38 based on the use of the radar device that the such person has a right to request the officer
+H. B. 225
+- 2 -
+25 LC 39 4417
+39 to test the radar device for accuracy. The notice shall be given prior to the time a citation
+40 and complaint or ticket is issued against the person and, if requested to make a test, the
+41 officer shall test the radar device for accuracy. In the event the radar device does not meet
+42 the minimum accuracy requirements, the citation and complaint or ticket shall not be issued
+43 against the person, and the radar device shall be removed from service and thereafter shall
+44 not be used by the county, municipal, or campus law enforcement agency until it has been
+45 serviced, calibrated, and recertified by a technician with the qualifications specified in
+46 Code Section 40-14-4.
+47 (c)(1) The law enforcement agency, or agent on behalf of the law enforcement agency,
+48 operating an automated traffic enforcement safety device provided for under Code
+49 Section 40-14-18 shall maintain a log for the automated traffic enforcement safety device
+50 attesting to the performance of such device's self-test at least once every 30 days and the
+51 results of such self-test pertaining to the accuracy of the automated traffic enforcement
+52 safety device. Such log shall be admissible in any court proceeding for a violation issued
+53 pursuant to Code Section 40-14-18.
+54 (2) The law enforcement agency, or agent on behalf of the law enforcement agency,
+55 operating an automated traffic enforcement safety device shall perform an independent
+56 calibration test on the automated traffic enforcement safety device at least once every 12
+57 months. The results of such calibration test shall be admissible in any court proceeding
+58 for a violation issued pursuant to Code Section 40-14-18."
+59 SECTION 5.
+60 Said article is further amended in Code Section 40-14-6, relating to warning signs required
+61 and signage requirements, by repealing subsection (c).
+H. B. 225
+- 3 -
+25 LC 39 4417
+62 SECTION 6.
+63 Said article is further amended by revising Code Section 40-14-7, relating to visibility of
+64 vehicle from which device is operated, as follows:
+65 "40-14-7.
+66 Except as provided for in Code Section 40-14-18, no No stationary speed detection device
+67 shall be employed by county, municipal, college, or university law enforcement officers
+68 where the vehicle from which the such device is operated is obstructed from the view of
+69 approaching motorists or is otherwise not visible for a distance of at least 500 feet."
+70 SECTION 7.
+71 Said article is further amended in Code Section 40-14-11, relating to investigations by
+72 commissioner of public safety, issuance of order suspending or revoking permit, and ratio
+73 of speeding fines to agency's budget, by revising subsection (d) as follows:
+74 "(d) There shall be a rebuttable presumption that a law enforcement agency is employing
+75 speed detection devices for purposes other than the promotion of the public health, welfare,
+76 and safety if the fines levied based on the use of speed detection devices for speeding
+77 offenses are equal to or greater than 35 percent of a municipal or county law enforcement
+78 agency's budget. For purposes of this Code section, fines collected for citations issued for
+79 violations of Code Section 40-6-180 shall be included when calculating total speeding fine
+80 revenue for the agency; provided, however, that fines for speeding violations exceeding 20
+81 miles per hour over the established speed limit and civil monetary penalties for speeding
+82 violations issued pursuant to Code Section 40-14-18 shall not be considered when
+83 calculating total speeding fine revenue for the such agency."
+H. B. 225
+- 4 -
+25 LC 39 4417
+84 SECTION 8.
+85 Said article is further amended by repealing Code Section 40-14-18, relating to enforcement
+86 of speed limit in school zones with recorded images, civil monetary penalty, and
+87 consequences for failure to pay penalty.
+88 SECTION 9.
+89 Said article is further amended by adding a new Code section to read as follows:
+90 "40-14-19.
+91 (a) No contract shall be entered into or renewed by a local governing body or law
+92 enforcement agency for the enforcement of speeding violations in a school zone through
+93 the use of an automated traffic enforcement safety device on or after the effective date of
+94 this Code section.
+95 (b) This Code section shall stand repealed on July 1, 2026."
+96 SECTION 10.
+97 (a) Except as otherwise provided for in subsection (b) of this section, this Act shall become
+98 effective upon its approval by the Governor or upon its becoming law without such approval.
+99 (b) Sections 1 through 8 of this Act shall become effective on July 1, 2026.
+100 SECTION 11.
+101 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 225
+- 5 -
+[DELETED: 5L4,4,2htht2,9,dt t s d d s a t r a l r t e o d d i a b r C S 4 r t]
+[DELETED: 5L]
+[DELETED: 5L a a t e s d p f u C]
+[DELETED: 5L i p t C S 4 s n b c w]
+[DELETED: 5L s l i s z w r i c m p a  N c s b e i o r b a l g b o l]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4417
+House Bill 225
+By: Representatives Washburn of the 144th, Stephens of the 164th, Lumsden of the 12th,
+Yearta of the 152nd, McClain of the 109th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 14 of Title 40 of the Official Code of Georgia Annotated,
+2 relating to speed detection devices, so as to repeal all laws relative to enforcement of
+3 speeding violations in school zones through the use of automated traffic enforcement safety
+4 devices; to provide for conforming changes; to prohibit a local governing body or law
+5 enforcement agency from entering into or renewing a contract that provides for enforcement
+6 of laws relative to speeding violations in school zones through the use of automated traffic
+7 enforcement safety devices; to provide for related matters; to provide for effective dates; to
+8 repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Article 2 of Chapter 14 of Title 40 of the Official Code of Georgia Annotated, relating to
+12 speed detection devices, is amended by repealing Code Section 40-14-1.1, relating to
+13 definitions.
+H. B. 225
+- 1 -
+
+25 LC 39 4417
+14 SECTION 2.
+15 Said article is further amended by repealing Code Section 40-14-1.2, relating to agent not
+16 private investigator or subject to certain laws.
+17 SECTION 3.
+18 Said article is further amended in Code Section 40-14-2, relating to permit required for use,
+19 use not authorized where officers paid on fee system, and operation by registered or certified
+20 peace officers, by repealing subsection (c).
+21 SECTION 4.
+22 Said article is further amended by revising Code Section 40-14-5, relating to testing of radar
+23 devices, removal of inaccurate radar devices from service, and maintenance of testing log
+24 and independent calibration tests of automated traffic enforcement devices, as follows:
+25 "40-14-5.
+26 (a) Each state, county, municipal, or campus law enforcement officer using a radar device,
+27 except for an automated traffic enforcement safety device as provided for under Code
+28 Section 40-14-18, shall test the device for accuracy and record and maintain the results of
+29 the test at the beginning and end of each duty tour. Each such test shall be made in
+30 accordance with the manufacturer's recommended procedure. Any radar unit not meeting
+31 the manufacturer's minimum accuracy requirements shall be removed from service and
+32 thereafter shall not be used by the state, county, municipal, or campus law enforcement
+33 agency until it has been serviced, calibrated, and recertified by a technician with the
+34 qualifications specified in Code Section 40-14-4.
+35 (b) Each county, municipal, or campus law enforcement officer using a radar device,
+36 except for an automated traffic enforcement safety device as provided for under Code
+37 Section 40-14-18, shall notify each person against whom the officer intends to make a case
+38 based on the use of the radar device that the such person has a right to request the officer
+H. B. 225
+- 2 -
+
+25 LC 39 4417
+39 to test the radar device for accuracy. The notice shall be given prior to the time a citation
+40 and complaint or ticket is issued against the person and, if requested to make a test, the
+41 officer shall test the radar device for accuracy. In the event the radar device does not meet
+42 the minimum accuracy requirements, the citation and complaint or ticket shall not be issued
+43 against the person, and the radar device shall be removed from service and thereafter shall
+44 not be used by the county, municipal, or campus law enforcement agency until it has been
+45 serviced, calibrated, and recertified by a technician with the qualifications specified in
+46 Code Section 40-14-4.
+47 (c)(1) The law enforcement agency, or agent on behalf of the law enforcement agency,
+48 operating an automated traffic enforcement safety device provided for under Code
+49 Section 40-14-18 shall maintain a log for the automated traffic enforcement safety device
+50 attesting to the performance of such device's self-test at least once every 30 days and the
+51 results of such self-test pertaining to the accuracy of the automated traffic enforcement
+52 safety device. Such log shall be admissible in any court proceeding for a violation issued
+53 pursuant to Code Section 40-14-18.
+54 (2) The law enforcement agency, or agent on behalf of the law enforcement agency,
+55 operating an automated traffic enforcement safety device shall perform an independent
+56 calibration test on the automated traffic enforcement safety device at least once every 12
+57 months. The results of such calibration test shall be admissible in any court proceeding
+58 for a violation issued pursuant to Code Section 40-14-18."
+59 SECTION 5.
+60 Said article is further amended in Code Section 40-14-6, relating to warning signs required
+61 and signage requirements, by repealing subsection (c).
+H. B. 225
+- 3 -
+
+25 LC 39 4417
+62 SECTION 6.
+63 Said article is further amended by revising Code Section 40-14-7, relating to visibility of
+64 vehicle from which device is operated, as follows:
+65 "40-14-7.
+66 Except as provided for in Code Section 40-14-18, no No stationary speed detection device
+67 shall be employed by county, municipal, college, or university law enforcement officers
+68 where the vehicle from which the such device is operated is obstructed from the view of
+69 approaching motorists or is otherwise not visible for a distance of at least 500 feet."
+70 SECTION 7.
+71 Said article is further amended in Code Section 40-14-11, relating to investigations by
+72 commissioner of public safety, issuance of order suspending or revoking permit, and ratio
+73 of speeding fines to agency's budget, by revising subsection (d) as follows:
+74 "(d) There shall be a rebuttable presumption that a law enforcement agency is employing
+75 speed detection devices for purposes other than the promotion of the public health, welfare,
+76 and safety if the fines levied based on the use of speed detection devices for speeding
+77 offenses are equal to or greater than 35 percent of a municipal or county law enforcement
+78 agency's budget. For purposes of this Code section, fines collected for citations issued for
+79 violations of Code Section 40-6-180 shall be included when calculating total speeding fine
+80 revenue for the agency; provided, however, that fines for speeding violations exceeding 20
+81 miles per hour over the established speed limit and civil monetary penalties for speeding
+82 violations issued pursuant to Code Section 40-14-18 shall not be considered when
+83 calculating total speeding fine revenue for the such agency."
+H. B. 225
+- 4 -
+
+25 LC 39 4417
+84 SECTION 8.
+85 Said article is further amended by repealing Code Section 40-14-18, relating to enforcement
+86 of speed limit in school zones with recorded images, civil monetary penalty, and
+87 consequences for failure to pay penalty.
+88 SECTION 9.
+89 Said article is further amended by adding a new Code section to read as follows:
+90 "40-14-19.
+91 (a) No contract shall be entered into or renewed by a local governing body or law
+92 enforcement agency for the enforcement of speeding violations in a school zone through
+93 the use of an automated traffic enforcement safety device on or after the effective date of
+94 this Code section.
+95 (b) This Code section shall stand repealed on July 1, 2026."
+96 SECTION 10.
+97 (a) Except as otherwise provided for in subsection (b) of this section, this Act shall become
+98 effective upon its approval by the Governor or upon its becoming law without such approval.
+99 (b) Sections 1 through 8 of this Act shall become effective on July 1, 2026.
+100 SECTION 11.
+101 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 225
+- 5 -
+
+[DELETED: 5L4,4,2htht2,9,dt t s d d s a t r a l r t e o d d i a b r C S 4 r t]
+[DELETED: 5L]
+[DELETED: 5L a a t e s d p f u C]
+[DELETED: 5L i p t C S 4 s n b c w]
+[DELETED: 5L s l i s z w r i c m p a  N c s b e i o r b a l g b o l]

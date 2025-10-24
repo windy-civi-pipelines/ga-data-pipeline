@@ -1,0 +1,35 @@
+Title: Senator Jackson of the 41st offered the following amendment #17:
+Official Title: Senator Jackson of the 41st offered the following amendment #17:
+Number of Sections: 1
+Source: versions - Sen Floor Amend 17
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+25 Sen Floor Amend 17
+OUT OF ORDER
+Amend the Senate Committee on Education and Youth substitute to HB 127 (LC 61
+0259S):
+by inserting after line 66
+“(H) All Major League Baseball players who played prior to 1947 shall be considered
+recipients of a DEI program and no local or education agency or postsecondary institutin
+may recognize those players.”
+[DELETED: 5 ]
+
+
+================================================================================
+
+Raw Text:
+25 Sen Floor Amend 17
+OUT OF ORDER
+Senator Jackson of the 41st offered the following amendment #17:
+Amend the Senate Committee on Education and Youth substitute to HB 127 (LC 61
+0259S):
+by inserting after line 66
+“(H) All Major League Baseball players who played prior to 1947 shall be considered
+recipients of a DEI program and no local or education agency or postsecondary institutin
+may recognize those players.”
+
+[DELETED: 5 ]

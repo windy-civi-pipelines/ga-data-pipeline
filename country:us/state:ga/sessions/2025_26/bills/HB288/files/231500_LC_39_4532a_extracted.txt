@@ -1,0 +1,745 @@
+Title: House Bill 288
+Official Title: House Bill 288
+Number of Sections: 1
+Source: versions - LC 39 4532/a
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4532
+By: Representatives Gaines of the 120th, Reeves of the 99th, Crowe of the 118th, Lumsden of
+the 12th, Clifton of the 131st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 6 of Title 5, Chapter 4 of Title 9, Article 1 of Chapter 18 of
+2 Title 15, and Chapter 16 of Title 17 of the Official Code of Georgia Annotated, relating to
+3 appellate practice, declaratory judgments, prosecuting attorneys, and criminal trials,
+4 respectively, so as to provide for declaratory judgments in instances involving accusations
+5 made by a prosecuting attorney regarding the credibility of a peace officer; to provide for
+6 appellate rights; to provide for notice by a prosecuting attorney intending to question the
+7 credibility of a peace officer; to provide for court review and approval of information relating
+8 to the credibility of a witness who is a peace officer prior to disclosure by a prosecuting
+9 attorney to a defendant; to provide for notice and hearing; to provide for remittal of certain
+10 findings to the Georgia Peace Officer Standards and Training Council; to provide for rights
+11 of the peace officer in relation to such hearing; to amend Chapter 8 of Title 35 of the Official
+12 Code of Georgia Annotated, relating to employment and training of peace officers, so as to
+13 provide for review by the Georgia Peace Officer Standards and Training Council of
+14 accusations of peace officer impairment as a witness; to provide for notice; to provide
+15 standards for determination of credibility of accusations; to provide hearing rights; to restrict
+16 the use of information relating to the credibility of a witness who is a peace officer for
+17 employment purposes in certain instances; to provide for definitions; to amend Part 1 of
+18 Article 4 of Chapter 12 of Title 15 of the Official Code of Georgia Annotated, relating to
+H. B. 288
+- 1 -
+25 LC 39 4532
+19 general provisions relative to grand juries, so as to provide for conforming changes; to
+20 provide for related matters; to repeal conflicting laws; and for other purposes.
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+22 SECTION 1.
+23 Article 2 of Chapter 6 of Title 5 of the Official Code of Georgia Annotated, relating to
+24 appellate practice, is amended in subsection (a) of Code Section 5-6-35, relating to cases
+25 requiring application for appeal, requirements for application, exhibits, response, issuance
+26 of appellate court order regarding appeal, procedure, supersedeas, jurisdiction of appeal, and
+27 appeals involving nonmonetary judgments in custody cases, by striking "and" at the end of
+28 paragraph (12), by replacing the period at the end of paragraph (13) with "; and", and by
+29 adding a new paragraph to read as follows:
+30 "(14) Appeals from cases involving the credibility of a peace officer to serve as a witness
+31 pursuant to an impairment letter as such term is defined in Code Section 35-8-2 or
+32 disclosures relative to the credibility of a peace officer pursuant to Code Section
+33 17-16-1.1."
+34 SECTION 2.
+35 Chapter 4 of Title 9 of the Official Code of Georgia Annotated, relating to declaratory
+36 judgments, is amended Code Section 9-4-2, relating to declaratory judgements authorized
+37 and force and effect, by revising subsection (c) and adding a new subsection to read as
+38 follows:
+39 "(c) In addition to the cases specified in subsection (a) of this Code section, the respective
+40 superior courts of this state shall have power, upon petition or other appropriate pleading,
+41 to declare rights and other legal relations of any peace officer involving accusations made
+42 by a prosecuting attorney within an impairment letter, as such term is defined in Code
+H. B. 288
+- 2 -
+25 LC 39 4532
+43 Section 35-8-2, and that appears to the court to require that the declaration should be made
+44 in the interest of justice. Such declaration shall have the force and effect of a final
+45 judgment or decree and be reviewable as such.
+46 (d) Relief by declaratory judgment shall be available, notwithstanding the fact that the
+47 complaining party has any other adequate legal or equitable remedy or remedies."
+48 SECTION 3.
+49 Article 1 of Chapter 18 of Title 15 of the Official Code of Georgia Annotated, relating to
+50 prosecuting attorneys, is amended by adding a new Code section to read as follows:
+51 "15-18-33.
+52 (a) As used in this Code section, the term 'impairment letter' shall have the same meaning
+53 as set forth in Code Section 35-8-2.
+54 (b) A prosecuting attorney shall notify a peace officer who is the subject of an impairment
+55 letter in writing by registered or certified mail or statutory overnight delivery to the last
+56 known address of the peace officer of the prosecuting attorney's intent to send such letter.
+57 Such notice shall include the actions the prosecuting attorney intends to take relative to
+58 such peace officer or any recommendation of the prosecuting attorney relative to such
+59 peace officer's employment. Such notice shall further include the specific basis for the
+60 prosecuting attorney's decisions or recommendations, including:
+61 (1) The location and description of all evidence relating to the case involving the peace
+62 officer and the impairment letter in question;
+63 (2) A list of witnesses relevant to the impairment letter in question, including names,
+64 contact information, last known addresses, criminal history, and dates of birth;
+65 (3) The existence of any and all writings, recordings, video, or other material evidence
+66 as it relates to the impairment letter in question;
+67 (4) The name and contact information of the prosecuting attorney intending to send the
+68 impairment letter; and
+H. B. 288
+- 3 -
+25 LC 39 4532
+69 (5) The date on which a determination to send the impairment letter in question was
+70 made."
+71 SECTION 4.
+72 Chapter 16 of Title 17 of the Official Code of Georgia Annotated, relating to discovery in
+73 criminal trials, is amended in Article 1, relating to definitions and felony cases, by adding a
+74 new Code section to read as follows:
+75 "17-16-1.1.
+76 (a) For purposes of this Code section, the term:
+77 (1) 'Council' means the Georgia Peace Officer Standards and Training Council.
+78 (2) 'Peace officer' shall have the same meaning as set forth in Code Section 35-8-2.
+79 (b) Any disclosure of information by a prosecuting attorney pursuant to this chapter which
+80 relates to the credibility of a witness who is a peace officer shall be submitted to the trial
+81 court for approval prior to disclosure; provided, however, that any matter involving a final
+82 decision of the council against a peace officer pursuant to Chapter 8 of Title 35, the
+83 'Georgia Peace Officer Standards and Training Act,' shall not be subject to such approval.
+84 No later than 20 days prior to trial, the prosecuting attorney shall send written notice by
+85 regular mail to any peace officer of his or her intention to disclose information to a
+86 defendant regarding the credibility of such officer as a witness and that such officer is
+87 entitled to a hearing before the trial court regarding such disclosure. The trial court shall
+88 hold an evidentiary hearing to determine whether the proposed disclosure relating to the
+89 credibility of the peace officer shall be made available to the defendant. Such hearing shall
+90 be held at least ten days prior to trial.
+91 (c) If, after a hearing held pursuant to subsection (b) of this Code section, a trial court
+92 finds, by a preponderance of the evidence, that any proposed disclosure of information
+93 relating to the credibility of a peace officer as a witness to be based upon unsubstantiated
+94 claims of untruthfulness or unfounded allegations of bias, such court shall order the
+H. B. 288
+- 4 -
+25 LC 39 4532
+95 prosecuting attorney to suppress such disclosure. Upon a finding of any proposed
+96 disclosure relating to the credibility of a peace officer to serve as a witness to be proper,
+97 the trial court shall forward a copy of such finding to the council.
+98 (d) A peace officer who is the subject of a hearing held pursuant to subsection (b) of this
+99 Code section shall have the right to:
+100 (1) Representation by an attorney of his or her choosing at his or her own expense;
+101 (2) Subpoena documents and witnesses; and
+102 (3) Obtain a transcript of such hearing at the expense of the prosecuting attorney.
+103 (e) A peace officer shall have the right to obtain review of a final determination made
+104 pursuant to this Code section pursuant to the provisions of Code Section 5-6-35."
+105 SECTION 5.
+106 Said chapter is further amended by redesignating Code Sections 17-16-2 through 17-16-10
+107 as Article 2 and Code Sections 17-16-20 through 17-16-23 as Article 3.
+108 SECTION 6.
+109 Chapter 8 of Title 35 of the Official Code of Georgia Annotated, relating to employment and
+110 training of peace officers, is amended in Code Section 35-8-2, relating to definitions, by
+111 adding a new paragraph to read as follows:
+112 "(5.01) 'Impairment letter' means written information submitted to a law enforcement
+113 agency by a prosecuting attorney relating to the credibility of a peace officer employed
+114 by such agency to serve as a witness at trial or an intent by a prosecuting attorney to
+115 dismiss criminal charges due to the involvement of a peace officer employed by such
+116 agency."
+H. B. 288
+- 5 -
+25 LC 39 4532
+117 SECTION 7.
+118 Said chapter is further amended in Code Section 35-8-7, relating to powers and duties of the
+119 Georgia Peace Officer Standards and Training Council generally, by adding a new paragraph
+120 to read as follows:
+121 "(14.1) To review and provide a determination upon the validity of an impairment letter;"
+122 SECTION 8.
+123 Said chapter is further amended in Code Section 35-8-7.1, relating to authority of council to
+124 refuse certificate to applicant or to discipline council certified officer or exempt officer,
+125 grounds, restoration of certificate, emergency suspension of certification, notice of
+126 investigation, and retention of records, by revising subsections (e) through (g) and by adding
+127 a new subsection to read as follows:
+128 "(e)(1) Upon receipt of an impairment letter from a law enforcement agency, the council
+129 shall initiate a review of the validity of any claim in such letter and notify the peace
+130 officer of such review. It shall be sufficient to identify the officer, state that review of an
+131 impairment letter has been initiated, and identify the prosecuting attorney that submitted
+132 the impairment letter.
+133 (2) In reviewing and making a determination regarding an impairment letter, the council
+134 shall consider:
+135 (A) Any bias alleged by the prosecuting attorney against the defendant or any potential
+136 witnesses when the impairment letter relates to a specific case;
+137 (B) Allegations or instances of previous misleading, deceptive, untrue, or fraudulent
+138 statements made by the peace officer to the prosecuting attorney or while serving as a
+139 witness for the prosecuting attorney;
+140 (C) Whether the peace officer has pleaded guilty or been convicted by final judgment,
+141 and all appeals have been exhausted, of a crime punishable as a false swearing under
+142 Code Section 16-10-71; and
+H. B. 288
+- 6 -
+25 LC 39 4532
+143 (D) Any allegations of acts or omissions which would otherwise subject the peace
+144 officer to discipline pursuant to subsection (a) of this Code section.
+145 (3) Upon completion of a review of an impairment letter, the council shall notify the
+146 peace officer identified in the impairment letter and the head of the law enforcement
+147 agency that employs such officer of its determination regarding the validity of the
+148 information asserted by the prosecuting attorney. If the council determines from the
+149 review of the impairment letter that discipline of the peace officer is warranted, notice
+150 sent pursuant to this paragraph shall include such information.
+151 (f) Upon initiating an investigation of an officer for possible disciplinary action or upon
+152 disciplining an officer pursuant to this Code section, the council shall notify the head of the
+153 law enforcement agency that employs such officer of the investigation or disciplinary
+154 action. In the case of an investigation, it shall be sufficient to identify the officer and state
+155 that a disciplinary investigation has been opened. Notice of the initiation of an
+156 investigation shall be sent by priority mail. If the investigation is completed without any
+157 further action, notice of the termination of such investigation shall also be provided to the
+158 head of the employing agency. In the case of disciplinary action, the notice shall identify
+159 the officer and state the nature of the disciplinary action taken. The notice of disposition
+160 shall be sent only after the action of the council is deemed final. Such notice shall be sent
+161 by priority mail.
+162 (f)(g) If the certification of an officer is suspended or revoked by either the executive
+163 director or council pursuant to this Code section, then the council shall notify the head of
+164 the law enforcement agency that employs the officer; the district attorney of the judicial
+165 circuit in which such law enforcement agency is located; and the solicitor of the state court,
+166 if any, of the county in which such law enforcement agency is located. It shall be sufficient
+167 for this notice to identify the officer and state the length of time, if known, that the officer
+168 will not have powers of arrest. Such notice shall be sent by priority mail.
+H. B. 288
+- 7 -
+25 LC 39 4532
+169 (h) Any notice required by this Code section shall be sent by certified mail or certificate
+170 of mailing. As used in this subsection, the term 'certificate of mailing' means a delivery
+171 method utilized by the United States Postal Service which provides evidence that an item
+172 has been sent and the date such item was accepted.
+173 (g)(i) Notwithstanding Article 5 of Chapter 18 of Title 50, records of an investigation of
+174 an officer by the council, including, but not limited to, records used to investigate
+175 complaints against an officer and polygraph case files containing official polygraph reports,
+176 shall be retained for 30 years following the date that such investigation is deemed
+177 concluded by the council and then such records may be destroyed; provided, however, that
+178 the council shall have the authority to destroy such records prior to such 30 years where
+179 such officer is deceased and no action upon the complaint was taken by the council beyond
+180 the council's initial intake of such complaint."
+181 SECTION 9.
+182 Said chapter is further amended in Code Section 35-8-7.2, relating to administrative
+183 procedure, hearings, and review, by revising subsection (a) as follows:
+184 "(a) Except as otherwise provided in subsection (b) of this Code section, proceedings of
+185 the council in the exercise of its authority to issue any certificate, conduct a review of an
+186 impairment letter, or discipline any peace officer under the terms of this chapter shall be
+187 conducted in accordance with Chapter 13 of Title 50, the 'Georgia Administrative
+188 Procedure Act.' In all such proceedings the council shall have authority to compel the
+189 attendance of witnesses and the production of any book, writing, or document upon the
+190 issuance of a subpoena therefor. In any hearing in which the fitness of a peace officer or
+191 applicant is in question, the council may exclude all persons from its deliberation of the
+192 appropriate action and may, when it deems necessary, speak to the peace officer or
+193 applicant in private. All final determinations, findings, and conclusions of the council
+194 under this chapter are final and conclusive decisions of the matters involved."
+H. B. 288
+- 8 -
+25 LC 39 4532
+195 SECTION 10.
+196 Said chapter is further amended by revising Code Section 35-8-8, relating to requirements
+197 for appointment or certification of persons as peace officers and preemployment attendance
+198 at basic training course and "employment related information" defined, and by redesignating
+199 the current provisions of subsection (c) of said Code section as a new Code section to read
+200 as follows:
+201 "35-8-8.
+202 (a) Any person employed or certified as a peace officer shall:
+203 (1) Be at least 18 years of age;
+204 (2) Be a citizen of the United States;
+205 (3) Have a high school diploma or its recognized equivalent;
+206 (4) Not have been convicted by any state or by the federal government of any crime the
+207 punishment for which could have been imprisonment in the federal or state prison or
+208 institution nor have been convicted of sufficient misdemeanors to establish a pattern of
+209 disregard for the law, provided that, for the purposes of this paragraph, violations of
+210 traffic laws and other offenses involving the operation of motor vehicles when the
+211 applicant has received a pardon shall not be considered;
+212 (5) Be fingerprinted for the purpose of conducting a fingerprint based search at the
+213 Georgia Bureau of Investigation and the Federal Bureau of Investigation to determine the
+214 existence of any criminal record;
+215 (6) Possess good moral character as determined by investigation under procedure
+216 established by the council and fully cooperate during the course of such investigation;
+217 (7) Be found, after examination by a licensed physician or surgeon, to be free from any
+218 physical, emotional, or mental conditions which might adversely affect his or her exercise
+219 of the powers or duties of a peace officer; and
+220 (8) Successfully complete a job related academy entrance examination provided for and
+221 administered by the council in conformity with state and federal law. Such examination
+H. B. 288
+- 9 -
+25 LC 39 4532
+222 shall be administered prior to entrance to the basic course provided for in Code Sections
+223 35-8-9 and 35-8-11. The council may change or modify such examination and shall
+224 establish the criteria for determining satisfactory performance on such examination. The
+225 provisions of this paragraph establish only the minimum requirements of academy
+226 entrance examinations for peace officer candidates in this state; each law enforcement
+227 unit is encouraged to provide such additional requirements and any preemployment
+228 examination as it deems necessary and appropriate. Any person with a degree from a
+229 postsecondary institution accredited by a regional accrediting agency recognized by the
+230 United States Department of Education shall be deemed to have met the requirements of
+231 this paragraph.
+232 (b) Any person authorized to attend the basic training course prior to employment as a
+233 peace officer shall meet the requirements of subsection (a) of this Code section.
+234 35-8-8.1.
+235 (c)(1) For purposes of this subsection (a) As used in this Code section, the term
+236 'employment related information' means written information contained in a prior
+237 employer's records or personnel files that relates to an applicant's, candidate's, or peace
+238 officer's performance or behavior while employed by such prior employer, including
+239 performance evaluations, records of disciplinary actions, and eligibility for rehire. Such
+240 term shall not include information prohibited from disclosure by federal law or any
+241 document not in the possession of the employer at the time a request for such information
+242 is received.
+243 (b)(1)(2) Where an investigation is conducted for the purpose of hiring, certifying, or
+244 continuing the certification of a peace officer, an employer shall disclose employment
+245 related information to the investigating law enforcement agency upon receiving a written
+246 request from such agency. Disclosure shall only be required under this subsection if the
+247 law enforcement agency's request is accompanied by a copy of a signed, notarized
+H. B. 288
+- 10 -
+25 LC 39 4532
+248 statement from the applicant, candidate, or peace officer releasing and holding harmless
+249 such employer from any and all liability for disclosing complete and accurate information
+250 to the law enforcement agency.
+251 (3)(2) An employer may charge a reasonable fee to cover actual costs incurred in
+252 copying and furnishing documents pursuant to this subsection to a requesting law
+253 enforcement agency, including retrieving and redacting costs, provided such amount shall
+254 not exceed $25.00 or 25¢ per page, whichever is greater. No employer shall be required
+255 to prepare or create any document not already in the employer's possession at the time a
+256 request for employment related information is received. Any employment related
+257 information provided pursuant to this subsection that is not subject to public disclosure
+258 while in the possession of a prior employer shall continue to be privileged and protected
+259 from public disclosure as a record of the requesting law enforcement agency.
+260 (4)(3) No employer or law enforcement agency shall be subject to any civil liability for
+261 any cause of action by virtue of disclosing complete and accurate information to a law
+262 enforcement agency in good faith and without malice pursuant to this subsection. In any
+263 such cause of action, malice or bad faith shall only be demonstrated by clear and
+264 convincing evidence. Nothing contained in this subsection shall be construed so as to
+265 affect or limit rights or remedies provided by federal law.
+266 (5)(4) Before taking final action on an application for employment based, in whole or in
+267 part, on any unfavorable employment related information received from a previous
+268 employer, a law enforcement agency shall inform the applicant, candidate, or peace
+269 officer that it has received such employment related information and that the applicant,
+270 candidate, or peace officer may inspect and respond in writing to such information. Upon
+271 the applicant's, candidate's, or peace officer's request, the law enforcement agency shall
+272 allow him or her to inspect the employment related information and to submit a written
+273 response to such information. The request for inspection shall be made within five
+274 business days from the date that the applicant, candidate, or peace officer is notified of
+H. B. 288
+- 11 -
+25 LC 39 4532
+275 the law enforcement agency's receipt of such employment related information. The
+276 inspection shall occur not later than ten business days after said notification. Any
+277 response to the employment related information shall be made by the applicant,
+278 candidate, or peace officer not later than three business days after his or her inspection.
+279 (6)(5) Nothing contained in this Code section subsection shall be construed so as to
+280 require any person to provide self-incriminating information or otherwise to compel any
+281 person to act in violation of his or her right guaranteed by the Fifth Amendment of the
+282 United States Constitution and Article I, Section I, Paragraph XVI of the Georgia
+283 Constitution. It shall not be a violation of this Code section subsection for a person to fail
+284 to provide requested information based on a claim that such information is
+285 self-incriminating provided that notice of such claim is served in lieu of the requested
+286 information. An action against such person to require disclosure on the grounds that the
+287 claim of self-incrimination is not substantiated may be brought in the superior court of
+288 the county of such party's residence or where such information is located.
+289 (c) A law enforcement agency that receives an impairment letter shall forward a copy of
+290 such letter to the council within 30 days of receipt for review pursuant to Code Section
+291 35-8-7.1. No employer or law enforcement agency shall discharge, suspend, demote, or
+292 take any other adverse employment action against a peace officer based solely upon the
+293 receipt of an impairment letter; provided, however, that such prohibition shall not apply to
+294 an impairment letter which has been reviewed and substantiated by the council."
+295 SECTION 11.
+296 Part 1 of Article 4 of Chapter 12 of Title 15 of the Official Code of Georgia Annotated,
+297 relating to general provisions relative to grand juries, is amended by replacing "Article 1 of
+298 Chapter 16 of Title 17" with "Article 2 of Chapter 16 of Title 17" wherever the phrase
+299 appears in Code Section 15-12-71, relating to duties of grand jury, and in Code Section
+300 15-12-73, relating to exclusion of admissions and communications among grand jurors.
+H. B. 288
+- 12 -
+25 LC 39 4532
+301 SECTION 12.
+302 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 288
+- 13 -
+[DELETED: 5L0,9,8,htht2,1,hs p d j p a a c t f r b t G P O S a T C o]
+[DELETED: 5L r t t c o a p o p t C S]
+[DELETED: 5L]
+[DELETED: 5L o u o u a o b s c s o t]
+[DELETED: 5L a t s s d  U a f o a p]
+[DELETED: 5L r o c e s o c n o]
+[DELETED: 5L t e s o o i d r t v o t a d i h b o  N o t i o a]
+[DELETED: 5L o b t c i b n l t r u t i b r f 3 y f t d t s i i d c i f a i C S 3 r t a i a w C 1 o T 5 t ' A a a m w i d n s t t p o o]
+[DELETED: 5L l a o o i t o o m v w t  P g m c a d b i u p]
+[DELETED: 5L o t p e o t m r o a (  A r i m w i c i a p]
+[DELETED: 5L a f d p t t s t a r l f e r i i r  A e r c o a m o b f s o b d b c a o]
+[DELETED: 5L n t t e r i s b m b t a S C a A I S I P X o t G p r i b o a c t s i i]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4532
+House Bill 288
+By: Representatives Gaines of the 120th, Reeves of the 99th, Crowe of the 118th, Lumsden of
+the 12th, Clifton of the 131st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 6 of Title 5, Chapter 4 of Title 9, Article 1 of Chapter 18 of
+2 Title 15, and Chapter 16 of Title 17 of the Official Code of Georgia Annotated, relating to
+3 appellate practice, declaratory judgments, prosecuting attorneys, and criminal trials,
+4 respectively, so as to provide for declaratory judgments in instances involving accusations
+5 made by a prosecuting attorney regarding the credibility of a peace officer; to provide for
+6 appellate rights; to provide for notice by a prosecuting attorney intending to question the
+7 credibility of a peace officer; to provide for court review and approval of information relating
+8 to the credibility of a witness who is a peace officer prior to disclosure by a prosecuting
+9 attorney to a defendant; to provide for notice and hearing; to provide for remittal of certain
+10 findings to the Georgia Peace Officer Standards and Training Council; to provide for rights
+11 of the peace officer in relation to such hearing; to amend Chapter 8 of Title 35 of the Official
+12 Code of Georgia Annotated, relating to employment and training of peace officers, so as to
+13 provide for review by the Georgia Peace Officer Standards and Training Council of
+14 accusations of peace officer impairment as a witness; to provide for notice; to provide
+15 standards for determination of credibility of accusations; to provide hearing rights; to restrict
+16 the use of information relating to the credibility of a witness who is a peace officer for
+17 employment purposes in certain instances; to provide for definitions; to amend Part 1 of
+18 Article 4 of Chapter 12 of Title 15 of the Official Code of Georgia Annotated, relating to
+H. B. 288
+- 1 -
+
+25 LC 39 4532
+19 general provisions relative to grand juries, so as to provide for conforming changes; to
+20 provide for related matters; to repeal conflicting laws; and for other purposes.
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+22 SECTION 1.
+23 Article 2 of Chapter 6 of Title 5 of the Official Code of Georgia Annotated, relating to
+24 appellate practice, is amended in subsection (a) of Code Section 5-6-35, relating to cases
+25 requiring application for appeal, requirements for application, exhibits, response, issuance
+26 of appellate court order regarding appeal, procedure, supersedeas, jurisdiction of appeal, and
+27 appeals involving nonmonetary judgments in custody cases, by striking "and" at the end of
+28 paragraph (12), by replacing the period at the end of paragraph (13) with "; and", and by
+29 adding a new paragraph to read as follows:
+30 "(14) Appeals from cases involving the credibility of a peace officer to serve as a witness
+31 pursuant to an impairment letter as such term is defined in Code Section 35-8-2 or
+32 disclosures relative to the credibility of a peace officer pursuant to Code Section
+33 17-16-1.1."
+34 SECTION 2.
+35 Chapter 4 of Title 9 of the Official Code of Georgia Annotated, relating to declaratory
+36 judgments, is amended Code Section 9-4-2, relating to declaratory judgements authorized
+37 and force and effect, by revising subsection (c) and adding a new subsection to read as
+38 follows:
+39 "(c) In addition to the cases specified in subsection (a) of this Code section, the respective
+40 superior courts of this state shall have power, upon petition or other appropriate pleading,
+41 to declare rights and other legal relations of any peace officer involving accusations made
+42 by a prosecuting attorney within an impairment letter, as such term is defined in Code
+H. B. 288
+- 2 -
+
+25 LC 39 4532
+43 Section 35-8-2, and that appears to the court to require that the declaration should be made
+44 in the interest of justice. Such declaration shall have the force and effect of a final
+45 judgment or decree and be reviewable as such.
+46 (d) Relief by declaratory judgment shall be available, notwithstanding the fact that the
+47 complaining party has any other adequate legal or equitable remedy or remedies."
+48 SECTION 3.
+49 Article 1 of Chapter 18 of Title 15 of the Official Code of Georgia Annotated, relating to
+50 prosecuting attorneys, is amended by adding a new Code section to read as follows:
+51 "15-18-33.
+52 (a) As used in this Code section, the term 'impairment letter' shall have the same meaning
+53 as set forth in Code Section 35-8-2.
+54 (b) A prosecuting attorney shall notify a peace officer who is the subject of an impairment
+55 letter in writing by registered or certified mail or statutory overnight delivery to the last
+56 known address of the peace officer of the prosecuting attorney's intent to send such letter.
+57 Such notice shall include the actions the prosecuting attorney intends to take relative to
+58 such peace officer or any recommendation of the prosecuting attorney relative to such
+59 peace officer's employment. Such notice shall further include the specific basis for the
+60 prosecuting attorney's decisions or recommendations, including:
+61 (1) The location and description of all evidence relating to the case involving the peace
+62 officer and the impairment letter in question;
+63 (2) A list of witnesses relevant to the impairment letter in question, including names,
+64 contact information, last known addresses, criminal history, and dates of birth;
+65 (3) The existence of any and all writings, recordings, video, or other material evidence
+66 as it relates to the impairment letter in question;
+67 (4) The name and contact information of the prosecuting attorney intending to send the
+68 impairment letter; and
+H. B. 288
+- 3 -
+
+25 LC 39 4532
+69 (5) The date on which a determination to send the impairment letter in question was
+70 made."
+71 SECTION 4.
+72 Chapter 16 of Title 17 of the Official Code of Georgia Annotated, relating to discovery in
+73 criminal trials, is amended in Article 1, relating to definitions and felony cases, by adding a
+74 new Code section to read as follows:
+75 "17-16-1.1.
+76 (a) For purposes of this Code section, the term:
+77 (1) 'Council' means the Georgia Peace Officer Standards and Training Council.
+78 (2) 'Peace officer' shall have the same meaning as set forth in Code Section 35-8-2.
+79 (b) Any disclosure of information by a prosecuting attorney pursuant to this chapter which
+80 relates to the credibility of a witness who is a peace officer shall be submitted to the trial
+81 court for approval prior to disclosure; provided, however, that any matter involving a final
+82 decision of the council against a peace officer pursuant to Chapter 8 of Title 35, the
+83 'Georgia Peace Officer Standards and Training Act,' shall not be subject to such approval.
+84 No later than 20 days prior to trial, the prosecuting attorney shall send written notice by
+85 regular mail to any peace officer of his or her intention to disclose information to a
+86 defendant regarding the credibility of such officer as a witness and that such officer is
+87 entitled to a hearing before the trial court regarding such disclosure. The trial court shall
+88 hold an evidentiary hearing to determine whether the proposed disclosure relating to the
+89 credibility of the peace officer shall be made available to the defendant. Such hearing shall
+90 be held at least ten days prior to trial.
+91 (c) If, after a hearing held pursuant to subsection (b) of this Code section, a trial court
+92 finds, by a preponderance of the evidence, that any proposed disclosure of information
+93 relating to the credibility of a peace officer as a witness to be based upon unsubstantiated
+94 claims of untruthfulness or unfounded allegations of bias, such court shall order the
+H. B. 288
+- 4 -
+
+25 LC 39 4532
+95 prosecuting attorney to suppress such disclosure. Upon a finding of any proposed
+96 disclosure relating to the credibility of a peace officer to serve as a witness to be proper,
+97 the trial court shall forward a copy of such finding to the council.
+98 (d) A peace officer who is the subject of a hearing held pursuant to subsection (b) of this
+99 Code section shall have the right to:
+100 (1) Representation by an attorney of his or her choosing at his or her own expense;
+101 (2) Subpoena documents and witnesses; and
+102 (3) Obtain a transcript of such hearing at the expense of the prosecuting attorney.
+103 (e) A peace officer shall have the right to obtain review of a final determination made
+104 pursuant to this Code section pursuant to the provisions of Code Section 5-6-35."
+105 SECTION 5.
+106 Said chapter is further amended by redesignating Code Sections 17-16-2 through 17-16-10
+107 as Article 2 and Code Sections 17-16-20 through 17-16-23 as Article 3.
+108 SECTION 6.
+109 Chapter 8 of Title 35 of the Official Code of Georgia Annotated, relating to employment and
+110 training of peace officers, is amended in Code Section 35-8-2, relating to definitions, by
+111 adding a new paragraph to read as follows:
+112 "(5.01) 'Impairment letter' means written information submitted to a law enforcement
+113 agency by a prosecuting attorney relating to the credibility of a peace officer employed
+114 by such agency to serve as a witness at trial or an intent by a prosecuting attorney to
+115 dismiss criminal charges due to the involvement of a peace officer employed by such
+116 agency."
+H. B. 288
+- 5 -
+
+25 LC 39 4532
+117 SECTION 7.
+118 Said chapter is further amended in Code Section 35-8-7, relating to powers and duties of the
+119 Georgia Peace Officer Standards and Training Council generally, by adding a new paragraph
+120 to read as follows:
+121 "(14.1) To review and provide a determination upon the validity of an impairment letter;"
+122 SECTION 8.
+123 Said chapter is further amended in Code Section 35-8-7.1, relating to authority of council to
+124 refuse certificate to applicant or to discipline council certified officer or exempt officer,
+125 grounds, restoration of certificate, emergency suspension of certification, notice of
+126 investigation, and retention of records, by revising subsections (e) through (g) and by adding
+127 a new subsection to read as follows:
+128 "(e)(1) Upon receipt of an impairment letter from a law enforcement agency, the council
+129 shall initiate a review of the validity of any claim in such letter and notify the peace
+130 officer of such review. It shall be sufficient to identify the officer, state that review of an
+131 impairment letter has been initiated, and identify the prosecuting attorney that submitted
+132 the impairment letter.
+133 (2) In reviewing and making a determination regarding an impairment letter, the council
+134 shall consider:
+135 (A) Any bias alleged by the prosecuting attorney against the defendant or any potential
+136 witnesses when the impairment letter relates to a specific case;
+137 (B) Allegations or instances of previous misleading, deceptive, untrue, or fraudulent
+138 statements made by the peace officer to the prosecuting attorney or while serving as a
+139 witness for the prosecuting attorney;
+140 (C) Whether the peace officer has pleaded guilty or been convicted by final judgment,
+141 and all appeals have been exhausted, of a crime punishable as a false swearing under
+142 Code Section 16-10-71; and
+H. B. 288
+- 6 -
+
+25 LC 39 4532
+143 (D) Any allegations of acts or omissions which would otherwise subject the peace
+144 officer to discipline pursuant to subsection (a) of this Code section.
+145 (3) Upon completion of a review of an impairment letter, the council shall notify the
+146 peace officer identified in the impairment letter and the head of the law enforcement
+147 agency that employs such officer of its determination regarding the validity of the
+148 information asserted by the prosecuting attorney. If the council determines from the
+149 review of the impairment letter that discipline of the peace officer is warranted, notice
+150 sent pursuant to this paragraph shall include such information.
+151 (f) Upon initiating an investigation of an officer for possible disciplinary action or upon
+152 disciplining an officer pursuant to this Code section, the council shall notify the head of the
+153 law enforcement agency that employs such officer of the investigation or disciplinary
+154 action. In the case of an investigation, it shall be sufficient to identify the officer and state
+155 that a disciplinary investigation has been opened. Notice of the initiation of an
+156 investigation shall be sent by priority mail. If the investigation is completed without any
+157 further action, notice of the termination of such investigation shall also be provided to the
+158 head of the employing agency. In the case of disciplinary action, the notice shall identify
+159 the officer and state the nature of the disciplinary action taken. The notice of disposition
+160 shall be sent only after the action of the council is deemed final. Such notice shall be sent
+161 by priority mail.
+162 (f)(g) If the certification of an officer is suspended or revoked by either the executive
+163 director or council pursuant to this Code section, then the council shall notify the head of
+164 the law enforcement agency that employs the officer; the district attorney of the judicial
+165 circuit in which such law enforcement agency is located; and the solicitor of the state court,
+166 if any, of the county in which such law enforcement agency is located. It shall be sufficient
+167 for this notice to identify the officer and state the length of time, if known, that the officer
+168 will not have powers of arrest. Such notice shall be sent by priority mail.
+H. B. 288
+- 7 -
+
+25 LC 39 4532
+169 (h) Any notice required by this Code section shall be sent by certified mail or certificate
+170 of mailing. As used in this subsection, the term 'certificate of mailing' means a delivery
+171 method utilized by the United States Postal Service which provides evidence that an item
+172 has been sent and the date such item was accepted.
+173 (g)(i) Notwithstanding Article 5 of Chapter 18 of Title 50, records of an investigation of
+174 an officer by the council, including, but not limited to, records used to investigate
+175 complaints against an officer and polygraph case files containing official polygraph reports,
+176 shall be retained for 30 years following the date that such investigation is deemed
+177 concluded by the council and then such records may be destroyed; provided, however, that
+178 the council shall have the authority to destroy such records prior to such 30 years where
+179 such officer is deceased and no action upon the complaint was taken by the council beyond
+180 the council's initial intake of such complaint."
+181 SECTION 9.
+182 Said chapter is further amended in Code Section 35-8-7.2, relating to administrative
+183 procedure, hearings, and review, by revising subsection (a) as follows:
+184 "(a) Except as otherwise provided in subsection (b) of this Code section, proceedings of
+185 the council in the exercise of its authority to issue any certificate, conduct a review of an
+186 impairment letter, or discipline any peace officer under the terms of this chapter shall be
+187 conducted in accordance with Chapter 13 of Title 50, the 'Georgia Administrative
+188 Procedure Act.' In all such proceedings the council shall have authority to compel the
+189 attendance of witnesses and the production of any book, writing, or document upon the
+190 issuance of a subpoena therefor. In any hearing in which the fitness of a peace officer or
+191 applicant is in question, the council may exclude all persons from its deliberation of the
+192 appropriate action and may, when it deems necessary, speak to the peace officer or
+193 applicant in private. All final determinations, findings, and conclusions of the council
+194 under this chapter are final and conclusive decisions of the matters involved."
+H. B. 288
+- 8 -
+
+25 LC 39 4532
+195 SECTION 10.
+196 Said chapter is further amended by revising Code Section 35-8-8, relating to requirements
+197 for appointment or certification of persons as peace officers and preemployment attendance
+198 at basic training course and "employment related information" defined, and by redesignating
+199 the current provisions of subsection (c) of said Code section as a new Code section to read
+200 as follows:
+201 "35-8-8.
+202 (a) Any person employed or certified as a peace officer shall:
+203 (1) Be at least 18 years of age;
+204 (2) Be a citizen of the United States;
+205 (3) Have a high school diploma or its recognized equivalent;
+206 (4) Not have been convicted by any state or by the federal government of any crime the
+207 punishment for which could have been imprisonment in the federal or state prison or
+208 institution nor have been convicted of sufficient misdemeanors to establish a pattern of
+209 disregard for the law, provided that, for the purposes of this paragraph, violations of
+210 traffic laws and other offenses involving the operation of motor vehicles when the
+211 applicant has received a pardon shall not be considered;
+212 (5) Be fingerprinted for the purpose of conducting a fingerprint based search at the
+213 Georgia Bureau of Investigation and the Federal Bureau of Investigation to determine the
+214 existence of any criminal record;
+215 (6) Possess good moral character as determined by investigation under procedure
+216 established by the council and fully cooperate during the course of such investigation;
+217 (7) Be found, after examination by a licensed physician or surgeon, to be free from any
+218 physical, emotional, or mental conditions which might adversely affect his or her exercise
+219 of the powers or duties of a peace officer; and
+220 (8) Successfully complete a job related academy entrance examination provided for and
+221 administered by the council in conformity with state and federal law. Such examination
+H. B. 288
+- 9 -
+
+25 LC 39 4532
+222 shall be administered prior to entrance to the basic course provided for in Code Sections
+223 35-8-9 and 35-8-11. The council may change or modify such examination and shall
+224 establish the criteria for determining satisfactory performance on such examination. The
+225 provisions of this paragraph establish only the minimum requirements of academy
+226 entrance examinations for peace officer candidates in this state; each law enforcement
+227 unit is encouraged to provide such additional requirements and any preemployment
+228 examination as it deems necessary and appropriate. Any person with a degree from a
+229 postsecondary institution accredited by a regional accrediting agency recognized by the
+230 United States Department of Education shall be deemed to have met the requirements of
+231 this paragraph.
+232 (b) Any person authorized to attend the basic training course prior to employment as a
+233 peace officer shall meet the requirements of subsection (a) of this Code section.
+234 35-8-8.1.
+235 (c)(1) For purposes of this subsection (a) As used in this Code section, the term
+236 'employment related information' means written information contained in a prior
+237 employer's records or personnel files that relates to an applicant's, candidate's, or peace
+238 officer's performance or behavior while employed by such prior employer, including
+239 performance evaluations, records of disciplinary actions, and eligibility for rehire. Such
+240 term shall not include information prohibited from disclosure by federal law or any
+241 document not in the possession of the employer at the time a request for such information
+242 is received.
+243 (b)(1)(2) Where an investigation is conducted for the purpose of hiring, certifying, or
+244 continuing the certification of a peace officer, an employer shall disclose employment
+245 related information to the investigating law enforcement agency upon receiving a written
+246 request from such agency. Disclosure shall only be required under this subsection if the
+247 law enforcement agency's request is accompanied by a copy of a signed, notarized
+H. B. 288
+- 10 -
+
+25 LC 39 4532
+248 statement from the applicant, candidate, or peace officer releasing and holding harmless
+249 such employer from any and all liability for disclosing complete and accurate information
+250 to the law enforcement agency.
+251 (3)(2) An employer may charge a reasonable fee to cover actual costs incurred in
+252 copying and furnishing documents pursuant to this subsection to a requesting law
+253 enforcement agency, including retrieving and redacting costs, provided such amount shall
+254 not exceed $25.00 or 25¢ per page, whichever is greater. No employer shall be required
+255 to prepare or create any document not already in the employer's possession at the time a
+256 request for employment related information is received. Any employment related
+257 information provided pursuant to this subsection that is not subject to public disclosure
+258 while in the possession of a prior employer shall continue to be privileged and protected
+259 from public disclosure as a record of the requesting law enforcement agency.
+260 (4)(3) No employer or law enforcement agency shall be subject to any civil liability for
+261 any cause of action by virtue of disclosing complete and accurate information to a law
+262 enforcement agency in good faith and without malice pursuant to this subsection. In any
+263 such cause of action, malice or bad faith shall only be demonstrated by clear and
+264 convincing evidence. Nothing contained in this subsection shall be construed so as to
+265 affect or limit rights or remedies provided by federal law.
+266 (5)(4) Before taking final action on an application for employment based, in whole or in
+267 part, on any unfavorable employment related information received from a previous
+268 employer, a law enforcement agency shall inform the applicant, candidate, or peace
+269 officer that it has received such employment related information and that the applicant,
+270 candidate, or peace officer may inspect and respond in writing to such information. Upon
+271 the applicant's, candidate's, or peace officer's request, the law enforcement agency shall
+272 allow him or her to inspect the employment related information and to submit a written
+273 response to such information. The request for inspection shall be made within five
+274 business days from the date that the applicant, candidate, or peace officer is notified of
+H. B. 288
+- 11 -
+
+25 LC 39 4532
+275 the law enforcement agency's receipt of such employment related information. The
+276 inspection shall occur not later than ten business days after said notification. Any
+277 response to the employment related information shall be made by the applicant,
+278 candidate, or peace officer not later than three business days after his or her inspection.
+279 (6)(5) Nothing contained in this Code section subsection shall be construed so as to
+280 require any person to provide self-incriminating information or otherwise to compel any
+281 person to act in violation of his or her right guaranteed by the Fifth Amendment of the
+282 United States Constitution and Article I, Section I, Paragraph XVI of the Georgia
+283 Constitution. It shall not be a violation of this Code section subsection for a person to fail
+284 to provide requested information based on a claim that such information is
+285 self-incriminating provided that notice of such claim is served in lieu of the requested
+286 information. An action against such person to require disclosure on the grounds that the
+287 claim of self-incrimination is not substantiated may be brought in the superior court of
+288 the county of such party's residence or where such information is located.
+289 (c) A law enforcement agency that receives an impairment letter shall forward a copy of
+290 such letter to the council within 30 days of receipt for review pursuant to Code Section
+291 35-8-7.1. No employer or law enforcement agency shall discharge, suspend, demote, or
+292 take any other adverse employment action against a peace officer based solely upon the
+293 receipt of an impairment letter; provided, however, that such prohibition shall not apply to
+294 an impairment letter which has been reviewed and substantiated by the council."
+295 SECTION 11.
+296 Part 1 of Article 4 of Chapter 12 of Title 15 of the Official Code of Georgia Annotated,
+297 relating to general provisions relative to grand juries, is amended by replacing "Article 1 of
+298 Chapter 16 of Title 17" with "Article 2 of Chapter 16 of Title 17" wherever the phrase
+299 appears in Code Section 15-12-71, relating to duties of grand jury, and in Code Section
+300 15-12-73, relating to exclusion of admissions and communications among grand jurors.
+H. B. 288
+- 12 -
+
+25 LC 39 4532
+301 SECTION 12.
+302 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 288
+- 13 -
+
+[DELETED: 5L0,9,8,htht2,1,hs p d j p a a c t f r b t G P O S a T C o]
+[DELETED: 5L r t t c o a p o p t C S]
+[DELETED: 5L]
+[DELETED: 5L o u o u a o b s c s o t]
+[DELETED: 5L a t s s d  U a f o a p]
+[DELETED: 5L r o c e s o c n o]
+[DELETED: 5L t e s o o i d r t v o t a d i h b o  N o t i o a]
+[DELETED: 5L o b t c i b n l t r u t i b r f 3 y f t d t s i i d c i f a i C S 3 r t a i a w C 1 o T 5 t ' A a a m w i d n s t t p o o]
+[DELETED: 5L l a o o i t o o m v w t  P g m c a d b i u p]
+[DELETED: 5L o t p e o t m r o a (  A r i m w i c i a p]
+[DELETED: 5L a f d p t t s t a r l f e r i i r  A e r c o a m o b f s o b d b c a o]
+[DELETED: 5L n t t e r i s b m b t a S C a A I S I P X o t G p r i b o a c t s i i]
+[DELETED: 5L]

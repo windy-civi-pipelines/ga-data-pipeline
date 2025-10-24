@@ -1,0 +1,198 @@
+Title: House Bill 884
+Official Title: House Bill 884
+Number of Sections: 1
+Source: versions - LC 52 0822/a
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0822
+By: Representatives Cannon of the 58th, Schofield of the 63rd, Hugley of the 141st, Bennett
+of the 94th, and Smith of the 18th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the
+2 Department of Public Health, so as to establish a grant program for perinatal facilities to
+3 increase the availability of obstetric care in low access to maternity care areas and maternity
+4 care deserts; to provide for definitions; to provide for appropriations and funding; to provide
+5 for reporting; to provide for rules and regulations; to provide for related matters; to provide
+6 for an effective date; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the Department
+10 of Public Health, is amended by adding a new article to read as follows:
+11 "ARTICLE 4
+12 31-2A-70.
+13 As used in this article, the term:
+14 (1) 'Department' means the Department of Public Health.
+H. B. 884
+- 1 -
+25 LC 52 0822
+15 (2) 'Low access to maternity care area' means a county in this state that has limited
+16 access to maternity care services, as evidenced by having only one hospital or birth
+17 center offering obstetric care, fewer than 60 obstetric providers per 10,000 births, or 10
+18 percent or more reproductive aged women without health insurance.
+19 (3) 'Maternity care desert' means a county in this state that has no hospitals or birth
+20 centers offering obstetric care or no obstetric providers.
+21 (4) 'Obstetric care' means the management of low-risk, moderate-risk, and high-risk
+22 pregnancies, including labor, delivery, and the postpartum period.
+23 (5) 'Obstetric provider' means a licensed obstetrician-gynecologist, a licensed family
+24 physician who delivers babies, a certified nurse midwife, or a licensed nurse practitioner
+25 who delivers babies.
+26 (6) 'Perinatal facility' means a hospital, clinic, or birthing center that provides maternal
+27 or neonatal healthcare services.
+28 31-2A-71.
+29 (a) The department shall establish a grant program for perinatal facilities in low access to
+30 maternity care areas and maternity care deserts to use for:
+31 (1) The recruitment and retention of obstetric providers;
+32 (2) Facility upgrades of obstetric units that are related to obstetric care, equipment
+33 purchases that are related to obstetric care, and the establishment of obstetric units; and
+34 (3) Partnerships with larger medical centers to offer training, resources, and support for
+35 obstetric care and obstetric providers.
+36 (b) The department shall establish criteria, implement an application process, and award
+37 grants consistent with the provisions of this Code section.
+38 (c) The grant program established pursuant to this article shall be contingent upon the
+39 appropriation of funds by the General Assembly for the purposes of this article in annual
+40 appropriations Acts of the General Assembly.
+H. B. 884
+- 2 -
+25 LC 52 0822
+41 31-2A-72.
+42 (a) The department shall be authorized to accept donations, contributions, and gifts and to
+43 receive, hold, and use grants, devises, and bequests of real, personal, and mixed property
+44 on behalf of the state to enable the department to carry out the functions and purposes of
+45 this article.
+46 (b) The department shall be authorized to pursue federal funding opportunities and
+47 collaborations with private entities, nonprofit organizations, and philanthropic
+48 organizations to fund the grant program established pursuant to this article.
+49 31-2A-73.
+50 (a) The department shall prepare and submit an annual report to the Governor, the
+51 President of the Senate, the Speaker of the House of Representatives, and the chairpersons
+52 of the House Committee on Public Health and the Senate Committee on Health and Human
+53 Services for distribution to its committee members. Such report shall evaluate the
+54 effectiveness of the grant program established pursuant to this article, including indicating
+55 the total number of perinatal facilities that applied for the grant program, the total number
+56 of such facilities that were awarded grants, and the amount of each grant awarded to each
+57 perinatal facility.
+58 (b) The department shall biennially make recommendations to the General Assembly on
+59 the continuation or discontinuation of the grant program established pursuant to this article
+60 and improvements to such program in the annual report provided for in subsection (a) of
+61 this Code section.
+62 31-2A-74.
+63 The department shall adopt such rules and regulations as are reasonable and necessary to
+64 implement the provisions of this article."
+H. B. 884
+- 3 -
+25 LC 52 0822
+65 SECTION 2.
+66 This Act shall become effective upon its approval by the Governor or upon its becoming law
+67 without such approval.
+68 SECTION 3.
+69 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 884
+- 4 -
+[DELETED: 5L8,3,1,hrds4,8ht]
+[DELETED: 5L]
+[DELETED: 5L  T d s b a t p f f o a w p e n o a p  T d s p a s a a r t t G t f d t i c m  S r s e t]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0822
+House Bill 884
+By: Representatives Cannon of the 58th, Schofield of the 63rd, Hugley of the 141st, Bennett
+of the 94th, and Smith of the 18th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the
+2 Department of Public Health, so as to establish a grant program for perinatal facilities to
+3 increase the availability of obstetric care in low access to maternity care areas and maternity
+4 care deserts; to provide for definitions; to provide for appropriations and funding; to provide
+5 for reporting; to provide for rules and regulations; to provide for related matters; to provide
+6 for an effective date; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the Department
+10 of Public Health, is amended by adding a new article to read as follows:
+11 "ARTICLE 4
+12 31-2A-70.
+13 As used in this article, the term:
+14 (1) 'Department' means the Department of Public Health.
+H. B. 884
+- 1 -
+
+25 LC 52 0822
+15 (2) 'Low access to maternity care area' means a county in this state that has limited
+16 access to maternity care services, as evidenced by having only one hospital or birth
+17 center offering obstetric care, fewer than 60 obstetric providers per 10,000 births, or 10
+18 percent or more reproductive aged women without health insurance.
+19 (3) 'Maternity care desert' means a county in this state that has no hospitals or birth
+20 centers offering obstetric care or no obstetric providers.
+21 (4) 'Obstetric care' means the management of low-risk, moderate-risk, and high-risk
+22 pregnancies, including labor, delivery, and the postpartum period.
+23 (5) 'Obstetric provider' means a licensed obstetrician-gynecologist, a licensed family
+24 physician who delivers babies, a certified nurse midwife, or a licensed nurse practitioner
+25 who delivers babies.
+26 (6) 'Perinatal facility' means a hospital, clinic, or birthing center that provides maternal
+27 or neonatal healthcare services.
+28 31-2A-71.
+29 (a) The department shall establish a grant program for perinatal facilities in low access to
+30 maternity care areas and maternity care deserts to use for:
+31 (1) The recruitment and retention of obstetric providers;
+32 (2) Facility upgrades of obstetric units that are related to obstetric care, equipment
+33 purchases that are related to obstetric care, and the establishment of obstetric units; and
+34 (3) Partnerships with larger medical centers to offer training, resources, and support for
+35 obstetric care and obstetric providers.
+36 (b) The department shall establish criteria, implement an application process, and award
+37 grants consistent with the provisions of this Code section.
+38 (c) The grant program established pursuant to this article shall be contingent upon the
+39 appropriation of funds by the General Assembly for the purposes of this article in annual
+40 appropriations Acts of the General Assembly.
+H. B. 884
+- 2 -
+
+25 LC 52 0822
+41 31-2A-72.
+42 (a) The department shall be authorized to accept donations, contributions, and gifts and to
+43 receive, hold, and use grants, devises, and bequests of real, personal, and mixed property
+44 on behalf of the state to enable the department to carry out the functions and purposes of
+45 this article.
+46 (b) The department shall be authorized to pursue federal funding opportunities and
+47 collaborations with private entities, nonprofit organizations, and philanthropic
+48 organizations to fund the grant program established pursuant to this article.
+49 31-2A-73.
+50 (a) The department shall prepare and submit an annual report to the Governor, the
+51 President of the Senate, the Speaker of the House of Representatives, and the chairpersons
+52 of the House Committee on Public Health and the Senate Committee on Health and Human
+53 Services for distribution to its committee members. Such report shall evaluate the
+54 effectiveness of the grant program established pursuant to this article, including indicating
+55 the total number of perinatal facilities that applied for the grant program, the total number
+56 of such facilities that were awarded grants, and the amount of each grant awarded to each
+57 perinatal facility.
+58 (b) The department shall biennially make recommendations to the General Assembly on
+59 the continuation or discontinuation of the grant program established pursuant to this article
+60 and improvements to such program in the annual report provided for in subsection (a) of
+61 this Code section.
+62 31-2A-74.
+63 The department shall adopt such rules and regulations as are reasonable and necessary to
+64 implement the provisions of this article."
+H. B. 884
+- 3 -
+
+25 LC 52 0822
+65 SECTION 2.
+66 This Act shall become effective upon its approval by the Governor or upon its becoming law
+67 without such approval.
+68 SECTION 3.
+69 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 884
+- 4 -
+
+[DELETED: 5L8,3,1,hrds4,8ht]
+[DELETED: 5L]
+[DELETED: 5L  T d s b a t p f f o a w p e n o a p  T d s p a s a a r t t G t f d t i c m  S r s e t]
+[DELETED: 5L]

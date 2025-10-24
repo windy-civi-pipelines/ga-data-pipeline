@@ -1,0 +1,31 @@
+Title: Senator Jones of the 10th offered the following amendment #13:
+Official Title: Senator Jones of the 10th offered the following amendment #13:
+Number of Sections: 1
+Source: versions - Sen Floor Amend 13
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+25 Sen Floor Amend 13
+OUT OF ORDER
+Amend the Senate Committee on Education and Youth substitute to HB 127 (LC 61 0259S):
+by inserting at line 16 the following:
+“‘(2) Diversity, inclusion, equity, and wealth’ shall mean any program that shows
+preferential treatment for any person based on diversity, inclusion, equity, or wealth.”
+[DELETED: 5  D i e a w s m a p t s]
+
+
+================================================================================
+
+Raw Text:
+25 Sen Floor Amend 13
+OUT OF ORDER
+Senator Jones of the 10th offered the following amendment #13:
+Amend the Senate Committee on Education and Youth substitute to HB 127 (LC 61 0259S):
+by inserting at line 16 the following:
+“‘(2) Diversity, inclusion, equity, and wealth’ shall mean any program that shows
+preferential treatment for any person based on diversity, inclusion, equity, or wealth.”
+
+[DELETED: 5  D i e a w s m a p t s]

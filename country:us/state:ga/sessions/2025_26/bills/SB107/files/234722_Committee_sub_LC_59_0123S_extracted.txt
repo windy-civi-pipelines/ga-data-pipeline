@@ -1,0 +1,896 @@
+Title: The Senate Committee on Economic Development and Tourism offered the following
+Official Title: The Senate Committee on Economic Development and Tourism offered the following
+Number of Sections: 1
+Source: versions - Committee sub LC 59 0123S
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+25 LC 59 0123S
+substitute to SB 107:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to
+2 regulation of specialized land transactions, so as to provide for protections of homeowners
+3 in community associations; to revise provisions concerning the foreclosure of liens by
+4 condominium associations and property owner's associations; to provide definitions; to
+5 provide for limitations on the ability of community associations to foreclose liens; to provide
+6 for a right of redemption following a foreclosure sale on a home by a community association;
+7 to provide for the waiver of assessments owed by homeowners to community associations
+8 in the event of death or disability; to provide for action and relief; to create the office of the
+9 Community Association Ombudsman; to provide for powers and duties of the ombudsman;
+10 to provide procedures concerning the submission of complaints to the ombudsman by
+11 homeowner and community associations; to provide procedures concerning the resolution
+12 of such complaints; to provide for the submission of certain recommendations made by the
+13 ombudsman with respect to such complaints to community associations; to provide
+14 procedures concerning the approval or rejection of such recommendations by community
+15 associations; to provide for the monitoring of elections for boards of directors for community
+16 associations; to provide for annual registration of community associations and related fees;
+17 to provide for applicability; to provide for related matters; to repeal conflicting laws; and for
+18 other purposes.
+- 1 -
+25 LC 59 0123S
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+20 SECTION 1.
+21 Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to regulation of
+22 specialized land transactions, is amended in Code Section 44-3-109, relating to lien for
+23 assessments, personal obligation of unit owner, notice and foreclosure, lapse, right to
+24 statement of assessments, and effect of failure to furnish statement, by revising subsection (c)
+25 as follows:
+26 "(c) Not less than 30 days after notice is sent by certified mail or statutory overnight
+27 delivery, return receipt requested, to the unit owner both at the address of the unit and at
+28 any other address or addresses which the unit owner may have designated to the association
+29 in writing, the lien may be foreclosed by the association by an action, judgment, and
+30 foreclosure in the same manner as other liens for the improvement of real property, subject
+31 to the limitations set forth in Code Section 44-3-270 and to superior liens or encumbrances,
+32 but any such court order for judicial foreclosure shall not affect the rights of holders of
+33 superior liens or encumbrances to exercise any rights or powers afforded to them under
+34 their security instruments. The notice provided for in this subsection shall specify the
+35 amount of the assessments then due and payable together with authorized late charges and
+36 the rate of interest accruing thereon. No foreclosure action against a lien arising out of this
+37 subsection shall be permitted unless the amount of the lien is at least $2,000.00. Unless
+38 prohibited by the condominium instruments, the association shall have the power to bid on
+39 the unit at any foreclosure sale and to acquire, hold, lease, encumber, and convey the same.
+40 The lien for assessments shall lapse and be of no further effect, as to assessments or
+41 installments thereof, together with late charges and interest applicable thereto, four years
+42 after the assessment or installment first became due and payable."
+- 2 -
+25 LC 59 0123S
+43 SECTION 2.
+44 Said chapter is further amended in Code Section 44-3-232, relating to assessments against
+45 lot owners as constituting liens in favor of association, additional charges against lot owners,
+46 procedure for foreclosing lien, and obligation to provide statement of amounts due, by
+47 revising subsection (c) as follows:
+48 "(c) Not less than 30 days after notice is sent by certified mail or statutory overnight
+49 delivery, return receipt requested, to the lot owner both at the address of the lot and at any
+50 other address or addresses which the lot owner may have designated to the association in
+51 writing, the lien may be foreclosed by the association by an action, judgment, and court
+52 order for foreclosure in the same manner as other liens for the improvement of real
+53 property, subject to the limitations set forth in Code Section 44-3-270 and to superior liens
+54 or encumbrances, but any such court order for judicial foreclosure shall not affect the rights
+55 of holders of superior liens or encumbrances to exercise any rights or powers afforded to
+56 them under their security instruments. The notice provided for in this subsection shall
+57 specify the amount of the assessments then due and payable together with authorized late
+58 charges and the rate of interest accruing thereon. No foreclosure action against a lien
+59 arising out of this subsection shall be permitted unless the amount of the lien is at
+60 least $2,000.00. Unless prohibited by the instrument, the association shall have the power
+61 to bid on the lot at any foreclosure sale and to acquire, hold, lease, encumber, and convey
+62 the same. The lien for assessments shall lapse and be of no further effect, as to assessments
+63 or installments thereof, together with late charges and interest applicable thereto, four years
+64 after the assessment or installment first became due and payable."
+65 SECTION 3.
+66 Said chapter is further amended by adding a new article to read as follows:
+- 3 -
+25 LC 59 0123S
+67 "ARTICLE 8
+68 Part 1
+69 44-3-260.
+70 As used in this article, the term:
+71 (1) 'Community association' means an organization or corporation of homeowners or
+72 residential property owners of a particular residential community created for the purpose
+73 of managing or regulating such residential community, including, without limitation,
+74 enforcing covenants set forth in a declaration of such residential community. Such term
+75 shall include a condominium association and a property owners' association.
+76 (2) 'Condominium association' means an organization or corporation formed pursuant
+77 to Article 3 of this chapter, the 'Georgia Condominium Act,' for the purpose of exercising
+78 the powers of an association of any condominium under such Act.
+79 (3) 'Declaration' means a recordable instrument creating restrictive covenants upon real
+80 property within a particular residential community which are administered by a
+81 community association in which membership is mandatory for all unit owners in such
+82 residential community.
+83 (4) 'Governing documents' means the instruments that govern the administration or
+84 operation of the community association of a particular residential community, including,
+85 without limitation, the declaration of such residential community and the bylaws and
+86 articles of incorporation of such community association.
+87 (5) 'Property owners' association' means a corporation formed pursuant to Article 6 of
+88 this chapter, the 'Georgia Property Owners' Association Act,' for the purpose of
+89 exercising the powers of an association of property owners under such Act.
+90 (6) 'Residential community' means a residential subdivision, planned community, or
+91 condominium.
+- 4 -
+25 LC 59 0123S
+92 (7) 'Unit' means a portion of a residential community intended for any type of
+93 independent ownership and use that is subject to a declaration and managed or regulated
+94 by a community association.
+95 (8) 'Unit owner' means the owner of a unit.
+96 Part 2
+97 44-3-270.
+98 (a) Notwithstanding any provision of law to the contrary, no foreclosure action against a
+99 lien on a unit in favor of a community association shall be permitted if the amount of the
+100 lien:
+101 (1) Is less than the total amount of assessments levied by the community association
+102 against the unit in the preceding 12 months; or
+103 (2) Consists solely of fines imposed by the community association for the failure to
+104 comply with the provisions of the declaration or with the rules or regulations adopted by
+105 the community association, including, without limitation, fines imposed or levied
+106 pursuant to Code Section 44-3-76 or 44-3-223, and any late charges, interest, or costs
+107 associated with such fines.
+108 (b) No community association that brings a foreclosure action against a lien on a unit in
+109 favor of the community association, nor any subsidiary, parent, affiliate, or any current or
+110 former member of the board of such community association, shall be permitted to purchase
+111 the unit at the foreclosure sale.
+112 44-3-271.
+113 (a) A unit owner may redeem a unit from any purchaser at a sale foreclosing a lien on such
+114 unit in favor of a community association, including, without limitation, a lien arising out
+115 of Code Section 44-3-109 or Code Section 44-3-232, by paying the amounts required for
+- 5 -
+25 LC 59 0123S
+116 redemption, as set forth in this Code section, not later than 180 days after the date of such
+117 sale.
+118 (b) A person who purchases a unit at a sale foreclosing a lien on such unit in favor of a
+119 community association shall not transfer ownership of such unit to a person other than the
+120 unit owner during the redemption period provided in subsection (a) of this Code section.
+121 (c) To redeem a unit that was purchased at the foreclosure sale, the unit owner shall:
+122 (1) Pay to the community association:
+123 (A) All amounts owed by the unit owner to the community association at the time of
+124 the foreclosure sale, less the sale price received by the community association at the
+125 foreclosure sale, and plus interest on such net amount from the date of foreclosure to
+126 the date of redemption at the rate stated in the declaration for delinquent assessments
+127 or, if no such rate is stated, at an annual interest rate of 10 percent;
+128 (B) The costs incurred by the community association in foreclosing the lien, including
+129 reasonable attorney's fees; and
+130 (C) Any unpaid assessments levied against the unit by the community association after
+131 the date of the foreclosure sale; and
+132 (2) Pay to the person who purchased the unit at the foreclosure sale:
+133 (A) The purchase price paid by such person at the foreclosure sale;
+134 (B) The cost incurred by such person in recording the foreclosure deed and conveying,
+135 after redemption, the unit to the unit owner, including reasonable attorney's fees;
+136 (C) Any assessments levied against the unit by the community association after the
+137 date of the foreclosure sale that were paid by such person; and
+138 (D) Any amounts paid by such person as ad valorem taxes, penalties, and interest on
+139 the unit after the date of the foreclosure sale.
+140 (d) If a unit owner redeems a unit in accordance with the provisions of this Code section,
+141 the purchaser of the unit at the foreclosure sale shall immediately execute and deliver to
+142 the unit owner a deed transferring the unit to the unit owner. If a purchaser fails to comply
+- 6 -
+25 LC 59 0123S
+143 with the provisions of this subsection, a unit owner may bring an action against such
+144 purchaser for an order compelling the conveyance of such unit to such unit owner. If a unit
+145 owner is the prevailing party in an action brought pursuant to this subsection, such unit
+146 owner shall be entitled to recover the costs incurred in bringing such action, including
+147 reasonable attorney's fees.
+148 (e) The redemption rights conferred by this Code section are personal privileges and not
+149 property or property rights. The privileges shall be exercised in the manner prescribed in
+150 this Code section and such privileges may not be waived in a deed, declaration, judgment,
+151 or any agreement.
+152 (f) This Code section shall only apply to liens in favor of a community association that are
+153 foreclosed on or after July 1, 2025.
+154 44-3-272.
+155 (a) As used in this Code section, the term:
+156 (1) 'Disability' means a medically determinable physical or mental impairment caused
+157 by injury or illness that renders a person unable to engage in any substantial gainful
+158 employment.
+159 (2) 'Disabled' means a person who is unable to engage in any substantial gainful
+160 employment as a result of a medically determinable physical or mental impairment
+161 caused by injury or illness.
+162 (3) 'Personal representative' shall have the same meaning as provided in Code
+163 Section 53-1-2.
+164 (b)(1) Each community association created pursuant to a declaration executed on or after
+165 July 1, 2025, shall waive all assessments or installments thereof that become due and
+166 payable by any unit owner if such unit owner:
+- 7 -
+25 LC 59 0123S
+167 (A) Dies with an insolvent estate, provided that the personal representative of such unit
+168 owner's estate certifies in writing to the community association that such unit owner's
+169 estate is insolvent; or
+170 (B) Becomes disabled, which causes a financial hardship on such unit owner, provided
+171 that such unit owner certifies in writing to the community association that, because of
+172 such disability, he or she is experiencing a financial hardship.
+173 (2) A waiver of such assessments or installments thereof under paragraph (1) of this
+174 subsection shall begin on the date such unit owner dies or becomes disabled and shall
+175 continue for a period of not less than 12 months; provided, however, that, if such waiver
+176 is granted because of a disability of a unit owner, such waiver shall terminate if the
+177 financial hardship on such unit owner resulting from such disability ceases to exist prior
+178 to the expiration of such 12 month period.
+179 (c) If a unit owner previously paid any assessments or installments thereof that are
+180 required to be waived by a community association pursuant to subsection (a) of this Code
+181 section, such unit owner or such unit owner's estate shall be entitled to a refund of such
+182 assessments or installments thereof, provided that the written certification that the estate
+183 of such unit owner is insolvent required under paragraph (1) of subsection (a) of this Code
+184 section or the written certification of financial hardship required under paragraph (2) of
+185 subsection (a) of this Code section, whichever is applicable, was provided to the
+186 community association within 12 months of the date such unit owner died or became
+187 disabled.
+188 (d)(1) If a community association fails to waive or refund any assessments or
+189 installments thereof that are required to be waived or refunded under the provisions of
+190 this Code section, the unit owner or the personal representative of the unit owner's estate
+191 may bring an action against such community association for a declaration that such
+192 assessments or installments thereof are required to be waived and for recovery of any
+- 8 -
+25 LC 59 0123S
+193 amount of such assessments or installments thereof that are required to be refunded.
+194 Such relief shall not be granted unless the court determines in such action that:
+195 (A) The unit owner either:
+196 (i) Became disabled, which caused a financial hardship on such unit owner; or
+197 (ii) Died with an insolvent estate; and
+198 (B) The written certification that the estate of such unit owner is insolvent required
+199 under paragraph (1) of subsection (a) of this Code section or the written certification
+200 of financial hardship required under paragraph (2) of subsection (a) of this Code
+201 section, whichever is applicable, was provided to the community association within 12
+202 months of the date such unit owner died or became disabled.
+203 (2) A unit owner or the personal representative of a unit owner's estate who prevails in
+204 an action brought pursuant to this subsection shall be entitled to recover the costs incurred
+205 in bringing such action, including reasonable attorney's fees.
+206 Part 3
+207 44-3-280.
+208 (a) There is created within the Department of Community Affairs the Office of the
+209 Community Association Ombudsman.
+210 (b) The commissioner of community affairs shall appoint the ombudsman, who shall be
+211 an attorney admitted to practice before the Georgia Supreme Court. The ombudsman shall
+212 serve at the pleasure of the commissioner of community affairs.
+213 (c) Neither the ombudsman nor any full-time employee of the ombudsman's office shall:
+214 (1) Actively engage in any other business or profession that directly or indirectly relates
+215 to or conflicts with his or her work in the ombudsman's office;
+216 (2) Serve as the representative, or an executive, officer, or employee, of any political
+217 party, executive committee, or other governing body of a political party;
+- 9 -
+25 LC 59 0123S
+218 (3) Receive remuneration for activities on behalf of any candidate for public office;
+219 (4) Engage in soliciting votes or other activities on behalf of a candidate for public
+220 office; or
+221 (5) Become a candidate for election to public office unless he or she first resigns from
+222 his or her office or employment.
+223 (d) The ombudsman shall maintain his or her principal office at a place convenient to the
+224 commissioner of community affairs, which will enable the ombudsman to expeditiously
+225 carry out the duties and functions of his or her office. The ombudsman may establish
+226 branch offices elsewhere in the state upon the concurrence of the commissioner of
+227 community affairs.
+228 44-3-281.
+229 The ombudsman shall have the powers necessary to carry out the duties of his or her office,
+230 including, without limitation:
+231 (1) Employing professional and clerical staff as necessary for the efficient operation of
+232 the office;
+233 (2) Preparing and issuing reports and recommendations to the Governor, the
+234 commissioner of community affairs, the President of the Senate, and the Speaker of the
+235 House of Representatives on any matter or subject within the jurisdiction of this article;
+236 (3) Acting as a liaison between unit owners, or other affected parties, and community
+237 associations, including the boards of directors, board members, officers, and managers
+238 of such community associations;
+239 (4) Monitoring and reviewing procedures and disputes concerning elections or meetings
+240 of community associations;
+241 (5) Providing resources to assist board members and officers of community associations
+242 in carrying out their powers and duties in a manner consistent with this article, other
+243 applicable law, and their governing documents;
+- 10 -
+25 LC 59 0123S
+244 (6) Acting as a neutral resource regarding the rights and responsibilities of unit owners
+245 and community associations, including the boards of directors, board members, officers,
+246 and managers of such community associations;
+247 (7) Encouraging and facilitating voluntary meetings between unit owners and community
+248 associations, including the boards of directors, board members, officers, and managers
+249 of such community associations, when the meetings may assist in resolving a dispute
+250 within a residential community;
+251 (8) Assisting with the resolution of disputes between unit owners and their community
+252 associations, or between two or more unit owners within a residential community, if
+253 applicable, including mediating such disputes, issuing opinions with respect to such
+254 disputes, and the making of recommendations on actions that can be taken by unit owners
+255 and community associations to resolve such disputes;
+256 (9) Receiving and compiling complaints and responses in relation to violations of
+257 applicable law and the governing documents of community associations; and
+258 (10) Promulgating and adopting such rules and regulations as may be necessary to carry
+259 out the provisions of this article.
+260 44-3-282.
+261 The ombudsman shall:
+262 (1) Develop policies and procedures to assist unit owners and community associations,
+263 including the boards of directors, board members, officers, and managers of such
+264 community associations, understand their rights and responsibilities as set forth in this
+265 article, under other applicable law, and in their governing documents;
+266 (2) Coordinate and assist in the preparation and adoption of educational and reference
+267 material, and shall endeavor to coordinate with private or volunteer providers of these
+268 services, so that the availability of these resources is made known to the largest possible
+269 audience;
+- 11 -
+25 LC 59 0123S
+270 (3) Assist unit owners in understanding their rights and responsibilities under applicable
+271 law and their governing documents, including, without limitation, publishing materials
+272 related to those rights and responsibilities;
+273 (4) Assist board members and officers of community associations in carrying out their
+274 duties; and
+275 (5) Compile and maintain a registration of each community association operating within
+276 the state which includes, at a minimum, the following information:
+277 (A) The name, address, and phone number of the community association;
+278 (B) The name of each person who is authorized to manage the community association;
+279 (C) The names, mailing addresses, and telephone numbers of the board members of the
+280 community association;
+281 (D) The number of units in the community association;
+282 (E) The total annual assessment required to be paid by unit owners to the community
+283 association; and
+284 (F) The number of foreclosures that were completed by the community association on
+285 units within its residential community.
+286 44-3-283.
+287 (a) The ombudsman shall adopt policies and procedures for submission and receipt of
+288 complaints from unit owners and community associations regarding disputes concerning
+289 the rights and responsibilities of unit owners and community associations or alleged
+290 violations of the provisions of this article, other applicable law, or their governing
+291 documents.
+292 (b) The ombudsman shall publish a form for such complaints which, at a minimum, shall
+293 include the following information:
+294 (1) The unit owner's name;
+295 (2) The name and contact information of the community association;
+- 12 -
+25 LC 59 0123S
+296 (3) The name of the community association management company, if any, and its contact
+297 information, including telephone number and mailing addresses;
+298 (4) Whether a unit owner:
+299 (A) Was informed of the requirement of membership in a community association as
+300 a condition of ownership, including when that information was provided and by whom;
+301 (B) Received a copy of the governing documents of the community association and if
+302 the copy was obtained before or after receiving title to the unit;
+303 (C) Was denied access to the governing documents and, if so, what remedies the unit
+304 owner took to obtain the governing documents; and
+305 (D) Understands his or her rights and obligations under the governing documents;
+306 (5) The nature of the unit owner's or community association's complaint; and
+307 (6) An explanation of:
+308 (A) Any communications between the unit owner and the community association
+309 regarding the complaint;
+310 (B) Any remedies the unit owner or community association sought in relation to the
+311 complaint; and
+312 (C) Any actions the unit owner or community association took concerning the
+313 complaint.
+314 (c) Upon receiving a unit owner's or community association's complaint, the ombudsman
+315 shall:
+316 (1) Provide the complaint to the community association or the unit owner complained
+317 against in a manner that verifies receipt of such complaint by the community association
+318 or unit owner, so the unit owner or community association may determine if the unit
+319 owner or community association desires to make a response to the complaint;
+320 (2) Conduct an investigation into the allegations of the complaint;
+321 (3) Offer to mediate the complaint among the affected parties, and conduct such
+322 mediation if the affected parties agree to participate; and
+- 13 -
+25 LC 59 0123S
+323 (4) If practicable, issue to the affected parties his or her opinions or recommendations
+324 with respect to the complaint. Such opinions or recommendations may include, without
+325 limitation, a proposed course of action, including, but not limited to, waiver of any fines
+326 imposed by a community association on a unit owner.
+327 (d)(1) The ombudsman shall, at least annually, provide a report of all complaints
+328 received and any opinions or recommendations issued by the ombudsman with respect
+329 to such complaints as provided in this Code section to the Governor, the commissioner
+330 of community affairs, the General Assembly, and to the public on the ombudsman's
+331 public website.
+332 (2) The report provided for in this Code section shall include categorized, filterable, and
+333 searchable information compiled from the complaints, responses, and any opinions or
+334 recommendations issued by the ombudsman with respect thereto. The ombudsman shall
+335 redact from such report any personal or private information of the affected parties, such
+336 as names, addresses, and telephone numbers of individuals, contained in the complaints,
+337 responses, or in any opinions or recommendations issued by the ombudsman with respect
+338 thereto.
+339 44-3-284.
+340 (a) If, in connection with a complaint received pursuant to Code Section 44-3-283, the
+341 ombudsman recommends that any fines imposed by a community association against a unit
+342 owner be waived, such recommendation shall be submitted by the board of directors of the
+343 community association to the entire membership of the community association for approval
+344 or rejection. Unless a majority of such members rejects such recommendation within 120
+345 days from the date such recommendation is issued by the ombudsman, such
+346 recommendation shall automatically be approved and such fines imposed by the
+347 community association against the unit owner, together with all late fees, interest, and other
+348 charges associated with such fines, shall be waived. During such 120 day period, the
+- 14 -
+25 LC 59 0123S
+349 community association shall not take any effort to collect such fines and shall not impose
+350 any further late fees, interest, or charges with respect to such fines.
+351 (b) This Code section shall only apply to community associations created pursuant to a
+352 declaration executed on or after July 1, 2025.
+353 44-3-285.
+354 (a) Fifteen percent of the total membership in a community association, or six unit owners,
+355 whichever is greater, may petition the ombudsman to appoint an election monitor to attend
+356 a meeting of the community association to be held for the purpose of electing members of
+357 the community association's board of directors and to conduct at such meeting the election
+358 of such members of the board of directors.
+359 (b) Upon receiving a petition for the appointment of an election monitor from a sufficient
+360 number of unit owners pursuant to subsection (a) of this Code section, the ombudsman
+361 shall appoint an employee of his or her office, a person who specializes in community
+362 association election monitoring, or an attorney licensed to practice in this state as the
+363 election monitor who shall attend the community association meeting and conduct the
+364 election of the members of the board of directors.
+365 (c) The ombudsman shall, by rule or regulation, establish procedures for the appointment
+366 of election monitors under this Code section and the scope and extent of the monitor's role
+367 in the election process.
+368 44-3-286.
+369 (a) Each community association shall register annually with the ombudsman on a form
+370 prescribed by the ombudsman, which shall include the information required to be
+371 maintained pursuant to paragraph (5) of Code Section 44-3-282.
+372 (b) Each community association shall pay an annual registration fee to the ombudsman in
+373 the amount of $25.00 per unit within the residential community of such community
+- 15 -
+25 LC 59 0123S
+374 association. All such annual registration fees received by the ombudsman pursuant to this
+375 subsection shall be paid into the state treasury; provided, however, that it is the intent of
+376 the General Assembly that such fees shall be annually appropriated to the Department of
+377 Community Affairs for the purpose of paying the expenses of the Office of the Community
+378 Association Ombudsman and other costs associated with carrying out the provisions this
+379 part."
+380 SECTION 4.
+381 All laws and parts of laws in conflict with this Act are repealed.
+- 16 -
+[DELETED: 5LTri lcpftiC0t p p c t s o c t t o b1h2o3o w r t s c t c a t p4p5a6a7t8o]
+[DELETED: 5L9B0S1C2s3a p o o u o n a f l r t4s5a6(7d8a9i0f1t2b3s4t5a6t7s8p9t0T1i2a]
+[DELETED: 5L3S4S5l6p7r8(9d0o1w2o f f i t s m a o l f t i o r3p4o5o6t7s8c9a o o t s s b p u t a o t l i a0l1t2t3o4a5S6S]
+[DELETED: 5L7A8P940A1(2r3o4e5s6(7t8t9(0p w a p r c w a a b 1c2r3(4o5w6a7(8t c t ' P O A A f t p o9e0(1c]
+[DELETED: 5L2(  ' m a p o a r c i f a t o3i4b5(6P748(9l0l1(2a3(4c5t c a i w l f i o l6p7a8(9f0f1t243(4u5o]
+[DELETED: 5L6r7s8(9c0u1(2(3(4t5f6t7o8(9r0(1t2(3(4(5a6(7d8(9t0(1t2t]
+[DELETED: 5L3w4p5o6o7r8(9p0t1o2(3f445(6(7b8e9(  ' m a p w i u t e i a s g0e1c2(  ' r s h t s m a p i C3S4(5J6p]
+[DELETED: 5L7(8o9e0(1t2s3(4s5c6i7f8t9(0r1s2a3o4s5s ( o t C s w i a w p t t6c7d8(  I a c a f t w o r a a o9i0t1m2a]
+[DELETED: 5L3a4S5(6(7(8(9u0o f h r u p ( o s ( o t C1s2m3(4a5i6P748(9C0(1a2s3(4(5t6(7p]
+[DELETED: 5L8(9(0o1(2h3(4c5c6b o e i t s u t c o t c o7c849T0i1(2t3(  P a i r a r t t G t4c5H6(7a8o9(0o1(2i3a]
+[DELETED: 5L4(5a6a7(8a9o0w1(2a3a4d5a6(  R a c c a r i r t v o7a8(9o041T2(3i t b o d b m o a m o s4c5a6(7m8s9a]
+[DELETED: 5L0(1l2r3(4d5(6t7(8(9(0c1(2(3a4(5u647(8c9t r a r o u o a c a o a0v o t p o t a o a l o t g1d2(3i4(5(]
+[DELETED: 5L6(7i8(9(0a1(2t3(4o5(6(7(8(9r0(1c2(  A a t u o o c a t c t3c4(5s6(7a8o9o0(1(  O t m t c a t a p a c s2m]
+[DELETED: 5L3(4w5l6i7(  T o s a l a p a r o a c8r9t0o1p2(3s4r5r6a7r8t940(1o2o3c4o5d f t d s r i i b t o s6r s a b a a s f i b t7c8c]
+[DELETED: 5L9c0a1(2d344(5w6a7t8o9(0n1s2a3e4e5(6o7i849(0p b t o w s i t i r t b1m2(3t a o $ p u w t r c o s c]
+[DELETED: 5L4a5s6t7C8A9p0S1A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 59 0123S
+The Senate Committee on Economic Development and Tourism offered the following
+substitute to SB 107:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to
+2 regulation of specialized land transactions, so as to provide for protections of homeowners
+3 in community associations; to revise provisions concerning the foreclosure of liens by
+4 condominium associations and property owner's associations; to provide definitions; to
+5 provide for limitations on the ability of community associations to foreclose liens; to provide
+6 for a right of redemption following a foreclosure sale on a home by a community association;
+7 to provide for the waiver of assessments owed by homeowners to community associations
+8 in the event of death or disability; to provide for action and relief; to create the office of the
+9 Community Association Ombudsman; to provide for powers and duties of the ombudsman;
+10 to provide procedures concerning the submission of complaints to the ombudsman by
+11 homeowner and community associations; to provide procedures concerning the resolution
+12 of such complaints; to provide for the submission of certain recommendations made by the
+13 ombudsman with respect to such complaints to community associations; to provide
+14 procedures concerning the approval or rejection of such recommendations by community
+15 associations; to provide for the monitoring of elections for boards of directors for community
+16 associations; to provide for annual registration of community associations and related fees;
+17 to provide for applicability; to provide for related matters; to repeal conflicting laws; and for
+18 other purposes.
+- 1 -
+
+25 LC 59 0123S
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+20 SECTION 1.
+21 Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to regulation of
+22 specialized land transactions, is amended in Code Section 44-3-109, relating to lien for
+23 assessments, personal obligation of unit owner, notice and foreclosure, lapse, right to
+24 statement of assessments, and effect of failure to furnish statement, by revising subsection (c)
+25 as follows:
+26 "(c) Not less than 30 days after notice is sent by certified mail or statutory overnight
+27 delivery, return receipt requested, to the unit owner both at the address of the unit and at
+28 any other address or addresses which the unit owner may have designated to the association
+29 in writing, the lien may be foreclosed by the association by an action, judgment, and
+30 foreclosure in the same manner as other liens for the improvement of real property, subject
+31 to the limitations set forth in Code Section 44-3-270 and to superior liens or encumbrances,
+32 but any such court order for judicial foreclosure shall not affect the rights of holders of
+33 superior liens or encumbrances to exercise any rights or powers afforded to them under
+34 their security instruments. The notice provided for in this subsection shall specify the
+35 amount of the assessments then due and payable together with authorized late charges and
+36 the rate of interest accruing thereon. No foreclosure action against a lien arising out of this
+37 subsection shall be permitted unless the amount of the lien is at least $2,000.00. Unless
+38 prohibited by the condominium instruments, the association shall have the power to bid on
+39 the unit at any foreclosure sale and to acquire, hold, lease, encumber, and convey the same.
+40 The lien for assessments shall lapse and be of no further effect, as to assessments or
+41 installments thereof, together with late charges and interest applicable thereto, four years
+42 after the assessment or installment first became due and payable."
+- 2 -
+
+25 LC 59 0123S
+43 SECTION 2.
+44 Said chapter is further amended in Code Section 44-3-232, relating to assessments against
+45 lot owners as constituting liens in favor of association, additional charges against lot owners,
+46 procedure for foreclosing lien, and obligation to provide statement of amounts due, by
+47 revising subsection (c) as follows:
+48 "(c) Not less than 30 days after notice is sent by certified mail or statutory overnight
+49 delivery, return receipt requested, to the lot owner both at the address of the lot and at any
+50 other address or addresses which the lot owner may have designated to the association in
+51 writing, the lien may be foreclosed by the association by an action, judgment, and court
+52 order for foreclosure in the same manner as other liens for the improvement of real
+53 property, subject to the limitations set forth in Code Section 44-3-270 and to superior liens
+54 or encumbrances, but any such court order for judicial foreclosure shall not affect the rights
+55 of holders of superior liens or encumbrances to exercise any rights or powers afforded to
+56 them under their security instruments. The notice provided for in this subsection shall
+57 specify the amount of the assessments then due and payable together with authorized late
+58 charges and the rate of interest accruing thereon. No foreclosure action against a lien
+59 arising out of this subsection shall be permitted unless the amount of the lien is at
+60 least $2,000.00. Unless prohibited by the instrument, the association shall have the power
+61 to bid on the lot at any foreclosure sale and to acquire, hold, lease, encumber, and convey
+62 the same. The lien for assessments shall lapse and be of no further effect, as to assessments
+63 or installments thereof, together with late charges and interest applicable thereto, four years
+64 after the assessment or installment first became due and payable."
+65 SECTION 3.
+66 Said chapter is further amended by adding a new article to read as follows:
+- 3 -
+
+25 LC 59 0123S
+67 "ARTICLE 8
+68 Part 1
+69 44-3-260.
+70 As used in this article, the term:
+71 (1) 'Community association' means an organization or corporation of homeowners or
+72 residential property owners of a particular residential community created for the purpose
+73 of managing or regulating such residential community, including, without limitation,
+74 enforcing covenants set forth in a declaration of such residential community. Such term
+75 shall include a condominium association and a property owners' association.
+76 (2) 'Condominium association' means an organization or corporation formed pursuant
+77 to Article 3 of this chapter, the 'Georgia Condominium Act,' for the purpose of exercising
+78 the powers of an association of any condominium under such Act.
+79 (3) 'Declaration' means a recordable instrument creating restrictive covenants upon real
+80 property within a particular residential community which are administered by a
+81 community association in which membership is mandatory for all unit owners in such
+82 residential community.
+83 (4) 'Governing documents' means the instruments that govern the administration or
+84 operation of the community association of a particular residential community, including,
+85 without limitation, the declaration of such residential community and the bylaws and
+86 articles of incorporation of such community association.
+87 (5) 'Property owners' association' means a corporation formed pursuant to Article 6 of
+88 this chapter, the 'Georgia Property Owners' Association Act,' for the purpose of
+89 exercising the powers of an association of property owners under such Act.
+90 (6) 'Residential community' means a residential subdivision, planned community, or
+91 condominium.
+- 4 -
+
+25 LC 59 0123S
+92 (7) 'Unit' means a portion of a residential community intended for any type of
+93 independent ownership and use that is subject to a declaration and managed or regulated
+94 by a community association.
+95 (8) 'Unit owner' means the owner of a unit.
+96 Part 2
+97 44-3-270.
+98 (a) Notwithstanding any provision of law to the contrary, no foreclosure action against a
+99 lien on a unit in favor of a community association shall be permitted if the amount of the
+100 lien:
+101 (1) Is less than the total amount of assessments levied by the community association
+102 against the unit in the preceding 12 months; or
+103 (2) Consists solely of fines imposed by the community association for the failure to
+104 comply with the provisions of the declaration or with the rules or regulations adopted by
+105 the community association, including, without limitation, fines imposed or levied
+106 pursuant to Code Section 44-3-76 or 44-3-223, and any late charges, interest, or costs
+107 associated with such fines.
+108 (b) No community association that brings a foreclosure action against a lien on a unit in
+109 favor of the community association, nor any subsidiary, parent, affiliate, or any current or
+110 former member of the board of such community association, shall be permitted to purchase
+111 the unit at the foreclosure sale.
+112 44-3-271.
+113 (a) A unit owner may redeem a unit from any purchaser at a sale foreclosing a lien on such
+114 unit in favor of a community association, including, without limitation, a lien arising out
+115 of Code Section 44-3-109 or Code Section 44-3-232, by paying the amounts required for
+- 5 -
+
+25 LC 59 0123S
+116 redemption, as set forth in this Code section, not later than 180 days after the date of such
+117 sale.
+118 (b) A person who purchases a unit at a sale foreclosing a lien on such unit in favor of a
+119 community association shall not transfer ownership of such unit to a person other than the
+120 unit owner during the redemption period provided in subsection (a) of this Code section.
+121 (c) To redeem a unit that was purchased at the foreclosure sale, the unit owner shall:
+122 (1) Pay to the community association:
+123 (A) All amounts owed by the unit owner to the community association at the time of
+124 the foreclosure sale, less the sale price received by the community association at the
+125 foreclosure sale, and plus interest on such net amount from the date of foreclosure to
+126 the date of redemption at the rate stated in the declaration for delinquent assessments
+127 or, if no such rate is stated, at an annual interest rate of 10 percent;
+128 (B) The costs incurred by the community association in foreclosing the lien, including
+129 reasonable attorney's fees; and
+130 (C) Any unpaid assessments levied against the unit by the community association after
+131 the date of the foreclosure sale; and
+132 (2) Pay to the person who purchased the unit at the foreclosure sale:
+133 (A) The purchase price paid by such person at the foreclosure sale;
+134 (B) The cost incurred by such person in recording the foreclosure deed and conveying,
+135 after redemption, the unit to the unit owner, including reasonable attorney's fees;
+136 (C) Any assessments levied against the unit by the community association after the
+137 date of the foreclosure sale that were paid by such person; and
+138 (D) Any amounts paid by such person as ad valorem taxes, penalties, and interest on
+139 the unit after the date of the foreclosure sale.
+140 (d) If a unit owner redeems a unit in accordance with the provisions of this Code section,
+141 the purchaser of the unit at the foreclosure sale shall immediately execute and deliver to
+142 the unit owner a deed transferring the unit to the unit owner. If a purchaser fails to comply
+- 6 -
+
+25 LC 59 0123S
+143 with the provisions of this subsection, a unit owner may bring an action against such
+144 purchaser for an order compelling the conveyance of such unit to such unit owner. If a unit
+145 owner is the prevailing party in an action brought pursuant to this subsection, such unit
+146 owner shall be entitled to recover the costs incurred in bringing such action, including
+147 reasonable attorney's fees.
+148 (e) The redemption rights conferred by this Code section are personal privileges and not
+149 property or property rights. The privileges shall be exercised in the manner prescribed in
+150 this Code section and such privileges may not be waived in a deed, declaration, judgment,
+151 or any agreement.
+152 (f) This Code section shall only apply to liens in favor of a community association that are
+153 foreclosed on or after July 1, 2025.
+154 44-3-272.
+155 (a) As used in this Code section, the term:
+156 (1) 'Disability' means a medically determinable physical or mental impairment caused
+157 by injury or illness that renders a person unable to engage in any substantial gainful
+158 employment.
+159 (2) 'Disabled' means a person who is unable to engage in any substantial gainful
+160 employment as a result of a medically determinable physical or mental impairment
+161 caused by injury or illness.
+162 (3) 'Personal representative' shall have the same meaning as provided in Code
+163 Section 53-1-2.
+164 (b)(1) Each community association created pursuant to a declaration executed on or after
+165 July 1, 2025, shall waive all assessments or installments thereof that become due and
+166 payable by any unit owner if such unit owner:
+- 7 -
+
+25 LC 59 0123S
+167 (A) Dies with an insolvent estate, provided that the personal representative of such unit
+168 owner's estate certifies in writing to the community association that such unit owner's
+169 estate is insolvent; or
+170 (B) Becomes disabled, which causes a financial hardship on such unit owner, provided
+171 that such unit owner certifies in writing to the community association that, because of
+172 such disability, he or she is experiencing a financial hardship.
+173 (2) A waiver of such assessments or installments thereof under paragraph (1) of this
+174 subsection shall begin on the date such unit owner dies or becomes disabled and shall
+175 continue for a period of not less than 12 months; provided, however, that, if such waiver
+176 is granted because of a disability of a unit owner, such waiver shall terminate if the
+177 financial hardship on such unit owner resulting from such disability ceases to exist prior
+178 to the expiration of such 12 month period.
+179 (c) If a unit owner previously paid any assessments or installments thereof that are
+180 required to be waived by a community association pursuant to subsection (a) of this Code
+181 section, such unit owner or such unit owner's estate shall be entitled to a refund of such
+182 assessments or installments thereof, provided that the written certification that the estate
+183 of such unit owner is insolvent required under paragraph (1) of subsection (a) of this Code
+184 section or the written certification of financial hardship required under paragraph (2) of
+185 subsection (a) of this Code section, whichever is applicable, was provided to the
+186 community association within 12 months of the date such unit owner died or became
+187 disabled.
+188 (d)(1) If a community association fails to waive or refund any assessments or
+189 installments thereof that are required to be waived or refunded under the provisions of
+190 this Code section, the unit owner or the personal representative of the unit owner's estate
+191 may bring an action against such community association for a declaration that such
+192 assessments or installments thereof are required to be waived and for recovery of any
+- 8 -
+
+25 LC 59 0123S
+193 amount of such assessments or installments thereof that are required to be refunded.
+194 Such relief shall not be granted unless the court determines in such action that:
+195 (A) The unit owner either:
+196 (i) Became disabled, which caused a financial hardship on such unit owner; or
+197 (ii) Died with an insolvent estate; and
+198 (B) The written certification that the estate of such unit owner is insolvent required
+199 under paragraph (1) of subsection (a) of this Code section or the written certification
+200 of financial hardship required under paragraph (2) of subsection (a) of this Code
+201 section, whichever is applicable, was provided to the community association within 12
+202 months of the date such unit owner died or became disabled.
+203 (2) A unit owner or the personal representative of a unit owner's estate who prevails in
+204 an action brought pursuant to this subsection shall be entitled to recover the costs incurred
+205 in bringing such action, including reasonable attorney's fees.
+206 Part 3
+207 44-3-280.
+208 (a) There is created within the Department of Community Affairs the Office of the
+209 Community Association Ombudsman.
+210 (b) The commissioner of community affairs shall appoint the ombudsman, who shall be
+211 an attorney admitted to practice before the Georgia Supreme Court. The ombudsman shall
+212 serve at the pleasure of the commissioner of community affairs.
+213 (c) Neither the ombudsman nor any full-time employee of the ombudsman's office shall:
+214 (1) Actively engage in any other business or profession that directly or indirectly relates
+215 to or conflicts with his or her work in the ombudsman's office;
+216 (2) Serve as the representative, or an executive, officer, or employee, of any political
+217 party, executive committee, or other governing body of a political party;
+- 9 -
+
+25 LC 59 0123S
+218 (3) Receive remuneration for activities on behalf of any candidate for public office;
+219 (4) Engage in soliciting votes or other activities on behalf of a candidate for public
+220 office; or
+221 (5) Become a candidate for election to public office unless he or she first resigns from
+222 his or her office or employment.
+223 (d) The ombudsman shall maintain his or her principal office at a place convenient to the
+224 commissioner of community affairs, which will enable the ombudsman to expeditiously
+225 carry out the duties and functions of his or her office. The ombudsman may establish
+226 branch offices elsewhere in the state upon the concurrence of the commissioner of
+227 community affairs.
+228 44-3-281.
+229 The ombudsman shall have the powers necessary to carry out the duties of his or her office,
+230 including, without limitation:
+231 (1) Employing professional and clerical staff as necessary for the efficient operation of
+232 the office;
+233 (2) Preparing and issuing reports and recommendations to the Governor, the
+234 commissioner of community affairs, the President of the Senate, and the Speaker of the
+235 House of Representatives on any matter or subject within the jurisdiction of this article;
+236 (3) Acting as a liaison between unit owners, or other affected parties, and community
+237 associations, including the boards of directors, board members, officers, and managers
+238 of such community associations;
+239 (4) Monitoring and reviewing procedures and disputes concerning elections or meetings
+240 of community associations;
+241 (5) Providing resources to assist board members and officers of community associations
+242 in carrying out their powers and duties in a manner consistent with this article, other
+243 applicable law, and their governing documents;
+- 10 -
+
+25 LC 59 0123S
+244 (6) Acting as a neutral resource regarding the rights and responsibilities of unit owners
+245 and community associations, including the boards of directors, board members, officers,
+246 and managers of such community associations;
+247 (7) Encouraging and facilitating voluntary meetings between unit owners and community
+248 associations, including the boards of directors, board members, officers, and managers
+249 of such community associations, when the meetings may assist in resolving a dispute
+250 within a residential community;
+251 (8) Assisting with the resolution of disputes between unit owners and their community
+252 associations, or between two or more unit owners within a residential community, if
+253 applicable, including mediating such disputes, issuing opinions with respect to such
+254 disputes, and the making of recommendations on actions that can be taken by unit owners
+255 and community associations to resolve such disputes;
+256 (9) Receiving and compiling complaints and responses in relation to violations of
+257 applicable law and the governing documents of community associations; and
+258 (10) Promulgating and adopting such rules and regulations as may be necessary to carry
+259 out the provisions of this article.
+260 44-3-282.
+261 The ombudsman shall:
+262 (1) Develop policies and procedures to assist unit owners and community associations,
+263 including the boards of directors, board members, officers, and managers of such
+264 community associations, understand their rights and responsibilities as set forth in this
+265 article, under other applicable law, and in their governing documents;
+266 (2) Coordinate and assist in the preparation and adoption of educational and reference
+267 material, and shall endeavor to coordinate with private or volunteer providers of these
+268 services, so that the availability of these resources is made known to the largest possible
+269 audience;
+- 11 -
+
+25 LC 59 0123S
+270 (3) Assist unit owners in understanding their rights and responsibilities under applicable
+271 law and their governing documents, including, without limitation, publishing materials
+272 related to those rights and responsibilities;
+273 (4) Assist board members and officers of community associations in carrying out their
+274 duties; and
+275 (5) Compile and maintain a registration of each community association operating within
+276 the state which includes, at a minimum, the following information:
+277 (A) The name, address, and phone number of the community association;
+278 (B) The name of each person who is authorized to manage the community association;
+279 (C) The names, mailing addresses, and telephone numbers of the board members of the
+280 community association;
+281 (D) The number of units in the community association;
+282 (E) The total annual assessment required to be paid by unit owners to the community
+283 association; and
+284 (F) The number of foreclosures that were completed by the community association on
+285 units within its residential community.
+286 44-3-283.
+287 (a) The ombudsman shall adopt policies and procedures for submission and receipt of
+288 complaints from unit owners and community associations regarding disputes concerning
+289 the rights and responsibilities of unit owners and community associations or alleged
+290 violations of the provisions of this article, other applicable law, or their governing
+291 documents.
+292 (b) The ombudsman shall publish a form for such complaints which, at a minimum, shall
+293 include the following information:
+294 (1) The unit owner's name;
+295 (2) The name and contact information of the community association;
+- 12 -
+
+25 LC 59 0123S
+296 (3) The name of the community association management company, if any, and its contact
+297 information, including telephone number and mailing addresses;
+298 (4) Whether a unit owner:
+299 (A) Was informed of the requirement of membership in a community association as
+300 a condition of ownership, including when that information was provided and by whom;
+301 (B) Received a copy of the governing documents of the community association and if
+302 the copy was obtained before or after receiving title to the unit;
+303 (C) Was denied access to the governing documents and, if so, what remedies the unit
+304 owner took to obtain the governing documents; and
+305 (D) Understands his or her rights and obligations under the governing documents;
+306 (5) The nature of the unit owner's or community association's complaint; and
+307 (6) An explanation of:
+308 (A) Any communications between the unit owner and the community association
+309 regarding the complaint;
+310 (B) Any remedies the unit owner or community association sought in relation to the
+311 complaint; and
+312 (C) Any actions the unit owner or community association took concerning the
+313 complaint.
+314 (c) Upon receiving a unit owner's or community association's complaint, the ombudsman
+315 shall:
+316 (1) Provide the complaint to the community association or the unit owner complained
+317 against in a manner that verifies receipt of such complaint by the community association
+318 or unit owner, so the unit owner or community association may determine if the unit
+319 owner or community association desires to make a response to the complaint;
+320 (2) Conduct an investigation into the allegations of the complaint;
+321 (3) Offer to mediate the complaint among the affected parties, and conduct such
+322 mediation if the affected parties agree to participate; and
+- 13 -
+
+25 LC 59 0123S
+323 (4) If practicable, issue to the affected parties his or her opinions or recommendations
+324 with respect to the complaint. Such opinions or recommendations may include, without
+325 limitation, a proposed course of action, including, but not limited to, waiver of any fines
+326 imposed by a community association on a unit owner.
+327 (d)(1) The ombudsman shall, at least annually, provide a report of all complaints
+328 received and any opinions or recommendations issued by the ombudsman with respect
+329 to such complaints as provided in this Code section to the Governor, the commissioner
+330 of community affairs, the General Assembly, and to the public on the ombudsman's
+331 public website.
+332 (2) The report provided for in this Code section shall include categorized, filterable, and
+333 searchable information compiled from the complaints, responses, and any opinions or
+334 recommendations issued by the ombudsman with respect thereto. The ombudsman shall
+335 redact from such report any personal or private information of the affected parties, such
+336 as names, addresses, and telephone numbers of individuals, contained in the complaints,
+337 responses, or in any opinions or recommendations issued by the ombudsman with respect
+338 thereto.
+339 44-3-284.
+340 (a) If, in connection with a complaint received pursuant to Code Section 44-3-283, the
+341 ombudsman recommends that any fines imposed by a community association against a unit
+342 owner be waived, such recommendation shall be submitted by the board of directors of the
+343 community association to the entire membership of the community association for approval
+344 or rejection. Unless a majority of such members rejects such recommendation within 120
+345 days from the date such recommendation is issued by the ombudsman, such
+346 recommendation shall automatically be approved and such fines imposed by the
+347 community association against the unit owner, together with all late fees, interest, and other
+348 charges associated with such fines, shall be waived. During such 120 day period, the
+- 14 -
+
+25 LC 59 0123S
+349 community association shall not take any effort to collect such fines and shall not impose
+350 any further late fees, interest, or charges with respect to such fines.
+351 (b) This Code section shall only apply to community associations created pursuant to a
+352 declaration executed on or after July 1, 2025.
+353 44-3-285.
+354 (a) Fifteen percent of the total membership in a community association, or six unit owners,
+355 whichever is greater, may petition the ombudsman to appoint an election monitor to attend
+356 a meeting of the community association to be held for the purpose of electing members of
+357 the community association's board of directors and to conduct at such meeting the election
+358 of such members of the board of directors.
+359 (b) Upon receiving a petition for the appointment of an election monitor from a sufficient
+360 number of unit owners pursuant to subsection (a) of this Code section, the ombudsman
+361 shall appoint an employee of his or her office, a person who specializes in community
+362 association election monitoring, or an attorney licensed to practice in this state as the
+363 election monitor who shall attend the community association meeting and conduct the
+364 election of the members of the board of directors.
+365 (c) The ombudsman shall, by rule or regulation, establish procedures for the appointment
+366 of election monitors under this Code section and the scope and extent of the monitor's role
+367 in the election process.
+368 44-3-286.
+369 (a) Each community association shall register annually with the ombudsman on a form
+370 prescribed by the ombudsman, which shall include the information required to be
+371 maintained pursuant to paragraph (5) of Code Section 44-3-282.
+372 (b) Each community association shall pay an annual registration fee to the ombudsman in
+373 the amount of $25.00 per unit within the residential community of such community
+- 15 -
+
+25 LC 59 0123S
+374 association. All such annual registration fees received by the ombudsman pursuant to this
+375 subsection shall be paid into the state treasury; provided, however, that it is the intent of
+376 the General Assembly that such fees shall be annually appropriated to the Department of
+377 Community Affairs for the purpose of paying the expenses of the Office of the Community
+378 Association Ombudsman and other costs associated with carrying out the provisions this
+379 part."
+380 SECTION 4.
+381 All laws and parts of laws in conflict with this Act are repealed.
+- 16 -
+
+[DELETED: 5LTri lcpftiC0t p p c t s o c t t o b1h2o3o w r t s c t c a t p4p5a6a7t8o]
+[DELETED: 5L9B0S1C2s3a p o o u o n a f l r t4s5a6(7d8a9i0f1t2b3s4t5a6t7s8p9t0T1i2a]
+[DELETED: 5L3S4S5l6p7r8(9d0o1w2o f f i t s m a o l f t i o r3p4o5o6t7s8c9a o o t s s b p u t a o t l i a0l1t2t3o4a5S6S]
+[DELETED: 5L7A8P940A1(2r3o4e5s6(7t8t9(0p w a p r c w a a b 1c2r3(4o5w6a7(8t c t ' P O A A f t p o9e0(1c]
+[DELETED: 5L2(  ' m a p o a r c i f a t o3i4b5(6P748(9l0l1(2a3(4c5t c a i w l f i o l6p7a8(9f0f1t243(4u5o]
+[DELETED: 5L6r7s8(9c0u1(2(3(4t5f6t7o8(9r0(1t2(3(4(5a6(7d8(9t0(1t2t]
+[DELETED: 5L3w4p5o6o7r8(9p0t1o2(3f445(6(7b8e9(  ' m a p w i u t e i a s g0e1c2(  ' r s h t s m a p i C3S4(5J6p]
+[DELETED: 5L7(8o9e0(1t2s3(4s5c6i7f8t9(0r1s2a3o4s5s ( o t C s w i a w p t t6c7d8(  I a c a f t w o r a a o9i0t1m2a]
+[DELETED: 5L3a4S5(6(7(8(9u0o f h r u p ( o s ( o t C1s2m3(4a5i6P748(9C0(1a2s3(4(5t6(7p]
+[DELETED: 5L8(9(0o1(2h3(4c5c6b o e i t s u t c o t c o7c849T0i1(2t3(  P a i r a r t t G t4c5H6(7a8o9(0o1(2i3a]
+[DELETED: 5L4(5a6a7(8a9o0w1(2a3a4d5a6(  R a c c a r i r t v o7a8(9o041T2(3i t b o d b m o a m o s4c5a6(7m8s9a]
+[DELETED: 5L0(1l2r3(4d5(6t7(8(9(0c1(2(3a4(5u647(8c9t r a r o u o a c a o a0v o t p o t a o a l o t g1d2(3i4(5(]
+[DELETED: 5L6(7i8(9(0a1(2t3(4o5(6(7(8(9r0(1c2(  A a t u o o c a t c t3c4(5s6(7a8o9o0(1(  O t m t c a t a p a c s2m]
+[DELETED: 5L3(4w5l6i7(  T o s a l a p a r o a c8r9t0o1p2(3s4r5r6a7r8t940(1o2o3c4o5d f t d s r i i b t o s6r s a b a a s f i b t7c8c]
+[DELETED: 5L9c0a1(2d344(5w6a7t8o9(0n1s2a3e4e5(6o7i849(0p b t o w s i t i r t b1m2(3t a o $ p u w t r c o s c]
+[DELETED: 5L4a5s6t7C8A9p0S1A]

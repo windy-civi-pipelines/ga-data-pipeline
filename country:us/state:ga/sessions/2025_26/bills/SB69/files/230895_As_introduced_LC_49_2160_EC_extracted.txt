@@ -1,0 +1,891 @@
+Title: Senate Bill 69
+Official Title: Senate Bill 69
+Number of Sections: 1
+Source: versions - As introduced LC 49 2160-EC
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+25 LC 49 2160-EC
+By: Senators Kennedy of the 18th, Gooch of the 51st, Robertson of the 29th, Anavitarte of
+the 31st, Hatchett of the 50th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 7 and Article 5 of Chapter 11 of Title 9 of the Official Code of Georgia
+2 Annotated, relating to banking and finance, and depositions and discovery under the
+3 "Georgia Civil Practice Act," respectively, so as to regulate third-party litigation financing
+4 practices in this state; to enact a new chapter regulating litigation financing practices; to
+5 provide for definitions; to require and provide for the registration of litigation financiers; to
+6 prohibit any person with relevant affiliations with foreign persons, foreign principals, or
+7 sovereign wealth funds from serving as litigation financiers; to require amended registration
+8 as a litigation financier; to provide for forms and filing fees; to provide for public disclosure
+9 of documents and information; to provide for prohibitions applicable to litigation financiers;
+10 to provide for joint and several liability for litigation financiers; to require litigation financing
+11 contracts to include indemnification provisions; to require litigation financing agreements
+12 to be memorialized in writing by litigation financing contracts; to provide for required
+13 provisions and disclosures to be included in litigation financing contracts; to require and
+14 provide for certain disclosures and acknowledgments in litigation financing agreements; to
+15 provide for exemptions; to provide for the cancellation of litigation financing agreements;
+16 to provide for penalties; to provide for the authority of the commissioner of banking and
+17 finance; to provide for the discovery of litigation financing agreements in civil actions; to
+S. B. 69
+- 1 -
+25 LC 49 2160-EC
+18 provide a short title; to provide for related matters; to provide for an effective date and
+19 applicability; to repeal conflicting laws; and for other purposes.
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+21 SECTION 1.
+22 This Act shall be known and may be cited as the "Georgia Courts Access and Consumer
+23 Protection Act."
+24 SECTION 2.
+25 Title 7 of the Official Code of Georgia Annotated, relating to banking and finance, is
+26 amended by adding a new chapter to read as follows:
+27 "CHAPTER 10
+28 7-10-1.
+29 As used in this chapter, the term:
+30 (1) 'Affiliate' or 'affiliated' means a person that directly, or indirectly through one or more
+31 intermediaries, controls, is controlled by, or is under common control with another
+32 person.
+33 (2) 'Commissioner' means the commissioner of banking and finance.
+34 (3) 'Consumer' means any individual who resides, is present, or is domiciled in this state
+35 or who is or has standing to become a plaintiff, claimant, or complainant in a civil action,
+36 administrative proceeding, legal claim, or other legal proceeding or in pursuit of any
+37 claim or cause of action in this state.
+38 (4) 'Department' means the Department of Banking and Finance.
+S. B. 69
+- 2 -
+25 LC 49 2160-EC
+39 (5) 'Entity' means any domestic or foreign corporation, partnership, limited partnership,
+40 limited liability company, trust, fund, plan, or any other business, enterprise, association,
+41 or organization of any kind or nature.
+42 (6) 'Foreign person' means an individual or an entity that is not:
+43 (A) A citizen of the United States;
+44 (B) An alien lawfully admitted for permanent residence in the United States;
+45 (C) An unincorporated association with a majority of members who are citizens of the
+46 United States or aliens lawfully admitted for permanent residence in the United States;
+47 or
+48 (D) A corporation that is incorporated in the United States.
+49 (7) 'Foreign principal' means:
+50 (A) The government or a government official of any country other than the United
+51 States;
+52 (B) A political subdivision or political party of a country other than the United States;
+53 or
+54 (C) A partnership, association, corporation, organization, or other combination of
+55 persons organized under the laws of or having its principal place of business in a
+56 country other than the United States whose shares or other ownership interest is owned
+57 by the government or a government official of a country other than the United States
+58 or is owned by a political subdivision or political party of a country other than the
+59 United States.
+60 (8) 'Legal representative' means any attorney, group of attorneys, or law firm duly
+61 licensed and authorized to practice law and to represent a consumer in a civil action,
+62 administrative proceeding, legal claim, or other legal proceeding seeking to recover
+63 damages in this state.
+64 (9) 'Litigation financier' means any broker-dealer, institutional investor, issuer, or any
+65 other person engaged in or formed, created, or established for the purpose of engaging
+S. B. 69
+- 3 -
+25 LC 49 2160-EC
+66 in any kind of business or economic activity that involves providing litigation financing
+67 in exchange for consideration of any kind.
+68 (10)(A) 'Litigation financing agreement' or 'litigation financing' means an agreement
+69 in which a litigation financier agrees to provide financing to a consumer or entity that
+70 is or has standing to become a party to or counsel of record for a civil action,
+71 administrative proceeding, legal claim, or other legal proceeding seeking to recover
+72 monetary damages, in exchange for a right to receive payment, which right is
+73 contingent in any respect on the outcome of such action, claim, or proceedings by
+74 settlement, judgment, or otherwise, or on the outcome of any matter within a portfolio
+75 that includes such action, claim, or proceedings and involves the same legal
+76 representative or affiliated representative.
+77 (B) Such term shall not include:
+78 (i) An agreement wherein a legal representative consents to provide legal services on
+79 a contingency fee basis or to advance his or her client's legal costs, and where such
+80 services or costs are provided by the legal representative in accordance with the
+81 Georgia Rules of Professional Conduct maintained and enforced by the State Bar of
+82 Georgia;
+83 (ii) A preexisting contractual obligation to indemnify or defend a party to a civil
+84 action, administrative proceeding, legal claim, or other legal proceeding seeking to
+85 recover monetary damages, or any other legal proceeding;
+86 (iii) Any obligation of a health insurer to pay any sums for healthcare for an injured
+87 person under the terms of a health insurance plan or agreement;
+88 (iv) Any obligation to repay a financial institution, as such term is defined in Code
+89 Section 10-5A-1, for loans made directly to a party to a civil action, administrative
+90 proceeding, legal claim, or other legal proceeding seeking to recover monetary
+91 damages, or such party's legal representative, provided that such repayment of such
+92 loan is not contingent upon the outcome of such action, claim, or proceedings, or on
+S. B. 69
+- 4 -
+25 LC 49 2160-EC
+93 the outcome of any matter within a portfolio that includes such action, claim, or
+94 proceedings, and involves the same legal representative or affiliated legal
+95 representative; or
+96 (v) Funding provided to a nonprofit organization that is funded by private donations,
+97 represents one or more clients on a pro-bono, no-cost basis, and seeks only injunctive
+98 relief on behalf of its clients; provided, however, that the provisions of this division
+99 shall not be construed to prohibit or otherwise affect any award of costs or attorney's
+100 fees to such nonprofit organization seeking only injunctive relief on behalf of a client
+101 that such nonprofit organization represents on a pro-bono, no-cost basis, or to such
+102 client.
+103 (11) 'Litigation financing contract' or 'contract' means a written contract memorializing
+104 the terms and conditions of a litigation financing agreement.
+105 (12) 'Sovereign wealth fund' means an investment fund owned or controlled by a foreign
+106 principal or an agent thereof.
+107 7-10-2.
+108 (a) It is unlawful for a person to engage in litigation financing in this state unless such
+109 person is registered as a litigation financier as provided under this Code section.
+110 (b) If the person registering as a litigation financier is an entity:
+111 (1) Such entity shall be authorized to do business in this state; and
+112 (2) The entity's articles of incorporation, charter, articles of organization, certificate of
+113 limited partnership, or other organizational or governing document shall contain a
+114 statement that such entity is authorized to engage in the business of litigation financing
+115 and is registered as a litigation financier by the department pursuant to this Code section.
+116 (c) To register as a litigation financier, a person shall file with the department a registration
+117 statement setting forth the following:
+118 (1) The legal name of such person;
+S. B. 69
+- 5 -
+25 LC 49 2160-EC
+119 (2) The principal business address and preferred mailing address of such person;
+120 (3) The telephone number and email address through which such person may be
+121 contacted;
+122 (4) The name, principal business address, and preferred mailing address of such person's
+123 registered agent that is authorized to accept service of process on behalf of such person;
+124 (5) The name, principal business address, and citizenship or country of incorporation or
+125 registration of any foreign person, foreign principal, or sovereign wealth fund affiliated
+126 with the person seeking to register as a litigation financier under this Code section in any
+127 capacity directly or indirectly related to such person's litigation financing business; and
+128 (6) Any other information deemed necessary by the department.
+129 (d) If the person seeking to register as a litigation financier is an entity, such entity shall
+130 file with the department a registration statement that provides, with respect to each person
+131 that directly or indirectly owns, controls, holds with the power to vote, or holds proxies
+132 representing 5 percent or more of the voting shares of the litigation financier, the following:
+133 (1) The legal name of each such person;
+134 (2) The principal business address and preferred mailing address of each such person;
+135 (3) If the person is an individual:
+136 (A) Such individual's occupation;
+137 (B) Any offices and positions held with the person seeking to register as a litigation
+138 financier during the past five years;
+139 (C) Any conviction of a crime other than misdemeanor traffic violations during the
+140 past ten years; and
+141 (D) The name, principal business address, and citizenship or country of incorporation
+142 or registration of any foreign person, foreign principal, or sovereign wealth fund
+143 affiliated with such individual seeking to register as a litigation financier under this
+144 Code section in any capacity directly or indirectly related to such individual's litigation
+145 financing business;
+S. B. 69
+- 6 -
+25 LC 49 2160-EC
+146 (4) If the person is an entity:
+147 (A) The nature of the entity's business operations during the past five years or a
+148 description of the business intended to be undertaken by the entity and such entity's
+149 subsidiaries, if any;
+150 (B) A list of all individuals who are or who have been selected to become directors or
+151 officers of the entity and each subsidiary of the entity, if any. Such list shall include for
+152 each individual the information required by paragraph (3) of this subsection; and
+153 (C) The name, principal business address, and citizenship or country of incorporation
+154 or registration of any foreign person, foreign principal, or sovereign wealth fund
+155 affiliated with the entity seeking to register as a litigation financier under this Code
+156 section in any capacity directly or indirectly related to such entity's litigation financing
+157 business; and
+158 (5) Any other information deemed necessary by the department.
+159 (e) No person shall be registered as a litigation financier or shall engage in litigation
+160 financing in this state that is, in any capacity directly or indirectly related to such person's
+161 litigation financing business, affiliated with any foreign person, foreign principal, or
+162 sovereign wealth fund of a foreign government or foreign nongovernment person
+163 designated by the United States Secretary of Commerce as a foreign adversary pursuant to
+164 15 C.F.R. Section 7.4.
+165 (f) A person subject to registration under this Code section shall file, within 30 days of any
+166 change to the most recently filed registration or within 30 days of when such registration
+167 becomes inaccurate or incomplete in any respect, an amended registration with the
+168 department.
+169 (g) The commissioner is authorized to prescribe the forms and the filing fees that he or she
+170 deems necessary for the purposes of this chapter.
+171 (h) All documents and information filed with the department pursuant to this Code section
+172 are public records subject to disclosure pursuant to Article 4 of Chapter 18 of Title 50.
+S. B. 69
+- 7 -
+25 LC 49 2160-EC
+173 7-10-3.
+174 (a) A litigation financier shall not:
+175 (1) Direct, or make any decisions with respect to, the course of any civil action,
+176 administrative proceeding, legal claim, or other legal proceeding for which such litigation
+177 financier has provided litigation financing, or any settlement or other disposition thereof.
+178 Such prohibition includes, but is not limited to, decisions in appointing or changing legal
+179 representatives, choice or use of expert witnesses, and litigation strategy. All rights to
+180 make decisions with respect to the course and settlement or other disposition of the
+181 subject civil action, administrative proceeding, legal claim, or other legal proceeding shall
+182 remain solely with the parties to such action, claim, or proceedings and their legal
+183 representatives. The provisions of this paragraph shall be strictly construed in favor of
+184 the consumer and against the litigation financier;
+185 (2) Pay or offer commissions, referral fees, rebates, or other forms of consideration to
+186 any person, including, but not limited to, an attorney or any employee of an attorney or
+187 a law firm, in exchange for referring a consumer to a litigation financier;
+188 (3) Accept any commissions, referral fees, rebates, or other forms of consideration from
+189 any person, including, but not limited to, an attorney or any employee of an attorney or
+190 a law firm, for providing any goods or rendering any services to the consumer;
+191 (4) Contract for, receive, or recover, whether directly or indirectly, any amount greater
+192 than an amount equal to the share of the proceeds collectively recovered by the plaintiffs
+193 or claimants in a civil action, administrative proceeding, legal claim, or other legal
+194 proceeding seeking to recover monetary damages financed by a litigation financing
+195 agreement after the payment of any attorney's fees and costs owed in connection to such
+196 action, claim, or proceedings;
+197 (5) Advertise false or misleading information regarding its products or services;
+198 (6) Refer or require any consumer to hire or engage any person providing any goods or
+199 rendering any services to the consumer;
+S. B. 69
+- 8 -
+25 LC 49 2160-EC
+200 (7) Fail to promptly deliver a fully completed and signed litigation financing contract to
+201 the consumer and the consumer's legal representative;
+202 (8) Attempt to secure a remedy or obtain a waiver of any remedy, including, but not
+203 limited to, compensatory, statutory, or punitive damages, that the consumer may or may
+204 not be entitled to pursue or recover otherwise;
+205 (9) Offer or provide legal advice to the consumer;
+206 (10) Assign or securitize a litigation financing agreement in whole or in part; or
+207 (11) Report a consumer to a credit reporting agency if insufficient funds remain to repay
+208 the litigation financier in full from the proceeds received from any judgment, award,
+209 settlement, verdict, or other form of monetary relief obtained in a civil action,
+210 administrative proceeding, legal claim, or other legal proceeding that is the subject of the
+211 litigation financing agreement.
+212 (b) No person that provides any goods or renders any services to the consumer shall have
+213 a financial interest in litigation financing provided by a litigation financier to such
+214 consumer, and no such person shall receive any commissions, referral fees, rebates, or
+215 other forms of consideration from any litigation financier or the litigation financier's agents,
+216 employees, owners, or affiliates.
+217 7-10-4.
+218 (a) A litigation financier shall be jointly and severally liable for any award or order
+219 imposing or assessing costs or monetary sanctions against a consumer arising from or
+220 relating to any civil action, administrative proceeding, legal claim, or other legal
+221 proceeding for which the litigation financier is providing litigation financing.
+222 (b) In each litigation financing contract, the litigation financier shall agree to indemnify,
+223 and shall indemnify even without such agreement, the plaintiffs and claimants to the civil
+224 action, administrative proceeding, legal claim, or other legal proceeding that is the subject
+225 of such litigation financing agreement and such plaintiffs' and claimants' legal
+S. B. 69
+- 9 -
+25 LC 49 2160-EC
+226 representatives against any adverse costs, attorney's fees, damages, or sanctions that may
+227 be ordered or awarded against such persons in such action, claim, or proceedings; provided,
+228 however, that such indemnification shall not be required or enforceable for adverse costs,
+229 attorney's fees, damages, or sanctions that the litigation financier can show resulted from
+230 the intentional misconduct of such plaintiffs or claimants or their legal representatives.
+231 7-10-5.
+232 (a) The terms and conditions of a litigation financing agreement shall be set forth in a fully
+233 completed, written litigation financing contract with no material terms or conditions
+234 omitted, and such contract shall contain all material terms and conditions at the time it is
+235 signed by any party.
+236 (b) Upon execution of a litigation financing contract, a litigation financier shall not amend
+237 the terms or conditions of the litigation financing agreement that is memorialized by such
+238 contract without full disclosure to and prior written consent of all parties to such litigation
+239 financing agreement.
+240 (c) Each litigation financing contract shall set forth the name, principal business address,
+241 and preferred mailing address of the litigation financier on the first page of such contract,
+242 and the following disclosures shall be typed in at least 14 point bold font and placed clearly
+243 and conspicuously immediately above the consumer's signature line in the litigation
+244 financing contract:
+245 'IMPORTANT DISCLOSURES -- PLEASE READ CAREFULLY
+246 1. Right to Cancellation: You, the consumer, or your legal representative may cancel
+247 this litigation financing agreement without penalty or further obligation within
+248 five (5) business days from the date you sign this contract or the date you receive
+249 financing from the litigation financier, whichever date is later. You or your legal
+250 representative may cancel this litigation financing agreement by sending a notice of
+251 cancellation to the litigation financier and returning to the litigation financier any
+S. B. 69
+- 10 -
+25 LC 49 2160-EC
+252 funds received from the litigation financier at the litigation financier's preferred
+253 mailing address set forth on page 1 of this contract.
+254 2. The maximum amount the litigation financier may receive or recover from any
+255 contingent payment provided for in this litigation financing agreement shall be no
+256 more than an amount equal to the share of the proceeds collectively recovered by the
+257 plaintiffs or claimants in a civil action, administrative proceeding, legal claim, or
+258 other legal proceeding seeking to recover monetary damages financed by this
+259 litigation financing agreement after the payment of any attorney's fees and costs owed
+260 in connection to such action, claim, or proceedings.
+261 3. The litigation financier agrees that it has no right to, and will not demand, request,
+262 receive, or exercise any right to, influence, affect, or otherwise make any decision in
+263 the handling, conduct, administration, litigation, settlement, or resolution of your civil
+264 action, administrative proceeding, legal claim, other legal proceeding. All of these
+265 rights remain solely with you and your legal representative.
+266 4. You, the consumer, are not required by the terms of this litigation financing
+267 agreement to continue to be represented by any particular legal representative, and the
+268 litigation financing agreement does not include any right for the litigation financier,
+269 any legal representative, or any other person to claim or seek to recover any
+270 assessment, charge, fee, penalty, or damages of any kind if you elect to change legal
+271 representatives at any time.
+272 5. If there is no recovery of any money from your civil action, administrative
+273 proceeding, legal claim, or other legal proceeding, or if there is not enough money to
+274 satisfy in full the portion assigned to the litigation financier, you will not owe
+275 anything in excess of your recovery.
+276 6. You are entitled to a fully completed litigation financing contract with no material
+277 terms or conditions omitted prior to signing. Before signing the litigation financing
+S. B. 69
+- 11 -
+25 LC 49 2160-EC
+278 contract, or authorizing anyone to sign it on your behalf, you should read the contract
+279 completely and consult an attorney.'
+280 (d) Only the consumer shall be authorized to execute a litigation financing contract on his
+281 or her own behalf, except in such cases where the consumer lacks the legal capacity to
+282 execute a contract. The consumer's legal representative in the civil action, administrative
+283 proceeding, legal claim, or other legal proceeding seeking to recover monetary damages
+284 financed by the corresponding litigation financing agreement shall not execute a litigation
+285 financing contract on behalf of the consumer. A litigation financing contract executed by
+286 such legal representative on behalf of such consumer shall be void and unenforceable as
+287 a matter of law.
+288 (e) If the consumer is represented by a legal representative in the civil action,
+289 administrative proceeding, legal claim, or other legal proceeding that is the subject of the
+290 litigation financing agreement, the legal representative shall acknowledge in the litigation
+291 financing contract that the legal representative and the legal representative's employer and
+292 employees have not received or paid a commission, referral fee, rebate, or any other
+293 consideration from or to the litigation financier and have no obligation to do so in the
+294 future.
+295 (f) If the consumer's legal representative is a party to a litigation financing agreement
+296 related to the consumer's civil action, administrative proceeding, legal claim, or other legal
+297 proceeding that is the subject of the consumer's litigation financing agreement, the legal
+298 representative shall disclose and deliver a copy of his or her litigation financing contract
+299 to the consumer. Following such disclosure and delivery, the consumer shall sign an
+300 acknowledgment that the consumer has read and understands the terms and conditions of
+301 his or her legal representative's litigation financing contract. Such consumer shall be
+302 provided with a copy of such signed acknowledgment.
+S. B. 69
+- 12 -
+25 LC 49 2160-EC
+303 7-10-6.
+304 The provisions of this chapter shall not apply to:
+305 (1) A nonprofit entity that provides litigation financing, directly or indirectly, for the
+306 benefit of such nonprofit entity or one or more of its members without receiving, in
+307 consideration for the litigation financing:
+308 (A) The payment of interest, fees, or other consideration; or
+309 (B) Except for in-house counsel of such nonprofit entity, any right to recovery or
+310 payment from the amount of any judgment, award, settlement, verdict, or other form
+311 of monetary relief obtained in the civil action, administrative proceeding, legal claim,
+312 or other legal proceeding;
+313 (2) Any litigation financing provided by an entity engaged in commerce or business
+314 activity; provided, however, that this exemption shall apply only if such entity does not:
+315 (A) Charge, contract for, collect, or receive any interest, fees, or other consideration;
+316 (B) Retain or receive any financial interest in the outcome of the civil action,
+317 administrative proceeding, legal claim, or other legal proceeding; or
+318 (C) Retain or receive any right to recovery or payment from the amount of any
+319 judgment, award, settlement, verdict, or other form of monetary relief obtained in the
+320 civil action, administrative proceeding, legal claim, or other legal proceeding; or
+321 (3) A regulated lender that does not receive, in consideration for loaning money to any
+322 person, a right to receive payment from the value of any proceeds or other consideration
+323 realized from any judgment award, settlement, verdict, or other form of monetary relief
+324 any person may receive or recover in relation to any civil action, administrative
+325 proceeding, legal claim, or other legal proceeding.
+S. B. 69
+- 13 -
+25 LC 49 2160-EC
+326 7-10-7.
+327 Any violation of this chapter by a litigation financier renders the litigation financing
+328 agreement void and unenforceable by such litigation financier or any successor-in-interest
+329 to the litigation financing agreement.
+330 7-10-8.
+331 (a) It is unlawful for a litigation financier to enter into or offer to enter into a litigation
+332 financing agreement unless such litigation financier is registered under this chapter.
+333 (b) A person that willfully violates this chapter shall be guilty of a felony and upon
+334 conviction thereof, shall be imprisoned not less than one nor more than five years, or fined
+335 not more than $10,000.00, or both; provided, however, that on the recommendation of the
+336 jury trying the case, when such recommendation is approved by the judge presiding on the
+337 trial, such crime shall be punished as a misdemeanor. If the judge trying the case deems
+338 it proper, such judge may, in fixing the punishment, reduce such felony to a misdemeanor.
+339 (c) The Attorney General or the proper prosecuting attorney with or without a reference
+340 from the commissioner may institute criminal proceedings under this chapter.
+341 (d) This chapter does not limit the power of this state to punish a person for conduct that
+342 constitutes a crime under other laws of this state.
+343 7-10-9.
+344 The commissioner is authorized to adopt rules and other policies in overseeing the practice
+345 of litigation financing consistent with this chapter."
+346 SECTION 3.
+347 Article 5 of Chapter 11 of Title 9 of the Official Code of Georgia Annotated, relating to
+348 depositions and discovery under the "Georgia Civil Practice Act," is amended in Code
+S. B. 69
+- 14 -
+25 LC 49 2160-EC
+349 Section 9-11-26, relating to general provisions governing discovery, by adding a new
+350 paragraph to subsection (b) to read as follows:
+351 "(2.1)(A) Litigation financing agreement. A party may obtain discovery of the
+352 existence and terms and conditions of any litigation financing agreement, as such term
+353 is defined in Code Section 7-10-1, the subject of which is or includes the pending
+354 action.
+355 (B) Information concerning the litigation financing agreement is not by reason of
+356 disclosure admissible in evidence at trial; provided, however, that nothing in this
+357 subparagraph shall be construed to limit the admissibility of such information as
+358 evidence of a party's claim or defense;"
+359 SECTION 4.
+360 This Act shall become effective upon its approval by the Governor or upon its becoming law
+361 without such approval and shall apply to:
+362 (1) Any civil action, administrative proceedings, legal claims, or other legal proceedings
+363 commenced on or after the effective date of this Act; and
+364 (2) Any contracts entered into on or after the effective date of this Act.
+365 SECTION 5.
+366 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 69
+- 15 -
+[DELETED: 5L r t b a f a d a d u t]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L o h s t b a p t o c o r f a c a d i e f a r t r p w r i i s a c o p a i t s l l c o o l p s t r m]
+[DELETED: 5L a i t s l r o a l p o o o o g d s c ]
+[DELETED: 5L  T t n a e a t w s p m b r o a f p f p o s w f]
+[DELETED: 5L r o a f p f p o s w f f b a w a f p f p o w f o a f g o f n p i o i i a r a a r w t]
+[DELETED: 5L  D o m a d w r t t c o a c a]
+[DELETED: 5L v o o f o m r o i a c a f i i l f p b a l f t s t a c a a p l c o o l s l f a a s p a c l]
+[DELETED: 5L w l f c w n m t o c c i a t c s l i t l l f a w p o f o w]
+[DELETED: 5L l p s t r m d f b t l r o a o p t c o s t r a  I t i n r o a m f y c a a i f t p a t t l f y w n o]
+[DELETED: 5L  I t c i r b a l r i t c a]
+[DELETED: 5L  R o r a f i i t o o t c a p m r o r i r t a c a a]
+[DELETED: 5L]
+[DELETED: 5L 9 r t g p g d b a a n p s b c t l t a o s i a]
+
+
+================================================================================
+
+Raw Text:
+25 LC 49 2160-EC
+Senate Bill 69
+By: Senators Kennedy of the 18th, Gooch of the 51st, Robertson of the 29th, Anavitarte of
+the 31st, Hatchett of the 50th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 7 and Article 5 of Chapter 11 of Title 9 of the Official Code of Georgia
+2 Annotated, relating to banking and finance, and depositions and discovery under the
+3 "Georgia Civil Practice Act," respectively, so as to regulate third-party litigation financing
+4 practices in this state; to enact a new chapter regulating litigation financing practices; to
+5 provide for definitions; to require and provide for the registration of litigation financiers; to
+6 prohibit any person with relevant affiliations with foreign persons, foreign principals, or
+7 sovereign wealth funds from serving as litigation financiers; to require amended registration
+8 as a litigation financier; to provide for forms and filing fees; to provide for public disclosure
+9 of documents and information; to provide for prohibitions applicable to litigation financiers;
+10 to provide for joint and several liability for litigation financiers; to require litigation financing
+11 contracts to include indemnification provisions; to require litigation financing agreements
+12 to be memorialized in writing by litigation financing contracts; to provide for required
+13 provisions and disclosures to be included in litigation financing contracts; to require and
+14 provide for certain disclosures and acknowledgments in litigation financing agreements; to
+15 provide for exemptions; to provide for the cancellation of litigation financing agreements;
+16 to provide for penalties; to provide for the authority of the commissioner of banking and
+17 finance; to provide for the discovery of litigation financing agreements in civil actions; to
+S. B. 69
+- 1 -
+
+25 LC 49 2160-EC
+18 provide a short title; to provide for related matters; to provide for an effective date and
+19 applicability; to repeal conflicting laws; and for other purposes.
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+21 SECTION 1.
+22 This Act shall be known and may be cited as the "Georgia Courts Access and Consumer
+23 Protection Act."
+24 SECTION 2.
+25 Title 7 of the Official Code of Georgia Annotated, relating to banking and finance, is
+26 amended by adding a new chapter to read as follows:
+27 "CHAPTER 10
+28 7-10-1.
+29 As used in this chapter, the term:
+30 (1) 'Affiliate' or 'affiliated' means a person that directly, or indirectly through one or more
+31 intermediaries, controls, is controlled by, or is under common control with another
+32 person.
+33 (2) 'Commissioner' means the commissioner of banking and finance.
+34 (3) 'Consumer' means any individual who resides, is present, or is domiciled in this state
+35 or who is or has standing to become a plaintiff, claimant, or complainant in a civil action,
+36 administrative proceeding, legal claim, or other legal proceeding or in pursuit of any
+37 claim or cause of action in this state.
+38 (4) 'Department' means the Department of Banking and Finance.
+S. B. 69
+- 2 -
+
+25 LC 49 2160-EC
+39 (5) 'Entity' means any domestic or foreign corporation, partnership, limited partnership,
+40 limited liability company, trust, fund, plan, or any other business, enterprise, association,
+41 or organization of any kind or nature.
+42 (6) 'Foreign person' means an individual or an entity that is not:
+43 (A) A citizen of the United States;
+44 (B) An alien lawfully admitted for permanent residence in the United States;
+45 (C) An unincorporated association with a majority of members who are citizens of the
+46 United States or aliens lawfully admitted for permanent residence in the United States;
+47 or
+48 (D) A corporation that is incorporated in the United States.
+49 (7) 'Foreign principal' means:
+50 (A) The government or a government official of any country other than the United
+51 States;
+52 (B) A political subdivision or political party of a country other than the United States;
+53 or
+54 (C) A partnership, association, corporation, organization, or other combination of
+55 persons organized under the laws of or having its principal place of business in a
+56 country other than the United States whose shares or other ownership interest is owned
+57 by the government or a government official of a country other than the United States
+58 or is owned by a political subdivision or political party of a country other than the
+59 United States.
+60 (8) 'Legal representative' means any attorney, group of attorneys, or law firm duly
+61 licensed and authorized to practice law and to represent a consumer in a civil action,
+62 administrative proceeding, legal claim, or other legal proceeding seeking to recover
+63 damages in this state.
+64 (9) 'Litigation financier' means any broker-dealer, institutional investor, issuer, or any
+65 other person engaged in or formed, created, or established for the purpose of engaging
+S. B. 69
+- 3 -
+
+25 LC 49 2160-EC
+66 in any kind of business or economic activity that involves providing litigation financing
+67 in exchange for consideration of any kind.
+68 (10)(A) 'Litigation financing agreement' or 'litigation financing' means an agreement
+69 in which a litigation financier agrees to provide financing to a consumer or entity that
+70 is or has standing to become a party to or counsel of record for a civil action,
+71 administrative proceeding, legal claim, or other legal proceeding seeking to recover
+72 monetary damages, in exchange for a right to receive payment, which right is
+73 contingent in any respect on the outcome of such action, claim, or proceedings by
+74 settlement, judgment, or otherwise, or on the outcome of any matter within a portfolio
+75 that includes such action, claim, or proceedings and involves the same legal
+76 representative or affiliated representative.
+77 (B) Such term shall not include:
+78 (i) An agreement wherein a legal representative consents to provide legal services on
+79 a contingency fee basis or to advance his or her client's legal costs, and where such
+80 services or costs are provided by the legal representative in accordance with the
+81 Georgia Rules of Professional Conduct maintained and enforced by the State Bar of
+82 Georgia;
+83 (ii) A preexisting contractual obligation to indemnify or defend a party to a civil
+84 action, administrative proceeding, legal claim, or other legal proceeding seeking to
+85 recover monetary damages, or any other legal proceeding;
+86 (iii) Any obligation of a health insurer to pay any sums for healthcare for an injured
+87 person under the terms of a health insurance plan or agreement;
+88 (iv) Any obligation to repay a financial institution, as such term is defined in Code
+89 Section 10-5A-1, for loans made directly to a party to a civil action, administrative
+90 proceeding, legal claim, or other legal proceeding seeking to recover monetary
+91 damages, or such party's legal representative, provided that such repayment of such
+92 loan is not contingent upon the outcome of such action, claim, or proceedings, or on
+S. B. 69
+- 4 -
+
+25 LC 49 2160-EC
+93 the outcome of any matter within a portfolio that includes such action, claim, or
+94 proceedings, and involves the same legal representative or affiliated legal
+95 representative; or
+96 (v) Funding provided to a nonprofit organization that is funded by private donations,
+97 represents one or more clients on a pro-bono, no-cost basis, and seeks only injunctive
+98 relief on behalf of its clients; provided, however, that the provisions of this division
+99 shall not be construed to prohibit or otherwise affect any award of costs or attorney's
+100 fees to such nonprofit organization seeking only injunctive relief on behalf of a client
+101 that such nonprofit organization represents on a pro-bono, no-cost basis, or to such
+102 client.
+103 (11) 'Litigation financing contract' or 'contract' means a written contract memorializing
+104 the terms and conditions of a litigation financing agreement.
+105 (12) 'Sovereign wealth fund' means an investment fund owned or controlled by a foreign
+106 principal or an agent thereof.
+107 7-10-2.
+108 (a) It is unlawful for a person to engage in litigation financing in this state unless such
+109 person is registered as a litigation financier as provided under this Code section.
+110 (b) If the person registering as a litigation financier is an entity:
+111 (1) Such entity shall be authorized to do business in this state; and
+112 (2) The entity's articles of incorporation, charter, articles of organization, certificate of
+113 limited partnership, or other organizational or governing document shall contain a
+114 statement that such entity is authorized to engage in the business of litigation financing
+115 and is registered as a litigation financier by the department pursuant to this Code section.
+116 (c) To register as a litigation financier, a person shall file with the department a registration
+117 statement setting forth the following:
+118 (1) The legal name of such person;
+S. B. 69
+- 5 -
+
+25 LC 49 2160-EC
+119 (2) The principal business address and preferred mailing address of such person;
+120 (3) The telephone number and email address through which such person may be
+121 contacted;
+122 (4) The name, principal business address, and preferred mailing address of such person's
+123 registered agent that is authorized to accept service of process on behalf of such person;
+124 (5) The name, principal business address, and citizenship or country of incorporation or
+125 registration of any foreign person, foreign principal, or sovereign wealth fund affiliated
+126 with the person seeking to register as a litigation financier under this Code section in any
+127 capacity directly or indirectly related to such person's litigation financing business; and
+128 (6) Any other information deemed necessary by the department.
+129 (d) If the person seeking to register as a litigation financier is an entity, such entity shall
+130 file with the department a registration statement that provides, with respect to each person
+131 that directly or indirectly owns, controls, holds with the power to vote, or holds proxies
+132 representing 5 percent or more of the voting shares of the litigation financier, the following:
+133 (1) The legal name of each such person;
+134 (2) The principal business address and preferred mailing address of each such person;
+135 (3) If the person is an individual:
+136 (A) Such individual's occupation;
+137 (B) Any offices and positions held with the person seeking to register as a litigation
+138 financier during the past five years;
+139 (C) Any conviction of a crime other than misdemeanor traffic violations during the
+140 past ten years; and
+141 (D) The name, principal business address, and citizenship or country of incorporation
+142 or registration of any foreign person, foreign principal, or sovereign wealth fund
+143 affiliated with such individual seeking to register as a litigation financier under this
+144 Code section in any capacity directly or indirectly related to such individual's litigation
+145 financing business;
+S. B. 69
+- 6 -
+
+25 LC 49 2160-EC
+146 (4) If the person is an entity:
+147 (A) The nature of the entity's business operations during the past five years or a
+148 description of the business intended to be undertaken by the entity and such entity's
+149 subsidiaries, if any;
+150 (B) A list of all individuals who are or who have been selected to become directors or
+151 officers of the entity and each subsidiary of the entity, if any. Such list shall include for
+152 each individual the information required by paragraph (3) of this subsection; and
+153 (C) The name, principal business address, and citizenship or country of incorporation
+154 or registration of any foreign person, foreign principal, or sovereign wealth fund
+155 affiliated with the entity seeking to register as a litigation financier under this Code
+156 section in any capacity directly or indirectly related to such entity's litigation financing
+157 business; and
+158 (5) Any other information deemed necessary by the department.
+159 (e) No person shall be registered as a litigation financier or shall engage in litigation
+160 financing in this state that is, in any capacity directly or indirectly related to such person's
+161 litigation financing business, affiliated with any foreign person, foreign principal, or
+162 sovereign wealth fund of a foreign government or foreign nongovernment person
+163 designated by the United States Secretary of Commerce as a foreign adversary pursuant to
+164 15 C.F.R. Section 7.4.
+165 (f) A person subject to registration under this Code section shall file, within 30 days of any
+166 change to the most recently filed registration or within 30 days of when such registration
+167 becomes inaccurate or incomplete in any respect, an amended registration with the
+168 department.
+169 (g) The commissioner is authorized to prescribe the forms and the filing fees that he or she
+170 deems necessary for the purposes of this chapter.
+171 (h) All documents and information filed with the department pursuant to this Code section
+172 are public records subject to disclosure pursuant to Article 4 of Chapter 18 of Title 50.
+S. B. 69
+- 7 -
+
+25 LC 49 2160-EC
+173 7-10-3.
+174 (a) A litigation financier shall not:
+175 (1) Direct, or make any decisions with respect to, the course of any civil action,
+176 administrative proceeding, legal claim, or other legal proceeding for which such litigation
+177 financier has provided litigation financing, or any settlement or other disposition thereof.
+178 Such prohibition includes, but is not limited to, decisions in appointing or changing legal
+179 representatives, choice or use of expert witnesses, and litigation strategy. All rights to
+180 make decisions with respect to the course and settlement or other disposition of the
+181 subject civil action, administrative proceeding, legal claim, or other legal proceeding shall
+182 remain solely with the parties to such action, claim, or proceedings and their legal
+183 representatives. The provisions of this paragraph shall be strictly construed in favor of
+184 the consumer and against the litigation financier;
+185 (2) Pay or offer commissions, referral fees, rebates, or other forms of consideration to
+186 any person, including, but not limited to, an attorney or any employee of an attorney or
+187 a law firm, in exchange for referring a consumer to a litigation financier;
+188 (3) Accept any commissions, referral fees, rebates, or other forms of consideration from
+189 any person, including, but not limited to, an attorney or any employee of an attorney or
+190 a law firm, for providing any goods or rendering any services to the consumer;
+191 (4) Contract for, receive, or recover, whether directly or indirectly, any amount greater
+192 than an amount equal to the share of the proceeds collectively recovered by the plaintiffs
+193 or claimants in a civil action, administrative proceeding, legal claim, or other legal
+194 proceeding seeking to recover monetary damages financed by a litigation financing
+195 agreement after the payment of any attorney's fees and costs owed in connection to such
+196 action, claim, or proceedings;
+197 (5) Advertise false or misleading information regarding its products or services;
+198 (6) Refer or require any consumer to hire or engage any person providing any goods or
+199 rendering any services to the consumer;
+S. B. 69
+- 8 -
+
+25 LC 49 2160-EC
+200 (7) Fail to promptly deliver a fully completed and signed litigation financing contract to
+201 the consumer and the consumer's legal representative;
+202 (8) Attempt to secure a remedy or obtain a waiver of any remedy, including, but not
+203 limited to, compensatory, statutory, or punitive damages, that the consumer may or may
+204 not be entitled to pursue or recover otherwise;
+205 (9) Offer or provide legal advice to the consumer;
+206 (10) Assign or securitize a litigation financing agreement in whole or in part; or
+207 (11) Report a consumer to a credit reporting agency if insufficient funds remain to repay
+208 the litigation financier in full from the proceeds received from any judgment, award,
+209 settlement, verdict, or other form of monetary relief obtained in a civil action,
+210 administrative proceeding, legal claim, or other legal proceeding that is the subject of the
+211 litigation financing agreement.
+212 (b) No person that provides any goods or renders any services to the consumer shall have
+213 a financial interest in litigation financing provided by a litigation financier to such
+214 consumer, and no such person shall receive any commissions, referral fees, rebates, or
+215 other forms of consideration from any litigation financier or the litigation financier's agents,
+216 employees, owners, or affiliates.
+217 7-10-4.
+218 (a) A litigation financier shall be jointly and severally liable for any award or order
+219 imposing or assessing costs or monetary sanctions against a consumer arising from or
+220 relating to any civil action, administrative proceeding, legal claim, or other legal
+221 proceeding for which the litigation financier is providing litigation financing.
+222 (b) In each litigation financing contract, the litigation financier shall agree to indemnify,
+223 and shall indemnify even without such agreement, the plaintiffs and claimants to the civil
+224 action, administrative proceeding, legal claim, or other legal proceeding that is the subject
+225 of such litigation financing agreement and such plaintiffs' and claimants' legal
+S. B. 69
+- 9 -
+
+25 LC 49 2160-EC
+226 representatives against any adverse costs, attorney's fees, damages, or sanctions that may
+227 be ordered or awarded against such persons in such action, claim, or proceedings; provided,
+228 however, that such indemnification shall not be required or enforceable for adverse costs,
+229 attorney's fees, damages, or sanctions that the litigation financier can show resulted from
+230 the intentional misconduct of such plaintiffs or claimants or their legal representatives.
+231 7-10-5.
+232 (a) The terms and conditions of a litigation financing agreement shall be set forth in a fully
+233 completed, written litigation financing contract with no material terms or conditions
+234 omitted, and such contract shall contain all material terms and conditions at the time it is
+235 signed by any party.
+236 (b) Upon execution of a litigation financing contract, a litigation financier shall not amend
+237 the terms or conditions of the litigation financing agreement that is memorialized by such
+238 contract without full disclosure to and prior written consent of all parties to such litigation
+239 financing agreement.
+240 (c) Each litigation financing contract shall set forth the name, principal business address,
+241 and preferred mailing address of the litigation financier on the first page of such contract,
+242 and the following disclosures shall be typed in at least 14 point bold font and placed clearly
+243 and conspicuously immediately above the consumer's signature line in the litigation
+244 financing contract:
+245 'IMPORTANT DISCLOSURES -- PLEASE READ CAREFULLY
+246 1. Right to Cancellation: You, the consumer, or your legal representative may cancel
+247 this litigation financing agreement without penalty or further obligation within
+248 five (5) business days from the date you sign this contract or the date you receive
+249 financing from the litigation financier, whichever date is later. You or your legal
+250 representative may cancel this litigation financing agreement by sending a notice of
+251 cancellation to the litigation financier and returning to the litigation financier any
+S. B. 69
+- 10 -
+
+25 LC 49 2160-EC
+252 funds received from the litigation financier at the litigation financier's preferred
+253 mailing address set forth on page 1 of this contract.
+254 2. The maximum amount the litigation financier may receive or recover from any
+255 contingent payment provided for in this litigation financing agreement shall be no
+256 more than an amount equal to the share of the proceeds collectively recovered by the
+257 plaintiffs or claimants in a civil action, administrative proceeding, legal claim, or
+258 other legal proceeding seeking to recover monetary damages financed by this
+259 litigation financing agreement after the payment of any attorney's fees and costs owed
+260 in connection to such action, claim, or proceedings.
+261 3. The litigation financier agrees that it has no right to, and will not demand, request,
+262 receive, or exercise any right to, influence, affect, or otherwise make any decision in
+263 the handling, conduct, administration, litigation, settlement, or resolution of your civil
+264 action, administrative proceeding, legal claim, other legal proceeding. All of these
+265 rights remain solely with you and your legal representative.
+266 4. You, the consumer, are not required by the terms of this litigation financing
+267 agreement to continue to be represented by any particular legal representative, and the
+268 litigation financing agreement does not include any right for the litigation financier,
+269 any legal representative, or any other person to claim or seek to recover any
+270 assessment, charge, fee, penalty, or damages of any kind if you elect to change legal
+271 representatives at any time.
+272 5. If there is no recovery of any money from your civil action, administrative
+273 proceeding, legal claim, or other legal proceeding, or if there is not enough money to
+274 satisfy in full the portion assigned to the litigation financier, you will not owe
+275 anything in excess of your recovery.
+276 6. You are entitled to a fully completed litigation financing contract with no material
+277 terms or conditions omitted prior to signing. Before signing the litigation financing
+S. B. 69
+- 11 -
+
+25 LC 49 2160-EC
+278 contract, or authorizing anyone to sign it on your behalf, you should read the contract
+279 completely and consult an attorney.'
+280 (d) Only the consumer shall be authorized to execute a litigation financing contract on his
+281 or her own behalf, except in such cases where the consumer lacks the legal capacity to
+282 execute a contract. The consumer's legal representative in the civil action, administrative
+283 proceeding, legal claim, or other legal proceeding seeking to recover monetary damages
+284 financed by the corresponding litigation financing agreement shall not execute a litigation
+285 financing contract on behalf of the consumer. A litigation financing contract executed by
+286 such legal representative on behalf of such consumer shall be void and unenforceable as
+287 a matter of law.
+288 (e) If the consumer is represented by a legal representative in the civil action,
+289 administrative proceeding, legal claim, or other legal proceeding that is the subject of the
+290 litigation financing agreement, the legal representative shall acknowledge in the litigation
+291 financing contract that the legal representative and the legal representative's employer and
+292 employees have not received or paid a commission, referral fee, rebate, or any other
+293 consideration from or to the litigation financier and have no obligation to do so in the
+294 future.
+295 (f) If the consumer's legal representative is a party to a litigation financing agreement
+296 related to the consumer's civil action, administrative proceeding, legal claim, or other legal
+297 proceeding that is the subject of the consumer's litigation financing agreement, the legal
+298 representative shall disclose and deliver a copy of his or her litigation financing contract
+299 to the consumer. Following such disclosure and delivery, the consumer shall sign an
+300 acknowledgment that the consumer has read and understands the terms and conditions of
+301 his or her legal representative's litigation financing contract. Such consumer shall be
+302 provided with a copy of such signed acknowledgment.
+S. B. 69
+- 12 -
+
+25 LC 49 2160-EC
+303 7-10-6.
+304 The provisions of this chapter shall not apply to:
+305 (1) A nonprofit entity that provides litigation financing, directly or indirectly, for the
+306 benefit of such nonprofit entity or one or more of its members without receiving, in
+307 consideration for the litigation financing:
+308 (A) The payment of interest, fees, or other consideration; or
+309 (B) Except for in-house counsel of such nonprofit entity, any right to recovery or
+310 payment from the amount of any judgment, award, settlement, verdict, or other form
+311 of monetary relief obtained in the civil action, administrative proceeding, legal claim,
+312 or other legal proceeding;
+313 (2) Any litigation financing provided by an entity engaged in commerce or business
+314 activity; provided, however, that this exemption shall apply only if such entity does not:
+315 (A) Charge, contract for, collect, or receive any interest, fees, or other consideration;
+316 (B) Retain or receive any financial interest in the outcome of the civil action,
+317 administrative proceeding, legal claim, or other legal proceeding; or
+318 (C) Retain or receive any right to recovery or payment from the amount of any
+319 judgment, award, settlement, verdict, or other form of monetary relief obtained in the
+320 civil action, administrative proceeding, legal claim, or other legal proceeding; or
+321 (3) A regulated lender that does not receive, in consideration for loaning money to any
+322 person, a right to receive payment from the value of any proceeds or other consideration
+323 realized from any judgment award, settlement, verdict, or other form of monetary relief
+324 any person may receive or recover in relation to any civil action, administrative
+325 proceeding, legal claim, or other legal proceeding.
+S. B. 69
+- 13 -
+
+25 LC 49 2160-EC
+326 7-10-7.
+327 Any violation of this chapter by a litigation financier renders the litigation financing
+328 agreement void and unenforceable by such litigation financier or any successor-in-interest
+329 to the litigation financing agreement.
+330 7-10-8.
+331 (a) It is unlawful for a litigation financier to enter into or offer to enter into a litigation
+332 financing agreement unless such litigation financier is registered under this chapter.
+333 (b) A person that willfully violates this chapter shall be guilty of a felony and upon
+334 conviction thereof, shall be imprisoned not less than one nor more than five years, or fined
+335 not more than $10,000.00, or both; provided, however, that on the recommendation of the
+336 jury trying the case, when such recommendation is approved by the judge presiding on the
+337 trial, such crime shall be punished as a misdemeanor. If the judge trying the case deems
+338 it proper, such judge may, in fixing the punishment, reduce such felony to a misdemeanor.
+339 (c) The Attorney General or the proper prosecuting attorney with or without a reference
+340 from the commissioner may institute criminal proceedings under this chapter.
+341 (d) This chapter does not limit the power of this state to punish a person for conduct that
+342 constitutes a crime under other laws of this state.
+343 7-10-9.
+344 The commissioner is authorized to adopt rules and other policies in overseeing the practice
+345 of litigation financing consistent with this chapter."
+346 SECTION 3.
+347 Article 5 of Chapter 11 of Title 9 of the Official Code of Georgia Annotated, relating to
+348 depositions and discovery under the "Georgia Civil Practice Act," is amended in Code
+S. B. 69
+- 14 -
+
+25 LC 49 2160-EC
+349 Section 9-11-26, relating to general provisions governing discovery, by adding a new
+350 paragraph to subsection (b) to read as follows:
+351 "(2.1)(A) Litigation financing agreement. A party may obtain discovery of the
+352 existence and terms and conditions of any litigation financing agreement, as such term
+353 is defined in Code Section 7-10-1, the subject of which is or includes the pending
+354 action.
+355 (B) Information concerning the litigation financing agreement is not by reason of
+356 disclosure admissible in evidence at trial; provided, however, that nothing in this
+357 subparagraph shall be construed to limit the admissibility of such information as
+358 evidence of a party's claim or defense;"
+359 SECTION 4.
+360 This Act shall become effective upon its approval by the Governor or upon its becoming law
+361 without such approval and shall apply to:
+362 (1) Any civil action, administrative proceedings, legal claims, or other legal proceedings
+363 commenced on or after the effective date of this Act; and
+364 (2) Any contracts entered into on or after the effective date of this Act.
+365 SECTION 5.
+366 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 69
+- 15 -
+
+[DELETED: 5L r t b a f a d a d u t]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L o h s t b a p t o c o r f a c a d i e f a r t r p w r i i s a c o p a i t s l l c o o l p s t r m]
+[DELETED: 5L a i t s l r o a l p o o o o g d s c ]
+[DELETED: 5L  T t n a e a t w s p m b r o a f p f p o s w f]
+[DELETED: 5L r o a f p f p o s w f f b a w a f p f p o w f o a f g o f n p i o i i a r a a r w t]
+[DELETED: 5L  D o m a d w r t t c o a c a]
+[DELETED: 5L v o o f o m r o i a c a f i i l f p b a l f t s t a c a a p l c o o l s l f a a s p a c l]
+[DELETED: 5L w l f c w n m t o c c i a t c s l i t l l f a w p o f o w]
+[DELETED: 5L l p s t r m d f b t l r o a o p t c o s t r a  I t i n r o a m f y c a a i f t p a t t l f y w n o]
+[DELETED: 5L  I t c i r b a l r i t c a]
+[DELETED: 5L  R o r a f i i t o o t c a p m r o r i r t a c a a]
+[DELETED: 5L]
+[DELETED: 5L 9 r t g p g d b a a n p s b c t l t a o s i a]

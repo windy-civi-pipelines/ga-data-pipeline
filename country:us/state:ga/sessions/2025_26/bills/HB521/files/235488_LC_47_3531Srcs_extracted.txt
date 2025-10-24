@@ -1,0 +1,346 @@
+Title: The House Committee on Rules offers the following substitute to HB 521:
+Official Title: The House Committee on Rules offers the following substitute to HB 521:
+Number of Sections: 1
+Source: versions - LC 47 3531S/rcs
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+LC 47 3531S
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 36 of Title 36 of the Official Code of Georgia Annotated, relating to
+2 annexation of territory, so as to provide for equal reporting requirements for annexations and
+3 deannexations; to provide that certain such annexations are contingent upon approval of the
+4 county in which the subject property is located; to revise procedures related to the
+5 deannexation of certain properties; to provide for related matters; to provide for an effective
+6 date; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Chapter 36 of Title 36 of the Official Code of Georgia Annotated, relating to annexation of
+10 territory, is amended by revising Code Section 36-36-3, relating to report identifying annexed
+11 property, maps and surveys, technical assistance to municipalities, and preclearance, as
+12 follows:
+13 "36-36-3.
+14 (a) The clerk, city attorney, or other person designated by the governing authority of any
+15 municipality annexing or deannexing property shall file a report identifying any property
+16 annexed or deannexed with the Department of Community Affairs, the Legislative and
+- 1 -
+LC 47 3531S
+17 Congressional Reapportionment Office of the General Assembly, and with the county
+18 governing authority of the county in which the property being annexed or deannexed is
+19 located. Such reports shall be filed, at a minimum, not more than 30 days following the
+20 last day of the quarter in which the annexation or deannexation becomes effective but may
+21 be filed more frequently. Each report shall include the following:
+22 (1) The legal authority under which the annexation or deannexation was accomplished,
+23 which shall be the ordinance or resolution number for any annexation or deannexation
+24 effected pursuant to Article 2, 3, 4, or 6, or 8 of this chapter or the Act number if effected
+25 by local Act of the General Assembly;
+26 (2) The name of the county in which the property being annexed or deannexed is located;
+27 the total acreage annexed or deannexed; the enactment date and effective date of the
+28 annexation or deannexation ordinance, resolution, or local Act of the General Assembly;
+29 (3) A letter from the governing authority of any municipality annexing or deannexing
+30 property stating its intent to add the annexed area to, or remove the deannexed area from,
+31 maps provided by the United States Bureau of the Census during their next regularly
+32 scheduled boundary and annexation survey of the municipality and stating that the survey
+33 and map will be completed as instructed and returned to the United States Bureau of the
+34 Census;
+35 (4) A list identifying roadways, bridges, and rights of way on state routes that are
+36 annexed or deannexed and, if necessary, the total mileage annexed or deannexed; and
+37 (5) A digital shapefile of the annexed or deannexed area.
+38 (b) The submission of a report required under subsection (a) of this Code section shall be
+39 made in writing and in electronic format to the Department of Community Affairs, the
+40 Legislative and Congressional Reapportionment Office of the General Assembly, and to
+41 others as required by the submitting municipality.
+42 (c)(1) The Department of Community Affairs shall notify the clerk, city attorney, or
+43 other person designated by the governing authority of the annexing or deannexing
+- 2 -
+LC 47 3531S
+44 municipality within 30 days after receipt of a report submitted under subsection (a) of this
+45 Code section if it determines the submission to be incomplete. The Legislative and
+46 Congressional Reapportionment Office of the General Assembly shall notify the clerk,
+47 city attorney, or other person designated by the governing authority of the annexing or
+48 deannexing municipality within 60 days after receipt of a report submitted under
+49 subsection (a) of this Code section if it determines the submission to be incomplete. The
+50 annexing or deannexing municipality shall file a corrected report with the department,
+51 Legislative and Congressional Reapportionment Office of the General Assembly, and the
+52 county governing authority where the annexed or deannexed property is located within
+53 45 days from the date of the notice of any deficiency.
+54 (2) No annexed or deannexed area shall be added to or removed from the state map until
+55 such report has been properly submitted to the Department of Community Affairs and the
+56 Legislative and Congressional Reapportionment Office of the General Assembly. The
+57 Department of Community Affairs shall not provide a certification of annexation or
+58 deannexation to the United States Census Bureau unless the governing authority of the
+59 annexing or deannexing municipality has filed a completed report as required under
+60 subsection (a) of this Code section.
+61 (3) Compliance with the requirements of this Code section shall be construed to be
+62 merely ancillary to and not an integral part of the annexation or deannexation procedure
+63 such that an annexation or deannexation shall, if otherwise authorized by law, become
+64 effective even though required filings under this Code section are temporarily delayed.
+65 (d) The Department of Community Affairs may provide technical assistance to any
+66 municipality with respect to the requirements of subsection (a) of this Code section.
+67 (e) The Department of Community Affairs shall maintain the annexation and deannexation
+68 reports submitted to it pursuant to this Code section for two years. Annexation Such
+69 reports shall be subject to disclosure and inspection under Article 4 of Chapter 18 of Title
+70 50 while maintained in the possession of the Department of Community Affairs. Two
+- 3 -
+LC 47 3531S
+71 years after receipt of an annexation or deannexation report from a municipality, the
+72 Department of Community Affairs shall transfer possession of such report to the Division
+73 of Archives and History for permanent retention.
+74 (f) In the event that any municipality annexing or deannexing property cannot produce the
+75 digital shapefile required by paragraph (5) of subsection (a) of this Code section by
+76 utilizing its own geographic information system, the regional commission established
+77 pursuant to Article 2 of Chapter 8 of Title 50 for the county that includes such municipality
+78 shall assist such municipality in producing and providing such digital shapefile.
+79 (g) The governing authority of any municipality annexing or deannexing property shall
+80 add all annexed areas to, and remove all deannexed areas from, maps provided by the
+81 United States Census Bureau during the next regularly scheduled boundary and annexation
+82 survey of the municipality, complete the survey and map as instructed, and return them to
+83 the United States Census Bureau within the time frame requested."
+84 SECTION 2.
+85 Said chapter is further amended is amended by revising Code Section 36-36-21, relating to
+86 annexation upon application of all land owners, filing of identification of annexed property
+87 with Department of Community Affairs and county governing authority, and effect of
+88 annexation, as follows:
+89 "36-36-21.
+90 (a) Authority is granted to the governing bodies of the several municipal corporations of
+91 this state to annex to the existing corporate limits thereof unincorporated areas contiguous
+92 to the existing corporate limits at the time of such annexation, in accordance with the
+93 procedures provided in this article and in Article 1 of this chapter, upon the written and
+94 signed applications of all of the owners of all of the land, except the owners of any public
+95 street, road, highway, or right of way, proposed to be annexed, containing a complete
+96 description of the lands to be annexed. Lands to be annexed at any one time shall be
+- 4 -
+LC 47 3531S
+97 treated as one body, regardless of the number of owners, and all parts shall be considered
+98 as adjoining the limits of the municipal corporation when any one part of the entire body
+99 abuts such limits. When such application is acted upon by the municipal authorities and
+100 the land is, by ordinance, annexed to the municipal corporation, an identification of the
+101 property so annexed shall be filed with the Department of Community Affairs and with the
+102 governing authority of the county in which the property is located in accordance with Code
+103 Section 36-36-3. When so annexed, such lands shall constitute a part of the lands within
+104 the corporate limits of the municipal corporation as completely and fully as if the limits had
+105 been marked and defined by local Act of the General Assembly. Except as provided in
+106 subsection (c) of Code Section 36-36-20, nothing in this article shall be construed to
+107 authorize annexation of the length of any public right of way except to the extent that such
+108 right of way adjoins private property otherwise annexed by the municipal corporation.
+109 (b) Notwithstanding any other provisions of this chapter to the contrary, in any county in
+110 which an airport is owned or operated either by such county or a local authority and such
+111 airport is adjacent to 9,000 acres or more of property currently or formerly owned by a
+112 municipality that has no incorporated territory within such county, any proposed
+113 annexation pursuant to this article is contingent upon the adoption of a resolution by the
+114 governing authority of such county consenting to such annexation."
+115 SECTION 3.
+116 Said chapter is further amended in Code Section 36-36-131, relating to application for
+117 deannexation, scope, filing of notification of deannexation, and reannexation, by revising
+118 subsection (a) as follows:
+119 "(a) Authority is granted to the governing authority of any municipality to deannex an area
+120 or areas of the existing corporate limits thereof, in accordance with the procedures provided
+121 in this article and in Article 1 of this chapter, upon the written and signed applications of
+122 all of the owners of all of the land, except the owners of any public street, road, highway,
+- 5 -
+LC 47 3531S
+123 or right of way, proposed to be deannexed, containing a complete description of the lands
+124 to be deannexed; provided, however, that no more than ten parcels of property may be
+125 deannexed in one action and only upon the adoption of a resolution by the governing
+126 authority of the county in which such property is located consenting to such deannexation.
+127 If the governing authority of the county consents to the deannexation and the deannexation
+128 conforms with the requirements of this article, the governing authority of the municipal
+129 corporation shall approve such deannexation unless it finds that the deannexation would
+130 be detrimental to the health, safety, and welfare of the residents and property owners of the
+131 area to be deannexed or to the area remaining within the municipality. If the county is the
+132 owner of all parcels proposed for deannexation and the governing authority of the county
+133 consents, the governing authority of the municipal corporation shall approve such
+134 deannexation within 90 days of the date of the filing of a deannexation application unless
+135 it finds that the deannexation would be detrimental to the health, safety, and welfare of the
+136 residents and property owners of the area to be deannexed or to the area remaining within
+137 the municipality."
+138 SECTION 4.
+139 This Act shall become effective upon its approval by the Governor or upon its becoming law
+140 without such approval.
+141 SECTION 5.
+142 All laws and parts of laws in conflict with this Act are repealed.
+- 6 -
+[DELETED: Tadc i w t s p i l t r p r t tddBSC0t1p2f334(5 6a]
+[DELETED: 7C8g9l0l1b2(3w4e5b6(7t8a9(0p1m2s3a4C5(6a7(8(9m0L1o2(3o p d b t g a o t a o d]
+[DELETED: 4m5C6C7c8d m w 6 d a r o a r s u9s0a1L2c344(5s6L7D8d9a0s1(2m3s4e5(  T D o C A m p t a t a6m7(8r9r05]
+[DELETED: 1y a r o a a o d r f a m t2D3o4(5d s r b p ( o s ( o t C s b6u7p8s9(0a1U2s3t4S5S6a7w D o C A a c g a a e o8a930(1t2t3p4s5s6d]
+[DELETED: 7t8a9a0t1p2g3S4t5b6s7a8r9(0w1a2m t h n i t w s c a p3a4g5S6S7d8s9(0o1i2a]
+[DELETED: 3o4t5d6a7I8c9c0b1a2o3c t g a o t m c s a s4d5i6r7t8S9T0w1S2A]
+
+
+================================================================================
+
+Raw Text:
+LC 47 3531S
+The House Committee on Rules offers the following substitute to HB 521:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 36 of Title 36 of the Official Code of Georgia Annotated, relating to
+2 annexation of territory, so as to provide for equal reporting requirements for annexations and
+3 deannexations; to provide that certain such annexations are contingent upon approval of the
+4 county in which the subject property is located; to revise procedures related to the
+5 deannexation of certain properties; to provide for related matters; to provide for an effective
+6 date; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Chapter 36 of Title 36 of the Official Code of Georgia Annotated, relating to annexation of
+10 territory, is amended by revising Code Section 36-36-3, relating to report identifying annexed
+11 property, maps and surveys, technical assistance to municipalities, and preclearance, as
+12 follows:
+13 "36-36-3.
+14 (a) The clerk, city attorney, or other person designated by the governing authority of any
+15 municipality annexing or deannexing property shall file a report identifying any property
+16 annexed or deannexed with the Department of Community Affairs, the Legislative and
+- 1 -
+
+LC 47 3531S
+17 Congressional Reapportionment Office of the General Assembly, and with the county
+18 governing authority of the county in which the property being annexed or deannexed is
+19 located. Such reports shall be filed, at a minimum, not more than 30 days following the
+20 last day of the quarter in which the annexation or deannexation becomes effective but may
+21 be filed more frequently. Each report shall include the following:
+22 (1) The legal authority under which the annexation or deannexation was accomplished,
+23 which shall be the ordinance or resolution number for any annexation or deannexation
+24 effected pursuant to Article 2, 3, 4, or 6, or 8 of this chapter or the Act number if effected
+25 by local Act of the General Assembly;
+26 (2) The name of the county in which the property being annexed or deannexed is located;
+27 the total acreage annexed or deannexed; the enactment date and effective date of the
+28 annexation or deannexation ordinance, resolution, or local Act of the General Assembly;
+29 (3) A letter from the governing authority of any municipality annexing or deannexing
+30 property stating its intent to add the annexed area to, or remove the deannexed area from,
+31 maps provided by the United States Bureau of the Census during their next regularly
+32 scheduled boundary and annexation survey of the municipality and stating that the survey
+33 and map will be completed as instructed and returned to the United States Bureau of the
+34 Census;
+35 (4) A list identifying roadways, bridges, and rights of way on state routes that are
+36 annexed or deannexed and, if necessary, the total mileage annexed or deannexed; and
+37 (5) A digital shapefile of the annexed or deannexed area.
+38 (b) The submission of a report required under subsection (a) of this Code section shall be
+39 made in writing and in electronic format to the Department of Community Affairs, the
+40 Legislative and Congressional Reapportionment Office of the General Assembly, and to
+41 others as required by the submitting municipality.
+42 (c)(1) The Department of Community Affairs shall notify the clerk, city attorney, or
+43 other person designated by the governing authority of the annexing or deannexing
+- 2 -
+
+LC 47 3531S
+44 municipality within 30 days after receipt of a report submitted under subsection (a) of this
+45 Code section if it determines the submission to be incomplete. The Legislative and
+46 Congressional Reapportionment Office of the General Assembly shall notify the clerk,
+47 city attorney, or other person designated by the governing authority of the annexing or
+48 deannexing municipality within 60 days after receipt of a report submitted under
+49 subsection (a) of this Code section if it determines the submission to be incomplete. The
+50 annexing or deannexing municipality shall file a corrected report with the department,
+51 Legislative and Congressional Reapportionment Office of the General Assembly, and the
+52 county governing authority where the annexed or deannexed property is located within
+53 45 days from the date of the notice of any deficiency.
+54 (2) No annexed or deannexed area shall be added to or removed from the state map until
+55 such report has been properly submitted to the Department of Community Affairs and the
+56 Legislative and Congressional Reapportionment Office of the General Assembly. The
+57 Department of Community Affairs shall not provide a certification of annexation or
+58 deannexation to the United States Census Bureau unless the governing authority of the
+59 annexing or deannexing municipality has filed a completed report as required under
+60 subsection (a) of this Code section.
+61 (3) Compliance with the requirements of this Code section shall be construed to be
+62 merely ancillary to and not an integral part of the annexation or deannexation procedure
+63 such that an annexation or deannexation shall, if otherwise authorized by law, become
+64 effective even though required filings under this Code section are temporarily delayed.
+65 (d) The Department of Community Affairs may provide technical assistance to any
+66 municipality with respect to the requirements of subsection (a) of this Code section.
+67 (e) The Department of Community Affairs shall maintain the annexation and deannexation
+68 reports submitted to it pursuant to this Code section for two years. Annexation Such
+69 reports shall be subject to disclosure and inspection under Article 4 of Chapter 18 of Title
+70 50 while maintained in the possession of the Department of Community Affairs. Two
+- 3 -
+
+LC 47 3531S
+71 years after receipt of an annexation or deannexation report from a municipality, the
+72 Department of Community Affairs shall transfer possession of such report to the Division
+73 of Archives and History for permanent retention.
+74 (f) In the event that any municipality annexing or deannexing property cannot produce the
+75 digital shapefile required by paragraph (5) of subsection (a) of this Code section by
+76 utilizing its own geographic information system, the regional commission established
+77 pursuant to Article 2 of Chapter 8 of Title 50 for the county that includes such municipality
+78 shall assist such municipality in producing and providing such digital shapefile.
+79 (g) The governing authority of any municipality annexing or deannexing property shall
+80 add all annexed areas to, and remove all deannexed areas from, maps provided by the
+81 United States Census Bureau during the next regularly scheduled boundary and annexation
+82 survey of the municipality, complete the survey and map as instructed, and return them to
+83 the United States Census Bureau within the time frame requested."
+84 SECTION 2.
+85 Said chapter is further amended is amended by revising Code Section 36-36-21, relating to
+86 annexation upon application of all land owners, filing of identification of annexed property
+87 with Department of Community Affairs and county governing authority, and effect of
+88 annexation, as follows:
+89 "36-36-21.
+90 (a) Authority is granted to the governing bodies of the several municipal corporations of
+91 this state to annex to the existing corporate limits thereof unincorporated areas contiguous
+92 to the existing corporate limits at the time of such annexation, in accordance with the
+93 procedures provided in this article and in Article 1 of this chapter, upon the written and
+94 signed applications of all of the owners of all of the land, except the owners of any public
+95 street, road, highway, or right of way, proposed to be annexed, containing a complete
+96 description of the lands to be annexed. Lands to be annexed at any one time shall be
+- 4 -
+
+LC 47 3531S
+97 treated as one body, regardless of the number of owners, and all parts shall be considered
+98 as adjoining the limits of the municipal corporation when any one part of the entire body
+99 abuts such limits. When such application is acted upon by the municipal authorities and
+100 the land is, by ordinance, annexed to the municipal corporation, an identification of the
+101 property so annexed shall be filed with the Department of Community Affairs and with the
+102 governing authority of the county in which the property is located in accordance with Code
+103 Section 36-36-3. When so annexed, such lands shall constitute a part of the lands within
+104 the corporate limits of the municipal corporation as completely and fully as if the limits had
+105 been marked and defined by local Act of the General Assembly. Except as provided in
+106 subsection (c) of Code Section 36-36-20, nothing in this article shall be construed to
+107 authorize annexation of the length of any public right of way except to the extent that such
+108 right of way adjoins private property otherwise annexed by the municipal corporation.
+109 (b) Notwithstanding any other provisions of this chapter to the contrary, in any county in
+110 which an airport is owned or operated either by such county or a local authority and such
+111 airport is adjacent to 9,000 acres or more of property currently or formerly owned by a
+112 municipality that has no incorporated territory within such county, any proposed
+113 annexation pursuant to this article is contingent upon the adoption of a resolution by the
+114 governing authority of such county consenting to such annexation."
+115 SECTION 3.
+116 Said chapter is further amended in Code Section 36-36-131, relating to application for
+117 deannexation, scope, filing of notification of deannexation, and reannexation, by revising
+118 subsection (a) as follows:
+119 "(a) Authority is granted to the governing authority of any municipality to deannex an area
+120 or areas of the existing corporate limits thereof, in accordance with the procedures provided
+121 in this article and in Article 1 of this chapter, upon the written and signed applications of
+122 all of the owners of all of the land, except the owners of any public street, road, highway,
+- 5 -
+
+LC 47 3531S
+123 or right of way, proposed to be deannexed, containing a complete description of the lands
+124 to be deannexed; provided, however, that no more than ten parcels of property may be
+125 deannexed in one action and only upon the adoption of a resolution by the governing
+126 authority of the county in which such property is located consenting to such deannexation.
+127 If the governing authority of the county consents to the deannexation and the deannexation
+128 conforms with the requirements of this article, the governing authority of the municipal
+129 corporation shall approve such deannexation unless it finds that the deannexation would
+130 be detrimental to the health, safety, and welfare of the residents and property owners of the
+131 area to be deannexed or to the area remaining within the municipality. If the county is the
+132 owner of all parcels proposed for deannexation and the governing authority of the county
+133 consents, the governing authority of the municipal corporation shall approve such
+134 deannexation within 90 days of the date of the filing of a deannexation application unless
+135 it finds that the deannexation would be detrimental to the health, safety, and welfare of the
+136 residents and property owners of the area to be deannexed or to the area remaining within
+137 the municipality."
+138 SECTION 4.
+139 This Act shall become effective upon its approval by the Governor or upon its becoming law
+140 without such approval.
+141 SECTION 5.
+142 All laws and parts of laws in conflict with this Act are repealed.
+- 6 -
+
+[DELETED: Tadc i w t s p i l t r p r t tddBSC0t1p2f334(5 6a]
+[DELETED: 7C8g9l0l1b2(3w4e5b6(7t8a9(0p1m2s3a4C5(6a7(8(9m0L1o2(3o p d b t g a o t a o d]
+[DELETED: 4m5C6C7c8d m w 6 d a r o a r s u9s0a1L2c344(5s6L7D8d9a0s1(2m3s4e5(  T D o C A m p t a t a6m7(8r9r05]
+[DELETED: 1y a r o a a o d r f a m t2D3o4(5d s r b p ( o s ( o t C s b6u7p8s9(0a1U2s3t4S5S6a7w D o C A a c g a a e o8a930(1t2t3p4s5s6d]
+[DELETED: 7t8a9a0t1p2g3S4t5b6s7a8r9(0w1a2m t h n i t w s c a p3a4g5S6S7d8s9(0o1i2a]
+[DELETED: 3o4t5d6a7I8c9c0b1a2o3c t g a o t m c s a s4d5i6r7t8S9T0w1S2A]

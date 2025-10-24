@@ -1,0 +1,106 @@
+Title: House Bill 701
+Official Title: House Bill 701
+Number of Sections: 1
+Source: versions - LC 47 3431/a
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 47 3431
+By: Representative Cheokas of the 151st
+A BILL TO BE ENTITLED
+AN ACT
+1 To authorize the assessment and collection of a technology fee by the Probate Court of
+2 Terrell County; to authorize the assessment and collection of a technology fee when the
+3 judge of such court is serving as the judge of the Magistrate Court of Terrell County; to
+4 identify the authorized uses of such technology fee; to provide for the termination of such
+5 technology fee and dedication of residual funds; to provide for related matters; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 (a)(1) The clerk of the Probate Court of Terrell County is hereby authorized to charge
+10 and collect a technology fee to be set by the judge of the probate court in an amount not
+11 to exceed $5.00 for the filing of each civil action with the probate court and not to
+12 exceed $5.00 as a surcharge upon each criminal fine assessed by the probate court.
+13 (2) The clerk of the Probate Court of Terrell County is hereby authorized to charge and
+14 collect a technology fee to be set by the judge of the probate court in an amount not to
+15 exceed $5.00 for the filing of each civil action with the magistrate court and not to
+16 exceed $5.00 as a surcharge upon each criminal fine assessed by the magistrate court.
+H. B. 701
+- 1 -
+25 LC 47 3431
+17 (3) The technology fees collected pursuant to paragraphs (1) and (2) of this subsection
+18 shall be used exclusively to provide for technological needs of the Probate Court of
+19 Terrell County. Such uses shall include only the following:
+20 (A) Computer hardware, software, and accessory purchases;
+21 (B) Lease, maintenance, and installation of computer hardware and software;
+22 (C) Purchase, lease, maintenance, and installation of audio-visual, imaging, scanning,
+23 facsimile, communications, projection, and printing equipment and software; and
+24 (D) Procurement of services or equipment for the conversion of court records and
+25 archives to digital content for public access.
+26 (b) Funds collected pursuant to this section shall be maintained in a segregated account by
+27 the clerk of the probate court, subject to audit by an auditor approved by the governing
+28 authority of Terrell County, and shall be used only for the purposes authorized in this section.
+29 (c) The authority to assess the technology fee pursuant to this Act shall terminate on
+30 July 1, 2035, and any residual funds remaining in the account established by subsection (b)
+31 of this section shall remain dedicated to general Terrell County technology uses.
+32 SECTION 2.
+33 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 701
+- 2 -
+[DELETED: 5L1]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 47 3431
+House Bill 701
+By: Representative Cheokas of the 151st
+A BILL TO BE ENTITLED
+AN ACT
+1 To authorize the assessment and collection of a technology fee by the Probate Court of
+2 Terrell County; to authorize the assessment and collection of a technology fee when the
+3 judge of such court is serving as the judge of the Magistrate Court of Terrell County; to
+4 identify the authorized uses of such technology fee; to provide for the termination of such
+5 technology fee and dedication of residual funds; to provide for related matters; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 (a)(1) The clerk of the Probate Court of Terrell County is hereby authorized to charge
+10 and collect a technology fee to be set by the judge of the probate court in an amount not
+11 to exceed $5.00 for the filing of each civil action with the probate court and not to
+12 exceed $5.00 as a surcharge upon each criminal fine assessed by the probate court.
+13 (2) The clerk of the Probate Court of Terrell County is hereby authorized to charge and
+14 collect a technology fee to be set by the judge of the probate court in an amount not to
+15 exceed $5.00 for the filing of each civil action with the magistrate court and not to
+16 exceed $5.00 as a surcharge upon each criminal fine assessed by the magistrate court.
+H. B. 701
+- 1 -
+
+25 LC 47 3431
+17 (3) The technology fees collected pursuant to paragraphs (1) and (2) of this subsection
+18 shall be used exclusively to provide for technological needs of the Probate Court of
+19 Terrell County. Such uses shall include only the following:
+20 (A) Computer hardware, software, and accessory purchases;
+21 (B) Lease, maintenance, and installation of computer hardware and software;
+22 (C) Purchase, lease, maintenance, and installation of audio-visual, imaging, scanning,
+23 facsimile, communications, projection, and printing equipment and software; and
+24 (D) Procurement of services or equipment for the conversion of court records and
+25 archives to digital content for public access.
+26 (b) Funds collected pursuant to this section shall be maintained in a segregated account by
+27 the clerk of the probate court, subject to audit by an auditor approved by the governing
+28 authority of Terrell County, and shall be used only for the purposes authorized in this section.
+29 (c) The authority to assess the technology fee pursuant to this Act shall terminate on
+30 July 1, 2035, and any residual funds remaining in the account established by subsection (b)
+31 of this section shall remain dedicated to general Terrell County technology uses.
+32 SECTION 2.
+33 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 701
+- 2 -
+
+[DELETED: 5L1]
+[DELETED: 5L]

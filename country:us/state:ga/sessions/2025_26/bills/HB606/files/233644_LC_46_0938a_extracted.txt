@@ -1,0 +1,179 @@
+Title: House Bill 606
+Official Title: House Bill 606
+Number of Sections: 1
+Source: versions - LC 46 0938/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 46 0938
+By: Representatives Lim of the 98th and Lupton of the 83rd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 33 of Title 33 of the Official Code of Georgia Annotated, relating to fair
+2 access to insurance requirements, so as to authorize the directors of the underwriting
+3 association affiliated with the Fair Access to Insurance Requirements (FAIR) Plan to, subject
+4 to the Commissioner's approval, redistribute risks to insurers in the plan on a more equitable
+5 basis; to provide for a short title; to provide legislative findings; to provide for an effective
+6 date; to provide for related matters; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "FAIR Plan Stabilization Act."
+10 SECTION 2.
+11 The General Assembly finds that:
+12 (1) Each insurer writing property insurance in this state is required to be a member of an
+13 assigned risk pool (the FAIR Plan) and its affiliated underwriting association;
+14 (2) The FAIR Plan is designed to provide property insurance to individuals and businesses
+15 that are unable to obtain coverage through the private market;
+H. B. 606
+- 1 -
+25 LC 46 0938
+16 (3) The FAIR Plan is backed by insurers licensed in Georgia who currently share the
+17 profits, losses, and expenses of the assigned risk pool proportionally to their market share;
+18 and
+19 (4) Allowing risk to be spread more broadly may reduce individual insurer exposure,
+20 further stabilize the FAIR Plan, and decrease the incentive for insurers to cherry-pick
+21 low-risk policies.
+22 SECTION 3.
+23 Chapter 33 of Title 33 of the Official Code of Georgia Annotated, relating to fair access to
+24 insurance requirements, is amended by revising Code Section 33-33-3, relating to
+25 requirement of participation in plan by property insurers, as follows:
+26 "33-33-3.
+27 (a) Each insurer authorized to write and writing property insurance in this state shall be
+28 required to become and remain a member of the plan and the underwriting association and
+29 to comply with the requirements of the plan and the underwriting association as a condition
+30 of its authority to transact property insurance business.
+31 (b) Each insurer shall participate in the writings, expenses, profits, and losses of the
+32 association in the following manner:
+33 (1) For habitational risks, the same proportion as its habitational premiums written bear
+34 to the aggregate habitational premiums written by all insurers in the program; and
+35 (2) For commercial risks, the same proportion as its commercial premiums written bear
+36 to the aggregate commercial premiums written by all insurers in the program; and
+37 (3) Notwithstanding paragraphs (1) and (2) of this subsection, each insurer shall
+38 participate in the writings, expenses, profits, and losses of the association as provided for
+39 by equitable distribution in accordance with subsection (d) of Code Section 33-33-4."
+H. B. 606
+- 2 -
+25 LC 46 0938
+40 SECTION 4.
+41 Said chapter is further amended by revising Code Section 33-33-4, relating to powers of
+42 commissioner generally, as follows:
+43 "33-33-4.
+44 (a) The directors of the association shall submit to the Commissioner, for review, a
+45 proposed Fair Access to Insurance Requirements Plan and articles of association consistent
+46 with this chapter.
+47 (b) The Fair Access to Insurance Requirements Plan and articles of association shall be
+48 subject to approval by the Commissioner and shall take effect ten days after having been
+49 approved by the Commissioner. If the Commissioner disapproves all or any part of the
+50 proposed plan and articles, the directors of the association shall within 30 days submit for
+51 review an appropriately revised plan and articles; and, if the directors fail to do so, the
+52 Commissioner shall thereafter promulgate such plan and articles consistent with this
+53 chapter.
+54 (c) The directors of the association may, on their own initiative or at the request of the
+55 Commissioner, amend the plan and articles, subject to approval by the Commissioner.
+56 (d) The directors of the association may, subject to the approval of the Commissioner,
+57 provide for the equitable redistribution of risks provided for in this chapter by means of
+58 assignments to members of the Fair Access to Insurance Requirements Plan. If such
+59 equitable redistribution is not implemented as provided in this subsection, all risks shall be
+60 distributed as described in paragraphs (1) and (2) of subsection (b) of Code Section
+61 33-33-3."
+62 SECTION 5.
+63 This Act shall become effective on January 1, 2026.
+64 SECTION 6.
+65 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 606
+- 3 -
+[DELETED: 5L8 3hr t i r s a t a t d o t u]
+[DELETED: 5L r i a b r C S 3 r t  N p ( a ( o t s e i s]
+[DELETED: 5L s t p s p a a c w t a d i p ( a ( o s ( o C S]
+
+
+================================================================================
+
+Raw Text:
+25 LC 46 0938
+House Bill 606
+By: Representatives Lim of the 98th and Lupton of the 83rd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 33 of Title 33 of the Official Code of Georgia Annotated, relating to fair
+2 access to insurance requirements, so as to authorize the directors of the underwriting
+3 association affiliated with the Fair Access to Insurance Requirements (FAIR) Plan to, subject
+4 to the Commissioner's approval, redistribute risks to insurers in the plan on a more equitable
+5 basis; to provide for a short title; to provide legislative findings; to provide for an effective
+6 date; to provide for related matters; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "FAIR Plan Stabilization Act."
+10 SECTION 2.
+11 The General Assembly finds that:
+12 (1) Each insurer writing property insurance in this state is required to be a member of an
+13 assigned risk pool (the FAIR Plan) and its affiliated underwriting association;
+14 (2) The FAIR Plan is designed to provide property insurance to individuals and businesses
+15 that are unable to obtain coverage through the private market;
+H. B. 606
+- 1 -
+
+25 LC 46 0938
+16 (3) The FAIR Plan is backed by insurers licensed in Georgia who currently share the
+17 profits, losses, and expenses of the assigned risk pool proportionally to their market share;
+18 and
+19 (4) Allowing risk to be spread more broadly may reduce individual insurer exposure,
+20 further stabilize the FAIR Plan, and decrease the incentive for insurers to cherry-pick
+21 low-risk policies.
+22 SECTION 3.
+23 Chapter 33 of Title 33 of the Official Code of Georgia Annotated, relating to fair access to
+24 insurance requirements, is amended by revising Code Section 33-33-3, relating to
+25 requirement of participation in plan by property insurers, as follows:
+26 "33-33-3.
+27 (a) Each insurer authorized to write and writing property insurance in this state shall be
+28 required to become and remain a member of the plan and the underwriting association and
+29 to comply with the requirements of the plan and the underwriting association as a condition
+30 of its authority to transact property insurance business.
+31 (b) Each insurer shall participate in the writings, expenses, profits, and losses of the
+32 association in the following manner:
+33 (1) For habitational risks, the same proportion as its habitational premiums written bear
+34 to the aggregate habitational premiums written by all insurers in the program; and
+35 (2) For commercial risks, the same proportion as its commercial premiums written bear
+36 to the aggregate commercial premiums written by all insurers in the program; and
+37 (3) Notwithstanding paragraphs (1) and (2) of this subsection, each insurer shall
+38 participate in the writings, expenses, profits, and losses of the association as provided for
+39 by equitable distribution in accordance with subsection (d) of Code Section 33-33-4."
+H. B. 606
+- 2 -
+
+25 LC 46 0938
+40 SECTION 4.
+41 Said chapter is further amended by revising Code Section 33-33-4, relating to powers of
+42 commissioner generally, as follows:
+43 "33-33-4.
+44 (a) The directors of the association shall submit to the Commissioner, for review, a
+45 proposed Fair Access to Insurance Requirements Plan and articles of association consistent
+46 with this chapter.
+47 (b) The Fair Access to Insurance Requirements Plan and articles of association shall be
+48 subject to approval by the Commissioner and shall take effect ten days after having been
+49 approved by the Commissioner. If the Commissioner disapproves all or any part of the
+50 proposed plan and articles, the directors of the association shall within 30 days submit for
+51 review an appropriately revised plan and articles; and, if the directors fail to do so, the
+52 Commissioner shall thereafter promulgate such plan and articles consistent with this
+53 chapter.
+54 (c) The directors of the association may, on their own initiative or at the request of the
+55 Commissioner, amend the plan and articles, subject to approval by the Commissioner.
+56 (d) The directors of the association may, subject to the approval of the Commissioner,
+57 provide for the equitable redistribution of risks provided for in this chapter by means of
+58 assignments to members of the Fair Access to Insurance Requirements Plan. If such
+59 equitable redistribution is not implemented as provided in this subsection, all risks shall be
+60 distributed as described in paragraphs (1) and (2) of subsection (b) of Code Section
+61 33-33-3."
+62 SECTION 5.
+63 This Act shall become effective on January 1, 2026.
+64 SECTION 6.
+65 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 606
+- 3 -
+
+[DELETED: 5L8 3hr t i r s a t a t d o t u]
+[DELETED: 5L r i a b r C S 3 r t  N p ( a ( o t s e i s]
+[DELETED: 5L s t p s p a a c w t a d i p ( a ( o s ( o C S]

@@ -1,0 +1,149 @@
+Title: Senate Bill 155
+Official Title: Senate Bill 155
+Number of Sections: 1
+Source: versions - As Introduced LC 46 1083
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 46 1083
+By: Senators Mallow of the 2nd, Harbison of the 15th, Merritt of the 9th, Islam Parkes of the
+7th, Lucas of the 26th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 33-9-4 of the Official Code of Georgia Annotated, relating to
+2 standards applicable to making and use of rates, so as to add census tract to the categories
+3 upon which insurers may not consider when promulgating standards or rating plans; to
+4 amend Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating
+5 to general insurance provisions, so as to broadly address insurer premium rate increases; to
+6 require certain disclosures; to establish a new state-run database; to require the submission
+7 of certain data in certain situations; to increase penalties; to provide for a short title; to
+8 provide for related matters; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Georgia Insurance Premium Reduction
+12 Act."
+13 SECTION 2.
+14 Code Section 33-9-4 of the Official Code of Georgia Annotated, relating to standards
+15 applicable to making and use of rates, is amended by revising paragraph (9) as follows:
+S. B. 155
+- 1 -
+25 LC 46 1083
+16 "(9) No insurer shall base any standard or rating plan on vehicle insurance, in whole or
+17 in part, directly or indirectly, upon race, creed, or ethnic extraction, or census tract; and"
+18 SECTION 3.
+19 Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+20 general insurance provisions, is amended by adding a new Code section to read as follows:
+21 "33-24-59.34.
+22 (a) All insurers in this state shall disclose on such insurer's public website all requests
+23 made to the department to increase premium rates by more than 5 percent. All such
+24 disclosures shall be accompanied by a justification report. The term 'justification report'
+25 means a document which describes such insurer's reasoning and the data relied upon which
+26 form the basis for such insurer's request.
+27 (b) The department shall establish a state-run online database where consumers can
+28 compare coverage options and insurance rates of all lines of insurance policies filed with
+29 the department. At the discretion of the department, such database may not contain
+30 information already publicly available on the All-Payer Claims Database.
+31 (c) Notwithstanding any provision of law to the contrary, all insurers requesting
+32 department approval of premium rate increases of more than 5 percent shall submit detailed
+33 actuarial data to support such request.
+34 (d) Notwithstanding any provision of law to the contrary, the Commissioner shall hold
+35 public hearings in accordance with Code Section 33-2-17 and other relevant law on all
+36 premium rate increase requests of more than 10 percent.
+37 (e) No insurer shall collude with another insurer with regard to premium rates. Any
+38 insurer found by the Commissioner to have violated this subsection and whose actions are
+39 determined by the Commissioner to have contributed toward premium inflation shall also
+40 be found to have committed an unfair trade practice or act in violation of Code
+41 Section 33-6-4.
+S. B. 155
+- 2 -
+25 LC 46 1083
+42 (f) No insurer shall settle litigation with the primary purpose of manufacturing losses to
+43 justify premium increases. Any insurer determined by the Commissioner to have violated
+44 this subsection shall also be found to have committed an unfair trade practice or act in
+45 violation of Code Section 33-6-4.
+46 (g) No insurance policy may be sold to a consumer in this state without such consumer
+47 being represented by an independent insurance broker."
+48 SECTION 4.
+49 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 155
+- 3 -
+[DELETED: 5L S 3 o t O C o G A r t s]
+[DELETED: 5L  N a p o l t t c a i r f t h c a u t p o a i v o C]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 46 1083
+Senate Bill 155
+By: Senators Mallow of the 2nd, Harbison of the 15th, Merritt of the 9th, Islam Parkes of the
+7th, Lucas of the 26th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 33-9-4 of the Official Code of Georgia Annotated, relating to
+2 standards applicable to making and use of rates, so as to add census tract to the categories
+3 upon which insurers may not consider when promulgating standards or rating plans; to
+4 amend Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating
+5 to general insurance provisions, so as to broadly address insurer premium rate increases; to
+6 require certain disclosures; to establish a new state-run database; to require the submission
+7 of certain data in certain situations; to increase penalties; to provide for a short title; to
+8 provide for related matters; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Georgia Insurance Premium Reduction
+12 Act."
+13 SECTION 2.
+14 Code Section 33-9-4 of the Official Code of Georgia Annotated, relating to standards
+15 applicable to making and use of rates, is amended by revising paragraph (9) as follows:
+S. B. 155
+- 1 -
+
+25 LC 46 1083
+16 "(9) No insurer shall base any standard or rating plan on vehicle insurance, in whole or
+17 in part, directly or indirectly, upon race, creed, or ethnic extraction, or census tract; and"
+18 SECTION 3.
+19 Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+20 general insurance provisions, is amended by adding a new Code section to read as follows:
+21 "33-24-59.34.
+22 (a) All insurers in this state shall disclose on such insurer's public website all requests
+23 made to the department to increase premium rates by more than 5 percent. All such
+24 disclosures shall be accompanied by a justification report. The term 'justification report'
+25 means a document which describes such insurer's reasoning and the data relied upon which
+26 form the basis for such insurer's request.
+27 (b) The department shall establish a state-run online database where consumers can
+28 compare coverage options and insurance rates of all lines of insurance policies filed with
+29 the department. At the discretion of the department, such database may not contain
+30 information already publicly available on the All-Payer Claims Database.
+31 (c) Notwithstanding any provision of law to the contrary, all insurers requesting
+32 department approval of premium rate increases of more than 5 percent shall submit detailed
+33 actuarial data to support such request.
+34 (d) Notwithstanding any provision of law to the contrary, the Commissioner shall hold
+35 public hearings in accordance with Code Section 33-2-17 and other relevant law on all
+36 premium rate increase requests of more than 10 percent.
+37 (e) No insurer shall collude with another insurer with regard to premium rates. Any
+38 insurer found by the Commissioner to have violated this subsection and whose actions are
+39 determined by the Commissioner to have contributed toward premium inflation shall also
+40 be found to have committed an unfair trade practice or act in violation of Code
+41 Section 33-6-4.
+S. B. 155
+- 2 -
+
+25 LC 46 1083
+42 (f) No insurer shall settle litigation with the primary purpose of manufacturing losses to
+43 justify premium increases. Any insurer determined by the Commissioner to have violated
+44 this subsection shall also be found to have committed an unfair trade practice or act in
+45 violation of Code Section 33-6-4.
+46 (g) No insurance policy may be sold to a consumer in this state without such consumer
+47 being represented by an independent insurance broker."
+48 SECTION 4.
+49 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 155
+- 3 -
+
+[DELETED: 5L S 3 o t O C o G A r t s]
+[DELETED: 5L  N a p o l t t c a i r f t h c a u t p o a i v o C]
+[DELETED: 5L]

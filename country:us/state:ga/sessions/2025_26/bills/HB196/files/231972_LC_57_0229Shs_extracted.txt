@@ -1,0 +1,198 @@
+Title: The House Committee on Health offers the following substitute to HB 196:
+Official Title: The House Committee on Health offers the following substitute to HB 196:
+Number of Sections: 1
+Source: versions - LC 57 0229S/hs
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25 LC 57 0229S
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 1 of Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia
+2 Annotated, relating to state employees' health insurance plan, so as to require that drugs
+3 dispensed to a covered person for self-administration under a state health plan be reimbursed
+4 using a transparent, index based price, plus a dispensing fee; to provide for definitions; to
+5 provide for related matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Part 1 of Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia Annotated,
+9 relating to state employees' health insurance plan, is amended by adding a new Code section
+10 to read as follows:
+11 "45-18-22.
+12 (a) As used in this Code section, the term:
+13 (1) 'Georgia estimated acquisition cost and select specialty pharmacy rates' means this
+14 state's monthly average drug acquisition cost as of the first day of each month as
+15 determined by the Department of Community Health.
+H. B. 196 (SUB)
+- 1 -
+25 LC 57 0229S
+16 (2) 'Insurer' means a corporation licensed to transact accident and sickness or major
+17 medical insurance business in this state, a healthcare corporation, a health maintenance
+18 organization, a pharmacy benefits manager, or any other entity that provides healthcare
+19 coverage or services pursuant to a state health plan. Such term shall not include any
+20 licensed group model health maintenance organization with an exclusive medical group
+21 contract and which operates its own pharmacies which are licensed under Code
+22 Section 26-4-110.
+23 (3) 'National average drug acquisition cost' means the monthly survey of retail
+24 pharmacies conducted by the federal Centers for Medicare and Medicaid Services to
+25 determine average acquisition cost for Medicaid covered outpatient drugs.
+26 (4) 'Pharmacy' means a pharmacy or pharmacist licensed or holding a nonresident
+27 pharmacy permit pursuant to Chapter 4 of Title 26.
+28 (5) 'Pharmacy benefits manager' means a person, business entity, or other entity that
+29 performs pharmacy benefits management as such term is defined in Chapter 64 of
+30 Title 33. The term 'pharmacy benefits manager' includes a person or entity acting for a
+31 pharmacy benefits manager in a contractual or employment relationship in the
+32 performance of pharmacy benefits management for a health plan, including operating or
+33 administering a prescription card or prescription discount program directly or on behalf
+34 of a pharmacy benefits manager or insurer for covered persons for drugs not covered or
+35 being reimbursed by the covered person's pharmacy benefits manager or health plan.
+36 Such term shall not include services provided by pharmacies operating under a hospital
+37 pharmacy license. Such term shall not include health systems while providing pharmacy
+38 services for their patients, employees, or beneficiaries, for indigent care, or for the
+39 provision of drugs for outpatient procedures. Such term shall not include services
+40 provided by pharmacies affiliated with a facility licensed under Code Section 31-44-4 or
+41 a licensed group model health maintenance organization with an exclusive medical group
+H. B. 196 (SUB)
+- 2 -
+25 LC 57 0229S
+42 contract and which operates its own pharmacies which are licensed under Code
+43 Section 26-4-110.
+44 (6) 'State health plan' means:
+45 (A) The state employees' health insurance plan established pursuant to this article;
+46 (B) The health insurance plan for public school teachers and the health insurance plan
+47 for public school employees established pursuant to Subparts 2 and 3, respectively, of
+48 Part 6 of Article 17 of Chapter 2 of Title 20; and
+49 (C) The health benefit plan established for members, employees, and retirees of the
+50 Board of Regents of the University System of Georgia pursuant to Code Section 31-2-4.
+51 (b) On and after January 1, 2026, an insurer shall reimburse a pharmacy for a drug
+52 dispensed to a covered person for self-administration in the state health plan in an amount
+53 equal to:
+54 (1) The national average drug acquisition cost on the day of claim administration or, if
+55 unavailable, the rate provided in the Georgia estimated acquisition cost and select
+56 specialty pharmacy rates on the day of claim administration or, if unavailable, the
+57 wholesale acquisition cost on the day of claim administration; and
+58 (2) A professional dispensing fee that is not less than the professional dispensing fee paid
+59 by the state under Title XIX of the Social Security Act.
+60 (c) An insurer shall calculate a beneficiary's cost share or deductible based solely on the
+61 ingredient cost of a prescription drug and shall be prohibited from passing along the cost
+62 of the professional dispensing fee to a beneficiary through a cost share, deductible, or any
+63 other out-of-pocket payment by the beneficiary.
+64 (d) An insurer shall not circumvent the requirements regarding pharmacy reimbursement
+65 in this Code section in any manner, including without limitation by adjudicating claims
+66 through a prescription drug discount card or program.
+H. B. 196 (SUB)
+- 3 -
+25 LC 57 0229S
+67 (e) In addition to any other remedy provided by law, a violation of this Code section by
+68 an insurer shall give rise to a private right of action for damages and equitable remedies for
+69 the pharmacy or beneficiary aggrieved."
+70 SECTION 2.
+71 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 196 (SUB)
+- 4 -
+[DELETED: 5LTAdupBSPr0t142(3(4s m a d a c a o t f d o e m a5d]
+[DELETED: 5L6(7m8o9c0l1c a w o i o p w a l u C2S3(  ' a d a c m t m s o r4p5d6(7p8(9p p b m a s t i d i C 6 o0T1p b m i a c o e r i t2p3a4o5b6S7p8s t9p o d f o p  S t s i s0p1a]
+[DELETED: 5L2c a w o i o p w a l u C3S4(5(6(7f8P9(0B1(2d3e4(5u t r p i t G e a c a s6s p r o t d o c a o i u t7w8(9b0(1i2o3o4(5i6t]
+[DELETED: 5L7(8a9t0S1A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 57 0229S
+The House Committee on Health offers the following substitute to HB 196:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 1 of Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia
+2 Annotated, relating to state employees' health insurance plan, so as to require that drugs
+3 dispensed to a covered person for self-administration under a state health plan be reimbursed
+4 using a transparent, index based price, plus a dispensing fee; to provide for definitions; to
+5 provide for related matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Part 1 of Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia Annotated,
+9 relating to state employees' health insurance plan, is amended by adding a new Code section
+10 to read as follows:
+11 "45-18-22.
+12 (a) As used in this Code section, the term:
+13 (1) 'Georgia estimated acquisition cost and select specialty pharmacy rates' means this
+14 state's monthly average drug acquisition cost as of the first day of each month as
+15 determined by the Department of Community Health.
+H. B. 196 (SUB)
+- 1 -
+
+25 LC 57 0229S
+16 (2) 'Insurer' means a corporation licensed to transact accident and sickness or major
+17 medical insurance business in this state, a healthcare corporation, a health maintenance
+18 organization, a pharmacy benefits manager, or any other entity that provides healthcare
+19 coverage or services pursuant to a state health plan. Such term shall not include any
+20 licensed group model health maintenance organization with an exclusive medical group
+21 contract and which operates its own pharmacies which are licensed under Code
+22 Section 26-4-110.
+23 (3) 'National average drug acquisition cost' means the monthly survey of retail
+24 pharmacies conducted by the federal Centers for Medicare and Medicaid Services to
+25 determine average acquisition cost for Medicaid covered outpatient drugs.
+26 (4) 'Pharmacy' means a pharmacy or pharmacist licensed or holding a nonresident
+27 pharmacy permit pursuant to Chapter 4 of Title 26.
+28 (5) 'Pharmacy benefits manager' means a person, business entity, or other entity that
+29 performs pharmacy benefits management as such term is defined in Chapter 64 of
+30 Title 33. The term 'pharmacy benefits manager' includes a person or entity acting for a
+31 pharmacy benefits manager in a contractual or employment relationship in the
+32 performance of pharmacy benefits management for a health plan, including operating or
+33 administering a prescription card or prescription discount program directly or on behalf
+34 of a pharmacy benefits manager or insurer for covered persons for drugs not covered or
+35 being reimbursed by the covered person's pharmacy benefits manager or health plan.
+36 Such term shall not include services provided by pharmacies operating under a hospital
+37 pharmacy license. Such term shall not include health systems while providing pharmacy
+38 services for their patients, employees, or beneficiaries, for indigent care, or for the
+39 provision of drugs for outpatient procedures. Such term shall not include services
+40 provided by pharmacies affiliated with a facility licensed under Code Section 31-44-4 or
+41 a licensed group model health maintenance organization with an exclusive medical group
+H. B. 196 (SUB)
+- 2 -
+
+25 LC 57 0229S
+42 contract and which operates its own pharmacies which are licensed under Code
+43 Section 26-4-110.
+44 (6) 'State health plan' means:
+45 (A) The state employees' health insurance plan established pursuant to this article;
+46 (B) The health insurance plan for public school teachers and the health insurance plan
+47 for public school employees established pursuant to Subparts 2 and 3, respectively, of
+48 Part 6 of Article 17 of Chapter 2 of Title 20; and
+49 (C) The health benefit plan established for members, employees, and retirees of the
+50 Board of Regents of the University System of Georgia pursuant to Code Section 31-2-4.
+51 (b) On and after January 1, 2026, an insurer shall reimburse a pharmacy for a drug
+52 dispensed to a covered person for self-administration in the state health plan in an amount
+53 equal to:
+54 (1) The national average drug acquisition cost on the day of claim administration or, if
+55 unavailable, the rate provided in the Georgia estimated acquisition cost and select
+56 specialty pharmacy rates on the day of claim administration or, if unavailable, the
+57 wholesale acquisition cost on the day of claim administration; and
+58 (2) A professional dispensing fee that is not less than the professional dispensing fee paid
+59 by the state under Title XIX of the Social Security Act.
+60 (c) An insurer shall calculate a beneficiary's cost share or deductible based solely on the
+61 ingredient cost of a prescription drug and shall be prohibited from passing along the cost
+62 of the professional dispensing fee to a beneficiary through a cost share, deductible, or any
+63 other out-of-pocket payment by the beneficiary.
+64 (d) An insurer shall not circumvent the requirements regarding pharmacy reimbursement
+65 in this Code section in any manner, including without limitation by adjudicating claims
+66 through a prescription drug discount card or program.
+H. B. 196 (SUB)
+- 3 -
+
+25 LC 57 0229S
+67 (e) In addition to any other remedy provided by law, a violation of this Code section by
+68 an insurer shall give rise to a private right of action for damages and equitable remedies for
+69 the pharmacy or beneficiary aggrieved."
+70 SECTION 2.
+71 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 196 (SUB)
+- 4 -
+
+[DELETED: 5LTAdupBSPr0t142(3(4s m a d a c a o t f d o e m a5d]
+[DELETED: 5L6(7m8o9c0l1c a w o i o p w a l u C2S3(  ' a d a c m t m s o r4p5d6(7p8(9p p b m a s t i d i C 6 o0T1p b m i a c o e r i t2p3a4o5b6S7p8s t9p o d f o p  S t s i s0p1a]
+[DELETED: 5L2c a w o i o p w a l u C3S4(5(6(7f8P9(0B1(2d3e4(5u t r p i t G e a c a s6s p r o t d o c a o i u t7w8(9b0(1i2o3o4(5i6t]
+[DELETED: 5L7(8a9t0S1A]

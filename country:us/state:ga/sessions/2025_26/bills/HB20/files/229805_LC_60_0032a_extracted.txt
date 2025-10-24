@@ -1,0 +1,549 @@
+Title: House Bill 20
+Official Title: House Bill 20
+Number of Sections: 1
+Source: versions - LC 60 0032/a
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25 LC 60 0032
+By: Representatives Scott of the 76th, Schofield of the 63rd, and Davis of the 87th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 3 of Article 16 of Chapter 2 of Title 20 of the Official Code of Georgia
+2 Annotated, relating to the health of students generally, so as to require the State Board of
+3 Education to adopt rules requiring all certificated public school personnel to receive annual
+4 training in depression and suicide awareness and prevention; to provide for the establishment
+5 and purpose of the Student Mental Health Screenings Grant Program; to provide for the
+6 allocation of grant awards under such program; to provide for grant application and grant
+7 program requirements; to provide for the implementation of grant-funded mental health
+8 screening programs by local school systems; to require the Department of Education to
+9 develop a model policy for student depression and suicide awareness, develop and approve
+10 training materials, assist local school systems in selecting research-based mental health
+11 screening tools, develop guidance to assist local school systems in establishing certain
+12 healthcare related partnerships to conduct mental health screenings, and develop guidance
+13 on the use of telehealth to provide mental health and behavioral health services; to revise
+14 requirements for local school systems to adopt certain policies; to provide for a definition;
+15 to provide for legislative findings; to provide for construction; to provide for related matters;
+16 to provide for a short title; to repeal conflicting laws; and for other purposes.
+H. B. 20
+- 1 -
+25 LC 60 0032
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+18 SECTION 1.
+19 This Act shall be known and may be cited as the "Student Mental Health and Suicide
+20 Prevention Act."
+21 SECTION 2.
+22 The General Assembly finds that:
+23 (1) Depression is the most common mental health disorder among American teenagers and
+24 adults. In 2021, over 5 million young people between the ages of 12 and 17 experienced
+25 at least one major depressive episode in the prior year. Major depressive episodes are two
+26 to three times more common in females than in males;
+27 (2) Various biological, psychological, and environmental risk factors may contribute to
+28 teenage depression, which can lead to substance and alcohol abuse, social isolation, poor
+29 academic and workplace performance, unnecessary risk taking, early pregnancy, and
+30 suicide, which is the third leading cause of death among teenagers. Approximately 20
+31 percent of teenagers with depression seriously consider suicide and one in 12 attempt
+32 suicide. Untreated teenage depression can also result in adverse consequences into and
+33 throughout adulthood;
+34 (3) Most teenagers who experience depression suffer from more than one episode. It is
+35 estimated that although teenage depression is highly treatable through combinations of
+36 therapy, individual and group counseling, and certain medications, fewer than one-third of
+37 teenagers experiencing depression seek help or treatment; and
+38 (4) The proper detection and diagnosis of depression is key in reducing the risk of teenage
+39 suicide and improving physical and mental health outcomes for young people. It is
+40 therefore fitting and appropriate to establish school based depression screenings to help
+41 identify the symptoms of depression and facilitate access to appropriate treatment.
+H. B. 20
+- 2 -
+25 LC 60 0032
+42 SECTION 3.
+43 Part 3 of Article 16 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated,
+44 relating to the health of students generally, is amended by revising Code Section 20-2-779.1,
+45 relating to suicide prevention and awareness training and no duty of care imposed, as
+46 follows:
+47 "20-2-779.1.
+48 (a)(1) The Department State Board of Education shall adopt rules to require that all
+49 certificated public school personnel receive annual training in depression and suicide
+50 awareness and prevention. This training shall be provided within the framework of
+51 existing in-service training programs offered and materials approved by the Department
+52 of Education or as part of required professional development offered by a local school
+53 system.
+54 (2)(A) Subject to appropriations, the State Board of Education is authorized to
+55 establish the Student Mental Health Screenings Grant Program. The purpose of such
+56 grant program shall be to provide funding and resources to allow local school systems
+57 to implement mental health screening programs in schools to identify students in grades
+58 six through 12 who are at risk of depression and suicide.
+59 (B) Awards under the grant program shall be allocated to local school systems in a
+60 manner to be determined by the State Board of Education; provided, however, that the
+61 State Board of Education shall, to the greatest extent possible, approve applications
+62 from at least one local school system each in the northern, central, and southern regions
+63 of the state and shall seek a cross section of local school systems from urban, suburban,
+64 and rural areas of the state.
+65 (2)(b)(1) The Department of Education shall, in consultation with the Department of
+66 Behavioral Health and Developmental Disabilities, the Suicide Prevention Program
+67 established pursuant to Code Section 37-1-27, and depression and suicide prevention
+68 experts, develop and approve a list of approved training materials to fulfill the
+H. B. 20
+- 3 -
+25 LC 60 0032
+69 requirements of this subsection which may include training materials currently being used
+70 by a local school system, if such training materials meet any criteria established by the
+71 Department of Education.
+72 (3) Approved Such approved training materials shall include training on how to identify
+73 appropriate mental health services, both within the school and also within the larger
+74 community, and when and how to refer youth and their families to those services., and
+75 (4) Approved materials may include programs that can be completed through self-review
+76 of suitable depression and suicide awareness and prevention materials.
+77 (2) To assist local school systems in developing their own policies for student depression
+78 and suicide awareness and prevention, as required in subsection (c) of this Code section,
+79 the Department of Education, in consultation with the Suicide Prevention Program within
+80 the Department of Behavioral Health and Developmental Disabilities, shall establish a
+81 model policy for use by local school systems in accordance with this Code section.
+82 (3)(A) To assist local school systems in selecting a research-based screening tool to use
+83 as part of mental health screening programs, the Department of Education, in
+84 consultation with the Suicide Prevention Program within the Department of Behavioral
+85 Health and Developmental Disabilities, may develop a list of preapproved
+86 research-based screening tools that are validated to screen depression and other mental
+87 health risks in adolescents.
+88 (B) No later than January 1, 2026, the Department of Education, in consultation with
+89 the Suicide Prevention Program within the Department of Behavioral Health and
+90 Developmental Disabilities, shall develop guidance and resources for local school
+91 systems to facilitate the establishment of partnerships with organizations or healthcare
+92 providers specializing in pediatric and adolescent mental health to conduct mental
+93 health screenings.
+94 (4)(A) As used in this paragraph, the term 'telehealth' means the use of information and
+95 communications technologies, including, but not limited to, telephones, remote patient
+H. B. 20
+- 4 -
+25 LC 60 0032
+96 monitoring devices, and other electronic means, by a healthcare provider to facilitate
+97 the delivery of long-distance healthcare services, including, but not limited to, patient
+98 consultation, evaluation, diagnosis, treatment, education, and care management.
+99 (B) The Department of Education, in consultation with the Suicide Prevention Program
+100 within the Department of Behavioral Health and Developmental Disabilities and
+101 appropriate stakeholders, including stakeholders with experience in, shall, on or before
+102 October 1, 2025, develop guidance for the use of telehealth in public schools to provide
+103 mental health and behavioral health services to students, including, but not limited to,
+104 student mental health screenings at school or during any school related function.
+105 Guidance developed pursuant to this subparagraph shall include, but shall not be limited
+106 to, the following:
+107 (i) Qualifications of individuals authorized, within the scope of their practice, to
+108 assist students in accessing mental health and behavioral health services via telehealth
+109 while such student is at school or during any school related function;
+110 (ii) Qualifications of individuals authorized, within the scope of their practice, to
+111 provide mental health and behavioral health services to students via telehealth;
+112 (iii) The legal requirements for parental consent for the provision of mental health
+113 and behavioral health services to a minor via telehealth while such minor is at school
+114 or during any school related function;
+115 (iv) Measures necessary to protect the security of data transmitted during the
+116 provision of telehealth to students;
+117 (v) Measures necessary to protect the privacy of student data pursuant to Article 15
+118 of this chapter and the federal Family Educational Rights and Privacy Act
+119 (FERPA), 20 U.S.C. Section 1232g, and medical records pursuant to the federal
+120 Health Insurance Portability and Accountability Act (HIPAA), P.L. 104-191; and
+121 (vi) Potential liability for public schools and local school systems associated with the
+122 provision of telehealth to students.
+H. B. 20
+- 5 -
+25 LC 60 0032
+123 (5)(A)(c)(1) No later than December 31, 2025, each Each local school system shall adopt
+124 a policy on student depression and suicide awareness and prevention. Such policies shall
+125 be developed in consultation with school and community stakeholders, school-employed
+126 mental health professionals, and suicide prevention experts, and shall, at a minimum,
+127 address procedures relating to depression awareness and intervention and suicide
+128 awareness, prevention, intervention, and postvention.
+129 (B) To assist local school systems in developing their own policies for student suicide
+130 prevention, the Department of Education, in consultation with the Suicide Prevention
+131 Program within the Department of Behavioral Health and Developmental Disabilities,
+132 shall establish a model policy for use by local school systems in accordance with this
+133 Code section.
+134 (2) A local school system seeking to participate and receive funding under the grant
+135 program provided for in paragraph (2) of subsection (a) of this Code section shall submit
+136 an application to the State School Superintendent, in accordance with application
+137 procedures and requirements prescribed by the State Board of Education. An application
+138 submitted by a local school system shall include, at a minimum:
+139 (A) A description of the mental health screening program to be implemented by the
+140 local school system and an explanation of how the local school system will make
+141 annual mental health screenings available to each student in grades six through 12;
+142 (B) Details concerning the research based screening tool that will be used by the local
+143 school system or whether the local school system will partner with an organization or
+144 healthcare provider specializing in pediatric and adolescent mental health to conduct
+145 the screenings;
+146 (C) A request and justification for the amount of grant funding sought by the local
+147 school system under the grant program;
+H. B. 20
+- 6 -
+25 LC 60 0032
+148 (D) A description of how the grant funding will be used to further the purposes of the
+149 mental health screening program, including, but not limited to, hiring additional
+150 personnel, purchasing materials, or contracting with outside entities;
+151 (E) A description of how the mental health screenings will be conducted in a manner
+152 that permits real-time evaluation of the screening results and same-day intervention by
+153 a licensed mental health professional, if required based on the results of the screening;
+154 (F) As applicable, the details of any partnership with an organization or provider
+155 specializing in pediatric and adolescent mental health services, which shall include, but
+156 shall not be limited to, the name of the organization or provider, the number of students
+157 to be served by the organization or provider, the expected time frame to screen the
+158 students, the costs associated with engaging in a partnership with the organization or
+159 provider, and the location where the screenings will take place. A local school system
+160 shall detail whether student health insurance information will be required under its
+161 agreement with a partner organization or provider, how it will obtain that information,
+162 and what accommodations will be made for uninsured or underinsured students and
+163 uninsured and underinsured minor students whose parents or guardians have consented
+164 to the screening;
+165 (G) A description of how the local school system will ensure that the parent or
+166 guardian of a student whose screening detects an irregularity is notified of such
+167 irregularity and how the local school system will advise the parent or guardian of the
+168 services available through a partner organization or provider or supply the parent or
+169 guardian with resources to assist in acquiring further evaluation and diagnosis of the
+170 student by a healthcare professional; and
+171 (H) A description of how the local school system will obtain written informed consent
+172 from a minor student's parent or guardian prior to the screening.
+173 (3) A local school system that receives an award under the grant program provided for
+174 in paragraph (2) of subsection (a) of this Code section shall make available to each
+H. B. 20
+- 7 -
+25 LC 60 0032
+175 student in grades six through 12 an annual mental health screening which shall include
+176 screening for depression and suicide risk. Each such local school system or public school
+177 shall meet the following conditions when implementing its mental health screening
+178 program:
+179 (A) The local school system shall use a research based screening tool in its mental
+180 health screening program conducted by a licensed mental health professional or through
+181 a partnership with an organization or healthcare provider specializing in pediatric and
+182 adolescent mental health to conduct the screenings. Nothing in this subparagraph shall
+183 prohibit a local school system from using a self-administered screening tool as part of
+184 the depression screening program;
+185 (B) Mental health screenings shall be conducted in a manner that permits real-time
+186 evaluation of the screening results and same day intervention by a licensed mental
+187 health professional as indicated by the screening;
+188 (C) The local school system shall ensure that mental health screenings are conducted
+189 in a manner that accommodates students who are English language learners, students
+190 with disabilities, and students with low reading proficiency when conducting the
+191 screenings;
+192 (D) Mental health screenings shall be conducted in a manner that ensures the privacy
+193 of the student during the screening process and the confidentiality of the results,
+194 consistent with state and federal laws applicable to the confidentiality of student records
+195 and mental health records;
+196 (E) The local school system shall obtain written informed consent from the minor
+197 student's parent or guardian prior to such student's mental health screening; and
+198 (F) The local school system shall forward data collected from the mental health
+199 screenings to the Department of Education and to the Suicide Prevention Program
+200 within the Department of Behavioral Health and Developmental Disabilities in a form
+201 and manner to be determined by the Department of Education, provided that any data
+H. B. 20
+- 8 -
+25 LC 60 0032
+202 forwarded shall be aggregated and shall not contain any identifying or confidential
+203 information with regard to any individual.
+204 (4) In the event that a local school system chooses to partner with an organization or
+205 healthcare provider specializing in pediatric and adolescent mental health to conduct the
+206 mental health screenings, the partner organization or provider may also provide mental
+207 health services as deemed necessary by the organization or provider and as consented to
+208 by a minor student's parent or guardian. A local school system partnering with an
+209 organization or healthcare provider specializing in pediatric and adolescent mental health
+210 may develop a form to obtain parental consent and student health insurance information
+211 as necessary to satisfy the provisions of any partnership agreement.
+212 (b)(d) No person shall have a cause of action for any loss or damage caused by any act or
+213 omission resulting from the implementation of the provisions of this Code section or
+214 arising from any advice, screening, facilitation of screening, or training, or lack thereof,
+215 required by provided pursuant to this Code section.
+216 (c)(e) Any advice, screenings, facilitation of screenings, and The training, or lack thereof,
+217 required by the provisions of provided for in this Code section shall not be construed to
+218 impose any specific duty of care.
+219 (f) Nothing in this Code section shall be construed to affect a local school system's ability
+220 to provide additional or supplemental services to a student as required by, or as consistent
+221 with, any applicable provision of state or federal law."
+222 SECTION 4.
+223 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 20
+- 9 -
+[DELETED: 5L6,3,7hrdt]
+[DELETED: 5L a w p u r t e p a a i p a m h o f y p  I i]
+[DELETED: 5L t s p a a t a n d o c i a  S t a t S B o E i a t H a D D t S P P d a a a l o a t m t f t]
+[DELETED: 5L p o m h s p t D o E i a D D m d a l o p S P P w t D o B H a]
+[DELETED: 5L t D o B H a D D a m h s a s o d a s r f  M n t p t s o d t d t t c a t f F E R a P A]
+[DELETED: 5L p r t d a a i a s a t t S S S i a w a]
+[DELETED: 5L h s p i b n l t h a  A d o h t l s s w e t t p o o a s w s d a i i n o s]
+[DELETED: 5L d a s w l r p w c t t s d t s p a t c o t r]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 60 0032
+House Bill 20
+By: Representatives Scott of the 76th, Schofield of the 63rd, and Davis of the 87th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 3 of Article 16 of Chapter 2 of Title 20 of the Official Code of Georgia
+2 Annotated, relating to the health of students generally, so as to require the State Board of
+3 Education to adopt rules requiring all certificated public school personnel to receive annual
+4 training in depression and suicide awareness and prevention; to provide for the establishment
+5 and purpose of the Student Mental Health Screenings Grant Program; to provide for the
+6 allocation of grant awards under such program; to provide for grant application and grant
+7 program requirements; to provide for the implementation of grant-funded mental health
+8 screening programs by local school systems; to require the Department of Education to
+9 develop a model policy for student depression and suicide awareness, develop and approve
+10 training materials, assist local school systems in selecting research-based mental health
+11 screening tools, develop guidance to assist local school systems in establishing certain
+12 healthcare related partnerships to conduct mental health screenings, and develop guidance
+13 on the use of telehealth to provide mental health and behavioral health services; to revise
+14 requirements for local school systems to adopt certain policies; to provide for a definition;
+15 to provide for legislative findings; to provide for construction; to provide for related matters;
+16 to provide for a short title; to repeal conflicting laws; and for other purposes.
+H. B. 20
+- 1 -
+
+25 LC 60 0032
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+18 SECTION 1.
+19 This Act shall be known and may be cited as the "Student Mental Health and Suicide
+20 Prevention Act."
+21 SECTION 2.
+22 The General Assembly finds that:
+23 (1) Depression is the most common mental health disorder among American teenagers and
+24 adults. In 2021, over 5 million young people between the ages of 12 and 17 experienced
+25 at least one major depressive episode in the prior year. Major depressive episodes are two
+26 to three times more common in females than in males;
+27 (2) Various biological, psychological, and environmental risk factors may contribute to
+28 teenage depression, which can lead to substance and alcohol abuse, social isolation, poor
+29 academic and workplace performance, unnecessary risk taking, early pregnancy, and
+30 suicide, which is the third leading cause of death among teenagers. Approximately 20
+31 percent of teenagers with depression seriously consider suicide and one in 12 attempt
+32 suicide. Untreated teenage depression can also result in adverse consequences into and
+33 throughout adulthood;
+34 (3) Most teenagers who experience depression suffer from more than one episode. It is
+35 estimated that although teenage depression is highly treatable through combinations of
+36 therapy, individual and group counseling, and certain medications, fewer than one-third of
+37 teenagers experiencing depression seek help or treatment; and
+38 (4) The proper detection and diagnosis of depression is key in reducing the risk of teenage
+39 suicide and improving physical and mental health outcomes for young people. It is
+40 therefore fitting and appropriate to establish school based depression screenings to help
+41 identify the symptoms of depression and facilitate access to appropriate treatment.
+H. B. 20
+- 2 -
+
+25 LC 60 0032
+42 SECTION 3.
+43 Part 3 of Article 16 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated,
+44 relating to the health of students generally, is amended by revising Code Section 20-2-779.1,
+45 relating to suicide prevention and awareness training and no duty of care imposed, as
+46 follows:
+47 "20-2-779.1.
+48 (a)(1) The Department State Board of Education shall adopt rules to require that all
+49 certificated public school personnel receive annual training in depression and suicide
+50 awareness and prevention. This training shall be provided within the framework of
+51 existing in-service training programs offered and materials approved by the Department
+52 of Education or as part of required professional development offered by a local school
+53 system.
+54 (2)(A) Subject to appropriations, the State Board of Education is authorized to
+55 establish the Student Mental Health Screenings Grant Program. The purpose of such
+56 grant program shall be to provide funding and resources to allow local school systems
+57 to implement mental health screening programs in schools to identify students in grades
+58 six through 12 who are at risk of depression and suicide.
+59 (B) Awards under the grant program shall be allocated to local school systems in a
+60 manner to be determined by the State Board of Education; provided, however, that the
+61 State Board of Education shall, to the greatest extent possible, approve applications
+62 from at least one local school system each in the northern, central, and southern regions
+63 of the state and shall seek a cross section of local school systems from urban, suburban,
+64 and rural areas of the state.
+65 (2)(b)(1) The Department of Education shall, in consultation with the Department of
+66 Behavioral Health and Developmental Disabilities, the Suicide Prevention Program
+67 established pursuant to Code Section 37-1-27, and depression and suicide prevention
+68 experts, develop and approve a list of approved training materials to fulfill the
+H. B. 20
+- 3 -
+
+25 LC 60 0032
+69 requirements of this subsection which may include training materials currently being used
+70 by a local school system, if such training materials meet any criteria established by the
+71 Department of Education.
+72 (3) Approved Such approved training materials shall include training on how to identify
+73 appropriate mental health services, both within the school and also within the larger
+74 community, and when and how to refer youth and their families to those services., and
+75 (4) Approved materials may include programs that can be completed through self-review
+76 of suitable depression and suicide awareness and prevention materials.
+77 (2) To assist local school systems in developing their own policies for student depression
+78 and suicide awareness and prevention, as required in subsection (c) of this Code section,
+79 the Department of Education, in consultation with the Suicide Prevention Program within
+80 the Department of Behavioral Health and Developmental Disabilities, shall establish a
+81 model policy for use by local school systems in accordance with this Code section.
+82 (3)(A) To assist local school systems in selecting a research-based screening tool to use
+83 as part of mental health screening programs, the Department of Education, in
+84 consultation with the Suicide Prevention Program within the Department of Behavioral
+85 Health and Developmental Disabilities, may develop a list of preapproved
+86 research-based screening tools that are validated to screen depression and other mental
+87 health risks in adolescents.
+88 (B) No later than January 1, 2026, the Department of Education, in consultation with
+89 the Suicide Prevention Program within the Department of Behavioral Health and
+90 Developmental Disabilities, shall develop guidance and resources for local school
+91 systems to facilitate the establishment of partnerships with organizations or healthcare
+92 providers specializing in pediatric and adolescent mental health to conduct mental
+93 health screenings.
+94 (4)(A) As used in this paragraph, the term 'telehealth' means the use of information and
+95 communications technologies, including, but not limited to, telephones, remote patient
+H. B. 20
+- 4 -
+
+25 LC 60 0032
+96 monitoring devices, and other electronic means, by a healthcare provider to facilitate
+97 the delivery of long-distance healthcare services, including, but not limited to, patient
+98 consultation, evaluation, diagnosis, treatment, education, and care management.
+99 (B) The Department of Education, in consultation with the Suicide Prevention Program
+100 within the Department of Behavioral Health and Developmental Disabilities and
+101 appropriate stakeholders, including stakeholders with experience in, shall, on or before
+102 October 1, 2025, develop guidance for the use of telehealth in public schools to provide
+103 mental health and behavioral health services to students, including, but not limited to,
+104 student mental health screenings at school or during any school related function.
+105 Guidance developed pursuant to this subparagraph shall include, but shall not be limited
+106 to, the following:
+107 (i) Qualifications of individuals authorized, within the scope of their practice, to
+108 assist students in accessing mental health and behavioral health services via telehealth
+109 while such student is at school or during any school related function;
+110 (ii) Qualifications of individuals authorized, within the scope of their practice, to
+111 provide mental health and behavioral health services to students via telehealth;
+112 (iii) The legal requirements for parental consent for the provision of mental health
+113 and behavioral health services to a minor via telehealth while such minor is at school
+114 or during any school related function;
+115 (iv) Measures necessary to protect the security of data transmitted during the
+116 provision of telehealth to students;
+117 (v) Measures necessary to protect the privacy of student data pursuant to Article 15
+118 of this chapter and the federal Family Educational Rights and Privacy Act
+119 (FERPA), 20 U.S.C. Section 1232g, and medical records pursuant to the federal
+120 Health Insurance Portability and Accountability Act (HIPAA), P.L. 104-191; and
+121 (vi) Potential liability for public schools and local school systems associated with the
+122 provision of telehealth to students.
+H. B. 20
+- 5 -
+
+25 LC 60 0032
+123 (5)(A)(c)(1) No later than December 31, 2025, each Each local school system shall adopt
+124 a policy on student depression and suicide awareness and prevention. Such policies shall
+125 be developed in consultation with school and community stakeholders, school-employed
+126 mental health professionals, and suicide prevention experts, and shall, at a minimum,
+127 address procedures relating to depression awareness and intervention and suicide
+128 awareness, prevention, intervention, and postvention.
+129 (B) To assist local school systems in developing their own policies for student suicide
+130 prevention, the Department of Education, in consultation with the Suicide Prevention
+131 Program within the Department of Behavioral Health and Developmental Disabilities,
+132 shall establish a model policy for use by local school systems in accordance with this
+133 Code section.
+134 (2) A local school system seeking to participate and receive funding under the grant
+135 program provided for in paragraph (2) of subsection (a) of this Code section shall submit
+136 an application to the State School Superintendent, in accordance with application
+137 procedures and requirements prescribed by the State Board of Education. An application
+138 submitted by a local school system shall include, at a minimum:
+139 (A) A description of the mental health screening program to be implemented by the
+140 local school system and an explanation of how the local school system will make
+141 annual mental health screenings available to each student in grades six through 12;
+142 (B) Details concerning the research based screening tool that will be used by the local
+143 school system or whether the local school system will partner with an organization or
+144 healthcare provider specializing in pediatric and adolescent mental health to conduct
+145 the screenings;
+146 (C) A request and justification for the amount of grant funding sought by the local
+147 school system under the grant program;
+H. B. 20
+- 6 -
+
+25 LC 60 0032
+148 (D) A description of how the grant funding will be used to further the purposes of the
+149 mental health screening program, including, but not limited to, hiring additional
+150 personnel, purchasing materials, or contracting with outside entities;
+151 (E) A description of how the mental health screenings will be conducted in a manner
+152 that permits real-time evaluation of the screening results and same-day intervention by
+153 a licensed mental health professional, if required based on the results of the screening;
+154 (F) As applicable, the details of any partnership with an organization or provider
+155 specializing in pediatric and adolescent mental health services, which shall include, but
+156 shall not be limited to, the name of the organization or provider, the number of students
+157 to be served by the organization or provider, the expected time frame to screen the
+158 students, the costs associated with engaging in a partnership with the organization or
+159 provider, and the location where the screenings will take place. A local school system
+160 shall detail whether student health insurance information will be required under its
+161 agreement with a partner organization or provider, how it will obtain that information,
+162 and what accommodations will be made for uninsured or underinsured students and
+163 uninsured and underinsured minor students whose parents or guardians have consented
+164 to the screening;
+165 (G) A description of how the local school system will ensure that the parent or
+166 guardian of a student whose screening detects an irregularity is notified of such
+167 irregularity and how the local school system will advise the parent or guardian of the
+168 services available through a partner organization or provider or supply the parent or
+169 guardian with resources to assist in acquiring further evaluation and diagnosis of the
+170 student by a healthcare professional; and
+171 (H) A description of how the local school system will obtain written informed consent
+172 from a minor student's parent or guardian prior to the screening.
+173 (3) A local school system that receives an award under the grant program provided for
+174 in paragraph (2) of subsection (a) of this Code section shall make available to each
+H. B. 20
+- 7 -
+
+25 LC 60 0032
+175 student in grades six through 12 an annual mental health screening which shall include
+176 screening for depression and suicide risk. Each such local school system or public school
+177 shall meet the following conditions when implementing its mental health screening
+178 program:
+179 (A) The local school system shall use a research based screening tool in its mental
+180 health screening program conducted by a licensed mental health professional or through
+181 a partnership with an organization or healthcare provider specializing in pediatric and
+182 adolescent mental health to conduct the screenings. Nothing in this subparagraph shall
+183 prohibit a local school system from using a self-administered screening tool as part of
+184 the depression screening program;
+185 (B) Mental health screenings shall be conducted in a manner that permits real-time
+186 evaluation of the screening results and same day intervention by a licensed mental
+187 health professional as indicated by the screening;
+188 (C) The local school system shall ensure that mental health screenings are conducted
+189 in a manner that accommodates students who are English language learners, students
+190 with disabilities, and students with low reading proficiency when conducting the
+191 screenings;
+192 (D) Mental health screenings shall be conducted in a manner that ensures the privacy
+193 of the student during the screening process and the confidentiality of the results,
+194 consistent with state and federal laws applicable to the confidentiality of student records
+195 and mental health records;
+196 (E) The local school system shall obtain written informed consent from the minor
+197 student's parent or guardian prior to such student's mental health screening; and
+198 (F) The local school system shall forward data collected from the mental health
+199 screenings to the Department of Education and to the Suicide Prevention Program
+200 within the Department of Behavioral Health and Developmental Disabilities in a form
+201 and manner to be determined by the Department of Education, provided that any data
+H. B. 20
+- 8 -
+
+25 LC 60 0032
+202 forwarded shall be aggregated and shall not contain any identifying or confidential
+203 information with regard to any individual.
+204 (4) In the event that a local school system chooses to partner with an organization or
+205 healthcare provider specializing in pediatric and adolescent mental health to conduct the
+206 mental health screenings, the partner organization or provider may also provide mental
+207 health services as deemed necessary by the organization or provider and as consented to
+208 by a minor student's parent or guardian. A local school system partnering with an
+209 organization or healthcare provider specializing in pediatric and adolescent mental health
+210 may develop a form to obtain parental consent and student health insurance information
+211 as necessary to satisfy the provisions of any partnership agreement.
+212 (b)(d) No person shall have a cause of action for any loss or damage caused by any act or
+213 omission resulting from the implementation of the provisions of this Code section or
+214 arising from any advice, screening, facilitation of screening, or training, or lack thereof,
+215 required by provided pursuant to this Code section.
+216 (c)(e) Any advice, screenings, facilitation of screenings, and The training, or lack thereof,
+217 required by the provisions of provided for in this Code section shall not be construed to
+218 impose any specific duty of care.
+219 (f) Nothing in this Code section shall be construed to affect a local school system's ability
+220 to provide additional or supplemental services to a student as required by, or as consistent
+221 with, any applicable provision of state or federal law."
+222 SECTION 4.
+223 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 20
+- 9 -
+
+[DELETED: 5L6,3,7hrdt]
+[DELETED: 5L a w p u r t e p a a i p a m h o f y p  I i]
+[DELETED: 5L t s p a a t a n d o c i a  S t a t S B o E i a t H a D D t S P P d a a a l o a t m t f t]
+[DELETED: 5L p o m h s p t D o E i a D D m d a l o p S P P w t D o B H a]
+[DELETED: 5L t D o B H a D D a m h s a s o d a s r f  M n t p t s o d t d t t c a t f F E R a P A]
+[DELETED: 5L p r t d a a i a s a t t S S S i a w a]
+[DELETED: 5L h s p i b n l t h a  A d o h t l s s w e t t p o o a s w s d a i i n o s]
+[DELETED: 5L d a s w l r p w c t t s d t s p a t c o t r]
+[DELETED: 5L]
