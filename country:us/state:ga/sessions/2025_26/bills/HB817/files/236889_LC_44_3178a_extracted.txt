@@ -1,0 +1,295 @@
+Title: House Bill 817
+Official Title: House Bill 817
+Number of Sections: 1
+Source: versions - LC 44 3178/a
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 44 3178
+By: Representatives Dickey of the 134th, Meeks of the 178th, and Dawson of the 65th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 6 of Title 4 of the Official Code of Georgia Annotated,
+2 relating to livestock dealers, so as to provide for source verification requirements for
+3 large-scale meat producers; to provide for written disclosures; to provide for disclosures and
+4 health risk management for older livestock; to provide for avian influenza testing for
+5 large-scale poultry producers; to regulate multispecies producers; to provide for enforcement
+6 and penalties; to provide for definitions; to provide legislative findings and declarations; to
+7 provide for a short title; to provide for related matters; to provide for an effective date; to
+8 repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Georgia Meat Transparency and Source
+12 Verification Act."
+13 SECTION 2.
+14 The General Assembly finds and declares that the purpose of this Act is to enhance
+15 transparency in the marketing and sale of meat products labeled as "grassfed,"
+H. B. 817
+- 1 -
+25 LC 44 3178
+16 "pasture-raised," "regeneratively raised," or similar designations by requiring large-scale
+17 producers to verify the origin and management history of their livestock. This Act also
+18 establishes public health safeguards by implementing testing protocols for older cattle and
+19 avian influenza in pasture-raised poultry.
+20 SECTION 3.
+21 Article 1 of Chapter 6 of Title 4 of the Official Code of Georgia Annotated, relating to
+22 livestock dealers, is amended by adding a new Code section to read as follows:
+23 "4-6-13.
+24 (a) As used in this Code section, the term:
+25 (1) 'Avian influenza testing' means a diagnostic procedure conducted to detect the
+26 presence of highly pathogenic avian influenza or low pathogenic avian influenza in live
+27 poultry populations.
+28 (2) 'Culling' means any method of removing livestock from primary production,
+29 including but not limited to sale through livestock markets, sale for processing due to
+30 health or age factors, or transfer to nonspecialty production systems.
+31 (3) 'Large-scale meat producer' means a meat producer with annual gross sales of meat
+32 products of at least $1 million per year.
+33 (4) 'Large-scale poultry producer' means a poultry producer with annual gross sales of
+34 poultry products of at least $250,000.00 per year.
+35 (5) 'Livestock market' means any facility where livestock are bought, sold, or traded
+36 through public or private sale, including but not limited to auctions, stockyards, and
+37 trading barns.
+38 (6) 'Meat producer' means any person engaged in the production, processing, or sale of
+39 meat in this state, including beef, pork, lamb, and goat, but excluding poultry, marketed
+40 under grassfed, pasture-raised, regenerative, or similar agriculture labels.
+41 (7) 'Older cattle' means any livestock over five years of age at the time of slaughter.
+H. B. 817
+- 2 -
+25 LC 44 3178
+42 (8) 'Poultry producer' means any person engaged in the production, processing, or sale
+43 of poultry in this state marketed under grassfed, pasture-raised, regenerative, or similar
+44 agriculture labels.
+45 (9) 'Regenerative' means a system of farming that seeks to improve soil health,
+46 biodiversity, and ecosystem resilience, often associated with livestock production claims.
+47 (b)(1) All large-scale meat producers located in this state shall maintain records verifying
+48 the source and management history of all livestock used in their meat production,
+49 including:
+50 (A) Birth records, identifying the original producer or ranch;
+51 (B) Any transfers of ownership or location changes, including feedlots, auctions, or
+52 direct-to-slaughter transactions; and
+53 (C) Documentation proving continuous compliance with United States Department of
+54 Agriculture approved standards applicable to their specific marketing claims, such as
+55 100 percent grassfed and pasture-raised.
+56 (2) Such records shall be made available for inspection by the department upon request
+57 and retained for a minimum of five years.
+58 (c)(1) Any meat marketed or sold in this state under the designations covered in this
+59 Code section shall include a clear, written disclosure stating whether the livestock:
+60 (A) Have ever been sold through a livestock market or auction;
+61 (B) Have ever been subject to a culling process prior to final sale;
+62 (C) Have been continuously managed under the specified production protocols without
+63 interruption;
+64 (D) Were finished on feed that deviates from the marketed designation, such as
+65 grassfed cattle receiving grain at any point; and
+66 (E) Were over the age of five years at the time of slaughter.
+67 (2) This disclosure shall be made available at the point of sale, on packaging or
+68 promotional materials, and on any official website or sales platform used by the producer.
+H. B. 817
+- 3 -
+25 LC 44 3178
+69 (d)(1) Any large-scale meat producer marketing beef from cattle older than five years at
+70 the time of slaughter shall publicly disclose this fact through:
+71 (A) A label on packaging stating: 'This beef is from cattle over 5 years of age'; and
+72 (B) Online sales listings or menus specifying when beef is sourced from older cattle.
+73 (2) Any beef from cattle over five years old shall undergo testing for specified risk
+74 materials associated with transmissible spongiform encephalopathies, including but not
+75 limited to:
+76 (A) Testing for abnormal prion proteins linked to bovine spongiform encephalopathy;
+77 (B) Removal and proper disposal of spinal cords, brains, eyes, and other high-risk
+78 tissues as required under United States Department of Agriculture and United States
+79 Food and Drug Administration regulations; and
+80 (C) Documentation proving compliance with specific risk materials removal and
+81 testing requirements, to be retained for no less than five years.
+82 (e)(1) All poultry producers shall conduct routine avian influenza testing as follows:
+83 (A) A minimum of 3 percent of live poultry flocks shall be tested weekly for highly
+84 pathogenic avian influenza and low pathogenic avian influenza;
+85 (B) Testing shall be conducted by an accredited laboratory using United States
+86 Department of Agriculture approved methods; and
+87 (C) Records of all testing shall be maintained for a minimum of five years and made
+88 available to the department upon request.
+89 (2) If a positive case of highly pathogenic avian influenza is detected, the producer shall:
+90 (A) Immediately notify the department and United States Department of Agriculture
+91 Animal and Plant Health Inspection Service;
+92 (B) Cease sales and distribution of poultry products from the affected flock until
+93 further guidance is provided by state and federal authorities; and
+94 (C) Implement biosecurity measures to prevent disease spread, including flock culling
+95 if required by United States Department of Agriculture regulations.
+H. B. 817
+- 4 -
+25 LC 44 3178
+96 (3) Any failure to comply with avian influenza testing requirements shall result in
+97 penalties as outlined in subsection (g) of this Code section.
+98 (f)(1) Large-scale meat producers and large-scale poultry producers marketing multiple
+99 types of meat under regenerative or pasture-based claims shall ensure separate and
+100 verifiable tracking for each species to avoid cross-contamination of claims.
+101 (2) Large-scale meat producers and large-scale poultry producers engaged in
+102 direct-to-consumer online sales shall provide consumers with accessible sourcing
+103 verification through a scannable QR code, detailed webpage, or other verifiable digital
+104 record.
+105 (g) Any large-scale meat producer or large-scale poultry producer found in violation of
+106 this Code section shall be subject to:
+107 (1) A civil penalty not to exceed $5,000.00 per violation for a first offense;
+108 (2) A civil penalty not to exceed $10,000.00 per violation for subsequent offenses; and
+109 (3) Revocation or suspension of the producer's ability to market meat or poultry products
+110 under the covered designations within this state for repeated noncompliance."
+111 SECTION 4.
+112 This Act shall become effective on January 1, 2026.
+113 SECTION 5.
+114 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 817
+- 5 -
+[DELETED: 5L4,8,5htht t l d s a t p f s v r f r m f o l t p f a i t f G A f a d t t p o t A i t e i t m a s o m p l a "]
+[DELETED: 5L  ' m a m o r l f p p]
+[DELETED: 5L  ' m a s o f t s t i s h s a m h o a l u i t m p  W f o f t d f t m d s a  T d s b m a a t p o s o p o]
+[DELETED: 5L    T s b c b a a l u U S]
+[DELETED: 5L r  L m p a l p p e i o s s p c w a s]
+
+
+================================================================================
+
+Raw Text:
+25 LC 44 3178
+House Bill 817
+By: Representatives Dickey of the 134th, Meeks of the 178th, and Dawson of the 65th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 6 of Title 4 of the Official Code of Georgia Annotated,
+2 relating to livestock dealers, so as to provide for source verification requirements for
+3 large-scale meat producers; to provide for written disclosures; to provide for disclosures and
+4 health risk management for older livestock; to provide for avian influenza testing for
+5 large-scale poultry producers; to regulate multispecies producers; to provide for enforcement
+6 and penalties; to provide for definitions; to provide legislative findings and declarations; to
+7 provide for a short title; to provide for related matters; to provide for an effective date; to
+8 repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Georgia Meat Transparency and Source
+12 Verification Act."
+13 SECTION 2.
+14 The General Assembly finds and declares that the purpose of this Act is to enhance
+15 transparency in the marketing and sale of meat products labeled as "grassfed,"
+H. B. 817
+- 1 -
+
+25 LC 44 3178
+16 "pasture-raised," "regeneratively raised," or similar designations by requiring large-scale
+17 producers to verify the origin and management history of their livestock. This Act also
+18 establishes public health safeguards by implementing testing protocols for older cattle and
+19 avian influenza in pasture-raised poultry.
+20 SECTION 3.
+21 Article 1 of Chapter 6 of Title 4 of the Official Code of Georgia Annotated, relating to
+22 livestock dealers, is amended by adding a new Code section to read as follows:
+23 "4-6-13.
+24 (a) As used in this Code section, the term:
+25 (1) 'Avian influenza testing' means a diagnostic procedure conducted to detect the
+26 presence of highly pathogenic avian influenza or low pathogenic avian influenza in live
+27 poultry populations.
+28 (2) 'Culling' means any method of removing livestock from primary production,
+29 including but not limited to sale through livestock markets, sale for processing due to
+30 health or age factors, or transfer to nonspecialty production systems.
+31 (3) 'Large-scale meat producer' means a meat producer with annual gross sales of meat
+32 products of at least $1 million per year.
+33 (4) 'Large-scale poultry producer' means a poultry producer with annual gross sales of
+34 poultry products of at least $250,000.00 per year.
+35 (5) 'Livestock market' means any facility where livestock are bought, sold, or traded
+36 through public or private sale, including but not limited to auctions, stockyards, and
+37 trading barns.
+38 (6) 'Meat producer' means any person engaged in the production, processing, or sale of
+39 meat in this state, including beef, pork, lamb, and goat, but excluding poultry, marketed
+40 under grassfed, pasture-raised, regenerative, or similar agriculture labels.
+41 (7) 'Older cattle' means any livestock over five years of age at the time of slaughter.
+H. B. 817
+- 2 -
+
+25 LC 44 3178
+42 (8) 'Poultry producer' means any person engaged in the production, processing, or sale
+43 of poultry in this state marketed under grassfed, pasture-raised, regenerative, or similar
+44 agriculture labels.
+45 (9) 'Regenerative' means a system of farming that seeks to improve soil health,
+46 biodiversity, and ecosystem resilience, often associated with livestock production claims.
+47 (b)(1) All large-scale meat producers located in this state shall maintain records verifying
+48 the source and management history of all livestock used in their meat production,
+49 including:
+50 (A) Birth records, identifying the original producer or ranch;
+51 (B) Any transfers of ownership or location changes, including feedlots, auctions, or
+52 direct-to-slaughter transactions; and
+53 (C) Documentation proving continuous compliance with United States Department of
+54 Agriculture approved standards applicable to their specific marketing claims, such as
+55 100 percent grassfed and pasture-raised.
+56 (2) Such records shall be made available for inspection by the department upon request
+57 and retained for a minimum of five years.
+58 (c)(1) Any meat marketed or sold in this state under the designations covered in this
+59 Code section shall include a clear, written disclosure stating whether the livestock:
+60 (A) Have ever been sold through a livestock market or auction;
+61 (B) Have ever been subject to a culling process prior to final sale;
+62 (C) Have been continuously managed under the specified production protocols without
+63 interruption;
+64 (D) Were finished on feed that deviates from the marketed designation, such as
+65 grassfed cattle receiving grain at any point; and
+66 (E) Were over the age of five years at the time of slaughter.
+67 (2) This disclosure shall be made available at the point of sale, on packaging or
+68 promotional materials, and on any official website or sales platform used by the producer.
+H. B. 817
+- 3 -
+
+25 LC 44 3178
+69 (d)(1) Any large-scale meat producer marketing beef from cattle older than five years at
+70 the time of slaughter shall publicly disclose this fact through:
+71 (A) A label on packaging stating: 'This beef is from cattle over 5 years of age'; and
+72 (B) Online sales listings or menus specifying when beef is sourced from older cattle.
+73 (2) Any beef from cattle over five years old shall undergo testing for specified risk
+74 materials associated with transmissible spongiform encephalopathies, including but not
+75 limited to:
+76 (A) Testing for abnormal prion proteins linked to bovine spongiform encephalopathy;
+77 (B) Removal and proper disposal of spinal cords, brains, eyes, and other high-risk
+78 tissues as required under United States Department of Agriculture and United States
+79 Food and Drug Administration regulations; and
+80 (C) Documentation proving compliance with specific risk materials removal and
+81 testing requirements, to be retained for no less than five years.
+82 (e)(1) All poultry producers shall conduct routine avian influenza testing as follows:
+83 (A) A minimum of 3 percent of live poultry flocks shall be tested weekly for highly
+84 pathogenic avian influenza and low pathogenic avian influenza;
+85 (B) Testing shall be conducted by an accredited laboratory using United States
+86 Department of Agriculture approved methods; and
+87 (C) Records of all testing shall be maintained for a minimum of five years and made
+88 available to the department upon request.
+89 (2) If a positive case of highly pathogenic avian influenza is detected, the producer shall:
+90 (A) Immediately notify the department and United States Department of Agriculture
+91 Animal and Plant Health Inspection Service;
+92 (B) Cease sales and distribution of poultry products from the affected flock until
+93 further guidance is provided by state and federal authorities; and
+94 (C) Implement biosecurity measures to prevent disease spread, including flock culling
+95 if required by United States Department of Agriculture regulations.
+H. B. 817
+- 4 -
+
+25 LC 44 3178
+96 (3) Any failure to comply with avian influenza testing requirements shall result in
+97 penalties as outlined in subsection (g) of this Code section.
+98 (f)(1) Large-scale meat producers and large-scale poultry producers marketing multiple
+99 types of meat under regenerative or pasture-based claims shall ensure separate and
+100 verifiable tracking for each species to avoid cross-contamination of claims.
+101 (2) Large-scale meat producers and large-scale poultry producers engaged in
+102 direct-to-consumer online sales shall provide consumers with accessible sourcing
+103 verification through a scannable QR code, detailed webpage, or other verifiable digital
+104 record.
+105 (g) Any large-scale meat producer or large-scale poultry producer found in violation of
+106 this Code section shall be subject to:
+107 (1) A civil penalty not to exceed $5,000.00 per violation for a first offense;
+108 (2) A civil penalty not to exceed $10,000.00 per violation for subsequent offenses; and
+109 (3) Revocation or suspension of the producer's ability to market meat or poultry products
+110 under the covered designations within this state for repeated noncompliance."
+111 SECTION 4.
+112 This Act shall become effective on January 1, 2026.
+113 SECTION 5.
+114 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 817
+- 5 -
+
+[DELETED: 5L4,8,5htht t l d s a t p f s v r f r m f o l t p f a i t f G A f a d t t p o t A i t e i t m a s o m p l a "]
+[DELETED: 5L  ' m a m o r l f p p]
+[DELETED: 5L  ' m a s o f t s t i s h s a m h o a l u i t m p  W f o f t d f t m d s a  T d s b m a a t p o s o p o]
+[DELETED: 5L    T s b c b a a l u U S]
+[DELETED: 5L r  L m p a l p p e i o s s p c w a s]

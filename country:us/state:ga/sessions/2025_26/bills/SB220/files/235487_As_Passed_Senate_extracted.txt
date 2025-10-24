@@ -1,0 +1,1160 @@
+Title: Senate Bill 220
+Official Title: Senate Bill 220
+Number of Sections: 1
+Source: versions - As Passed Senate
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+25 SB 220/CSFA
+By: Senators Brass of the 6th, Summers of the 13th, Hatchett of the 50th, Strickland of the
+42nd, Jackson of the 41st and others
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend various provisions of the Official Code of Georgia Annotated, so as to rename low
+2 THC oil as medical cannabis; to amend Chapter 12 of Title 16, Article 2 of Chapter 13 of
+3 Title 16, and Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated,
+4 relating to offenses against the public health and morals, regulation of controlled substances,
+5 and general provisions relative to the Department of Public Health, respectively, so as to
+6 clarify and revise criminal penalties; to clarify and revise exemptions to criminal penalties;
+7 to revise the duties of the Georgia Access to Medical Cannabis Commission; to provide for
+8 the provision of certain information by licensees; to provide limitations on the provision of
+9 such information; to repeal the prohibition on certain manners of ingesting medical cannabis;
+10 to exclude the lawful possession and control of medical cannabis from the provisions of the
+11 Georgia Controlled Substances Act; to revise the list of diagnosed conditions for which a
+12 medical cannabis registration card can be issued; to provide for conforming changes; to
+13 provide for definitions; to provide a short title; to provide for related matters; to repeal
+14 conflicting laws; and for other purposes.
+15 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 220
+- 1 -
+25 SB 220/CSFA
+16 PART I
+17 SECTION 1-1.
+18 This Act shall be known and may be cited as the "Putting Georgia's Patients First Act."
+19 PART II
+20 SECTION 2-1.
+21 Title 2 of the Official Code of Georgia Annotated, relating to agriculture, is amended by
+22 replacing "low THC oil" and "Low THC oil" with "medical cannabis" and "Medical
+23 cannabis", respectively, wherever such terms occur in:
+24 (1) Code Section 2-11-36, relating to seeds used in production of low THC oil;
+25 (2) Code Section 2-23-9.2, relating to consumable hemp products, packaging, advertising,
+26 and distribution; and
+27 (3) Code Section 2-23-9.3, relating to location of retail establishments selling or
+28 distributing consumable hemp products.
+29 SECTION 2-2.
+30 Article 9 of Chapter 12 of Title 16 of the Official Code of Georgia Annotated, relating to
+31 access to medical cannabis, is amended by replacing "low THC oil" and "Low THC oil" with
+32 "medical cannabis" and "Medical cannabis", respectively, and by replacing "Low THC Oil
+33 Patient Registry" with "Medical Cannabis Patient Registry" wherever such terms occur in:
+34 (1) Code Section 16-12-201, relating to prohibition against producing, growing,
+35 manufacturing, or dispensing low THC oil or products;
+36 (2) Code Section 16-12-204, relating to nontransferable designated university licenses to
+37 produce low THC oil and products, research and reporting of collected information, and
+38 license revocation;
+S. B. 220
+- 2 -
+25 SB 220/CSFA
+39 (3) Code Section 16-12-206, relating to annual, nontransferable dispensing license,
+40 adoption of rules, and fees;
+41 (4) Code Section 16-12-210, relating to powers, duties, and responsibilities of the Georgia
+42 Access to Medical Cannabis Commission, no undue burden on patients, and remission of
+43 fees;
+44 (5) Code Section 16-12-211, relating to class 1 production licenses, application fee,
+45 revocation, and limitation on ownership;
+46 (6) Code Section 16-12-212, relating to class 2 production licenses, application fees,
+47 revocation, and limitation on ownership;
+48 (7) Code Section 16-12-213, relating to tracking system requirements;
+49 (8) Code Section 16-12-216, relating to Bureau of Investigation, Access to Medical
+50 Cannabis Commission, and Composite Medical Board to jointly establish procedures to
+51 ensure compliance;
+52 (9) Code Section 16-12-217, relating to on-demand access to facilities, provision of
+53 samples, testing, and secured transportation;
+54 (10) Code Section 16-12-224, relating to limitation on ownership by member or former
+55 member of the Georgia Access to Medical Cannabis Commission, limitation on physician's
+56 involvement, and identification when contributing to political campaigns;
+57 (11) Code Section 16-12-226, relating to sales and use taxes applicable;
+58 (12) Code Section 16-12-230, relating to requirements for dispensing low THC oil and
+59 products;
+60 (13) Code Section 16-12-233, relating to contracts not against public policy;
+61 (14) Code Section 16-12-235, relating to research in compliance with federal regulations;
+62 and
+63 (15) Code Section 16-12-235.1, relating to possession of low THC oil and products by
+64 colleges and universities for research purposes, permitting requirements, and inspection.
+S. B. 220
+- 3 -
+25 SB 220/CSFA
+65 SECTION 2-3.
+66 Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to
+67 general provisions relative to the Department of Public Health, is amended in Code Section
+68 31-2A-18, relating to low THC oil patient registry, registration cards, reports, waiver forms,
+69 and annual review and recommendations, by replacing "low THC oil" and "Low THC oil"
+70 with "medical cannabis" and "Medical cannabis", respectively, and by replacing "Low THC
+71 Oil Patient Registry" with "Medical Cannabis Patient Registry" wherever such terms occur.
+72 SECTION 2-4.
+73 Chapter 1 of Title 51 of the Official Code of Georgia Annotated, relating to general
+74 provisions relative to torts, is amended in Code Section 51-1-29.6, relating to liability of
+75 health care institutions and providers regarding low THC oil, by replacing "low THC oil" and
+76 "Low THC oil" with "medical cannabis" and "Medical cannabis", respectively.
+77 PART III
+78 SECTION 3-1.
+79 Chapter 12 of Title 16 of the Official Code of Georgia Annotated, relating to offenses against
+80 the public health and morals, is amended by revising Article 8, relating to regulation of low
+81 THC oil, as follows:
+82 "ARTICLE 8
+83 16-12-190.
+84 As used in this article, the term:
+85 (1) 'Medical cannabis' means any plant within the genus Cannabis and any part of such
+86 plant, including all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts of
+S. B. 220
+- 4 -
+25 SB 220/CSFA
+87 isomers, whether growing or not, 'low THC oil' means an oil that contains an amount of
+88 cannabidiol and not more than 5 percent 50 percent by weight of tetrahydrocannabinol,
+89 tetrahydrocannabinolic acid, or a combination of tetrahydrocannabinol and
+90 tetrahydrocannabinolic acid which does not contain plant material exhibiting the external
+91 morphological features of the plant of the genus Cannabis. Such term shall not mean
+92 include:
+93 (A) Products products approved by the federal Food and Drug Administration under
+94 Section 505 of the federal Food, Drug, and Cosmetic Act; or
+95 (B) Hemp or hemp products, as defined in Code Section 2-23-3.
+96 (2) 'Product' shall have the same meaning as set forth in Code Section 16-12-200.
+97 (3) 'Registered patient' shall have the same meaning as set forth in Code
+98 Section 16-12-200.
+99 16-12-191.
+100 (a)(1) Notwithstanding any provision of Chapter 13 of this title, it shall be lawful for any
+101 person to possess, purchase, or have under his or her control 20 fluid ounces 2.0 ounces
+102 or less of low THC oil medical cannabis or a product or products containing an
+103 equivalent amount of medical cannabis if such substance medical cannabis or product or
+104 products is in a pharmaceutical container labeled by the manufacturer indicating the
+105 percentage of tetrahydrocannabinol therein and:
+106 (A) Such person is a registered patient with the Department of Public Health as set
+107 forth in Code Section 31-2A-18 and has in his or her possession a registration card
+108 issued by the Department of Public Health pursuant to Code Section 31-2A-18; or
+109 (B) Such person has in his or her possession a registration card issued by another state
+110 that allows the same possession of low THC oil medical cannabis as provided by this
+111 state's law; provided, however, that such registration card shall not be lawful authority
+112 when such person has been present in this state for 45 days or more.
+S. B. 220
+- 5 -
+25 SB 220/CSFA
+113 (2) Notwithstanding any provision of Chapter 13 of this title, any person registered
+114 patient who possesses, purchases, or has under his or her control 20 fluid ounces 2.0
+115 ounces or less of low THC oil medical cannabis or a product or products containing an
+116 equivalent amount of medical cannabis without complying with paragraph (1) of this
+117 subsection shall be punished as for a misdemeanor.
+118 (b)(1) Notwithstanding any provision of Chapter 13 of this title, it shall be lawful for any
+119 person to possess, purchase, or have under his or her control 20 fluid ounces 2.0 ounces
+120 or less of low THC oil medical cannabis or a product or products containing an
+121 equivalent amount of medical cannabis if:
+122 (A) Such person is involved in a clinical research program being conducted by the
+123 Board of Regents of the University System of Georgia or any authorized clinical trial
+124 or research study in this state or their authorized agent as:
+125 (i) A program participant;
+126 (ii) A parent, guardian, or legal custodian of a program participant;
+127 (iii) An employee of the board of regents designated to participate in the research
+128 program;
+129 (iv) A program agent;
+130 (v) A program collaborator and their designated employees;
+131 (vi) A program supplier and their designated employees;
+132 (vii) A program physician;
+133 (viii) A program clinical researcher;
+134 (ix) Program pharmacy personnel; or
+135 (x) Other program medical personnel; and
+136 (B) Such substance medical cannabis or product or products is in a pharmaceutical
+137 container labeled by the manufacturer indicating the percentage of tetrahydrocannabinol
+138 therein.
+S. B. 220
+- 6 -
+25 SB 220/CSFA
+139 (2) Notwithstanding any provision of Chapter 13 of this title, any such person who
+140 possesses, purchases, or has under his or her control 20 fluid ounces 2.0 ounces or less
+141 of low THC oil medical cannabis or a product or products containing an equivalent
+142 amount of medical cannabis without complying with subparagraphs (A), (B), and (C) of
+143 paragraph (1) of this subsection shall be punished as for a misdemeanor.
+144 (c) Notwithstanding any provision of Chapter 13 of this title, any person Any registered
+145 patient having possession of, purchasing, or having under his or her control more than 20
+146 fluid ounces 2.0 ounces of low THC oil but less than 160 fluid ounces of low THC oil or
+147 who manufactures, distributes, dispenses, sells, purchases, or possesses with the intent to
+148 distribute low THC oil shall be guilty of a felony and, upon conviction thereof, shall be
+149 punished by imprisonment for not less than one year nor more than ten years, a fine not to
+150 exceed $50,000.00, or both medical cannabis or a product or products containing an
+151 equivalent amount of medical cannabis shall be subject to the penalties set forth in Chapter
+152 13 of this title.
+153 (d) Notwithstanding any provision of Chapter 13 of this title, any person who sells,
+154 manufactures, delivers, brings into this state, purchases, or has possession of 160 or more
+155 fluid ounces of low THC oil shall be guilty of the felony offense of trafficking in low THC
+156 oil and, upon conviction thereof, shall be punished as follows:
+157 (1) If the quantity of low THC oil is at least 160 fluid ounces but less than 31,000 fluid
+158 ounces, by imprisonment for not less than five years nor more than ten years and a fine
+159 not to exceed $100,000.00;
+160 (2) If the quantity of low THC oil is at least 31,000 fluid ounces but less than 154,000
+161 fluid ounces, by imprisonment for not less than seven years nor more than 15 years and
+162 a fine not to exceed $250,000.00; and
+163 (3) If the quantity of low THC oil is 154,000 or more fluid ounces, by imprisonment for
+164 not less than ten years nor more than 20 years and a fine not to exceed $1 million.
+S. B. 220
+- 7 -
+25 SB 220/CSFA
+165 (e)(d) Subsection Subsections (c) and (d) of this Code section shall not apply to a person
+166 involved in a research program being conducted by the Board of Regents of the University
+167 System of Georgia or its authorized agent as an employee of the board of regents
+168 designated to participate in such program, a program agent, a program collaborator and
+169 their its designated employees, a program supplier and their its designated employees, a
+170 physician, clinical researcher, pharmacy personnel, or other medical personnel.
+171 (f) Subsections (c) and (d) of this Code section shall not apply to a designated university,
+172 pharmacy, or licensee under Article 9 of Chapter 12 of Title 16, provided that such
+173 possession, purchase, control, sale, manufacturing, distribution, or dispensing is solely
+174 conducted in accordance with the provisions of Article 9 of Chapter 12 of Title 16.
+175 (g)(e) Nothing in this article shall require an employer to permit or accommodate the use,
+176 consumption, possession, transfer, display, transportation, purchase, sale, or growing of
+177 marijuana in any form, or to affect the ability of an employer to have a written zero
+178 tolerance policy prohibiting the on-duty, and off-duty, use of marijuana, or prohibiting any
+179 employee from having a detectable amount of marijuana in such employee's system while
+180 at work."
+181 SECTION 3-2.
+182 Said chapter is further amended by revising Code Section 16-12-200, relating to definitions
+183 relative to access to medical cannabis, as follows:
+184 "16-12-200.
+185 As used in this article, the term:
+186 (1) 'Applicant' means a corporate entity applying for a license pursuant to this article.
+187 (2) 'Available capital' means corporate assets that are available to fund business
+188 operations in the event a license is awarded pursuant to Part 2 of this article.
+189 (3) 'Class 1 production license' means a license to produce and manufacture low THC
+190 oil medical cannabis and products issued pursuant to Code Section 16-12-211.
+S. B. 220
+- 8 -
+25 SB 220/CSFA
+191 (4) 'Class 2 production license' means a license to produce and manufacture low THC
+192 oil medical cannabis and products issued pursuant to Code Section 16-12-212.
+193 (5) 'Commission' means the Georgia Access to Medical Cannabis Commission created
+194 pursuant to Code Section 16-12-202.
+195 (6) 'Designated universities' means the University of Georgia and Fort Valley State
+196 University.
+197 (7) 'Designated university license' means a license issued by the commission pursuant
+198 to this article to a designated university to, separately or jointly, produce, manufacture,
+199 and purchase low THC oil medical cannabis and products in accordance with this article.
+200 (8) 'Dispense' means the sale or provision of low THC oil medical cannabis and products
+201 to registered patients by a dispensing licensee.
+202 (9) 'Dispensing license' means a specialty license issued by the State Board of Pharmacy
+203 or the commission pursuant to Code Section 16-12-206 to dispense low THC oil medical
+204 cannabis and products to registered patients.
+205 (10) 'Grow' means cultivating and harvesting cannabis for use in producing low THC oil
+206 medical cannabis and products.
+207 (11) 'Licensee' means any business, or owner of such business, with a valid license
+208 issued pursuant to this article.
+209 (12) 'Low THC oil' shall have the same meaning as set forth in Code Section 16-12-190.
+210 (13) 'Manufacture' means to process cannabis to produce low THC oil medical cannabis
+211 and products.
+212 (13) 'Medical cannabis' shall have the same meaning as set forth in Code
+213 Section 16-12-190.
+214 (14) 'Owner' means any person who directly or indirectly owns, actually or beneficially,
+215 or controls 5 percent or greater of interests of the applicant or any licensee. In the event
+216 that one person owns a beneficial right to interests and another person holds the voting
+S. B. 220
+- 9 -
+25 SB 220/CSFA
+217 rights with respect to such interests, then both shall be considered an owner of such
+218 interests.
+219 (15) 'Product' means all products that are derived from, or made by, processing medical
+220 cannabis and that are prepared in a form available for commercial sale, including medical
+221 cannabis low THC oil delivered through an oil, or tincture, transdermal patch, lotion, or
+222 capsule, except as prohibited by Code Section 16-12-234, but not including:
+223 (A) Hemp products;
+224 (B) Any any food products infused with low THC oil containing medical cannabis,
+225 including, but not limited to, cookies, and candies; or
+226 (C) Raw plant material or any products containing raw plant material, or edibles.
+227 (16) 'Registered patient' means an individual who is legally authorized to possess and use
+228 low THC oil medical cannabis and products pursuant to Code Section 31-2A-18.
+229 (17) 'Tracking system' means a seed-to-sale tracking system to track marijuana that is
+230 grown, processed, manufactured, transferred, stored, or disposed of and low THC oil
+231 medical cannabis and products that are transferred, stored, sold, dispensed, or disposed
+232 of pursuant to this article."
+233 SECTION 3-3.
+234 Said chapter is further amended by revising Code Section 16-12-203, relating to the powers,
+235 duties, and responsibilities of the Georgia Access to Medical Cannabis Commission, as
+236 follows:
+237 "16-12-203.
+238 The commission shall have the following powers, duties, and responsibilities:
+239 (1) To apply for, receive, and administer state funds appropriated to the commission,
+240 private grants and donations, and other funds and donations. The commission's annual
+241 distributions shall be capped and limited to funds received from the sources specified in
+S. B. 220
+- 10 -
+25 SB 220/CSFA
+242 this paragraph. The commission shall ensure that its funds are not used as a supplement
+243 or secondary payor to any other third-party payor;
+244 (2) To execute a contract or contracts to purchase or obtain low THC oil medical
+245 cannabis, cannabis, cannabinoids, or any other derivative, compound, or substantially
+246 similar products from any available legal source and to provide logistics related thereto
+247 in accordance with this article. Such contract or contracts may be executed with one or
+248 more qualified corporations or with one or more governmental entities. Purchases made
+249 pursuant to this paragraph shall not be subject to state purchasing laws contained in
+250 Article 3 of Chapter 5 of Title 50 or in other provisions of the Official Code of Georgia
+251 Annotated;
+252 (3) To utilize funds appropriated to the commission as may be necessary to purchase and
+253 transport low THC oil medical cannabis and products to the State of Georgia for use by
+254 registered patients;
+255 (4) To develop, establish, maintain, and administer a low THC oil medical cannabis and
+256 products distribution network to obtain and distribute low THC oil medical cannabis and
+257 products to registered patients in this state and to coordinate the best use of facilities and
+258 resources to operate such distribution network;
+259 (5) To establish procedures for inspecting production facilities operated by designated
+260 universities;
+261 (6) To establish requirements and procedures to ensure quality control, security, and
+262 oversight of low THC oil medical cannabis and products production in this state,
+263 including, but not limited to, testing for purity and dosage levels and verification that
+264 product labels accurately reflect product content;
+265 (7) To provide for oversight of tracking systems;
+266 (8) To coordinate and assist in the collection of data to evaluate the provision of low
+267 THC oil medical cannabis and products in this state;
+S. B. 220
+- 11 -
+25 SB 220/CSFA
+268 (9) To study the provision of low THC oil medical cannabis and products in this state to
+269 determine the best practices and methods of providing such services, to determine what
+270 changes are needed to improve the provision of low THC oil medical cannabis and
+271 products, and to report any proposed legislative changes to the General Assembly each
+272 year;
+273 (10) To coordinate its activities with the Department of Public Health;
+274 (10.1) To engage in public awareness activities concerning the medical cannabis
+275 program in this state and effective uses of medical cannabis and products, including, but
+276 not limited to, publishing materials and conducting outreach and public education
+277 activities to inform members of the public, law enforcement, and healthcare providers
+278 about the medical cannabis program in this state and the potential benefits that medical
+279 cannabis and products may have to eligible patients;
+280 (11) To employ an executive director and other staff and to establish duties and
+281 responsibilities of such persons;
+282 (12) To employ and manage consultants, as deemed necessary, in order to fulfill its
+283 duties and responsibilities under this article;
+284 (13) To review new treatment and delivery methods for low THC oil medical cannabis
+285 and products that may result from medical research and are not otherwise inconsistent
+286 with this article, and recommend statutory changes to the General Assembly to authorize
+287 such treatment and delivery methods and products;
+288 (14) To be responsible for the noncriminal enforcement of the provisions of this article
+289 and to have all of the necessary duties, power, and authority to carry out such
+290 responsibility;
+291 (15) To be authorized to draft, adopt, amend, repeal, and enforce such rules and
+292 regulations as it deems necessary for the administration and enforcement of this article
+293 in the protection of public health, safety, and welfare;
+294 (16) To enforce qualifications for licensure; and
+S. B. 220
+- 12 -
+25 SB 220/CSFA
+295 (17) To levy fines for failure by a Class 1 production licensee, Class 2 production
+296 licensee, or dispensing licensee to operate in accordance with rules and regulations
+297 established by the commission within 14 days of written notice by the commission of
+298 specific violations. Such fines shall not exceed $25,000.00 for a first offense, $50,000.00
+299 for a failure to remedy the offense within 60 days after written notice of a first offense,
+300 and $75,000.00 for subsequent failures to remedy noncompliance within 90 days after
+301 written notice of a first offense. Following a third written notice of a recurring violation,
+302 the commission may also order a licensee to cease operations for a period of up to 30
+303 days to correct the violation. Any such fines or orders to cease operations shall be subject
+304 to Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act.'"
+305 SECTION 3-4.
+306 Said chapter is further amended by revising Code Section 16-12-215, relating to limitations
+307 on locations, advertising or marketing prohibited, and information available to physicians,
+308 as follows:
+309 "16-12-215.
+310 (a) No licensee shall operate in any location, whether for cultivation, harvesting, and
+311 processing of marijuana or for processing, manufacturing, packaging, or distributing low
+312 THC oil medical cannabis or products, within a 3,000 foot radius of a covered entity,
+313 measured from property boundary to property boundary. No dispensing licensee may
+314 operate in any location within a 1,000 foot radius of a covered entity, measured from
+315 property boundary to property boundary. Notwithstanding the provisions of this
+316 subsection, local governments may, via use of existing zoning powers otherwise provided
+317 by law, allow dispensing licensees only to locate in places other than those provided in this
+318 subsection so long as such modification is needed to allow retail outlets to be established
+319 to service registered patients residing within such local jurisdiction. As used in this
+320 subsection, the term 'covered entity' means a public or private school; an early care and
+S. B. 220
+- 13 -
+25 SB 220/CSFA
+321 education program as defined in Code Section 20-1A-2; or a church, synagogue, or other
+322 place of public religious worship, in existence prior to the date of licensure of such licensee
+323 by the commission or State Board of Pharmacy.
+324 (b)(1) Except as provided in paragraph (2) of this subsection, no No licensee shall
+325 advertise or market low THC oil medical cannabis or products to registered patients or
+326 the public; provided, however, that third party associations representing the medical
+327 cannabis industry shall not be subject to this prohibition.
+328 (2) A; provided, however, that a licensee shall be authorized to provide information:
+329 (A) Regarding regarding its low THC oil medical cannabis and products directly to
+330 physicians and healthcare providers; and
+331 (B) About the legal and safe uses of medical cannabis and products to registered
+332 patients or the public.
+333 (3) Any information provided by a licensee pursuant to paragraph (2) of this subsection
+334 shall not:
+335 (A) Include any medical claim, unless such claim is supported by reliable scientific
+336 evidence;
+337 (B) Make any false or misleading claim; or
+338 (C) Be attractive to children or otherwise directly or indirectly targeted to individuals
+339 under 21 years of age. For purposes of this subparagraph, the term 'attractive to
+340 children' shall have the same meaning as set forth in Code Section 2-23-3."
+341 SECTION 3-5A.
+342 Said chapter is further amended by revising subsection (a) of Code Section 16-12-230,
+343 relating to requirements for dispensing low THC oil and products, as follows:
+344 "(a) Low THC oil and Medical cannabis or products shall only be dispensed to registered
+345 patients or caregivers in this state by a dispensing licensee or directly from the commission
+346 pursuant to this article."
+S. B. 220
+- 14 -
+25 SB 220/CSFA
+347 SECTION 3-5.
+348 Said chapter is further amended by revising Code Section 16-12-225, relating to criminal
+349 offenses and penalties, as follows:
+350 "16-12-225.
+351 (a) A licensee or licensee's employee who knowingly or willfully encourages, causes,
+352 abets, connives, conspires, or aids in the endangerment of patients, trafficking of low THC
+353 oil medical cannabis, products, or its manufacturing by-products, or criminal distribution
+354 of raw materials and agricultural inputs, including but not limited to seeds, under this part
+355 shall be guilty of a felony and, upon conviction thereof, be punished by a fine not to exceed
+356 $100,000.00, imprisonment for not less than five nor more than ten years, or both.
+357 (b) Any person whose acts or omissions of gross, willful, or wanton negligence contribute
+358 to or cause the endangerment of patients, trafficking of low THC oil medical cannabis,
+359 products, or its manufacturing by-products, or criminal distribution of raw materials and
+360 agricultural inputs, including but not limited to seeds, under this part shall be guilty of a
+361 misdemeanor of a high and aggravated nature and, upon conviction thereof, be punished
+362 by a fine of up to $5,000.00, imprisonment for up to 12 months, or both.
+363 (c) Failure to comply with all other provisions of this part shall be punishable by a fine of
+364 up to $500.00 for the first offense. All persons convicted of a second or subsequent offense
+365 shall be guilty of a misdemeanor and, upon conviction thereof, be punished by a fine of up
+366 to $1,000.00, imprisonment for up to six months, or both, for each violation.
+367 (d) The provisions of this Code section shall not preclude prosecution and punishment for
+368 the commission of any offense otherwise provided by law."
+369 SECTION 3-6.
+370 Said chapter is further amended by revising Code Section 16-12-231, relating to exemptions
+371 from arrest, prosecutions, or penalty, as follows:
+S. B. 220
+- 15 -
+25 SB 220/CSFA
+372 "16-12-231.
+373 The following persons and entities, when acting in accordance with the provisions of this
+374 article, shall not be subject to arrest, prosecution, or any civil or administrative penalty,
+375 including a civil penalty or disciplinary action by a professional licensing board, or be
+376 denied any right or privilege, for the medical use, prescription, administration,
+377 manufacture, distribution, or transport of low THC oil medical cannabis or products:
+378 (1) A registered patient who is in possession of an amount of low THC oil medical
+379 cannabis or products authorized under Code Section 16-12-191 or such patient's
+380 caregiver, parent, or guardian;
+381 (2) A physician who certifies a patient to the Department of Public Health as being
+382 diagnosed with a condition or in a hospice program and authorized to use low THC oil
+383 medical cannabis or products for treatment pursuant to Code Section 31-2A-18;
+384 (3) A pharmacist or pharmacy that dispenses or provides low THC oil medical cannabis
+385 or products to a registered patient; or products to a registered patient, or such patient's
+386 caregiver, parent, or guardian;
+387 (4) The commission or its employees or contractors associated with the production of
+388 low THC oil medical cannabis or products in accordance with this article;
+389 (5) A designated university, an employee of a designated university, or any other person
+390 associated with the production of low THC oil medical cannabis or products in
+391 accordance with this article; and
+392 (6) A licensee or an An employee, contractor, or agent of a licensee with proper
+393 identification associated with the production, manufacture, distribution, transport, or sale
+394 of low THC oil medical cannabis or products in accordance with this article."
+395 SECTION 3-7.
+S. B. 220
+- 16 -
+25 SB 220/CSFA
+396 Said chapter is further amended by repealing in its entirety Code Section 16-12-234, relating
+397 to unlawful ways to ingest low THC oil or products, and designating such Code section as
+398 reserved.
+399 SECTION 3-8.
+400 Article 2 of Chapter 13 of Title 16 of the Official Code of Georgia Annotated, relating to
+401 regulation of controlled substances, is amended in Code Section 16-13-21, relating to
+402 definitions, by revising paragraph (16) as follows:
+403 "(16) 'Marijuana' means all parts of the plant of the genus Cannabis, whether growing or
+404 not, the seeds thereof, the resin extracted from any part of such plant, and every
+405 compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds,
+406 or resin, but shall not include samples as described in subparagraph (P) of paragraph (3)
+407 of Code Section 16-13-25; shall not include the completely defoliated mature stalks of
+408 such plant, fiber produced from such stalks, oil, or cake, or the completely sterilized
+409 samples of seeds of the plant which are incapable of germination; and shall not include
+410 hemp or hemp products, as such terms are defined in Code Section 2-23-3, or medical
+411 cannabis or products, as such terms are defined in Code Sections 16-12-190 and
+412 16-12-200, respectively, when in the possession or control of a person authorized to
+413 possess and control such medical cannabis or products under the provisions of Article 8
+414 or Article 9 of Chapter 12 of this title. Such term shall not include products approved by
+415 the federal Food and Drug Administration under Section 505 of the federal Food, Drug,
+416 and Cosmetic Act."
+417 SECTION 3-9.
+418 Said article is further amended in Code Section 16-13-25, relating to Schedule I, by revising
+419 subparagraph (P) of paragraph (3) as follows:
+S. B. 220
+- 17 -
+25 SB 220/CSFA
+420 "(P) Tetrahydrocannabinol, tetrahydrocannabinolic acid, or a combination of
+421 tetrahydrocannabinol and tetrahydrocannabinolic acid which does not contain plant
+422 material exhibiting the external morphological features of the plant of the genus
+423 Cannabis, but not including such substance when found in hemp or hemp products, as
+424 such terms are defined in Code Section 2-23-3, or in medical cannabis or products, as
+425 such terms are defined in Code Sections 16-12-190 and 16-12-200, respectively, when
+426 in the possession or control of a person authorized to possess or control such medical
+427 cannabis or products under the provisions of Article 8 or Article 9 of Chapter 12 of this
+428 title. Tetrahydrocannabinols do not include products approved by the federal Food and
+429 Drug Administration under Section 505 of the federal Food, Drug, and Cosmetic Act;"
+430 SECTION 3-10.
+431 Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to
+432 general provisions relative to the Department of Public Health, is amended in Code
+433 Section 31-2A-18, relating to low THC oil patient registry, registration cards, reports, waiver
+434 forms, and annual review and recommendations, by revising paragraph (3) of subsection (a)
+435 as follows: forms, and annual review and recommendations, by revising paragraphs (2) and
+436 (3) of subsection (a) as follows:
+437 "(2) 'Caregiver' means:
+438 (A) A the parent, guardian, or legal custodian of an individual who is less than 18 years
+439 of age or the legal guardian of an adult;
+440 (B) An adult who is designated by a patient as being an individual authorized to
+441 provide assistance, and who is willing to provide such assistance, with purchasing,
+442 possessing, and administering medical cannabis or products for such patient's use; or
+443 (C) A healthcare institution as defined in Code Section 51-1-29.6 where a patient is
+444 receiving health or medical care for a condition and where such institution agrees to
+S. B. 220
+- 18 -
+25 SB 220/CSFA
+445 allow such patient to possess and use medical cannabis or products on such institution's
+446 premises.
+447 "(3) 'Condition' means any of the following, provided that the patient's symptoms
+448 associated with any such condition can reasonably be expected to be relieved by the use
+449 of medical cannabis and the potential benefits of such use to the patient outweigh the
+450 potential health risks that such use might pose to the patient:
+451 (A) Any cancer except skin cancer, unless it is metastatic skin cancer Cancer when such
+452 disease is diagnosed as end stage or the treatment produces related wasting illness or
+453 recalcitrant nausea and vomiting;
+454 (B) Amyotrophic lateral sclerosis, when such disease is diagnosed as severe or end
+455 stage;
+456 (C) Seizure disorders related to a diagnosis of epilepsy or trauma related head injuries;
+457 (D) Multiple sclerosis, when such disease is diagnosed as severe or end stage;
+458 (E) Crohn's disease Inflammatory bowel disease;
+459 (F) Mitochondrial disease;
+460 (G) Parkinson's disease, when such disease is diagnosed as severe or end stage;
+461 (H) Sickle cell disease, when such disease is diagnosed as severe or end stage;
+462 (I) Tourette's syndrome, when such syndrome is diagnosed as severe;
+463 (J) Autism spectrum disorder, when such disorder is diagnosed for a patient who is at
+464 least 18 years of age, or severe autism, when diagnosed for a patient who is less than
+465 18 years of age;
+466 (K) Epidermolysis bullosa;
+467 (L) Alzheimer's disease, when such disease is diagnosed as severe or end stage;
+468 (M) Acquired immune deficiency syndrome, when such syndrome is diagnosed as
+469 severe or end stage;
+470 (N) Peripheral neuropathy, when such symptoms are diagnosed as severe or end stage;
+S. B. 220
+- 19 -
+25 SB 220/CSFA
+471 (O) Post-traumatic stress disorder resulting from direct exposure to or the witnessing
+472 of a trauma for a patient who is at least 18 years of age; or
+473 (P) Intractable pain; or
+474 (Q) Lupus."
+475 PART IV
+476 SECTION 4-1.
+477 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 220
+- 20 -
+[DELETED: 5S]
+[DELETED: 5S " T o a " T o w " c a "  C S 2 r t l o r e s o  C S 1 r t p a p g]
+[DELETED: 5S  C S 1 r t a n d l]
+[DELETED: 5S 1 o T 5 o t O C o G A r t g]
+[DELETED: 5S a o a c o t a  ' p s h t s m a s f i C l o l T o m c o a p o p c a]
+[DELETED: 5S l o l T o m c o a p o p c a]
+[DELETED: 5S]
+[DELETED: 5S o G o i a a a a e o t b o r o l u A 9 o C 1 o T 1 p t s  ' c m c a t a a t f b]
+[DELETED: 5S  ' c s h t s m a s f i C]
+[DELETED: 5S]
+[DELETED: 5S o l T o m c a p p i t s]
+[DELETED: 5S  T e i p a a c t m c l t p m a c o a p e  T e a e d a o s a t e d a t h a o t n d p a a t c o s  T b a t d a a r a e s r a]
+[DELETED: 5S b t p b  N t p o t]
+[DELETED: 5S]
+[DELETED: 5S]
+[DELETED: 5S a r o p f t m u p a o p a u C S 1 o s p w t p o l T o m c o p i  A l o a A e c o a o a l w p]
+[DELETED: 5S o c s i a i C S 1 r t t s t t r e f a p o s p a e o p a s t a d i C S 1 a]
+[DELETED: 5S  T t a o a c o e t e m f o t p o t g p r t t D o P H i a i C]
+[DELETED: 5S  ' m a o t f p t t p s]
+[DELETED: 5S]
+
+
+================================================================================
+
+Raw Text:
+25 SB 220/CSFA
+Senate Bill 220
+By: Senators Brass of the 6th, Summers of the 13th, Hatchett of the 50th, Strickland of the
+42nd, Jackson of the 41st and others
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend various provisions of the Official Code of Georgia Annotated, so as to rename low
+2 THC oil as medical cannabis; to amend Chapter 12 of Title 16, Article 2 of Chapter 13 of
+3 Title 16, and Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated,
+4 relating to offenses against the public health and morals, regulation of controlled substances,
+5 and general provisions relative to the Department of Public Health, respectively, so as to
+6 clarify and revise criminal penalties; to clarify and revise exemptions to criminal penalties;
+7 to revise the duties of the Georgia Access to Medical Cannabis Commission; to provide for
+8 the provision of certain information by licensees; to provide limitations on the provision of
+9 such information; to repeal the prohibition on certain manners of ingesting medical cannabis;
+10 to exclude the lawful possession and control of medical cannabis from the provisions of the
+11 Georgia Controlled Substances Act; to revise the list of diagnosed conditions for which a
+12 medical cannabis registration card can be issued; to provide for conforming changes; to
+13 provide for definitions; to provide a short title; to provide for related matters; to repeal
+14 conflicting laws; and for other purposes.
+15 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 220
+- 1 -
+
+25 SB 220/CSFA
+16 PART I
+17 SECTION 1-1.
+18 This Act shall be known and may be cited as the "Putting Georgia's Patients First Act."
+19 PART II
+20 SECTION 2-1.
+21 Title 2 of the Official Code of Georgia Annotated, relating to agriculture, is amended by
+22 replacing "low THC oil" and "Low THC oil" with "medical cannabis" and "Medical
+23 cannabis", respectively, wherever such terms occur in:
+24 (1) Code Section 2-11-36, relating to seeds used in production of low THC oil;
+25 (2) Code Section 2-23-9.2, relating to consumable hemp products, packaging, advertising,
+26 and distribution; and
+27 (3) Code Section 2-23-9.3, relating to location of retail establishments selling or
+28 distributing consumable hemp products.
+29 SECTION 2-2.
+30 Article 9 of Chapter 12 of Title 16 of the Official Code of Georgia Annotated, relating to
+31 access to medical cannabis, is amended by replacing "low THC oil" and "Low THC oil" with
+32 "medical cannabis" and "Medical cannabis", respectively, and by replacing "Low THC Oil
+33 Patient Registry" with "Medical Cannabis Patient Registry" wherever such terms occur in:
+34 (1) Code Section 16-12-201, relating to prohibition against producing, growing,
+35 manufacturing, or dispensing low THC oil or products;
+36 (2) Code Section 16-12-204, relating to nontransferable designated university licenses to
+37 produce low THC oil and products, research and reporting of collected information, and
+38 license revocation;
+S. B. 220
+- 2 -
+
+25 SB 220/CSFA
+39 (3) Code Section 16-12-206, relating to annual, nontransferable dispensing license,
+40 adoption of rules, and fees;
+41 (4) Code Section 16-12-210, relating to powers, duties, and responsibilities of the Georgia
+42 Access to Medical Cannabis Commission, no undue burden on patients, and remission of
+43 fees;
+44 (5) Code Section 16-12-211, relating to class 1 production licenses, application fee,
+45 revocation, and limitation on ownership;
+46 (6) Code Section 16-12-212, relating to class 2 production licenses, application fees,
+47 revocation, and limitation on ownership;
+48 (7) Code Section 16-12-213, relating to tracking system requirements;
+49 (8) Code Section 16-12-216, relating to Bureau of Investigation, Access to Medical
+50 Cannabis Commission, and Composite Medical Board to jointly establish procedures to
+51 ensure compliance;
+52 (9) Code Section 16-12-217, relating to on-demand access to facilities, provision of
+53 samples, testing, and secured transportation;
+54 (10) Code Section 16-12-224, relating to limitation on ownership by member or former
+55 member of the Georgia Access to Medical Cannabis Commission, limitation on physician's
+56 involvement, and identification when contributing to political campaigns;
+57 (11) Code Section 16-12-226, relating to sales and use taxes applicable;
+58 (12) Code Section 16-12-230, relating to requirements for dispensing low THC oil and
+59 products;
+60 (13) Code Section 16-12-233, relating to contracts not against public policy;
+61 (14) Code Section 16-12-235, relating to research in compliance with federal regulations;
+62 and
+63 (15) Code Section 16-12-235.1, relating to possession of low THC oil and products by
+64 colleges and universities for research purposes, permitting requirements, and inspection.
+S. B. 220
+- 3 -
+
+25 SB 220/CSFA
+65 SECTION 2-3.
+66 Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to
+67 general provisions relative to the Department of Public Health, is amended in Code Section
+68 31-2A-18, relating to low THC oil patient registry, registration cards, reports, waiver forms,
+69 and annual review and recommendations, by replacing "low THC oil" and "Low THC oil"
+70 with "medical cannabis" and "Medical cannabis", respectively, and by replacing "Low THC
+71 Oil Patient Registry" with "Medical Cannabis Patient Registry" wherever such terms occur.
+72 SECTION 2-4.
+73 Chapter 1 of Title 51 of the Official Code of Georgia Annotated, relating to general
+74 provisions relative to torts, is amended in Code Section 51-1-29.6, relating to liability of
+75 health care institutions and providers regarding low THC oil, by replacing "low THC oil" and
+76 "Low THC oil" with "medical cannabis" and "Medical cannabis", respectively.
+77 PART III
+78 SECTION 3-1.
+79 Chapter 12 of Title 16 of the Official Code of Georgia Annotated, relating to offenses against
+80 the public health and morals, is amended by revising Article 8, relating to regulation of low
+81 THC oil, as follows:
+82 "ARTICLE 8
+83 16-12-190.
+84 As used in this article, the term:
+85 (1) 'Medical cannabis' means any plant within the genus Cannabis and any part of such
+86 plant, including all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts of
+S. B. 220
+- 4 -
+
+25 SB 220/CSFA
+87 isomers, whether growing or not, 'low THC oil' means an oil that contains an amount of
+88 cannabidiol and not more than 5 percent 50 percent by weight of tetrahydrocannabinol,
+89 tetrahydrocannabinolic acid, or a combination of tetrahydrocannabinol and
+90 tetrahydrocannabinolic acid which does not contain plant material exhibiting the external
+91 morphological features of the plant of the genus Cannabis. Such term shall not mean
+92 include:
+93 (A) Products products approved by the federal Food and Drug Administration under
+94 Section 505 of the federal Food, Drug, and Cosmetic Act; or
+95 (B) Hemp or hemp products, as defined in Code Section 2-23-3.
+96 (2) 'Product' shall have the same meaning as set forth in Code Section 16-12-200.
+97 (3) 'Registered patient' shall have the same meaning as set forth in Code
+98 Section 16-12-200.
+99 16-12-191.
+100 (a)(1) Notwithstanding any provision of Chapter 13 of this title, it shall be lawful for any
+101 person to possess, purchase, or have under his or her control 20 fluid ounces 2.0 ounces
+102 or less of low THC oil medical cannabis or a product or products containing an
+103 equivalent amount of medical cannabis if such substance medical cannabis or product or
+104 products is in a pharmaceutical container labeled by the manufacturer indicating the
+105 percentage of tetrahydrocannabinol therein and:
+106 (A) Such person is a registered patient with the Department of Public Health as set
+107 forth in Code Section 31-2A-18 and has in his or her possession a registration card
+108 issued by the Department of Public Health pursuant to Code Section 31-2A-18; or
+109 (B) Such person has in his or her possession a registration card issued by another state
+110 that allows the same possession of low THC oil medical cannabis as provided by this
+111 state's law; provided, however, that such registration card shall not be lawful authority
+112 when such person has been present in this state for 45 days or more.
+S. B. 220
+- 5 -
+
+25 SB 220/CSFA
+113 (2) Notwithstanding any provision of Chapter 13 of this title, any person registered
+114 patient who possesses, purchases, or has under his or her control 20 fluid ounces 2.0
+115 ounces or less of low THC oil medical cannabis or a product or products containing an
+116 equivalent amount of medical cannabis without complying with paragraph (1) of this
+117 subsection shall be punished as for a misdemeanor.
+118 (b)(1) Notwithstanding any provision of Chapter 13 of this title, it shall be lawful for any
+119 person to possess, purchase, or have under his or her control 20 fluid ounces 2.0 ounces
+120 or less of low THC oil medical cannabis or a product or products containing an
+121 equivalent amount of medical cannabis if:
+122 (A) Such person is involved in a clinical research program being conducted by the
+123 Board of Regents of the University System of Georgia or any authorized clinical trial
+124 or research study in this state or their authorized agent as:
+125 (i) A program participant;
+126 (ii) A parent, guardian, or legal custodian of a program participant;
+127 (iii) An employee of the board of regents designated to participate in the research
+128 program;
+129 (iv) A program agent;
+130 (v) A program collaborator and their designated employees;
+131 (vi) A program supplier and their designated employees;
+132 (vii) A program physician;
+133 (viii) A program clinical researcher;
+134 (ix) Program pharmacy personnel; or
+135 (x) Other program medical personnel; and
+136 (B) Such substance medical cannabis or product or products is in a pharmaceutical
+137 container labeled by the manufacturer indicating the percentage of tetrahydrocannabinol
+138 therein.
+S. B. 220
+- 6 -
+
+25 SB 220/CSFA
+139 (2) Notwithstanding any provision of Chapter 13 of this title, any such person who
+140 possesses, purchases, or has under his or her control 20 fluid ounces 2.0 ounces or less
+141 of low THC oil medical cannabis or a product or products containing an equivalent
+142 amount of medical cannabis without complying with subparagraphs (A), (B), and (C) of
+143 paragraph (1) of this subsection shall be punished as for a misdemeanor.
+144 (c) Notwithstanding any provision of Chapter 13 of this title, any person Any registered
+145 patient having possession of, purchasing, or having under his or her control more than 20
+146 fluid ounces 2.0 ounces of low THC oil but less than 160 fluid ounces of low THC oil or
+147 who manufactures, distributes, dispenses, sells, purchases, or possesses with the intent to
+148 distribute low THC oil shall be guilty of a felony and, upon conviction thereof, shall be
+149 punished by imprisonment for not less than one year nor more than ten years, a fine not to
+150 exceed $50,000.00, or both medical cannabis or a product or products containing an
+151 equivalent amount of medical cannabis shall be subject to the penalties set forth in Chapter
+152 13 of this title.
+153 (d) Notwithstanding any provision of Chapter 13 of this title, any person who sells,
+154 manufactures, delivers, brings into this state, purchases, or has possession of 160 or more
+155 fluid ounces of low THC oil shall be guilty of the felony offense of trafficking in low THC
+156 oil and, upon conviction thereof, shall be punished as follows:
+157 (1) If the quantity of low THC oil is at least 160 fluid ounces but less than 31,000 fluid
+158 ounces, by imprisonment for not less than five years nor more than ten years and a fine
+159 not to exceed $100,000.00;
+160 (2) If the quantity of low THC oil is at least 31,000 fluid ounces but less than 154,000
+161 fluid ounces, by imprisonment for not less than seven years nor more than 15 years and
+162 a fine not to exceed $250,000.00; and
+163 (3) If the quantity of low THC oil is 154,000 or more fluid ounces, by imprisonment for
+164 not less than ten years nor more than 20 years and a fine not to exceed $1 million.
+S. B. 220
+- 7 -
+
+25 SB 220/CSFA
+165 (e)(d) Subsection Subsections (c) and (d) of this Code section shall not apply to a person
+166 involved in a research program being conducted by the Board of Regents of the University
+167 System of Georgia or its authorized agent as an employee of the board of regents
+168 designated to participate in such program, a program agent, a program collaborator and
+169 their its designated employees, a program supplier and their its designated employees, a
+170 physician, clinical researcher, pharmacy personnel, or other medical personnel.
+171 (f) Subsections (c) and (d) of this Code section shall not apply to a designated university,
+172 pharmacy, or licensee under Article 9 of Chapter 12 of Title 16, provided that such
+173 possession, purchase, control, sale, manufacturing, distribution, or dispensing is solely
+174 conducted in accordance with the provisions of Article 9 of Chapter 12 of Title 16.
+175 (g)(e) Nothing in this article shall require an employer to permit or accommodate the use,
+176 consumption, possession, transfer, display, transportation, purchase, sale, or growing of
+177 marijuana in any form, or to affect the ability of an employer to have a written zero
+178 tolerance policy prohibiting the on-duty, and off-duty, use of marijuana, or prohibiting any
+179 employee from having a detectable amount of marijuana in such employee's system while
+180 at work."
+181 SECTION 3-2.
+182 Said chapter is further amended by revising Code Section 16-12-200, relating to definitions
+183 relative to access to medical cannabis, as follows:
+184 "16-12-200.
+185 As used in this article, the term:
+186 (1) 'Applicant' means a corporate entity applying for a license pursuant to this article.
+187 (2) 'Available capital' means corporate assets that are available to fund business
+188 operations in the event a license is awarded pursuant to Part 2 of this article.
+189 (3) 'Class 1 production license' means a license to produce and manufacture low THC
+190 oil medical cannabis and products issued pursuant to Code Section 16-12-211.
+S. B. 220
+- 8 -
+
+25 SB 220/CSFA
+191 (4) 'Class 2 production license' means a license to produce and manufacture low THC
+192 oil medical cannabis and products issued pursuant to Code Section 16-12-212.
+193 (5) 'Commission' means the Georgia Access to Medical Cannabis Commission created
+194 pursuant to Code Section 16-12-202.
+195 (6) 'Designated universities' means the University of Georgia and Fort Valley State
+196 University.
+197 (7) 'Designated university license' means a license issued by the commission pursuant
+198 to this article to a designated university to, separately or jointly, produce, manufacture,
+199 and purchase low THC oil medical cannabis and products in accordance with this article.
+200 (8) 'Dispense' means the sale or provision of low THC oil medical cannabis and products
+201 to registered patients by a dispensing licensee.
+202 (9) 'Dispensing license' means a specialty license issued by the State Board of Pharmacy
+203 or the commission pursuant to Code Section 16-12-206 to dispense low THC oil medical
+204 cannabis and products to registered patients.
+205 (10) 'Grow' means cultivating and harvesting cannabis for use in producing low THC oil
+206 medical cannabis and products.
+207 (11) 'Licensee' means any business, or owner of such business, with a valid license
+208 issued pursuant to this article.
+209 (12) 'Low THC oil' shall have the same meaning as set forth in Code Section 16-12-190.
+210 (13) 'Manufacture' means to process cannabis to produce low THC oil medical cannabis
+211 and products.
+212 (13) 'Medical cannabis' shall have the same meaning as set forth in Code
+213 Section 16-12-190.
+214 (14) 'Owner' means any person who directly or indirectly owns, actually or beneficially,
+215 or controls 5 percent or greater of interests of the applicant or any licensee. In the event
+216 that one person owns a beneficial right to interests and another person holds the voting
+S. B. 220
+- 9 -
+
+25 SB 220/CSFA
+217 rights with respect to such interests, then both shall be considered an owner of such
+218 interests.
+219 (15) 'Product' means all products that are derived from, or made by, processing medical
+220 cannabis and that are prepared in a form available for commercial sale, including medical
+221 cannabis low THC oil delivered through an oil, or tincture, transdermal patch, lotion, or
+222 capsule, except as prohibited by Code Section 16-12-234, but not including:
+223 (A) Hemp products;
+224 (B) Any any food products infused with low THC oil containing medical cannabis,
+225 including, but not limited to, cookies, and candies; or
+226 (C) Raw plant material or any products containing raw plant material, or edibles.
+227 (16) 'Registered patient' means an individual who is legally authorized to possess and use
+228 low THC oil medical cannabis and products pursuant to Code Section 31-2A-18.
+229 (17) 'Tracking system' means a seed-to-sale tracking system to track marijuana that is
+230 grown, processed, manufactured, transferred, stored, or disposed of and low THC oil
+231 medical cannabis and products that are transferred, stored, sold, dispensed, or disposed
+232 of pursuant to this article."
+233 SECTION 3-3.
+234 Said chapter is further amended by revising Code Section 16-12-203, relating to the powers,
+235 duties, and responsibilities of the Georgia Access to Medical Cannabis Commission, as
+236 follows:
+237 "16-12-203.
+238 The commission shall have the following powers, duties, and responsibilities:
+239 (1) To apply for, receive, and administer state funds appropriated to the commission,
+240 private grants and donations, and other funds and donations. The commission's annual
+241 distributions shall be capped and limited to funds received from the sources specified in
+S. B. 220
+- 10 -
+
+25 SB 220/CSFA
+242 this paragraph. The commission shall ensure that its funds are not used as a supplement
+243 or secondary payor to any other third-party payor;
+244 (2) To execute a contract or contracts to purchase or obtain low THC oil medical
+245 cannabis, cannabis, cannabinoids, or any other derivative, compound, or substantially
+246 similar products from any available legal source and to provide logistics related thereto
+247 in accordance with this article. Such contract or contracts may be executed with one or
+248 more qualified corporations or with one or more governmental entities. Purchases made
+249 pursuant to this paragraph shall not be subject to state purchasing laws contained in
+250 Article 3 of Chapter 5 of Title 50 or in other provisions of the Official Code of Georgia
+251 Annotated;
+252 (3) To utilize funds appropriated to the commission as may be necessary to purchase and
+253 transport low THC oil medical cannabis and products to the State of Georgia for use by
+254 registered patients;
+255 (4) To develop, establish, maintain, and administer a low THC oil medical cannabis and
+256 products distribution network to obtain and distribute low THC oil medical cannabis and
+257 products to registered patients in this state and to coordinate the best use of facilities and
+258 resources to operate such distribution network;
+259 (5) To establish procedures for inspecting production facilities operated by designated
+260 universities;
+261 (6) To establish requirements and procedures to ensure quality control, security, and
+262 oversight of low THC oil medical cannabis and products production in this state,
+263 including, but not limited to, testing for purity and dosage levels and verification that
+264 product labels accurately reflect product content;
+265 (7) To provide for oversight of tracking systems;
+266 (8) To coordinate and assist in the collection of data to evaluate the provision of low
+267 THC oil medical cannabis and products in this state;
+S. B. 220
+- 11 -
+
+25 SB 220/CSFA
+268 (9) To study the provision of low THC oil medical cannabis and products in this state to
+269 determine the best practices and methods of providing such services, to determine what
+270 changes are needed to improve the provision of low THC oil medical cannabis and
+271 products, and to report any proposed legislative changes to the General Assembly each
+272 year;
+273 (10) To coordinate its activities with the Department of Public Health;
+274 (10.1) To engage in public awareness activities concerning the medical cannabis
+275 program in this state and effective uses of medical cannabis and products, including, but
+276 not limited to, publishing materials and conducting outreach and public education
+277 activities to inform members of the public, law enforcement, and healthcare providers
+278 about the medical cannabis program in this state and the potential benefits that medical
+279 cannabis and products may have to eligible patients;
+280 (11) To employ an executive director and other staff and to establish duties and
+281 responsibilities of such persons;
+282 (12) To employ and manage consultants, as deemed necessary, in order to fulfill its
+283 duties and responsibilities under this article;
+284 (13) To review new treatment and delivery methods for low THC oil medical cannabis
+285 and products that may result from medical research and are not otherwise inconsistent
+286 with this article, and recommend statutory changes to the General Assembly to authorize
+287 such treatment and delivery methods and products;
+288 (14) To be responsible for the noncriminal enforcement of the provisions of this article
+289 and to have all of the necessary duties, power, and authority to carry out such
+290 responsibility;
+291 (15) To be authorized to draft, adopt, amend, repeal, and enforce such rules and
+292 regulations as it deems necessary for the administration and enforcement of this article
+293 in the protection of public health, safety, and welfare;
+294 (16) To enforce qualifications for licensure; and
+S. B. 220
+- 12 -
+
+25 SB 220/CSFA
+295 (17) To levy fines for failure by a Class 1 production licensee, Class 2 production
+296 licensee, or dispensing licensee to operate in accordance with rules and regulations
+297 established by the commission within 14 days of written notice by the commission of
+298 specific violations. Such fines shall not exceed $25,000.00 for a first offense, $50,000.00
+299 for a failure to remedy the offense within 60 days after written notice of a first offense,
+300 and $75,000.00 for subsequent failures to remedy noncompliance within 90 days after
+301 written notice of a first offense. Following a third written notice of a recurring violation,
+302 the commission may also order a licensee to cease operations for a period of up to 30
+303 days to correct the violation. Any such fines or orders to cease operations shall be subject
+304 to Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act.'"
+305 SECTION 3-4.
+306 Said chapter is further amended by revising Code Section 16-12-215, relating to limitations
+307 on locations, advertising or marketing prohibited, and information available to physicians,
+308 as follows:
+309 "16-12-215.
+310 (a) No licensee shall operate in any location, whether for cultivation, harvesting, and
+311 processing of marijuana or for processing, manufacturing, packaging, or distributing low
+312 THC oil medical cannabis or products, within a 3,000 foot radius of a covered entity,
+313 measured from property boundary to property boundary. No dispensing licensee may
+314 operate in any location within a 1,000 foot radius of a covered entity, measured from
+315 property boundary to property boundary. Notwithstanding the provisions of this
+316 subsection, local governments may, via use of existing zoning powers otherwise provided
+317 by law, allow dispensing licensees only to locate in places other than those provided in this
+318 subsection so long as such modification is needed to allow retail outlets to be established
+319 to service registered patients residing within such local jurisdiction. As used in this
+320 subsection, the term 'covered entity' means a public or private school; an early care and
+S. B. 220
+- 13 -
+
+25 SB 220/CSFA
+321 education program as defined in Code Section 20-1A-2; or a church, synagogue, or other
+322 place of public religious worship, in existence prior to the date of licensure of such licensee
+323 by the commission or State Board of Pharmacy.
+324 (b)(1) Except as provided in paragraph (2) of this subsection, no No licensee shall
+325 advertise or market low THC oil medical cannabis or products to registered patients or
+326 the public; provided, however, that third party associations representing the medical
+327 cannabis industry shall not be subject to this prohibition.
+328 (2) A; provided, however, that a licensee shall be authorized to provide information:
+329 (A) Regarding regarding its low THC oil medical cannabis and products directly to
+330 physicians and healthcare providers; and
+331 (B) About the legal and safe uses of medical cannabis and products to registered
+332 patients or the public.
+333 (3) Any information provided by a licensee pursuant to paragraph (2) of this subsection
+334 shall not:
+335 (A) Include any medical claim, unless such claim is supported by reliable scientific
+336 evidence;
+337 (B) Make any false or misleading claim; or
+338 (C) Be attractive to children or otherwise directly or indirectly targeted to individuals
+339 under 21 years of age. For purposes of this subparagraph, the term 'attractive to
+340 children' shall have the same meaning as set forth in Code Section 2-23-3."
+341 SECTION 3-5A.
+342 Said chapter is further amended by revising subsection (a) of Code Section 16-12-230,
+343 relating to requirements for dispensing low THC oil and products, as follows:
+344 "(a) Low THC oil and Medical cannabis or products shall only be dispensed to registered
+345 patients or caregivers in this state by a dispensing licensee or directly from the commission
+346 pursuant to this article."
+S. B. 220
+- 14 -
+
+25 SB 220/CSFA
+347 SECTION 3-5.
+348 Said chapter is further amended by revising Code Section 16-12-225, relating to criminal
+349 offenses and penalties, as follows:
+350 "16-12-225.
+351 (a) A licensee or licensee's employee who knowingly or willfully encourages, causes,
+352 abets, connives, conspires, or aids in the endangerment of patients, trafficking of low THC
+353 oil medical cannabis, products, or its manufacturing by-products, or criminal distribution
+354 of raw materials and agricultural inputs, including but not limited to seeds, under this part
+355 shall be guilty of a felony and, upon conviction thereof, be punished by a fine not to exceed
+356 $100,000.00, imprisonment for not less than five nor more than ten years, or both.
+357 (b) Any person whose acts or omissions of gross, willful, or wanton negligence contribute
+358 to or cause the endangerment of patients, trafficking of low THC oil medical cannabis,
+359 products, or its manufacturing by-products, or criminal distribution of raw materials and
+360 agricultural inputs, including but not limited to seeds, under this part shall be guilty of a
+361 misdemeanor of a high and aggravated nature and, upon conviction thereof, be punished
+362 by a fine of up to $5,000.00, imprisonment for up to 12 months, or both.
+363 (c) Failure to comply with all other provisions of this part shall be punishable by a fine of
+364 up to $500.00 for the first offense. All persons convicted of a second or subsequent offense
+365 shall be guilty of a misdemeanor and, upon conviction thereof, be punished by a fine of up
+366 to $1,000.00, imprisonment for up to six months, or both, for each violation.
+367 (d) The provisions of this Code section shall not preclude prosecution and punishment for
+368 the commission of any offense otherwise provided by law."
+369 SECTION 3-6.
+370 Said chapter is further amended by revising Code Section 16-12-231, relating to exemptions
+371 from arrest, prosecutions, or penalty, as follows:
+S. B. 220
+- 15 -
+
+25 SB 220/CSFA
+372 "16-12-231.
+373 The following persons and entities, when acting in accordance with the provisions of this
+374 article, shall not be subject to arrest, prosecution, or any civil or administrative penalty,
+375 including a civil penalty or disciplinary action by a professional licensing board, or be
+376 denied any right or privilege, for the medical use, prescription, administration,
+377 manufacture, distribution, or transport of low THC oil medical cannabis or products:
+378 (1) A registered patient who is in possession of an amount of low THC oil medical
+379 cannabis or products authorized under Code Section 16-12-191 or such patient's
+380 caregiver, parent, or guardian;
+381 (2) A physician who certifies a patient to the Department of Public Health as being
+382 diagnosed with a condition or in a hospice program and authorized to use low THC oil
+383 medical cannabis or products for treatment pursuant to Code Section 31-2A-18;
+384 (3) A pharmacist or pharmacy that dispenses or provides low THC oil medical cannabis
+385 or products to a registered patient; or products to a registered patient, or such patient's
+386 caregiver, parent, or guardian;
+387 (4) The commission or its employees or contractors associated with the production of
+388 low THC oil medical cannabis or products in accordance with this article;
+389 (5) A designated university, an employee of a designated university, or any other person
+390 associated with the production of low THC oil medical cannabis or products in
+391 accordance with this article; and
+392 (6) A licensee or an An employee, contractor, or agent of a licensee with proper
+393 identification associated with the production, manufacture, distribution, transport, or sale
+394 of low THC oil medical cannabis or products in accordance with this article."
+395 SECTION 3-7.
+S. B. 220
+- 16 -
+
+25 SB 220/CSFA
+396 Said chapter is further amended by repealing in its entirety Code Section 16-12-234, relating
+397 to unlawful ways to ingest low THC oil or products, and designating such Code section as
+398 reserved.
+399 SECTION 3-8.
+400 Article 2 of Chapter 13 of Title 16 of the Official Code of Georgia Annotated, relating to
+401 regulation of controlled substances, is amended in Code Section 16-13-21, relating to
+402 definitions, by revising paragraph (16) as follows:
+403 "(16) 'Marijuana' means all parts of the plant of the genus Cannabis, whether growing or
+404 not, the seeds thereof, the resin extracted from any part of such plant, and every
+405 compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds,
+406 or resin, but shall not include samples as described in subparagraph (P) of paragraph (3)
+407 of Code Section 16-13-25; shall not include the completely defoliated mature stalks of
+408 such plant, fiber produced from such stalks, oil, or cake, or the completely sterilized
+409 samples of seeds of the plant which are incapable of germination; and shall not include
+410 hemp or hemp products, as such terms are defined in Code Section 2-23-3, or medical
+411 cannabis or products, as such terms are defined in Code Sections 16-12-190 and
+412 16-12-200, respectively, when in the possession or control of a person authorized to
+413 possess and control such medical cannabis or products under the provisions of Article 8
+414 or Article 9 of Chapter 12 of this title. Such term shall not include products approved by
+415 the federal Food and Drug Administration under Section 505 of the federal Food, Drug,
+416 and Cosmetic Act."
+417 SECTION 3-9.
+418 Said article is further amended in Code Section 16-13-25, relating to Schedule I, by revising
+419 subparagraph (P) of paragraph (3) as follows:
+S. B. 220
+- 17 -
+
+25 SB 220/CSFA
+420 "(P) Tetrahydrocannabinol, tetrahydrocannabinolic acid, or a combination of
+421 tetrahydrocannabinol and tetrahydrocannabinolic acid which does not contain plant
+422 material exhibiting the external morphological features of the plant of the genus
+423 Cannabis, but not including such substance when found in hemp or hemp products, as
+424 such terms are defined in Code Section 2-23-3, or in medical cannabis or products, as
+425 such terms are defined in Code Sections 16-12-190 and 16-12-200, respectively, when
+426 in the possession or control of a person authorized to possess or control such medical
+427 cannabis or products under the provisions of Article 8 or Article 9 of Chapter 12 of this
+428 title. Tetrahydrocannabinols do not include products approved by the federal Food and
+429 Drug Administration under Section 505 of the federal Food, Drug, and Cosmetic Act;"
+430 SECTION 3-10.
+431 Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to
+432 general provisions relative to the Department of Public Health, is amended in Code
+433 Section 31-2A-18, relating to low THC oil patient registry, registration cards, reports, waiver
+434 forms, and annual review and recommendations, by revising paragraph (3) of subsection (a)
+435 as follows: forms, and annual review and recommendations, by revising paragraphs (2) and
+436 (3) of subsection (a) as follows:
+437 "(2) 'Caregiver' means:
+438 (A) A the parent, guardian, or legal custodian of an individual who is less than 18 years
+439 of age or the legal guardian of an adult;
+440 (B) An adult who is designated by a patient as being an individual authorized to
+441 provide assistance, and who is willing to provide such assistance, with purchasing,
+442 possessing, and administering medical cannabis or products for such patient's use; or
+443 (C) A healthcare institution as defined in Code Section 51-1-29.6 where a patient is
+444 receiving health or medical care for a condition and where such institution agrees to
+S. B. 220
+- 18 -
+
+25 SB 220/CSFA
+445 allow such patient to possess and use medical cannabis or products on such institution's
+446 premises.
+447 "(3) 'Condition' means any of the following, provided that the patient's symptoms
+448 associated with any such condition can reasonably be expected to be relieved by the use
+449 of medical cannabis and the potential benefits of such use to the patient outweigh the
+450 potential health risks that such use might pose to the patient:
+451 (A) Any cancer except skin cancer, unless it is metastatic skin cancer Cancer when such
+452 disease is diagnosed as end stage or the treatment produces related wasting illness or
+453 recalcitrant nausea and vomiting;
+454 (B) Amyotrophic lateral sclerosis, when such disease is diagnosed as severe or end
+455 stage;
+456 (C) Seizure disorders related to a diagnosis of epilepsy or trauma related head injuries;
+457 (D) Multiple sclerosis, when such disease is diagnosed as severe or end stage;
+458 (E) Crohn's disease Inflammatory bowel disease;
+459 (F) Mitochondrial disease;
+460 (G) Parkinson's disease, when such disease is diagnosed as severe or end stage;
+461 (H) Sickle cell disease, when such disease is diagnosed as severe or end stage;
+462 (I) Tourette's syndrome, when such syndrome is diagnosed as severe;
+463 (J) Autism spectrum disorder, when such disorder is diagnosed for a patient who is at
+464 least 18 years of age, or severe autism, when diagnosed for a patient who is less than
+465 18 years of age;
+466 (K) Epidermolysis bullosa;
+467 (L) Alzheimer's disease, when such disease is diagnosed as severe or end stage;
+468 (M) Acquired immune deficiency syndrome, when such syndrome is diagnosed as
+469 severe or end stage;
+470 (N) Peripheral neuropathy, when such symptoms are diagnosed as severe or end stage;
+S. B. 220
+- 19 -
+
+25 SB 220/CSFA
+471 (O) Post-traumatic stress disorder resulting from direct exposure to or the witnessing
+472 of a trauma for a patient who is at least 18 years of age; or
+473 (P) Intractable pain; or
+474 (Q) Lupus."
+475 PART IV
+476 SECTION 4-1.
+477 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 220
+- 20 -
+
+[DELETED: 5S]
+[DELETED: 5S " T o a " T o w " c a "  C S 2 r t l o r e s o  C S 1 r t p a p g]
+[DELETED: 5S  C S 1 r t a n d l]
+[DELETED: 5S 1 o T 5 o t O C o G A r t g]
+[DELETED: 5S a o a c o t a  ' p s h t s m a s f i C l o l T o m c o a p o p c a]
+[DELETED: 5S l o l T o m c o a p o p c a]
+[DELETED: 5S]
+[DELETED: 5S o G o i a a a a e o t b o r o l u A 9 o C 1 o T 1 p t s  ' c m c a t a a t f b]
+[DELETED: 5S  ' c s h t s m a s f i C]
+[DELETED: 5S]
+[DELETED: 5S o l T o m c a p p i t s]
+[DELETED: 5S  T e i p a a c t m c l t p m a c o a p e  T e a e d a o s a t e d a t h a o t n d p a a t c o s  T b a t d a a r a e s r a]
+[DELETED: 5S b t p b  N t p o t]
+[DELETED: 5S]
+[DELETED: 5S]
+[DELETED: 5S a r o p f t m u p a o p a u C S 1 o s p w t p o l T o m c o p i  A l o a A e c o a o a l w p]
+[DELETED: 5S o c s i a i C S 1 r t t s t t r e f a p o s p a e o p a s t a d i C S 1 a]
+[DELETED: 5S  T t a o a c o e t e m f o t p o t g p r t t D o P H i a i C]
+[DELETED: 5S  ' m a o t f p t t p s]
+[DELETED: 5S]

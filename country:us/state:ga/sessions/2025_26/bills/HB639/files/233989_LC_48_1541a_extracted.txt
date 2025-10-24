@@ -1,0 +1,535 @@
+Title: House Bill 639
+Official Title: House Bill 639
+Number of Sections: 1
+Source: versions - LC 48 1541/a
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25 LC 48 1541
+By: Representatives Wiedower of the 121st, Efstration of the 104th, Cox of the 28th, Gaines
+of the 120th, Jasperse of the 11th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 11 of Title 15 of the Official Code of Georgia Annotated, relating to the
+2 juvenile code, so as to expedite and prioritize processes for the termination of parental rights
+3 in certain cases involving parental incapacity and child maltreatment; to provide for
+4 definitions; to revise circumstances for when reasonable efforts by DFCS are not required;
+5 to provide for reporting; to revise requirements for nonreunification hearings; to clarify when
+6 a termination of parental rights petition should be filed and the parties entitled to file such
+7 petition; to provide for determinations to be made by the court; to require the court to
+8 consider the child's attachments when ruling on a petition to terminate parental rights; to
+9 provide for related matters; to provide for legislative findings; to provide for an effective date
+10 and applicability; to repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 The General Assembly finds that although the efforts of the state's child welfare
+14 professionals to engage with families and resolve issues of maltreatment through the use of
+15 appropriate services is proper and fit, there are certain situations in which the child's right to
+16 grow and thrive in a safe, loving environment and to be cared for by a responsible,
+H. B. 639
+- 1 -
+25 LC 48 1541
+17 trustworthy adult must take precedence. The General Assembly therefore finds it necessary,
+18 in appropriate situations, to expedite safe, stable, and permanent placement with relatives,
+19 fictive kin, or adoptive family for those children who have suffered significant and chronic
+20 abuse and neglect at the hands of the parent.
+21 SECTION 2.
+22 Chapter 11 of Title 15 of the Official Code of Georgia Annotated, relating to the juvenile
+23 code, is amended in Code Section 15-11-201, relating to DFCS case plan and contents, by
+24 revising paragraph (14) of subsection (b) as follows:
+25 "(14) A recommendation for a permanency plan for such child. If, after considering
+26 reunification, adoptive placement, permanent guardianship, or placement with a fit and
+27 willing relative, DFCS recommends placement in another planned permanent living
+28 arrangement for a child who has attained the age of 16, the case plan shall include:
+29 (A) Documentation of a compelling reason or reasons why reunification, termination
+30 of parental rights and adoption, permanent guardianship, or placement with a fit and
+31 willing relative are not in the child's best interests;
+32 (B) Documentation of the intensive, ongoing, and unsuccessful efforts made by the
+33 state agency to return the child home or secure a placement for the child with a fit and
+34 willing relative, a legal guardian, or an adoptive parent, including through efforts that
+35 utilize search technology, including social media, to find biological family members for
+36 the child; and
+37 (C) Documentation of the steps the state agency is taking to ensure that the child's
+38 foster family home or child care institution is following the reasonable and prudent
+39 parent standard, as defined in Code Section 49-5-3, and documentation that the child
+40 has regular, ongoing opportunities to engage in age or developmentally appropriate
+41 activities, as defined in Code Section 49-5-3, including by consulting with the child in
+H. B. 639
+- 2 -
+25 LC 48 1541
+42 an age-appropriate manner about the opportunities of the child to participate in the
+43 activities.
+44 For purposes of this paragraph, a 'compelling reason' shall have the same meaning as in
+45 paragraph (2) of subsection (b) (c) of Code Section 15-11-233;"
+46 SECTION 3.
+47 Said chapter is further amended in Code Section 15-11-203, relating to when reasonable
+48 efforts by DFCS not required, by revising subsection (a) and by adding a new subsection to
+49 read as follows:
+50 "(a) The court may direct that reasonable efforts to eliminate the need for placement of an
+51 alleged dependent child shall not be are not required or and shall cease if the court
+52 determines by clear and convincing evidence and makes written findings of fact that a
+53 parent of an alleged dependent child:
+54 (1) Has subjected his or her child to aggravated circumstances;
+55 (2) Has been convicted of the murder or murder in the second degree of another child of
+56 such parent;
+57 (3) Has been convicted of the voluntary manslaughter murder or murder in the second
+58 degree of another child of such parent;
+59 (4) Has been convicted of aiding or abetting, attempting, conspiring, or soliciting to
+60 commit murder or voluntary manslaughter of another child of such parent;
+61 (5) Has been convicted of committing a felony assault that results in serious bodily
+62 injury to the child or another child of such parent;
+63 (6) Has been convicted of rape, sodomy, aggravated sodomy, child molestation,
+64 aggravated child molestation, incest, sexual battery, or aggravated sexual battery of the
+65 alleged dependent child or another child of the parent;
+66 (7) Is required to register as a sex offender and that preservation of a parent-child
+67 relationship is not in the alleged dependent child's best interests; or
+H. B. 639
+- 3 -
+25 LC 48 1541
+68 (8) Has had his or her rights to a sibling of the alleged dependent child terminated
+69 involuntarily and the circumstances leading to such termination of parental rights to that
+70 sibling have not been resolved."
+71 "(c) At each hearing, DFCS shall be required to report in writing to all parties and the court
+72 whether there are reasonable grounds to believe one or more of the circumstances
+73 enumerated in subsection (a) of this Code section exist. The court shall be required to
+74 make written findings at each hearing on this issue such circumstances. The court shall
+75 within 30 days hold a nonreunification hearing pursuant to Code Section 15-11-204 to
+76 determine whether reunification services should be provided."
+77 SECTION 4.
+78 Said chapter is further amended in Code Section 15-11-204, relating to nonreunification
+79 hearing, by revising subsections (a) and (b) as follows:
+80 "(a) If the DFCS report does not contain a plan for reunification services, When the court
+81 finds reasonable grounds to believe that a circumstance described in subsection (a) of Code
+82 Section 15-11-203 exists or the DFCS report does not contain a plan for reunification
+83 services, the court shall hold a nonreunification hearing to review the report and the
+84 determination that a plan for reunification services is not appropriate. whether reunification
+85 is the appropriate plan.
+86 (b) The nonreunification hearing shall be held no later than 30 days from the time the
+87 DFCS report is filed or the court finds that a reasonable ground for nonreunification exists.
+88 Notice of the nonreunification hearing shall be provided, by summons, to the child
+89 adjudicated as a dependent child if he or she is 14 years of age or older; his or her parent,
+90 guardian, or legal custodian, attorney, guardian ad litem, if any, and specified nonparties
+91 entitled to notice."
+H. B. 639
+- 4 -
+25 LC 48 1541
+92 SECTION 5.
+93 Said chapter is further amended by revising Code Section 15-11-233, relating to termination
+94 of parental rights and exceptions, as follows:
+95 "(a) Except as provided in subsection (b) (c) of this Code section, DFCS shall file a
+96 petition to terminate the parental rights of a parent of a child adjudicated as a dependent
+97 child or, if such a petition has been filed by another party, seek to be joined as a party to
+98 the petition, and, concurrently, to identify, recruit, process, and approve a qualified family
+99 for an adoption if:
+100 (1) A child adjudicated as a dependent child has been in foster care under the
+101 responsibility of DFCS for 15 of the most recent 22 months;
+102 (2) The court has made a determination that the parent has subjected his or her child to
+103 aggravated circumstances; or
+104 (3) The court has made a determination that the parent of a child adjudicated as a
+105 dependent child has been convicted of:
+106 (A) The murder of another child of such parent;
+107 (B) Murder or murder in the second degree of another child of such parent;
+108 (C) Voluntary manslaughter of another child of such parent;
+109 (D) Voluntary manslaughter of the other parent of such child;
+110 (E) Aiding or abetting, attempting, conspiring, or soliciting to commit murder or
+111 second degree murder or voluntary manslaughter of another child of such parent;
+112 (F) Aiding or abetting, attempting, conspiring, or soliciting to commit murder or
+113 second degree murder or voluntary manslaughter of the other parent of such child; or
+114 (G) Committing felony assault that has resulted in serious bodily injury to such child
+115 or to another child of such parent.
+116 (b) Unless a compelling reason exists pursuant to subsection (c) of this Code section, the
+117 petition required by subsection (a) of this Code section shall be filed within 30 days of a
+118 determination by the court that:
+H. B. 639
+- 5 -
+25 LC 48 1541
+119 (1) Any of the circumstances of described in paragraph (3) of subsection (a) of this Code
+120 section exist;
+121 (2) DFCS is not required to provide reunification services pursuant to Code Section
+122 15-11-203; or
+123 (3) A parent has voluntarily surrendered his or her parental rights.
+124 (b)(c) If DFCS has a compelling reason for not filing a termination of parental rights
+125 petition pursuant to subsection (a) of this Code section, it shall file with the court, within
+126 the deadline for filing such petition, a written report stating that termination Termination
+127 of parental rights may not be in the best interests of a child adjudicated as a dependent child
+128 when due to one or more of the following:
+129 (1) Such child is being cared for by his or her relative that intends to be a permanent
+130 placement for such child in accordance with a permanency plan approved by the court
+131 and in a time frame that is consistent with the developmental needs of such child;
+132 (2) The case plan documents a compelling reason for determining that filing such a
+133 petition would not be in the best interests of such child. Such compelling reasons may
+134 include, but not be limited to:
+135 (A) A parent of such child is successfully participating in services that will make it
+136 possible for his or her child to safely return home in the reasonably foreseeable future;
+137 (B) Another permanency plan is better suited to meet the health and safety needs of
+138 such child. Documentation that another permanent plan is better suited to meet the
+139 health and safety needs of such child may include documentation that:
+140 (i) Such child is 14 years of age or older and objects to termination of parental rights.
+141 Prior to accepting a child's objection, the court shall personally question such child
+142 in chambers to determine whether the objection is a voluntary and knowing choice;
+143 (ii) Such child is 16 years of age or older and specifically requests that emancipation
+144 be established as his or her permanent plan;
+H. B. 639
+- 6 -
+25 LC 48 1541
+145 (iii) The parent of such child and such child have a significant bond, but such parent
+146 is unable to care for such child because of an emotional or physical disability and
+147 such child's caregiver has committed to raising such child to the age of majority and
+148 facilitating visitation with such disabled parent; or
+149 (iv) Such child is in a residential treatment facility that provides services specifically
+150 designed to address his or her treatment needs and the court determines that his or her
+151 needs could not be served by a less restrictive placement;
+152 (C) Such child is living with his or her relative who is unable or unwilling to adopt
+153 such child, but who is willing and capable of providing such child with a stable and
+154 permanent home environment and the removal of such child from the physical custody
+155 of his or her relative would be detrimental to such child's emotional well-being;
+156 (D) The court or judicial citizen review panel, in a prior hearing or review, determined
+157 that while the case plan was to reunify the family, DFCS did not make reasonable
+158 efforts; or
+159 (E) Such child is an unaccompanied refugee or there are international legal obligations
+160 or foreign policy reasons that would preclude terminating parental rights; or
+161 (3) DFCS has not provided to the family of such child services deemed necessary for his
+162 or her safe return to his or her home, consistent with the specific time frames for the
+163 accomplishment of the case plan goals.
+164 (c)(d) The recommendation by DFCS that termination of parental rights is not in the best
+165 interests of a child shall be based on the present family circumstances of such child and
+166 shall not preclude a different recommendation at a later date if the family circumstances
+167 of a child adjudicated as a dependent child change.
+168 (d)(e) At least 30 days prior to the fifteenth month a child has been in foster care and when
+169 the court deems appropriate, the court shall review DFCS's determination that filing a
+170 petition to terminate parental rights would not be in the best interests of such child, as
+171 provided for in paragraph (2) of subsection (b) (c) of this Code section. Such hearing may
+H. B. 639
+- 7 -
+25 LC 48 1541
+172 be in conjunction with other matters of the case. At such hearing, the court may appoint
+173 an attorney guardian ad litem, who may, after his or her own determination, file a petition
+174 to terminate parental rights on behalf of the child. The court in its sole discretion may
+175 make any additional rulings."
+176 SECTION 6.
+177 Said chapter is further amended in Code Section 15-11-310, relating to grounds for
+178 determining termination of parental rights, by revising subsection (a) as follows:
+179 "(a) In considering the termination of parental rights, the court shall first determine
+180 whether one of the following statutory grounds for termination of parental rights has been
+181 met:
+182 (1) The parent has given written consent to termination which has been acknowledged
+183 by the court or has voluntarily surrendered his or her child for adoption;
+184 (2) The parent has subjected his or her child to aggravated circumstances;
+185 (3) The parent has wantonly and willfully failed to comply for a period of 12 months or
+186 longer with a decree to support his or her child that has been entered by a court of
+187 competent jurisdiction of this or any other state;
+188 (4) A child is abandoned, as such term is defined in Code Section 15-11-2, by his or her
+189 parent; or
+190 (5) A child is a dependent child due to lack of proper parental care or control by his or
+191 her parent, reasonable efforts to remedy the circumstances have been unsuccessful or
+192 were not required, such cause of dependency is likely to continue or will not likely be
+193 remedied in the reasonably foreseeable future, and:
+194 (A) Returning such child to his or her parent is likely to cause serious physical, mental,
+195 moral, or emotional harm to such child or threaten the physical safety or well-being of
+196 such child; or Continuation of the parent and child relationship will cause or is likely
+197 to cause significant physical, mental, moral, or emotional harm to such child; or
+H. B. 639
+- 8 -
+25 LC 48 1541
+198 (B) Continuation of the parent and child relationship will cause or is likely to cause
+199 serious physical, mental, moral, or emotional harm to such child.
+200 (B) In determining harm to the child as required by this subsection, the General
+201 Assembly finds that children have a strong biological and psychological need for stable
+202 attachment to a trusted adult caregiver, and that lack of such attachment is harmful to
+203 the child. Therefore, in considering whether the child will suffer serious physical,
+204 mental, moral, or emotional harm under this Code section, the court shall consider:
+205 (i) Whether the child is attached to the parent, and the quality of any such attachment;
+206 (ii) Whether the child is attached to an alternative caregiver, and the quality of any
+207 such attachment;
+208 (iii) The psychological needs of the child for secure attachment; and
+209 (iv) The danger of further disruptions to the child's attachments."
+210 SECTION 7.
+211 This Act shall become effective upon its approval by the Governor or upon its becoming law
+212 without such approval and shall apply to all dependency and termination of parental rights
+213 cases currently pending, and all such cases later filed, in the juvenile court.
+214 SECTION 8.
+215 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 639
+- 9 -
+[DELETED: 5L1,4,8,ttht0,1,ht c c i p i a c m t p f G A f t a t e o t s c w a t i a s l e a t b c f b a r]
+[DELETED: 5L]
+[DELETED: 5L d c s n b a n r o a s c i t c  H b c o r s a s c m]
+[DELETED: 5L t a r g t b o o m o t c o t n h s b p b s t t c]
+[DELETED: 5L  A c a a a d c h b i f c u t]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L c i f a i C S 1 r t g f f]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 48 1541
+House Bill 639
+By: Representatives Wiedower of the 121st, Efstration of the 104th, Cox of the 28th, Gaines
+of the 120th, Jasperse of the 11th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 11 of Title 15 of the Official Code of Georgia Annotated, relating to the
+2 juvenile code, so as to expedite and prioritize processes for the termination of parental rights
+3 in certain cases involving parental incapacity and child maltreatment; to provide for
+4 definitions; to revise circumstances for when reasonable efforts by DFCS are not required;
+5 to provide for reporting; to revise requirements for nonreunification hearings; to clarify when
+6 a termination of parental rights petition should be filed and the parties entitled to file such
+7 petition; to provide for determinations to be made by the court; to require the court to
+8 consider the child's attachments when ruling on a petition to terminate parental rights; to
+9 provide for related matters; to provide for legislative findings; to provide for an effective date
+10 and applicability; to repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 The General Assembly finds that although the efforts of the state's child welfare
+14 professionals to engage with families and resolve issues of maltreatment through the use of
+15 appropriate services is proper and fit, there are certain situations in which the child's right to
+16 grow and thrive in a safe, loving environment and to be cared for by a responsible,
+H. B. 639
+- 1 -
+
+25 LC 48 1541
+17 trustworthy adult must take precedence. The General Assembly therefore finds it necessary,
+18 in appropriate situations, to expedite safe, stable, and permanent placement with relatives,
+19 fictive kin, or adoptive family for those children who have suffered significant and chronic
+20 abuse and neglect at the hands of the parent.
+21 SECTION 2.
+22 Chapter 11 of Title 15 of the Official Code of Georgia Annotated, relating to the juvenile
+23 code, is amended in Code Section 15-11-201, relating to DFCS case plan and contents, by
+24 revising paragraph (14) of subsection (b) as follows:
+25 "(14) A recommendation for a permanency plan for such child. If, after considering
+26 reunification, adoptive placement, permanent guardianship, or placement with a fit and
+27 willing relative, DFCS recommends placement in another planned permanent living
+28 arrangement for a child who has attained the age of 16, the case plan shall include:
+29 (A) Documentation of a compelling reason or reasons why reunification, termination
+30 of parental rights and adoption, permanent guardianship, or placement with a fit and
+31 willing relative are not in the child's best interests;
+32 (B) Documentation of the intensive, ongoing, and unsuccessful efforts made by the
+33 state agency to return the child home or secure a placement for the child with a fit and
+34 willing relative, a legal guardian, or an adoptive parent, including through efforts that
+35 utilize search technology, including social media, to find biological family members for
+36 the child; and
+37 (C) Documentation of the steps the state agency is taking to ensure that the child's
+38 foster family home or child care institution is following the reasonable and prudent
+39 parent standard, as defined in Code Section 49-5-3, and documentation that the child
+40 has regular, ongoing opportunities to engage in age or developmentally appropriate
+41 activities, as defined in Code Section 49-5-3, including by consulting with the child in
+H. B. 639
+- 2 -
+
+25 LC 48 1541
+42 an age-appropriate manner about the opportunities of the child to participate in the
+43 activities.
+44 For purposes of this paragraph, a 'compelling reason' shall have the same meaning as in
+45 paragraph (2) of subsection (b) (c) of Code Section 15-11-233;"
+46 SECTION 3.
+47 Said chapter is further amended in Code Section 15-11-203, relating to when reasonable
+48 efforts by DFCS not required, by revising subsection (a) and by adding a new subsection to
+49 read as follows:
+50 "(a) The court may direct that reasonable efforts to eliminate the need for placement of an
+51 alleged dependent child shall not be are not required or and shall cease if the court
+52 determines by clear and convincing evidence and makes written findings of fact that a
+53 parent of an alleged dependent child:
+54 (1) Has subjected his or her child to aggravated circumstances;
+55 (2) Has been convicted of the murder or murder in the second degree of another child of
+56 such parent;
+57 (3) Has been convicted of the voluntary manslaughter murder or murder in the second
+58 degree of another child of such parent;
+59 (4) Has been convicted of aiding or abetting, attempting, conspiring, or soliciting to
+60 commit murder or voluntary manslaughter of another child of such parent;
+61 (5) Has been convicted of committing a felony assault that results in serious bodily
+62 injury to the child or another child of such parent;
+63 (6) Has been convicted of rape, sodomy, aggravated sodomy, child molestation,
+64 aggravated child molestation, incest, sexual battery, or aggravated sexual battery of the
+65 alleged dependent child or another child of the parent;
+66 (7) Is required to register as a sex offender and that preservation of a parent-child
+67 relationship is not in the alleged dependent child's best interests; or
+H. B. 639
+- 3 -
+
+25 LC 48 1541
+68 (8) Has had his or her rights to a sibling of the alleged dependent child terminated
+69 involuntarily and the circumstances leading to such termination of parental rights to that
+70 sibling have not been resolved."
+71 "(c) At each hearing, DFCS shall be required to report in writing to all parties and the court
+72 whether there are reasonable grounds to believe one or more of the circumstances
+73 enumerated in subsection (a) of this Code section exist. The court shall be required to
+74 make written findings at each hearing on this issue such circumstances. The court shall
+75 within 30 days hold a nonreunification hearing pursuant to Code Section 15-11-204 to
+76 determine whether reunification services should be provided."
+77 SECTION 4.
+78 Said chapter is further amended in Code Section 15-11-204, relating to nonreunification
+79 hearing, by revising subsections (a) and (b) as follows:
+80 "(a) If the DFCS report does not contain a plan for reunification services, When the court
+81 finds reasonable grounds to believe that a circumstance described in subsection (a) of Code
+82 Section 15-11-203 exists or the DFCS report does not contain a plan for reunification
+83 services, the court shall hold a nonreunification hearing to review the report and the
+84 determination that a plan for reunification services is not appropriate. whether reunification
+85 is the appropriate plan.
+86 (b) The nonreunification hearing shall be held no later than 30 days from the time the
+87 DFCS report is filed or the court finds that a reasonable ground for nonreunification exists.
+88 Notice of the nonreunification hearing shall be provided, by summons, to the child
+89 adjudicated as a dependent child if he or she is 14 years of age or older; his or her parent,
+90 guardian, or legal custodian, attorney, guardian ad litem, if any, and specified nonparties
+91 entitled to notice."
+H. B. 639
+- 4 -
+
+25 LC 48 1541
+92 SECTION 5.
+93 Said chapter is further amended by revising Code Section 15-11-233, relating to termination
+94 of parental rights and exceptions, as follows:
+95 "(a) Except as provided in subsection (b) (c) of this Code section, DFCS shall file a
+96 petition to terminate the parental rights of a parent of a child adjudicated as a dependent
+97 child or, if such a petition has been filed by another party, seek to be joined as a party to
+98 the petition, and, concurrently, to identify, recruit, process, and approve a qualified family
+99 for an adoption if:
+100 (1) A child adjudicated as a dependent child has been in foster care under the
+101 responsibility of DFCS for 15 of the most recent 22 months;
+102 (2) The court has made a determination that the parent has subjected his or her child to
+103 aggravated circumstances; or
+104 (3) The court has made a determination that the parent of a child adjudicated as a
+105 dependent child has been convicted of:
+106 (A) The murder of another child of such parent;
+107 (B) Murder or murder in the second degree of another child of such parent;
+108 (C) Voluntary manslaughter of another child of such parent;
+109 (D) Voluntary manslaughter of the other parent of such child;
+110 (E) Aiding or abetting, attempting, conspiring, or soliciting to commit murder or
+111 second degree murder or voluntary manslaughter of another child of such parent;
+112 (F) Aiding or abetting, attempting, conspiring, or soliciting to commit murder or
+113 second degree murder or voluntary manslaughter of the other parent of such child; or
+114 (G) Committing felony assault that has resulted in serious bodily injury to such child
+115 or to another child of such parent.
+116 (b) Unless a compelling reason exists pursuant to subsection (c) of this Code section, the
+117 petition required by subsection (a) of this Code section shall be filed within 30 days of a
+118 determination by the court that:
+H. B. 639
+- 5 -
+
+25 LC 48 1541
+119 (1) Any of the circumstances of described in paragraph (3) of subsection (a) of this Code
+120 section exist;
+121 (2) DFCS is not required to provide reunification services pursuant to Code Section
+122 15-11-203; or
+123 (3) A parent has voluntarily surrendered his or her parental rights.
+124 (b)(c) If DFCS has a compelling reason for not filing a termination of parental rights
+125 petition pursuant to subsection (a) of this Code section, it shall file with the court, within
+126 the deadline for filing such petition, a written report stating that termination Termination
+127 of parental rights may not be in the best interests of a child adjudicated as a dependent child
+128 when due to one or more of the following:
+129 (1) Such child is being cared for by his or her relative that intends to be a permanent
+130 placement for such child in accordance with a permanency plan approved by the court
+131 and in a time frame that is consistent with the developmental needs of such child;
+132 (2) The case plan documents a compelling reason for determining that filing such a
+133 petition would not be in the best interests of such child. Such compelling reasons may
+134 include, but not be limited to:
+135 (A) A parent of such child is successfully participating in services that will make it
+136 possible for his or her child to safely return home in the reasonably foreseeable future;
+137 (B) Another permanency plan is better suited to meet the health and safety needs of
+138 such child. Documentation that another permanent plan is better suited to meet the
+139 health and safety needs of such child may include documentation that:
+140 (i) Such child is 14 years of age or older and objects to termination of parental rights.
+141 Prior to accepting a child's objection, the court shall personally question such child
+142 in chambers to determine whether the objection is a voluntary and knowing choice;
+143 (ii) Such child is 16 years of age or older and specifically requests that emancipation
+144 be established as his or her permanent plan;
+H. B. 639
+- 6 -
+
+25 LC 48 1541
+145 (iii) The parent of such child and such child have a significant bond, but such parent
+146 is unable to care for such child because of an emotional or physical disability and
+147 such child's caregiver has committed to raising such child to the age of majority and
+148 facilitating visitation with such disabled parent; or
+149 (iv) Such child is in a residential treatment facility that provides services specifically
+150 designed to address his or her treatment needs and the court determines that his or her
+151 needs could not be served by a less restrictive placement;
+152 (C) Such child is living with his or her relative who is unable or unwilling to adopt
+153 such child, but who is willing and capable of providing such child with a stable and
+154 permanent home environment and the removal of such child from the physical custody
+155 of his or her relative would be detrimental to such child's emotional well-being;
+156 (D) The court or judicial citizen review panel, in a prior hearing or review, determined
+157 that while the case plan was to reunify the family, DFCS did not make reasonable
+158 efforts; or
+159 (E) Such child is an unaccompanied refugee or there are international legal obligations
+160 or foreign policy reasons that would preclude terminating parental rights; or
+161 (3) DFCS has not provided to the family of such child services deemed necessary for his
+162 or her safe return to his or her home, consistent with the specific time frames for the
+163 accomplishment of the case plan goals.
+164 (c)(d) The recommendation by DFCS that termination of parental rights is not in the best
+165 interests of a child shall be based on the present family circumstances of such child and
+166 shall not preclude a different recommendation at a later date if the family circumstances
+167 of a child adjudicated as a dependent child change.
+168 (d)(e) At least 30 days prior to the fifteenth month a child has been in foster care and when
+169 the court deems appropriate, the court shall review DFCS's determination that filing a
+170 petition to terminate parental rights would not be in the best interests of such child, as
+171 provided for in paragraph (2) of subsection (b) (c) of this Code section. Such hearing may
+H. B. 639
+- 7 -
+
+25 LC 48 1541
+172 be in conjunction with other matters of the case. At such hearing, the court may appoint
+173 an attorney guardian ad litem, who may, after his or her own determination, file a petition
+174 to terminate parental rights on behalf of the child. The court in its sole discretion may
+175 make any additional rulings."
+176 SECTION 6.
+177 Said chapter is further amended in Code Section 15-11-310, relating to grounds for
+178 determining termination of parental rights, by revising subsection (a) as follows:
+179 "(a) In considering the termination of parental rights, the court shall first determine
+180 whether one of the following statutory grounds for termination of parental rights has been
+181 met:
+182 (1) The parent has given written consent to termination which has been acknowledged
+183 by the court or has voluntarily surrendered his or her child for adoption;
+184 (2) The parent has subjected his or her child to aggravated circumstances;
+185 (3) The parent has wantonly and willfully failed to comply for a period of 12 months or
+186 longer with a decree to support his or her child that has been entered by a court of
+187 competent jurisdiction of this or any other state;
+188 (4) A child is abandoned, as such term is defined in Code Section 15-11-2, by his or her
+189 parent; or
+190 (5) A child is a dependent child due to lack of proper parental care or control by his or
+191 her parent, reasonable efforts to remedy the circumstances have been unsuccessful or
+192 were not required, such cause of dependency is likely to continue or will not likely be
+193 remedied in the reasonably foreseeable future, and:
+194 (A) Returning such child to his or her parent is likely to cause serious physical, mental,
+195 moral, or emotional harm to such child or threaten the physical safety or well-being of
+196 such child; or Continuation of the parent and child relationship will cause or is likely
+197 to cause significant physical, mental, moral, or emotional harm to such child; or
+H. B. 639
+- 8 -
+
+25 LC 48 1541
+198 (B) Continuation of the parent and child relationship will cause or is likely to cause
+199 serious physical, mental, moral, or emotional harm to such child.
+200 (B) In determining harm to the child as required by this subsection, the General
+201 Assembly finds that children have a strong biological and psychological need for stable
+202 attachment to a trusted adult caregiver, and that lack of such attachment is harmful to
+203 the child. Therefore, in considering whether the child will suffer serious physical,
+204 mental, moral, or emotional harm under this Code section, the court shall consider:
+205 (i) Whether the child is attached to the parent, and the quality of any such attachment;
+206 (ii) Whether the child is attached to an alternative caregiver, and the quality of any
+207 such attachment;
+208 (iii) The psychological needs of the child for secure attachment; and
+209 (iv) The danger of further disruptions to the child's attachments."
+210 SECTION 7.
+211 This Act shall become effective upon its approval by the Governor or upon its becoming law
+212 without such approval and shall apply to all dependency and termination of parental rights
+213 cases currently pending, and all such cases later filed, in the juvenile court.
+214 SECTION 8.
+215 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 639
+- 9 -
+
+[DELETED: 5L1,4,8,ttht0,1,ht c c i p i a c m t p f G A f t a t e o t s c w a t i a s l e a t b c f b a r]
+[DELETED: 5L]
+[DELETED: 5L d c s n b a n r o a s c i t c  H b c o r s a s c m]
+[DELETED: 5L t a r g t b o o m o t c o t n h s b p b s t t c]
+[DELETED: 5L  A c a a a d c h b i f c u t]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L c i f a i C S 1 r t g f f]
+[DELETED: 5L]

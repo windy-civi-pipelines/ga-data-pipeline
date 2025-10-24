@@ -1,0 +1,173 @@
+Title: House Bill 94
+Official Title: House Bill 94
+Number of Sections: 1
+Source: versions - LC 52 0653/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0653
+By: Representatives Lumsden of the 12th, Taylor of the 173rd, Hawkins of the 27th, Cooper
+of the 45th, and Silcox of the 53rd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+2 insurance generally, so as to require coverage for certain expenses for standard fertility
+3 preservation services when a medically necessary treatment for cancer, sickle cell disease,
+4 or lupus may directly or indirectly cause an impairment of fertility; to provide for definitions;
+5 to provide for exclusions; to allow for certain cost-sharing requirements; to provide for rules
+6 and regulations; to provide for related matters; to provide for an effective date; to repeal
+7 conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to insurance
+11 generally, is amended by adding a new Code section to read as follows:
+12 "33-24-59.34.
+13 (a) As used in this Code section, the term:
+14 (1) 'Health benefit policy' means any individual or group plan, policy, or contract for
+15 healthcare services issued, delivered, issued for delivery, or renewed in this state by an
+16 insurer that provides major medical benefits, including those plans, policies, or contracts
+H. B. 94
+- 1 -
+25 LC 52 0653
+17 executed by the state on behalf of state employees under Article 1 of Chapter 18 of
+18 Title 45. Such term shall not include self-funded, employer sponsored health insurance
+19 plans subject to the exclusive jurisdiction of the federal Employee Retirement Income
+20 Security Act of 1974, as codified and amended at 29 U.S.C. Section 1001, et seq.
+21 (2) 'Iatrogenic infertility' means an impairment of fertility caused directly or indirectly
+22 by a medically necessary treatment for cancer, sickle cell disease, or lupus.
+23 (3) 'Insurer' means any person, corporation, or other entity authorized to provide health
+24 benefit policies under this title, including a healthcare corporation, health maintenance
+25 organization, preferred provider organization, accident and sickness insurer, fraternal
+26 benefit society, hospital service corporation, medical service corporation, or any similar
+27 entity.
+28 (4) 'Medically necessary treatment' means a medically necessary treatment for cancer,
+29 sickle cell disease, or lupus that has a potential side effect of iatrogenic infertility. Such
+30 treatment includes but is not limited to the surgical removal of the primary or secondary
+31 reproductive organs, chemotherapy, radiation therapy, and bone marrow transplantation.
+32 (5) 'Standard fertility preservation services' means procedures to preserve fertility that
+33 are consistent with established medical practices or professional guidelines. Such
+34 services include but are not limited to egg, sperm, embryo, and ovarian tissue
+35 cryopreservation.
+36 (b) Every health benefit policy renewed or issued after January 1, 2026, shall include
+37 coverage for expenses for standard fertility preservation services when a medically
+38 necessary treatment may directly or indirectly cause iatrogenic infertility in any covered
+39 person. Such coverage shall include evaluation expenses, laboratory assessments,
+40 medications, and treatments associated with standard fertility preservation services,
+41 including storage of gametes for up to one year.
+42 (c) The coverage provided for in subsection (b) of this Code section may:
+43 (1) Exclude costs associated with storage of gametes for more than one year;
+H. B. 94
+- 2 -
+25 LC 52 0653
+44 (2) Include age restrictions;
+45 (3) Include a lifetime limit per procedure per eligible insured; and
+46 (4) Be limited to nonexperimental procedures.
+47 (d) The benefits in a health benefit policy as provided in subsection (b) of this Code
+48 section shall be subject to the same deductibles, coinsurance, and copayment provisions
+49 established for all covered benefits within such health benefit policy. Special deductibles,
+50 coinsurance, copayment, or other limitations that are not generally applicable to other
+51 hospital, medical, or surgical services covered by a health benefit policy shall not be
+52 imposed on coverage for standard fertility preservation services.
+53 (e) The Commissioner shall promulgate rules and regulations necessary to implement the
+54 provisions of this Code section in accordance with current guidelines established by
+55 professional medical organizations such as the American Society of Clinical Oncology or
+56 the American Society for Reproductive Medicine."
+57 SECTION 2.
+58 This Act shall become effective upon its approval by the Governor or upon its becoming law
+59 without such approval.
+60 SECTION 3.
+61 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 94
+- 3 -
+[DELETED: 5L2,3,7,hrdt5,3hr]
+[DELETED: 5L c w e m p o p g  S i b a n l t e s e a o t f e f s f p s w a m  S c s i e e l a a t a w s f p s]
+[DELETED: 5L o t C s i a w c g e b]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0653
+House Bill 94
+By: Representatives Lumsden of the 12th, Taylor of the 173rd, Hawkins of the 27th, Cooper
+of the 45th, and Silcox of the 53rd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+2 insurance generally, so as to require coverage for certain expenses for standard fertility
+3 preservation services when a medically necessary treatment for cancer, sickle cell disease,
+4 or lupus may directly or indirectly cause an impairment of fertility; to provide for definitions;
+5 to provide for exclusions; to allow for certain cost-sharing requirements; to provide for rules
+6 and regulations; to provide for related matters; to provide for an effective date; to repeal
+7 conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to insurance
+11 generally, is amended by adding a new Code section to read as follows:
+12 "33-24-59.34.
+13 (a) As used in this Code section, the term:
+14 (1) 'Health benefit policy' means any individual or group plan, policy, or contract for
+15 healthcare services issued, delivered, issued for delivery, or renewed in this state by an
+16 insurer that provides major medical benefits, including those plans, policies, or contracts
+H. B. 94
+- 1 -
+
+25 LC 52 0653
+17 executed by the state on behalf of state employees under Article 1 of Chapter 18 of
+18 Title 45. Such term shall not include self-funded, employer sponsored health insurance
+19 plans subject to the exclusive jurisdiction of the federal Employee Retirement Income
+20 Security Act of 1974, as codified and amended at 29 U.S.C. Section 1001, et seq.
+21 (2) 'Iatrogenic infertility' means an impairment of fertility caused directly or indirectly
+22 by a medically necessary treatment for cancer, sickle cell disease, or lupus.
+23 (3) 'Insurer' means any person, corporation, or other entity authorized to provide health
+24 benefit policies under this title, including a healthcare corporation, health maintenance
+25 organization, preferred provider organization, accident and sickness insurer, fraternal
+26 benefit society, hospital service corporation, medical service corporation, or any similar
+27 entity.
+28 (4) 'Medically necessary treatment' means a medically necessary treatment for cancer,
+29 sickle cell disease, or lupus that has a potential side effect of iatrogenic infertility. Such
+30 treatment includes but is not limited to the surgical removal of the primary or secondary
+31 reproductive organs, chemotherapy, radiation therapy, and bone marrow transplantation.
+32 (5) 'Standard fertility preservation services' means procedures to preserve fertility that
+33 are consistent with established medical practices or professional guidelines. Such
+34 services include but are not limited to egg, sperm, embryo, and ovarian tissue
+35 cryopreservation.
+36 (b) Every health benefit policy renewed or issued after January 1, 2026, shall include
+37 coverage for expenses for standard fertility preservation services when a medically
+38 necessary treatment may directly or indirectly cause iatrogenic infertility in any covered
+39 person. Such coverage shall include evaluation expenses, laboratory assessments,
+40 medications, and treatments associated with standard fertility preservation services,
+41 including storage of gametes for up to one year.
+42 (c) The coverage provided for in subsection (b) of this Code section may:
+43 (1) Exclude costs associated with storage of gametes for more than one year;
+H. B. 94
+- 2 -
+
+25 LC 52 0653
+44 (2) Include age restrictions;
+45 (3) Include a lifetime limit per procedure per eligible insured; and
+46 (4) Be limited to nonexperimental procedures.
+47 (d) The benefits in a health benefit policy as provided in subsection (b) of this Code
+48 section shall be subject to the same deductibles, coinsurance, and copayment provisions
+49 established for all covered benefits within such health benefit policy. Special deductibles,
+50 coinsurance, copayment, or other limitations that are not generally applicable to other
+51 hospital, medical, or surgical services covered by a health benefit policy shall not be
+52 imposed on coverage for standard fertility preservation services.
+53 (e) The Commissioner shall promulgate rules and regulations necessary to implement the
+54 provisions of this Code section in accordance with current guidelines established by
+55 professional medical organizations such as the American Society of Clinical Oncology or
+56 the American Society for Reproductive Medicine."
+57 SECTION 2.
+58 This Act shall become effective upon its approval by the Governor or upon its becoming law
+59 without such approval.
+60 SECTION 3.
+61 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 94
+- 3 -
+
+[DELETED: 5L2,3,7,hrdt5,3hr]
+[DELETED: 5L c w e m p o p g  S i b a n l t e s e a o t f e f s f p s w a m  S c s i e e l a a t a w s f p s]
+[DELETED: 5L o t C s i a w c g e b]

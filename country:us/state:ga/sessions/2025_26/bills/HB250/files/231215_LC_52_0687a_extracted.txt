@@ -1,0 +1,1424 @@
+Title: House Bill 250
+Official Title: House Bill 250
+Number of Sections: 1
+Source: versions - LC 52 0687/a
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0687
+By: Representatives Taylor of the 173rd, Cheokas of the 151st, Jones of the 25th, Williams of
+the 148th, and Martin of the 49th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 33 and 34 of the Official Code of Georgia Annotated, relating to insurance
+2 and labor and industrial relations, respectively, so as to provide for the registration and
+3 regulation of professional employer organizations; to provide for certain regulatory powers,
+4 duties, and authority of the Commissioner of Insurance over professional employer
+5 organizations; to exempt such organizations from certain licensing requirements; to provide
+6 for definitions; to provide for the registration of such organizations; to provide for certain
+7 fees; to provide for the restriction of the use of certain terms; to provide for complaints; to
+8 provide for coordination with the Commissioner of Labor; to provide for a co-employment
+9 relationship; to provide for no effect on existing collective bargaining agreements or other
+10 contracts; to provide for legislative construction; to clarify rights, duties, and obligations of
+11 clients and professional employer organizations; to clarify employer and employee statuses;
+12 to clarify tax duties, obligations, and credits; to provide for disciplinary actions; to provide
+13 for the applicability of Chapter 8 of Title 34, the "Employment Security Law"; to provide for
+14 rules and regulations; to repeal obsolete provisions; to provide for the posting of a surety
+15 bond; to provide for conforming changes; to provide for a short title; to provide for related
+16 matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 250
+- 1 -
+25 LC 52 0687
+18 PART I
+19 SECTION 1-1.
+20 Title 33 of the Official Code of Georgia Annotated, relating to insurance, is amended in
+21 subsections (b) and (c) of Code Section 33-23-1, relating to definitions relative to agents,
+22 agencies, subagents, counselors, and adjusters, as follows:
+23 "(b) The definitions of agent, subagent, and counselor in subsection (a) of this Code
+24 section shall not be deemed to include:
+25 (1) An attorney at law admitted to practice in this state, when handling the collections
+26 of premiums or advising clients as to insurance as a function incidental to the practice of
+27 law or who adjusts losses which are incidental to the practice of his or her profession;
+28 (2) Any representative of ocean marine insurers;
+29 (3) Any representative of farmers' mutual fire insurance companies as defined in
+30 Chapter 16 of this title;
+31 (4) A salaried employee of a credit or character reporting firm or agency not engaged in
+32 the insurance business who may, however, report to an insurer;
+33 (5) A person acting for or as a collection agency;
+34 (6) A person who makes the salary deductions of premiums for employees or, under a
+35 group insurance plan, a person who serves the master policyholder of group insurance in
+36 administering the details of such insurance for the employees or debtors of the master
+37 policyholder or of a firm or corporation by which the person is employed and who does
+38 not receive insurance commissions for such service; provided, further, that an
+39 administration fee not exceeding 5 percent of the premiums collected paid by the insurer
+40 to the administration office shall not be construed to be an insurance commission;
+41 (7) Persons exempted from licensure as provided in subsection (h) of Code
+42 Section 33-23-4; or
+H. B. 250
+- 2 -
+25 LC 52 0687
+43 (8) An individual who collects claim information from, or furnishes claim information
+44 to, insureds or claimants, who conducts data entry, and who enters data into an automated
+45 claims adjudication system, provided that the individual is an employee of a licensed
+46 independent adjuster or its affiliate where no more than 25 such persons are under the
+47 supervision of one licensed independent adjustor or licensed agent; or
+48 (9) A professional employer organization providing professional employer services to
+49 a client or covered employee pursuant to a professional employer agreement, as such
+50 terms are defined in Code Section 34-11-1, to the extent that such organization collects
+51 information from a client or covered employee; obtains, offers, or provides life, accident
+52 and sickness, disability income, workers' compensation, and other types of insurance
+53 coverage for a client or covered employee; establishes a retirement plan for a client or
+54 covered employee; and has or obtains, offers, or provides other types of employee
+55 benefits and discusses such benefits with a client or covered employee.
+56 (c) In addition to paragraphs (2) through (8)(9) of subsection (b) of this Code section, the
+57 definitions of public adjuster, independent adjuster, and adjuster in subsection (a) of this
+58 Code section shall not be deemed to include an attorney admitted to practice law in this
+59 state."
+60 SECTION 1-2.
+61 Said title is further amended in subsection (b) of Code Section 33-23-100, relating to
+62 definitions, exemptions, and applicability of Code Section 33-24-59.5 and 33-24-59.14, by
+63 striking "or" at the end of paragraph (12), replacing the period at the end of paragraph (13)
+64 with "; or", and adding a new paragraph to read as follows:
+65 "(14) A professional employer organization to the extent that such organization
+66 administers insurance or administers workers' compensation claims pursuant to a
+67 professional employer agreement, as such terms are defined in Code Section 34-11-1."
+H. B. 250
+- 3 -
+25 LC 52 0687
+68 PART II
+69 SECTION 2-1.
+70 This Act shall be known and may be cited as the "Better Small Business Employee Benefits
+71 Act."
+72 SECTION 2-2.
+73 Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial relations,
+74 is amended by revising Chapter 11, which is reserved, as follows:
+75 "CHAPTER 11
+76 34-11-1.
+77 As used in this chapter, the term:
+78 (1) 'Client' means any person who enters into a professional employer agreement with
+79 a professional employer organization.
+80 (2) 'Co-employer' means either a professional employer organization or a client.
+81 (3) 'Co-employment relationship' means an arrangement wherein the rights, duties, and
+82 obligations of an employer which arise out of an employment arrangement are allocated
+83 between the parties to such arrangement.
+84 (4) 'Commissioner' means the Commissioner of Insurance.
+85 (5) 'Covered employee' means an individual working under a co-employment
+86 relationship between a PEO and a client pursuant to a professional employer agreement
+87 subject to this chapter.
+88 (6) 'Department' means the Department of Insurance.
+89 (7) 'Limited registrant' means a PEO that:
+90 (A) Is domiciled and registered or licensed in another state;
+H. B. 250
+- 4 -
+25 LC 52 0687
+91 (B) Has 50 or fewer covered employees; and
+92 (C) Maintains no principal place of business in this state.
+93 (8) 'PEO group' means two or more PEO entities that are majority owned or commonly
+94 controlled by the same entity or parent company.
+95 (9) 'Person' means any individual, corporation, company, association, partnership,
+96 limited liability company, or other form of legally recognized entity.
+97 (10) 'Professional employer agreement' means a written contract between a client and a
+98 PEO that provides:
+99 (A) For the co-employment of covered employees;
+100 (B) An express allocation of employer rights and obligations regarding covered
+101 employees between the client and the PEO; and
+102 (C) That the PEO and the client assume the responsibilities required by this chapter.
+103 (11) 'Professional employer organization' or 'PEO' means any person engaged in the
+104 business of providing professional employer services. Such term is not required to be in
+105 the title of the business. Such term shall include a staff leasing company, registered staff
+106 leasing company, employee leasing company, administrative employer, or any other
+107 similar name, provided that the person is engaged in the business of providing
+108 professional employer services. Such term shall not include:
+109 (A) A person, whose principal business activity is not entering into professional
+110 employer agreements and which does not hold itself out as a PEO, that shares
+111 employees with a commonly controlled corporation, trade, or business within the
+112 meaning of Section 414(b) and (c) of the federal Internal Revenue Code of 1986;
+113 (B) A person in an independent contractor arrangement by which such person assumes
+114 responsibility for the goods produced or services performed by such person or such
+115 person's agents and retains and exercises primary direction and control over the work
+116 performed by the individuals whose goods or services are supplied under such
+117 arrangement; or
+H. B. 250
+- 5 -
+25 LC 52 0687
+118 (C) A temporary help contracting firm as defined in Code Section 34-8-46.
+119 (12) 'Professional employer services' means the service of entering into co-employment
+120 relationships in which all or a majority of the employees providing services to a client are
+121 covered employees pursuant to a professional employer agreement.
+122 (13) 'Registrant' means a PEO registered with the department pursuant to Code
+123 Section 34-11-2.
+124 34-11-2.
+125 (a) Beginning July 1, 2027, except as otherwise provided in this chapter, no person shall
+126 provide, advertise, or otherwise hold itself out as providing professional employer services
+127 in this state, unless such person is registered with the department in accordance with this
+128 chapter. The department shall begin accepting applications for registration no later than
+129 January 2, 2026.
+130 (b) Each applicant for registration shall provide the department with the following:
+131 (1) The name or names under which the PEO conducts business;
+132 (2) The address of the principal place of business of the PEO;
+133 (3) The address of each office, if any, it maintains in this state;
+134 (4) The PEO's taxpayer or employer identification number;
+135 (5) A list by jurisdiction of each name under which the PEO has operated in the
+136 preceding two years;
+137 (6) A statement of ownership, which shall include the name and address of any person
+138 that, individually or in a business relationship with one or more other persons, owns or
+139 controls at least 25 percent of the equity interests of the PEO;
+140 (7) A statement of management, which shall include the name of any person who serves
+141 as chief executive officer, president, or secretary or otherwise has been empowered with
+142 the authority to act as an officer of the PEO; and
+H. B. 250
+- 6 -
+25 LC 52 0687
+143 (8) A financial statement, prepared in accordance with generally accepted accounting
+144 principles by an independent, certified public accountant licensed to practice in the
+145 jurisdiction in which such accountant is located. A PEO group may submit combined or
+146 consolidated financial statements to meet the requirements of this paragraph. A PEO that
+147 has not had sufficient operating history to be able to provide such records shall meet the
+148 financial requirements set forth in this Code section and present financial statements as
+149 requested by the department.
+150 (c) In the event a PEO not registered in this state becomes knowledgeable that a client has
+151 covered employees in this state:
+152 (1) The PEO shall notify the department within 30 days of such knowledge and file a
+153 limited registrant application under subsection (f) of this Code section; or
+154 (2) If the number of covered employees exceeds 50, the department may allow for a
+155 temporary registration while registration applications are being prepared and evaluated.
+156 In its evaluation for such temporary registration, the department may consider whether
+157 the PEO is currently registered or licensed in another state and if temporary registration
+158 is in the best interests of the covered employees in this state.
+159 (d) A registrant shall renew its registration annually by making a filing in a form
+160 determined by the department, which shall provide for the registrants to notify the
+161 department of any material changes in the information provided in its most recent
+162 registration filing. A registrant's existing registration shall remain in effect while such
+163 renewal application is under review.
+164 (e) A PEO group applying for renewal may satisfy the registration and financial reporting
+165 requirements of this chapter by filing combined or consolidated filings, provided that each
+166 member of the PEO group attests to being responsible for meeting the requirements set
+167 forth in this chapter.
+168 (f) A PEO shall be eligible to be a limited registrant if such PEO submits a request for
+169 limited registration on a form provided by the department and the department finds that
+H. B. 250
+- 7 -
+25 LC 52 0687
+170 such PEO is domiciled outside this state and is licensed or registered as a professional
+171 employer organization in another state. A limited registrant shall not maintain an office
+172 in this state or have more than 50 covered employees employed or domiciled in this state
+173 at any time. Limited registrants shall be registered for a maximum period of one year and
+174 may be considered for renewal as a limited registrant as set forth by the department.
+175 (g) The department shall maintain a directory of professional employer organizations
+176 registered under this chapter and shall make such directory readily available on the
+177 department's public website and by any other means deemed appropriate by the department.
+178 (h) The department shall, to the extent practicable, accept electronic filings, including, but
+179 not limited to, applications, documents, reports, and other filings required under this
+180 chapter. The department may provide for the acceptance of electronic filings and other
+181 assurance by an independent and qualified assurance organization approved by the
+182 department that provides satisfactory assurance of compliance and security. The
+183 department may authorize a PEO to agree that such an approved assurance organization
+184 may act on the PEO's behalf in complying with the registration requirements of this
+185 chapter.
+186 (i) All records, reports, and other information obtained from or on behalf of a PEO, except
+187 to the minimum extent necessary for the proper administration by the department or to
+188 comply with the provisions of Article 4 of Chapter 18 of Title 50, relating to open records,
+189 shall be confidential and shall not be published or open to public inspection other than to
+190 public employees in the performance of their official duties.
+191 34-11-3.
+192 (a) The Commissioner is authorized to assess and collect in advance, and persons so
+193 assessed shall pay in advance to the Commissioner, fees for the initial and renewal
+194 registration of a PEO, initial and renewal registration of a PEO group, and limited and
+195 temporary registration of a PEO or a PEO group.
+H. B. 250
+- 8 -
+25 LC 52 0687
+196 (b) The amount of the fees provided for in subsection (a) of this Code section shall be
+197 limited as follows:
+198 (1) The initial registration fee of a PEO shall not exceed $500.00, and the renewal
+199 registration fee of a PEO shall not exceed $250.00;
+200 (2) The initial registration fee of a PEO group shall not exceed $500.00 per group
+201 member, and the renewal registration fee of a PEO group shall not exceed $250.00 per
+202 group member;
+203 (3) The limited registration fee of a PEO shall not exceed $250.00, and the limited
+204 registration fee of a PEO group shall not exceed $250.00 per group member;
+205 (4) The temporary registration fee of a PEO shall not exceed $250.00, and the temporary
+206 registration fee of a PEO group shall not exceed $250.00 per group member; and
+207 (5) Such fees shall not exceed the amount reasonably necessary for the registration and
+208 regulation of professional employer organizations.
+209 34-11-4.
+210 Any applicant, either for an initial registration or a renewal, shall submit financial
+211 statements, in accordance with paragraph (8) of subsection (b) of Code Section 34-11-2,
+212 that prove that the applicant has positive working capital.
+213 34-11-5.
+214 (a) It shall be unlawful for any person to use the term 'PEO,' 'professional employer
+215 organization,' 'staff leasing,' 'staff leasing company,' 'registered staff leasing company,'
+216 'employee leasing,' 'employee leasing company,' 'administrative employer,' or any other
+217 title deemed by the department to be representative of professional employer services and
+218 to provide professional employer services without being registered as a PEO with the
+219 department.
+H. B. 250
+- 9 -
+25 LC 52 0687
+220 (b) It shall be unlawful for any person to knowingly provide false or otherwise fraudulent
+221 information to the department in support of any application for registration or renewal or
+222 in any report required under this chapter.
+223 (c) Any complaints regarding a professional employer organization shall be filed with the
+224 department, and any complaints filed with the Department of Labor shall be forwarded to
+225 the department; provided, however, that the department and the Department of Labor shall
+226 cooperate in the documentation, investigation, and resolution of any complaints received
+227 and in any disciplinary actions.
+228 34-11-6.
+229 (a) In a co-employment relationship:
+230 (1) The client is entitled to enforce the rights and obligated to provide and perform the
+231 employer obligations allocated to such client by the professional employer agreement and
+232 this chapter;
+233 (2) The client is entitled to enforce any right and obligated to perform any obligation of
+234 an employer not specifically allocated to the PEO in the professional employer agreement
+235 or this chapter;
+236 (3) The rights, duties, and obligations of the PEO as co-employer with respect to any
+237 covered employee shall be limited to those arising pursuant to the professional employer
+238 agreement and this chapter during the term of the co-employment relationship with the
+239 PEO of such covered employee;
+240 (4) Unless otherwise expressly agreed by the PEO and the client in a professional
+241 employer agreement, the client retains the exclusive right to direct and control covered
+242 employees as is necessary to conduct the client's business, to discharge any of the client's
+243 fiduciary responsibilities, or to comply with any licensure, regulatory, or statutory
+244 requirements applicable to the client or covered employees; and
+H. B. 250
+- 10 -
+25 LC 52 0687
+245 (5) For purposes of any law of this state where employer coverage and employee
+246 eligibility is determined based on the number of covered employees employed by the
+247 employer, the client as an employer shall be required to count only the covered
+248 employees of the client, and not the employees of other clients of the PEO or of the PEO
+249 itself.
+250 (b) Except as specifically provided in this chapter, the co-employment relationship
+251 between the client and the PEO, and between each co-employer and each covered
+252 employee, shall be governed by a professional employer agreement. Each professional
+253 employer agreement shall provide for the following:
+254 (1) The allocation of rights, duties, and obligations of each co-employer for each covered
+255 employee;
+256 (2) The allocation of rights, duties, and obligations to the PEO regarding payment of
+257 wages. The PEO shall pay wages to covered employees; shall withhold, collect, and
+258 remit payroll and unemployment taxes; and may make payments for employee benefits.
+259 Such payment of wages shall not be interpreted as to include any obligation between a
+260 client and a covered employee for payments beyond or in addition to the covered
+261 employee's salary, draw, or regular rate of pay, including, but not limited to, severance
+262 pay, deferred compensation, profit sharing, or vacation, sick, or other paid time off pay,
+263 unless the PEO has expressly agreed to assume liability for such payments in the
+264 professional employer agreement;
+265 (3) A right to hire, discipline, and terminate a covered employee shall be allocated to
+266 both the client and the PEO; provided, however, that the PEO's right shall be limited to
+267 such employment decisions as may be necessary to fulfill the PEO's responsibilities under
+268 this chapter and a valid professional employer agreement; and
+269 (4) The responsibility to purchase and obtain adequate workers' compensation coverage
+270 for covered employees shall be specifically allocated to either the client or the PEO as
+271 provided for in Code Section 34-11-9.
+H. B. 250
+- 11 -
+25 LC 52 0687
+272 (c) A PEO shall provide written notice to each covered employee whose co-employment
+273 relationship is made effective by a professional employer agreement of the general nature
+274 of the co-employment relationship between and among the PEO, the client, and such
+275 covered employee.
+276 (d) Except to the extent otherwise provided by the professional employer agreement:
+277 (1) A client shall be solely responsible for:
+278 (A) The quality, adequacy, or safety of the goods produced or sold or services
+279 performed in the client's business; and
+280 (B) Directing, supervising, training, and controlling the work of covered employees
+281 with respect to the client's business activities, and the acts, errors, or omissions of such
+282 covered employees with regard to such activities;
+283 (2) A client shall not be liable for the acts, errors, or omissions of a PEO or of a covered
+284 employee when such covered employee is acting under the express direction and control
+285 of the PEO;
+286 (3) A PEO shall not be liable for the acts, errors, or omissions of a client or of a covered
+287 employee when such covered employee is acting under the express direction and control
+288 of the client;
+289 (4) Nothing in this subsection shall serve to limit any contractual liability or obligation
+290 specifically provided in the professional employer agreement; and
+291 (5) A covered employee is not an employee of the PEO for purposes of general liability
+292 insurance, fidelity bonds, surety bonds, employer's liability which is not covered by
+293 workers' compensation, or liquor liability insurance carried by the PEO solely as the
+294 result of being a covered employee of a PEO unless covered employees are included by
+295 specific reference in the professional employer agreement and applicable prearranged
+296 employment contract, insurance contract, or bond.
+297 (e) A PEO registered with the department and in compliance with this chapter shall not be
+298 required to obtain:
+H. B. 250
+- 12 -
+25 LC 52 0687
+299 (1) A license as an agent, subagent, or counselor, provided that such PEO is not selling,
+300 soliciting, or negotiating insurance outside of a professional employer agreement as
+301 excluded in paragraph (9) of subsection (b) of Code Section 33-23-1;
+302 (2) A license as an administrator, provided that such PEO is not administering insurance
+303 outside of a professional employer agreement as excluded in paragraph (14) of
+304 subsection (b) of Code Section 33-23-100; or
+305 (3) A certificate of authority to transact insurance, provided that such PEO is not selling,
+306 soliciting, negotiating, administering, inducing, or effectuating insurance outside of a
+307 professional employer agreement.
+308 (f) For purposes of any tax collected by the state or a county, municipality, or other
+309 political subdivision thereof:
+310 (1) A covered employee whose goods or services are subject to sales tax shall be deemed
+311 the employee of a client for purposes of collecting and levying sales tax on the goods
+312 produced or services performed by the covered employee. Nothing contained in this
+313 chapter shall relieve a client of any sales tax liability with respect to its goods or services;
+314 (2) Any tax or assessment imposed upon professional employer services or any business
+315 license or other fee which is based upon gross receipts shall allow a deduction from the
+316 gross income or receipts of the business derived from performing professional employer
+317 services that is equal to that portion of the fee charged to a client that represents the actual
+318 cost of wages and salaries, benefits, workers' compensation, payroll taxes, withholding,
+319 or other assessments paid to or on behalf of a covered employee by the PEO under a
+320 professional employer agreement;
+321 (3) Any tax assessed or assessment or mandated expenditure on a per capita or per
+322 employee basis shall be assessed against the client for covered employees and against the
+323 professional employer organization for its employees who are not covered employees of
+324 a client. Benefits or monetary consideration meeting the requirements of mandates
+325 imposed on a client that are received by covered employees through the PEO either
+H. B. 250
+- 13 -
+25 LC 52 0687
+326 through payroll or through benefit plans sponsored by the PEO shall be credited against
+327 the client's obligation to fulfill such mandates; and
+328 (4) In the case of a tax or an assessment imposed or calculated upon the basis of total
+329 payroll, the professional employer organization shall be eligible to apply any small
+330 business allowance or exemption available to the client for the covered employees for the
+331 purpose of computing such tax or assessment.
+332 34-11-7.
+333 (a) A professional employer agreement shall have no effect on existing collective
+334 bargaining agreements. Nothing in this chapter shall alter the rights or obligations of any
+335 client, professional employer organization, or worksite employee under the federal
+336 National Labor Relations Act or any state law.
+337 (b) Nothing in this chapter or in any professional employer agreement shall:
+338 (1) Diminish, abolish, or remove rights of a covered employee to a client or obligations
+339 of such client to a covered employee existing prior to the effective date of a professional
+340 employer agreement;
+341 (2) Affect, modify, or amend any contractual relationship or restrictive covenant between
+342 a covered employee and any client in effect at the time a professional employer
+343 agreement becomes effective;
+344 (3) Prohibit or amend any contractual relationship or restrictive covenant that is entered
+345 into subsequently between a client and a covered employee, provided that a PEO shall
+346 bear no liability arising from any such contractual relationship or restrictive covenant
+347 unless the PEO and the client have each expressly agreed to such an exception, which
+348 shall become an addendum to the professional employment agreement; or
+349 (4) Create any new or additional enforceable right of a covered employee against a PEO
+350 that is not expressly provided by the professional employer agreement or this chapter.
+H. B. 250
+- 14 -
+25 LC 52 0687
+351 (c) Nothing contained in this chapter or any professional employer agreement shall affect,
+352 modify, or amend any state, local, or federal licensing, registration, or certification
+353 requirement applicable to any client or covered employee or affect, modify, or amend a
+354 client's or covered employee's duties and obligations with respect to workplace safety.
+355 (d) A covered employee of a client who is required by law or rule or regulation
+356 promulgated thereunder to be licensed, registered, or certified shall be deemed to be solely
+357 an employee of the client for purposes of such license, registration, or certification
+358 requirement.
+359 (e) A PEO shall not be deemed to engage in any occupation, trade, profession, or other
+360 activity that is subject to licensing, registration, or certification requirements, or is
+361 otherwise regulated by a governmental entity, solely by entering into and maintaining a
+362 co-employment relationship with a covered employee who is subject to such requirements
+363 or regulation.
+364 (f) A client shall have the sole right of direction and control of the professional or licensed
+365 activities of covered employees and the client's business. Such covered employees and
+366 clients shall remain subject to regulation by the regulatory or governmental entity
+367 responsible for licensing, registration, or certification of such covered employees or clients.
+368 (g) For purposes of determination of tax credits and other economic incentives provided
+369 by the state or any other governmental entity and based on employment, covered
+370 employees shall be deemed employees solely of the client. A client shall be entitled to the
+371 benefit of any tax credit, economic incentive, or other benefit arising as the result of the
+372 employment of covered employees of such client. Notwithstanding that the PEO shall be
+373 the W-2 reporting employer, the client shall continue to qualify for any such benefit,
+374 incentive, or credit. If the grant or amount of any such incentive is based on number of
+375 employees, then each client shall be treated as employing only those covered employees.
+376 Covered employees working for other clients of the PEO shall not be counted. Each PEO
+377 shall provide, upon request by a client or state agency, employment information reasonably
+H. B. 250
+- 15 -
+25 LC 52 0687
+378 required by the state agency responsible for the administration of any such tax credit or
+379 economic incentive and necessary to support any request, claim, application, or other action
+380 by a client seeking any such tax credit or economic incentive.
+381 (h) With respect to a bid, contract, purchase order, or agreement entered into with the state
+382 or a political subdivision of the state, a client's status as a small business certified as a
+383 minority business enterprise, women owned business, or veteran owned business or as a
+384 historically underutilized business shall not be affected because such client has a
+385 professional employment agreement with a PEO or otherwise transacts business with a
+386 PEO.
+387 34-11-8.
+388 (a) A client and a PEO operating under a professional employer agreement shall each be
+389 deemed an employer for the purposes of sponsoring retirement and welfare benefit plans
+390 for its covered employees.
+391 (b) A fully insured welfare benefit plan offered to the covered employees of a PEO shall
+392 be treated as a single employer welfare benefit plan. A plan shall be considered fully
+393 insured only if all benefits payable are guaranteed under a contract or policy of insurance
+394 issued by an insurer licensed or otherwise authorized to transact the business of insurance
+395 in this state pursuant to Title 33.
+396 (c) For purposes of Chapter 60 of Title 33, the 'Small Business Employee Choice of
+397 Benefits Health Insurance Plan Act,' a PEO shall be considered the employer of all of its
+398 covered employees, and all covered employees of one or more clients who are participating
+399 in any health benefit plan sponsored by such PEO shall be considered employees of that
+400 PEO.
+H. B. 250
+- 16 -
+25 LC 52 0687
+401 34-11-9.
+402 (a) A professional employer agreement shall specify the party responsible for obtaining
+403 workers' compensation coverage from a carrier authorized to do business in this state in
+404 compliance with Chapter 9 of this title for covered employees.
+405 (b) A professional employer agreement shall specify the party responsible for obtaining
+406 workers' compensation coverage from a carrier authorized to do business in this state in
+407 compliance with Chapter 9 of this title for directly employed workers of the client,
+408 provided that such agreement identifies which directly employed workers of the client are
+409 included under such coverage.
+410 (c) Workers' compensation coverage for the covered employees of a client and for any
+411 directly employed workers of the client identified in the professional employer agreement
+412 as provided for in subsection (b) of this Code section shall be obtained as follows:
+413 (1) In the voluntary market, by either:
+414 (A) The client, through a standard workers' compensation policy or through duly
+415 authorized self-insurance; or
+416 (B) The PEO, through a duly authorized self-insurance program, a master policy issued
+417 to the PEO by a carrier authorized to do business in this state, or a multiple coordinated
+418 policy issued by a carrier authorized to do business in this state in the name of the PEO
+419 or the client. A PEO authorized to self-insure or a carrier providing coverage through
+420 the PEO under this subparagraph shall report to the appropriate state and rating
+421 authorities such client information as is necessary to maintain the client's experience
+422 rating; or
+423 (2) In the residual market, by either:
+424 (A) The client, through a residual market policy; or
+425 (B) The PEO, through a multiple coordinated policy in the name of either the PEO or
+426 the client. A PEO obtaining coverage under this subparagraph shall report to the
+H. B. 250
+- 17 -
+25 LC 52 0687
+427 appropriate state and rating authorities the client based information as is necessary to
+428 maintain the client's experience rating.
+429 (d) The protection of the exclusive remedy provision of Chapter 9 of this title shall apply
+430 to the PEO, client, covered employees, and directly employed workers of the client
+431 irrespective of which co-employer obtains such workers' compensation coverage. The PEO
+432 and the client shall be considered co-employers for purposes of workers' compensation
+433 coverage of covered employees and any directly employed workers of the client identified
+434 in the professional employer agreement as provided for in subsection (b) of this Code
+435 section. The client shall be considered the sole employer for any directly employed
+436 workers of the client outside of the professional employer agreement.
+437 34-11-10.
+438 (a) Upon finding that a PEO, an owner or manager of a PEO, or a person offering
+439 professional employer services has committed a violation of a provision of Title 33; Code
+440 Section 34-11-2, 34-11-3, 34-11-4, or 34-11-5; or the rules and regulations or an order of
+441 the Commissioner, in addition to all other penalties provided for under Title 33, the
+442 Commissioner shall have the authority to:
+443 (1) Deny an application for registration or refuse to renew a registration;
+444 (2) Place any registration on probation for any time period and subject to conditions;
+445 (3) Suspend, revoke, or restrict a registration;
+446 (4) Impose an administrative penalty in an amount not to exceed $2,000.00 for each and
+447 every violation; and
+448 (5) Issue an order to cease and desist as provided for in Code Section 33-2-24.
+449 (b) Except as provided for in subsection (a) of this Code section, the Commissioner of
+450 Labor is authorized to take action against any person in violation of this title or any rule or
+451 regulation promulgated under this title.
+H. B. 250
+- 18 -
+25 LC 52 0687
+452 (c) The hearing and any administrative review thereof regarding an action taken pursuant
+453 to this Code section shall be conducted in accordance with Chapter 13 of Title 50, the
+454 'Georgia Administrative Procedure Act.'
+455 34-11-11.
+456 Nothing contained in this chapter shall affect the rights and obligations established under
+457 Chapter 8 of Title 34, the 'Employment Security Law,' or any rules or regulations
+458 promulgated pursuant to such chapter.
+459 34-11-12.
+460 This chapter shall not be applicable to:
+461 (1) Arrangements wherein a person, whose principal business activity is not entering into
+462 professional employer agreements and which does not hold itself out as a PEO, shares
+463 employees with a commonly owned corporation, trade, or business within the meaning
+464 of Section 414(b) and (c) of the federal Internal Revenue Code of 1986; or
+465 (2) Temporary help contracting firms as defined in Code Section 34-8-46.
+466 34-11-13.
+467 The Commissioner and the Commissioner of Labor shall adopt such rules and regulations
+468 as are reasonable and necessary to effectuate the provisions of this chapter. Reserved."
+469 PART III
+470 SECTION 3-1.
+471 Said title is further amended by revising Code Section 34-7-6, relating to professional
+472 employer organizations and rights, powers, and responsibility, as follows:
+H. B. 250
+- 19 -
+25 LC 52 0687
+473 "34-7-6.
+474 (a) As used in this Code section, the term 'professional employer organization' means an
+475 employee leasing company as defined in Code Section 34-8-32 that has established a
+476 coemployment relationship with another employer, pays the wages of the employees of the
+477 coemployer, reserves a right of direction and control over the employees of the
+478 coemployer, and assumes responsibility for the withholding and payment of payroll taxes
+479 of the coemployer.
+480 (b) A professional employer organization may collect information to evaluate costs; may
+481 obtain life, accident and sickness, disability income, workers' compensation, and other
+482 types of insurance coverage; may establish retirement plans; may have other types of
+483 employee benefits; and may discuss such benefits with prospective coemployers and their
+484 employees.
+485 (c) A coemployer of a professional employer organization shall retain sufficient direction
+486 and control over the employees involved in a coemployment relationship as is necessary
+487 to conduct its business operations and fulfill its obligations to such employees. Unless
+488 otherwise agreed in writing, such coemployer shall be considered to be the sole employer
+489 of such employees for licensing purposes, provided that nothing contained in this Code
+490 section shall be deemed to prohibit a professional employer organization and its
+491 coemployer from agreeing that the professional employer organization shall be considered
+492 to be an employer for licensing purposes. The professional employer organization shall
+493 give written notice of such an agreement to the appropriate licensing agency and to the
+494 employees involved.
+495 (d) It is the intent of this Code section that professional employer organizations shall be
+496 considered to be employers under this title and are required to comply with the provisions
+497 of Code Sections 34-8-32, 34-8-34, and 34-8-172. Professional employer organizations
+498 and their coemployer clients are entitled to exclusive remedy under Code Section 34-9-11.
+499 Reserved."
+H. B. 250
+- 20 -
+25 LC 52 0687
+500 SECTION 3-2.
+501 Said title is further amended by revising Code Section 34-8-32, relating to employee leasing
+502 company, as follows:
+503 "34-8-32.
+504 (a) As used in this chapter, the term 'employee leasing company' means an independently
+505 established business entity which engages in the business of providing leased employees
+506 to any other employing unit under the following conditions:
+507 (1) Negotiates with clients or customers for such matters as time, place, type of work,
+508 working conditions, quality, and price of service;
+509 (2) Determines assignments of individuals to its clients or customers, even if the
+510 individuals retain the right to refuse specific assignments;
+511 (3) Sets the rate of pay of the individuals, whether or not through negotiation;
+512 (4) Pays the individuals from its accounts; and
+513 (5) Hires and terminates individuals who perform services for the clients or customers.
+514 (b) Individuals performing services for an employee leasing company shall be considered
+515 employees of the employee leasing company. The employee leasing company shall file
+516 required reports in accordance with regulations prescribed by the Commissioner and pay
+517 contributions on wages paid to such employees.
+518 (c) Individuals who perform services for temporary help contracting firms as that term is
+519 defined in Code Section 34-8-46 shall not be considered employees of an employee leasing
+520 company. Reserved."
+521 SECTION 3-3.
+522 Said title is further amended by revising Code Section 34-8-34, relating to employing unit,
+523 as follows:
+H. B. 250
+- 21 -
+25 LC 52 0687
+524 "34-8-34.
+525 As used in this chapter, the term 'employing unit' means any individual, the legal
+526 representative of a deceased individual, or any type of organization, including any
+527 partnership, association, trust, estate, joint-stock company, insurance company, or
+528 corporation, whether domestic or foreign, employee leasing company professional
+529 employer organization as defined in Code Section 34-11-1, common paymaster, or the
+530 receiver, trustee in bankruptcy, trustee, or successor thereof which has or had in its employ
+531 one or more individuals performing services for it within this state. Each individual
+532 performing services within this state for any employing unit which maintains two or more
+533 separate establishments within this state shall be deemed to be employed by a single
+534 employing unit for all the purposes of this chapter. Each individual employed to perform
+535 or to assist in performing the work of any agent or employee of an employing unit shall be
+536 deemed to be employed by such employing unit for all the purposes of this chapter,
+537 whether such individual was hired or paid directly by such employing unit or by such agent
+538 or employee, provided the employing unit had actual or constructive knowledge of such
+539 work."
+540 SECTION 3-4.
+541 Said title is further amended by revising Code Section 34-8-172, relating to surety bond
+542 required of employee leasing company, as follows:
+543 "34-8-172.
+544 The Commissioner shall require any employee leasing company, as defined in Code
+545 Section 34-8-32, professional employer organization or PEO group, as such terms are
+546 defined in Code Section 34-11-1, to post a surety bond or such equivalent financial
+547 securities as approved by the Commissioner in such an amount as needed to cover the total
+548 of any potential tax liability which may reasonably be expected to be incurred by such
+549 employer. In the event an employee leasing company a professional employer organization
+H. B. 250
+- 22 -
+25 LC 52 0687
+550 or PEO group is unable to procure such bond or security, the employee leasing company
+551 the professional employer organization or PEO group may report such employees as being
+552 in the employment of its client employers, notwithstanding any provision of Code
+553 Section 34-8-32 to the contrary."
+554 SECTION 3-5.
+555 Said title is further amended by revising subsection (c) of Code Section 34-8-195, relating
+556 to determination of eligibility for unemployment benefits generally, eligibility while in
+557 training, and deductions and withholdings from compensation, as follows:
+558 "(c) An individual shall not be deemed to be unemployed in any week such individual
+559 refuses an intermittent or temporary assignment without good cause when the assignment
+560 offered is comparable to previous work or assignments performed by the individual or
+561 meets the conditions of employment previously agreed to between the individual and the
+562 employer. Such individual may be considered unemployed with respect to any week an
+563 assignment or work is not offered by the employer; provided, however, that an employee
+564 of a temporary help contracting firm, an employee leasing company, or a professional
+565 employer organization as defined in Code Section 34-7-6 34-11-1 will be presumed to have
+566 voluntarily left employment without good cause if the employee does not contact the
+567 temporary help contracting firm, employee leasing company, or professional employer
+568 organization for reassignment upon completion of an assignment; provided, further, that
+569 such failure to contact the temporary help contracting firm, employee leasing company, or
+570 professional employer organization will not be considered a voluntary departure from
+571 employment unless the employee has been advised in writing of the obligation to contact
+572 such employer upon completion of assignments and has been advised in writing that
+573 unemployment benefits may be denied for failure to do so."
+H. B. 250
+- 23 -
+25 LC 52 0687
+574 SECTION 3-6.
+575 Said title is further amended by revising subsection (c) of Code Section 34-9-11, relating to
+576 exclusivity of rights and remedies granted to employee under chapter and immunity granted
+577 to construction design professionals, as follows:
+578 "(c) The immunity provided by this subsection shall apply and extend to the businesses
+579 using the services of a temporary help contracting firm, as such term is defined in Code
+580 Section 34-8-46, or an employee leasing company a professional employer organization,
+581 as such term is defined in Code Section 34-8-32 34-11-1, when the benefits required by this
+582 chapter are provided by either the temporary help contracting firm or the employee leasing
+583 company professional employer organization or the business using the services of either
+584 such firm or company organization. A temporary help contracting firm or an employee
+585 leasing company a professional employer organization shall be deemed to be a statutory
+586 employer for the purposes of this chapter."
+587 PART IV
+588 SECTION 4-1.
+589 This Act shall become effective upon its approval by the Governor or upon its becoming law
+590 without such approval.
+591 SECTION 4-2.
+592 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 250
+- 24 -
+[DELETED: 5L3,1,5,dstt8,9ht a a o t C o I o p e]
+[DELETED: 5L  A r o f m f i c a d i r i c f s s p f t a  P e f l a p i s ( o C]
+[DELETED: 5L e a h o o o o p o t o e t i f a i s ( o C S 3 r t  A p e o t t e t s o i o a w c c p t ]
+[DELETED: 5L  ' e m a i w u a c]
+[DELETED: 5L  ' m a i c c a p  A e a o e r a o r c n p t t p i e i t b o p a a w d n h i o a a P t s w a c c c t o b w t b t i w g o s a s u s]
+[DELETED: 5L  ' m a P r w t d p t C  A l b j o e n u w t P h o i t]
+[DELETED: 5L  A r s r i r a b m a f i a f b t d w s p f t r t n t o a m c i t i p i i m r]
+[DELETED: 5L u t c a s m s d r a o t a o b a i a q a o a b t t p s a o c a s  T i s p i a t t C f f t i a r]
+[DELETED: 5L a e f a i r o a r s s f]
+[DELETED: 5L r o t c w a l r o s]
+[DELETED: 5L t c a a e s b r t c o t c  E a s p i t c t c r t c a t P a b e c a e c a a c e f p b o i a t t c t P h e a t a l f s p i t]
+[DELETED: 5L  T q a o s o t g p o s o s]
+[DELETED: 5L o a p e a a e i p ( o]
+[DELETED: 5L  A p e a s h n e o e c p e o o w e u t f c e a a c i e a t t a p e]
+[DELETED: 5L o a a s l o f l r o c  A c e o a c w i r b l o r o r e o t c f p o s l r o c t i s t l r o c r o i s r s t r b t r o g e t s o a o g e a b o e c]
+[DELETED: 5L u b s n b a b s c h ]
+[DELETED: 5L w C 9 o t t f d e w o t c P u t s s r t t a s a r]
+[DELETED: 5L t P c c e a d e w o t c C i a t a o p p f u T 3 t]
+[DELETED: 5L 8 o T 3 t ' S L o a r o r]
+[DELETED: 5L r a r o d a c o t e o t s b d t p a p e o a i]
+[DELETED: 5L  D a o i t i c o c e i t]
+[DELETED: 5L u i t c t t ' u m a i t l o a d i o a t o o i a a t e j c i c o w d o f e l c p C s r a e l c a d i C i C S 3 t p a s b o s e f]
+[DELETED: 5L t e o i c e n a p o C]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0687
+House Bill 250
+By: Representatives Taylor of the 173rd, Cheokas of the 151st, Jones of the 25th, Williams of
+the 148th, and Martin of the 49th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 33 and 34 of the Official Code of Georgia Annotated, relating to insurance
+2 and labor and industrial relations, respectively, so as to provide for the registration and
+3 regulation of professional employer organizations; to provide for certain regulatory powers,
+4 duties, and authority of the Commissioner of Insurance over professional employer
+5 organizations; to exempt such organizations from certain licensing requirements; to provide
+6 for definitions; to provide for the registration of such organizations; to provide for certain
+7 fees; to provide for the restriction of the use of certain terms; to provide for complaints; to
+8 provide for coordination with the Commissioner of Labor; to provide for a co-employment
+9 relationship; to provide for no effect on existing collective bargaining agreements or other
+10 contracts; to provide for legislative construction; to clarify rights, duties, and obligations of
+11 clients and professional employer organizations; to clarify employer and employee statuses;
+12 to clarify tax duties, obligations, and credits; to provide for disciplinary actions; to provide
+13 for the applicability of Chapter 8 of Title 34, the "Employment Security Law"; to provide for
+14 rules and regulations; to repeal obsolete provisions; to provide for the posting of a surety
+15 bond; to provide for conforming changes; to provide for a short title; to provide for related
+16 matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 250
+- 1 -
+
+25 LC 52 0687
+18 PART I
+19 SECTION 1-1.
+20 Title 33 of the Official Code of Georgia Annotated, relating to insurance, is amended in
+21 subsections (b) and (c) of Code Section 33-23-1, relating to definitions relative to agents,
+22 agencies, subagents, counselors, and adjusters, as follows:
+23 "(b) The definitions of agent, subagent, and counselor in subsection (a) of this Code
+24 section shall not be deemed to include:
+25 (1) An attorney at law admitted to practice in this state, when handling the collections
+26 of premiums or advising clients as to insurance as a function incidental to the practice of
+27 law or who adjusts losses which are incidental to the practice of his or her profession;
+28 (2) Any representative of ocean marine insurers;
+29 (3) Any representative of farmers' mutual fire insurance companies as defined in
+30 Chapter 16 of this title;
+31 (4) A salaried employee of a credit or character reporting firm or agency not engaged in
+32 the insurance business who may, however, report to an insurer;
+33 (5) A person acting for or as a collection agency;
+34 (6) A person who makes the salary deductions of premiums for employees or, under a
+35 group insurance plan, a person who serves the master policyholder of group insurance in
+36 administering the details of such insurance for the employees or debtors of the master
+37 policyholder or of a firm or corporation by which the person is employed and who does
+38 not receive insurance commissions for such service; provided, further, that an
+39 administration fee not exceeding 5 percent of the premiums collected paid by the insurer
+40 to the administration office shall not be construed to be an insurance commission;
+41 (7) Persons exempted from licensure as provided in subsection (h) of Code
+42 Section 33-23-4; or
+H. B. 250
+- 2 -
+
+25 LC 52 0687
+43 (8) An individual who collects claim information from, or furnishes claim information
+44 to, insureds or claimants, who conducts data entry, and who enters data into an automated
+45 claims adjudication system, provided that the individual is an employee of a licensed
+46 independent adjuster or its affiliate where no more than 25 such persons are under the
+47 supervision of one licensed independent adjustor or licensed agent; or
+48 (9) A professional employer organization providing professional employer services to
+49 a client or covered employee pursuant to a professional employer agreement, as such
+50 terms are defined in Code Section 34-11-1, to the extent that such organization collects
+51 information from a client or covered employee; obtains, offers, or provides life, accident
+52 and sickness, disability income, workers' compensation, and other types of insurance
+53 coverage for a client or covered employee; establishes a retirement plan for a client or
+54 covered employee; and has or obtains, offers, or provides other types of employee
+55 benefits and discusses such benefits with a client or covered employee.
+56 (c) In addition to paragraphs (2) through (8)(9) of subsection (b) of this Code section, the
+57 definitions of public adjuster, independent adjuster, and adjuster in subsection (a) of this
+58 Code section shall not be deemed to include an attorney admitted to practice law in this
+59 state."
+60 SECTION 1-2.
+61 Said title is further amended in subsection (b) of Code Section 33-23-100, relating to
+62 definitions, exemptions, and applicability of Code Section 33-24-59.5 and 33-24-59.14, by
+63 striking "or" at the end of paragraph (12), replacing the period at the end of paragraph (13)
+64 with "; or", and adding a new paragraph to read as follows:
+65 "(14) A professional employer organization to the extent that such organization
+66 administers insurance or administers workers' compensation claims pursuant to a
+67 professional employer agreement, as such terms are defined in Code Section 34-11-1."
+H. B. 250
+- 3 -
+
+25 LC 52 0687
+68 PART II
+69 SECTION 2-1.
+70 This Act shall be known and may be cited as the "Better Small Business Employee Benefits
+71 Act."
+72 SECTION 2-2.
+73 Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial relations,
+74 is amended by revising Chapter 11, which is reserved, as follows:
+75 "CHAPTER 11
+76 34-11-1.
+77 As used in this chapter, the term:
+78 (1) 'Client' means any person who enters into a professional employer agreement with
+79 a professional employer organization.
+80 (2) 'Co-employer' means either a professional employer organization or a client.
+81 (3) 'Co-employment relationship' means an arrangement wherein the rights, duties, and
+82 obligations of an employer which arise out of an employment arrangement are allocated
+83 between the parties to such arrangement.
+84 (4) 'Commissioner' means the Commissioner of Insurance.
+85 (5) 'Covered employee' means an individual working under a co-employment
+86 relationship between a PEO and a client pursuant to a professional employer agreement
+87 subject to this chapter.
+88 (6) 'Department' means the Department of Insurance.
+89 (7) 'Limited registrant' means a PEO that:
+90 (A) Is domiciled and registered or licensed in another state;
+H. B. 250
+- 4 -
+
+25 LC 52 0687
+91 (B) Has 50 or fewer covered employees; and
+92 (C) Maintains no principal place of business in this state.
+93 (8) 'PEO group' means two or more PEO entities that are majority owned or commonly
+94 controlled by the same entity or parent company.
+95 (9) 'Person' means any individual, corporation, company, association, partnership,
+96 limited liability company, or other form of legally recognized entity.
+97 (10) 'Professional employer agreement' means a written contract between a client and a
+98 PEO that provides:
+99 (A) For the co-employment of covered employees;
+100 (B) An express allocation of employer rights and obligations regarding covered
+101 employees between the client and the PEO; and
+102 (C) That the PEO and the client assume the responsibilities required by this chapter.
+103 (11) 'Professional employer organization' or 'PEO' means any person engaged in the
+104 business of providing professional employer services. Such term is not required to be in
+105 the title of the business. Such term shall include a staff leasing company, registered staff
+106 leasing company, employee leasing company, administrative employer, or any other
+107 similar name, provided that the person is engaged in the business of providing
+108 professional employer services. Such term shall not include:
+109 (A) A person, whose principal business activity is not entering into professional
+110 employer agreements and which does not hold itself out as a PEO, that shares
+111 employees with a commonly controlled corporation, trade, or business within the
+112 meaning of Section 414(b) and (c) of the federal Internal Revenue Code of 1986;
+113 (B) A person in an independent contractor arrangement by which such person assumes
+114 responsibility for the goods produced or services performed by such person or such
+115 person's agents and retains and exercises primary direction and control over the work
+116 performed by the individuals whose goods or services are supplied under such
+117 arrangement; or
+H. B. 250
+- 5 -
+
+25 LC 52 0687
+118 (C) A temporary help contracting firm as defined in Code Section 34-8-46.
+119 (12) 'Professional employer services' means the service of entering into co-employment
+120 relationships in which all or a majority of the employees providing services to a client are
+121 covered employees pursuant to a professional employer agreement.
+122 (13) 'Registrant' means a PEO registered with the department pursuant to Code
+123 Section 34-11-2.
+124 34-11-2.
+125 (a) Beginning July 1, 2027, except as otherwise provided in this chapter, no person shall
+126 provide, advertise, or otherwise hold itself out as providing professional employer services
+127 in this state, unless such person is registered with the department in accordance with this
+128 chapter. The department shall begin accepting applications for registration no later than
+129 January 2, 2026.
+130 (b) Each applicant for registration shall provide the department with the following:
+131 (1) The name or names under which the PEO conducts business;
+132 (2) The address of the principal place of business of the PEO;
+133 (3) The address of each office, if any, it maintains in this state;
+134 (4) The PEO's taxpayer or employer identification number;
+135 (5) A list by jurisdiction of each name under which the PEO has operated in the
+136 preceding two years;
+137 (6) A statement of ownership, which shall include the name and address of any person
+138 that, individually or in a business relationship with one or more other persons, owns or
+139 controls at least 25 percent of the equity interests of the PEO;
+140 (7) A statement of management, which shall include the name of any person who serves
+141 as chief executive officer, president, or secretary or otherwise has been empowered with
+142 the authority to act as an officer of the PEO; and
+H. B. 250
+- 6 -
+
+25 LC 52 0687
+143 (8) A financial statement, prepared in accordance with generally accepted accounting
+144 principles by an independent, certified public accountant licensed to practice in the
+145 jurisdiction in which such accountant is located. A PEO group may submit combined or
+146 consolidated financial statements to meet the requirements of this paragraph. A PEO that
+147 has not had sufficient operating history to be able to provide such records shall meet the
+148 financial requirements set forth in this Code section and present financial statements as
+149 requested by the department.
+150 (c) In the event a PEO not registered in this state becomes knowledgeable that a client has
+151 covered employees in this state:
+152 (1) The PEO shall notify the department within 30 days of such knowledge and file a
+153 limited registrant application under subsection (f) of this Code section; or
+154 (2) If the number of covered employees exceeds 50, the department may allow for a
+155 temporary registration while registration applications are being prepared and evaluated.
+156 In its evaluation for such temporary registration, the department may consider whether
+157 the PEO is currently registered or licensed in another state and if temporary registration
+158 is in the best interests of the covered employees in this state.
+159 (d) A registrant shall renew its registration annually by making a filing in a form
+160 determined by the department, which shall provide for the registrants to notify the
+161 department of any material changes in the information provided in its most recent
+162 registration filing. A registrant's existing registration shall remain in effect while such
+163 renewal application is under review.
+164 (e) A PEO group applying for renewal may satisfy the registration and financial reporting
+165 requirements of this chapter by filing combined or consolidated filings, provided that each
+166 member of the PEO group attests to being responsible for meeting the requirements set
+167 forth in this chapter.
+168 (f) A PEO shall be eligible to be a limited registrant if such PEO submits a request for
+169 limited registration on a form provided by the department and the department finds that
+H. B. 250
+- 7 -
+
+25 LC 52 0687
+170 such PEO is domiciled outside this state and is licensed or registered as a professional
+171 employer organization in another state. A limited registrant shall not maintain an office
+172 in this state or have more than 50 covered employees employed or domiciled in this state
+173 at any time. Limited registrants shall be registered for a maximum period of one year and
+174 may be considered for renewal as a limited registrant as set forth by the department.
+175 (g) The department shall maintain a directory of professional employer organizations
+176 registered under this chapter and shall make such directory readily available on the
+177 department's public website and by any other means deemed appropriate by the department.
+178 (h) The department shall, to the extent practicable, accept electronic filings, including, but
+179 not limited to, applications, documents, reports, and other filings required under this
+180 chapter. The department may provide for the acceptance of electronic filings and other
+181 assurance by an independent and qualified assurance organization approved by the
+182 department that provides satisfactory assurance of compliance and security. The
+183 department may authorize a PEO to agree that such an approved assurance organization
+184 may act on the PEO's behalf in complying with the registration requirements of this
+185 chapter.
+186 (i) All records, reports, and other information obtained from or on behalf of a PEO, except
+187 to the minimum extent necessary for the proper administration by the department or to
+188 comply with the provisions of Article 4 of Chapter 18 of Title 50, relating to open records,
+189 shall be confidential and shall not be published or open to public inspection other than to
+190 public employees in the performance of their official duties.
+191 34-11-3.
+192 (a) The Commissioner is authorized to assess and collect in advance, and persons so
+193 assessed shall pay in advance to the Commissioner, fees for the initial and renewal
+194 registration of a PEO, initial and renewal registration of a PEO group, and limited and
+195 temporary registration of a PEO or a PEO group.
+H. B. 250
+- 8 -
+
+25 LC 52 0687
+196 (b) The amount of the fees provided for in subsection (a) of this Code section shall be
+197 limited as follows:
+198 (1) The initial registration fee of a PEO shall not exceed $500.00, and the renewal
+199 registration fee of a PEO shall not exceed $250.00;
+200 (2) The initial registration fee of a PEO group shall not exceed $500.00 per group
+201 member, and the renewal registration fee of a PEO group shall not exceed $250.00 per
+202 group member;
+203 (3) The limited registration fee of a PEO shall not exceed $250.00, and the limited
+204 registration fee of a PEO group shall not exceed $250.00 per group member;
+205 (4) The temporary registration fee of a PEO shall not exceed $250.00, and the temporary
+206 registration fee of a PEO group shall not exceed $250.00 per group member; and
+207 (5) Such fees shall not exceed the amount reasonably necessary for the registration and
+208 regulation of professional employer organizations.
+209 34-11-4.
+210 Any applicant, either for an initial registration or a renewal, shall submit financial
+211 statements, in accordance with paragraph (8) of subsection (b) of Code Section 34-11-2,
+212 that prove that the applicant has positive working capital.
+213 34-11-5.
+214 (a) It shall be unlawful for any person to use the term 'PEO,' 'professional employer
+215 organization,' 'staff leasing,' 'staff leasing company,' 'registered staff leasing company,'
+216 'employee leasing,' 'employee leasing company,' 'administrative employer,' or any other
+217 title deemed by the department to be representative of professional employer services and
+218 to provide professional employer services without being registered as a PEO with the
+219 department.
+H. B. 250
+- 9 -
+
+25 LC 52 0687
+220 (b) It shall be unlawful for any person to knowingly provide false or otherwise fraudulent
+221 information to the department in support of any application for registration or renewal or
+222 in any report required under this chapter.
+223 (c) Any complaints regarding a professional employer organization shall be filed with the
+224 department, and any complaints filed with the Department of Labor shall be forwarded to
+225 the department; provided, however, that the department and the Department of Labor shall
+226 cooperate in the documentation, investigation, and resolution of any complaints received
+227 and in any disciplinary actions.
+228 34-11-6.
+229 (a) In a co-employment relationship:
+230 (1) The client is entitled to enforce the rights and obligated to provide and perform the
+231 employer obligations allocated to such client by the professional employer agreement and
+232 this chapter;
+233 (2) The client is entitled to enforce any right and obligated to perform any obligation of
+234 an employer not specifically allocated to the PEO in the professional employer agreement
+235 or this chapter;
+236 (3) The rights, duties, and obligations of the PEO as co-employer with respect to any
+237 covered employee shall be limited to those arising pursuant to the professional employer
+238 agreement and this chapter during the term of the co-employment relationship with the
+239 PEO of such covered employee;
+240 (4) Unless otherwise expressly agreed by the PEO and the client in a professional
+241 employer agreement, the client retains the exclusive right to direct and control covered
+242 employees as is necessary to conduct the client's business, to discharge any of the client's
+243 fiduciary responsibilities, or to comply with any licensure, regulatory, or statutory
+244 requirements applicable to the client or covered employees; and
+H. B. 250
+- 10 -
+
+25 LC 52 0687
+245 (5) For purposes of any law of this state where employer coverage and employee
+246 eligibility is determined based on the number of covered employees employed by the
+247 employer, the client as an employer shall be required to count only the covered
+248 employees of the client, and not the employees of other clients of the PEO or of the PEO
+249 itself.
+250 (b) Except as specifically provided in this chapter, the co-employment relationship
+251 between the client and the PEO, and between each co-employer and each covered
+252 employee, shall be governed by a professional employer agreement. Each professional
+253 employer agreement shall provide for the following:
+254 (1) The allocation of rights, duties, and obligations of each co-employer for each covered
+255 employee;
+256 (2) The allocation of rights, duties, and obligations to the PEO regarding payment of
+257 wages. The PEO shall pay wages to covered employees; shall withhold, collect, and
+258 remit payroll and unemployment taxes; and may make payments for employee benefits.
+259 Such payment of wages shall not be interpreted as to include any obligation between a
+260 client and a covered employee for payments beyond or in addition to the covered
+261 employee's salary, draw, or regular rate of pay, including, but not limited to, severance
+262 pay, deferred compensation, profit sharing, or vacation, sick, or other paid time off pay,
+263 unless the PEO has expressly agreed to assume liability for such payments in the
+264 professional employer agreement;
+265 (3) A right to hire, discipline, and terminate a covered employee shall be allocated to
+266 both the client and the PEO; provided, however, that the PEO's right shall be limited to
+267 such employment decisions as may be necessary to fulfill the PEO's responsibilities under
+268 this chapter and a valid professional employer agreement; and
+269 (4) The responsibility to purchase and obtain adequate workers' compensation coverage
+270 for covered employees shall be specifically allocated to either the client or the PEO as
+271 provided for in Code Section 34-11-9.
+H. B. 250
+- 11 -
+
+25 LC 52 0687
+272 (c) A PEO shall provide written notice to each covered employee whose co-employment
+273 relationship is made effective by a professional employer agreement of the general nature
+274 of the co-employment relationship between and among the PEO, the client, and such
+275 covered employee.
+276 (d) Except to the extent otherwise provided by the professional employer agreement:
+277 (1) A client shall be solely responsible for:
+278 (A) The quality, adequacy, or safety of the goods produced or sold or services
+279 performed in the client's business; and
+280 (B) Directing, supervising, training, and controlling the work of covered employees
+281 with respect to the client's business activities, and the acts, errors, or omissions of such
+282 covered employees with regard to such activities;
+283 (2) A client shall not be liable for the acts, errors, or omissions of a PEO or of a covered
+284 employee when such covered employee is acting under the express direction and control
+285 of the PEO;
+286 (3) A PEO shall not be liable for the acts, errors, or omissions of a client or of a covered
+287 employee when such covered employee is acting under the express direction and control
+288 of the client;
+289 (4) Nothing in this subsection shall serve to limit any contractual liability or obligation
+290 specifically provided in the professional employer agreement; and
+291 (5) A covered employee is not an employee of the PEO for purposes of general liability
+292 insurance, fidelity bonds, surety bonds, employer's liability which is not covered by
+293 workers' compensation, or liquor liability insurance carried by the PEO solely as the
+294 result of being a covered employee of a PEO unless covered employees are included by
+295 specific reference in the professional employer agreement and applicable prearranged
+296 employment contract, insurance contract, or bond.
+297 (e) A PEO registered with the department and in compliance with this chapter shall not be
+298 required to obtain:
+H. B. 250
+- 12 -
+
+25 LC 52 0687
+299 (1) A license as an agent, subagent, or counselor, provided that such PEO is not selling,
+300 soliciting, or negotiating insurance outside of a professional employer agreement as
+301 excluded in paragraph (9) of subsection (b) of Code Section 33-23-1;
+302 (2) A license as an administrator, provided that such PEO is not administering insurance
+303 outside of a professional employer agreement as excluded in paragraph (14) of
+304 subsection (b) of Code Section 33-23-100; or
+305 (3) A certificate of authority to transact insurance, provided that such PEO is not selling,
+306 soliciting, negotiating, administering, inducing, or effectuating insurance outside of a
+307 professional employer agreement.
+308 (f) For purposes of any tax collected by the state or a county, municipality, or other
+309 political subdivision thereof:
+310 (1) A covered employee whose goods or services are subject to sales tax shall be deemed
+311 the employee of a client for purposes of collecting and levying sales tax on the goods
+312 produced or services performed by the covered employee. Nothing contained in this
+313 chapter shall relieve a client of any sales tax liability with respect to its goods or services;
+314 (2) Any tax or assessment imposed upon professional employer services or any business
+315 license or other fee which is based upon gross receipts shall allow a deduction from the
+316 gross income or receipts of the business derived from performing professional employer
+317 services that is equal to that portion of the fee charged to a client that represents the actual
+318 cost of wages and salaries, benefits, workers' compensation, payroll taxes, withholding,
+319 or other assessments paid to or on behalf of a covered employee by the PEO under a
+320 professional employer agreement;
+321 (3) Any tax assessed or assessment or mandated expenditure on a per capita or per
+322 employee basis shall be assessed against the client for covered employees and against the
+323 professional employer organization for its employees who are not covered employees of
+324 a client. Benefits or monetary consideration meeting the requirements of mandates
+325 imposed on a client that are received by covered employees through the PEO either
+H. B. 250
+- 13 -
+
+25 LC 52 0687
+326 through payroll or through benefit plans sponsored by the PEO shall be credited against
+327 the client's obligation to fulfill such mandates; and
+328 (4) In the case of a tax or an assessment imposed or calculated upon the basis of total
+329 payroll, the professional employer organization shall be eligible to apply any small
+330 business allowance or exemption available to the client for the covered employees for the
+331 purpose of computing such tax or assessment.
+332 34-11-7.
+333 (a) A professional employer agreement shall have no effect on existing collective
+334 bargaining agreements. Nothing in this chapter shall alter the rights or obligations of any
+335 client, professional employer organization, or worksite employee under the federal
+336 National Labor Relations Act or any state law.
+337 (b) Nothing in this chapter or in any professional employer agreement shall:
+338 (1) Diminish, abolish, or remove rights of a covered employee to a client or obligations
+339 of such client to a covered employee existing prior to the effective date of a professional
+340 employer agreement;
+341 (2) Affect, modify, or amend any contractual relationship or restrictive covenant between
+342 a covered employee and any client in effect at the time a professional employer
+343 agreement becomes effective;
+344 (3) Prohibit or amend any contractual relationship or restrictive covenant that is entered
+345 into subsequently between a client and a covered employee, provided that a PEO shall
+346 bear no liability arising from any such contractual relationship or restrictive covenant
+347 unless the PEO and the client have each expressly agreed to such an exception, which
+348 shall become an addendum to the professional employment agreement; or
+349 (4) Create any new or additional enforceable right of a covered employee against a PEO
+350 that is not expressly provided by the professional employer agreement or this chapter.
+H. B. 250
+- 14 -
+
+25 LC 52 0687
+351 (c) Nothing contained in this chapter or any professional employer agreement shall affect,
+352 modify, or amend any state, local, or federal licensing, registration, or certification
+353 requirement applicable to any client or covered employee or affect, modify, or amend a
+354 client's or covered employee's duties and obligations with respect to workplace safety.
+355 (d) A covered employee of a client who is required by law or rule or regulation
+356 promulgated thereunder to be licensed, registered, or certified shall be deemed to be solely
+357 an employee of the client for purposes of such license, registration, or certification
+358 requirement.
+359 (e) A PEO shall not be deemed to engage in any occupation, trade, profession, or other
+360 activity that is subject to licensing, registration, or certification requirements, or is
+361 otherwise regulated by a governmental entity, solely by entering into and maintaining a
+362 co-employment relationship with a covered employee who is subject to such requirements
+363 or regulation.
+364 (f) A client shall have the sole right of direction and control of the professional or licensed
+365 activities of covered employees and the client's business. Such covered employees and
+366 clients shall remain subject to regulation by the regulatory or governmental entity
+367 responsible for licensing, registration, or certification of such covered employees or clients.
+368 (g) For purposes of determination of tax credits and other economic incentives provided
+369 by the state or any other governmental entity and based on employment, covered
+370 employees shall be deemed employees solely of the client. A client shall be entitled to the
+371 benefit of any tax credit, economic incentive, or other benefit arising as the result of the
+372 employment of covered employees of such client. Notwithstanding that the PEO shall be
+373 the W-2 reporting employer, the client shall continue to qualify for any such benefit,
+374 incentive, or credit. If the grant or amount of any such incentive is based on number of
+375 employees, then each client shall be treated as employing only those covered employees.
+376 Covered employees working for other clients of the PEO shall not be counted. Each PEO
+377 shall provide, upon request by a client or state agency, employment information reasonably
+H. B. 250
+- 15 -
+
+25 LC 52 0687
+378 required by the state agency responsible for the administration of any such tax credit or
+379 economic incentive and necessary to support any request, claim, application, or other action
+380 by a client seeking any such tax credit or economic incentive.
+381 (h) With respect to a bid, contract, purchase order, or agreement entered into with the state
+382 or a political subdivision of the state, a client's status as a small business certified as a
+383 minority business enterprise, women owned business, or veteran owned business or as a
+384 historically underutilized business shall not be affected because such client has a
+385 professional employment agreement with a PEO or otherwise transacts business with a
+386 PEO.
+387 34-11-8.
+388 (a) A client and a PEO operating under a professional employer agreement shall each be
+389 deemed an employer for the purposes of sponsoring retirement and welfare benefit plans
+390 for its covered employees.
+391 (b) A fully insured welfare benefit plan offered to the covered employees of a PEO shall
+392 be treated as a single employer welfare benefit plan. A plan shall be considered fully
+393 insured only if all benefits payable are guaranteed under a contract or policy of insurance
+394 issued by an insurer licensed or otherwise authorized to transact the business of insurance
+395 in this state pursuant to Title 33.
+396 (c) For purposes of Chapter 60 of Title 33, the 'Small Business Employee Choice of
+397 Benefits Health Insurance Plan Act,' a PEO shall be considered the employer of all of its
+398 covered employees, and all covered employees of one or more clients who are participating
+399 in any health benefit plan sponsored by such PEO shall be considered employees of that
+400 PEO.
+H. B. 250
+- 16 -
+
+25 LC 52 0687
+401 34-11-9.
+402 (a) A professional employer agreement shall specify the party responsible for obtaining
+403 workers' compensation coverage from a carrier authorized to do business in this state in
+404 compliance with Chapter 9 of this title for covered employees.
+405 (b) A professional employer agreement shall specify the party responsible for obtaining
+406 workers' compensation coverage from a carrier authorized to do business in this state in
+407 compliance with Chapter 9 of this title for directly employed workers of the client,
+408 provided that such agreement identifies which directly employed workers of the client are
+409 included under such coverage.
+410 (c) Workers' compensation coverage for the covered employees of a client and for any
+411 directly employed workers of the client identified in the professional employer agreement
+412 as provided for in subsection (b) of this Code section shall be obtained as follows:
+413 (1) In the voluntary market, by either:
+414 (A) The client, through a standard workers' compensation policy or through duly
+415 authorized self-insurance; or
+416 (B) The PEO, through a duly authorized self-insurance program, a master policy issued
+417 to the PEO by a carrier authorized to do business in this state, or a multiple coordinated
+418 policy issued by a carrier authorized to do business in this state in the name of the PEO
+419 or the client. A PEO authorized to self-insure or a carrier providing coverage through
+420 the PEO under this subparagraph shall report to the appropriate state and rating
+421 authorities such client information as is necessary to maintain the client's experience
+422 rating; or
+423 (2) In the residual market, by either:
+424 (A) The client, through a residual market policy; or
+425 (B) The PEO, through a multiple coordinated policy in the name of either the PEO or
+426 the client. A PEO obtaining coverage under this subparagraph shall report to the
+H. B. 250
+- 17 -
+
+25 LC 52 0687
+427 appropriate state and rating authorities the client based information as is necessary to
+428 maintain the client's experience rating.
+429 (d) The protection of the exclusive remedy provision of Chapter 9 of this title shall apply
+430 to the PEO, client, covered employees, and directly employed workers of the client
+431 irrespective of which co-employer obtains such workers' compensation coverage. The PEO
+432 and the client shall be considered co-employers for purposes of workers' compensation
+433 coverage of covered employees and any directly employed workers of the client identified
+434 in the professional employer agreement as provided for in subsection (b) of this Code
+435 section. The client shall be considered the sole employer for any directly employed
+436 workers of the client outside of the professional employer agreement.
+437 34-11-10.
+438 (a) Upon finding that a PEO, an owner or manager of a PEO, or a person offering
+439 professional employer services has committed a violation of a provision of Title 33; Code
+440 Section 34-11-2, 34-11-3, 34-11-4, or 34-11-5; or the rules and regulations or an order of
+441 the Commissioner, in addition to all other penalties provided for under Title 33, the
+442 Commissioner shall have the authority to:
+443 (1) Deny an application for registration or refuse to renew a registration;
+444 (2) Place any registration on probation for any time period and subject to conditions;
+445 (3) Suspend, revoke, or restrict a registration;
+446 (4) Impose an administrative penalty in an amount not to exceed $2,000.00 for each and
+447 every violation; and
+448 (5) Issue an order to cease and desist as provided for in Code Section 33-2-24.
+449 (b) Except as provided for in subsection (a) of this Code section, the Commissioner of
+450 Labor is authorized to take action against any person in violation of this title or any rule or
+451 regulation promulgated under this title.
+H. B. 250
+- 18 -
+
+25 LC 52 0687
+452 (c) The hearing and any administrative review thereof regarding an action taken pursuant
+453 to this Code section shall be conducted in accordance with Chapter 13 of Title 50, the
+454 'Georgia Administrative Procedure Act.'
+455 34-11-11.
+456 Nothing contained in this chapter shall affect the rights and obligations established under
+457 Chapter 8 of Title 34, the 'Employment Security Law,' or any rules or regulations
+458 promulgated pursuant to such chapter.
+459 34-11-12.
+460 This chapter shall not be applicable to:
+461 (1) Arrangements wherein a person, whose principal business activity is not entering into
+462 professional employer agreements and which does not hold itself out as a PEO, shares
+463 employees with a commonly owned corporation, trade, or business within the meaning
+464 of Section 414(b) and (c) of the federal Internal Revenue Code of 1986; or
+465 (2) Temporary help contracting firms as defined in Code Section 34-8-46.
+466 34-11-13.
+467 The Commissioner and the Commissioner of Labor shall adopt such rules and regulations
+468 as are reasonable and necessary to effectuate the provisions of this chapter. Reserved."
+469 PART III
+470 SECTION 3-1.
+471 Said title is further amended by revising Code Section 34-7-6, relating to professional
+472 employer organizations and rights, powers, and responsibility, as follows:
+H. B. 250
+- 19 -
+
+25 LC 52 0687
+473 "34-7-6.
+474 (a) As used in this Code section, the term 'professional employer organization' means an
+475 employee leasing company as defined in Code Section 34-8-32 that has established a
+476 coemployment relationship with another employer, pays the wages of the employees of the
+477 coemployer, reserves a right of direction and control over the employees of the
+478 coemployer, and assumes responsibility for the withholding and payment of payroll taxes
+479 of the coemployer.
+480 (b) A professional employer organization may collect information to evaluate costs; may
+481 obtain life, accident and sickness, disability income, workers' compensation, and other
+482 types of insurance coverage; may establish retirement plans; may have other types of
+483 employee benefits; and may discuss such benefits with prospective coemployers and their
+484 employees.
+485 (c) A coemployer of a professional employer organization shall retain sufficient direction
+486 and control over the employees involved in a coemployment relationship as is necessary
+487 to conduct its business operations and fulfill its obligations to such employees. Unless
+488 otherwise agreed in writing, such coemployer shall be considered to be the sole employer
+489 of such employees for licensing purposes, provided that nothing contained in this Code
+490 section shall be deemed to prohibit a professional employer organization and its
+491 coemployer from agreeing that the professional employer organization shall be considered
+492 to be an employer for licensing purposes. The professional employer organization shall
+493 give written notice of such an agreement to the appropriate licensing agency and to the
+494 employees involved.
+495 (d) It is the intent of this Code section that professional employer organizations shall be
+496 considered to be employers under this title and are required to comply with the provisions
+497 of Code Sections 34-8-32, 34-8-34, and 34-8-172. Professional employer organizations
+498 and their coemployer clients are entitled to exclusive remedy under Code Section 34-9-11.
+499 Reserved."
+H. B. 250
+- 20 -
+
+25 LC 52 0687
+500 SECTION 3-2.
+501 Said title is further amended by revising Code Section 34-8-32, relating to employee leasing
+502 company, as follows:
+503 "34-8-32.
+504 (a) As used in this chapter, the term 'employee leasing company' means an independently
+505 established business entity which engages in the business of providing leased employees
+506 to any other employing unit under the following conditions:
+507 (1) Negotiates with clients or customers for such matters as time, place, type of work,
+508 working conditions, quality, and price of service;
+509 (2) Determines assignments of individuals to its clients or customers, even if the
+510 individuals retain the right to refuse specific assignments;
+511 (3) Sets the rate of pay of the individuals, whether or not through negotiation;
+512 (4) Pays the individuals from its accounts; and
+513 (5) Hires and terminates individuals who perform services for the clients or customers.
+514 (b) Individuals performing services for an employee leasing company shall be considered
+515 employees of the employee leasing company. The employee leasing company shall file
+516 required reports in accordance with regulations prescribed by the Commissioner and pay
+517 contributions on wages paid to such employees.
+518 (c) Individuals who perform services for temporary help contracting firms as that term is
+519 defined in Code Section 34-8-46 shall not be considered employees of an employee leasing
+520 company. Reserved."
+521 SECTION 3-3.
+522 Said title is further amended by revising Code Section 34-8-34, relating to employing unit,
+523 as follows:
+H. B. 250
+- 21 -
+
+25 LC 52 0687
+524 "34-8-34.
+525 As used in this chapter, the term 'employing unit' means any individual, the legal
+526 representative of a deceased individual, or any type of organization, including any
+527 partnership, association, trust, estate, joint-stock company, insurance company, or
+528 corporation, whether domestic or foreign, employee leasing company professional
+529 employer organization as defined in Code Section 34-11-1, common paymaster, or the
+530 receiver, trustee in bankruptcy, trustee, or successor thereof which has or had in its employ
+531 one or more individuals performing services for it within this state. Each individual
+532 performing services within this state for any employing unit which maintains two or more
+533 separate establishments within this state shall be deemed to be employed by a single
+534 employing unit for all the purposes of this chapter. Each individual employed to perform
+535 or to assist in performing the work of any agent or employee of an employing unit shall be
+536 deemed to be employed by such employing unit for all the purposes of this chapter,
+537 whether such individual was hired or paid directly by such employing unit or by such agent
+538 or employee, provided the employing unit had actual or constructive knowledge of such
+539 work."
+540 SECTION 3-4.
+541 Said title is further amended by revising Code Section 34-8-172, relating to surety bond
+542 required of employee leasing company, as follows:
+543 "34-8-172.
+544 The Commissioner shall require any employee leasing company, as defined in Code
+545 Section 34-8-32, professional employer organization or PEO group, as such terms are
+546 defined in Code Section 34-11-1, to post a surety bond or such equivalent financial
+547 securities as approved by the Commissioner in such an amount as needed to cover the total
+548 of any potential tax liability which may reasonably be expected to be incurred by such
+549 employer. In the event an employee leasing company a professional employer organization
+H. B. 250
+- 22 -
+
+25 LC 52 0687
+550 or PEO group is unable to procure such bond or security, the employee leasing company
+551 the professional employer organization or PEO group may report such employees as being
+552 in the employment of its client employers, notwithstanding any provision of Code
+553 Section 34-8-32 to the contrary."
+554 SECTION 3-5.
+555 Said title is further amended by revising subsection (c) of Code Section 34-8-195, relating
+556 to determination of eligibility for unemployment benefits generally, eligibility while in
+557 training, and deductions and withholdings from compensation, as follows:
+558 "(c) An individual shall not be deemed to be unemployed in any week such individual
+559 refuses an intermittent or temporary assignment without good cause when the assignment
+560 offered is comparable to previous work or assignments performed by the individual or
+561 meets the conditions of employment previously agreed to between the individual and the
+562 employer. Such individual may be considered unemployed with respect to any week an
+563 assignment or work is not offered by the employer; provided, however, that an employee
+564 of a temporary help contracting firm, an employee leasing company, or a professional
+565 employer organization as defined in Code Section 34-7-6 34-11-1 will be presumed to have
+566 voluntarily left employment without good cause if the employee does not contact the
+567 temporary help contracting firm, employee leasing company, or professional employer
+568 organization for reassignment upon completion of an assignment; provided, further, that
+569 such failure to contact the temporary help contracting firm, employee leasing company, or
+570 professional employer organization will not be considered a voluntary departure from
+571 employment unless the employee has been advised in writing of the obligation to contact
+572 such employer upon completion of assignments and has been advised in writing that
+573 unemployment benefits may be denied for failure to do so."
+H. B. 250
+- 23 -
+
+25 LC 52 0687
+574 SECTION 3-6.
+575 Said title is further amended by revising subsection (c) of Code Section 34-9-11, relating to
+576 exclusivity of rights and remedies granted to employee under chapter and immunity granted
+577 to construction design professionals, as follows:
+578 "(c) The immunity provided by this subsection shall apply and extend to the businesses
+579 using the services of a temporary help contracting firm, as such term is defined in Code
+580 Section 34-8-46, or an employee leasing company a professional employer organization,
+581 as such term is defined in Code Section 34-8-32 34-11-1, when the benefits required by this
+582 chapter are provided by either the temporary help contracting firm or the employee leasing
+583 company professional employer organization or the business using the services of either
+584 such firm or company organization. A temporary help contracting firm or an employee
+585 leasing company a professional employer organization shall be deemed to be a statutory
+586 employer for the purposes of this chapter."
+587 PART IV
+588 SECTION 4-1.
+589 This Act shall become effective upon its approval by the Governor or upon its becoming law
+590 without such approval.
+591 SECTION 4-2.
+592 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 250
+- 24 -
+
+[DELETED: 5L3,1,5,dstt8,9ht a a o t C o I o p e]
+[DELETED: 5L  A r o f m f i c a d i r i c f s s p f t a  P e f l a p i s ( o C]
+[DELETED: 5L e a h o o o o p o t o e t i f a i s ( o C S 3 r t  A p e o t t e t s o i o a w c c p t ]
+[DELETED: 5L  ' e m a i w u a c]
+[DELETED: 5L  ' m a i c c a p  A e a o e r a o r c n p t t p i e i t b o p a a w d n h i o a a P t s w a c c c t o b w t b t i w g o s a s u s]
+[DELETED: 5L  ' m a P r w t d p t C  A l b j o e n u w t P h o i t]
+[DELETED: 5L  A r s r i r a b m a f i a f b t d w s p f t r t n t o a m c i t i p i i m r]
+[DELETED: 5L u t c a s m s d r a o t a o b a i a q a o a b t t p s a o c a s  T i s p i a t t C f f t i a r]
+[DELETED: 5L a e f a i r o a r s s f]
+[DELETED: 5L r o t c w a l r o s]
+[DELETED: 5L t c a a e s b r t c o t c  E a s p i t c t c r t c a t P a b e c a e c a a c e f p b o i a t t c t P h e a t a l f s p i t]
+[DELETED: 5L  T q a o s o t g p o s o s]
+[DELETED: 5L o a p e a a e i p ( o]
+[DELETED: 5L  A p e a s h n e o e c p e o o w e u t f c e a a c i e a t t a p e]
+[DELETED: 5L o a a s l o f l r o c  A c e o a c w i r b l o r o r e o t c f p o s l r o c t i s t l r o c r o i s r s t r b t r o g e t s o a o g e a b o e c]
+[DELETED: 5L u b s n b a b s c h ]
+[DELETED: 5L w C 9 o t t f d e w o t c P u t s s r t t a s a r]
+[DELETED: 5L t P c c e a d e w o t c C i a t a o p p f u T 3 t]
+[DELETED: 5L 8 o T 3 t ' S L o a r o r]
+[DELETED: 5L r a r o d a c o t e o t s b d t p a p e o a i]
+[DELETED: 5L  D a o i t i c o c e i t]
+[DELETED: 5L u i t c t t ' u m a i t l o a d i o a t o o i a a t e j c i c o w d o f e l c p C s r a e l c a d i C i C S 3 t p a s b o s e f]
+[DELETED: 5L t e o i c e n a p o C]
+[DELETED: 5L]

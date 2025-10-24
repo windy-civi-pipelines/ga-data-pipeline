@@ -1,0 +1,171 @@
+Title: House Bill 216 (AS PASSED HOUSE AND SENATE)
+Official Title: House Bill 216 (AS PASSED HOUSE AND SENATE)
+Number of Sections: 1
+Source: versions - HB 216/AP*
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 59 0065/AP
+By: Representatives Smith of the 138th, Burns of the 159th, Jones of the 25th, Rice of the 139th,
+Hugley of the 141st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 50 of the Official Code of Georgia Annotated, relating to the
+2 Department of Economic Development, so as to create the Georgia CHIPS and Advanced
+3 Technology Commission; to provide for the purpose, membership, and duties of such
+4 commission; to amend Chapter 34 of Title 50, relating to the OneGeorgia Authority, so as
+5 to abolish the Georgia CHIPS and Advanced Technology Consortium; to replace the
+6 advisory panel and executive committee governing said consortium with the Georgia CHIPS
+7 and Advanced Technology Commission; to provide for a definition; to provide for a sunset
+8 date; to provide for related matters; to provide for a short title; to provide for an effective
+9 date; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 This Act shall be known and may be cited as the "Richard H. Smith Georgia CHIPS
+13 Advancement in Research and Economic Development Act."
+H. B. 216
+- 1 -
+25 LC 59 0065/AP
+14 SECTION 2.
+15 Chapter 7 of Title 50 of the Official Code of Georgia Annotated, relating to the Department
+16 of Economic Development, is amended by adding a new article to read as follows:
+17 "ARTICLE 11
+18 50-7-130.
+19 (a) As used in this Code section, the term 'commission' means the Georgia CHIPS and
+20 Advanced Technology Commission established pursuant to this Code section.
+21 (b) Subject to available funding, the commission shall be established for the purposes of:
+22 (1) Establishing a forum for public and private stakeholders across the semiconductor
+23 manufacturing industry in this state to focus on education, research and development, and
+24 commercial production;
+25 (2) Leveraging the expertise and capacity of institutions of higher education in this state,
+26 industry, and nonprofit organizations focused on semiconductor and advanced technology
+27 economic and workforce development to develop a comprehensive strategic plan to
+28 ensure ongoing semiconductor innovation;
+29 (3) Advising on strategies for attracting public and private investment in this state related
+30 to research, development, commercialization, manufacturing, and advanced packaging
+31 of semiconductors;
+32 (4) Identifying and expanding opportunities for workforce training and development
+33 related to the research, design, and manufacturing of semiconductors and related
+34 advanced technologies;
+35 (5) Sustaining the leadership of this state in advanced semiconductor research, design,
+36 manufacturing, and advanced packaging; and
+37 (6) Encouraging the state, counties, and municipalities to attract and support the
+38 semiconductor industry and related suppliers.
+H. B. 216
+- 2 -
+25 LC 59 0065/AP
+39 (c) The commission shall be composed of the following members:
+40 (1) Three members appointed by the Governor;
+41 (2) Two members appointed by the President of the Senate;
+42 (3) Two members appointed by the Speaker of the House of Representatives;
+43 (4) The chancellor of the University System of Georgia or his or her designee; and
+44 (5) The commissioner of Technical College System of Georgia or his or her designee.
+45 (d) In making appointments under subsection (c) of this Code section, priority shall be
+46 given to individuals with experience in manufacturing, design, industrial development,
+47 academic research, and scientific research in the field of semiconductors.
+48 (e) All vacancies on the commission shall be filled by the original appointing official.
+49 (f) The commission shall be assigned to the Georgia Department of Economic
+50 Development for administrative purposes only, as prescribed in Code Section 50-4-3.
+51 (g) The commission shall stand abolished on June 30, 2028."
+52 SECTION 3.
+53 Chapter 34 of Title 50 of the Official Code of Georgia Annotated, relating to the OneGeorgia
+54 Authority, is amended by repealing Code Section 50-34-21, relating to the Georgia CHIPS
+55 and Advanced Technology Consortium.
+56 SECTION 4.
+57 This Act shall become effective upon its approval by the Governor or upon its becoming law
+58 without such approval.
+59 SECTION 5.
+60 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 216
+- 3 -
+[DELETED: 5L8,9,5,9hththt1, C t p f t p m a d o s a t G C a A T C t r t A s b k a m b c a t " H S G C]
+[DELETED: 5L t t r d a m o s a r  E t s c a m t a a s t]
+[DELETED: 5L  T c s b a t t G D o E]
+
+
+================================================================================
+
+Raw Text:
+25 LC 59 0065/AP
+House Bill 216 (AS PASSED HOUSE AND SENATE)
+By: Representatives Smith of the 138th, Burns of the 159th, Jones of the 25th, Rice of the 139th,
+Hugley of the 141st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 50 of the Official Code of Georgia Annotated, relating to the
+2 Department of Economic Development, so as to create the Georgia CHIPS and Advanced
+3 Technology Commission; to provide for the purpose, membership, and duties of such
+4 commission; to amend Chapter 34 of Title 50, relating to the OneGeorgia Authority, so as
+5 to abolish the Georgia CHIPS and Advanced Technology Consortium; to replace the
+6 advisory panel and executive committee governing said consortium with the Georgia CHIPS
+7 and Advanced Technology Commission; to provide for a definition; to provide for a sunset
+8 date; to provide for related matters; to provide for a short title; to provide for an effective
+9 date; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 This Act shall be known and may be cited as the "Richard H. Smith Georgia CHIPS
+13 Advancement in Research and Economic Development Act."
+H. B. 216
+- 1 -
+
+25 LC 59 0065/AP
+14 SECTION 2.
+15 Chapter 7 of Title 50 of the Official Code of Georgia Annotated, relating to the Department
+16 of Economic Development, is amended by adding a new article to read as follows:
+17 "ARTICLE 11
+18 50-7-130.
+19 (a) As used in this Code section, the term 'commission' means the Georgia CHIPS and
+20 Advanced Technology Commission established pursuant to this Code section.
+21 (b) Subject to available funding, the commission shall be established for the purposes of:
+22 (1) Establishing a forum for public and private stakeholders across the semiconductor
+23 manufacturing industry in this state to focus on education, research and development, and
+24 commercial production;
+25 (2) Leveraging the expertise and capacity of institutions of higher education in this state,
+26 industry, and nonprofit organizations focused on semiconductor and advanced technology
+27 economic and workforce development to develop a comprehensive strategic plan to
+28 ensure ongoing semiconductor innovation;
+29 (3) Advising on strategies for attracting public and private investment in this state related
+30 to research, development, commercialization, manufacturing, and advanced packaging
+31 of semiconductors;
+32 (4) Identifying and expanding opportunities for workforce training and development
+33 related to the research, design, and manufacturing of semiconductors and related
+34 advanced technologies;
+35 (5) Sustaining the leadership of this state in advanced semiconductor research, design,
+36 manufacturing, and advanced packaging; and
+37 (6) Encouraging the state, counties, and municipalities to attract and support the
+38 semiconductor industry and related suppliers.
+H. B. 216
+- 2 -
+
+25 LC 59 0065/AP
+39 (c) The commission shall be composed of the following members:
+40 (1) Three members appointed by the Governor;
+41 (2) Two members appointed by the President of the Senate;
+42 (3) Two members appointed by the Speaker of the House of Representatives;
+43 (4) The chancellor of the University System of Georgia or his or her designee; and
+44 (5) The commissioner of Technical College System of Georgia or his or her designee.
+45 (d) In making appointments under subsection (c) of this Code section, priority shall be
+46 given to individuals with experience in manufacturing, design, industrial development,
+47 academic research, and scientific research in the field of semiconductors.
+48 (e) All vacancies on the commission shall be filled by the original appointing official.
+49 (f) The commission shall be assigned to the Georgia Department of Economic
+50 Development for administrative purposes only, as prescribed in Code Section 50-4-3.
+51 (g) The commission shall stand abolished on June 30, 2028."
+52 SECTION 3.
+53 Chapter 34 of Title 50 of the Official Code of Georgia Annotated, relating to the OneGeorgia
+54 Authority, is amended by repealing Code Section 50-34-21, relating to the Georgia CHIPS
+55 and Advanced Technology Consortium.
+56 SECTION 4.
+57 This Act shall become effective upon its approval by the Governor or upon its becoming law
+58 without such approval.
+59 SECTION 5.
+60 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 216
+- 3 -
+
+[DELETED: 5L8,9,5,9hththt1, C t p f t p m a d o s a t G C a A T C t r t A s b k a m b c a t " H S G C]
+[DELETED: 5L t t r d a m o s a r  E t s c a m t a a s t]
+[DELETED: 5L  T c s b a t t G D o E]

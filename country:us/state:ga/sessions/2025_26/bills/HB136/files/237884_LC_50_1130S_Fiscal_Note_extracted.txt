@@ -1,0 +1,300 @@
+Title: House Bill 136 (LC 50 1130S)
+Official Title: House Bill 136 (LC 50 1130S)
+Number of Sections: 1
+Source: versions - LC 50 1130S Fiscal Note
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Greg S. Griffin
+State Auditor
+March 12, 2025
+Honorable Chuck Hufstetler
+Chairman, Senate Finance
+121-C State Capitol
+Atlanta, GA 30334
+SUBJECT: Fiscal Note
+Dear Chairman Hufstetler:
+The bill would revise provisions regarding the tax credits to donors based on contributions to qualified
+foster child support organizations. The bill increases the annual cap from $20 million to $30 million,
+expands the definition of aging foster children and justice-involved youth, and broadens the scope of
+qualified expenditures for credit-eligible contributions. Additionally, the bill allows tax credits to be
+taken against the Insurance Premium Tax (IPT) for insurance companies. It lowers the credit basis of
+100 percent of contributions to 95 percent and eliminates the carryforward period. Finally, it modifies
+conditions under which a taxpayer may claim the credit and increases the monetary limits for
+mentorship services and direct cash assistance to eligible youth. The bill would be effective on July 1,
+2025, with tax provisions applying to taxable years beginning January 1, 2026.
+Impact on Revenue
+Georgia State University’s Fiscal Research Center (FRC) estimated that the bill would decrease state
+revenue as shown in Table 1. The appendix provides details of the analysis.
+Table 1. Estimated State Revenue Effects of HB 136 LC 50 1130S
+($ millions) FY 2026 FY 2027 FY 2028 FY 2029 FY 2030
+Low Revenue Estimate ($0.7) ($7.4) ($6.8) ($7.3) ($8.2)
+High Revenue Estimate ($0.3) ($3.1) ($2.1) ($1.9) ($2.2)
+Impact on Expenditures
+The Department of Revenue would be able to implement the bill with existing resources.
+Respectfully,
+Greg S. Griffin Richard Dunn, Director
+State Auditor Office of Planning and Budget
+GSG/RD/mt
+270 Washington Street, SW, Suite 4-101 Atlanta, Georgia 30334 | Phone 404.656.2180
+Fiscal Note for House Bill 136 (LC 50 1130S)
+Page 2
+Analysis by the Fiscal Research Center
+Under current law, O.C.G.A. § 48-7-29.24 allows taxpayers to claim tax credits for contributions made
+to qualified foster child support organizations, subject to preapproval and to an aggregate cap of $20
+million per year. These organizations provide services that support aging foster children. The law
+defines aging foster children as individuals aged 16–18 who are expected to benefit from foster support
+organizations, as determined by the Division of Family and Children Services. Additionally, the
+definition includes former foster children up to age 21, or age 25 under certain conditions, who have not
+been adopted or reunited with their families.
+The current law places specific credit limits on taxpayers, with preapproval applications required
+between January 1 and June 30 each year. Credits claimed cannot exceed the taxpayer’s tax liability for
+the year, but unused credits can be carried forward for up to three years. The Georgia Department of
+Human Services (DHS) is responsible for certifying foster child support organizations, while the
+Georgia Department of Revenue manages the preapproval of contributions to ensure eligibility for tax
+credits.
+HB 136 LC 50 1130S introduces several key modifications to the existing tax credit program, with
+anticipated effects on credit utilization and state revenue. Changes that would be expected to increase
+its utilization are:
+• Raising the annual tax credit cap from $20 million to $30 million.
+• Allowing the credit to be taken against the insurance premium tax (IPT), expanding the
+program to include insurance companies and increasing the number of potential donors. This
+change is expected to accelerate credit utilization, as insurance providers are now included in
+the pool of potential utilizers of the credit.
+The bill also makes multiple changes that would be expected to decrease its utilization:
+• The credit rate is reduced from 100 percent of the amount donated to 95 percent.
+• The current three-year carryforward allowance for unused credits is eliminated.
+We analyze similar donation-based tax credit programs in Georgia to assess the fiscal impact of the
+proposed revisions in the current bill on the Qualified Foster Child Donation (QFCD) credit. This
+includes tracking preapproval amounts and credit utilization rates for the Qualified Education Expense
+Credit (QEEC) and the Rural Hospital Tax Credit (RHTC). QEEC, established with a credit rate of 100
+percent of donations, was established in 2009 and has reached its cap annually since 2011. RHTC
+preapproval records are not available for 2017 but based on donations reported in a 2022 performance
+audit report from the Department of Audits, likely reached only about 20 percent of its cap that first
+year. The credit rate effective in 2017 was initially only 70 percent, but was increased to 90 percent by
+SB 180, signed into law on May 8 and effective beginning with TY 2017. In the 2018 legislative session,
+the credit rate was increased to 100 percent by HB 769, effective beginning TY 2018, and effectively
+reached the $60 million cap (preapprovals of $59.5 million, according the 2022 performance audit).
+After falling well short of the cap, approximately 78 percent, in 2019 because of IRS regulation changes
+that denied an itemized deduction for donations earning these and similar credits, preapprovals in
+2020 reached 90.5 percent and have ranged between 98 and 100 percent since.
+To model the fiscal impact of the current bill, we estimate the current baseline of expected usage of the
+program under current law and compare it to the expected usage under the bill. The QFCD credit
+program, which took effect on January 1, 2023, began with a moderate level of preapproved amounts,
+reaching approximately 58 percent of its cap in its first year and 68 percent in its second—lower than
+the RHTC after its first year as well as other similar programs. Preapprovals and credit generation
+reported by the Department of Revenue (DOR) was nearly $13.5 million for TY 2024. Based on its
+current trajectory, we anticipate that the QFCD program will reach its current annual cap of $20 million
+Fiscal Note for House Bill 136 (LC 50 1130S)
+Page 3
+for the first time in tax year (TY) 2029. This projection assumes moderate annual growth in
+preapprovals relative to the cap and serves as our baseline scenario.
+Based on DOR data on utilization of credits generated from similar programs, QEEC and RHTC, we
+assume for the baseline that 68 percent of credits generated will be utilized in the year they are
+generated, 11 percent in the following year, and 6 percent in the third year. These data and assumptions
+correspond to the current-law estimates detailed in Table 2 below.
+To estimate the fiscal impact of LC 50 1130S, especially given the fact that it proposes to make changes
+that each potentially expand or reduce its utilization, we model estimates for a high and a low revenue
+pro forma scenarios. Under this bill the QFCD program would be unique among the other donation-
+based tax credit programs in three respects. It would allow for the credit to be taken against the IPT, it
+would have a credit rate of 95% rather than 100%, and it would not allow for carryforwards. The
+elimination of carryforwards generates uncertainty for estimation.
+The high-revenue case estimates are based on the following assumptions:
+• Generated credits from the baseline are reduced by five percent, assuming taxpayers do not
+change their donation choices based on the reduced credit rate. The RHTC’s credit rate was
+temporarily below 100 percent but it’s donation pattern after the first year was consistent with a
+newly established donation-based credit program.
+• Donations allowed to generate credits under the $10 million increase in annual cap are assumed
+to increase toward the maximum in the same pattern as previous programs. Based on the
+donation pattern from during the initial years of this programs as well as similar donation-based
+programs in their early years, donations are assumed to be 58 percent of the maximum in the
+initial year and reach the cap in year five.
+• Credit utilization in the year the credit is earned is assumed to be unaffected by the bill, 68
+percent, but utilization of carryforwards after that year is eliminated.
+The low-revenue case estimates are based on the following assumptions:
+• Credits generated are not impacted by the change in the credit rate and maximize the donation
+cap by year five.
+• Donations allowed to generate credits under the $10 million increase in annual cap are assumed
+to increase toward the maximum in the same pattern as previous programs. Donations are
+assumed to be follow the same pattens as the high-revenue case based on the same rationale.
+• The inclusion of insurance companies and the elimination of carryforwards have the potential to
+impact utilization. The timing of utilization is not tracked or available for credits taken against
+the IPT. However, there is considerable utilization by insurance companies for the three credits
+they are currently taking, the low income housing tax credit, the Georgia jobs tax credit, and the
+agribusiness tax credit. Thus, the low-revenue case estimates assume that 85 percent of credits
+generated are utilized in their initial year.
+These estimates of donations (credits generated) and credits utilized under current-law and the high-
+and low-revenue scenarios are detailed in Table 2.
+Fiscal Note for House Bill 136 (LC 50 1130S)
+Page 4
+Table 2. Estimated State Revenue Effects under Current Law versus Pro Forma
+($ millions) TY 2026 TY 2027 TY 2028 TY 2029 TY 2030
+Credits Generated
+Current Law $15.0 $16.0 $18.0 $20.0 $20.0
+Low Revenue Case $20.8 $22.7 $26.0 $29.0 $30.0
+High Revenue Case $19.8 $21.6 $24.7 $27.6 $28.5
+Credits Utilized
+Current Law $12.5 $13.4 $14.9 $16.5 $16.9
+Low Revenue Case $20.0 $20.2 $22.1 $24.7 $25.5
+High Revenue Case $15.8 $15.5 $16.8 $18.7 $19.4
+Historically, 90 percent of credits taken based on donation-based program have been taken against the
+personal income tax. The remaining 10 percent is assumed to be made by corporate taxpayers. Tax-year
+utilization of the credit is converted to fiscal years by assuming 5 percent of impact estimated by this bill
+will impact the current FY and 95 percent will impact the following FY upon filing. Finally differences
+from the current-law baseline from the high and low pro forma estimates were used to calculate the net
+revenue effects presented in Table 1.
+[DELETED:  F ) F F F F ( ( ( ( ( ( ( ( ( ( R O]
+[DELETED:  ) T T T T    $ $ $ $ $ $ $ $ $ $ $ $ $ $ $    $ $ $ $ $ $ $ $ $ $ $ $ $]
+
+
+================================================================================
+
+Raw Text:
+Greg S. Griffin
+State Auditor
+March 12, 2025
+Honorable Chuck Hufstetler
+Chairman, Senate Finance
+121-C State Capitol
+Atlanta, GA 30334
+SUBJECT: Fiscal Note
+House Bill 136 (LC 50 1130S)
+Dear Chairman Hufstetler:
+The bill would revise provisions regarding the tax credits to donors based on contributions to qualified
+foster child support organizations. The bill increases the annual cap from $20 million to $30 million,
+expands the definition of aging foster children and justice-involved youth, and broadens the scope of
+qualified expenditures for credit-eligible contributions. Additionally, the bill allows tax credits to be
+taken against the Insurance Premium Tax (IPT) for insurance companies. It lowers the credit basis of
+100 percent of contributions to 95 percent and eliminates the carryforward period. Finally, it modifies
+conditions under which a taxpayer may claim the credit and increases the monetary limits for
+mentorship services and direct cash assistance to eligible youth. The bill would be effective on July 1,
+2025, with tax provisions applying to taxable years beginning January 1, 2026.
+Impact on Revenue
+Georgia State University’s Fiscal Research Center (FRC) estimated that the bill would decrease state
+revenue as shown in Table 1. The appendix provides details of the analysis.
+Table 1. Estimated State Revenue Effects of HB 136 LC 50 1130S
+($ millions) FY 2026 FY 2027 FY 2028 FY 2029 FY 2030
+Low Revenue Estimate ($0.7) ($7.4) ($6.8) ($7.3) ($8.2)
+High Revenue Estimate ($0.3) ($3.1) ($2.1) ($1.9) ($2.2)
+Impact on Expenditures
+The Department of Revenue would be able to implement the bill with existing resources.
+Respectfully,
+Greg S. Griffin Richard Dunn, Director
+State Auditor Office of Planning and Budget
+GSG/RD/mt
+270 Washington Street, SW, Suite 4-101 Atlanta, Georgia 30334 | Phone 404.656.2180
+
+Fiscal Note for House Bill 136 (LC 50 1130S)
+Page 2
+Analysis by the Fiscal Research Center
+Under current law, O.C.G.A. § 48-7-29.24 allows taxpayers to claim tax credits for contributions made
+to qualified foster child support organizations, subject to preapproval and to an aggregate cap of $20
+million per year. These organizations provide services that support aging foster children. The law
+defines aging foster children as individuals aged 16–18 who are expected to benefit from foster support
+organizations, as determined by the Division of Family and Children Services. Additionally, the
+definition includes former foster children up to age 21, or age 25 under certain conditions, who have not
+been adopted or reunited with their families.
+The current law places specific credit limits on taxpayers, with preapproval applications required
+between January 1 and June 30 each year. Credits claimed cannot exceed the taxpayer’s tax liability for
+the year, but unused credits can be carried forward for up to three years. The Georgia Department of
+Human Services (DHS) is responsible for certifying foster child support organizations, while the
+Georgia Department of Revenue manages the preapproval of contributions to ensure eligibility for tax
+credits.
+HB 136 LC 50 1130S introduces several key modifications to the existing tax credit program, with
+anticipated effects on credit utilization and state revenue. Changes that would be expected to increase
+its utilization are:
+• Raising the annual tax credit cap from $20 million to $30 million.
+• Allowing the credit to be taken against the insurance premium tax (IPT), expanding the
+program to include insurance companies and increasing the number of potential donors. This
+change is expected to accelerate credit utilization, as insurance providers are now included in
+the pool of potential utilizers of the credit.
+The bill also makes multiple changes that would be expected to decrease its utilization:
+• The credit rate is reduced from 100 percent of the amount donated to 95 percent.
+• The current three-year carryforward allowance for unused credits is eliminated.
+We analyze similar donation-based tax credit programs in Georgia to assess the fiscal impact of the
+proposed revisions in the current bill on the Qualified Foster Child Donation (QFCD) credit. This
+includes tracking preapproval amounts and credit utilization rates for the Qualified Education Expense
+Credit (QEEC) and the Rural Hospital Tax Credit (RHTC). QEEC, established with a credit rate of 100
+percent of donations, was established in 2009 and has reached its cap annually since 2011. RHTC
+preapproval records are not available for 2017 but based on donations reported in a 2022 performance
+audit report from the Department of Audits, likely reached only about 20 percent of its cap that first
+year. The credit rate effective in 2017 was initially only 70 percent, but was increased to 90 percent by
+SB 180, signed into law on May 8 and effective beginning with TY 2017. In the 2018 legislative session,
+the credit rate was increased to 100 percent by HB 769, effective beginning TY 2018, and effectively
+reached the $60 million cap (preapprovals of $59.5 million, according the 2022 performance audit).
+After falling well short of the cap, approximately 78 percent, in 2019 because of IRS regulation changes
+that denied an itemized deduction for donations earning these and similar credits, preapprovals in
+2020 reached 90.5 percent and have ranged between 98 and 100 percent since.
+To model the fiscal impact of the current bill, we estimate the current baseline of expected usage of the
+program under current law and compare it to the expected usage under the bill. The QFCD credit
+program, which took effect on January 1, 2023, began with a moderate level of preapproved amounts,
+reaching approximately 58 percent of its cap in its first year and 68 percent in its second—lower than
+the RHTC after its first year as well as other similar programs. Preapprovals and credit generation
+reported by the Department of Revenue (DOR) was nearly $13.5 million for TY 2024. Based on its
+current trajectory, we anticipate that the QFCD program will reach its current annual cap of $20 million
+
+Fiscal Note for House Bill 136 (LC 50 1130S)
+Page 3
+for the first time in tax year (TY) 2029. This projection assumes moderate annual growth in
+preapprovals relative to the cap and serves as our baseline scenario.
+Based on DOR data on utilization of credits generated from similar programs, QEEC and RHTC, we
+assume for the baseline that 68 percent of credits generated will be utilized in the year they are
+generated, 11 percent in the following year, and 6 percent in the third year. These data and assumptions
+correspond to the current-law estimates detailed in Table 2 below.
+To estimate the fiscal impact of LC 50 1130S, especially given the fact that it proposes to make changes
+that each potentially expand or reduce its utilization, we model estimates for a high and a low revenue
+pro forma scenarios. Under this bill the QFCD program would be unique among the other donation-
+based tax credit programs in three respects. It would allow for the credit to be taken against the IPT, it
+would have a credit rate of 95% rather than 100%, and it would not allow for carryforwards. The
+elimination of carryforwards generates uncertainty for estimation.
+The high-revenue case estimates are based on the following assumptions:
+• Generated credits from the baseline are reduced by five percent, assuming taxpayers do not
+change their donation choices based on the reduced credit rate. The RHTC’s credit rate was
+temporarily below 100 percent but it’s donation pattern after the first year was consistent with a
+newly established donation-based credit program.
+• Donations allowed to generate credits under the $10 million increase in annual cap are assumed
+to increase toward the maximum in the same pattern as previous programs. Based on the
+donation pattern from during the initial years of this programs as well as similar donation-based
+programs in their early years, donations are assumed to be 58 percent of the maximum in the
+initial year and reach the cap in year five.
+• Credit utilization in the year the credit is earned is assumed to be unaffected by the bill, 68
+percent, but utilization of carryforwards after that year is eliminated.
+The low-revenue case estimates are based on the following assumptions:
+• Credits generated are not impacted by the change in the credit rate and maximize the donation
+cap by year five.
+• Donations allowed to generate credits under the $10 million increase in annual cap are assumed
+to increase toward the maximum in the same pattern as previous programs. Donations are
+assumed to be follow the same pattens as the high-revenue case based on the same rationale.
+• The inclusion of insurance companies and the elimination of carryforwards have the potential to
+impact utilization. The timing of utilization is not tracked or available for credits taken against
+the IPT. However, there is considerable utilization by insurance companies for the three credits
+they are currently taking, the low income housing tax credit, the Georgia jobs tax credit, and the
+agribusiness tax credit. Thus, the low-revenue case estimates assume that 85 percent of credits
+generated are utilized in their initial year.
+These estimates of donations (credits generated) and credits utilized under current-law and the high-
+and low-revenue scenarios are detailed in Table 2.
+
+Fiscal Note for House Bill 136 (LC 50 1130S)
+Page 4
+Table 2. Estimated State Revenue Effects under Current Law versus Pro Forma
+($ millions) TY 2026 TY 2027 TY 2028 TY 2029 TY 2030
+Credits Generated
+Current Law $15.0 $16.0 $18.0 $20.0 $20.0
+Low Revenue Case $20.8 $22.7 $26.0 $29.0 $30.0
+High Revenue Case $19.8 $21.6 $24.7 $27.6 $28.5
+Credits Utilized
+Current Law $12.5 $13.4 $14.9 $16.5 $16.9
+Low Revenue Case $20.0 $20.2 $22.1 $24.7 $25.5
+High Revenue Case $15.8 $15.5 $16.8 $18.7 $19.4
+Historically, 90 percent of credits taken based on donation-based program have been taken against the
+personal income tax. The remaining 10 percent is assumed to be made by corporate taxpayers. Tax-year
+utilization of the credit is converted to fiscal years by assuming 5 percent of impact estimated by this bill
+will impact the current FY and 95 percent will impact the following FY upon filing. Finally differences
+from the current-law baseline from the high and low pro forma estimates were used to calculate the net
+revenue effects presented in Table 1.
+
+[DELETED:  F ) F F F F ( ( ( ( ( ( ( ( ( ( R O]
+[DELETED:  ) T T T T    $ $ $ $ $ $ $ $ $ $ $ $ $ $ $    $ $ $ $ $ $ $ $ $ $ $ $ $]

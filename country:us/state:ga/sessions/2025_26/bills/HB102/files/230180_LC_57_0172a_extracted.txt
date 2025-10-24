@@ -1,0 +1,261 @@
+Title: House Bill 102
+Official Title: House Bill 102
+Number of Sections: 1
+Source: versions - LC 57 0172/a
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 57 0172
+By: Representatives Cooper of the 45th, Newton of the 127th, Silcox of the 53rd, Hawkins of
+the 27th, and Au of the 50th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2 of Title 31 of the Official Code of Georgia Annotated, relating to the
+2 Department of Community Health, so as to provide for the establishment of the Georgia
+3 Quality Reporting Project; to provide for definitions; to provide for the purposes of the
+4 project; to provide for a working group; to provide for submission of clinical data; to provide
+5 for processing of clinical data with claims data; to provide for penalties; to amend Code
+6 Section 33-6-4 of the Official Code of Georgia Annotated, relating to enumeration of unfair
+7 methods of competition and unfair or deceptive acts or practices and penalty, so as to provide
+8 for conforming changes; to provide for related matters; to repeal conflicting laws; and for
+9 other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Chapter 2 of Title 31 of the Official Code of Georgia Annotated, relating to the Department
+13 of Community Health, is amended by adding a new Code section to read as follows:
+14 "31-2-20.
+15 (a) As used in this Code section, the term:
+H. B. 102
+- 1 -
+25 LC 57 0172
+16 (1) 'Direct personal identifiers' means information relating to a covered individual that
+17 contains primary or obvious identifiers, such as the individual's name, street address,
+18 email address, telephone number, and social security number, but shall not include
+19 geographic or demographic information that would prohibit the identification of a
+20 covered individual.
+21 (2) 'GQRP' means the Georgia Quality Reporting Project established pursuant to this
+22 Code section.
+23 (3) 'HEDIS' means the Healthcare Effectiveness Data and Information Set.
+24 (4) 'Qualified Health Information Network' or 'QHIN' means a network certified by the
+25 secretary of the United States Department of Health and Human Services and the
+26 assistant secretary for technology policy/office of the National Coordinator for Health
+27 Information Technology that meets all of the Trusted Exchange Framework and Common
+28 Agreement requirements established by the federal 21st Century Cures Act, P.L. 114-255,
+29 and utilizes a quality measure calculation product certified by the National Committee
+30 for Quality Assurance for HEDIS reporting.
+31 (5) 'Submitting entity' means a Medicaid care management organization that contracts
+32 with the department to arrange healthcare services for Medicaid recipients.
+33 (b)(1) The department shall facilitate the establishment of the Georgia Quality Reporting
+34 Project. The purpose of the GQRP shall be to:
+35 (A) Gauge the quality of treatment for opioid use disorder and healthcare overall;
+36 (B) Improve the quality of care to Georgia residents;
+37 (C) Reduce the overall cost of medical treatment and care in this state; and
+38 (D) Foster clinical research in this state.
+39 (2) The department may enter into agreements with the administrator of the Georgia
+40 All-Payer Claims Database established pursuant to Article 3 of Chapter 53 of this title
+41 and the Georgia Data Analytic Center established pursuant to Part 3 of Article 4 of
+H. B. 102
+- 2 -
+25 LC 57 0172
+42 Chapter 12 of Title 45 for purposes of establishing the GQRP and accomplishing its
+43 purposes.
+44 (c) The department shall facilitate the establishment of a GQRP use case working group
+45 for the purpose of creating a framework and implementation plan for the GQRP.
+46 (d) Beginning January 1, 2028, and every month thereafter, all submitting entities shall be
+47 required to transmit clinical data collected through the methods and formats established by
+48 the federal Department of Health and Human Services' Electronic Clinical Quality
+49 Measures Fast Health Information Resources standards to the department. Such data shall
+50 be transmitted either directly or through QHIN connections implemented by such
+51 submitting entities. Such data shall include:
+52 (1) Clinical data from electronic health records for all Georgia healthcare organizations
+53 who provide substance use disorder care to Medicaid patients to evaluate opioid care in
+54 this state; and
+55 (2) Clinical data from electronic health records to report relevant state level quality
+56 measures to evaluate the quality of care and improve clinical outcomes for in-state
+57 patients.
+58 (e) Beginning January 1, 2029, and every month thereafter, the clinical data collected
+59 pursuant to subsection (d) of this Code section shall be converted and combined with all
+60 claims data to calculate state level opioid statistics and relevant state level quality measures
+61 available in the HEDIS data sets. A nationally recognized and standardized National
+62 Committee for Quality Assurance accredited process shall be used for the calculation of
+63 relevant HEDIS quality measures.
+64 (f) Direct personal identifiers contained in clinical data transmitted pursuant to this Code
+65 section shall not be considered a public record and shall not be subject to Article 4 of
+66 Chapter 18 of Title 50, relating to open records.
+H. B. 102
+- 3 -
+25 LC 57 0172
+67 (g) The collection, storage, and release of healthcare data and other information pursuant
+68 to this Code section shall be subject to the federal Health Insurance Portability and
+69 Accountability Act (HIPAA) of 1996, P.L. 104-191.
+70 (h) Except as otherwise provided in this Code section, any submitting entity that fails to
+71 submit clinical data in accordance with this Code section shall be subject to penalty. The
+72 department shall adopt a schedule of penalties not to exceed $1,000.00 per day of violation,
+73 determined by the severity of the violation. A penalty imposed under this subsection may
+74 be remitted or mitigated upon such terms and conditions as the department considers proper
+75 and consistent with the public health and safety. Any fines collected pursuant to this
+76 subsection shall be deposited into the state treasury.
+77 (i) Any submitting entity that is subject to the jurisdiction of the Commissioner of
+78 Insurance that fails to submit clinical data in accordance with this Code section shall be
+79 subject to violation of paragraph (14.2) of subsection (b) of Code Section 33-6-4, and any
+80 other penalties that may be imposed by the Commissioner of Insurance. The department
+81 may refer violations by such submitting entities to the Commissioner of Insurance for
+82 enforcement action for each instance in which such submitting entity fails to submit clinical
+83 data to the department in accordance with this Code section and in accordance with any
+84 rules and regulations established for such purpose.
+85 (j) No healthcare provider contracting with a submitting entity to provide healthcare
+86 services to Medicaid recipients shall be required to incur any direct or indirect expense
+87 related to the compliance by a submitting entity with the requirements of this Code section."
+88 SECTION 2.
+89 Code Section 33-6-4 of the Official Code of Georgia Annotated, relating to enumeration of
+90 unfair methods of competition and unfair or deceptive acts or practices and penalty, is
+91 amended by revising paragraph (14.2) of subsection (b) as follows:
+H. B. 102
+- 4 -
+25 LC 57 0172
+92 "(14.2) Failing to submit all claims data to the Georgia All-Payer Claims Database as
+93 required in Article 3 of Chapter 53 of Title 31 or failing to submit all clinical data to the
+94 department as required in Code Section 31-2-20;"
+95 SECTION 3.
+96 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 102
+- 5 -
+[DELETED: 5L5,7,3,hthr7,0ht]
+[DELETED: 5L o d i t w p t i o  o t U S D o H a H S a t]
+[DELETED: 5L f D o H a H S E C Q t e d o t Q c i b s]
+[DELETED: 5L t C s s b s t t f H I P a  A s e t i s t t j o t C o]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 57 0172
+House Bill 102
+By: Representatives Cooper of the 45th, Newton of the 127th, Silcox of the 53rd, Hawkins of
+the 27th, and Au of the 50th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2 of Title 31 of the Official Code of Georgia Annotated, relating to the
+2 Department of Community Health, so as to provide for the establishment of the Georgia
+3 Quality Reporting Project; to provide for definitions; to provide for the purposes of the
+4 project; to provide for a working group; to provide for submission of clinical data; to provide
+5 for processing of clinical data with claims data; to provide for penalties; to amend Code
+6 Section 33-6-4 of the Official Code of Georgia Annotated, relating to enumeration of unfair
+7 methods of competition and unfair or deceptive acts or practices and penalty, so as to provide
+8 for conforming changes; to provide for related matters; to repeal conflicting laws; and for
+9 other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Chapter 2 of Title 31 of the Official Code of Georgia Annotated, relating to the Department
+13 of Community Health, is amended by adding a new Code section to read as follows:
+14 "31-2-20.
+15 (a) As used in this Code section, the term:
+H. B. 102
+- 1 -
+
+25 LC 57 0172
+16 (1) 'Direct personal identifiers' means information relating to a covered individual that
+17 contains primary or obvious identifiers, such as the individual's name, street address,
+18 email address, telephone number, and social security number, but shall not include
+19 geographic or demographic information that would prohibit the identification of a
+20 covered individual.
+21 (2) 'GQRP' means the Georgia Quality Reporting Project established pursuant to this
+22 Code section.
+23 (3) 'HEDIS' means the Healthcare Effectiveness Data and Information Set.
+24 (4) 'Qualified Health Information Network' or 'QHIN' means a network certified by the
+25 secretary of the United States Department of Health and Human Services and the
+26 assistant secretary for technology policy/office of the National Coordinator for Health
+27 Information Technology that meets all of the Trusted Exchange Framework and Common
+28 Agreement requirements established by the federal 21st Century Cures Act, P.L. 114-255,
+29 and utilizes a quality measure calculation product certified by the National Committee
+30 for Quality Assurance for HEDIS reporting.
+31 (5) 'Submitting entity' means a Medicaid care management organization that contracts
+32 with the department to arrange healthcare services for Medicaid recipients.
+33 (b)(1) The department shall facilitate the establishment of the Georgia Quality Reporting
+34 Project. The purpose of the GQRP shall be to:
+35 (A) Gauge the quality of treatment for opioid use disorder and healthcare overall;
+36 (B) Improve the quality of care to Georgia residents;
+37 (C) Reduce the overall cost of medical treatment and care in this state; and
+38 (D) Foster clinical research in this state.
+39 (2) The department may enter into agreements with the administrator of the Georgia
+40 All-Payer Claims Database established pursuant to Article 3 of Chapter 53 of this title
+41 and the Georgia Data Analytic Center established pursuant to Part 3 of Article 4 of
+H. B. 102
+- 2 -
+
+25 LC 57 0172
+42 Chapter 12 of Title 45 for purposes of establishing the GQRP and accomplishing its
+43 purposes.
+44 (c) The department shall facilitate the establishment of a GQRP use case working group
+45 for the purpose of creating a framework and implementation plan for the GQRP.
+46 (d) Beginning January 1, 2028, and every month thereafter, all submitting entities shall be
+47 required to transmit clinical data collected through the methods and formats established by
+48 the federal Department of Health and Human Services' Electronic Clinical Quality
+49 Measures Fast Health Information Resources standards to the department. Such data shall
+50 be transmitted either directly or through QHIN connections implemented by such
+51 submitting entities. Such data shall include:
+52 (1) Clinical data from electronic health records for all Georgia healthcare organizations
+53 who provide substance use disorder care to Medicaid patients to evaluate opioid care in
+54 this state; and
+55 (2) Clinical data from electronic health records to report relevant state level quality
+56 measures to evaluate the quality of care and improve clinical outcomes for in-state
+57 patients.
+58 (e) Beginning January 1, 2029, and every month thereafter, the clinical data collected
+59 pursuant to subsection (d) of this Code section shall be converted and combined with all
+60 claims data to calculate state level opioid statistics and relevant state level quality measures
+61 available in the HEDIS data sets. A nationally recognized and standardized National
+62 Committee for Quality Assurance accredited process shall be used for the calculation of
+63 relevant HEDIS quality measures.
+64 (f) Direct personal identifiers contained in clinical data transmitted pursuant to this Code
+65 section shall not be considered a public record and shall not be subject to Article 4 of
+66 Chapter 18 of Title 50, relating to open records.
+H. B. 102
+- 3 -
+
+25 LC 57 0172
+67 (g) The collection, storage, and release of healthcare data and other information pursuant
+68 to this Code section shall be subject to the federal Health Insurance Portability and
+69 Accountability Act (HIPAA) of 1996, P.L. 104-191.
+70 (h) Except as otherwise provided in this Code section, any submitting entity that fails to
+71 submit clinical data in accordance with this Code section shall be subject to penalty. The
+72 department shall adopt a schedule of penalties not to exceed $1,000.00 per day of violation,
+73 determined by the severity of the violation. A penalty imposed under this subsection may
+74 be remitted or mitigated upon such terms and conditions as the department considers proper
+75 and consistent with the public health and safety. Any fines collected pursuant to this
+76 subsection shall be deposited into the state treasury.
+77 (i) Any submitting entity that is subject to the jurisdiction of the Commissioner of
+78 Insurance that fails to submit clinical data in accordance with this Code section shall be
+79 subject to violation of paragraph (14.2) of subsection (b) of Code Section 33-6-4, and any
+80 other penalties that may be imposed by the Commissioner of Insurance. The department
+81 may refer violations by such submitting entities to the Commissioner of Insurance for
+82 enforcement action for each instance in which such submitting entity fails to submit clinical
+83 data to the department in accordance with this Code section and in accordance with any
+84 rules and regulations established for such purpose.
+85 (j) No healthcare provider contracting with a submitting entity to provide healthcare
+86 services to Medicaid recipients shall be required to incur any direct or indirect expense
+87 related to the compliance by a submitting entity with the requirements of this Code section."
+88 SECTION 2.
+89 Code Section 33-6-4 of the Official Code of Georgia Annotated, relating to enumeration of
+90 unfair methods of competition and unfair or deceptive acts or practices and penalty, is
+91 amended by revising paragraph (14.2) of subsection (b) as follows:
+H. B. 102
+- 4 -
+
+25 LC 57 0172
+92 "(14.2) Failing to submit all claims data to the Georgia All-Payer Claims Database as
+93 required in Article 3 of Chapter 53 of Title 31 or failing to submit all clinical data to the
+94 department as required in Code Section 31-2-20;"
+95 SECTION 3.
+96 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 102
+- 5 -
+
+[DELETED: 5L5,7,3,hthr7,0ht]
+[DELETED: 5L o d i t w p t i o  o t U S D o H a H S a t]
+[DELETED: 5L f D o H a H S E C Q t e d o t Q c i b s]
+[DELETED: 5L t C s s b s t t f H I P a  A s e t i s t t j o t C o]
+[DELETED: 5L]

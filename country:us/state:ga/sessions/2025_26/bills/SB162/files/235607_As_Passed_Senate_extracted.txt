@@ -1,0 +1,118 @@
+Title: Senate Bill 162
+Official Title: Senate Bill 162
+Number of Sections: 1
+Source: versions - As Passed Senate
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0813S (SCS)
+By: Senators Hufstetler of the 52nd, Watson of the 1st, Kirkpatrick of the 32nd, Tillery of
+the 19th and Walker III of the 20th
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated,
+2 relating to Georgia Composite Medical Board, so as to provide for the board to implement
+3 an automated licensing system for certain healthcare providers in this state; to provide for
+4 requirements; to provide for related matters; to repeal conflicting laws; and for other
+5 purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Article 1 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to
+9 Georgia Composite Medical Board, is amended in Code Section 43-34-6, relating to board
+10 as an independent agency, by adding new subsections to read as follows:
+11 "(k) No later than October 1, 2025, the board shall implement a data management software
+12 system to streamline and automate the licensing process for physicians, physician
+13 assistants, and anesthesiologist assistants. No later than January 1, 2026, such system shall
+14 be fully operational for other healthcare providers licensed by the board.
+15 (l) The system provided for in subsection (k) of this Code section may:
+S. B. 162
+- 1 -
+25 LC 52 0813S (SCS)
+16 (1) Organize, verify, and store the licenses of healthcare providers, allowing for a single
+17 verification process that results in authorization state wide, provided that a healthcare
+18 facility, licensee, or applicant inputs the credentialing information and agrees to such
+19 authorization;
+20 (2) If available, be customizable so that a healthcare facility can add requirements to
+21 meet such facility's rules, regulations, or bylaws;
+22 (3) Provide a public facing page that is easily and securely accessible by other state
+23 medical boards, healthcare providers, and healthcare facilities;
+24 (4) Notify any individual submitting credentials into such system when his or her
+25 application is deficient, what such deficiency is, and when such application is complete;
+26 (5) Process complete applications within 30 days and process reappointments within two
+27 weeks;
+28 (6) Provide for the registration of nurse protocol agreements for advanced practice
+29 registered nurses and job descriptions for licensed physician assistants and
+30 anesthesiologist assistants;
+31 (7) Allow any healthcare facility to accept the information for licensing as acceptance
+32 for credentialing and any healthcare provider to add additional requirements for
+33 credentialing in their facility; and
+34 (8) Perform any other functions the board deems necessary to improve licensing
+35 processes under this chapter."
+36 SECTION 2.
+37 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 162
+- 2 -
+[DELETED: 5L t p f r m t r c l a f o t s a a t l p f p p]
+[DELETED: 5L n a j d f l p a a c a a h p t a a r f  P a o f t b d n t i l]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0813S (SCS)
+Senate Bill 162
+By: Senators Hufstetler of the 52nd, Watson of the 1st, Kirkpatrick of the 32nd, Tillery of
+the 19th and Walker III of the 20th
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated,
+2 relating to Georgia Composite Medical Board, so as to provide for the board to implement
+3 an automated licensing system for certain healthcare providers in this state; to provide for
+4 requirements; to provide for related matters; to repeal conflicting laws; and for other
+5 purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Article 1 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to
+9 Georgia Composite Medical Board, is amended in Code Section 43-34-6, relating to board
+10 as an independent agency, by adding new subsections to read as follows:
+11 "(k) No later than October 1, 2025, the board shall implement a data management software
+12 system to streamline and automate the licensing process for physicians, physician
+13 assistants, and anesthesiologist assistants. No later than January 1, 2026, such system shall
+14 be fully operational for other healthcare providers licensed by the board.
+15 (l) The system provided for in subsection (k) of this Code section may:
+S. B. 162
+- 1 -
+
+25 LC 52 0813S (SCS)
+16 (1) Organize, verify, and store the licenses of healthcare providers, allowing for a single
+17 verification process that results in authorization state wide, provided that a healthcare
+18 facility, licensee, or applicant inputs the credentialing information and agrees to such
+19 authorization;
+20 (2) If available, be customizable so that a healthcare facility can add requirements to
+21 meet such facility's rules, regulations, or bylaws;
+22 (3) Provide a public facing page that is easily and securely accessible by other state
+23 medical boards, healthcare providers, and healthcare facilities;
+24 (4) Notify any individual submitting credentials into such system when his or her
+25 application is deficient, what such deficiency is, and when such application is complete;
+26 (5) Process complete applications within 30 days and process reappointments within two
+27 weeks;
+28 (6) Provide for the registration of nurse protocol agreements for advanced practice
+29 registered nurses and job descriptions for licensed physician assistants and
+30 anesthesiologist assistants;
+31 (7) Allow any healthcare facility to accept the information for licensing as acceptance
+32 for credentialing and any healthcare provider to add additional requirements for
+33 credentialing in their facility; and
+34 (8) Perform any other functions the board deems necessary to improve licensing
+35 processes under this chapter."
+36 SECTION 2.
+37 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 162
+- 2 -
+
+[DELETED: 5L t p f r m t r c l a f o t s a a t l p f p p]
+[DELETED: 5L n a j d f l p a a c a a h p t a a r f  P a o f t b d n t i l]

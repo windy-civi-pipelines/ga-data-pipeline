@@ -1,0 +1,356 @@
+Title: The House Committee on Judiciary, Non-Civil offers the following substitute to HB 171:
+Official Title: The House Committee on Judiciary, Non-Civil offers the following substitute to HB 171:
+Number of Sections: 1
+Source: versions - LC 48 1512S/hs
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 48 1512S
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 1 of Article 3 of Chapter 12 of Title 16 of the Official Code of Georgia
+2 Annotated, relating to general provisions relative to obscenity and related offenses, so as to
+3 prohibit distribution of computer generated obscene material depicting a child; to provide for
+4 a standard for obscenity; to provide for a penalty and probation; to amend Article 1 of
+5 Chapter 10 of Title 17 of the Official Code of Georgia Annotated, relating to procedure for
+6 sentencing and imposition of punishment, so as to provide for sentencing of defendants who
+7 utilize artificial intelligence in the commission of certain offenses; to provide for notice and
+8 enhanced sentencing; to amend Titles 20 and 32 of the Official Code of Georgia Annotated,
+9 relating to education and highways, bridges, and ferries, respectively, so as to replace
+10 cross-references to Code Section 16-12-80 with Code Section 16-12-80.1; to provide for
+11 definitions; to provide for a short title; to provide for related matters; to provide for an
+12 effective date and applicability; to repeal conflicting laws; and for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+14 SECTION 1.
+15 This Act shall be known and may be cited as the "Ensuring Accountability for Illegal AI
+16 Activities Act."
+H. B. 171 (SUB)
+- 1 -
+25 LC 48 1512S
+17 SECTION 2.
+18 Part 1 of Article 3 of Chapter 12 of Title 16 of the Official Code of Georgia Annotated,
+19 relating to general provisions relative to obscenity and related offenses, is amended by
+20 adding a new Code section to read as follows:
+21 "16-12-80.1.
+22 (a) As used in this Code section, the term:
+23 (1) 'Artificial intelligence system' shall have the same meaning as set forth in Code
+24 Section 17-10-22.
+25 (2) 'Child' means any individual under the age of 16 years.
+26 (3) 'Obscene' means material which meets the following requirements:
+27 (A) To an average person, applying contemporary community standards, taken as a
+28 whole, it predominantly appeals to the prurient interest, that is, a shameful or morbid
+29 interest in nudity, sex, or excretion;
+30 (B) The material taken as a whole lacks serious literary, artistic, political, or scientific
+31 value; and
+32 (C) The material depicts or describes, in a patently offensive way, sexually explicit
+33 conduct.
+34 (4) 'Sexually explicit conduct' shall have the same meaning as set forth in Code
+35 Section 16-12-100.
+36 (b) A person commits the offense of distribution of computer generated obscene material
+37 depicting a child when such person knowingly distributes, solicits, or possesses with intent
+38 to distribute a visual depiction of any kind, including an electronic image, electronic video,
+39 drawing, sculpture, or painting, that:
+40 (1) Depicts an image that appears to be of a child, and that would appear realistic to an
+41 average observer, engaging in sexually explicit conduct, whether alone or between
+42 persons of the same or opposite sex;
+43 (2) Is obscene; and
+H. B. 171 (SUB)
+- 2 -
+25 LC 48 1512S
+44 (3) Was created through the use of an artificial intelligence system.
+45 (c) A person who commits the offense of distribution of computer generated obscene
+46 material depicting a child shall be guilty of a felony and, upon conviction thereof, shall be
+47 punished by imprisonment for not less than one year nor more than 15 years.
+48 (d) It shall not be a required element of an offense under this Code section that the image
+49 of a child in such depiction is of a currently or previously living individual.
+50 (e) If the sentence imposed under this Code section is probated, in whole or in part, by the
+51 sentencing court, as a condition of such probation, the sentencing court shall have the
+52 discretion to impose any or all of the requirements set forth in subsection (b) of Code
+53 Section 42-8-35.
+54 (f) For purposes of this Code section, a person who, in the course of processing or
+55 producing visual or printed matter either privately or commercially, has reasonable cause
+56 to believe that the visual or printed matter submitted for processing or producing depicts
+57 what appears to be a minor engaged in sexually explicit conduct shall immediately report
+58 such incident, or cause a report to be made, to the National Center for Missing and
+59 Exploited Children, in addition to the Georgia Bureau of Investigation or the law
+60 enforcement agency for the county in which such matter is submitted. Any person
+61 participating in the making of a report or causing a report to be made pursuant to this
+62 subsection or participating in any judicial proceeding or any other proceeding resulting
+63 therefrom shall in so doing be immune from any civil or criminal liability that might
+64 otherwise be incurred or imposed, provided such participation pursuant to this subsection
+65 is made in good faith.
+66 (g) The provisions of subsection (b) of this Code section shall not apply to the activities
+67 of law enforcement and prosecution agencies in the investigation and prosecution of
+68 criminal offenses."
+H. B. 171 (SUB)
+- 3 -
+25 LC 48 1512S
+69 SECTION 3.
+70 Article 1 of Chapter 10 of Title 17 of the Official Code of Georgia Annotated, relating to
+71 procedure for sentencing and imposition of punishment, is amended by adding a new Code
+72 section to read as follows:
+73 "17-10-22.
+74 (a) As used in this Code section, the term:
+75 (1) 'Artificial intelligence system' means an engineered or machine based system that
+76 emulates the capability of a person to receive audio, visual, text, or any other form of
+77 information and use such information to emulate a human cognitive process, including,
+78 but not limited to, learning, generalizing, reasoning, planning, predicting, acting, or
+79 communicating; provided, however, that artificial intelligence systems may vary in the
+80 forms of information they can receive and in the human cognitive processes they can
+81 emulate.
+82 (2) 'Designated offense' means:
+83 (A) Stalking in violation of Code Section 16-5-90;
+84 (B) Aggravated stalking in violation of Code Section 16-5-91;
+85 (C) Exploitation of a disabled adult, elder person, or resident in violation of Code
+86 Section 16-5-102;
+87 (D) Enticing a child for indecent purposes in violation of Code Section 16-6-5;
+88 (E) Any misdemeanor or felony offense provided for in Article 1 of Chapter 8 of
+89 Title 16;
+90 (F) Any misdemeanor or felony offense provided for in Article 3 of Chapter 8 of
+91 Title 16;
+92 (G) Any misdemeanor or felony offense provided for in Article 5 of Chapter 8 of
+93 Title 16;
+94 (H) Any misdemeanor or felony offense provided for in Chapter 9 of Title 16;
+95 (I) Any misdemeanor or felony offense provided for in Chapter 10 of Title 16;
+H. B. 171 (SUB)
+- 4 -
+25 LC 48 1512S
+96 (J) Any misdemeanor or felony offense provided for in Chapter 11 of Title 16;
+97 (K) Any misdemeanor or felony offense provided for in Chapter 12 of Title 16; and
+98 (L) Fraudulent election interference in violation of Code Section 21-2-604.
+99 (3) 'Utilized an artificial intelligence system' means to be the proximate cause of an
+100 artificial intelligence system receiving an input or providing an output.
+101 (b) Subject to the notice requirement provided in subsection (c) of this Code section and
+102 in enhancement of the penalty imposed, if the trier of fact determines beyond a reasonable
+103 doubt that the defendant knowingly and intentionally utilized an artificial intelligence
+104 system in the commission of a designated offense, the judge imposing sentence shall:
+105 (1) If the designated offense for which the defendant was convicted is a misdemeanor,
+106 impose a sentence of confinement for a period of not less than six nor more than 12
+107 months and a fine not to exceed $5,000.00; or
+108 (2) If the designated offense for which the defendant was convicted is a felony, impose
+109 a sentence of imprisonment for a period of not less than two years and a fine not less than
+110 $5,000.00; provided, however, that, if such designated offense is subject to a minimum
+111 sentence of imprisonment for two years or more, the judge shall impose a sentence of
+112 imprisonment for not less than such minimum sentence plus one year and a fine of not
+113 less than $5,000.00.
+114 (c) At any time after the filing of an indictment or accusation, but not later than the
+115 arraignment, the state shall notify the defendant of its intention to seek the enhanced
+116 penalty or penalties authorized by subsection (b) of this Code section. Such notice shall
+117 be in writing and shall allege the specific factor or factors authorizing an enhanced
+118 sentence in the case pursuant to this Code section.
+119 (d) The judge shall state when he or she imposes the sentence the amount of the
+120 enhancement of the sentence based on the application of subsection (b) of this Code
+121 section."
+H. B. 171 (SUB)
+- 5 -
+25 LC 48 1512S
+122 SECTION 4.
+123 Titles 20 and 32 of the Official Code of Georgia Annotated, relating to education and
+124 highways, bridges, and ferries, respectively, are amended by replacing "16-12-80"
+125 with "16-12-80.1" wherever the former term appears in:
+126 (1) Code Section 20-2-324, relating to internet acceptable-use policies required in all
+127 public schools, minimum policy requirements, policy enforcement, technology protection
+128 measures required, policy compliance review, approval, and enforcement by State Board
+129 of Education, and waivers prohibited;
+130 (2) Code Section 20-5-5, relating to internet safety policies in public libraries;
+131 (3) Code Section 32-6-75, relating to restrictions on outdoor advertising authorized by
+132 Code Sections 32-6-72 and 32-6-73 and multiple message signs on interstate system,
+133 primary highways, and other highways; and
+134 (4) Code Section 32-6-75.3, relating to permits for trimming or removal of trees or
+135 vegetation in state right of way which obstruct view of outdoor advertising and removal
+136 of signs with lapsed permits.
+137 SECTION 5.
+138 This Act shall become effective on July 1, 2025, and shall apply to all offenses committed
+139 on or after such date.
+140 SECTION 6.
+141 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 171 (SUB)
+- 6 -
+[DELETED: 5LTApaCsuer t e a h b a f r s a t r0c1d2e3B4S5T6A]
+[DELETED: 5L7S8P9r0a112(3(4S5(6(7(8w9i0(1v2(3c4(  ' e c s h t s m a s f i C5S6(7d8t9d0(1a o e i s e c w a o b2p3(]
+[DELETED: 5L4(5(6m7p8(9o0(1s2d3S4(5p6t7w8s i o c a r t b m t t N C f M a9E C i a t t G B o I o t l0e a f t c i w s m i s  A p1p2s3t4o5i6(7o a p8c]
+[DELETED: 5L9S0A1p2s314(5(6e7i8b9c0f1e2(3(4(5(6S7(8(9T0(1T2(3T4(5(]
+[DELETED: 5L6(7(8(9(0a1(2i3d4s5(6i7m8(9a0$1s2i3l4(5a6p7b i w a s a t s f o f a a e8s9(  T j s s w h o s i t s t a o t0e1s]
+[DELETED: 5L2S3T4h b a f r a a b r "5w6(7p8m9o0(1(2C3p4(5v6o7S8T9o0S1A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 48 1512S
+The House Committee on Judiciary, Non-Civil offers the following substitute to HB 171:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 1 of Article 3 of Chapter 12 of Title 16 of the Official Code of Georgia
+2 Annotated, relating to general provisions relative to obscenity and related offenses, so as to
+3 prohibit distribution of computer generated obscene material depicting a child; to provide for
+4 a standard for obscenity; to provide for a penalty and probation; to amend Article 1 of
+5 Chapter 10 of Title 17 of the Official Code of Georgia Annotated, relating to procedure for
+6 sentencing and imposition of punishment, so as to provide for sentencing of defendants who
+7 utilize artificial intelligence in the commission of certain offenses; to provide for notice and
+8 enhanced sentencing; to amend Titles 20 and 32 of the Official Code of Georgia Annotated,
+9 relating to education and highways, bridges, and ferries, respectively, so as to replace
+10 cross-references to Code Section 16-12-80 with Code Section 16-12-80.1; to provide for
+11 definitions; to provide for a short title; to provide for related matters; to provide for an
+12 effective date and applicability; to repeal conflicting laws; and for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+14 SECTION 1.
+15 This Act shall be known and may be cited as the "Ensuring Accountability for Illegal AI
+16 Activities Act."
+H. B. 171 (SUB)
+- 1 -
+
+25 LC 48 1512S
+17 SECTION 2.
+18 Part 1 of Article 3 of Chapter 12 of Title 16 of the Official Code of Georgia Annotated,
+19 relating to general provisions relative to obscenity and related offenses, is amended by
+20 adding a new Code section to read as follows:
+21 "16-12-80.1.
+22 (a) As used in this Code section, the term:
+23 (1) 'Artificial intelligence system' shall have the same meaning as set forth in Code
+24 Section 17-10-22.
+25 (2) 'Child' means any individual under the age of 16 years.
+26 (3) 'Obscene' means material which meets the following requirements:
+27 (A) To an average person, applying contemporary community standards, taken as a
+28 whole, it predominantly appeals to the prurient interest, that is, a shameful or morbid
+29 interest in nudity, sex, or excretion;
+30 (B) The material taken as a whole lacks serious literary, artistic, political, or scientific
+31 value; and
+32 (C) The material depicts or describes, in a patently offensive way, sexually explicit
+33 conduct.
+34 (4) 'Sexually explicit conduct' shall have the same meaning as set forth in Code
+35 Section 16-12-100.
+36 (b) A person commits the offense of distribution of computer generated obscene material
+37 depicting a child when such person knowingly distributes, solicits, or possesses with intent
+38 to distribute a visual depiction of any kind, including an electronic image, electronic video,
+39 drawing, sculpture, or painting, that:
+40 (1) Depicts an image that appears to be of a child, and that would appear realistic to an
+41 average observer, engaging in sexually explicit conduct, whether alone or between
+42 persons of the same or opposite sex;
+43 (2) Is obscene; and
+H. B. 171 (SUB)
+- 2 -
+
+25 LC 48 1512S
+44 (3) Was created through the use of an artificial intelligence system.
+45 (c) A person who commits the offense of distribution of computer generated obscene
+46 material depicting a child shall be guilty of a felony and, upon conviction thereof, shall be
+47 punished by imprisonment for not less than one year nor more than 15 years.
+48 (d) It shall not be a required element of an offense under this Code section that the image
+49 of a child in such depiction is of a currently or previously living individual.
+50 (e) If the sentence imposed under this Code section is probated, in whole or in part, by the
+51 sentencing court, as a condition of such probation, the sentencing court shall have the
+52 discretion to impose any or all of the requirements set forth in subsection (b) of Code
+53 Section 42-8-35.
+54 (f) For purposes of this Code section, a person who, in the course of processing or
+55 producing visual or printed matter either privately or commercially, has reasonable cause
+56 to believe that the visual or printed matter submitted for processing or producing depicts
+57 what appears to be a minor engaged in sexually explicit conduct shall immediately report
+58 such incident, or cause a report to be made, to the National Center for Missing and
+59 Exploited Children, in addition to the Georgia Bureau of Investigation or the law
+60 enforcement agency for the county in which such matter is submitted. Any person
+61 participating in the making of a report or causing a report to be made pursuant to this
+62 subsection or participating in any judicial proceeding or any other proceeding resulting
+63 therefrom shall in so doing be immune from any civil or criminal liability that might
+64 otherwise be incurred or imposed, provided such participation pursuant to this subsection
+65 is made in good faith.
+66 (g) The provisions of subsection (b) of this Code section shall not apply to the activities
+67 of law enforcement and prosecution agencies in the investigation and prosecution of
+68 criminal offenses."
+H. B. 171 (SUB)
+- 3 -
+
+25 LC 48 1512S
+69 SECTION 3.
+70 Article 1 of Chapter 10 of Title 17 of the Official Code of Georgia Annotated, relating to
+71 procedure for sentencing and imposition of punishment, is amended by adding a new Code
+72 section to read as follows:
+73 "17-10-22.
+74 (a) As used in this Code section, the term:
+75 (1) 'Artificial intelligence system' means an engineered or machine based system that
+76 emulates the capability of a person to receive audio, visual, text, or any other form of
+77 information and use such information to emulate a human cognitive process, including,
+78 but not limited to, learning, generalizing, reasoning, planning, predicting, acting, or
+79 communicating; provided, however, that artificial intelligence systems may vary in the
+80 forms of information they can receive and in the human cognitive processes they can
+81 emulate.
+82 (2) 'Designated offense' means:
+83 (A) Stalking in violation of Code Section 16-5-90;
+84 (B) Aggravated stalking in violation of Code Section 16-5-91;
+85 (C) Exploitation of a disabled adult, elder person, or resident in violation of Code
+86 Section 16-5-102;
+87 (D) Enticing a child for indecent purposes in violation of Code Section 16-6-5;
+88 (E) Any misdemeanor or felony offense provided for in Article 1 of Chapter 8 of
+89 Title 16;
+90 (F) Any misdemeanor or felony offense provided for in Article 3 of Chapter 8 of
+91 Title 16;
+92 (G) Any misdemeanor or felony offense provided for in Article 5 of Chapter 8 of
+93 Title 16;
+94 (H) Any misdemeanor or felony offense provided for in Chapter 9 of Title 16;
+95 (I) Any misdemeanor or felony offense provided for in Chapter 10 of Title 16;
+H. B. 171 (SUB)
+- 4 -
+
+25 LC 48 1512S
+96 (J) Any misdemeanor or felony offense provided for in Chapter 11 of Title 16;
+97 (K) Any misdemeanor or felony offense provided for in Chapter 12 of Title 16; and
+98 (L) Fraudulent election interference in violation of Code Section 21-2-604.
+99 (3) 'Utilized an artificial intelligence system' means to be the proximate cause of an
+100 artificial intelligence system receiving an input or providing an output.
+101 (b) Subject to the notice requirement provided in subsection (c) of this Code section and
+102 in enhancement of the penalty imposed, if the trier of fact determines beyond a reasonable
+103 doubt that the defendant knowingly and intentionally utilized an artificial intelligence
+104 system in the commission of a designated offense, the judge imposing sentence shall:
+105 (1) If the designated offense for which the defendant was convicted is a misdemeanor,
+106 impose a sentence of confinement for a period of not less than six nor more than 12
+107 months and a fine not to exceed $5,000.00; or
+108 (2) If the designated offense for which the defendant was convicted is a felony, impose
+109 a sentence of imprisonment for a period of not less than two years and a fine not less than
+110 $5,000.00; provided, however, that, if such designated offense is subject to a minimum
+111 sentence of imprisonment for two years or more, the judge shall impose a sentence of
+112 imprisonment for not less than such minimum sentence plus one year and a fine of not
+113 less than $5,000.00.
+114 (c) At any time after the filing of an indictment or accusation, but not later than the
+115 arraignment, the state shall notify the defendant of its intention to seek the enhanced
+116 penalty or penalties authorized by subsection (b) of this Code section. Such notice shall
+117 be in writing and shall allege the specific factor or factors authorizing an enhanced
+118 sentence in the case pursuant to this Code section.
+119 (d) The judge shall state when he or she imposes the sentence the amount of the
+120 enhancement of the sentence based on the application of subsection (b) of this Code
+121 section."
+H. B. 171 (SUB)
+- 5 -
+
+25 LC 48 1512S
+122 SECTION 4.
+123 Titles 20 and 32 of the Official Code of Georgia Annotated, relating to education and
+124 highways, bridges, and ferries, respectively, are amended by replacing "16-12-80"
+125 with "16-12-80.1" wherever the former term appears in:
+126 (1) Code Section 20-2-324, relating to internet acceptable-use policies required in all
+127 public schools, minimum policy requirements, policy enforcement, technology protection
+128 measures required, policy compliance review, approval, and enforcement by State Board
+129 of Education, and waivers prohibited;
+130 (2) Code Section 20-5-5, relating to internet safety policies in public libraries;
+131 (3) Code Section 32-6-75, relating to restrictions on outdoor advertising authorized by
+132 Code Sections 32-6-72 and 32-6-73 and multiple message signs on interstate system,
+133 primary highways, and other highways; and
+134 (4) Code Section 32-6-75.3, relating to permits for trimming or removal of trees or
+135 vegetation in state right of way which obstruct view of outdoor advertising and removal
+136 of signs with lapsed permits.
+137 SECTION 5.
+138 This Act shall become effective on July 1, 2025, and shall apply to all offenses committed
+139 on or after such date.
+140 SECTION 6.
+141 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 171 (SUB)
+- 6 -
+
+[DELETED: 5LTApaCsuer t e a h b a f r s a t r0c1d2e3B4S5T6A]
+[DELETED: 5L7S8P9r0a112(3(4S5(6(7(8w9i0(1v2(3c4(  ' e c s h t s m a s f i C5S6(7d8t9d0(1a o e i s e c w a o b2p3(]
+[DELETED: 5L4(5(6m7p8(9o0(1s2d3S4(5p6t7w8s i o c a r t b m t t N C f M a9E C i a t t G B o I o t l0e a f t c i w s m i s  A p1p2s3t4o5i6(7o a p8c]
+[DELETED: 5L9S0A1p2s314(5(6e7i8b9c0f1e2(3(4(5(6S7(8(9T0(1T2(3T4(5(]
+[DELETED: 5L6(7(8(9(0a1(2i3d4s5(6i7m8(9a0$1s2i3l4(5a6p7b i w a s a t s f o f a a e8s9(  T j s s w h o s i t s t a o t0e1s]
+[DELETED: 5L2S3T4h b a f r a a b r "5w6(7p8m9o0(1(2C3p4(5v6o7S8T9o0S1A]

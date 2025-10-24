@@ -1,0 +1,2767 @@
+Title: The House Committee on Higher Education offers the following substitute to HB 686:
+Official Title: The House Committee on Higher Education offers the following substitute to HB 686:
+Number of Sections: 1
+Source: versions - LC 55 0586S/hs
+Media Type: application/pdf
+Strikethrough Detection: 47 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0586S
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 50 of the Official Code of Georgia Annotated, relating to state government,
+2 so as to authorize and provide for the regulation and taxation of sports betting in this state;
+3 to provide for additional powers and duties of the Georgia Lottery Corporation; to provide
+4 for the corporation to engage in certain activities related to sports betting; to provide for a
+5 short title; to provide for legislative findings; to provide for definitions; to provide for the
+6 corporation's powers and duties relative to sports betting; to provide for the procedures,
+7 limitations, requirements, and qualifications of the licensing of any person offering,
+8 operating, or managing sports betting in this state; to provide for rules and regulations
+9 promulgated by the corporation; to provide for a privilege tax; to establish the Georgia Sports
+10 Betting Proceeds Trust Fund; to require certain reports; to regulate wagers and provide
+11 requirements for bettors; to provide for violations; to provide for penalties and fines; to
+12 provide for bettors to restrict themselves from placing certain wagers; to provide certain
+13 resources and safeguards for individuals with problem gambling or a betting or gambling
+14 disorder; to provide for the use of official league data; to prohibit certain conduct by the
+15 corporation, employees of the corporation, licensees, and other persons; to provide for certain
+16 penalties; to provide for the collection and disposition of fees and fines; to provide for
+17 construction; to amend Part 1 of Article 2 of Chapter 12 of Title 16 of the Official Code of
+18 Georgia Annotated, relating to gambling, so as to exclude from the definition of "bet" any
+H. B. 686 (SUB)
+- 1 -
+25 LC 55 0586S
+19 consideration paid to a sports betting licensee; to provide for the exemption of persons
+20 lawfully engaged in online sports betting from regulations and restrictions regarding
+21 gambling information; to amend Title 48 of the Official Code of Georgia Annotated, relating
+22 to revenue and taxation, so as to exempt wagers placed as part of sports betting; to provide
+23 for related matters; to provide for a contingent effective date and automatic repeal; to repeal
+24 conflicting laws; and for other purposes.
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+26 PART I
+27 SECTION 1-1.
+28 Title 50 of the Official Code of Georgia Annotated, relating to state government, is amended
+29 in Code Section 50-27-9, relating to general powers of the Georgia Lottery Corporation, by
+30 revising paragraphs (18) and (19) of subsection (a) and adding a new paragraph to read as
+31 follows:
+32 "(18) To act as a retailer, to conduct promotions which involve the dispensing of lottery
+33 tickets or shares, and to establish and operate a sales facility to sell lottery tickets or
+34 shares and any related merchandise; and
+35 (19) To perform any actions and carry out any responsibilities provided for in Article 4
+36 of this chapter; and
+37 (19)(20) To adopt and amend such regulations, policies, and procedures as necessary to
+38 carry out and implement its powers and duties, organize and operate the corporation,
+39 regulate the conduct of lottery games in general, and any other matters necessary or
+40 desirable for the efficient and effective operation of the lottery or the convenience of the
+41 public. The promulgation of any such regulations, policies, and procedures pursuant to
+42 this article and Article 2 of this chapter shall be exempt from the requirements of
+H. B. 686 (SUB)
+- 2 -
+25 LC 55 0586S
+43 Chapter 13 of this title, the 'Georgia Administrative Procedure Act.' Notwithstanding any
+44 other provision of law to the contrary, hearings related to any dispute between licensees
+45 under Code Section 50-27-102 shall be held in accordance with the provisions of Part 1
+46 of Article 1 of Chapter 9 of Title 9, the 'Georgia Arbitration Code.' All other hearings
+47 and any rules, regulations, policies, or procedures related to the administration,
+48 enforcement, or violation of this article shall be subject to the provisions of Chapter 13
+49 of this title."
+50 PART II
+51 SECTION 2-1.
+52 Said title is further amended by adding a new article to Chapter 27, relating to the "Georgia
+53 Lottery for Education Act," to read as follows:
+54 "ARTICLE 4
+55 Part 1
+56 50-27-120.
+57 This article shall be known and may be cited as the 'Georgia Sports Betting Act.'
+58 50-27-121.
+59 The General Assembly finds that:
+60 (1) Sports betting shall be overseen and regulated, and may also be offered, by the
+61 Georgia Lottery Corporation in a manner that provides continuing entertainment to the
+62 public, maximizes revenues, protects consumers, and ensures that sports betting is
+63 operated in this state with integrity and dignity and free of political influence;
+H. B. 686 (SUB)
+- 3 -
+25 LC 55 0586S
+64 (2) The corporation shall be accountable to the General Assembly and to the public for
+65 the management and oversight of sports betting in this state through a system of audits
+66 and reports;
+67 (3) The ability to offer sports betting in this state under a license issued in accordance
+68 with this article constitutes a taxable privilege and not a right;
+69 (4) Net proceeds of sports betting conducted pursuant to this article shall be used for the
+70 purposes authorized by Article I, Section II, Paragraph VIII of the Constitution of
+71 Georgia; and
+72 (5) In accordance with Code Section 50-27-2, sports betting shall be conducted in a
+73 manner so as to safeguard the fiscal soundness of the state, to enhance public welfare, and
+74 to support the funding authorized by Article I, Section II, Paragraph VIII(c) of the
+75 Constitution of Georgia.
+76 50-27-122.
+77 As used in this article, the term:
+78 (1) 'Adjusted gross income' means the total of all moneys paid to a licensee as wagers
+79 minus federal excise taxes and minus the total amount paid out to winning bettors,
+80 including the cash value of merchandise awarded as winnings.
+81 (2) 'Applicant' means any person that applies for a license under this article.
+82 (3) 'Bettor' means an individual who is:
+83 (A) Physically present in this state when placing a wager with a licensee;
+84 (B) Twenty-one years of age or older; and
+85 (C) Not prohibited from placing a wager or bet under Code Section 50-27-162.
+86 (4) 'Bond' means a bond held in escrow for the purpose of maintaining adequate reserves
+87 to account for losses suffered by a licensee and owed to bettors.
+88 (5) 'Cheating' means improving the chances of winning or altering the outcome through
+89 deception, interference, or manipulation of a sporting event or of any equipment,
+H. B. 686 (SUB)
+- 4 -
+25 LC 55 0586S
+90 including software, pertaining to or used in relation to the equipment used for or in
+91 connection with the sporting event on which wagers are placed or invited. Such term
+92 shall include match fixing and attempts and conspiracy to cheat.
+93 (6) 'Collegiate sporting event' means a sporting or athletic event involving a sports or
+94 athletic team of a public or private institution of higher education.
+95 (7) 'Esports event' means an organized video game competition between players who
+96 play individually or as teams.
+97 (8) 'Fantasy or simulated contest' means a game or event in which one or more players
+98 compete based on winning outcomes that reflect the relative knowledge and skill of the
+99 players and are determined predominately by accumulated statistical results of the
+100 performance of individuals, including, but not limited to, athletes in sporting events.
+101 (9) 'Fixed-odds betting' means bets made at predetermined odds or on the spread where
+102 the return to the bettor is unaffected by any later change in odds or the spread.
+103 (10) 'Futures wager' means a wager made on the occurrence of an event in the future
+104 relating to a sporting event.
+105 (11) 'Institutional investor' means:
+106 (A) A retirement fund administered by a public agency for the exclusive benefit of
+107 federal, state, or local public employees;
+108 (B) An investment company registered under the Investment Company Act of 1940;
+109 (C) A chartered or licensed life insurance company or property and casualty insurance
+110 company;
+111 (D) A banking and other chartered or licensed lending institution;
+112 (E) An investment advisor registered under the Investment Advisers Act of 1940; or
+113 (F) A pension investment board.
+114 (12) 'License' means any of the licenses issued by the corporation under this article.
+115 (13) 'Licensee' means a person that holds a license issued by the corporation under this
+116 article.
+H. B. 686 (SUB)
+- 5 -
+25 LC 55 0586S
+117 (14) 'Master sports betting licensee' means the Georgia Lottery Corporation.
+118 (15) 'Material nonpublic information' means information that has not been disseminated
+119 publicly concerning an athlete, contestant, prospective contestant, or athletic team,
+120 including, without limitation, confidential information related to medical conditions or
+121 treatment, physical or mental health or conditioning, physical therapy or recovery,
+122 discipline, sanctions, academic status, education records, eligibility, playbooks, signals,
+123 schemes, techniques, game plans, practices, strategies, assessments, systems, drills, or
+124 recordings of practices or other athletic activities.
+125 (16) 'Merchandise' means any goods or services provided to bettors free of charge, at a
+126 discounted rate, or in the form of a rebate or credit.
+127 (17) 'Minor' means an individual who is less than 21 years of age.
+128 (18) 'Moneyline wager' means the fixed odds in relation to a dollar amount that a team
+129 or person participating in a sporting event will win outright regardless of the spread.
+130 (19) 'Official event data' means statistics, results, outcomes, and other data related to a
+131 sporting event obtained pursuant to an agreement with the relevant sporting events
+132 operator whose corporate headquarters is based in the United States or an entity expressly
+133 authorized by such sporting events operator to provide such information to licensees for
+134 purposes of determining the outcome of tier 2 sports wagers on such sporting event.
+135 (20) 'Official league data' means statistics, results, outcomes, and other data related to
+136 a sporting event obtained pursuant to an agreement with the relevant professional sports
+137 governing body whose corporate headquarters is based in the United States or an entity
+138 expressly authorized by such professional sports governing body to provide such
+139 information to licensees for purposes of determining the outcome of tier 2 sports wagers.
+140 (21) 'Online sports betting' means a wager on a sporting event that is placed via the
+141 internet through any electronic device and accepted through an online sports betting
+142 platform.
+H. B. 686 (SUB)
+- 6 -
+25 LC 55 0586S
+143 (22) 'Online sports betting platform' means the combination of hardware, software, and
+144 data networks used to manage, administer, or control online sports betting and any
+145 associated wagers accessible by any electronic means.
+146 (23) 'Online sports betting services provider' means a person that contracts with the
+147 master sports betting licensee or a Type 1 sports betting licensee under Code Section
+148 50-27-133 to operate online sports betting on behalf of such licensee and that is licensed
+149 by the corporation.
+150 (24) 'Over/under wager' means a single wager that predicts whether the combined score
+151 of the two persons or teams engaged in a sporting event will be lower or higher than a
+152 predetermined number.
+153 (25) 'Parlay wager' means a single wager that incorporates two or more individual bets
+154 for purposes of earning a higher payout if each bet incorporated within the wager wins.
+155 (26) 'Person' means an individual or entity.
+156 (27) 'Principal owner' means a person that owns an interest of 10 percent or more of the
+157 entity.
+158 (28) 'Professional sporting event' means an athletic or sporting event involving at least
+159 two competitors who have the opportunity to receive compensation for participating in
+160 such event.
+161 (29) 'Professional sports governing body' means the organization, league, or association
+162 whose corporate headquarters is based in the United States that oversees a sport and
+163 prescribes final rules and enforces codes of conduct with respect to such sport and
+164 participants therein.
+165 (30) 'Professional sports team' means a major league professional team:
+166 (A) Based in this state;
+167 (B) That plays baseball, football, men's basketball, soccer, or women's basketball; and
+168 (C) Whose regular season games have had the highest attendance for its respective
+169 professional sport in the state during the past five years.
+H. B. 686 (SUB)
+- 7 -
+25 LC 55 0586S
+170 (31) 'Proposition wager' means a wager on a single specific action, statistic, occurrence,
+171 or nonoccurrence to be determined during a sporting event and includes any such action,
+172 statistic, occurrence, or nonoccurrence that does not directly affect the final outcome of
+173 the professional sporting event to which it relates.
+174 (32) 'Sporting event' means any:
+175 (A) Professional sporting event, including motor sports sanctioned by a national or
+176 international organization or association;
+177 (B) Collegiate sporting event;
+178 (C) Olympic sporting or athletic event;
+179 (D) Sporting or athletic event sanctioned by a national or international organization or
+180 association;
+181 (E) Sporting or athletic event conducted or organized by a sporting events operator;
+182 (F) Esports event; or
+183 (G) Other event authorized by the corporation.
+184 Such term shall not include a nonprofessional, noncollegiate, or non-Olympic sporting
+185 or athletic event if the majority of the participants are under the age of 18 years and shall
+186 not include any Special Olympics sporting or athletic event.
+187 (33) 'Sporting events operator' means a person that conducts or organizes a sporting
+188 event for athletes or other participants that is not held or sanctioned as an official sporting
+189 event of a professional sports governing body.
+190 (34) 'Sports betting' means online sports betting.
+191 (35) 'Sports betting equipment' means any of the following that is directly used in
+192 connection with the operation of sports betting:
+193 (A) Any mechanical, electronic, or other device, mechanism, or equipment;
+194 (B) Any software, application, components, or other goods; or
+195 (C) Anything to be installed or used on a personal electronic device.
+H. B. 686 (SUB)
+- 8 -
+25 LC 55 0586S
+196 (36)(A) 'Sports betting supplier' means a person that provides sports betting equipment
+197 necessary for the creation of sports betting markets and the determination of bet
+198 outcomes, directly to any licensee involved in the acceptance of bets, including any of
+199 the following:
+200 (i) Providers of data feeds and odds services;
+201 (ii) Platform providers;
+202 (iii) Risk management providers:
+203 (iv) Integrity monitoring providers; and
+204 (v) Other providers of sports betting supplier services as determined by the
+205 corporation.
+206 (B) Such term shall not include a professional sports governing body that:
+207 (i) Provides official league data concerning its own sporting event to a sports betting
+208 licensee solely on that basis; or
+209 (ii) Provides raw statistical match data to one or more designated and licensed
+210 suppliers of data feeds and odds services solely on that basis.
+211 (37) 'Spread' means the predicted scoring differential between two persons or teams
+212 engaged in a sporting event.
+213 (38) 'Supervisory employee' means a principal owner or employee having the authority
+214 to act on behalf of a licensee whose judgment is relied upon to manage and advance the
+215 sports betting business operations of a licensee.
+216 (39) 'Tier 1 sports wager' means a sports wager that is determined solely by the final
+217 score or final outcome of the sporting event and is placed before the sporting event has
+218 begun.
+219 (40) 'Tier 2 sports wager' means a wager that is not a tier 1 sports wager.
+220 (41) 'Type 1 eligible entity' means any of the following:
+221 (A) Any professional sports team;
+H. B. 686 (SUB)
+- 9 -
+25 LC 55 0586S
+222 (B) A professional sports governing body that holds one or more sanctioned annual
+223 golf tournaments on a national tour of professional golf in this state, and has held one
+224 or more of the same or different sanctioned annual golf tournaments on a national tour
+225 of professional golf in this state for at least 30 years;
+226 (C) The owner of a facility in this state that has held an annual invitational golf
+227 tournament for professional and amateur golfers for at least 30 years;
+228 (D) The owner of a facility located in this state that hosts automobile races on a
+229 national association for stock car racing national tour or a wholly owned for-profit
+230 subsidiary of the owner of such a facility, if the owner is a nonprofit corporation or
+231 nonprofit organization; and
+232 (E) The Georgia Lottery Corporation.
+233 (42) 'Type 1 sports betting licensee' means the master sports betting licensee, an online
+234 sports betting services provider awarded a Type 1 license via the public procurement
+235 process by the master sports betting licensee, or a Type 1 eligible entity licensed or
+236 authorized by the corporation to directly or indirectly offer online sports betting.
+237 (43) 'Wager' or 'bet' means a sum of money that is risked by a bettor on the unknown
+238 outcome of one or more sporting events or portions of sporting events. Such term shall
+239 include single-game wagers, futures wagers, tier 1 or tier 2 wagers, teaser wagers, parlay
+240 wagers, over/under wagers, moneyline wagers, pools, exchange wagering, in-game
+241 wagering, in-play wagers, proposition wagers, straight wagers, fixed-odds betting, and
+242 any other bet or wager approved by the corporation. Such term shall not include a
+243 pari-mutuel bet or wager or an entry fee paid to participate in a fantasy or simulated
+244 contest.
+H. B. 686 (SUB)
+- 10 -
+25 LC 55 0586S
+245 50-27-123.
+246 (a) The corporation shall have all powers and duties necessary to carry out the provisions
+247 of this article and to exercise the control of sports betting in this state as authorized by this
+248 article. Such powers and duties shall include, but shall not be limited to, the following:
+249 (1) To have jurisdiction, supervision, and regulatory authority over sports betting,
+250 including, but not limited to, regulation, licensure, and offering of sports betting on
+251 mobile applications available state wide via the internet and through a limited number of
+252 licenses to be awarded to Type 1 sports betting licensees;
+253 (2) To appoint and employ such persons as the corporation deems essential to perform
+254 its duties under this article and to ensure that such sports betting is conducted with order
+255 and the highest integrity. Such employees shall possess such authority and perform such
+256 duties as the corporation shall prescribe or delegate to them. Such employees shall be
+257 compensated as provided by the corporation;
+258 (3) To enter upon, investigate, and have free access to all places of business of any
+259 licensee under this article and to compel the production of any books, ledgers, documents,
+260 records, memoranda, or other information of any licensee to ensure such licensee's
+261 compliance with the rules and regulations promulgated by the corporation pursuant to this
+262 article;
+263 (4) To promulgate any rules and regulations as the corporation deems necessary and
+264 proper to administer the provisions of this article; provided, however, that the initial rules
+265 and regulations governing sports betting shall be promulgated, provided for a period of
+266 public comment, and adopted by the corporation within 90 days of the effective date of
+267 this article. Such initial rules and regulations and all other rules and regulations of the
+268 corporation promulgated and adopted pursuant to this article shall not be subject to
+269 Chapter 13 of this title, the 'Georgia Administrative Procedure Act';
+270 (5) To issue subpoenas for the attendance of witnesses before the corporation, administer
+271 oaths, and compel production of records or other documents and testimony of witnesses
+H. B. 686 (SUB)
+- 11 -
+25 LC 55 0586S
+272 whenever, in the judgment of the corporation, it is necessary to do so for the effectual
+273 discharge of the duties of the corporation under this article;
+274 (6) To compel any person licensed by the corporation to file with the corporation such
+275 data, documents, and information as shall appear to the corporation to be necessary for
+276 the performance of the duties of the corporation under this article, including, but not
+277 limited to, financial statements and information relative to stockholders and all others
+278 with a pecuniary interest in such person;
+279 (7) To prescribe the manner in which books and records of persons licensed or permitted
+280 by the corporation under this article shall be kept;
+281 (8) To enter into arrangements with any foreign or domestic government or
+282 governmental agency for the purposes of exchanging information or performing any other
+283 act to better ensure the proper conduct of betting under this article;
+284 (9) To order such audits, in addition to those otherwise required by this article, as the
+285 corporation deems necessary and desirable;
+286 (10) Upon the receipt of a complaint of an alleged criminal violation of this article, to
+287 immediately report such complaint to the appropriate law enforcement agency with
+288 jurisdiction to investigate criminal activity;
+289 (11) To provide for the reporting of the applicable amount of state and federal income
+290 tax of persons claiming a prize or payoff for a winning wager under this article;
+291 (12) To establish and administer programs for providing assistance to individuals with
+292 problem gambling or a betting or gambling disorder, including, but not limited to:
+293 (A) Educating potential gamblers of methods and types of bets and fairly informing
+294 potential gamblers of the odds or likelihood of winning such bets;
+295 (B) Establishing and administering programs for educating potential gamblers about
+296 responsible gambling, the warning signs of problem gambling or betting or gambling
+297 disorders and how to prevent and treat problem gambling or betting or gambling
+298 disorders;
+H. B. 686 (SUB)
+- 12 -
+25 LC 55 0586S
+299 (C) Developing and funding responsible gaming education campaigns coupled with
+300 prevention and education efforts within communities that raise awareness of potential
+301 signs or risk factors of problem gambling or betting or gambling disorders;
+302 (D) Encouraging the use of harm-minimizing measures by bettors, such as excluding
+303 or limiting oneself from obtaining credit extensions, making credit card or cashless
+304 payments, cashing checks, or making automated teller machine withdrawals, as well as
+305 utilizing limit-setting tools and personal data and information to make informed
+306 decisions about gambling;
+307 (E) Promulgating rules and regulations that enable bettors to self-limit with a licensee
+308 and self-exclude from sports betting activities state wide. Any such rules or regulations
+309 related to self-exclusion shall require the individual seeking self-exclusion to provide
+310 identifying information, including, at a minimum, full name, address, date of birth, and
+311 social security number;
+312 (F) Adopting processes for individuals to express concerns related to problem
+313 gambling or betting or gambling disorders to the corporation;
+314 (G) Developing state-wide advertising guidelines to ensure that the marketing of sports
+315 betting is not targeted to minors and does not include content, themes, and promotions
+316 that have special appeal to individuals with problem gambling or a betting or gambling
+317 disorder;
+318 (H) Requiring the electronic posting of signs or notifications on online sports betting
+319 platforms that bear the 1-800-GAMBLER toll-free number, which provides or directs
+320 callers to assistance and resources for individuals with problem gambling or a betting
+321 or gambling disorder; and
+322 (I) Requiring, through the promulgation of rules and regulations, limitations on the
+323 amount of bets a bettor can place when such bettor has exhibited signs of problem
+324 gambling or a betting or gambling disorder. Such rules and regulations shall require
+H. B. 686 (SUB)
+- 13 -
+25 LC 55 0586S
+325 the implementation of systems to monitor betting and provide individuals with
+326 guidance, information, and options when their betting may be problematic;
+327 (13) To keep a true and full record of all proceedings of the corporation under this article
+328 and preserve at the corporation's general office all books, documents, and papers of the
+329 corporation;
+330 (14) To adopt rules and regulations specific to the manner in which a licensee may
+331 advertise its business operations as authorized by this article; and
+332 (15) To comply with Code Section 50-27-14 as it relates to sports betting in order to
+333 encourage participation by minority businesses.
+334 (b) The corporation shall not have the power to prescribe a licensee's maximum or
+335 minimum payout or hold percentage.
+336 50-27-124.
+337 The corporation shall prescribe by rules and regulations:
+338 (1) The reserves that must be kept by licensees to comply with subparagraph (c)(6)(A)
+339 of Code Section 50-27-130 to pay off bettors;
+340 (2) Any insurance requirements for a licensee;
+341 (3) Minimum requirements by which each licensee shall exercise effective control over
+342 its internal fiscal affairs, including, without limitation, requirements for:
+343 (A) Safeguarding assets and revenues, including evidence of indebtedness;
+344 (B) Maintaining reliable records relating to accounts, transactions, profits and losses,
+345 operations, and events; and
+346 (C) Global risk management;
+347 (4) Requirements for internal and independent audits of licensees;
+348 (5) The manner in which periodic financial reports shall be submitted to the corporation
+349 from each licensee, including the financial information to be included in the reports;
+H. B. 686 (SUB)
+- 14 -
+25 LC 55 0586S
+350 (6) The type of information deemed to be confidential financial or proprietary
+351 information that is not subject to any reporting requirements under this article;
+352 (7) Policies, procedures, and processes designed to mitigate the risk of cheating and
+353 money laundering; and
+354 (8) Any post-employment restrictions necessary to maintain the integrity of sports
+355 betting in this state.
+356 Part 2
+357 50-27-130.
+358 (a) Any person offering, operating, or managing sports betting in this state shall be
+359 licensed by the corporation.
+360 (b) The corporation shall issue licenses to qualified applicants able to meet the duties of
+361 a license holder under this article and that the corporation determines will best satisfy the
+362 following criteria:
+363 (1) Expertise in the business of online sports betting;
+364 (2) Integrity, sustainability, and safety of the online sports betting platform;
+365 (3) Past relevant experience of the applicant;
+366 (4) Advertising and promotional plans to increase and sustain revenue;
+367 (5) The amount of adjusted gross income and associated tax revenue that an applicant
+368 is projected to generate;
+369 (6) Demonstrated commitment to and plans for the promotion of responsible gaming;
+370 and
+371 (7) Capacity to increase the number of bettors on the applicant's platform.
+372 (c) An applicant for a license shall submit an application on a form in such manner and in
+373 accordance with such requirements as may be prescribed by the rules and regulations of the
+H. B. 686 (SUB)
+- 15 -
+25 LC 55 0586S
+374 corporation. Such rules and regulations shall require, at a minimum, that the application
+375 include the following:
+376 (1) If the applicant is an entity, identification of the applicant's principal owners, board
+377 of directors, officers, and supervisory employees;
+378 (2) Information, documentation, and assurances as may be required by the corporation
+379 to establish by clear and convincing evidence the applicant's good character, honesty, and
+380 integrity, including, but not limited to, information pertaining to family, habits, character,
+381 reputation, criminal and arrest records, business activities, financial affairs, and business,
+382 professional, and personal associates, covering at least the ten-year period immediately
+383 preceding the filing of the application. No license shall be issued to an applicant, if such
+384 applicant or a principal owner of such applicant, has been convicted of, has been found
+385 guilty of, or has pled guilty to, regardless of adjudication and in any jurisdiction, any
+386 felony or any misdemeanor that is directly related to gambling, dishonesty, theft, or fraud;
+387 (3) Notice and a description of civil judgments obtained against the applicant pertaining
+388 to antitrust or security regulation laws of the federal government, this state, or any other
+389 state, jurisdiction, province, or country;
+390 (4) To the extent available, letters of reference or the equivalent from law enforcement
+391 agencies having jurisdiction of the applicant's place of residence and principal place of
+392 business. Each such letter of reference shall indicate that the law enforcement agency
+393 does not have any pertinent information concerning the applicant or, if such law
+394 enforcement agency does have information pertaining to the applicant, shall provide such
+395 information, to the extent permitted by law;
+396 (5) If the applicant has conducted sports betting operations in another jurisdiction, a
+397 letter of reference from the regulatory body that governs sports betting that specifies the
+398 standing of the applicant with such regulatory body; provided, however, that, if no such
+399 letter is received within 60 days of the request therefor, the applicant may submit a
+H. B. 686 (SUB)
+- 16 -
+25 LC 55 0586S
+400 statement under oath that the applicant is or was, during the period such activities were
+401 conducted, in good standing with the regulatory body;
+402 (6) Information, documentation, and assurances concerning financial background and
+403 resources as may be required to establish by clear and convincing evidence the financial
+404 stability, integrity, and responsibility of the applicant, including, but not limited to, bank
+405 references, business and personal income and disbursement schedules, tax returns and
+406 other reports filed with governmental agencies, and business and personal accounting and
+407 check records and ledgers. Each applicant shall, in writing, authorize the examination of
+408 all bank accounts and records as may be deemed necessary by the corporation. The
+409 corporation may consider any relevant evidence of financial stability. In addition, the
+410 applicant shall:
+411 (A) Maintain a reserve of not less than $500,000.00 or the amount required to cover
+412 the outstanding liabilities for wagers accepted by the licensee, whichever is greater.
+413 Outstanding liabilities for wagers shall mean the sum of patron account balances, the
+414 amount paid by patrons for wagers that have not yet been determined, and the amount
+415 owed but unpaid by licensees to patrons for wagers whose results have been
+416 determined. The reserve may take the form of a bond, an irrevocable letter of credit,
+417 payment processor reserves and receivables, cash or cash equivalents segregated from
+418 operational funds, guaranty letter, or a combination thereof. Such reserve shall be
+419 adequate to pay winning wagers to bettors when due. An applicant is presumed to have
+420 met this standard if the applicant maintains, on a daily basis, subject to when banks are
+421 open, a minimum reserve in an amount which is at least equal to the average daily
+422 minimum reserve, calculated on a monthly basis, for the corresponding month in the
+423 previous year;
+424 (B) Meet ongoing operating expenses which are essential to the maintenance of
+425 continuous and stable sports betting operations; and
+426 (C) Pay, as and when due, all state and federal taxes;
+H. B. 686 (SUB)
+- 17 -
+25 LC 55 0586S
+427 (7) Information, documentation, and assurances as may be required to establish by clear
+428 and convincing evidence that the applicant has sufficient business ability and sports
+429 betting experience to establish the likelihood of the creation and maintenance of
+430 successful, efficient sports betting operations in this state;
+431 (8) Information, as required by the rules and regulations of the corporation, regarding the
+432 financial standing of the applicant;
+433 (9) A nonrefundable application fee and annual licensing fee as follows:
+434 (A) Applicants for a Type 1 sports betting license shall pay a nonrefundable
+435 application fee in the amount of $100,000.00 and an annual licensing fee in the amount
+436 of $1 million;
+437 (B) Applicants for an online sports betting services provider license shall pay a
+438 nonrefundable application fee in the amount of $10,000.00 and an annual licensing fee
+439 of $100,000.00; provided, however, that an online sports betting services provider that
+440 applies for and obtains a Type 1 sports betting license pursuant to paragraph (3) of
+441 subsection (b) of Code Section 50-27-133 shall only be required to pay the
+442 nonrefundable application fee and annual licensing fee applicable to the applicant's
+443 Type 1 sports betting license; and
+444 (C) Applicants for a sports betting supplier license shall pay a nonrefundable
+445 application fee in the amount of $2,000.00 and an annual licensing fee of $20,000.00;
+446 and
+447 (10) Any additional information, documents, or assurances required by the rules and
+448 regulations of the corporation.
+449 (d) The corporation shall review and approve or deny an application for a license not more
+450 than 90 days after receipt of an application.
+H. B. 686 (SUB)
+- 18 -
+25 LC 55 0586S
+451 50-27-131.
+452 (a) A licensee may renew its license by submitting an application on a form in such
+453 manner and in accordance with such requirements as may be prescribed by the rules and
+454 regulations of the corporation. A licensee shall submit the nonrefundable application fee
+455 prescribed under paragraph (9) of subsection (c) of Code Section 50-27-130 with its
+456 application for license renewal.
+457 (b) For each application for licensure or renewal of a license approved under this Code
+458 section, the amount of the application fee shall be credited toward the licensee's annual
+459 licensing fee and the licensee shall remit the balance of the annual license fee to the
+460 corporation upon approval of a license.
+461 (c) Each licensee shall have a continuing duty to promptly inform the corporation of any
+462 change in status relating to any information that may disqualify the licensee from holding
+463 a license under Code Section 50-27-132.
+464 (d) A professional sports governing body and a Type 1 eligible entity may enter into
+465 commercial agreements with an online sports betting services provider or other entities that
+466 provide for such professional sports governing body and Type 1 eligible entity to share in
+467 the amounts wagered or revenue derived from wagers on the sporting events of such
+468 professional sports governing body and Type 1 eligible entity. A professional sports
+469 governing body and a Type 1 eligible entity shall not be required to obtain any approval
+470 or other form of authorization from the corporation to enter into such commercial
+471 agreements or to lawfully accept such amounts or revenues. The corporation shall not
+472 prescribe any terms or conditions that are required to be included in such commercial
+473 agreements.
+474 (e) A person that holds a license or permit to engage in sports betting issued by another
+475 jurisdiction, either directly or through a parent company or affiliated subsidiary, may
+476 submit a request to the corporation for a temporary license for such person to immediately
+477 commence engagement in this state in sports betting. Such request shall include the
+H. B. 686 (SUB)
+- 19 -
+25 LC 55 0586S
+478 application fee and annual licensing fee required under paragraph (9) of subsection (c) of
+479 Code Section 50-27-130.
+480 (f) Upon receiving a request for a temporary license, the chief executive officer shall
+481 review the request. If the chief executive officer reviews the request and determines that
+482 the person requesting the temporary license holds a license or permit issued by another
+483 jurisdiction to engage in sports betting and has paid the required application fee and annual
+484 licensing fee, the chief executive officer may authorize such person to engage in sports
+485 betting pursuant to this article under a temporary license for up to one year or until a final
+486 determination on such person's application is made, whichever is later.
+487 (g) All licenses issued under this article shall be valid for a term of five years, unless
+488 suspended or revoked as provided under this article.
+489 (h) The corporation may adopt rules and regulations prescribing the manner in which a
+490 license may be transferred and a fee for a license transfer.
+491 (i) A licensee may maintain the bond, letter of credit, or cash reserve at any bank lawfully
+492 operating in this state and the licensee shall be the beneficiary of any interest accrued
+493 thereon.
+494 50-27-132.
+495 (a) The following persons shall not be eligible to apply for or obtain a license under this
+496 article:
+497 (1) A member of the board of directors or employee of the corporation or an employee
+498 of a corporation vendor; provided, however, that a corporation vendor as an entity may
+499 be eligible to apply for or obtain a license;
+500 (2) An employee of a professional sports team on which the applicant offers sports
+501 betting;
+H. B. 686 (SUB)
+- 20 -
+25 LC 55 0586S
+502 (3) A coach of or player for a collegiate, professional, or Olympic sports team or sport
+503 for which the applicant offers sports betting, or an entity that has an affiliation or interest
+504 in such a sports team or sport;
+505 (4) An individual who is a member or employee of any professional sports governing
+506 body or sporting events operator for which the applicant offers sports betting;
+507 (5) An individual or entity with an owner, officer, or director who has been convicted of
+508 a crime of moral turpitude or similar degree as specified in rules and regulations
+509 promulgated by the corporation pursuant to this article;
+510 (6) A person having the ability to directly affect the outcome of a sporting event upon
+511 which the applicant offers sports betting;
+512 (7) A trustee or regent of a governing board of a public or private institution of higher
+513 education;
+514 (8) An individual prohibited by the rules or regulations of a professional sports
+515 governing body or sporting events operator of a collegiate sports team, league, or
+516 association from participating in sports betting;
+517 (9) A student or an employee of a public or private institution of higher education who
+518 has access to material nonpublic information concerning a student athlete or a sports
+519 team, unless such access to information is deemed incidental; and
+520 (10) Any other category of persons, established by the rules and regulations of the
+521 corporation, that, if licensed, would negatively affect the integrity of sports betting in this
+522 state.
+523 (b) An individual listed in paragraphs (2) through (10) of subsection (a) of this Code
+524 section may hold an ownership interest in an applicant or licensee without disqualifying
+525 the applicant or licensee from obtaining or holding a license; provided, however, that such
+526 an ownership interest of 25 percent or more shall require approval from the corporation.
+527 In determining whether such an ownership interest shall be the basis of disqualification, the
+H. B. 686 (SUB)
+- 21 -
+25 LC 55 0586S
+528 corporation shall consider whether such interest would negatively affect the integrity of
+529 sports betting in this state and any other factors the corporation shall deem relevant.
+530 50-27-133.
+531 (a) A Type 1 sports betting license authorizes the licensee, or its designated online sports
+532 betting services provider, to offer online sports betting. If a Type 1 eligible entity
+533 designates an online sports betting services provider, the designated online sports betting
+534 services provider shall instead fulfill the application and operational requirements for sports
+535 betting offered pursuant to this article. The corporation shall establish a procedure for a
+536 Type 1 eligible entity to designate an online sports betting provider.
+537 (b) The corporation shall issue not more than 16 Type 1 sports betting licenses as follows:
+538 (1) Five Type 1 sports betting licenses shall be reserved for the Type 1 eligible entities
+539 defined in subparagraph (A) of paragraph (41) of Code Section 50-27-122; provided,
+540 however, that more than one license may be issued to an owner of multiple professional
+541 sports teams;
+542 (2) One Type 1 sports betting license shall be reserved for each of the Type 1 eligible
+543 entities defined in subparagraphs (B) through (E) of paragraph (41) of Code Section
+544 50-27-122; and
+545 (3) The corporation shall award the remaining seven Type 1 sports betting licenses to
+546 separate online sports betting services providers via a public procurement process.
+547 (c) The master sports betting licensee shall be deemed a Type 1 licensee and shall not be
+548 required to apply for a license; provided, however, that an online sports betting services
+549 provider engaged by the master sports betting licensee shall be required to apply for an
+550 online sports betting services provider license to operate online sports betting on behalf of
+551 the master sports betting licensee. Any proceeds derived from the master sports betting
+552 licensee from its activities as a Type 1 sports betting licensee shall be used in the same
+H. B. 686 (SUB)
+- 22 -
+25 LC 55 0586S
+553 manner as and subject to the same requirements of lottery proceeds under Article 1 of this
+554 chapter.
+555 (d) A Type 1 eligible entity may contract with no more than one online sports betting
+556 services provider to operate online sports betting on behalf of the Type 1 eligible entity.
+557 (e) A Type 1 eligible entity shall provide written notice to the corporation of its intention
+558 to apply for a Type 1 sports betting license within 60 days of the effective date of this
+559 article. The failure of a Type 1 eligible entity to provide such written notice shall result in
+560 the permanent disqualification and prohibition of such Type 1 eligible entity from
+561 obtaining a Type 1 sports betting license.
+562 (f) A Type 1 sports betting licensee shall not offer online sports betting until the
+563 corporation has issued a Type 1 sports betting license to at least one online sports betting
+564 services provider via the public procurement process as determined by the corporation.
+565 (g) The corporation shall begin to accept applications for all 16 Type 1 sports betting
+566 licenses under subsection (b) of this Code section on the same date.
+567 (h) All applicants for the 16 Type 1 sports betting licenses under subsection (b) of this
+568 Code section that have submitted an application within 30 days of the date in which the
+569 corporation began to accept applications for Type 1 sports betting licenses shall be given
+570 an equal opportunity to first commence offering, conducting, or operating online sports
+571 betting in this state on the same day, and in any event not later than July 31, 2027.
+572 (i) A Type 1 eligible entity described in subparagraphs (A) through (D) of paragraph (41)
+573 of Code Section 50-27-122 that becomes a Type 1 sports betting licensee or designates an
+574 online sports betting services provider shall establish and maintain procedures with respect
+575 to sporting events which the Type 1 eligible entity participates in or administers to ensure
+576 avoidance of conflicts of interest in the operation of sports betting in this state.
+H. B. 686 (SUB)
+- 23 -
+25 LC 55 0586S
+577 50-27-134.
+578 (a) An online sports betting services provider shall offer online sports betting only in
+579 accordance with the provisions of this article and the rules and regulations adopted by the
+580 corporation under this article.
+581 (b) An online sports betting services provider shall obtain a license under this article
+582 before offering online sports betting pursuant to a contract with a Type 1 sports betting
+583 licensee or master sports betting licensee. An online sports betting services provider
+584 license shall entitle the holder to contract with no more than one Type 1 sports betting
+585 licensee.
+586 (c) If the holder of a Type 1 sports betting license is a Type 1 eligible entity and is a
+587 member of a league, association, or organization that prevents the holder from being
+588 subject to the regulatory control of the corporation or from otherwise operating under the
+589 license, such a Type 1 eligible entity may contractually appoint an online sports betting
+590 services provider for all aspects of corporation oversight and operations under the Type 1
+591 sports betting license.
+592 (d) Institutional investors shall be exempt from any and all qualification and disclosure
+593 requirements under this article or required under the rules and regulations promulgated by
+594 the corporation pursuant to this article. Such exemption shall extend to the owners,
+595 directors, and officers of such institutional investors.
+596 50-27-135.
+597 No licensee shall offer or accept any proposition bet on a collegiate sporting event.
+H. B. 686 (SUB)
+- 24 -
+25 LC 55 0586S
+598 Part 3
+599 50-27-150.
+600 (a) Notwithstanding any other law to the contrary, there shall be imposed an annual
+601 privilege tax of 24 percent of the adjusted gross income derived from online sports betting
+602 in accordance with this Code section.
+603 (b) The privilege tax described in subsection (a) of this Code section shall be paid by the
+604 online sports betting services provider; provided, however, that, if a Type 1 sports betting
+605 licensee does not contract with an online sports betting services provider, such privilege
+606 tax shall be paid by such Type 1 sports betting licensee as provided for in subsection (c)
+607 of this Code section. This subsection shall not apply to the master sports betting licensee.
+608 (c) The privilege tax imposed under this Code section shall be paid monthly by the online
+609 sports betting services provider based on its monthly adjusted gross income for the
+610 immediately preceding calendar month. The privilege tax shall be paid to the corporation
+611 in accordance with rules and regulations promulgated by the corporation. If the online
+612 sports betting services provider's adjusted gross income for a month is a negative number,
+613 such online sports betting services provider may carry over such negative amount to
+614 subsequent months.
+615 (d) The state treasurer shall establish a separate trust fund in the state treasury that shall
+616 be known as the Georgia Sports Betting Proceeds Trust Fund. All moneys collected by the
+617 corporation from the privilege tax imposed under this Code section shall be, on the
+618 fifteenth day of each quarter, transferred by the corporation to the Georgia Sports Betting
+619 Proceeds Trust Fund. The state treasurer shall invest the moneys held in such trust fund
+620 in the same manner in which state funds are invested as authorized by the State Depository
+621 Board pursuant to Article 3 of Chapter 17 of Title 50. Interest earned by the moneys held
+622 in the Georgia Sports Betting Proceeds Trust Fund shall be accounted for separately and
+623 shall be credited to such trust fund to be disbursed as other moneys in the trust fund. All
+H. B. 686 (SUB)
+- 25 -
+25 LC 55 0586S
+624 moneys held in the Georgia Sports Betting Proceeds Trust Fund shall be appropriated
+625 annually by the General Assembly for the programs and purposes set forth in Article I,
+626 Section II, Paragraph VIII(e) of the Constitution of Georgia.
+627 (e) With the exception of application fees and annual licensing fees imposed by
+628 paragraph (9) of subsection (c) of Code Section 50-27-130, the privilege tax imposed under
+629 this Code section is in lieu of all other state and local sales and use taxes, income taxes, and
+630 fees imposed on the operation of sports betting or on the proceeds from the operation of
+631 sports betting in this state. This subsection shall not exempt goods and services purchased
+632 by licensees in the ordinary course of business from the imposition of state or local sales
+633 and use taxes that would otherwise apply, nor shall it exempt licensees from the payment
+634 of taxes on real property owned by the licensee.
+635 50-27-151.
+636 All moneys collected by the corporation for fees, fines, and penalties imposed under this
+637 article, including, but not limited to, the application fees and annual licensing fees imposed
+638 by paragraph (9) of subsection (c) of Code Section 50-27-130; any fines imposed under
+639 Code Sections 50-27-160, 50-27-162, and 50-27-193; and any penalties imposed under
+640 Code Section 50-27-194, shall be separately accounted for and used to pay the operating
+641 expenses of the corporation associated with the administration of the provisions of this
+642 article; provided, however, that any such fees, fines, and penalties that are not used to pay
+643 such operating expenses shall, at the end of each fiscal year, be transferred by the
+644 corporation to the Georgia Sports Betting Proceeds Trust Fund less any amounts held by
+645 the corporation as an operating reserve, which such amounts shall not exceed the greater
+646 of $5 million or 10 percent of all moneys collected by the corporation for fees, fines, and
+647 penalties imposed under this article in the most recent fiscal year.
+H. B. 686 (SUB)
+- 26 -
+25 LC 55 0586S
+648 50-27-152.
+649 (a) Each Type 1 licensee or its sports betting services provider shall report to the
+650 corporation, no later than January 15 of each year:
+651 (1) The total amount of wagers received from bettors for the immediately preceding
+652 calendar year;
+653 (2) The adjusted gross income of the licensee for the immediately preceding calendar
+654 year; and
+655 (3) Any additional information required by the rules and regulations of the corporation
+656 deemed in the public interest or necessary to maintain the integrity of sports betting in
+657 this state.
+658 (b) A licensee shall promptly report to the corporation any information relating to:
+659 (1) The name of any newly elected officer or director of the board of the licensed entity;
+660 and
+661 (2) The acquisition by any person of 10 percent or more of any class of corporate stock.
+662 (c) With respect to information reported under subsection (b) of this Code section, a
+663 licensee shall include with such report a statement of any conflict of interest that may exist
+664 as a result of such election or acquisition.
+665 (d) Upon receiving a report under this Code section or subsection (b) of Code
+666 Section 50-27-191, the corporation may conduct a hearing in accordance with Code Section
+667 50-27-193 to determine whether the licensee remains in compliance with this article.
+668 Part 4
+669 50-27-160.
+670 (a) No person shall knowingly:
+671 (1) Allow a minor to place a wager;
+H. B. 686 (SUB)
+- 27 -
+25 LC 55 0586S
+672 (2) Offer, accept, or extend credit to a bettor in the form of a marker or promotional
+673 credit;
+674 (3) Target minors in advertising or promotions for sports betting;
+675 (4) Offer or accept a wager on any event, outcome, or occurrence other than a sporting
+676 event, including, without limitation, a high school sporting event offered, sponsored, or
+677 played in connection with a public or private institution that offers education at the
+678 secondary level; or
+679 (5) Accept a wager from an individual who is prohibited from placing a wager or bet
+680 under Code Section 50-27-162, if such person has notice or actual knowledge that such
+681 individual is prohibited from placing such a wager or bet.
+682 (b) If the corporation determines that a person has violated any provision of this Code
+683 section, the corporation may impose an administrative fine not to exceed $25,000.00 per
+684 violation, or a total of $50,000.00 for violations arising out of the same transaction or
+685 occurrence.
+686 50-27-161.
+687 Except for those individuals ineligible to place bets under Code Section 50-27-162, an
+688 individual who is 21 years of age or older and who is physically located in this state may
+689 place a wager in the manner authorized under this article and the rules and regulations of
+690 the corporation.
+691 50-27-162.
+692 (a) The following individuals and categories of individuals shall not, directly or indirectly,
+693 place a wager on sporting events or online sports betting platforms in this state:
+694 (1) A member, officer, or employee of the corporation shall not place a wager on any
+695 sporting event or platform;
+H. B. 686 (SUB)
+- 28 -
+25 LC 55 0586S
+696 (2) A corporation vendor employee shall not place a wager on a sporting event using
+697 their employer's platform;
+698 (3) A licensee or principal owner, partner, member of the board of directors, officer, or
+699 supervisory employee of a licensee shall not place a wager on the licensee's platform;
+700 (4) A person that provides goods or services to a licensee or any principal owner, partner,
+701 member of the board of directors, officer, or supervisory employee of a person that
+702 provides such goods or services shall not place a wager on the licensee's platform;
+703 (5) A contractor, subcontractor, or consultant or any officer or employee of a contractor,
+704 subcontractor, or consultant of a licensee shall not place a wager on the licensee's
+705 platform, if such individual is directly involved in the licensee's operation of sports
+706 betting or the processing of sports betting claims or payments through the licensee's
+707 platform;
+708 (6) An individual subject to a contract with the corporation shall not place a wager on
+709 any platform, if the contract contains a provision prohibiting the individual from
+710 participating in sports betting;
+711 (7) An individual with access to material nonpublic information that is known
+712 exclusively by an individual who is prohibited from placing a wager in this state under
+713 this Code section shall not use any such information to place a wager on any sporting
+714 event or platform;
+715 (8) An amateur or Olympic athlete shall not place a wager on any sporting event in
+716 which the athlete participates;
+717 (9) A professional athlete shall not place a wager on any sporting event overseen by such
+718 athlete's professional sports governing body or sporting events operator;
+719 (10) A principal owner of a team, employee of a team, player, umpire, or sports union
+720 personnel, or employee, referee, coach, or official of a professional sports governing body
+721 or sporting events operator shall not place a wager on any sporting event, if the wager is
+H. B. 686 (SUB)
+- 29 -
+25 LC 55 0586S
+722 based on a sporting event overseen by the individual's professional sports governing body
+723 or sporting events operator;
+724 (11) An individual having the ability to directly affect the outcome of a sporting event
+725 shall not place a wager on such sporting event;
+726 (12) A trustee or regent of a governing board of a public or private institution of higher
+727 education shall not place a wager on a collegiate sporting event;
+728 (13) An individual prohibited by the rules or regulations of a professional sports
+729 governing body or sporting events operator of a collegiate sports team, league, or
+730 association from participating in sports betting shall not place a wager on any sporting
+731 event to which such prohibition applies; and
+732 (14) A student or an employee of a public or private institution of higher education who
+733 has access to material nonpublic information concerning a student athlete or a sports team
+734 shall be prohibited from placing a wager on a collegiate sporting event if such
+735 information is relevant to the outcome of such event.
+736 (b) The corporation may prescribe by rules and regulations additional individuals and
+737 categories of individuals who are prohibited from placing a wager on specified sporting
+738 events or online sports betting platforms in this state.
+739 (c) The corporation shall prescribe by rules and regulations any measures necessary to
+740 ensure individuals who are prohibited from placing a wager on specified sporting events
+741 or online sports betting platforms in this state shall not be permitted to collude with
+742 individuals not specifically enumerated in subsection (a) of this Code section to directly
+743 affect the outcome of a sporting event.
+744 (d) Any individual who places a wager in violation of this Code section:
+745 (1) For a first offense, shall be:
+746 (A) Indefinitely prohibited from placing a wager;
+747 (B) Required to forfeit the proceeds of any illegal wager;
+748 (C) Guilty of a misdemeanor; and
+H. B. 686 (SUB)
+- 30 -
+25 LC 55 0586S
+749 (D) Fined not less than $500.00 nor more than $1,000.00;
+750 (2) For a second offense, shall be:
+751 (A) Required to forfeit the proceeds of any illegal wager;
+752 (B) Guilty of a misdemeanor; and
+753 (C) Fined not less than $5,000.00 or imprisoned for not less than one month nor more
+754 than five months, or both; and
+755 (3) For a third or subsequent offense, shall be:
+756 (A) Required to forfeit the proceeds of any illegal wager;
+757 (B) Guilty of a misdemeanor of a high and aggravated nature; and
+758 (C) Fined not less than $7,500.00 or imprisoned for not less than three months, or both.
+759 50-27-163.
+760 (a) The corporation shall by rules and regulations prohibit betting on injuries, penalties,
+761 the outcome of player discipline rulings or replay reviews, and any other type or form of
+762 betting under this article that is contrary to public policy or unfair to bettors.
+763 (b)(1) A professional sports governing body or sporting events operator may submit to
+764 the corporation in writing, by providing notice in such form and manner as the
+765 corporation may require, a request to restrict, limit, or prohibit a certain type, form, or
+766 category of sports betting with respect to its sporting events, if the professional sports
+767 governing body or sporting events operator believes that such type, form, or category of
+768 sports betting with respect to its sporting events may undermine the integrity or perceived
+769 integrity of such professional sports governing body or sporting events operator or its
+770 sporting events. The corporation shall request comments from sports betting licensees
+771 and sports betting services provider licensees on all such requests it receives.
+772 (2) After giving due consideration to all comments received, the corporation shall, upon
+773 demonstration of good cause from the requestor that such type, form, or category of
+774 sports betting is likely to undermine the integrity or perceived integrity of such
+H. B. 686 (SUB)
+- 31 -
+25 LC 55 0586S
+775 professional sports governing body or sporting events operator or its sporting events,
+776 grant the request. The corporation shall respond to a request concerning a particular
+777 sporting event before the start of the event, or if it is not feasible to respond before such
+778 time, no later than seven days after the request is made. If the corporation determines that
+779 the requestor is more likely than not to prevail in successfully demonstrating good cause
+780 for its request, the corporation may provisionally grant the request of the professional
+781 sports governing body or sporting events operator until the corporation makes a final
+782 determination as to whether the requestor has demonstrated good cause. Absent such a
+783 provisional grant by the corporation, sports betting licensees may continue to offer sports
+784 betting on sporting events that are the subject of such a request during the pendency of
+785 the corporation's consideration of the applicable request.
+786 Part 5
+787 50-27-170.
+788 (a) Prior to placing a wager with a licensee via online sports betting, a bettor shall register
+789 and establish a player account with the licensee remotely during which the bettor shall
+790 attest that the individual meets the requirements to place a wager with a licensee in this
+791 state. Prior to verification of a bettor's identity in accordance with this Code section, a
+792 licensee shall not allow the bettor to place a wager, make a deposit, or process a withdrawal
+793 via online sports betting. A licensee shall implement commercially and technologically
+794 reasonable procedures to prevent access to sports betting by minors on its online sports
+795 betting platforms. A licensee may use information obtained from third parties to verify that
+796 an individual is authorized to open an account, place wagers, and make deposits and
+797 withdrawals.
+H. B. 686 (SUB)
+- 32 -
+25 LC 55 0586S
+798 (b) Each licensee shall adopt a registration policy to ensure that all bettors utilizing online
+799 sports betting are authorized to place a wager with a licensee within this state. Such policy
+800 shall include, without limitation, commercially reasonable mechanisms to:
+801 (1) Verify the identity and age of the registrant;
+802 (2) Verify that the registrant is not knowingly prohibited from placing a wager under
+803 Code Section 50-27-162; and
+804 (3) Obtain the following information from the registrant:
+805 (A) Legal name;
+806 (B) Date of birth;
+807 (C) Physical address other than a post office box;
+808 (D) Phone number;
+809 (E) A unique username; and
+810 (F) An active email account.
+811 (c) Each licensee may in its discretion require a bettor to provide the licensee with a signed
+812 and notarized document attesting that the bettor is qualified to engage in sports betting
+813 under this article as part of the registration policy of the licensee.
+814 (d) A bettor shall not register more than one account with a licensee, and each licensee
+815 shall use commercially and technologically reasonable means to ensure that each bettor is
+816 limited to one account.
+817 (e) Each licensee, in addition to complying with state and federal law pertaining to the
+818 protection of the private, personal information of registered bettors, shall use all other
+819 commercially and technologically reasonable means to protect such information consistent
+820 with industry standards.
+821 (f) A bettor may fund an account through:
+822 (1) Electronic bank transfer of funds, including such transfers through third parties;
+823 (2) Debit cards;
+824 (3) Online and mobile payment systems that support online money transfers; and
+H. B. 686 (SUB)
+- 33 -
+25 LC 55 0586S
+825 (4) Any other method approved by the rules and regulations of the corporation.
+826 (g)(1) Licensees shall not allow bets to be placed until first verifying the identity of the
+827 bettor pursuant to this Code section and by the rules promulgated by the corporation.
+828 Further, and pursuant to the rules promulgated by the corporation, licensees shall
+829 establish safeguards, including, but not limited to, access notifications and similar
+830 security safeguards, to protect each bettor's account. Such safeguards shall include,
+831 without limitation, the utilization of a two-factor authentication method each time a bettor
+832 accesses their account. As used in this paragraph, the term 'two-factor authentication
+833 method' means an authentication method that requires entry of a username and password
+834 followed by entry of another method of identification.
+835 (2) If a licensee determines that the information provided by a bettor to make a deposit
+836 or process a withdrawal is inaccurate or incapable of verification or violates the policies
+837 and procedures of the licensee, the licensee shall, within ten days, require the submission
+838 of additional information that can be used to verify the identity of such bettor.
+839 (3) If such information is not provided or does not result in verification of the bettor's
+840 identity, the licensee shall:
+841 (A) Immediately suspend the bettor's account and shall not allow the bettor to place
+842 wagers;
+843 (B) Retain any winnings attributable to the bettor; and
+844 (C) Refund the affected balance of deposits made to the account to the source of such
+845 deposit or by issuance of a check.
+846 (h) A licensee shall utilize geofencing technology to ensure that online sports betting is
+847 available only to bettors who are physically located in this state. Servers, including the use
+848 of backup servers, may be located outside of this state, consistent with federal law. To the
+849 extent required by federal law, a licensee shall maintain in this state the servers it uses to
+850 accept wagers on a sporting event placed by bettors located in this state.
+H. B. 686 (SUB)
+- 34 -
+25 LC 55 0586S
+851 (i) Each licensee shall clearly and conspicuously display on its public website a statement
+852 indicating that it is illegal for a person under 21 years of age to engage in sports betting in
+853 this state.
+854 (j) The corporation shall promulgate rules and regulations for purposes of regulating sports
+855 betting via online sports betting.
+856 50-27-171.
+857 (a) Licensees shall allow bettors to limit their betting activity with the licensee by, at a
+858 minimum, giving bettors the opportunity to place limits on the amounts deposited, the
+859 amounts wagered, and the amount of time spent wagering. Licensees shall take reasonable
+860 steps to prevent bettors from overriding their self-imposed responsible gambling limits.
+861 (b) The corporation shall promulgate rules and regulations that require a licensee to
+862 implement responsible sports betting programs. Such rules and regulations shall require
+863 a licensee to develop a strategic implementation plan with details as to:
+864 (1) The use of player data and technology to aid in identifying potential problem
+865 gamblers;
+866 (2) The use of automated triggers to identify and manage accounts of potential problem
+867 gamblers; and
+868 (3) The levels of intervention and education provided to identified at-risk players, which
+869 shall include at a minimum:
+870 (A) A first phase involving communications with the individual in order to educate the
+871 individual on the availability of various responsible gaming features and resources
+872 offered by the licensee;
+873 (B) A second phase that includes a video tutorial displayed to the individual either as
+874 one or multiple videos that provides education on the features and resources available;
+875 and
+H. B. 686 (SUB)
+- 35 -
+25 LC 55 0586S
+876 (C) A third phase, when warranted, that includes access to a responsible gaming
+877 professional provided by the licensee to advise the individual on possible corrective
+878 actions to address at-risk behavior.
+879 (c) The corporation shall work with national and local organizations to provide services
+880 for individuals with problem gambling or a betting or gambling disorder and to establish
+881 prevention initiatives to reduce the number of individuals with problem gambling or a
+882 betting or gambling disorder, including, but not limited to, utilizing currently established
+883 programs for problem gambling or betting or gambling disorders.
+884 (d) All sports betting advertisements shall prominently display messaging designed to
+885 prevent problem gambling and provide information about how to access resources related
+886 to problem gambling, including the National Council on Problem Gambling's helpline or
+887 other similar toll-free helpline.
+888 (e) The corporation shall annually generate a report outlining activities with respect to
+889 problem gambling and betting or gambling disorders, including, but not limited to,
+890 descriptions of programs, grants, and other resources made available; the number of
+891 individuals seeking assistance; the number of individuals who reported completing
+892 programs and therapies; and the rate of recidivism, if known to the corporation. The
+893 corporation shall file the annual report with the Governor, President of the Senate, and the
+894 Speaker of the House of Representatives and shall publish such report on its public website
+895 no later than January 30 of each year.
+896 50-27-172.
+897 (a) Each licensee shall adopt and adhere to a written, comprehensive policy outlining its
+898 rules governing the acceptance of wagers and payouts. Such policy and rules must be
+899 approved by the corporation prior to the acceptance of a wager by a licensee. Such policy
+900 and rules shall be readily available to a bettor on the licensee's public website.
+901 (b) The corporation shall promulgate rules and regulations regarding:
+H. B. 686 (SUB)
+- 36 -
+25 LC 55 0586S
+902 (1) The manner in which a licensee accepts wagers from and issues payouts to bettors,
+903 including payouts in excess of $10,000.00; and
+904 (2) Requirements for reporting suspicious wagers.
+905 Part 6
+906 50-27-180.
+907 (a) Licensees shall not be required to use official league data or official event data for
+908 determining the results of:
+909 (1) Tier 1 sports wagers on events of any organization, whether headquartered in the
+910 United States or elsewhere; or
+911 (2) Tier 2 sports wagers on events of organizations that are not headquartered in the
+912 United States.
+913 (b)(1) A professional sports governing body or sporting events operator headquartered
+914 in the United States may notify the corporation that it desires licensees to use official
+915 league data or official event data for determining the results of tier 2 sports wagers on its
+916 sporting events. A notification under this subsection shall be made in the form and
+917 manner as the corporation shall require. The corporation shall notify each licensee within
+918 five days after receipt of such notification from a professional sports governing body or
+919 sporting events operator. If a professional sports governing body or sporting events
+920 operator does not notify the corporation of its desire to supply official league data or
+921 official event data, licensees are not required to use official league data or official event
+922 data for determining the results of any tier 2 wagers on sporting events of that
+923 professional sports governing body or sporting events operator.
+924 (2) Within 60 days after the corporation notifies each licensee as provided under
+925 paragraph (1) of this subsection, or within a longer period as may be agreed between such
+926 professional sports governing body or sporting events operator and the applicable
+H. B. 686 (SUB)
+- 37 -
+25 LC 55 0586S
+927 licensee, each such licensee shall be required to use only official league data or official
+928 event data, as applicable, to determine the results of tier 2 sports wagers on sporting
+929 events sanctioned by such professional sports governing body or sporting events operator,
+930 except when:
+931 (A) The professional sports governing body or sporting events operator, or a designee
+932 thereof, is unable to provide a feed of official league data or official event data to
+933 determine the results of a particular type of tier 2 sports wager, in which case licensees
+934 are not required to use official league data for determining the results of the applicable
+935 tier 2 sports wager until the data feed becomes available on commercially reasonable
+936 terms and conditions; or
+937 (B) A licensee is able to demonstrate to the corporation that the professional sports
+938 governing body or sporting events operator, or a designee thereof, will not provide a
+939 feed of official league data or official event data to the licensee on commercially
+940 reasonable terms and conditions.
+941 (3) The following is a nonexclusive list of factors the corporation may consider in
+942 evaluating whether official league data or official event data is being offered on
+943 commercially reasonable terms and conditions for purposes of subparagraphs (A) and (B)
+944 of paragraph (2) of this subsection:
+945 (A) The extent to which licensees have purchased the same or similar official league
+946 data or official event data on the same or similar terms, particularly in jurisdictions
+947 where such purchase was not required by law or was required by law but only if offered
+948 on commercially reasonable terms;
+949 (B) The nature and quantity of the official league data or official event data, including,
+950 without limitation, its speed, accuracy, reliability, and overall quality as compared to
+951 comparable nonofficial data;
+952 (C) The quality and complexity of the process used to collect and distribute the official
+953 league data or official event data as compared to comparable nonofficial data;
+H. B. 686 (SUB)
+- 38 -
+25 LC 55 0586S
+954 (D) The availability of tier 2 official league data of a professional sports governing
+955 body or tier 2 official event data of a sporting events operator to a licensee from more
+956 than one authorized source;
+957 (E) Market information, including, without limitation, price and other terms and
+958 conditions, regarding the purchase of comparable data by licensees for the purpose of
+959 settling sports wagers, for use in this state or other jurisdictions; and
+960 (F) The extent to which professional sports governing bodies or sporting events
+961 operators, or designees thereof, have made available to licensees the data used to settle
+962 the results of tier 2 sports wagers and any terms and conditions relating to the use of
+963 such data.
+964 (4) Notwithstanding any provision to the contrary in this Code section, including,
+965 without limitation, paragraph (2) of this subsection, while the corporation is evaluating
+966 whether a professional sports governing body or a sporting events operator, or the
+967 designee thereof, will provide a feed of official league data or official event data on
+968 commercially reasonable terms and conditions pursuant to paragraph (3) of this
+969 subsection, licensees are not required to use official league data or official event data for
+970 determining the results of tier 2 sports wagers.
+971 (5) The corporation shall make a determination under paragraph (3) of this subsection
+972 within 60 days after the licensee notifies the corporation that it desires to demonstrate that
+973 the professional sports governing body or sporting events operator, or a designee thereof,
+974 will not provide a feed of official league data or official event data to such licensee on
+975 commercially reasonable terms and conditions.
+H. B. 686 (SUB)
+- 39 -
+25 LC 55 0586S
+976 Part 7
+977 50-27-190.
+978 Members of the corporation or designated employees thereof may, during normal business
+979 hours, enter the premises of any facility of a licensee, or a third party utilized by the
+980 licensee to operate and conduct business in accordance with this article, for the purpose of
+981 inspecting books and records kept as required by this article to ensure that the licensee is
+982 in compliance with this article or to make any other inspection of the premises necessary
+983 to protect the public interests of this state and its consumers.
+984 50-27-191.
+985 (a) The corporation, licensees, corporation vendors, and vendors shall use commercially
+986 reasonable efforts to cooperate with investigations conducted by any professional sports
+987 governing body, any sporting events operator, and law enforcement agencies, including,
+988 but not limited to, using commercially reasonable efforts to provide or facilitate the
+989 provision of betting information.
+990 (b) Licensees shall promptly report to the corporation any information relating to:
+991 (1) Abnormal betting activity or patterns that may indicate a concern with the integrity
+992 of a sporting event; and
+993 (2) Conduct that corrupts the betting outcome of a sporting event for purposes of
+994 financial gain, including match fixing.
+995 (c) Licensees shall, as soon as is practicable, report any information relating to conduct
+996 described in subsection (b) of this Code section to the professional sports governing body
+997 or sporting events operator.
+998 (d) Licensees shall use commercially reasonable efforts to maintain, in real time and at the
+999 account level, anonymized information regarding a bettor; the amount and type of bet; the
+1000 time the bet was placed; the location of the bet, including the internet protocol address if
+H. B. 686 (SUB)
+- 40 -
+25 LC 55 0586S
+1001 applicable; the outcome of the bet; and records of abnormal betting activity for three years
+1002 after the sporting event occurs. The corporation may request such information in the form
+1003 and manner required by the rules and regulations of the corporation. As used in this
+1004 subsection, the term 'real time' means on a commercially reasonable periodic interval.
+1005 (e) All records, documents, and information received by the corporation pursuant to this
+1006 Code section shall be considered investigative records of a law enforcement agency, shall
+1007 not be subject to Article 4 of Chapter 18 of this title, and shall not be released under any
+1008 condition without the permission of the person providing such records, documents, or
+1009 information.
+1010 (f) Nothing in this Code section shall require a sports betting licensee to provide any
+1011 information that is prohibited by federal, state, or local laws or rules and regulations,
+1012 including, without limitation, laws and rules and regulations relating to privacy and
+1013 personally identifiable information.
+1014 (g) If a professional sports governing body or sporting events operator has notified the
+1015 corporation that access to the information described in subsection (d) of this Code section
+1016 for wagers placed on its sporting events is necessary to monitor the integrity of its sporting
+1017 events and represents to the corporation that it specifically uses such data for the purpose
+1018 of monitoring the integrity of sporting events of such professional sports governing body
+1019 or sporting events operator, then licensees shall share, in a commercially reasonable
+1020 frequency, form, and manner, with the professional sports governing body or sporting
+1021 events operator, or a designee thereof, the same information the licensee is required to
+1022 maintain under subsection (d) of this Code section with respect to sports wagers on such
+1023 a body's or operator's sporting events. A professional sports governing body or sporting
+1024 events operator, or a designee thereof, shall use information received under this subsection
+1025 for integrity-monitoring purposes only and shall not use such information for commercial
+1026 or any other purposes. Nothing in this subsection shall require a licensee to provide any
+1027 information that is prohibited by federal, state, or local laws, rules, or regulations,
+H. B. 686 (SUB)
+- 41 -
+25 LC 55 0586S
+1028 including, but not limited to, laws, rules, or regulations relating to privacy and personally
+1029 identifiable information.
+1030 50-27-192.
+1031 The corporation shall assist in any investigations by law enforcement to determine whether:
+1032 (1) A licensee is accepting wagers from minors or other persons ineligible to place
+1033 wagers under Code Section 50-27-162; and
+1034 (2) An individual is unlawfully accepting wagers from another individual without a
+1035 license or at a location in violation of this article.
+1036 50-27-193.
+1037 (a) The corporation may investigate and conduct a hearing with respect to a licensee upon
+1038 information and belief that the licensee has violated the provisions of this article or upon
+1039 the receipt of a credible complaint from any person that a licensee has violated the
+1040 provisions of this article. The corporation shall conduct investigations and hearings in
+1041 accordance with rules and regulations adopted by the corporation.
+1042 (b) If the corporation determines that a licensee has violated any provision of this article
+1043 or any rules and regulations of the corporation, the corporation may:
+1044 (1) Suspend, revoke, or refuse to renew a license; or
+1045 (2) Impose an administrative fine not to exceed $25,000.00 per violation or a total of
+1046 $50,000.00 for violations arising out of the same transaction or occurrence, or both.
+1047 (c) The corporation shall promulgate rules and regulations establishing a schedule of
+1048 administrative fines that may be assessed in accordance with subsection (b) of this Code
+1049 section for each violation of this article; provided, however, that, if the corporation finds
+1050 that:
+H. B. 686 (SUB)
+- 42 -
+25 LC 55 0586S
+1051 (1) A licensee is knowingly accepting wagers from minors or other persons ineligible to
+1052 place wagers in this state, the corporation shall impose a fine against the licensee as
+1053 follows:
+1054 (A) For a first offense, $1,000.00;
+1055 (B) For a second offense, $2,000.00; and
+1056 (C) For a third or subsequent offense, $5,000.00; or
+1057 (2) An individual is unlawfully accepting wagers from another individual without a
+1058 license, the corporation shall impose a fine against the individual as follows:
+1059 (A) For a first offense, $10,000.00;
+1060 (B) For a second offense, $15,000.00; and
+1061 (C) For a third or subsequent offense, $25,000.00.
+1062 (d) The corporation may refer conduct that it reasonably believes is a violation of Article 2
+1063 of Chapter 12 of Title 16 to the appropriate law enforcement agency.
+1064 50-27-194.
+1065 (a) Any person that violates any provision of this article shall be liable for a civil penalty
+1066 of not more than $5,000.00 per violation, not to exceed $50,000.00 for violations arising
+1067 out of the same transaction or occurrence, which shall accrue to the corporation and may
+1068 be recovered in a civil action brought by or on behalf of the corporation.
+1069 (b) The corporation may seek and obtain an injunction in a court of competent jurisdiction
+1070 for purposes of enforcing this article.
+1071 (c) Costs shall not be taxed against the corporation or this state for actions brought under
+1072 this article.
+H. B. 686 (SUB)
+- 43 -
+25 LC 55 0586S
+1073 50-27-195.
+1074 The corporation may issue subpoenas to compel the attendance of witnesses and the
+1075 production of relevant books, accounts, records, and documents for purposes of carrying
+1076 out its duties under this article.
+1077 50-27-196.
+1078 (a) A licensee or other individual aggrieved by a final decision or action of the corporation
+1079 may appeal such decision or action to the Superior Court of Fulton County.
+1080 (b) The Superior Court of Fulton County shall hear appeals from decisions or actions of
+1081 the corporation and, based upon the record of the proceedings before the corporation, may
+1082 reverse the decision or action of the corporation only if the appellant proves the decision
+1083 or action to be:
+1084 (1) Clearly erroneous;
+1085 (2) Arbitrary and capricious;
+1086 (3) Procured by fraud;
+1087 (4) A result of substantial misconduct by the corporation; or
+1088 (5) Contrary to the United States Constitution, the Constitution of Georgia, or this article.
+1089 (c) The Superior Court of Fulton County may remand an appeal to the corporation to
+1090 conduct further hearings.
+1091 50-27-197.
+1092 (a) It shall be unlawful for any person, directly or indirectly, to knowingly receive, supply,
+1093 broadcast, display, or otherwise transmit material nonpublic information for the purpose
+1094 of betting on a sporting event or influencing another individual's or entity's wager on a
+1095 sporting event.
+1096 (b) This Code section shall not apply to the dissemination of public information as news,
+1097 entertainment, or advertising.
+H. B. 686 (SUB)
+- 44 -
+25 LC 55 0586S
+1098 (c) Any person in violation of this Code section shall be indefinitely prohibited from
+1099 placing a wager, be required to forfeit the proceeds of any illegal wager, and be guilty of
+1100 a misdemeanor."
+1101 PART III
+1102 SECTION 3-1.
+1103 Part 1 of Article 2 of Chapter 12 of Title 16 of the Official Code of Georgia Annotated,
+1104 relating to gambling, is amended by revising paragraph (1) of Code Section 16-12-20,
+1105 relating to definitions, as follows:
+1106 "(1) 'Bet' means an agreement that, dependent upon chance even though accompanied
+1107 by some skill, one stands to win or lose something of value. A bet does not include:
+1108 (A) Contracts of indemnity or guaranty or life, health, property, or accident insurance;
+1109 or
+1110 (B) An offer of a prize, award, or compensation to the actual contestants in any bona
+1111 fide contest for the determination of skill, speed, strength, or endurance or to the owners
+1112 of animals, vehicles, watercraft, or aircraft entered in such contest; or
+1113 (C) Any consideration paid to participate in online sports betting offered pursuant to
+1114 Article 4 of Chapter 27 of Title 50."
+1115 SECTION 3-2.
+1116 Said part is further amended by revising Code Section 16-12-27, relating to advertisement
+1117 or solicitation for participation in lotteries, as follows:
+1118 "16-12-27.
+1119 (a) It shall be unlawful for any person, partnership, firm, corporation, or other entity to
+1120 sell, distribute, televise, broadcast, or disseminate any advertisement, television or radio
+1121 commercial, or any book, magazine, periodical, newspaper, or other written or printed
+H. B. 686 (SUB)
+- 45 -
+25 LC 55 0586S
+1122 matter containing an advertisement or solicitation for participation in any lottery declared
+1123 to be unlawful by the laws of this state unless such advertisement, commercial, or
+1124 solicitation contains or includes the words 'void in Georgia' printed or spoken so as to be
+1125 clearly legible or audible to persons viewing or hearing such advertisement, commercial,
+1126 or solicitation.
+1127 (b) Any person, partnership, firm, corporation, or other entity violating subsection (a) of
+1128 this Code section shall be guilty of a misdemeanor.
+1129 (c) This Code section shall not apply to any advertisement or solicitation for participation
+1130 in online sports betting by any person licensed under Article 4 of Chapter 27 of Title 50
+1131 that is concerning such licensee's lawful activities."
+1132 SECTION 3-3.
+1133 Said part is further amended by revising Code Section 16-12-28, relating to communicating
+1134 gambling information, as follows:
+1135 "16-12-28.
+1136 (a) A person who knowingly communicates information as to bets, betting odds, or
+1137 changes in betting odds or who knowingly installs or maintains equipment for the
+1138 transmission or receipt of such information with the intent to further gambling commits the
+1139 offense of communicating gambling information.
+1140 (b) A person who commits the offense of communicating gambling information, upon
+1141 conviction thereof, shall be punished by imprisonment for not less than one nor more than
+1142 five years or by a fine not to exceed $5,000.00, or both.
+1143 (c) This Code section shall not apply to the activities authorized under Article 4 of
+1144 Chapter 27 of Title 50."
+H. B. 686 (SUB)
+- 46 -
+25 LC 55 0586S
+1145 PART IV
+1146 SECTION 4-1.
+1147 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+1148 amended by revising paragraph (55) of Code Section 48-8-3, relating to exemptions from
+1149 state sales and use tax, as follows:
+1150 "(55) The sale of lottery tickets authorized by Chapter 27 of Title 50 or wagers
+1151 authorized by Article 4 of Chapter 27 of Title 50;"
+1152 PART V
+1153 SECTION 5-1.
+1154 This Act shall become effective on January 1, 2027, following the ratification of an
+1155 amendment to the Constitution of Georgia authorizing the General Assembly to provide by
+1156 law for the operation and regulation of sports betting activities; provided, however, to the
+1157 extent that this Act conflicts with law in effect at the time of ratification, this Act and such
+1158 amendment shall control, and to the extent such law is not in conflict, the law in effect at the
+1159 time of ratification shall control and shall remain in full force and effect. If such amendment
+1160 is not so ratified, then this Act shall stand automatically repealed.
+1161 SECTION 5-2.
+1162 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 686 (SUB)
+- 47 -
+[DELETED: 5LTstfscl r a q o t l o a p oop0B1r2p3r4d5c6p7c8G]
+[DELETED: 5L9c0l e i o s b f r a r r1g2t3f4c5B6P7S8T9i0r1f2(3t4s5(6o7(8c9r0d1p2t a a A 2 o t c s b e f t r o]
+[DELETED: 5L3C4o5u6o7a a r r p o p r t t a8e9o0P1S2S3L4A5P657T859T0(1G2p m r p c a e t s b i3o]
+[DELETED: 5L4(5t6a7(8w9(0p a b A I S I P V o t C o1G2(3m4t5C657A8(9m0i1(2(3(4(5(6(7t8(9d i o m o a s e o o a e]
+[DELETED: 5L0i1c2s3(4a5(6p7(8c9p a a d p b a s r o t0p1(2t3(4r5(6(7f8(9(0c1(2(3(4(5(6a]
+[DELETED: 5L7(8(9p c a a c p c o a t0i1t p o m h o c p t o r2d3s4r5(6d7(8(9o0(1s p2o3a4p5(6a7g8e a b s p s g b t p s9i0(1i2p]
+[DELETED: 5L3(4d5a6(7m859b0(1o2p3(4f5(6(7e8(9t0s1(2w3p4p5(6(7(8(9p]
+[DELETED: 5L0(1o2s3t4(5(6i7(8(9(0a1(2(3(4S5o6n7(8e9e0(1(2c3(4(5(]
+[DELETED: 5L6(7n f t c o s b m a t d o b8o9t0(1(2(3(4(  O p o s b s s a d b t5c6(7(8l9(0s1(2e3(4t5s6(7s8b9(0(1(]
+[DELETED: 5L2(3g4o5o6(7t8(9n0s1n2(3(4s5p6a7(8o9i0w o w m w p e w i1w2a3p4c]
+[DELETED: 5L556(7o8a9(  T h j s a r a o s b0i1m2l3(4i5a6d7c8(9l0r s l1c2a3(4p5a6p7t8c9C0(1o]
+[DELETED: 5L2w3d4(5d6t7l8w9(0b1(  T e i a w a f o d g o2g3a4(5c6(7i8j9(0t1(2p3(4p5(6r7d o g8d]
+[DELETED: 5L9(0p1s2(3o4p5u l t a p d a i t m i6d7(8a9r0i1s2(  A p f i t e c r t p3g4(5b6t7d8(9p0c1o2(3a4g]
+[DELETED: 5L5t i o s t m b a p i w6g7(8a9c0(1a2(3e4(  T c s n h t p t p a l m o5m657T8(9o0(1(2i3(4(5o6(7(8(9f]
+[DELETED: 5L0(  T t o i d t b c f o p1i2(3m4(5b6P758(9l0(1a2f3(4(5(6(7(8i9(0a1(2(3a]
+[DELETED: 5L4c5i6(7o8(9t0i1r2p3p4a5g6f7(8t9s0(1a2b3d n h a p i c t a o i s l4e5i6(7l8s9l]
+[DELETED: 5L0s1c2(3r4s5r6o7c8a9c0a1(2t3O4a5o b u b l t p f w w r h b6d7p8o9a0m1o2m3p4(  M o o e w a e t t m o5c6(]
+[DELETED: 5L7(8a9b e t e t l o t c a m o0s1(2f3(4(  A f a T 1 s b l s p a n5a6o7(  A f a o s b s p l s p 8n9o0a1s ( o C S 5 s o b r t p t2n3T4(  A f a s b s l s p a n5a6a7(8r9(0t]
+[DELETED: 5L152(3m4r5p6a7(8s9l0c1(2c3a4(5c6p7t8p9g0o o f o a f t c t e i s c1a2p3a4(5j6s7c]
+[DELETED: 5L8a9C0(1r2t3j4l5b6d7(8s9(0l1(2o3t455(6a7(8o9b0(1b]
+[DELETED: 5L2(3f4i5(6b7(8a c o m t o s d a s i r a r9p0(1w2(3e4(  A i p b t r o r o a p s5g b o s e o o a c s t l o6a7(8h9t0(1c2s3(4s5t6a7I]
+[DELETED: 5L8c9s051(2b s p t o o s b  I a T 1 e e3d4s5b6T7(8(9d0h1s2(3e455(6s7(8r9p0o1t2l]
+[DELETED: 5L3m4c5(6s7(8t9a0t p d a p o s T 1 e e f1o2(  A T 1 s b l s n o o s b u t3c4s5(6l7(8C9c0a1b2(3o4o5t6a]
+[DELETED: 5L758(9a0c1(2b3l4l5l6(7m8s9l0s1s2(3r4t5d657N]
+[DELETED: 5L8P950(1p2i3(4o5l6t7o8(9s b s p b o i m a g i f t0i1i2s3s4s5(6b7c f t p t i u t C s s b o t8f9P0i1B2i3s]
+[DELETED: 5L4m5a6S7(  W t e o a f a a l f i b8p9t0f1s2b3a4o556A7a8b9C0C1e2a3s o e s a t e o e f y b t b t4c5t6o7p]
+[DELETED: 5L859(  E T 1 l o i s b s p s r t t0c1(2c3(4y5(6d7t8(9(0a1(2(3l4a5(  U r a r u t C s o s ( o C6S758P950(1(]
+[DELETED: 5L2(3c4(5(6e7p8s9(0u1i2(3s4v5o657E8i9p0t152(3p4(5s]
+[DELETED: 5L6(7t8(9s0(1m2p3(4s o c o a l s n p a w o t l5p6b7p8(9a p i t c c a p p t i f0p1(  A i w a t m n i t i k2e3t4e5(6w7(8a9(0p1o]
+[DELETED: 5L2b3o4(5s6(7e8(  A i p b t r o r o a p s9g b o s e o o a c s t l o0a1e2(3h4s b p f p a w o a c s e i s5i6(7c8e9(0e1o2i3a4(5(6(7(8(]
+[DELETED: 5L9(0(1(2(3(4t5(6(7(8(950(1t2b3(4t c i w b p n i s f a m a t5c6c7g8s9i0s1a2(3d4s b i l t u t i o p i o s]
+[DELETED: 5L5p6g7s8t9t0f1s2d3p4b5t6P758(9a0a1s2l3v4r5b6a7w]
+[DELETED: 5L8(9s0s1(2(3C4(5(6(7(8(9(0(1(2a3u4(5s6l7(8p9c0w1(2(3(4(]
+[DELETED: 5L5(6(7b8F a p t t r p b t c l s9e s i b n l t a n a s0s1w2a3m4f5(6o7a8o9(0i1(2w3(4(5d6(7a8o9e0a]
+[DELETED: 5L1(2i3t4(5b657(8m9a0s1(2i3a4(  T u o p d a t t a i i p p5g6(7g8(9s0(1i2o3(4o5a]
+[DELETED: 5L6(7p8a9(0f1p2b3p4(5p6t7o8(9p g a b o g d i b n l t0d o p g a o r m a t n o1i s a t n o i w r c2p3c4S5n657(8r9a0a1(]
+[DELETED: 5L2(3i4(5P657(8d9(0U1(2U3(4i5l6s7m8f9s0o1o2d f d t r o a t 2 w o s e o t3p4(  W 6 d a t c n e l a p u5p6p s g b o s e o a t a]
+[DELETED: 5L7l8e9e0e1(2t3d4a5t6t7(8g9f0r1(2e w o l d o o e d i b o o3c4o5(6d7w8o9(0w1c2(3l]
+[DELETED: 5L4(5b6t7(  M i i w l p a o t a8c9s0(  T e t w p s g b o s e1o2t3s4(  N a p t t c i t C s i5w6w a p s g b o a s e o o t7d8c r t a c p t p ( o t9s0d1(2w3t4w5c]
+[DELETED: 5L6P758M9h0l1i2i3t455(6r7g8b n l t u c r e t p o f t9p0(1(2o3( t b4f5(6d7o8(9a0t]
+[DELETED: 5L1a2a3a4s5(6C7n8c9i0(1i2i w l l a r a r r t p a3p4(5c6f7e8o9o s e o t l s s i a c r0f1e2m3a4e5f6o7i t i p b f s o l l r o r]
+[DELETED: 5L8i9i051T2(3w4(5l657(8i9t r o a c c f a p t a l h v t0p1a2(3o4(5(6$7(8a9s0t]
+[DELETED: 5L1(2p3f4(5(6(7(8l9(0(1(2(3o455(6o7o8b9(0f1(2t]
+[DELETED: 5L354T5p6o758(9m0(1t2r3o4(5(6(7(8(9(0c152(3b4o5s6(7e]
+[DELETED: 5L8(9p0a1P2S3P4r5r6(7b8(9o0(1f2o3(4A5S6S7o819(0s1c]
+[DELETED: 5L2m3t b u b t l o t s u s a c o4s5c6o7(8t9(0i1t2S3S4g516(7c i b o o w k i o m e f t8t9o0(1c2f3(4C]
+[DELETED: 5L5P6S7T8a9s0(  T s o l t a b C 2 o T 5 o w1a2P3S4T A s b e o J 1 2 f t r o a5a6l7e8a9t0i1S2A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0586S
+The House Committee on Higher Education offers the following substitute to HB 686:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 50 of the Official Code of Georgia Annotated, relating to state government,
+2 so as to authorize and provide for the regulation and taxation of sports betting in this state;
+3 to provide for additional powers and duties of the Georgia Lottery Corporation; to provide
+4 for the corporation to engage in certain activities related to sports betting; to provide for a
+5 short title; to provide for legislative findings; to provide for definitions; to provide for the
+6 corporation's powers and duties relative to sports betting; to provide for the procedures,
+7 limitations, requirements, and qualifications of the licensing of any person offering,
+8 operating, or managing sports betting in this state; to provide for rules and regulations
+9 promulgated by the corporation; to provide for a privilege tax; to establish the Georgia Sports
+10 Betting Proceeds Trust Fund; to require certain reports; to regulate wagers and provide
+11 requirements for bettors; to provide for violations; to provide for penalties and fines; to
+12 provide for bettors to restrict themselves from placing certain wagers; to provide certain
+13 resources and safeguards for individuals with problem gambling or a betting or gambling
+14 disorder; to provide for the use of official league data; to prohibit certain conduct by the
+15 corporation, employees of the corporation, licensees, and other persons; to provide for certain
+16 penalties; to provide for the collection and disposition of fees and fines; to provide for
+17 construction; to amend Part 1 of Article 2 of Chapter 12 of Title 16 of the Official Code of
+18 Georgia Annotated, relating to gambling, so as to exclude from the definition of "bet" any
+H. B. 686 (SUB)
+- 1 -
+
+25 LC 55 0586S
+19 consideration paid to a sports betting licensee; to provide for the exemption of persons
+20 lawfully engaged in online sports betting from regulations and restrictions regarding
+21 gambling information; to amend Title 48 of the Official Code of Georgia Annotated, relating
+22 to revenue and taxation, so as to exempt wagers placed as part of sports betting; to provide
+23 for related matters; to provide for a contingent effective date and automatic repeal; to repeal
+24 conflicting laws; and for other purposes.
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+26 PART I
+27 SECTION 1-1.
+28 Title 50 of the Official Code of Georgia Annotated, relating to state government, is amended
+29 in Code Section 50-27-9, relating to general powers of the Georgia Lottery Corporation, by
+30 revising paragraphs (18) and (19) of subsection (a) and adding a new paragraph to read as
+31 follows:
+32 "(18) To act as a retailer, to conduct promotions which involve the dispensing of lottery
+33 tickets or shares, and to establish and operate a sales facility to sell lottery tickets or
+34 shares and any related merchandise; and
+35 (19) To perform any actions and carry out any responsibilities provided for in Article 4
+36 of this chapter; and
+37 (19)(20) To adopt and amend such regulations, policies, and procedures as necessary to
+38 carry out and implement its powers and duties, organize and operate the corporation,
+39 regulate the conduct of lottery games in general, and any other matters necessary or
+40 desirable for the efficient and effective operation of the lottery or the convenience of the
+41 public. The promulgation of any such regulations, policies, and procedures pursuant to
+42 this article and Article 2 of this chapter shall be exempt from the requirements of
+H. B. 686 (SUB)
+- 2 -
+
+25 LC 55 0586S
+43 Chapter 13 of this title, the 'Georgia Administrative Procedure Act.' Notwithstanding any
+44 other provision of law to the contrary, hearings related to any dispute between licensees
+45 under Code Section 50-27-102 shall be held in accordance with the provisions of Part 1
+46 of Article 1 of Chapter 9 of Title 9, the 'Georgia Arbitration Code.' All other hearings
+47 and any rules, regulations, policies, or procedures related to the administration,
+48 enforcement, or violation of this article shall be subject to the provisions of Chapter 13
+49 of this title."
+50 PART II
+51 SECTION 2-1.
+52 Said title is further amended by adding a new article to Chapter 27, relating to the "Georgia
+53 Lottery for Education Act," to read as follows:
+54 "ARTICLE 4
+55 Part 1
+56 50-27-120.
+57 This article shall be known and may be cited as the 'Georgia Sports Betting Act.'
+58 50-27-121.
+59 The General Assembly finds that:
+60 (1) Sports betting shall be overseen and regulated, and may also be offered, by the
+61 Georgia Lottery Corporation in a manner that provides continuing entertainment to the
+62 public, maximizes revenues, protects consumers, and ensures that sports betting is
+63 operated in this state with integrity and dignity and free of political influence;
+H. B. 686 (SUB)
+- 3 -
+
+25 LC 55 0586S
+64 (2) The corporation shall be accountable to the General Assembly and to the public for
+65 the management and oversight of sports betting in this state through a system of audits
+66 and reports;
+67 (3) The ability to offer sports betting in this state under a license issued in accordance
+68 with this article constitutes a taxable privilege and not a right;
+69 (4) Net proceeds of sports betting conducted pursuant to this article shall be used for the
+70 purposes authorized by Article I, Section II, Paragraph VIII of the Constitution of
+71 Georgia; and
+72 (5) In accordance with Code Section 50-27-2, sports betting shall be conducted in a
+73 manner so as to safeguard the fiscal soundness of the state, to enhance public welfare, and
+74 to support the funding authorized by Article I, Section II, Paragraph VIII(c) of the
+75 Constitution of Georgia.
+76 50-27-122.
+77 As used in this article, the term:
+78 (1) 'Adjusted gross income' means the total of all moneys paid to a licensee as wagers
+79 minus federal excise taxes and minus the total amount paid out to winning bettors,
+80 including the cash value of merchandise awarded as winnings.
+81 (2) 'Applicant' means any person that applies for a license under this article.
+82 (3) 'Bettor' means an individual who is:
+83 (A) Physically present in this state when placing a wager with a licensee;
+84 (B) Twenty-one years of age or older; and
+85 (C) Not prohibited from placing a wager or bet under Code Section 50-27-162.
+86 (4) 'Bond' means a bond held in escrow for the purpose of maintaining adequate reserves
+87 to account for losses suffered by a licensee and owed to bettors.
+88 (5) 'Cheating' means improving the chances of winning or altering the outcome through
+89 deception, interference, or manipulation of a sporting event or of any equipment,
+H. B. 686 (SUB)
+- 4 -
+
+25 LC 55 0586S
+90 including software, pertaining to or used in relation to the equipment used for or in
+91 connection with the sporting event on which wagers are placed or invited. Such term
+92 shall include match fixing and attempts and conspiracy to cheat.
+93 (6) 'Collegiate sporting event' means a sporting or athletic event involving a sports or
+94 athletic team of a public or private institution of higher education.
+95 (7) 'Esports event' means an organized video game competition between players who
+96 play individually or as teams.
+97 (8) 'Fantasy or simulated contest' means a game or event in which one or more players
+98 compete based on winning outcomes that reflect the relative knowledge and skill of the
+99 players and are determined predominately by accumulated statistical results of the
+100 performance of individuals, including, but not limited to, athletes in sporting events.
+101 (9) 'Fixed-odds betting' means bets made at predetermined odds or on the spread where
+102 the return to the bettor is unaffected by any later change in odds or the spread.
+103 (10) 'Futures wager' means a wager made on the occurrence of an event in the future
+104 relating to a sporting event.
+105 (11) 'Institutional investor' means:
+106 (A) A retirement fund administered by a public agency for the exclusive benefit of
+107 federal, state, or local public employees;
+108 (B) An investment company registered under the Investment Company Act of 1940;
+109 (C) A chartered or licensed life insurance company or property and casualty insurance
+110 company;
+111 (D) A banking and other chartered or licensed lending institution;
+112 (E) An investment advisor registered under the Investment Advisers Act of 1940; or
+113 (F) A pension investment board.
+114 (12) 'License' means any of the licenses issued by the corporation under this article.
+115 (13) 'Licensee' means a person that holds a license issued by the corporation under this
+116 article.
+H. B. 686 (SUB)
+- 5 -
+
+25 LC 55 0586S
+117 (14) 'Master sports betting licensee' means the Georgia Lottery Corporation.
+118 (15) 'Material nonpublic information' means information that has not been disseminated
+119 publicly concerning an athlete, contestant, prospective contestant, or athletic team,
+120 including, without limitation, confidential information related to medical conditions or
+121 treatment, physical or mental health or conditioning, physical therapy or recovery,
+122 discipline, sanctions, academic status, education records, eligibility, playbooks, signals,
+123 schemes, techniques, game plans, practices, strategies, assessments, systems, drills, or
+124 recordings of practices or other athletic activities.
+125 (16) 'Merchandise' means any goods or services provided to bettors free of charge, at a
+126 discounted rate, or in the form of a rebate or credit.
+127 (17) 'Minor' means an individual who is less than 21 years of age.
+128 (18) 'Moneyline wager' means the fixed odds in relation to a dollar amount that a team
+129 or person participating in a sporting event will win outright regardless of the spread.
+130 (19) 'Official event data' means statistics, results, outcomes, and other data related to a
+131 sporting event obtained pursuant to an agreement with the relevant sporting events
+132 operator whose corporate headquarters is based in the United States or an entity expressly
+133 authorized by such sporting events operator to provide such information to licensees for
+134 purposes of determining the outcome of tier 2 sports wagers on such sporting event.
+135 (20) 'Official league data' means statistics, results, outcomes, and other data related to
+136 a sporting event obtained pursuant to an agreement with the relevant professional sports
+137 governing body whose corporate headquarters is based in the United States or an entity
+138 expressly authorized by such professional sports governing body to provide such
+139 information to licensees for purposes of determining the outcome of tier 2 sports wagers.
+140 (21) 'Online sports betting' means a wager on a sporting event that is placed via the
+141 internet through any electronic device and accepted through an online sports betting
+142 platform.
+H. B. 686 (SUB)
+- 6 -
+
+25 LC 55 0586S
+143 (22) 'Online sports betting platform' means the combination of hardware, software, and
+144 data networks used to manage, administer, or control online sports betting and any
+145 associated wagers accessible by any electronic means.
+146 (23) 'Online sports betting services provider' means a person that contracts with the
+147 master sports betting licensee or a Type 1 sports betting licensee under Code Section
+148 50-27-133 to operate online sports betting on behalf of such licensee and that is licensed
+149 by the corporation.
+150 (24) 'Over/under wager' means a single wager that predicts whether the combined score
+151 of the two persons or teams engaged in a sporting event will be lower or higher than a
+152 predetermined number.
+153 (25) 'Parlay wager' means a single wager that incorporates two or more individual bets
+154 for purposes of earning a higher payout if each bet incorporated within the wager wins.
+155 (26) 'Person' means an individual or entity.
+156 (27) 'Principal owner' means a person that owns an interest of 10 percent or more of the
+157 entity.
+158 (28) 'Professional sporting event' means an athletic or sporting event involving at least
+159 two competitors who have the opportunity to receive compensation for participating in
+160 such event.
+161 (29) 'Professional sports governing body' means the organization, league, or association
+162 whose corporate headquarters is based in the United States that oversees a sport and
+163 prescribes final rules and enforces codes of conduct with respect to such sport and
+164 participants therein.
+165 (30) 'Professional sports team' means a major league professional team:
+166 (A) Based in this state;
+167 (B) That plays baseball, football, men's basketball, soccer, or women's basketball; and
+168 (C) Whose regular season games have had the highest attendance for its respective
+169 professional sport in the state during the past five years.
+H. B. 686 (SUB)
+- 7 -
+
+25 LC 55 0586S
+170 (31) 'Proposition wager' means a wager on a single specific action, statistic, occurrence,
+171 or nonoccurrence to be determined during a sporting event and includes any such action,
+172 statistic, occurrence, or nonoccurrence that does not directly affect the final outcome of
+173 the professional sporting event to which it relates.
+174 (32) 'Sporting event' means any:
+175 (A) Professional sporting event, including motor sports sanctioned by a national or
+176 international organization or association;
+177 (B) Collegiate sporting event;
+178 (C) Olympic sporting or athletic event;
+179 (D) Sporting or athletic event sanctioned by a national or international organization or
+180 association;
+181 (E) Sporting or athletic event conducted or organized by a sporting events operator;
+182 (F) Esports event; or
+183 (G) Other event authorized by the corporation.
+184 Such term shall not include a nonprofessional, noncollegiate, or non-Olympic sporting
+185 or athletic event if the majority of the participants are under the age of 18 years and shall
+186 not include any Special Olympics sporting or athletic event.
+187 (33) 'Sporting events operator' means a person that conducts or organizes a sporting
+188 event for athletes or other participants that is not held or sanctioned as an official sporting
+189 event of a professional sports governing body.
+190 (34) 'Sports betting' means online sports betting.
+191 (35) 'Sports betting equipment' means any of the following that is directly used in
+192 connection with the operation of sports betting:
+193 (A) Any mechanical, electronic, or other device, mechanism, or equipment;
+194 (B) Any software, application, components, or other goods; or
+195 (C) Anything to be installed or used on a personal electronic device.
+H. B. 686 (SUB)
+- 8 -
+
+25 LC 55 0586S
+196 (36)(A) 'Sports betting supplier' means a person that provides sports betting equipment
+197 necessary for the creation of sports betting markets and the determination of bet
+198 outcomes, directly to any licensee involved in the acceptance of bets, including any of
+199 the following:
+200 (i) Providers of data feeds and odds services;
+201 (ii) Platform providers;
+202 (iii) Risk management providers:
+203 (iv) Integrity monitoring providers; and
+204 (v) Other providers of sports betting supplier services as determined by the
+205 corporation.
+206 (B) Such term shall not include a professional sports governing body that:
+207 (i) Provides official league data concerning its own sporting event to a sports betting
+208 licensee solely on that basis; or
+209 (ii) Provides raw statistical match data to one or more designated and licensed
+210 suppliers of data feeds and odds services solely on that basis.
+211 (37) 'Spread' means the predicted scoring differential between two persons or teams
+212 engaged in a sporting event.
+213 (38) 'Supervisory employee' means a principal owner or employee having the authority
+214 to act on behalf of a licensee whose judgment is relied upon to manage and advance the
+215 sports betting business operations of a licensee.
+216 (39) 'Tier 1 sports wager' means a sports wager that is determined solely by the final
+217 score or final outcome of the sporting event and is placed before the sporting event has
+218 begun.
+219 (40) 'Tier 2 sports wager' means a wager that is not a tier 1 sports wager.
+220 (41) 'Type 1 eligible entity' means any of the following:
+221 (A) Any professional sports team;
+H. B. 686 (SUB)
+- 9 -
+
+25 LC 55 0586S
+222 (B) A professional sports governing body that holds one or more sanctioned annual
+223 golf tournaments on a national tour of professional golf in this state, and has held one
+224 or more of the same or different sanctioned annual golf tournaments on a national tour
+225 of professional golf in this state for at least 30 years;
+226 (C) The owner of a facility in this state that has held an annual invitational golf
+227 tournament for professional and amateur golfers for at least 30 years;
+228 (D) The owner of a facility located in this state that hosts automobile races on a
+229 national association for stock car racing national tour or a wholly owned for-profit
+230 subsidiary of the owner of such a facility, if the owner is a nonprofit corporation or
+231 nonprofit organization; and
+232 (E) The Georgia Lottery Corporation.
+233 (42) 'Type 1 sports betting licensee' means the master sports betting licensee, an online
+234 sports betting services provider awarded a Type 1 license via the public procurement
+235 process by the master sports betting licensee, or a Type 1 eligible entity licensed or
+236 authorized by the corporation to directly or indirectly offer online sports betting.
+237 (43) 'Wager' or 'bet' means a sum of money that is risked by a bettor on the unknown
+238 outcome of one or more sporting events or portions of sporting events. Such term shall
+239 include single-game wagers, futures wagers, tier 1 or tier 2 wagers, teaser wagers, parlay
+240 wagers, over/under wagers, moneyline wagers, pools, exchange wagering, in-game
+241 wagering, in-play wagers, proposition wagers, straight wagers, fixed-odds betting, and
+242 any other bet or wager approved by the corporation. Such term shall not include a
+243 pari-mutuel bet or wager or an entry fee paid to participate in a fantasy or simulated
+244 contest.
+H. B. 686 (SUB)
+- 10 -
+
+25 LC 55 0586S
+245 50-27-123.
+246 (a) The corporation shall have all powers and duties necessary to carry out the provisions
+247 of this article and to exercise the control of sports betting in this state as authorized by this
+248 article. Such powers and duties shall include, but shall not be limited to, the following:
+249 (1) To have jurisdiction, supervision, and regulatory authority over sports betting,
+250 including, but not limited to, regulation, licensure, and offering of sports betting on
+251 mobile applications available state wide via the internet and through a limited number of
+252 licenses to be awarded to Type 1 sports betting licensees;
+253 (2) To appoint and employ such persons as the corporation deems essential to perform
+254 its duties under this article and to ensure that such sports betting is conducted with order
+255 and the highest integrity. Such employees shall possess such authority and perform such
+256 duties as the corporation shall prescribe or delegate to them. Such employees shall be
+257 compensated as provided by the corporation;
+258 (3) To enter upon, investigate, and have free access to all places of business of any
+259 licensee under this article and to compel the production of any books, ledgers, documents,
+260 records, memoranda, or other information of any licensee to ensure such licensee's
+261 compliance with the rules and regulations promulgated by the corporation pursuant to this
+262 article;
+263 (4) To promulgate any rules and regulations as the corporation deems necessary and
+264 proper to administer the provisions of this article; provided, however, that the initial rules
+265 and regulations governing sports betting shall be promulgated, provided for a period of
+266 public comment, and adopted by the corporation within 90 days of the effective date of
+267 this article. Such initial rules and regulations and all other rules and regulations of the
+268 corporation promulgated and adopted pursuant to this article shall not be subject to
+269 Chapter 13 of this title, the 'Georgia Administrative Procedure Act';
+270 (5) To issue subpoenas for the attendance of witnesses before the corporation, administer
+271 oaths, and compel production of records or other documents and testimony of witnesses
+H. B. 686 (SUB)
+- 11 -
+
+25 LC 55 0586S
+272 whenever, in the judgment of the corporation, it is necessary to do so for the effectual
+273 discharge of the duties of the corporation under this article;
+274 (6) To compel any person licensed by the corporation to file with the corporation such
+275 data, documents, and information as shall appear to the corporation to be necessary for
+276 the performance of the duties of the corporation under this article, including, but not
+277 limited to, financial statements and information relative to stockholders and all others
+278 with a pecuniary interest in such person;
+279 (7) To prescribe the manner in which books and records of persons licensed or permitted
+280 by the corporation under this article shall be kept;
+281 (8) To enter into arrangements with any foreign or domestic government or
+282 governmental agency for the purposes of exchanging information or performing any other
+283 act to better ensure the proper conduct of betting under this article;
+284 (9) To order such audits, in addition to those otherwise required by this article, as the
+285 corporation deems necessary and desirable;
+286 (10) Upon the receipt of a complaint of an alleged criminal violation of this article, to
+287 immediately report such complaint to the appropriate law enforcement agency with
+288 jurisdiction to investigate criminal activity;
+289 (11) To provide for the reporting of the applicable amount of state and federal income
+290 tax of persons claiming a prize or payoff for a winning wager under this article;
+291 (12) To establish and administer programs for providing assistance to individuals with
+292 problem gambling or a betting or gambling disorder, including, but not limited to:
+293 (A) Educating potential gamblers of methods and types of bets and fairly informing
+294 potential gamblers of the odds or likelihood of winning such bets;
+295 (B) Establishing and administering programs for educating potential gamblers about
+296 responsible gambling, the warning signs of problem gambling or betting or gambling
+297 disorders and how to prevent and treat problem gambling or betting or gambling
+298 disorders;
+H. B. 686 (SUB)
+- 12 -
+
+25 LC 55 0586S
+299 (C) Developing and funding responsible gaming education campaigns coupled with
+300 prevention and education efforts within communities that raise awareness of potential
+301 signs or risk factors of problem gambling or betting or gambling disorders;
+302 (D) Encouraging the use of harm-minimizing measures by bettors, such as excluding
+303 or limiting oneself from obtaining credit extensions, making credit card or cashless
+304 payments, cashing checks, or making automated teller machine withdrawals, as well as
+305 utilizing limit-setting tools and personal data and information to make informed
+306 decisions about gambling;
+307 (E) Promulgating rules and regulations that enable bettors to self-limit with a licensee
+308 and self-exclude from sports betting activities state wide. Any such rules or regulations
+309 related to self-exclusion shall require the individual seeking self-exclusion to provide
+310 identifying information, including, at a minimum, full name, address, date of birth, and
+311 social security number;
+312 (F) Adopting processes for individuals to express concerns related to problem
+313 gambling or betting or gambling disorders to the corporation;
+314 (G) Developing state-wide advertising guidelines to ensure that the marketing of sports
+315 betting is not targeted to minors and does not include content, themes, and promotions
+316 that have special appeal to individuals with problem gambling or a betting or gambling
+317 disorder;
+318 (H) Requiring the electronic posting of signs or notifications on online sports betting
+319 platforms that bear the 1-800-GAMBLER toll-free number, which provides or directs
+320 callers to assistance and resources for individuals with problem gambling or a betting
+321 or gambling disorder; and
+322 (I) Requiring, through the promulgation of rules and regulations, limitations on the
+323 amount of bets a bettor can place when such bettor has exhibited signs of problem
+324 gambling or a betting or gambling disorder. Such rules and regulations shall require
+H. B. 686 (SUB)
+- 13 -
+
+25 LC 55 0586S
+325 the implementation of systems to monitor betting and provide individuals with
+326 guidance, information, and options when their betting may be problematic;
+327 (13) To keep a true and full record of all proceedings of the corporation under this article
+328 and preserve at the corporation's general office all books, documents, and papers of the
+329 corporation;
+330 (14) To adopt rules and regulations specific to the manner in which a licensee may
+331 advertise its business operations as authorized by this article; and
+332 (15) To comply with Code Section 50-27-14 as it relates to sports betting in order to
+333 encourage participation by minority businesses.
+334 (b) The corporation shall not have the power to prescribe a licensee's maximum or
+335 minimum payout or hold percentage.
+336 50-27-124.
+337 The corporation shall prescribe by rules and regulations:
+338 (1) The reserves that must be kept by licensees to comply with subparagraph (c)(6)(A)
+339 of Code Section 50-27-130 to pay off bettors;
+340 (2) Any insurance requirements for a licensee;
+341 (3) Minimum requirements by which each licensee shall exercise effective control over
+342 its internal fiscal affairs, including, without limitation, requirements for:
+343 (A) Safeguarding assets and revenues, including evidence of indebtedness;
+344 (B) Maintaining reliable records relating to accounts, transactions, profits and losses,
+345 operations, and events; and
+346 (C) Global risk management;
+347 (4) Requirements for internal and independent audits of licensees;
+348 (5) The manner in which periodic financial reports shall be submitted to the corporation
+349 from each licensee, including the financial information to be included in the reports;
+H. B. 686 (SUB)
+- 14 -
+
+25 LC 55 0586S
+350 (6) The type of information deemed to be confidential financial or proprietary
+351 information that is not subject to any reporting requirements under this article;
+352 (7) Policies, procedures, and processes designed to mitigate the risk of cheating and
+353 money laundering; and
+354 (8) Any post-employment restrictions necessary to maintain the integrity of sports
+355 betting in this state.
+356 Part 2
+357 50-27-130.
+358 (a) Any person offering, operating, or managing sports betting in this state shall be
+359 licensed by the corporation.
+360 (b) The corporation shall issue licenses to qualified applicants able to meet the duties of
+361 a license holder under this article and that the corporation determines will best satisfy the
+362 following criteria:
+363 (1) Expertise in the business of online sports betting;
+364 (2) Integrity, sustainability, and safety of the online sports betting platform;
+365 (3) Past relevant experience of the applicant;
+366 (4) Advertising and promotional plans to increase and sustain revenue;
+367 (5) The amount of adjusted gross income and associated tax revenue that an applicant
+368 is projected to generate;
+369 (6) Demonstrated commitment to and plans for the promotion of responsible gaming;
+370 and
+371 (7) Capacity to increase the number of bettors on the applicant's platform.
+372 (c) An applicant for a license shall submit an application on a form in such manner and in
+373 accordance with such requirements as may be prescribed by the rules and regulations of the
+H. B. 686 (SUB)
+- 15 -
+
+25 LC 55 0586S
+374 corporation. Such rules and regulations shall require, at a minimum, that the application
+375 include the following:
+376 (1) If the applicant is an entity, identification of the applicant's principal owners, board
+377 of directors, officers, and supervisory employees;
+378 (2) Information, documentation, and assurances as may be required by the corporation
+379 to establish by clear and convincing evidence the applicant's good character, honesty, and
+380 integrity, including, but not limited to, information pertaining to family, habits, character,
+381 reputation, criminal and arrest records, business activities, financial affairs, and business,
+382 professional, and personal associates, covering at least the ten-year period immediately
+383 preceding the filing of the application. No license shall be issued to an applicant, if such
+384 applicant or a principal owner of such applicant, has been convicted of, has been found
+385 guilty of, or has pled guilty to, regardless of adjudication and in any jurisdiction, any
+386 felony or any misdemeanor that is directly related to gambling, dishonesty, theft, or fraud;
+387 (3) Notice and a description of civil judgments obtained against the applicant pertaining
+388 to antitrust or security regulation laws of the federal government, this state, or any other
+389 state, jurisdiction, province, or country;
+390 (4) To the extent available, letters of reference or the equivalent from law enforcement
+391 agencies having jurisdiction of the applicant's place of residence and principal place of
+392 business. Each such letter of reference shall indicate that the law enforcement agency
+393 does not have any pertinent information concerning the applicant or, if such law
+394 enforcement agency does have information pertaining to the applicant, shall provide such
+395 information, to the extent permitted by law;
+396 (5) If the applicant has conducted sports betting operations in another jurisdiction, a
+397 letter of reference from the regulatory body that governs sports betting that specifies the
+398 standing of the applicant with such regulatory body; provided, however, that, if no such
+399 letter is received within 60 days of the request therefor, the applicant may submit a
+H. B. 686 (SUB)
+- 16 -
+
+25 LC 55 0586S
+400 statement under oath that the applicant is or was, during the period such activities were
+401 conducted, in good standing with the regulatory body;
+402 (6) Information, documentation, and assurances concerning financial background and
+403 resources as may be required to establish by clear and convincing evidence the financial
+404 stability, integrity, and responsibility of the applicant, including, but not limited to, bank
+405 references, business and personal income and disbursement schedules, tax returns and
+406 other reports filed with governmental agencies, and business and personal accounting and
+407 check records and ledgers. Each applicant shall, in writing, authorize the examination of
+408 all bank accounts and records as may be deemed necessary by the corporation. The
+409 corporation may consider any relevant evidence of financial stability. In addition, the
+410 applicant shall:
+411 (A) Maintain a reserve of not less than $500,000.00 or the amount required to cover
+412 the outstanding liabilities for wagers accepted by the licensee, whichever is greater.
+413 Outstanding liabilities for wagers shall mean the sum of patron account balances, the
+414 amount paid by patrons for wagers that have not yet been determined, and the amount
+415 owed but unpaid by licensees to patrons for wagers whose results have been
+416 determined. The reserve may take the form of a bond, an irrevocable letter of credit,
+417 payment processor reserves and receivables, cash or cash equivalents segregated from
+418 operational funds, guaranty letter, or a combination thereof. Such reserve shall be
+419 adequate to pay winning wagers to bettors when due. An applicant is presumed to have
+420 met this standard if the applicant maintains, on a daily basis, subject to when banks are
+421 open, a minimum reserve in an amount which is at least equal to the average daily
+422 minimum reserve, calculated on a monthly basis, for the corresponding month in the
+423 previous year;
+424 (B) Meet ongoing operating expenses which are essential to the maintenance of
+425 continuous and stable sports betting operations; and
+426 (C) Pay, as and when due, all state and federal taxes;
+H. B. 686 (SUB)
+- 17 -
+
+25 LC 55 0586S
+427 (7) Information, documentation, and assurances as may be required to establish by clear
+428 and convincing evidence that the applicant has sufficient business ability and sports
+429 betting experience to establish the likelihood of the creation and maintenance of
+430 successful, efficient sports betting operations in this state;
+431 (8) Information, as required by the rules and regulations of the corporation, regarding the
+432 financial standing of the applicant;
+433 (9) A nonrefundable application fee and annual licensing fee as follows:
+434 (A) Applicants for a Type 1 sports betting license shall pay a nonrefundable
+435 application fee in the amount of $100,000.00 and an annual licensing fee in the amount
+436 of $1 million;
+437 (B) Applicants for an online sports betting services provider license shall pay a
+438 nonrefundable application fee in the amount of $10,000.00 and an annual licensing fee
+439 of $100,000.00; provided, however, that an online sports betting services provider that
+440 applies for and obtains a Type 1 sports betting license pursuant to paragraph (3) of
+441 subsection (b) of Code Section 50-27-133 shall only be required to pay the
+442 nonrefundable application fee and annual licensing fee applicable to the applicant's
+443 Type 1 sports betting license; and
+444 (C) Applicants for a sports betting supplier license shall pay a nonrefundable
+445 application fee in the amount of $2,000.00 and an annual licensing fee of $20,000.00;
+446 and
+447 (10) Any additional information, documents, or assurances required by the rules and
+448 regulations of the corporation.
+449 (d) The corporation shall review and approve or deny an application for a license not more
+450 than 90 days after receipt of an application.
+H. B. 686 (SUB)
+- 18 -
+
+25 LC 55 0586S
+451 50-27-131.
+452 (a) A licensee may renew its license by submitting an application on a form in such
+453 manner and in accordance with such requirements as may be prescribed by the rules and
+454 regulations of the corporation. A licensee shall submit the nonrefundable application fee
+455 prescribed under paragraph (9) of subsection (c) of Code Section 50-27-130 with its
+456 application for license renewal.
+457 (b) For each application for licensure or renewal of a license approved under this Code
+458 section, the amount of the application fee shall be credited toward the licensee's annual
+459 licensing fee and the licensee shall remit the balance of the annual license fee to the
+460 corporation upon approval of a license.
+461 (c) Each licensee shall have a continuing duty to promptly inform the corporation of any
+462 change in status relating to any information that may disqualify the licensee from holding
+463 a license under Code Section 50-27-132.
+464 (d) A professional sports governing body and a Type 1 eligible entity may enter into
+465 commercial agreements with an online sports betting services provider or other entities that
+466 provide for such professional sports governing body and Type 1 eligible entity to share in
+467 the amounts wagered or revenue derived from wagers on the sporting events of such
+468 professional sports governing body and Type 1 eligible entity. A professional sports
+469 governing body and a Type 1 eligible entity shall not be required to obtain any approval
+470 or other form of authorization from the corporation to enter into such commercial
+471 agreements or to lawfully accept such amounts or revenues. The corporation shall not
+472 prescribe any terms or conditions that are required to be included in such commercial
+473 agreements.
+474 (e) A person that holds a license or permit to engage in sports betting issued by another
+475 jurisdiction, either directly or through a parent company or affiliated subsidiary, may
+476 submit a request to the corporation for a temporary license for such person to immediately
+477 commence engagement in this state in sports betting. Such request shall include the
+H. B. 686 (SUB)
+- 19 -
+
+25 LC 55 0586S
+478 application fee and annual licensing fee required under paragraph (9) of subsection (c) of
+479 Code Section 50-27-130.
+480 (f) Upon receiving a request for a temporary license, the chief executive officer shall
+481 review the request. If the chief executive officer reviews the request and determines that
+482 the person requesting the temporary license holds a license or permit issued by another
+483 jurisdiction to engage in sports betting and has paid the required application fee and annual
+484 licensing fee, the chief executive officer may authorize such person to engage in sports
+485 betting pursuant to this article under a temporary license for up to one year or until a final
+486 determination on such person's application is made, whichever is later.
+487 (g) All licenses issued under this article shall be valid for a term of five years, unless
+488 suspended or revoked as provided under this article.
+489 (h) The corporation may adopt rules and regulations prescribing the manner in which a
+490 license may be transferred and a fee for a license transfer.
+491 (i) A licensee may maintain the bond, letter of credit, or cash reserve at any bank lawfully
+492 operating in this state and the licensee shall be the beneficiary of any interest accrued
+493 thereon.
+494 50-27-132.
+495 (a) The following persons shall not be eligible to apply for or obtain a license under this
+496 article:
+497 (1) A member of the board of directors or employee of the corporation or an employee
+498 of a corporation vendor; provided, however, that a corporation vendor as an entity may
+499 be eligible to apply for or obtain a license;
+500 (2) An employee of a professional sports team on which the applicant offers sports
+501 betting;
+H. B. 686 (SUB)
+- 20 -
+
+25 LC 55 0586S
+502 (3) A coach of or player for a collegiate, professional, or Olympic sports team or sport
+503 for which the applicant offers sports betting, or an entity that has an affiliation or interest
+504 in such a sports team or sport;
+505 (4) An individual who is a member or employee of any professional sports governing
+506 body or sporting events operator for which the applicant offers sports betting;
+507 (5) An individual or entity with an owner, officer, or director who has been convicted of
+508 a crime of moral turpitude or similar degree as specified in rules and regulations
+509 promulgated by the corporation pursuant to this article;
+510 (6) A person having the ability to directly affect the outcome of a sporting event upon
+511 which the applicant offers sports betting;
+512 (7) A trustee or regent of a governing board of a public or private institution of higher
+513 education;
+514 (8) An individual prohibited by the rules or regulations of a professional sports
+515 governing body or sporting events operator of a collegiate sports team, league, or
+516 association from participating in sports betting;
+517 (9) A student or an employee of a public or private institution of higher education who
+518 has access to material nonpublic information concerning a student athlete or a sports
+519 team, unless such access to information is deemed incidental; and
+520 (10) Any other category of persons, established by the rules and regulations of the
+521 corporation, that, if licensed, would negatively affect the integrity of sports betting in this
+522 state.
+523 (b) An individual listed in paragraphs (2) through (10) of subsection (a) of this Code
+524 section may hold an ownership interest in an applicant or licensee without disqualifying
+525 the applicant or licensee from obtaining or holding a license; provided, however, that such
+526 an ownership interest of 25 percent or more shall require approval from the corporation.
+527 In determining whether such an ownership interest shall be the basis of disqualification, the
+H. B. 686 (SUB)
+- 21 -
+
+25 LC 55 0586S
+528 corporation shall consider whether such interest would negatively affect the integrity of
+529 sports betting in this state and any other factors the corporation shall deem relevant.
+530 50-27-133.
+531 (a) A Type 1 sports betting license authorizes the licensee, or its designated online sports
+532 betting services provider, to offer online sports betting. If a Type 1 eligible entity
+533 designates an online sports betting services provider, the designated online sports betting
+534 services provider shall instead fulfill the application and operational requirements for sports
+535 betting offered pursuant to this article. The corporation shall establish a procedure for a
+536 Type 1 eligible entity to designate an online sports betting provider.
+537 (b) The corporation shall issue not more than 16 Type 1 sports betting licenses as follows:
+538 (1) Five Type 1 sports betting licenses shall be reserved for the Type 1 eligible entities
+539 defined in subparagraph (A) of paragraph (41) of Code Section 50-27-122; provided,
+540 however, that more than one license may be issued to an owner of multiple professional
+541 sports teams;
+542 (2) One Type 1 sports betting license shall be reserved for each of the Type 1 eligible
+543 entities defined in subparagraphs (B) through (E) of paragraph (41) of Code Section
+544 50-27-122; and
+545 (3) The corporation shall award the remaining seven Type 1 sports betting licenses to
+546 separate online sports betting services providers via a public procurement process.
+547 (c) The master sports betting licensee shall be deemed a Type 1 licensee and shall not be
+548 required to apply for a license; provided, however, that an online sports betting services
+549 provider engaged by the master sports betting licensee shall be required to apply for an
+550 online sports betting services provider license to operate online sports betting on behalf of
+551 the master sports betting licensee. Any proceeds derived from the master sports betting
+552 licensee from its activities as a Type 1 sports betting licensee shall be used in the same
+H. B. 686 (SUB)
+- 22 -
+
+25 LC 55 0586S
+553 manner as and subject to the same requirements of lottery proceeds under Article 1 of this
+554 chapter.
+555 (d) A Type 1 eligible entity may contract with no more than one online sports betting
+556 services provider to operate online sports betting on behalf of the Type 1 eligible entity.
+557 (e) A Type 1 eligible entity shall provide written notice to the corporation of its intention
+558 to apply for a Type 1 sports betting license within 60 days of the effective date of this
+559 article. The failure of a Type 1 eligible entity to provide such written notice shall result in
+560 the permanent disqualification and prohibition of such Type 1 eligible entity from
+561 obtaining a Type 1 sports betting license.
+562 (f) A Type 1 sports betting licensee shall not offer online sports betting until the
+563 corporation has issued a Type 1 sports betting license to at least one online sports betting
+564 services provider via the public procurement process as determined by the corporation.
+565 (g) The corporation shall begin to accept applications for all 16 Type 1 sports betting
+566 licenses under subsection (b) of this Code section on the same date.
+567 (h) All applicants for the 16 Type 1 sports betting licenses under subsection (b) of this
+568 Code section that have submitted an application within 30 days of the date in which the
+569 corporation began to accept applications for Type 1 sports betting licenses shall be given
+570 an equal opportunity to first commence offering, conducting, or operating online sports
+571 betting in this state on the same day, and in any event not later than July 31, 2027.
+572 (i) A Type 1 eligible entity described in subparagraphs (A) through (D) of paragraph (41)
+573 of Code Section 50-27-122 that becomes a Type 1 sports betting licensee or designates an
+574 online sports betting services provider shall establish and maintain procedures with respect
+575 to sporting events which the Type 1 eligible entity participates in or administers to ensure
+576 avoidance of conflicts of interest in the operation of sports betting in this state.
+H. B. 686 (SUB)
+- 23 -
+
+25 LC 55 0586S
+577 50-27-134.
+578 (a) An online sports betting services provider shall offer online sports betting only in
+579 accordance with the provisions of this article and the rules and regulations adopted by the
+580 corporation under this article.
+581 (b) An online sports betting services provider shall obtain a license under this article
+582 before offering online sports betting pursuant to a contract with a Type 1 sports betting
+583 licensee or master sports betting licensee. An online sports betting services provider
+584 license shall entitle the holder to contract with no more than one Type 1 sports betting
+585 licensee.
+586 (c) If the holder of a Type 1 sports betting license is a Type 1 eligible entity and is a
+587 member of a league, association, or organization that prevents the holder from being
+588 subject to the regulatory control of the corporation or from otherwise operating under the
+589 license, such a Type 1 eligible entity may contractually appoint an online sports betting
+590 services provider for all aspects of corporation oversight and operations under the Type 1
+591 sports betting license.
+592 (d) Institutional investors shall be exempt from any and all qualification and disclosure
+593 requirements under this article or required under the rules and regulations promulgated by
+594 the corporation pursuant to this article. Such exemption shall extend to the owners,
+595 directors, and officers of such institutional investors.
+596 50-27-135.
+597 No licensee shall offer or accept any proposition bet on a collegiate sporting event.
+H. B. 686 (SUB)
+- 24 -
+
+25 LC 55 0586S
+598 Part 3
+599 50-27-150.
+600 (a) Notwithstanding any other law to the contrary, there shall be imposed an annual
+601 privilege tax of 24 percent of the adjusted gross income derived from online sports betting
+602 in accordance with this Code section.
+603 (b) The privilege tax described in subsection (a) of this Code section shall be paid by the
+604 online sports betting services provider; provided, however, that, if a Type 1 sports betting
+605 licensee does not contract with an online sports betting services provider, such privilege
+606 tax shall be paid by such Type 1 sports betting licensee as provided for in subsection (c)
+607 of this Code section. This subsection shall not apply to the master sports betting licensee.
+608 (c) The privilege tax imposed under this Code section shall be paid monthly by the online
+609 sports betting services provider based on its monthly adjusted gross income for the
+610 immediately preceding calendar month. The privilege tax shall be paid to the corporation
+611 in accordance with rules and regulations promulgated by the corporation. If the online
+612 sports betting services provider's adjusted gross income for a month is a negative number,
+613 such online sports betting services provider may carry over such negative amount to
+614 subsequent months.
+615 (d) The state treasurer shall establish a separate trust fund in the state treasury that shall
+616 be known as the Georgia Sports Betting Proceeds Trust Fund. All moneys collected by the
+617 corporation from the privilege tax imposed under this Code section shall be, on the
+618 fifteenth day of each quarter, transferred by the corporation to the Georgia Sports Betting
+619 Proceeds Trust Fund. The state treasurer shall invest the moneys held in such trust fund
+620 in the same manner in which state funds are invested as authorized by the State Depository
+621 Board pursuant to Article 3 of Chapter 17 of Title 50. Interest earned by the moneys held
+622 in the Georgia Sports Betting Proceeds Trust Fund shall be accounted for separately and
+623 shall be credited to such trust fund to be disbursed as other moneys in the trust fund. All
+H. B. 686 (SUB)
+- 25 -
+
+25 LC 55 0586S
+624 moneys held in the Georgia Sports Betting Proceeds Trust Fund shall be appropriated
+625 annually by the General Assembly for the programs and purposes set forth in Article I,
+626 Section II, Paragraph VIII(e) of the Constitution of Georgia.
+627 (e) With the exception of application fees and annual licensing fees imposed by
+628 paragraph (9) of subsection (c) of Code Section 50-27-130, the privilege tax imposed under
+629 this Code section is in lieu of all other state and local sales and use taxes, income taxes, and
+630 fees imposed on the operation of sports betting or on the proceeds from the operation of
+631 sports betting in this state. This subsection shall not exempt goods and services purchased
+632 by licensees in the ordinary course of business from the imposition of state or local sales
+633 and use taxes that would otherwise apply, nor shall it exempt licensees from the payment
+634 of taxes on real property owned by the licensee.
+635 50-27-151.
+636 All moneys collected by the corporation for fees, fines, and penalties imposed under this
+637 article, including, but not limited to, the application fees and annual licensing fees imposed
+638 by paragraph (9) of subsection (c) of Code Section 50-27-130; any fines imposed under
+639 Code Sections 50-27-160, 50-27-162, and 50-27-193; and any penalties imposed under
+640 Code Section 50-27-194, shall be separately accounted for and used to pay the operating
+641 expenses of the corporation associated with the administration of the provisions of this
+642 article; provided, however, that any such fees, fines, and penalties that are not used to pay
+643 such operating expenses shall, at the end of each fiscal year, be transferred by the
+644 corporation to the Georgia Sports Betting Proceeds Trust Fund less any amounts held by
+645 the corporation as an operating reserve, which such amounts shall not exceed the greater
+646 of $5 million or 10 percent of all moneys collected by the corporation for fees, fines, and
+647 penalties imposed under this article in the most recent fiscal year.
+H. B. 686 (SUB)
+- 26 -
+
+25 LC 55 0586S
+648 50-27-152.
+649 (a) Each Type 1 licensee or its sports betting services provider shall report to the
+650 corporation, no later than January 15 of each year:
+651 (1) The total amount of wagers received from bettors for the immediately preceding
+652 calendar year;
+653 (2) The adjusted gross income of the licensee for the immediately preceding calendar
+654 year; and
+655 (3) Any additional information required by the rules and regulations of the corporation
+656 deemed in the public interest or necessary to maintain the integrity of sports betting in
+657 this state.
+658 (b) A licensee shall promptly report to the corporation any information relating to:
+659 (1) The name of any newly elected officer or director of the board of the licensed entity;
+660 and
+661 (2) The acquisition by any person of 10 percent or more of any class of corporate stock.
+662 (c) With respect to information reported under subsection (b) of this Code section, a
+663 licensee shall include with such report a statement of any conflict of interest that may exist
+664 as a result of such election or acquisition.
+665 (d) Upon receiving a report under this Code section or subsection (b) of Code
+666 Section 50-27-191, the corporation may conduct a hearing in accordance with Code Section
+667 50-27-193 to determine whether the licensee remains in compliance with this article.
+668 Part 4
+669 50-27-160.
+670 (a) No person shall knowingly:
+671 (1) Allow a minor to place a wager;
+H. B. 686 (SUB)
+- 27 -
+
+25 LC 55 0586S
+672 (2) Offer, accept, or extend credit to a bettor in the form of a marker or promotional
+673 credit;
+674 (3) Target minors in advertising or promotions for sports betting;
+675 (4) Offer or accept a wager on any event, outcome, or occurrence other than a sporting
+676 event, including, without limitation, a high school sporting event offered, sponsored, or
+677 played in connection with a public or private institution that offers education at the
+678 secondary level; or
+679 (5) Accept a wager from an individual who is prohibited from placing a wager or bet
+680 under Code Section 50-27-162, if such person has notice or actual knowledge that such
+681 individual is prohibited from placing such a wager or bet.
+682 (b) If the corporation determines that a person has violated any provision of this Code
+683 section, the corporation may impose an administrative fine not to exceed $25,000.00 per
+684 violation, or a total of $50,000.00 for violations arising out of the same transaction or
+685 occurrence.
+686 50-27-161.
+687 Except for those individuals ineligible to place bets under Code Section 50-27-162, an
+688 individual who is 21 years of age or older and who is physically located in this state may
+689 place a wager in the manner authorized under this article and the rules and regulations of
+690 the corporation.
+691 50-27-162.
+692 (a) The following individuals and categories of individuals shall not, directly or indirectly,
+693 place a wager on sporting events or online sports betting platforms in this state:
+694 (1) A member, officer, or employee of the corporation shall not place a wager on any
+695 sporting event or platform;
+H. B. 686 (SUB)
+- 28 -
+
+25 LC 55 0586S
+696 (2) A corporation vendor employee shall not place a wager on a sporting event using
+697 their employer's platform;
+698 (3) A licensee or principal owner, partner, member of the board of directors, officer, or
+699 supervisory employee of a licensee shall not place a wager on the licensee's platform;
+700 (4) A person that provides goods or services to a licensee or any principal owner, partner,
+701 member of the board of directors, officer, or supervisory employee of a person that
+702 provides such goods or services shall not place a wager on the licensee's platform;
+703 (5) A contractor, subcontractor, or consultant or any officer or employee of a contractor,
+704 subcontractor, or consultant of a licensee shall not place a wager on the licensee's
+705 platform, if such individual is directly involved in the licensee's operation of sports
+706 betting or the processing of sports betting claims or payments through the licensee's
+707 platform;
+708 (6) An individual subject to a contract with the corporation shall not place a wager on
+709 any platform, if the contract contains a provision prohibiting the individual from
+710 participating in sports betting;
+711 (7) An individual with access to material nonpublic information that is known
+712 exclusively by an individual who is prohibited from placing a wager in this state under
+713 this Code section shall not use any such information to place a wager on any sporting
+714 event or platform;
+715 (8) An amateur or Olympic athlete shall not place a wager on any sporting event in
+716 which the athlete participates;
+717 (9) A professional athlete shall not place a wager on any sporting event overseen by such
+718 athlete's professional sports governing body or sporting events operator;
+719 (10) A principal owner of a team, employee of a team, player, umpire, or sports union
+720 personnel, or employee, referee, coach, or official of a professional sports governing body
+721 or sporting events operator shall not place a wager on any sporting event, if the wager is
+H. B. 686 (SUB)
+- 29 -
+
+25 LC 55 0586S
+722 based on a sporting event overseen by the individual's professional sports governing body
+723 or sporting events operator;
+724 (11) An individual having the ability to directly affect the outcome of a sporting event
+725 shall not place a wager on such sporting event;
+726 (12) A trustee or regent of a governing board of a public or private institution of higher
+727 education shall not place a wager on a collegiate sporting event;
+728 (13) An individual prohibited by the rules or regulations of a professional sports
+729 governing body or sporting events operator of a collegiate sports team, league, or
+730 association from participating in sports betting shall not place a wager on any sporting
+731 event to which such prohibition applies; and
+732 (14) A student or an employee of a public or private institution of higher education who
+733 has access to material nonpublic information concerning a student athlete or a sports team
+734 shall be prohibited from placing a wager on a collegiate sporting event if such
+735 information is relevant to the outcome of such event.
+736 (b) The corporation may prescribe by rules and regulations additional individuals and
+737 categories of individuals who are prohibited from placing a wager on specified sporting
+738 events or online sports betting platforms in this state.
+739 (c) The corporation shall prescribe by rules and regulations any measures necessary to
+740 ensure individuals who are prohibited from placing a wager on specified sporting events
+741 or online sports betting platforms in this state shall not be permitted to collude with
+742 individuals not specifically enumerated in subsection (a) of this Code section to directly
+743 affect the outcome of a sporting event.
+744 (d) Any individual who places a wager in violation of this Code section:
+745 (1) For a first offense, shall be:
+746 (A) Indefinitely prohibited from placing a wager;
+747 (B) Required to forfeit the proceeds of any illegal wager;
+748 (C) Guilty of a misdemeanor; and
+H. B. 686 (SUB)
+- 30 -
+
+25 LC 55 0586S
+749 (D) Fined not less than $500.00 nor more than $1,000.00;
+750 (2) For a second offense, shall be:
+751 (A) Required to forfeit the proceeds of any illegal wager;
+752 (B) Guilty of a misdemeanor; and
+753 (C) Fined not less than $5,000.00 or imprisoned for not less than one month nor more
+754 than five months, or both; and
+755 (3) For a third or subsequent offense, shall be:
+756 (A) Required to forfeit the proceeds of any illegal wager;
+757 (B) Guilty of a misdemeanor of a high and aggravated nature; and
+758 (C) Fined not less than $7,500.00 or imprisoned for not less than three months, or both.
+759 50-27-163.
+760 (a) The corporation shall by rules and regulations prohibit betting on injuries, penalties,
+761 the outcome of player discipline rulings or replay reviews, and any other type or form of
+762 betting under this article that is contrary to public policy or unfair to bettors.
+763 (b)(1) A professional sports governing body or sporting events operator may submit to
+764 the corporation in writing, by providing notice in such form and manner as the
+765 corporation may require, a request to restrict, limit, or prohibit a certain type, form, or
+766 category of sports betting with respect to its sporting events, if the professional sports
+767 governing body or sporting events operator believes that such type, form, or category of
+768 sports betting with respect to its sporting events may undermine the integrity or perceived
+769 integrity of such professional sports governing body or sporting events operator or its
+770 sporting events. The corporation shall request comments from sports betting licensees
+771 and sports betting services provider licensees on all such requests it receives.
+772 (2) After giving due consideration to all comments received, the corporation shall, upon
+773 demonstration of good cause from the requestor that such type, form, or category of
+774 sports betting is likely to undermine the integrity or perceived integrity of such
+H. B. 686 (SUB)
+- 31 -
+
+25 LC 55 0586S
+775 professional sports governing body or sporting events operator or its sporting events,
+776 grant the request. The corporation shall respond to a request concerning a particular
+777 sporting event before the start of the event, or if it is not feasible to respond before such
+778 time, no later than seven days after the request is made. If the corporation determines that
+779 the requestor is more likely than not to prevail in successfully demonstrating good cause
+780 for its request, the corporation may provisionally grant the request of the professional
+781 sports governing body or sporting events operator until the corporation makes a final
+782 determination as to whether the requestor has demonstrated good cause. Absent such a
+783 provisional grant by the corporation, sports betting licensees may continue to offer sports
+784 betting on sporting events that are the subject of such a request during the pendency of
+785 the corporation's consideration of the applicable request.
+786 Part 5
+787 50-27-170.
+788 (a) Prior to placing a wager with a licensee via online sports betting, a bettor shall register
+789 and establish a player account with the licensee remotely during which the bettor shall
+790 attest that the individual meets the requirements to place a wager with a licensee in this
+791 state. Prior to verification of a bettor's identity in accordance with this Code section, a
+792 licensee shall not allow the bettor to place a wager, make a deposit, or process a withdrawal
+793 via online sports betting. A licensee shall implement commercially and technologically
+794 reasonable procedures to prevent access to sports betting by minors on its online sports
+795 betting platforms. A licensee may use information obtained from third parties to verify that
+796 an individual is authorized to open an account, place wagers, and make deposits and
+797 withdrawals.
+H. B. 686 (SUB)
+- 32 -
+
+25 LC 55 0586S
+798 (b) Each licensee shall adopt a registration policy to ensure that all bettors utilizing online
+799 sports betting are authorized to place a wager with a licensee within this state. Such policy
+800 shall include, without limitation, commercially reasonable mechanisms to:
+801 (1) Verify the identity and age of the registrant;
+802 (2) Verify that the registrant is not knowingly prohibited from placing a wager under
+803 Code Section 50-27-162; and
+804 (3) Obtain the following information from the registrant:
+805 (A) Legal name;
+806 (B) Date of birth;
+807 (C) Physical address other than a post office box;
+808 (D) Phone number;
+809 (E) A unique username; and
+810 (F) An active email account.
+811 (c) Each licensee may in its discretion require a bettor to provide the licensee with a signed
+812 and notarized document attesting that the bettor is qualified to engage in sports betting
+813 under this article as part of the registration policy of the licensee.
+814 (d) A bettor shall not register more than one account with a licensee, and each licensee
+815 shall use commercially and technologically reasonable means to ensure that each bettor is
+816 limited to one account.
+817 (e) Each licensee, in addition to complying with state and federal law pertaining to the
+818 protection of the private, personal information of registered bettors, shall use all other
+819 commercially and technologically reasonable means to protect such information consistent
+820 with industry standards.
+821 (f) A bettor may fund an account through:
+822 (1) Electronic bank transfer of funds, including such transfers through third parties;
+823 (2) Debit cards;
+824 (3) Online and mobile payment systems that support online money transfers; and
+H. B. 686 (SUB)
+- 33 -
+
+25 LC 55 0586S
+825 (4) Any other method approved by the rules and regulations of the corporation.
+826 (g)(1) Licensees shall not allow bets to be placed until first verifying the identity of the
+827 bettor pursuant to this Code section and by the rules promulgated by the corporation.
+828 Further, and pursuant to the rules promulgated by the corporation, licensees shall
+829 establish safeguards, including, but not limited to, access notifications and similar
+830 security safeguards, to protect each bettor's account. Such safeguards shall include,
+831 without limitation, the utilization of a two-factor authentication method each time a bettor
+832 accesses their account. As used in this paragraph, the term 'two-factor authentication
+833 method' means an authentication method that requires entry of a username and password
+834 followed by entry of another method of identification.
+835 (2) If a licensee determines that the information provided by a bettor to make a deposit
+836 or process a withdrawal is inaccurate or incapable of verification or violates the policies
+837 and procedures of the licensee, the licensee shall, within ten days, require the submission
+838 of additional information that can be used to verify the identity of such bettor.
+839 (3) If such information is not provided or does not result in verification of the bettor's
+840 identity, the licensee shall:
+841 (A) Immediately suspend the bettor's account and shall not allow the bettor to place
+842 wagers;
+843 (B) Retain any winnings attributable to the bettor; and
+844 (C) Refund the affected balance of deposits made to the account to the source of such
+845 deposit or by issuance of a check.
+846 (h) A licensee shall utilize geofencing technology to ensure that online sports betting is
+847 available only to bettors who are physically located in this state. Servers, including the use
+848 of backup servers, may be located outside of this state, consistent with federal law. To the
+849 extent required by federal law, a licensee shall maintain in this state the servers it uses to
+850 accept wagers on a sporting event placed by bettors located in this state.
+H. B. 686 (SUB)
+- 34 -
+
+25 LC 55 0586S
+851 (i) Each licensee shall clearly and conspicuously display on its public website a statement
+852 indicating that it is illegal for a person under 21 years of age to engage in sports betting in
+853 this state.
+854 (j) The corporation shall promulgate rules and regulations for purposes of regulating sports
+855 betting via online sports betting.
+856 50-27-171.
+857 (a) Licensees shall allow bettors to limit their betting activity with the licensee by, at a
+858 minimum, giving bettors the opportunity to place limits on the amounts deposited, the
+859 amounts wagered, and the amount of time spent wagering. Licensees shall take reasonable
+860 steps to prevent bettors from overriding their self-imposed responsible gambling limits.
+861 (b) The corporation shall promulgate rules and regulations that require a licensee to
+862 implement responsible sports betting programs. Such rules and regulations shall require
+863 a licensee to develop a strategic implementation plan with details as to:
+864 (1) The use of player data and technology to aid in identifying potential problem
+865 gamblers;
+866 (2) The use of automated triggers to identify and manage accounts of potential problem
+867 gamblers; and
+868 (3) The levels of intervention and education provided to identified at-risk players, which
+869 shall include at a minimum:
+870 (A) A first phase involving communications with the individual in order to educate the
+871 individual on the availability of various responsible gaming features and resources
+872 offered by the licensee;
+873 (B) A second phase that includes a video tutorial displayed to the individual either as
+874 one or multiple videos that provides education on the features and resources available;
+875 and
+H. B. 686 (SUB)
+- 35 -
+
+25 LC 55 0586S
+876 (C) A third phase, when warranted, that includes access to a responsible gaming
+877 professional provided by the licensee to advise the individual on possible corrective
+878 actions to address at-risk behavior.
+879 (c) The corporation shall work with national and local organizations to provide services
+880 for individuals with problem gambling or a betting or gambling disorder and to establish
+881 prevention initiatives to reduce the number of individuals with problem gambling or a
+882 betting or gambling disorder, including, but not limited to, utilizing currently established
+883 programs for problem gambling or betting or gambling disorders.
+884 (d) All sports betting advertisements shall prominently display messaging designed to
+885 prevent problem gambling and provide information about how to access resources related
+886 to problem gambling, including the National Council on Problem Gambling's helpline or
+887 other similar toll-free helpline.
+888 (e) The corporation shall annually generate a report outlining activities with respect to
+889 problem gambling and betting or gambling disorders, including, but not limited to,
+890 descriptions of programs, grants, and other resources made available; the number of
+891 individuals seeking assistance; the number of individuals who reported completing
+892 programs and therapies; and the rate of recidivism, if known to the corporation. The
+893 corporation shall file the annual report with the Governor, President of the Senate, and the
+894 Speaker of the House of Representatives and shall publish such report on its public website
+895 no later than January 30 of each year.
+896 50-27-172.
+897 (a) Each licensee shall adopt and adhere to a written, comprehensive policy outlining its
+898 rules governing the acceptance of wagers and payouts. Such policy and rules must be
+899 approved by the corporation prior to the acceptance of a wager by a licensee. Such policy
+900 and rules shall be readily available to a bettor on the licensee's public website.
+901 (b) The corporation shall promulgate rules and regulations regarding:
+H. B. 686 (SUB)
+- 36 -
+
+25 LC 55 0586S
+902 (1) The manner in which a licensee accepts wagers from and issues payouts to bettors,
+903 including payouts in excess of $10,000.00; and
+904 (2) Requirements for reporting suspicious wagers.
+905 Part 6
+906 50-27-180.
+907 (a) Licensees shall not be required to use official league data or official event data for
+908 determining the results of:
+909 (1) Tier 1 sports wagers on events of any organization, whether headquartered in the
+910 United States or elsewhere; or
+911 (2) Tier 2 sports wagers on events of organizations that are not headquartered in the
+912 United States.
+913 (b)(1) A professional sports governing body or sporting events operator headquartered
+914 in the United States may notify the corporation that it desires licensees to use official
+915 league data or official event data for determining the results of tier 2 sports wagers on its
+916 sporting events. A notification under this subsection shall be made in the form and
+917 manner as the corporation shall require. The corporation shall notify each licensee within
+918 five days after receipt of such notification from a professional sports governing body or
+919 sporting events operator. If a professional sports governing body or sporting events
+920 operator does not notify the corporation of its desire to supply official league data or
+921 official event data, licensees are not required to use official league data or official event
+922 data for determining the results of any tier 2 wagers on sporting events of that
+923 professional sports governing body or sporting events operator.
+924 (2) Within 60 days after the corporation notifies each licensee as provided under
+925 paragraph (1) of this subsection, or within a longer period as may be agreed between such
+926 professional sports governing body or sporting events operator and the applicable
+H. B. 686 (SUB)
+- 37 -
+
+25 LC 55 0586S
+927 licensee, each such licensee shall be required to use only official league data or official
+928 event data, as applicable, to determine the results of tier 2 sports wagers on sporting
+929 events sanctioned by such professional sports governing body or sporting events operator,
+930 except when:
+931 (A) The professional sports governing body or sporting events operator, or a designee
+932 thereof, is unable to provide a feed of official league data or official event data to
+933 determine the results of a particular type of tier 2 sports wager, in which case licensees
+934 are not required to use official league data for determining the results of the applicable
+935 tier 2 sports wager until the data feed becomes available on commercially reasonable
+936 terms and conditions; or
+937 (B) A licensee is able to demonstrate to the corporation that the professional sports
+938 governing body or sporting events operator, or a designee thereof, will not provide a
+939 feed of official league data or official event data to the licensee on commercially
+940 reasonable terms and conditions.
+941 (3) The following is a nonexclusive list of factors the corporation may consider in
+942 evaluating whether official league data or official event data is being offered on
+943 commercially reasonable terms and conditions for purposes of subparagraphs (A) and (B)
+944 of paragraph (2) of this subsection:
+945 (A) The extent to which licensees have purchased the same or similar official league
+946 data or official event data on the same or similar terms, particularly in jurisdictions
+947 where such purchase was not required by law or was required by law but only if offered
+948 on commercially reasonable terms;
+949 (B) The nature and quantity of the official league data or official event data, including,
+950 without limitation, its speed, accuracy, reliability, and overall quality as compared to
+951 comparable nonofficial data;
+952 (C) The quality and complexity of the process used to collect and distribute the official
+953 league data or official event data as compared to comparable nonofficial data;
+H. B. 686 (SUB)
+- 38 -
+
+25 LC 55 0586S
+954 (D) The availability of tier 2 official league data of a professional sports governing
+955 body or tier 2 official event data of a sporting events operator to a licensee from more
+956 than one authorized source;
+957 (E) Market information, including, without limitation, price and other terms and
+958 conditions, regarding the purchase of comparable data by licensees for the purpose of
+959 settling sports wagers, for use in this state or other jurisdictions; and
+960 (F) The extent to which professional sports governing bodies or sporting events
+961 operators, or designees thereof, have made available to licensees the data used to settle
+962 the results of tier 2 sports wagers and any terms and conditions relating to the use of
+963 such data.
+964 (4) Notwithstanding any provision to the contrary in this Code section, including,
+965 without limitation, paragraph (2) of this subsection, while the corporation is evaluating
+966 whether a professional sports governing body or a sporting events operator, or the
+967 designee thereof, will provide a feed of official league data or official event data on
+968 commercially reasonable terms and conditions pursuant to paragraph (3) of this
+969 subsection, licensees are not required to use official league data or official event data for
+970 determining the results of tier 2 sports wagers.
+971 (5) The corporation shall make a determination under paragraph (3) of this subsection
+972 within 60 days after the licensee notifies the corporation that it desires to demonstrate that
+973 the professional sports governing body or sporting events operator, or a designee thereof,
+974 will not provide a feed of official league data or official event data to such licensee on
+975 commercially reasonable terms and conditions.
+H. B. 686 (SUB)
+- 39 -
+
+25 LC 55 0586S
+976 Part 7
+977 50-27-190.
+978 Members of the corporation or designated employees thereof may, during normal business
+979 hours, enter the premises of any facility of a licensee, or a third party utilized by the
+980 licensee to operate and conduct business in accordance with this article, for the purpose of
+981 inspecting books and records kept as required by this article to ensure that the licensee is
+982 in compliance with this article or to make any other inspection of the premises necessary
+983 to protect the public interests of this state and its consumers.
+984 50-27-191.
+985 (a) The corporation, licensees, corporation vendors, and vendors shall use commercially
+986 reasonable efforts to cooperate with investigations conducted by any professional sports
+987 governing body, any sporting events operator, and law enforcement agencies, including,
+988 but not limited to, using commercially reasonable efforts to provide or facilitate the
+989 provision of betting information.
+990 (b) Licensees shall promptly report to the corporation any information relating to:
+991 (1) Abnormal betting activity or patterns that may indicate a concern with the integrity
+992 of a sporting event; and
+993 (2) Conduct that corrupts the betting outcome of a sporting event for purposes of
+994 financial gain, including match fixing.
+995 (c) Licensees shall, as soon as is practicable, report any information relating to conduct
+996 described in subsection (b) of this Code section to the professional sports governing body
+997 or sporting events operator.
+998 (d) Licensees shall use commercially reasonable efforts to maintain, in real time and at the
+999 account level, anonymized information regarding a bettor; the amount and type of bet; the
+1000 time the bet was placed; the location of the bet, including the internet protocol address if
+H. B. 686 (SUB)
+- 40 -
+
+25 LC 55 0586S
+1001 applicable; the outcome of the bet; and records of abnormal betting activity for three years
+1002 after the sporting event occurs. The corporation may request such information in the form
+1003 and manner required by the rules and regulations of the corporation. As used in this
+1004 subsection, the term 'real time' means on a commercially reasonable periodic interval.
+1005 (e) All records, documents, and information received by the corporation pursuant to this
+1006 Code section shall be considered investigative records of a law enforcement agency, shall
+1007 not be subject to Article 4 of Chapter 18 of this title, and shall not be released under any
+1008 condition without the permission of the person providing such records, documents, or
+1009 information.
+1010 (f) Nothing in this Code section shall require a sports betting licensee to provide any
+1011 information that is prohibited by federal, state, or local laws or rules and regulations,
+1012 including, without limitation, laws and rules and regulations relating to privacy and
+1013 personally identifiable information.
+1014 (g) If a professional sports governing body or sporting events operator has notified the
+1015 corporation that access to the information described in subsection (d) of this Code section
+1016 for wagers placed on its sporting events is necessary to monitor the integrity of its sporting
+1017 events and represents to the corporation that it specifically uses such data for the purpose
+1018 of monitoring the integrity of sporting events of such professional sports governing body
+1019 or sporting events operator, then licensees shall share, in a commercially reasonable
+1020 frequency, form, and manner, with the professional sports governing body or sporting
+1021 events operator, or a designee thereof, the same information the licensee is required to
+1022 maintain under subsection (d) of this Code section with respect to sports wagers on such
+1023 a body's or operator's sporting events. A professional sports governing body or sporting
+1024 events operator, or a designee thereof, shall use information received under this subsection
+1025 for integrity-monitoring purposes only and shall not use such information for commercial
+1026 or any other purposes. Nothing in this subsection shall require a licensee to provide any
+1027 information that is prohibited by federal, state, or local laws, rules, or regulations,
+H. B. 686 (SUB)
+- 41 -
+
+25 LC 55 0586S
+1028 including, but not limited to, laws, rules, or regulations relating to privacy and personally
+1029 identifiable information.
+1030 50-27-192.
+1031 The corporation shall assist in any investigations by law enforcement to determine whether:
+1032 (1) A licensee is accepting wagers from minors or other persons ineligible to place
+1033 wagers under Code Section 50-27-162; and
+1034 (2) An individual is unlawfully accepting wagers from another individual without a
+1035 license or at a location in violation of this article.
+1036 50-27-193.
+1037 (a) The corporation may investigate and conduct a hearing with respect to a licensee upon
+1038 information and belief that the licensee has violated the provisions of this article or upon
+1039 the receipt of a credible complaint from any person that a licensee has violated the
+1040 provisions of this article. The corporation shall conduct investigations and hearings in
+1041 accordance with rules and regulations adopted by the corporation.
+1042 (b) If the corporation determines that a licensee has violated any provision of this article
+1043 or any rules and regulations of the corporation, the corporation may:
+1044 (1) Suspend, revoke, or refuse to renew a license; or
+1045 (2) Impose an administrative fine not to exceed $25,000.00 per violation or a total of
+1046 $50,000.00 for violations arising out of the same transaction or occurrence, or both.
+1047 (c) The corporation shall promulgate rules and regulations establishing a schedule of
+1048 administrative fines that may be assessed in accordance with subsection (b) of this Code
+1049 section for each violation of this article; provided, however, that, if the corporation finds
+1050 that:
+H. B. 686 (SUB)
+- 42 -
+
+25 LC 55 0586S
+1051 (1) A licensee is knowingly accepting wagers from minors or other persons ineligible to
+1052 place wagers in this state, the corporation shall impose a fine against the licensee as
+1053 follows:
+1054 (A) For a first offense, $1,000.00;
+1055 (B) For a second offense, $2,000.00; and
+1056 (C) For a third or subsequent offense, $5,000.00; or
+1057 (2) An individual is unlawfully accepting wagers from another individual without a
+1058 license, the corporation shall impose a fine against the individual as follows:
+1059 (A) For a first offense, $10,000.00;
+1060 (B) For a second offense, $15,000.00; and
+1061 (C) For a third or subsequent offense, $25,000.00.
+1062 (d) The corporation may refer conduct that it reasonably believes is a violation of Article 2
+1063 of Chapter 12 of Title 16 to the appropriate law enforcement agency.
+1064 50-27-194.
+1065 (a) Any person that violates any provision of this article shall be liable for a civil penalty
+1066 of not more than $5,000.00 per violation, not to exceed $50,000.00 for violations arising
+1067 out of the same transaction or occurrence, which shall accrue to the corporation and may
+1068 be recovered in a civil action brought by or on behalf of the corporation.
+1069 (b) The corporation may seek and obtain an injunction in a court of competent jurisdiction
+1070 for purposes of enforcing this article.
+1071 (c) Costs shall not be taxed against the corporation or this state for actions brought under
+1072 this article.
+H. B. 686 (SUB)
+- 43 -
+
+25 LC 55 0586S
+1073 50-27-195.
+1074 The corporation may issue subpoenas to compel the attendance of witnesses and the
+1075 production of relevant books, accounts, records, and documents for purposes of carrying
+1076 out its duties under this article.
+1077 50-27-196.
+1078 (a) A licensee or other individual aggrieved by a final decision or action of the corporation
+1079 may appeal such decision or action to the Superior Court of Fulton County.
+1080 (b) The Superior Court of Fulton County shall hear appeals from decisions or actions of
+1081 the corporation and, based upon the record of the proceedings before the corporation, may
+1082 reverse the decision or action of the corporation only if the appellant proves the decision
+1083 or action to be:
+1084 (1) Clearly erroneous;
+1085 (2) Arbitrary and capricious;
+1086 (3) Procured by fraud;
+1087 (4) A result of substantial misconduct by the corporation; or
+1088 (5) Contrary to the United States Constitution, the Constitution of Georgia, or this article.
+1089 (c) The Superior Court of Fulton County may remand an appeal to the corporation to
+1090 conduct further hearings.
+1091 50-27-197.
+1092 (a) It shall be unlawful for any person, directly or indirectly, to knowingly receive, supply,
+1093 broadcast, display, or otherwise transmit material nonpublic information for the purpose
+1094 of betting on a sporting event or influencing another individual's or entity's wager on a
+1095 sporting event.
+1096 (b) This Code section shall not apply to the dissemination of public information as news,
+1097 entertainment, or advertising.
+H. B. 686 (SUB)
+- 44 -
+
+25 LC 55 0586S
+1098 (c) Any person in violation of this Code section shall be indefinitely prohibited from
+1099 placing a wager, be required to forfeit the proceeds of any illegal wager, and be guilty of
+1100 a misdemeanor."
+1101 PART III
+1102 SECTION 3-1.
+1103 Part 1 of Article 2 of Chapter 12 of Title 16 of the Official Code of Georgia Annotated,
+1104 relating to gambling, is amended by revising paragraph (1) of Code Section 16-12-20,
+1105 relating to definitions, as follows:
+1106 "(1) 'Bet' means an agreement that, dependent upon chance even though accompanied
+1107 by some skill, one stands to win or lose something of value. A bet does not include:
+1108 (A) Contracts of indemnity or guaranty or life, health, property, or accident insurance;
+1109 or
+1110 (B) An offer of a prize, award, or compensation to the actual contestants in any bona
+1111 fide contest for the determination of skill, speed, strength, or endurance or to the owners
+1112 of animals, vehicles, watercraft, or aircraft entered in such contest; or
+1113 (C) Any consideration paid to participate in online sports betting offered pursuant to
+1114 Article 4 of Chapter 27 of Title 50."
+1115 SECTION 3-2.
+1116 Said part is further amended by revising Code Section 16-12-27, relating to advertisement
+1117 or solicitation for participation in lotteries, as follows:
+1118 "16-12-27.
+1119 (a) It shall be unlawful for any person, partnership, firm, corporation, or other entity to
+1120 sell, distribute, televise, broadcast, or disseminate any advertisement, television or radio
+1121 commercial, or any book, magazine, periodical, newspaper, or other written or printed
+H. B. 686 (SUB)
+- 45 -
+
+25 LC 55 0586S
+1122 matter containing an advertisement or solicitation for participation in any lottery declared
+1123 to be unlawful by the laws of this state unless such advertisement, commercial, or
+1124 solicitation contains or includes the words 'void in Georgia' printed or spoken so as to be
+1125 clearly legible or audible to persons viewing or hearing such advertisement, commercial,
+1126 or solicitation.
+1127 (b) Any person, partnership, firm, corporation, or other entity violating subsection (a) of
+1128 this Code section shall be guilty of a misdemeanor.
+1129 (c) This Code section shall not apply to any advertisement or solicitation for participation
+1130 in online sports betting by any person licensed under Article 4 of Chapter 27 of Title 50
+1131 that is concerning such licensee's lawful activities."
+1132 SECTION 3-3.
+1133 Said part is further amended by revising Code Section 16-12-28, relating to communicating
+1134 gambling information, as follows:
+1135 "16-12-28.
+1136 (a) A person who knowingly communicates information as to bets, betting odds, or
+1137 changes in betting odds or who knowingly installs or maintains equipment for the
+1138 transmission or receipt of such information with the intent to further gambling commits the
+1139 offense of communicating gambling information.
+1140 (b) A person who commits the offense of communicating gambling information, upon
+1141 conviction thereof, shall be punished by imprisonment for not less than one nor more than
+1142 five years or by a fine not to exceed $5,000.00, or both.
+1143 (c) This Code section shall not apply to the activities authorized under Article 4 of
+1144 Chapter 27 of Title 50."
+H. B. 686 (SUB)
+- 46 -
+
+25 LC 55 0586S
+1145 PART IV
+1146 SECTION 4-1.
+1147 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+1148 amended by revising paragraph (55) of Code Section 48-8-3, relating to exemptions from
+1149 state sales and use tax, as follows:
+1150 "(55) The sale of lottery tickets authorized by Chapter 27 of Title 50 or wagers
+1151 authorized by Article 4 of Chapter 27 of Title 50;"
+1152 PART V
+1153 SECTION 5-1.
+1154 This Act shall become effective on January 1, 2027, following the ratification of an
+1155 amendment to the Constitution of Georgia authorizing the General Assembly to provide by
+1156 law for the operation and regulation of sports betting activities; provided, however, to the
+1157 extent that this Act conflicts with law in effect at the time of ratification, this Act and such
+1158 amendment shall control, and to the extent such law is not in conflict, the law in effect at the
+1159 time of ratification shall control and shall remain in full force and effect. If such amendment
+1160 is not so ratified, then this Act shall stand automatically repealed.
+1161 SECTION 5-2.
+1162 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 686 (SUB)
+- 47 -
+
+[DELETED: 5LTstfscl r a q o t l o a p oop0B1r2p3r4d5c6p7c8G]
+[DELETED: 5L9c0l e i o s b f r a r r1g2t3f4c5B6P7S8T9i0r1f2(3t4s5(6o7(8c9r0d1p2t a a A 2 o t c s b e f t r o]
+[DELETED: 5L3C4o5u6o7a a r r p o p r t t a8e9o0P1S2S3L4A5P657T859T0(1G2p m r p c a e t s b i3o]
+[DELETED: 5L4(5t6a7(8w9(0p a b A I S I P V o t C o1G2(3m4t5C657A8(9m0i1(2(3(4(5(6(7t8(9d i o m o a s e o o a e]
+[DELETED: 5L0i1c2s3(4a5(6p7(8c9p a a d p b a s r o t0p1(2t3(4r5(6(7f8(9(0c1(2(3(4(5(6a]
+[DELETED: 5L7(8(9p c a a c p c o a t0i1t p o m h o c p t o r2d3s4r5(6d7(8(9o0(1s p2o3a4p5(6a7g8e a b s p s g b t p s9i0(1i2p]
+[DELETED: 5L3(4d5a6(7m859b0(1o2p3(4f5(6(7e8(9t0s1(2w3p4p5(6(7(8(9p]
+[DELETED: 5L0(1o2s3t4(5(6i7(8(9(0a1(2(3(4S5o6n7(8e9e0(1(2c3(4(5(]
+[DELETED: 5L6(7n f t c o s b m a t d o b8o9t0(1(2(3(4(  O p o s b s s a d b t5c6(7(8l9(0s1(2e3(4t5s6(7s8b9(0(1(]
+[DELETED: 5L2(3g4o5o6(7t8(9n0s1n2(3(4s5p6a7(8o9i0w o w m w p e w i1w2a3p4c]
+[DELETED: 5L556(7o8a9(  T h j s a r a o s b0i1m2l3(4i5a6d7c8(9l0r s l1c2a3(4p5a6p7t8c9C0(1o]
+[DELETED: 5L2w3d4(5d6t7l8w9(0b1(  T e i a w a f o d g o2g3a4(5c6(7i8j9(0t1(2p3(4p5(6r7d o g8d]
+[DELETED: 5L9(0p1s2(3o4p5u l t a p d a i t m i6d7(8a9r0i1s2(  A p f i t e c r t p3g4(5b6t7d8(9p0c1o2(3a4g]
+[DELETED: 5L5t i o s t m b a p i w6g7(8a9c0(1a2(3e4(  T c s n h t p t p a l m o5m657T8(9o0(1(2i3(4(5o6(7(8(9f]
+[DELETED: 5L0(  T t o i d t b c f o p1i2(3m4(5b6P758(9l0(1a2f3(4(5(6(7(8i9(0a1(2(3a]
+[DELETED: 5L4c5i6(7o8(9t0i1r2p3p4a5g6f7(8t9s0(1a2b3d n h a p i c t a o i s l4e5i6(7l8s9l]
+[DELETED: 5L0s1c2(3r4s5r6o7c8a9c0a1(2t3O4a5o b u b l t p f w w r h b6d7p8o9a0m1o2m3p4(  M o o e w a e t t m o5c6(]
+[DELETED: 5L7(8a9b e t e t l o t c a m o0s1(2f3(4(  A f a T 1 s b l s p a n5a6o7(  A f a o s b s p l s p 8n9o0a1s ( o C S 5 s o b r t p t2n3T4(  A f a s b s l s p a n5a6a7(8r9(0t]
+[DELETED: 5L152(3m4r5p6a7(8s9l0c1(2c3a4(5c6p7t8p9g0o o f o a f t c t e i s c1a2p3a4(5j6s7c]
+[DELETED: 5L8a9C0(1r2t3j4l5b6d7(8s9(0l1(2o3t455(6a7(8o9b0(1b]
+[DELETED: 5L2(3f4i5(6b7(8a c o m t o s d a s i r a r9p0(1w2(3e4(  A i p b t r o r o a p s5g b o s e o o a c s t l o6a7(8h9t0(1c2s3(4s5t6a7I]
+[DELETED: 5L8c9s051(2b s p t o o s b  I a T 1 e e3d4s5b6T7(8(9d0h1s2(3e455(6s7(8r9p0o1t2l]
+[DELETED: 5L3m4c5(6s7(8t9a0t p d a p o s T 1 e e f1o2(  A T 1 s b l s n o o s b u t3c4s5(6l7(8C9c0a1b2(3o4o5t6a]
+[DELETED: 5L758(9a0c1(2b3l4l5l6(7m8s9l0s1s2(3r4t5d657N]
+[DELETED: 5L8P950(1p2i3(4o5l6t7o8(9s b s p b o i m a g i f t0i1i2s3s4s5(6b7c f t p t i u t C s s b o t8f9P0i1B2i3s]
+[DELETED: 5L4m5a6S7(  W t e o a f a a l f i b8p9t0f1s2b3a4o556A7a8b9C0C1e2a3s o e s a t e o e f y b t b t4c5t6o7p]
+[DELETED: 5L859(  E T 1 l o i s b s p s r t t0c1(2c3(4y5(6d7t8(9(0a1(2(3l4a5(  U r a r u t C s o s ( o C6S758P950(1(]
+[DELETED: 5L2(3c4(5(6e7p8s9(0u1i2(3s4v5o657E8i9p0t152(3p4(5s]
+[DELETED: 5L6(7t8(9s0(1m2p3(4s o c o a l s n p a w o t l5p6b7p8(9a p i t c c a p p t i f0p1(  A i w a t m n i t i k2e3t4e5(6w7(8a9(0p1o]
+[DELETED: 5L2b3o4(5s6(7e8(  A i p b t r o r o a p s9g b o s e o o a c s t l o0a1e2(3h4s b p f p a w o a c s e i s5i6(7c8e9(0e1o2i3a4(5(6(7(8(]
+[DELETED: 5L9(0(1(2(3(4t5(6(7(8(950(1t2b3(4t c i w b p n i s f a m a t5c6c7g8s9i0s1a2(3d4s b i l t u t i o p i o s]
+[DELETED: 5L5p6g7s8t9t0f1s2d3p4b5t6P758(9a0a1s2l3v4r5b6a7w]
+[DELETED: 5L8(9s0s1(2(3C4(5(6(7(8(9(0(1(2a3u4(5s6l7(8p9c0w1(2(3(4(]
+[DELETED: 5L5(6(7b8F a p t t r p b t c l s9e s i b n l t a n a s0s1w2a3m4f5(6o7a8o9(0i1(2w3(4(5d6(7a8o9e0a]
+[DELETED: 5L1(2i3t4(5b657(8m9a0s1(2i3a4(  T u o p d a t t a i i p p5g6(7g8(9s0(1i2o3(4o5a]
+[DELETED: 5L6(7p8a9(0f1p2b3p4(5p6t7o8(9p g a b o g d i b n l t0d o p g a o r m a t n o1i s a t n o i w r c2p3c4S5n657(8r9a0a1(]
+[DELETED: 5L2(3i4(5P657(8d9(0U1(2U3(4i5l6s7m8f9s0o1o2d f d t r o a t 2 w o s e o t3p4(  W 6 d a t c n e l a p u5p6p s g b o s e o a t a]
+[DELETED: 5L7l8e9e0e1(2t3d4a5t6t7(8g9f0r1(2e w o l d o o e d i b o o3c4o5(6d7w8o9(0w1c2(3l]
+[DELETED: 5L4(5b6t7(  M i i w l p a o t a8c9s0(  T e t w p s g b o s e1o2t3s4(  N a p t t c i t C s i5w6w a p s g b o a s e o o t7d8c r t a c p t p ( o t9s0d1(2w3t4w5c]
+[DELETED: 5L6P758M9h0l1i2i3t455(6r7g8b n l t u c r e t p o f t9p0(1(2o3( t b4f5(6d7o8(9a0t]
+[DELETED: 5L1a2a3a4s5(6C7n8c9i0(1i2i w l l a r a r r t p a3p4(5c6f7e8o9o s e o t l s s i a c r0f1e2m3a4e5f6o7i t i p b f s o l l r o r]
+[DELETED: 5L8i9i051T2(3w4(5l657(8i9t r o a c c f a p t a l h v t0p1a2(3o4(5(6$7(8a9s0t]
+[DELETED: 5L1(2p3f4(5(6(7(8l9(0(1(2(3o455(6o7o8b9(0f1(2t]
+[DELETED: 5L354T5p6o758(9m0(1t2r3o4(5(6(7(8(9(0c152(3b4o5s6(7e]
+[DELETED: 5L8(9p0a1P2S3P4r5r6(7b8(9o0(1f2o3(4A5S6S7o819(0s1c]
+[DELETED: 5L2m3t b u b t l o t s u s a c o4s5c6o7(8t9(0i1t2S3S4g516(7c i b o o w k i o m e f t8t9o0(1c2f3(4C]
+[DELETED: 5L5P6S7T8a9s0(  T s o l t a b C 2 o T 5 o w1a2P3S4T A s b e o J 1 2 f t r o a5a6l7e8a9t0i1S2A]

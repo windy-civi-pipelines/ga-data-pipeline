@@ -1,0 +1,171 @@
+Title: House Bill 519
+Official Title: House Bill 519
+Number of Sections: 1
+Source: versions - LC 62 0093/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 62 0093
+By: Representatives Stephens of the 164th, Mathis of the 133rd, Reeves of the 99th, and
+Williams of the 148th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to imposition, rate, computation, exemption, and credits, so as to provide that the
+3 amount of the federal work opportunity credit claimed by a taxpayer shall also be allowed
+4 as a tax credit against state income taxes; to provide for conditions, eligibility, limitations,
+5 and recaptures; to provide for definitions; to provide for rules and regulations; to provide for
+6 automatic repeal; to provide for related matters; to provide for an effective date and
+7 applicability; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+11 imposition, rate, computation, exemption, and credits, is amended by adding a new Code
+12 section to read as follows:
+13 "48-7-29.27.
+14 (a) As used in this Code section, the term:
+15 (1) 'Federal work opportunity tax credit' means the work opportunity credit allowed
+16 under Section 51 of the Internal Revenue Code.
+H. B. 519
+- 1 -
+25 LC 62 0093
+17 (2) 'Qualified wages' shall have the same meaning as provided in Section 51 of the
+18 Internal Revenue Code.
+19 (3) 'Targeted group' shall have the same meaning as provided in the Internal Revenue
+20 Code.
+21 (b)(1) A taxpayer subject to tax under this article shall be allowed a credit against such
+22 tax in an amount equal to 100 percent of the tax credit allowed to such taxpayer under
+23 Section 51 of the Internal Revenue Code attributable to qualified wages paid to a Georgia
+24 resident who is a member of a targeted group and to whom a certificate to that effect has
+25 been issued by the United States Department of Labor.
+26 (2) Such credit shall not exceed $500.00 per eligible employee per year in any given tax
+27 year.
+28 (c) To claim a tax credit allowed by this Code section, the taxpayer shall provide any
+29 information required by the department. Each taxpayer claiming a tax credit under this
+30 Code section shall maintain and make available for inspection by the department any
+31 records that the department deems necessary to determine the amount of the tax credit to
+32 which the taxpayer is entitled. The burden of proving eligibility for a tax credit allowed
+33 by this Code section and the amount of such tax credit rests upon the taxpayer, and no such
+34 credit shall be allowed to a taxpayer that fails to maintain adequate records or to make such
+35 records available for inspection.
+36 (d)(1) If, after the inspection of records as provided for in subsection (c) of this Code
+37 section, the department determines that all or a portion of any federal work opportunity
+38 tax credit taken should be recaptured from a taxpayer, the department shall recapture a
+39 proportionate amount of the corresponding tax credit allowed to such taxpayer under this
+40 Code section.
+41 (2) In the event that the recapture of any tax credit allowed under this Code section is
+42 required, any amended return submitted to the department as provided in subsection (c)
+43 of this Code section shall include the proportion of the state tax credit required to be
+H. B. 519
+- 2 -
+25 LC 62 0093
+44 recaptured, the identity of each taxpayer subject to the recapture, and the amount of tax
+45 credit previously allocated to such taxpayer.
+46 (e) In no event shall the:
+47 (1) Amount of the tax credit allowed under this Code section for a taxable year exceed
+48 a taxpayer's income tax liability for such year;
+49 (2) Tax credit provided for in this Code section be allowed to a taxpayer against any
+50 succeeding or prior year's tax liability; or
+51 (3) Aggregate limit of tax credits allowed under this Code section for any year exceed
+52 $10 million.
+53 (f) The commissioner is authorized to promulgate any rules and regulations necessary to
+54 implement and administer this Code section.
+55 (g) This Code section shall stand repealed on December 31, 2030."
+56 SECTION 2.
+57 This Act shall become effective on January 1, 2026, and shall be applicable to all taxable
+58 years beginning on or after January 1, 2026.
+59 SECTION 3.
+60 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 519
+- 3 -
+[DELETED: 5L4,3,9,hrdt8 r t p f r m t p f a e d a]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 62 0093
+House Bill 519
+By: Representatives Stephens of the 164th, Mathis of the 133rd, Reeves of the 99th, and
+Williams of the 148th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to imposition, rate, computation, exemption, and credits, so as to provide that the
+3 amount of the federal work opportunity credit claimed by a taxpayer shall also be allowed
+4 as a tax credit against state income taxes; to provide for conditions, eligibility, limitations,
+5 and recaptures; to provide for definitions; to provide for rules and regulations; to provide for
+6 automatic repeal; to provide for related matters; to provide for an effective date and
+7 applicability; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+11 imposition, rate, computation, exemption, and credits, is amended by adding a new Code
+12 section to read as follows:
+13 "48-7-29.27.
+14 (a) As used in this Code section, the term:
+15 (1) 'Federal work opportunity tax credit' means the work opportunity credit allowed
+16 under Section 51 of the Internal Revenue Code.
+H. B. 519
+- 1 -
+
+25 LC 62 0093
+17 (2) 'Qualified wages' shall have the same meaning as provided in Section 51 of the
+18 Internal Revenue Code.
+19 (3) 'Targeted group' shall have the same meaning as provided in the Internal Revenue
+20 Code.
+21 (b)(1) A taxpayer subject to tax under this article shall be allowed a credit against such
+22 tax in an amount equal to 100 percent of the tax credit allowed to such taxpayer under
+23 Section 51 of the Internal Revenue Code attributable to qualified wages paid to a Georgia
+24 resident who is a member of a targeted group and to whom a certificate to that effect has
+25 been issued by the United States Department of Labor.
+26 (2) Such credit shall not exceed $500.00 per eligible employee per year in any given tax
+27 year.
+28 (c) To claim a tax credit allowed by this Code section, the taxpayer shall provide any
+29 information required by the department. Each taxpayer claiming a tax credit under this
+30 Code section shall maintain and make available for inspection by the department any
+31 records that the department deems necessary to determine the amount of the tax credit to
+32 which the taxpayer is entitled. The burden of proving eligibility for a tax credit allowed
+33 by this Code section and the amount of such tax credit rests upon the taxpayer, and no such
+34 credit shall be allowed to a taxpayer that fails to maintain adequate records or to make such
+35 records available for inspection.
+36 (d)(1) If, after the inspection of records as provided for in subsection (c) of this Code
+37 section, the department determines that all or a portion of any federal work opportunity
+38 tax credit taken should be recaptured from a taxpayer, the department shall recapture a
+39 proportionate amount of the corresponding tax credit allowed to such taxpayer under this
+40 Code section.
+41 (2) In the event that the recapture of any tax credit allowed under this Code section is
+42 required, any amended return submitted to the department as provided in subsection (c)
+43 of this Code section shall include the proportion of the state tax credit required to be
+H. B. 519
+- 2 -
+
+25 LC 62 0093
+44 recaptured, the identity of each taxpayer subject to the recapture, and the amount of tax
+45 credit previously allocated to such taxpayer.
+46 (e) In no event shall the:
+47 (1) Amount of the tax credit allowed under this Code section for a taxable year exceed
+48 a taxpayer's income tax liability for such year;
+49 (2) Tax credit provided for in this Code section be allowed to a taxpayer against any
+50 succeeding or prior year's tax liability; or
+51 (3) Aggregate limit of tax credits allowed under this Code section for any year exceed
+52 $10 million.
+53 (f) The commissioner is authorized to promulgate any rules and regulations necessary to
+54 implement and administer this Code section.
+55 (g) This Code section shall stand repealed on December 31, 2030."
+56 SECTION 2.
+57 This Act shall become effective on January 1, 2026, and shall be applicable to all taxable
+58 years beginning on or after January 1, 2026.
+59 SECTION 3.
+60 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 519
+- 3 -
+
+[DELETED: 5L4,3,9,hrdt8 r t p f r m t p f a e d a]
+[DELETED: 5L]
+[DELETED: 5L]

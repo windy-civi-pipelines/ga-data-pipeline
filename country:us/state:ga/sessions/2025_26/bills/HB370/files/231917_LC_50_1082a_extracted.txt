@@ -1,0 +1,102 @@
+Title: House Bill 370
+Official Title: House Bill 370
+Number of Sections: 1
+Source: versions - LC 50 1082/a
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 1082
+By: Representatives Gaines of the 120th, Jones of the 47th, Williamson of the 112th, Efstration
+of the 104th, Kelley of the 16th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 48-5-34 of the Official Code of Georgia Annotated, relating to ad
+2 valorem property tax bill form, so as to require the property tax bill for any school district
+3 that opts out of the state-wide base year homestead exemption to state the total amount of the
+4 school district's reserve funds; to require a statement on the property tax bill regarding certain
+5 political subdivisions that do not have in effect a base year homestead exemption; to provide
+6 for related matters; to provide for an effective date and applicability; to repeal conflicting
+7 laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Code Section 48-5-34 of the Official Code of Georgia Annotated, relating to ad valorem
+11 property tax bill form, is amended by adding new subsections to read as follows:
+12 "(c) For any school district that opts out of the state-wide base year homestead exemption
+13 as provided for in Code Section 48-5-44.2, the ad valorem property tax bill for such school
+14 district shall state in bold print the total amount of the school district's reserve funds as of
+15 January 1 of the tax year.
+H. B. 370
+- 1 -
+25 LC 50 1082
+16 (d) With respect to each governing authority of a county, consolidated government,
+17 municipality, or school district that elected to opt out of the homestead exemption provided
+18 for in Code Section 48-5-44.2 and that does not have in effect a base year value or adjusted
+19 base year value homestead exemption that is equally or more beneficial to the taxpayer, the
+20 ad valorem property tax bill shall state in bold print:
+21 '[Name of the political subdivision] chose to opt out of property tax relief in 2025 by a
+22 vote of [name of the governing authority of the political subdivision] on [the date of opt
+23 out vote]. If you have concerns about that decision, please call [the main phone number
+24 for the levying or recommending authority of the political subdivision].'"
+25 SECTION 2.
+26 This Act shall become effective upon its approval by the Governor or upon its becoming law
+27 without such approval, and shall be applicable to taxable years beginning on or after
+28 January 1, 2025.
+29 SECTION 3.
+30 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 370
+- 2 -
+[DELETED: 5L0,7,2,htht4,6,ht]
+[DELETED: 5L s a a s b a t t y b o o a]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 1082
+House Bill 370
+By: Representatives Gaines of the 120th, Jones of the 47th, Williamson of the 112th, Efstration
+of the 104th, Kelley of the 16th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 48-5-34 of the Official Code of Georgia Annotated, relating to ad
+2 valorem property tax bill form, so as to require the property tax bill for any school district
+3 that opts out of the state-wide base year homestead exemption to state the total amount of the
+4 school district's reserve funds; to require a statement on the property tax bill regarding certain
+5 political subdivisions that do not have in effect a base year homestead exemption; to provide
+6 for related matters; to provide for an effective date and applicability; to repeal conflicting
+7 laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Code Section 48-5-34 of the Official Code of Georgia Annotated, relating to ad valorem
+11 property tax bill form, is amended by adding new subsections to read as follows:
+12 "(c) For any school district that opts out of the state-wide base year homestead exemption
+13 as provided for in Code Section 48-5-44.2, the ad valorem property tax bill for such school
+14 district shall state in bold print the total amount of the school district's reserve funds as of
+15 January 1 of the tax year.
+H. B. 370
+- 1 -
+
+25 LC 50 1082
+16 (d) With respect to each governing authority of a county, consolidated government,
+17 municipality, or school district that elected to opt out of the homestead exemption provided
+18 for in Code Section 48-5-44.2 and that does not have in effect a base year value or adjusted
+19 base year value homestead exemption that is equally or more beneficial to the taxpayer, the
+20 ad valorem property tax bill shall state in bold print:
+21 '[Name of the political subdivision] chose to opt out of property tax relief in 2025 by a
+22 vote of [name of the governing authority of the political subdivision] on [the date of opt
+23 out vote]. If you have concerns about that decision, please call [the main phone number
+24 for the levying or recommending authority of the political subdivision].'"
+25 SECTION 2.
+26 This Act shall become effective upon its approval by the Governor or upon its becoming law
+27 without such approval, and shall be applicable to taxable years beginning on or after
+28 January 1, 2025.
+29 SECTION 3.
+30 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 370
+- 2 -
+
+[DELETED: 5L0,7,2,htht4,6,ht]
+[DELETED: 5L s a a s b a t t y b o o a]

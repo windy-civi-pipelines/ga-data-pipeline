@@ -1,0 +1,356 @@
+Title: Senate Bill 56
+Official Title: Senate Bill 56
+Number of Sections: 1
+Source: versions - As Passed Senate
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 46 1123S (SCS)
+By: Senators Anavitarte of the 31st, Albers of the 56th, Robertson of the 29th, Kennedy of
+the 18th, Gooch of the 51st and others
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 1 of Article 5 of Chapter 9 of Title 45 of the Official Code of Georgia
+2 Annotated, relating to Georgia State Indemnification Fund, so as to authorize the Department
+3 of Administrative Services to purchase annuities for the payment of indemnification claims;
+4 to provide for qualification standards for indemnification claims relating to certain deaths of
+5 public safety officers related to COVID-19; to provide for timing requirements for
+6 application of such indemnification claims; to provide for definitions; to provide for
+7 conforming changes; to provide for related matters; to repeal conflicting laws; and for other
+8 purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Part 1 of Article 5 of Chapter 9 of Title 45 of the Official Code of Georgia Annotated,
+12 relating to Georgia State Indemnification Fund, is amended by revising Code
+13 Section 45-9-85, relating to payment of indemnification for death or disability, procedure for
+14 making payments, and appeal, as follows:
+15 "45-9-85.
+16 (a) As used in this Code section, the term:
+S. B. 56
+- 1 -
+25 LC 46 1123S (SCS)
+17 (1) 'COVID-19' means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),
+18 and any mutation or viral fragments thereof, or any disease or condition caused by severe
+19 acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+20 (1)(2) 'Nonroutine stressful or strenuous physical activity' means actions that are not
+21 clerical, administrative, or nonmanual in nature.
+22 (2)(3) 'Public safety officer' means a law enforcement officer, firefighter, emergency
+23 medical technician, emergency management rescue specialist, state highway employee,
+24 or prison guard.
+25 (3)(4) 'Work related activity' means, while in the line of duty:
+26 (A) Engaging in a situation involving nonroutine stressful or strenuous physical
+27 activity related to law enforcement, fire suppression, rescue, hazardous material
+28 response, emergency medical services, prison or jail security, disaster relief, or any
+29 other emergency response; or
+30 (B) Participating in a training exercise involving nonroutine stressful or strenuous
+31 physical activity.
+32 (b) Indemnification shall be paid under this article part as follows:
+33 (1) In the case of a partial permanent disability suffered in the line of duty by a public
+34 safety officer while in the line of duty, the eligible disabled person may elect to receive
+35 a payment of $35,000.00 paid in equal monthly installments for five years or a lump sum
+36 of such amount reduced to its present value upon the basis of interest calculated at the
+37 rate of 6 percent per annum;
+38 (2) In the case of a total permanent disability suffered in the line of duty by a public
+39 safety officer while in the line of duty, the injured eligible disabled person may elect to
+40 receive a payment of $75,000.00 paid in equal monthly installments for five years or a
+41 lump sum of such amount reduced to its present value upon the basis of interest
+42 calculated at the rate of 6 percent per annum;
+S. B. 56
+- 2 -
+25 LC 46 1123S (SCS)
+43 (3)(A) In the case of death suffered in the line of duty by a public safety officer while
+44 in the line of duty, payment shall be made to:
+45 (i) The surviving unremarried spouse;
+46 (ii) The surviving children who are under the age of 19 or, if a student enrolled in an
+47 institution of postsecondary education at the time of such death, under the age of 24;
+48 or
+49 (iii) Individuals not otherwise provided for under this subparagraph who are the
+50 dependents of the spouse or deceased person as shown in the spouse's or deceased
+51 person's most recent tax return.
+52 (B) In the case of organic brain damage suffered in the line of duty by a public safety
+53 officer while in the line of duty, payment shall be made to the legal guardian of the
+54 organically brain damaged person.
+55 (C) The surviving unremarried spouse, dependents, or the legal guardian who qualified
+56 for indemnification payment pursuant to this paragraph may elect to receive a payment
+57 in a lump sum payment of $150,000.00 paid in equal monthly installments for five
+58 years or a lump sum of such amount reduced to its present value upon the basis of
+59 interest calculated at the rate of 6 percent per annum; or.
+60 (c)(1) After the department, or the commission upon review of a denial by the
+61 department, determines that a public safety officer suffered a total permanent disability,
+62 a partial permanent disability, organic brain damage, or death while in the line of duty,
+63 the department shall be authorized to make the appropriate payments as provided in
+64 subsection (b) of this Code section. The department shall be authorized to purchase
+65 annuities to fund payments issued pursuant to this part.
+66 (2) The department shall consider a A heart attack, stroke, or vascular rupture suffered
+67 by a public safety officer shall be presumed to qualify such public safety officer under
+68 this subsection to have occurred while in the line of duty if the heart attack, stroke, or
+69 vascular rupture:
+S. B. 56
+- 3 -
+25 LC 46 1123S (SCS)
+70 (A) Commenced:
+71 (i) While such public safety officer was performing work related activity;
+72 (ii) While such public safety officer was on duty after performing work related
+73 activity; or
+74 (iii) Not later than 24 hours after performing work related activity; and
+75 (B) Directly or proximately resulted in the death or partial or permanent disability of
+76 the public safety officer, unless competent medical evidence established that the heart
+77 attack, stroke, or vascular rupture was not related to the work related activity or was
+78 directly or proximately caused by something other than the mere presence of
+79 cardiovascular disease risk factors.
+80 (3) Unless competent medical evidence establishes that the death of a public safety
+81 officer was directly or proximately caused by something other than COVID-19, the
+82 department shall consider the death of a public safety officer related to COVID-19 that
+83 occurred on or before April 15, 2022, to have occurred while in the line of duty if:
+84 (A) The public safety officer was diagnosed with COVID-19, or evidence indicates the
+85 officer had COVID-19, within 14 days of such public safety officer's last day of duty;
+86 (B) The evidence indicates that the public safety officer had COVID-19 or
+87 complications therefrom at the time of death; and
+88 (C) No indemnification claim has been paid by the department pursuant to this part.
+89 (c) After the department, or the commissioner or his or her designee upon review of a
+90 denial by the department, determines that a public safety officer has suffered a total
+91 permanent disability, a partial permanent disability, organic brain damage, or death in the
+92 line of duty, the department shall be authorized to make the appropriate payments as
+93 provided in subsection (b) of this Code section.
+94 (d) If the department denies a claim, any person seeking benefits pursuant to this part may
+95 appeal the department's decision to the commissioner or his or her designee. Any such
+96 appeal shall be filed with the commissioner or his or her designee within 60 days of receipt
+S. B. 56
+- 4 -
+25 LC 46 1123S (SCS)
+97 of the department's decision and shall identify the errors in the department's decision.
+98 Appeals shall be considered by the commissioner or his or her designee as provided in
+99 Code Section 45-9-84."
+100 SECTION 2.
+101 Said part is further amended by revising Code Section 45-9-86, relating to application for
+102 indemnification, as follows:
+103 "45-9-86.
+104 (a) As used in this Code section, the term terms 'COVID-19' and 'public safety officer'
+105 shall have the same meaning meanings as provided in Code Section 45-9-85.
+106 (b) An application for indemnification with respect to a claim for total permanent
+107 disability or partial permanent disability of a public safety officer shall be submitted by that
+108 person unless the person is mentally incompetent, in which case the application may be
+109 made on such person's behalf by his or her legal guardian.
+110 (c) An application for indemnification with respect to a claim for the death of a public
+111 safety officer shall be submitted by or on behalf of the surviving unremarried spouse or
+112 dependents eligible under this part.
+113 (d) Except as provided in subsection (e) of this Code section, an An application for
+114 indemnification with respect to death, organic brain damage, total permanent disability, or
+115 partial permanent disability must be made within 24 months after the date of the incident
+116 giving rise to the death, organic brain damage, or disability.
+117 (e) An application for indemnification with respect to a claim for the death of a public
+118 safety officer related to COVID-19 that occurred on or before April 15, 2022, shall be
+119 submitted between the effective date of this Code section and August 1, 2025. No
+120 indemnification claim for the death of a public safety officer related to COVID-19 that
+121 occurred on or before April 15, 2022, shall be paid for an application not properly
+122 submitted between the effective date of this Code section and August 1, 2025."
+S. B. 56
+- 5 -
+25 LC 46 1123S (SCS)
+123 SECTION 3.
+124 Said part is further amended by revising Code Section 45-9-88, relating to indemnification
+125 not to be awarded when penal violation, suicide, intentionally self-inflicted injuries, natural
+126 causes, or performance of certain routine duties caused or contributed to death or disability,
+127 as follows:
+128 "45-9-88.
+129 (a) No indemnification shall be awarded to any person otherwise entitled thereto who
+130 violates a penal law of this state which violation caused or contributed to the death or
+131 disability of the officer.
+132 (b) Notwithstanding any other provision of this article part, no payment shall be authorized
+133 if death, organic brain damage, total permanent disability, or partial permanent disability
+134 occurs from suicide, intentionally self-inflicted injuries, natural causes, or the performance
+135 of routine duties which would not be considered strenuous or dangerous by a reasonable
+136 person, except as provided for in subsection (b) (c) of Code Section 45-9-85."
+137 SECTION 4.
+138 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 56
+- 6 -
+[DELETED: 5L s o r t C t p f t r f o s i c t p f d t p f t G S I F i a b r C]
+[DELETED: 5L  E i a s i n s o s p r t l e f s r h m s o s a r t i p v u t b o i]
+[DELETED: 5L  A t d o t c u r o a d b t]
+[DELETED: 5L o p c b s o t t m p o  T e i t t p s o h C o b t]
+[DELETED: 5L  A a f i w r t a c f t p b t e d o t C s a A 1 2  N o o b A 1 2 s b p f a a n p]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 46 1123S (SCS)
+Senate Bill 56
+By: Senators Anavitarte of the 31st, Albers of the 56th, Robertson of the 29th, Kennedy of
+the 18th, Gooch of the 51st and others
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 1 of Article 5 of Chapter 9 of Title 45 of the Official Code of Georgia
+2 Annotated, relating to Georgia State Indemnification Fund, so as to authorize the Department
+3 of Administrative Services to purchase annuities for the payment of indemnification claims;
+4 to provide for qualification standards for indemnification claims relating to certain deaths of
+5 public safety officers related to COVID-19; to provide for timing requirements for
+6 application of such indemnification claims; to provide for definitions; to provide for
+7 conforming changes; to provide for related matters; to repeal conflicting laws; and for other
+8 purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Part 1 of Article 5 of Chapter 9 of Title 45 of the Official Code of Georgia Annotated,
+12 relating to Georgia State Indemnification Fund, is amended by revising Code
+13 Section 45-9-85, relating to payment of indemnification for death or disability, procedure for
+14 making payments, and appeal, as follows:
+15 "45-9-85.
+16 (a) As used in this Code section, the term:
+S. B. 56
+- 1 -
+
+25 LC 46 1123S (SCS)
+17 (1) 'COVID-19' means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),
+18 and any mutation or viral fragments thereof, or any disease or condition caused by severe
+19 acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+20 (1)(2) 'Nonroutine stressful or strenuous physical activity' means actions that are not
+21 clerical, administrative, or nonmanual in nature.
+22 (2)(3) 'Public safety officer' means a law enforcement officer, firefighter, emergency
+23 medical technician, emergency management rescue specialist, state highway employee,
+24 or prison guard.
+25 (3)(4) 'Work related activity' means, while in the line of duty:
+26 (A) Engaging in a situation involving nonroutine stressful or strenuous physical
+27 activity related to law enforcement, fire suppression, rescue, hazardous material
+28 response, emergency medical services, prison or jail security, disaster relief, or any
+29 other emergency response; or
+30 (B) Participating in a training exercise involving nonroutine stressful or strenuous
+31 physical activity.
+32 (b) Indemnification shall be paid under this article part as follows:
+33 (1) In the case of a partial permanent disability suffered in the line of duty by a public
+34 safety officer while in the line of duty, the eligible disabled person may elect to receive
+35 a payment of $35,000.00 paid in equal monthly installments for five years or a lump sum
+36 of such amount reduced to its present value upon the basis of interest calculated at the
+37 rate of 6 percent per annum;
+38 (2) In the case of a total permanent disability suffered in the line of duty by a public
+39 safety officer while in the line of duty, the injured eligible disabled person may elect to
+40 receive a payment of $75,000.00 paid in equal monthly installments for five years or a
+41 lump sum of such amount reduced to its present value upon the basis of interest
+42 calculated at the rate of 6 percent per annum;
+S. B. 56
+- 2 -
+
+25 LC 46 1123S (SCS)
+43 (3)(A) In the case of death suffered in the line of duty by a public safety officer while
+44 in the line of duty, payment shall be made to:
+45 (i) The surviving unremarried spouse;
+46 (ii) The surviving children who are under the age of 19 or, if a student enrolled in an
+47 institution of postsecondary education at the time of such death, under the age of 24;
+48 or
+49 (iii) Individuals not otherwise provided for under this subparagraph who are the
+50 dependents of the spouse or deceased person as shown in the spouse's or deceased
+51 person's most recent tax return.
+52 (B) In the case of organic brain damage suffered in the line of duty by a public safety
+53 officer while in the line of duty, payment shall be made to the legal guardian of the
+54 organically brain damaged person.
+55 (C) The surviving unremarried spouse, dependents, or the legal guardian who qualified
+56 for indemnification payment pursuant to this paragraph may elect to receive a payment
+57 in a lump sum payment of $150,000.00 paid in equal monthly installments for five
+58 years or a lump sum of such amount reduced to its present value upon the basis of
+59 interest calculated at the rate of 6 percent per annum; or.
+60 (c)(1) After the department, or the commission upon review of a denial by the
+61 department, determines that a public safety officer suffered a total permanent disability,
+62 a partial permanent disability, organic brain damage, or death while in the line of duty,
+63 the department shall be authorized to make the appropriate payments as provided in
+64 subsection (b) of this Code section. The department shall be authorized to purchase
+65 annuities to fund payments issued pursuant to this part.
+66 (2) The department shall consider a A heart attack, stroke, or vascular rupture suffered
+67 by a public safety officer shall be presumed to qualify such public safety officer under
+68 this subsection to have occurred while in the line of duty if the heart attack, stroke, or
+69 vascular rupture:
+S. B. 56
+- 3 -
+
+25 LC 46 1123S (SCS)
+70 (A) Commenced:
+71 (i) While such public safety officer was performing work related activity;
+72 (ii) While such public safety officer was on duty after performing work related
+73 activity; or
+74 (iii) Not later than 24 hours after performing work related activity; and
+75 (B) Directly or proximately resulted in the death or partial or permanent disability of
+76 the public safety officer, unless competent medical evidence established that the heart
+77 attack, stroke, or vascular rupture was not related to the work related activity or was
+78 directly or proximately caused by something other than the mere presence of
+79 cardiovascular disease risk factors.
+80 (3) Unless competent medical evidence establishes that the death of a public safety
+81 officer was directly or proximately caused by something other than COVID-19, the
+82 department shall consider the death of a public safety officer related to COVID-19 that
+83 occurred on or before April 15, 2022, to have occurred while in the line of duty if:
+84 (A) The public safety officer was diagnosed with COVID-19, or evidence indicates the
+85 officer had COVID-19, within 14 days of such public safety officer's last day of duty;
+86 (B) The evidence indicates that the public safety officer had COVID-19 or
+87 complications therefrom at the time of death; and
+88 (C) No indemnification claim has been paid by the department pursuant to this part.
+89 (c) After the department, or the commissioner or his or her designee upon review of a
+90 denial by the department, determines that a public safety officer has suffered a total
+91 permanent disability, a partial permanent disability, organic brain damage, or death in the
+92 line of duty, the department shall be authorized to make the appropriate payments as
+93 provided in subsection (b) of this Code section.
+94 (d) If the department denies a claim, any person seeking benefits pursuant to this part may
+95 appeal the department's decision to the commissioner or his or her designee. Any such
+96 appeal shall be filed with the commissioner or his or her designee within 60 days of receipt
+S. B. 56
+- 4 -
+
+25 LC 46 1123S (SCS)
+97 of the department's decision and shall identify the errors in the department's decision.
+98 Appeals shall be considered by the commissioner or his or her designee as provided in
+99 Code Section 45-9-84."
+100 SECTION 2.
+101 Said part is further amended by revising Code Section 45-9-86, relating to application for
+102 indemnification, as follows:
+103 "45-9-86.
+104 (a) As used in this Code section, the term terms 'COVID-19' and 'public safety officer'
+105 shall have the same meaning meanings as provided in Code Section 45-9-85.
+106 (b) An application for indemnification with respect to a claim for total permanent
+107 disability or partial permanent disability of a public safety officer shall be submitted by that
+108 person unless the person is mentally incompetent, in which case the application may be
+109 made on such person's behalf by his or her legal guardian.
+110 (c) An application for indemnification with respect to a claim for the death of a public
+111 safety officer shall be submitted by or on behalf of the surviving unremarried spouse or
+112 dependents eligible under this part.
+113 (d) Except as provided in subsection (e) of this Code section, an An application for
+114 indemnification with respect to death, organic brain damage, total permanent disability, or
+115 partial permanent disability must be made within 24 months after the date of the incident
+116 giving rise to the death, organic brain damage, or disability.
+117 (e) An application for indemnification with respect to a claim for the death of a public
+118 safety officer related to COVID-19 that occurred on or before April 15, 2022, shall be
+119 submitted between the effective date of this Code section and August 1, 2025. No
+120 indemnification claim for the death of a public safety officer related to COVID-19 that
+121 occurred on or before April 15, 2022, shall be paid for an application not properly
+122 submitted between the effective date of this Code section and August 1, 2025."
+S. B. 56
+- 5 -
+
+25 LC 46 1123S (SCS)
+123 SECTION 3.
+124 Said part is further amended by revising Code Section 45-9-88, relating to indemnification
+125 not to be awarded when penal violation, suicide, intentionally self-inflicted injuries, natural
+126 causes, or performance of certain routine duties caused or contributed to death or disability,
+127 as follows:
+128 "45-9-88.
+129 (a) No indemnification shall be awarded to any person otherwise entitled thereto who
+130 violates a penal law of this state which violation caused or contributed to the death or
+131 disability of the officer.
+132 (b) Notwithstanding any other provision of this article part, no payment shall be authorized
+133 if death, organic brain damage, total permanent disability, or partial permanent disability
+134 occurs from suicide, intentionally self-inflicted injuries, natural causes, or the performance
+135 of routine duties which would not be considered strenuous or dangerous by a reasonable
+136 person, except as provided for in subsection (b) (c) of Code Section 45-9-85."
+137 SECTION 4.
+138 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 56
+- 6 -
+
+[DELETED: 5L s o r t C t p f t r f o s i c t p f d t p f t G S I F i a b r C]
+[DELETED: 5L  E i a s i n s o s p r t l e f s r h m s o s a r t i p v u t b o i]
+[DELETED: 5L  A t d o t c u r o a d b t]
+[DELETED: 5L o p c b s o t t m p o  T e i t t p s o h C o b t]
+[DELETED: 5L  A a f i w r t a c f t p b t e d o t C s a A 1 2  N o o b A 1 2 s b p f a a n p]
+[DELETED: 5L]

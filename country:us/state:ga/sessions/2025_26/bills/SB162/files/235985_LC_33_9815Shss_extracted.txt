@@ -1,0 +1,328 @@
+Title: The House Committee on Public and Community Health offers the following substitute
+Official Title: The House Committee on Public and Community Health offers the following substitute
+Number of Sections: 1
+Source: versions - LC 33 9815S/hss
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 33 9815S
+to SB 162:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to
+2 physicians, assistants, and others, so as to provide for the Georgia Composite Medical Board
+3 to implement an automated licensing system for certain healthcare providers in this state; to
+4 provide for requirements; to provide for the regulation of the administration of
+5 psychedelic-assisted treatment and therapy by the Georgia Composite Medical Board; to
+6 provide for definitions; to provide for standards; to provide for requirements; to provide for
+7 the establishment of rules and regulations; to provide for licensure of clinics; to provide for
+8 statutory construction; to provide for related matters; to repeal conflicting laws; and for other
+9 purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to physicians,
+13 assistants, and others, is amended in Code Section 43-34-6, relating to board as an
+14 independent agency, by adding new subsections to read as follows:
+15 "(k) No later than October 1, 2025, the board shall implement a data management software
+16 system to streamline and automate the licensing process for physicians, physician
+S. B. 162 (SUB)
+- 1 -
+25 LC 33 9815S
+17 assistants, and anesthesiologist assistants. No later than January 1, 2026, such system shall
+18 be fully operational for other healthcare providers licensed by the board.
+19 (l) The system provided for in subsection (k) of this Code section may:
+20 (1) Organize, verify, and store the licenses of healthcare providers, allowing for a single
+21 verification process that results in authorization state wide, provided that a healthcare
+22 facility, licensee, or applicant inputs the credentialing information and agrees to such
+23 authorization;
+24 (2) If available, be customizable so that a healthcare facility can add requirements to
+25 meet such facility's rules, regulations, or bylaws;
+26 (3) Provide a public facing page that is easily and securely accessible by other state
+27 medical boards, healthcare providers, and healthcare facilities;
+28 (4) Notify any individual submitting credentials into such system when his or her
+29 application is deficient, what such deficiency is, and when such application is complete;
+30 (5) Process complete applications within 30 days and process reappointments within two
+31 weeks;
+32 (6) Provide for the registration of nurse protocol agreements for advanced practice
+33 registered nurses and job descriptions for licensed physician assistants and
+34 anesthesiologist assistants;
+35 (7) Allow any healthcare facility to accept the information for licensing as acceptance
+36 for credentialing and any healthcare provider to add additional requirements for
+37 credentialing in their facility; and
+38 (8) Perform any other functions the board deems necessary to improve licensing
+39 processes under this chapter."
+40 SECTION 2.
+41 Said chapter is further amended by adding a new Code section to read as follows:
+S. B. 162 (SUB)
+- 2 -
+25 LC 33 9815S
+42 "43-34-49.
+43 (a) As used in this Code section, the term:
+44 (1) 'Clinic' means a facility that offers the administration of psychedelic-assisted
+45 treatment and therapy, including, but not limited to, intravenous infusion of ketamine.
+46 (2) 'Psychedelic-assisted treatment and therapy' means any treatment or therapy using
+47 psychedelic, dissociative, or other related substances that have the potential to produce
+48 hallucinations or rapidly induce suggestibility in the user or profound changes in
+49 perceptions of reality or the self.
+50 (b) No later than December 31, 2025, the board shall establish rules and regulations for the
+51 administration of psychedelic-assisted treatment and therapy in clinics to establish
+52 consistent standards, ensure continuing competency, and promote patient safety. Such
+53 rules and regulations shall include requirements on:
+54 (1) A properly equipped and maintained clinic to ensure patient safety, which may be
+55 demonstrated by appropriate accreditation or certification;
+56 (2) Competency of the physician using psychedelic-assisted treatment and therapy in the
+57 absence of an anesthesiologist, anesthesiologist assistant, or certified registered nurse
+58 anesthetist, including education and relevant training;
+59 (3) Proper prescribing and ordering of psychedelic-assisted treatment and therapy;
+60 (4) Proper administration and management of psychedelic-assisted treatment and
+61 therapy;
+62 (5) Emergency care and transfer protocols in the event of a complication or emergency;
+63 (6) Maintenance of complete and accurate medical records;
+64 (7) Reporting of adverse events to the board;
+65 (8) Required continuing medical education; and
+66 (9) Truth in advertising regarding the credentials, education, and training of the
+67 individuals administering psychedelic-assisted treatment and therapy.
+S. B. 162 (SUB)
+- 3 -
+25 LC 33 9815S
+68 (c) Any physician, anesthesiologist assistant, or certified registered nurse anesthetist
+69 administering, directing, or supervising psychedelic-assisted treatment and therapy in a
+70 clinic shall be subject to the rules and regulations established by the board pursuant to this
+71 Code section. The board may establish minimum standards of continuing medical
+72 education for all physicians owning a clinic. All other licensed healthcare professionals
+73 practicing in a clinic may be subject to minimum standards of continuing education
+74 established by the respective licensing board for such healthcare professional.
+75 (d)(1) On and after July 1, 2026, all clinics shall be licensed by the board and shall
+76 biennially renew their license with the board. In the event that physicians in a clinic
+77 practice at more than one location, each such location shall be licensed by the board, and
+78 such license shall be nontransferable.
+79 (2) Upon the filing of an application for a license, the board may cause a thorough
+80 investigation of the applicant to be made and such investigation may include a criminal
+81 background check; provided, however, that the board shall cause a thorough investigation
+82 of a new applicant to be made, and such investigation shall include a background check.
+83 If satisfied that the applicant possesses the necessary qualifications, the board shall issue
+84 a license. However, the board may issue licenses with varying restrictions to such
+85 persons where the board deems it necessary for the purpose of safeguarding the public
+86 health, safety, and welfare.
+87 (3) Whenever an applicable rule requires or prohibits action by a clinic, responsibility
+88 shall be that of the owner and the physicians practicing in such clinic, whether the owner
+89 is a sole proprietor, partnership, association, corporation, or otherwise.
+90 (4) The board shall deny or refuse to renew a clinic license if it determines that the
+91 granting or renewing of such license would not be in the public interest.
+92 (5) A clinic shall be owned by physicians licensed in this state who meet the competency
+93 requirements for psychedelic-assisted treatment and therapy established by the board and
+94 who maintain advanced airway management training.
+S. B. 162 (SUB)
+- 4 -
+25 LC 33 9815S
+95 (6) All licenses shall expire biennially unless renewed. All applications for renewal of
+96 a license shall be filed with the board prior to the expiration date, accompanied by the
+97 biennial renewal fee prescribed by the board. A license which has expired for failure of
+98 the holder to renew may be late renewed after application and payment of the prescribed
+99 late renewal fee within the time period established by the board and provided the
+100 applicant meets such requirements as the board may establish by rule. Any license which
+101 has not been renewed by the end of the late renewal period shall be considered revoked
+102 and subject to reinstatement at the discretion of the board after meeting such requirements
+103 as the board may establish.
+104 (e) Administration of psychedelic-assisted treatment and therapy in a clinic shall only be
+105 performed by:
+106 (1) A physician licensed in this state with advanced airway management training;
+107 (2) A certified registered nurse anesthetist licensed in this state under the direction and
+108 responsibility of a duly licensed physician; or
+109 (3) An anesthesiologist assistant licensed in this state under the direct supervision of a
+110 duly licensed physician.
+111 (f) A review of the prescription drug monitoring program database established pursuant
+112 to Code Section 16-13-57 shall be completed for each patient and documented in the
+113 patient's medical record prior to the administration of any psychedelic-assisted treatment
+114 and therapy and all administration of any psychedelic-assisted treatment and therapy shall
+115 be reported to the prescription drug monitoring program by the clinic.
+116 (g) Except as otherwise provided in subsection (e) of this Code section, any person who
+117 administers psychedelic-assisted treatment and therapy in this state without a license to
+118 practice medicine from the board shall be deemed to be engaged in the unlawful practice
+119 of medicine and subject to the provisions of Code Sections 43-34-39 and 43-34-42.
+120 (h) Nothing in this Code section shall be construed to permit the use of drugs or substances
+121 not approved by the federal Food and Drug Administration.
+S. B. 162 (SUB)
+- 5 -
+25 LC 33 9815S
+122 (i) Nothing in this Code section shall be construed to apply to the use of
+123 psychedelic-assisted treatment and therapy in a clinical facility affiliated with a hospital or
+124 in a clinical trial approved by the federal Food and Drug Administration."
+125 SECTION 3.
+126 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 162 (SUB)
+- 6 -
+[DELETED: 5LTptp f r t p f t r o t a opptsp0B1S2C3a a o i a i C S 4 r t b a a4i5(6s t s a a t l p f p p]
+[DELETED: 5L7a8b9(0(1v2f3a4(5m6(7m8(9a0(1w2(3r n a j d f l p a a4a5(6f c a a h p t a a r f7c8(  P a o f t b d n t i l9p0S1S]
+[DELETED: 5L243(4(  ' m a f t o t a o p5t6(7p8h o r i s i t u o p c i9p0(1a o p t a t i c t e2c3r4(5d6(7a8a9(0(  P a a m o p t a1t2(3(4(5(6(  T i a r t c e a t o t7i]
+[DELETED: 5L8(9a0c1C s  T b m e m s o c m2e3p i a c m b s t m s o c e4e5(6b7p8s9(0i1b2o3I4a5p6h7(8s9i0(1g2(3r4w]
+[DELETED: 5L5(6a7b8t9l r f w t t p e b t b a p t0a1h2a3a4(5p6(7(8r9(0d1(2t3p4a5b6(7a8p9o0(1n]
+[DELETED: 5L2(  N i t C s s b c t a t t u o3p4i5S6A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 33 9815S
+The House Committee on Public and Community Health offers the following substitute
+to SB 162:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to
+2 physicians, assistants, and others, so as to provide for the Georgia Composite Medical Board
+3 to implement an automated licensing system for certain healthcare providers in this state; to
+4 provide for requirements; to provide for the regulation of the administration of
+5 psychedelic-assisted treatment and therapy by the Georgia Composite Medical Board; to
+6 provide for definitions; to provide for standards; to provide for requirements; to provide for
+7 the establishment of rules and regulations; to provide for licensure of clinics; to provide for
+8 statutory construction; to provide for related matters; to repeal conflicting laws; and for other
+9 purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to physicians,
+13 assistants, and others, is amended in Code Section 43-34-6, relating to board as an
+14 independent agency, by adding new subsections to read as follows:
+15 "(k) No later than October 1, 2025, the board shall implement a data management software
+16 system to streamline and automate the licensing process for physicians, physician
+S. B. 162 (SUB)
+- 1 -
+
+25 LC 33 9815S
+17 assistants, and anesthesiologist assistants. No later than January 1, 2026, such system shall
+18 be fully operational for other healthcare providers licensed by the board.
+19 (l) The system provided for in subsection (k) of this Code section may:
+20 (1) Organize, verify, and store the licenses of healthcare providers, allowing for a single
+21 verification process that results in authorization state wide, provided that a healthcare
+22 facility, licensee, or applicant inputs the credentialing information and agrees to such
+23 authorization;
+24 (2) If available, be customizable so that a healthcare facility can add requirements to
+25 meet such facility's rules, regulations, or bylaws;
+26 (3) Provide a public facing page that is easily and securely accessible by other state
+27 medical boards, healthcare providers, and healthcare facilities;
+28 (4) Notify any individual submitting credentials into such system when his or her
+29 application is deficient, what such deficiency is, and when such application is complete;
+30 (5) Process complete applications within 30 days and process reappointments within two
+31 weeks;
+32 (6) Provide for the registration of nurse protocol agreements for advanced practice
+33 registered nurses and job descriptions for licensed physician assistants and
+34 anesthesiologist assistants;
+35 (7) Allow any healthcare facility to accept the information for licensing as acceptance
+36 for credentialing and any healthcare provider to add additional requirements for
+37 credentialing in their facility; and
+38 (8) Perform any other functions the board deems necessary to improve licensing
+39 processes under this chapter."
+40 SECTION 2.
+41 Said chapter is further amended by adding a new Code section to read as follows:
+S. B. 162 (SUB)
+- 2 -
+
+25 LC 33 9815S
+42 "43-34-49.
+43 (a) As used in this Code section, the term:
+44 (1) 'Clinic' means a facility that offers the administration of psychedelic-assisted
+45 treatment and therapy, including, but not limited to, intravenous infusion of ketamine.
+46 (2) 'Psychedelic-assisted treatment and therapy' means any treatment or therapy using
+47 psychedelic, dissociative, or other related substances that have the potential to produce
+48 hallucinations or rapidly induce suggestibility in the user or profound changes in
+49 perceptions of reality or the self.
+50 (b) No later than December 31, 2025, the board shall establish rules and regulations for the
+51 administration of psychedelic-assisted treatment and therapy in clinics to establish
+52 consistent standards, ensure continuing competency, and promote patient safety. Such
+53 rules and regulations shall include requirements on:
+54 (1) A properly equipped and maintained clinic to ensure patient safety, which may be
+55 demonstrated by appropriate accreditation or certification;
+56 (2) Competency of the physician using psychedelic-assisted treatment and therapy in the
+57 absence of an anesthesiologist, anesthesiologist assistant, or certified registered nurse
+58 anesthetist, including education and relevant training;
+59 (3) Proper prescribing and ordering of psychedelic-assisted treatment and therapy;
+60 (4) Proper administration and management of psychedelic-assisted treatment and
+61 therapy;
+62 (5) Emergency care and transfer protocols in the event of a complication or emergency;
+63 (6) Maintenance of complete and accurate medical records;
+64 (7) Reporting of adverse events to the board;
+65 (8) Required continuing medical education; and
+66 (9) Truth in advertising regarding the credentials, education, and training of the
+67 individuals administering psychedelic-assisted treatment and therapy.
+S. B. 162 (SUB)
+- 3 -
+
+25 LC 33 9815S
+68 (c) Any physician, anesthesiologist assistant, or certified registered nurse anesthetist
+69 administering, directing, or supervising psychedelic-assisted treatment and therapy in a
+70 clinic shall be subject to the rules and regulations established by the board pursuant to this
+71 Code section. The board may establish minimum standards of continuing medical
+72 education for all physicians owning a clinic. All other licensed healthcare professionals
+73 practicing in a clinic may be subject to minimum standards of continuing education
+74 established by the respective licensing board for such healthcare professional.
+75 (d)(1) On and after July 1, 2026, all clinics shall be licensed by the board and shall
+76 biennially renew their license with the board. In the event that physicians in a clinic
+77 practice at more than one location, each such location shall be licensed by the board, and
+78 such license shall be nontransferable.
+79 (2) Upon the filing of an application for a license, the board may cause a thorough
+80 investigation of the applicant to be made and such investigation may include a criminal
+81 background check; provided, however, that the board shall cause a thorough investigation
+82 of a new applicant to be made, and such investigation shall include a background check.
+83 If satisfied that the applicant possesses the necessary qualifications, the board shall issue
+84 a license. However, the board may issue licenses with varying restrictions to such
+85 persons where the board deems it necessary for the purpose of safeguarding the public
+86 health, safety, and welfare.
+87 (3) Whenever an applicable rule requires or prohibits action by a clinic, responsibility
+88 shall be that of the owner and the physicians practicing in such clinic, whether the owner
+89 is a sole proprietor, partnership, association, corporation, or otherwise.
+90 (4) The board shall deny or refuse to renew a clinic license if it determines that the
+91 granting or renewing of such license would not be in the public interest.
+92 (5) A clinic shall be owned by physicians licensed in this state who meet the competency
+93 requirements for psychedelic-assisted treatment and therapy established by the board and
+94 who maintain advanced airway management training.
+S. B. 162 (SUB)
+- 4 -
+
+25 LC 33 9815S
+95 (6) All licenses shall expire biennially unless renewed. All applications for renewal of
+96 a license shall be filed with the board prior to the expiration date, accompanied by the
+97 biennial renewal fee prescribed by the board. A license which has expired for failure of
+98 the holder to renew may be late renewed after application and payment of the prescribed
+99 late renewal fee within the time period established by the board and provided the
+100 applicant meets such requirements as the board may establish by rule. Any license which
+101 has not been renewed by the end of the late renewal period shall be considered revoked
+102 and subject to reinstatement at the discretion of the board after meeting such requirements
+103 as the board may establish.
+104 (e) Administration of psychedelic-assisted treatment and therapy in a clinic shall only be
+105 performed by:
+106 (1) A physician licensed in this state with advanced airway management training;
+107 (2) A certified registered nurse anesthetist licensed in this state under the direction and
+108 responsibility of a duly licensed physician; or
+109 (3) An anesthesiologist assistant licensed in this state under the direct supervision of a
+110 duly licensed physician.
+111 (f) A review of the prescription drug monitoring program database established pursuant
+112 to Code Section 16-13-57 shall be completed for each patient and documented in the
+113 patient's medical record prior to the administration of any psychedelic-assisted treatment
+114 and therapy and all administration of any psychedelic-assisted treatment and therapy shall
+115 be reported to the prescription drug monitoring program by the clinic.
+116 (g) Except as otherwise provided in subsection (e) of this Code section, any person who
+117 administers psychedelic-assisted treatment and therapy in this state without a license to
+118 practice medicine from the board shall be deemed to be engaged in the unlawful practice
+119 of medicine and subject to the provisions of Code Sections 43-34-39 and 43-34-42.
+120 (h) Nothing in this Code section shall be construed to permit the use of drugs or substances
+121 not approved by the federal Food and Drug Administration.
+S. B. 162 (SUB)
+- 5 -
+
+25 LC 33 9815S
+122 (i) Nothing in this Code section shall be construed to apply to the use of
+123 psychedelic-assisted treatment and therapy in a clinical facility affiliated with a hospital or
+124 in a clinical trial approved by the federal Food and Drug Administration."
+125 SECTION 3.
+126 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 162 (SUB)
+- 6 -
+
+[DELETED: 5LTptp f r t p f t r o t a opptsp0B1S2C3a a o i a i C S 4 r t b a a4i5(6s t s a a t l p f p p]
+[DELETED: 5L7a8b9(0(1v2f3a4(5m6(7m8(9a0(1w2(3r n a j d f l p a a4a5(6f c a a h p t a a r f7c8(  P a o f t b d n t i l9p0S1S]
+[DELETED: 5L243(4(  ' m a f t o t a o p5t6(7p8h o r i s i t u o p c i9p0(1a o p t a t i c t e2c3r4(5d6(7a8a9(0(  P a a m o p t a1t2(3(4(5(6(  T i a r t c e a t o t7i]
+[DELETED: 5L8(9a0c1C s  T b m e m s o c m2e3p i a c m b s t m s o c e4e5(6b7p8s9(0i1b2o3I4a5p6h7(8s9i0(1g2(3r4w]
+[DELETED: 5L5(6a7b8t9l r f w t t p e b t b a p t0a1h2a3a4(5p6(7(8r9(0d1(2t3p4a5b6(7a8p9o0(1n]
+[DELETED: 5L2(  N i t C s s b c t a t t u o3p4i5S6A]

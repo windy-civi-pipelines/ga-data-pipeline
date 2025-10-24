@@ -1,0 +1,572 @@
+Title: House Bill 917
+Official Title: House Bill 917
+Number of Sections: 1
+Source: versions - LC 49 2050/a
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+25 LC 49 2050
+By: Representatives Jones of the 25th and Hilton of the 48th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to
+2 elementary and secondary education, so as to provide generally for open enrollment
+3 processes for students to transfer between local school systems and between schools within
+4 local school systems; to provide for rules, regulations, and policies; to prohibit
+5 discrimination; to prohibit charging tuition for transfers between local school systems,
+6 subject to an exception; to provide for appeals of denials of transfer requests; to provide for
+7 the submission and publication of reports; to revise the calculations for equalization grants;
+8 to provide for related matters; to provide for an effective date; to repeal conflicting laws; and
+9 for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to elementary and
+13 secondary education, is amended in Part 4 of Article 6, relating to financing under the
+14 "Quality Basic Education Act," by revising subsection (b) of Code Section 20-2-165, relating
+15 to equalization grants, annual calculations, and allocation, as follows:
+H. B. 917
+- 1 -
+25 LC 49 2050
+16 "(b)(1) Except as provided in paragraph (2) of this subsection, the The State Board of
+17 Education shall annually calculate the equalization grant for each qualified local school
+18 system in the following manner:
+19 (1)(A) Subtract the assessed valuation per weighted full-time equivalent count for the
+20 local school system from the guaranteed valuation;
+21 (2)(B) Divide the difference resulting from paragraph (1) subparagraph (A) of this
+22 subsection paragraph by 1,000;
+23 (3)(C) Subtract five from the effective millage rate for the local school system and use
+24 the resulting number of effective mills or 15 effective mills, whichever is less, as the
+25 number of effective mills to be equalized;
+26 (4)(D) Multiply the quotient resulting from paragraph (2) subparagraph (B) of this
+27 subsection paragraph by the number of effective mills to be equalized pursuant to
+28 paragraph (3) subparagraph (C) of this subsection paragraph; and
+29 (5)(D) Multiply the product resulting from paragraph (4) subparagraph (D) of this
+30 subsection paragraph by the most recent weighted full-time equivalent count for the
+31 local school system.
+32 The resulting amount shall be the equalization grant for the ensuing fiscal year.; provided,
+33 however, that for each local school system
+34 (2)(A) Except as provided in paragraph (1) of this subsection, the State Board of
+35 Education shall annually calculate the equalization grant for each qualified local school
+36 system which serves under contract all of the students in one or more grade levels from
+37 an adjoining another local school system. The and for each local school system which
+38 sends under contract all of the students in one or more grade levels to an adjoining
+39 system, the equalization grant shall be calculated to represent the amount that would be
+40 earned if the students transferred under said contract were included in the full-time
+41 equivalent counts of the local school system in which they reside.; provided, further,
+42 that any
+H. B. 917
+- 2 -
+25 LC 49 2050
+43 (B) Any equalization grant to be earned by a local school system sending students to
+44 another system under the provisions of such a contract shall be reduced by an amount
+45 which represents the equalization funds earned per weighted full-time equivalent
+46 student multiplied by the total weighted full-time equivalent count for students
+47 transferred, and any equalization grant to be earned by the local school system
+48 receiving students under said contract shall be increased by the same amount; provided,
+49 however, that the total amount of state and local revenue per full-time equivalent
+50 student of such local school system shall not be decreased to less than $10,000.00 by
+51 operation of this subparagraph."
+52 SECTION 2.
+53 Said chapter is further amended in Part 13 of Article 6, relating to organization of schools
+54 and systems under the "Quality Basic Education Act," by revising Code Section 20-2-293,
+55 relating to student attending school in system other than system of student's residence, as
+56 follows:
+57 "20-2-293.
+58 (a)(1) The provisions of this article and other statutes to the contrary notwithstanding, the
+59 State Board of Education shall provide a an open enrollment procedure whereby a student
+60 shall be permitted to attend and to be included as an enrolled student in the public schools
+61 of a local unit of administration school system other than the local unit of administration
+62 school system wherein the student resides for the purpose of allotting state funds under this
+63 article, notwithstanding absence of an agreement between the two local units and a refusal
+64 by the board of education of the local unit wherein the student resides to approve
+65 voluntarily such transfer of the student to the public schools of the other local unit;
+66 provided, however, that the board of education of the local unit is willing to receive and to
+67 permit such student to enroll in and to attend the public schools of such local unit school
+68 systems. The state board State Board of Education shall adopt such rules, regulations, and
+H. B. 917
+- 3 -
+25 LC 49 2050
+69 policies as may be necessary for implementation of this Code section, which shall include,
+70 but shall not be limited to, rules, regulations, and policies for the appeals process provided
+71 for in subsection (d) of this Code section. Grant or refusal of permission for students to
+72 attend such schools, for the purpose of permitting state funds to follow such students, shall
+73 be subject only to approval of the enrolling student and the local unit of administration in
+74 which the student seeks to enroll. Local units of administration may contract with each
+75 other for the care, education, and transportation of students and for such other activities as
+76 they may be authorized by law to perform.
+77 (2) Beginning July 1, 2026, and continuing thereafter, if a local unit of administration
+78 enrolls a student pursuant to paragraph (1) of this subsection and requires the student to
+79 pay tuition, the amount of tuition such local unit of administration may charge to such
+80 student shall not exceed total revenues less federal revenues less state revenues per
+81 full-time equivalent student for the local unit of administration that enrolls such student.
+82 (b) Each local school system shall implement an open enrollment process as provided for
+83 in this Code section. The board of education of each local school system shall adopt
+84 policies to govern the process for open enrollment. Such policies shall:
+85 (1) Prohibit discrimination against any transferring student on the basis of his or her
+86 residential address, ability, disability, race, ethnicity, sex, or socioeconomic status;
+87 (2) Include basic information that is needed to request enrollment and that is consistent
+88 with guidance and state and federal law regarding student privacy and civil rights;
+89 (3) Include information regarding the provision of transportation or resources for
+90 transportation;
+91 (4) Be posted to the local school system's public website; and
+92 (5) Be available in English and in any other language used by a majority of the student
+93 populations served by each school of the local school system.
+94 (c) Each local school system shall receive and enroll transferring students who apply
+95 through the open enrollment process provided for in this Code section unless there is
+H. B. 917
+- 4 -
+25 LC 49 2050
+96 insufficient space available in the school to which such transferring student is applying.
+97 Each local school system shall determine for each of its schools the enrollment capacity of
+98 each grade level and post the number of vacancies for each grade on its public website by
+99 the first day of each month. Each local school system shall measure only the capacity by
+100 grade level and shall not measure capacity by specialized program. Schools shall accept
+101 student transfers throughout the school year as capacity allows.
+102 (d) Within 45 calendar days of the initial application to enroll in a school pursuant to the
+103 open enrollment process provided for in this Code section, the local school system to which
+104 the student is applying shall notify the parent or guardian of such student whether the open
+105 enrollment transfer application is approved or denied. For each open enrollment transfer
+106 application that is denied by a local school system:
+107 (1) The local school system shall notify the parent or guardian of the student of the
+108 denial in writing within five calendar days of the decision;
+109 (2) The parent or guardian of the student shall be entitled to appeal the denial to the State
+110 Board of Education within ten calendar days of receiving the written notification of the
+111 denial by submitting to the State Board of Education and the local school superintendent
+112 of the local school system that denied the open enrollment transfer application a written
+113 notice of appeal on a form prescribed by the State Board of Education;
+114 (3) The appeal provided for in paragraph (2) of this subsection shall be considered by the
+115 State Board of Education at its next regularly scheduled meeting, where the appealing
+116 parent or guardian and a representative from the local school system that denied the open
+117 enrollment transfer application shall be permitted to address the State Board of
+118 Education.
+119 (e) If the number of students applying for enrollment in a school pursuant to the open
+120 enrollment process provided for in this Code section exceeds the number of spaces that are
+121 available, the local school system shall determine which such applicants to enroll on the
+H. B. 917
+- 5 -
+25 LC 49 2050
+122 basis of a lottery system; provided, however, that schools of choice within a local school
+123 system that have lottery enrollment policies shall not be subject to this subsection.
+124 (f) Each local school system shall report annually to the State School Superintendent the
+125 number of students who reside in the local school system who transferred to another local
+126 school system pursuant to the open enrollment process provided for in this Code section
+127 and the number of open enrollment applications that such local school system received,
+128 approved, and denied, along with the reason for each denial. The State School
+129 Superintendent shall publish such data annually on the Department of Education's public
+130 website.
+131 (g)(1) Except as provided in paragraph (2) of this subsection, no local school system
+132 shall charge tuition for any transferring student enrolled in a school of such local school
+133 system pursuant to the open enrollment process provided for in this Code section.
+134 (2) Each local school system that enrolls a student pursuant to the open enrollment
+135 process provided for in this Code section and exclusively provides virtual instruction to
+136 such student shall be permitted to charge tuition for such student; provided, however, that
+137 the amount of such tuition shall not exceed an amount equal to two-thirds of total
+138 revenues less federal revenues less state revenues per full-time equivalent student for
+139 such local school system.
+140 (h) Notwithstanding the provisions of subsection (a) of this Code section or any other
+141 general law, and except as provided by the General Assembly by local law, a student shall
+142 be allowed to attend and be enrolled in the school in which a parent or guardian of such
+143 student is a full-time teacher, paraprofessional, or other employee, notwithstanding the fact
+144 that such school is not located in the local unit of administration in which such student
+145 resides. Each local unit of administration shall be authorized to allow a student to attend
+146 and be enrolled in the school in which a parent or guardian of such student is a part-time
+147 teacher, paraprofessional, or other employee who works for at least 20 hours per school
+148 week on average measured monthly, notwithstanding the fact that such school is not
+H. B. 917
+- 6 -
+25 LC 49 2050
+149 located in the local unit of administration in which such student resides. Each local unit
+150 of administration of this state shall provide procedures to implement the provisions of this
+151 subsection."
+152 SECTION 3.
+153 Said chapter is further amended in Article 34, relating to intradistrict transfers, by revising
+154 Code Section 20-2-2131, relating to enrollment of students in school to which not originally
+155 assigned, procedure, annual notification, and exception, as follows:
+156 "20-2-2131.
+157 (a)(1) Beginning in school year 2009-2010, the parent of a student enrolled in a public
+158 elementary or secondary school in this state may elect to enroll such student in a public
+159 school that is located within the school system in which the student resides other than the
+160 one to which the student has been assigned by the local board of education if such school
+161 has classroom space available after its assigned students have been enrolled. The parent
+162 shall assume the responsibility and cost of transportation of the student to and from the
+163 school. If the number of students seeking to enroll in a school pursuant to the open
+164 enrollment process provided for in this Code section exceeds the number of spaces that
+165 are available, the local school system shall determine which such students to enroll on the
+166 basis of a lottery system.
+167 (2) No later than July 1, 2009, each local school system shall establish a universal,
+168 streamlined open enrollment process available to all students to implement the transfer
+169 requirements of paragraph (1) of this subsection.
+170 (3) A student who transfers to another school pursuant to the open enrollment process
+171 provided for in this subsection Code section may, at his or her election, continue to attend
+172 such school until the student completes all grades of the school.
+173 (4) This subsection Code section shall not be construed to affect any student currently
+174 attending a school other than the school to which the student has been assigned by the
+H. B. 917
+- 7 -
+25 LC 49 2050
+175 local board of education pursuant to a an authorized transfer authorized under the federal
+176 No Child Left Behind Act (P.L. 107-110).
+177 (5) No student shall be denied an opportunity to transfer schools pursuant to the open
+178 enrollment process provided for in this Code section on the basis of his or her residential
+179 address, ability, disability, race, ethnicity, sex, or socioeconomic status.
+180 (b) The department shall establish a model universal, streamlined process to implement
+181 the transfer provisions of this Code section. Each local board of education shall adopt a
+182 universal, streamlined transfer open enrollment process that includes, at a minimum, such
+183 state model. Such local process shall include a deadline for submitting transfer requests
+184 an annual determination of the enrollment capacity of each of its schools for each grade
+185 level and the number of vacancies for each grade, which shall be posted on the local school
+186 system's public website by the first day of each month. A local school system shall
+187 measure only the capacity by grade level and shall not measure capacity by specialized
+188 program. Schools shall accept student transfers throughout the school year as capacity
+189 allows.
+190 (c) Each local school system shall annually notify prior to each school year the parents of
+191 each student by letter, by electronic means, or by such other reasonable means in a timely
+192 manner of the options available to parents under this article, including all relevant dates and
+193 deadlines. As a part of such annual notification process, each local school system shall
+194 post in a prominent location on its public website the information required pursuant to this
+195 Code section.
+196 (d) Within 45 calendar days of the initial application to enroll in a school pursuant to the
+197 open enrollment process provided for in this Code section, the local school system to which
+198 the student is applying shall notify the parent of such student whether the transfer request
+199 is approved or denied. For each open enrollment transfer request that is denied by a local
+200 school system:
+H. B. 917
+- 8 -
+25 LC 49 2050
+201 (1) The local school system shall notify the parent of the student of the denial in writing
+202 within five calendar days of the decision;
+203 (2) The parent of the student shall be entitled to appeal the denial to the State Board of
+204 Education within ten calendar days of receiving the written notification of the denial by
+205 submitting to the State Board of Education and the local school superintendent of the
+206 local school system that denied the open enrollment transfer request a written notice of
+207 appeal on a form prescribed by the State Board of Education;
+208 (3) The appeal provided for in paragraph (2) of this subsection shall be considered by the
+209 State Board of Education at its next regularly scheduled meeting, where the appealing
+210 parent and a representative from the local school system that denied the open enrollment
+211 transfer request shall be permitted to address the State Board of Education.
+212 The local school system shall notify parents by July 1 of each year which schools have
+213 available space and to which of these schools parents may choose to request a transfer for
+214 their children.
+215 (e) This Code section shall not apply to charter schools; provided, however, that each local
+216 board of education shall adopt a universal, streamlined transfer process that allows for
+217 transfers pursuant to paragraph (2) of subsection (d) of Code Section 20-2-2066.
+218 (f) This Code section shall not apply to newly opened schools with available classroom
+219 space for a period of four years after the school opens.
+220 (g) Each local school system shall report annually to the State School Superintendent the
+221 number of students who reside in the local school system who transferred to another school
+222 within such local school system pursuant to the open enrollment process provided for in
+223 this Code section and the number of transfer requests that such local school system
+224 received, approved, and denied, along with the reason for each denial. The State School
+225 Superintendent shall publish such data annually on the Department of Education's public
+226 website."
+H. B. 917
+- 9 -
+25 LC 49 2050
+227 SECTION 4.
+228 This Act shall become effective on July 1, 2025.
+229 SECTION 5.
+230 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 917
+- 10 -
+[DELETED: 5L5 8ht a s e s a t p g f o e s s t p f r r a p t p t p c t f t b l s s]
+[DELETED: 5L]
+[DELETED: 5L r t e f e p w f e m b t t w f e c f s a a e g t b e b t l s s t b o e o t l u w t s r t a s t o t s t t p s o t o l u]
+[DELETED: 5L  I i r t p o t o r f]
+[DELETED: 5L t a s b p t a t S B o]
+[DELETED: 5L a d a w t r f e d  T S S o]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L C s a t n o t r t s l s s]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 49 2050
+House Bill 917
+By: Representatives Jones of the 25th and Hilton of the 48th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to
+2 elementary and secondary education, so as to provide generally for open enrollment
+3 processes for students to transfer between local school systems and between schools within
+4 local school systems; to provide for rules, regulations, and policies; to prohibit
+5 discrimination; to prohibit charging tuition for transfers between local school systems,
+6 subject to an exception; to provide for appeals of denials of transfer requests; to provide for
+7 the submission and publication of reports; to revise the calculations for equalization grants;
+8 to provide for related matters; to provide for an effective date; to repeal conflicting laws; and
+9 for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to elementary and
+13 secondary education, is amended in Part 4 of Article 6, relating to financing under the
+14 "Quality Basic Education Act," by revising subsection (b) of Code Section 20-2-165, relating
+15 to equalization grants, annual calculations, and allocation, as follows:
+H. B. 917
+- 1 -
+
+25 LC 49 2050
+16 "(b)(1) Except as provided in paragraph (2) of this subsection, the The State Board of
+17 Education shall annually calculate the equalization grant for each qualified local school
+18 system in the following manner:
+19 (1)(A) Subtract the assessed valuation per weighted full-time equivalent count for the
+20 local school system from the guaranteed valuation;
+21 (2)(B) Divide the difference resulting from paragraph (1) subparagraph (A) of this
+22 subsection paragraph by 1,000;
+23 (3)(C) Subtract five from the effective millage rate for the local school system and use
+24 the resulting number of effective mills or 15 effective mills, whichever is less, as the
+25 number of effective mills to be equalized;
+26 (4)(D) Multiply the quotient resulting from paragraph (2) subparagraph (B) of this
+27 subsection paragraph by the number of effective mills to be equalized pursuant to
+28 paragraph (3) subparagraph (C) of this subsection paragraph; and
+29 (5)(D) Multiply the product resulting from paragraph (4) subparagraph (D) of this
+30 subsection paragraph by the most recent weighted full-time equivalent count for the
+31 local school system.
+32 The resulting amount shall be the equalization grant for the ensuing fiscal year.; provided,
+33 however, that for each local school system
+34 (2)(A) Except as provided in paragraph (1) of this subsection, the State Board of
+35 Education shall annually calculate the equalization grant for each qualified local school
+36 system which serves under contract all of the students in one or more grade levels from
+37 an adjoining another local school system. The and for each local school system which
+38 sends under contract all of the students in one or more grade levels to an adjoining
+39 system, the equalization grant shall be calculated to represent the amount that would be
+40 earned if the students transferred under said contract were included in the full-time
+41 equivalent counts of the local school system in which they reside.; provided, further,
+42 that any
+H. B. 917
+- 2 -
+
+25 LC 49 2050
+43 (B) Any equalization grant to be earned by a local school system sending students to
+44 another system under the provisions of such a contract shall be reduced by an amount
+45 which represents the equalization funds earned per weighted full-time equivalent
+46 student multiplied by the total weighted full-time equivalent count for students
+47 transferred, and any equalization grant to be earned by the local school system
+48 receiving students under said contract shall be increased by the same amount; provided,
+49 however, that the total amount of state and local revenue per full-time equivalent
+50 student of such local school system shall not be decreased to less than $10,000.00 by
+51 operation of this subparagraph."
+52 SECTION 2.
+53 Said chapter is further amended in Part 13 of Article 6, relating to organization of schools
+54 and systems under the "Quality Basic Education Act," by revising Code Section 20-2-293,
+55 relating to student attending school in system other than system of student's residence, as
+56 follows:
+57 "20-2-293.
+58 (a)(1) The provisions of this article and other statutes to the contrary notwithstanding, the
+59 State Board of Education shall provide a an open enrollment procedure whereby a student
+60 shall be permitted to attend and to be included as an enrolled student in the public schools
+61 of a local unit of administration school system other than the local unit of administration
+62 school system wherein the student resides for the purpose of allotting state funds under this
+63 article, notwithstanding absence of an agreement between the two local units and a refusal
+64 by the board of education of the local unit wherein the student resides to approve
+65 voluntarily such transfer of the student to the public schools of the other local unit;
+66 provided, however, that the board of education of the local unit is willing to receive and to
+67 permit such student to enroll in and to attend the public schools of such local unit school
+68 systems. The state board State Board of Education shall adopt such rules, regulations, and
+H. B. 917
+- 3 -
+
+25 LC 49 2050
+69 policies as may be necessary for implementation of this Code section, which shall include,
+70 but shall not be limited to, rules, regulations, and policies for the appeals process provided
+71 for in subsection (d) of this Code section. Grant or refusal of permission for students to
+72 attend such schools, for the purpose of permitting state funds to follow such students, shall
+73 be subject only to approval of the enrolling student and the local unit of administration in
+74 which the student seeks to enroll. Local units of administration may contract with each
+75 other for the care, education, and transportation of students and for such other activities as
+76 they may be authorized by law to perform.
+77 (2) Beginning July 1, 2026, and continuing thereafter, if a local unit of administration
+78 enrolls a student pursuant to paragraph (1) of this subsection and requires the student to
+79 pay tuition, the amount of tuition such local unit of administration may charge to such
+80 student shall not exceed total revenues less federal revenues less state revenues per
+81 full-time equivalent student for the local unit of administration that enrolls such student.
+82 (b) Each local school system shall implement an open enrollment process as provided for
+83 in this Code section. The board of education of each local school system shall adopt
+84 policies to govern the process for open enrollment. Such policies shall:
+85 (1) Prohibit discrimination against any transferring student on the basis of his or her
+86 residential address, ability, disability, race, ethnicity, sex, or socioeconomic status;
+87 (2) Include basic information that is needed to request enrollment and that is consistent
+88 with guidance and state and federal law regarding student privacy and civil rights;
+89 (3) Include information regarding the provision of transportation or resources for
+90 transportation;
+91 (4) Be posted to the local school system's public website; and
+92 (5) Be available in English and in any other language used by a majority of the student
+93 populations served by each school of the local school system.
+94 (c) Each local school system shall receive and enroll transferring students who apply
+95 through the open enrollment process provided for in this Code section unless there is
+H. B. 917
+- 4 -
+
+25 LC 49 2050
+96 insufficient space available in the school to which such transferring student is applying.
+97 Each local school system shall determine for each of its schools the enrollment capacity of
+98 each grade level and post the number of vacancies for each grade on its public website by
+99 the first day of each month. Each local school system shall measure only the capacity by
+100 grade level and shall not measure capacity by specialized program. Schools shall accept
+101 student transfers throughout the school year as capacity allows.
+102 (d) Within 45 calendar days of the initial application to enroll in a school pursuant to the
+103 open enrollment process provided for in this Code section, the local school system to which
+104 the student is applying shall notify the parent or guardian of such student whether the open
+105 enrollment transfer application is approved or denied. For each open enrollment transfer
+106 application that is denied by a local school system:
+107 (1) The local school system shall notify the parent or guardian of the student of the
+108 denial in writing within five calendar days of the decision;
+109 (2) The parent or guardian of the student shall be entitled to appeal the denial to the State
+110 Board of Education within ten calendar days of receiving the written notification of the
+111 denial by submitting to the State Board of Education and the local school superintendent
+112 of the local school system that denied the open enrollment transfer application a written
+113 notice of appeal on a form prescribed by the State Board of Education;
+114 (3) The appeal provided for in paragraph (2) of this subsection shall be considered by the
+115 State Board of Education at its next regularly scheduled meeting, where the appealing
+116 parent or guardian and a representative from the local school system that denied the open
+117 enrollment transfer application shall be permitted to address the State Board of
+118 Education.
+119 (e) If the number of students applying for enrollment in a school pursuant to the open
+120 enrollment process provided for in this Code section exceeds the number of spaces that are
+121 available, the local school system shall determine which such applicants to enroll on the
+H. B. 917
+- 5 -
+
+25 LC 49 2050
+122 basis of a lottery system; provided, however, that schools of choice within a local school
+123 system that have lottery enrollment policies shall not be subject to this subsection.
+124 (f) Each local school system shall report annually to the State School Superintendent the
+125 number of students who reside in the local school system who transferred to another local
+126 school system pursuant to the open enrollment process provided for in this Code section
+127 and the number of open enrollment applications that such local school system received,
+128 approved, and denied, along with the reason for each denial. The State School
+129 Superintendent shall publish such data annually on the Department of Education's public
+130 website.
+131 (g)(1) Except as provided in paragraph (2) of this subsection, no local school system
+132 shall charge tuition for any transferring student enrolled in a school of such local school
+133 system pursuant to the open enrollment process provided for in this Code section.
+134 (2) Each local school system that enrolls a student pursuant to the open enrollment
+135 process provided for in this Code section and exclusively provides virtual instruction to
+136 such student shall be permitted to charge tuition for such student; provided, however, that
+137 the amount of such tuition shall not exceed an amount equal to two-thirds of total
+138 revenues less federal revenues less state revenues per full-time equivalent student for
+139 such local school system.
+140 (h) Notwithstanding the provisions of subsection (a) of this Code section or any other
+141 general law, and except as provided by the General Assembly by local law, a student shall
+142 be allowed to attend and be enrolled in the school in which a parent or guardian of such
+143 student is a full-time teacher, paraprofessional, or other employee, notwithstanding the fact
+144 that such school is not located in the local unit of administration in which such student
+145 resides. Each local unit of administration shall be authorized to allow a student to attend
+146 and be enrolled in the school in which a parent or guardian of such student is a part-time
+147 teacher, paraprofessional, or other employee who works for at least 20 hours per school
+148 week on average measured monthly, notwithstanding the fact that such school is not
+H. B. 917
+- 6 -
+
+25 LC 49 2050
+149 located in the local unit of administration in which such student resides. Each local unit
+150 of administration of this state shall provide procedures to implement the provisions of this
+151 subsection."
+152 SECTION 3.
+153 Said chapter is further amended in Article 34, relating to intradistrict transfers, by revising
+154 Code Section 20-2-2131, relating to enrollment of students in school to which not originally
+155 assigned, procedure, annual notification, and exception, as follows:
+156 "20-2-2131.
+157 (a)(1) Beginning in school year 2009-2010, the parent of a student enrolled in a public
+158 elementary or secondary school in this state may elect to enroll such student in a public
+159 school that is located within the school system in which the student resides other than the
+160 one to which the student has been assigned by the local board of education if such school
+161 has classroom space available after its assigned students have been enrolled. The parent
+162 shall assume the responsibility and cost of transportation of the student to and from the
+163 school. If the number of students seeking to enroll in a school pursuant to the open
+164 enrollment process provided for in this Code section exceeds the number of spaces that
+165 are available, the local school system shall determine which such students to enroll on the
+166 basis of a lottery system.
+167 (2) No later than July 1, 2009, each local school system shall establish a universal,
+168 streamlined open enrollment process available to all students to implement the transfer
+169 requirements of paragraph (1) of this subsection.
+170 (3) A student who transfers to another school pursuant to the open enrollment process
+171 provided for in this subsection Code section may, at his or her election, continue to attend
+172 such school until the student completes all grades of the school.
+173 (4) This subsection Code section shall not be construed to affect any student currently
+174 attending a school other than the school to which the student has been assigned by the
+H. B. 917
+- 7 -
+
+25 LC 49 2050
+175 local board of education pursuant to a an authorized transfer authorized under the federal
+176 No Child Left Behind Act (P.L. 107-110).
+177 (5) No student shall be denied an opportunity to transfer schools pursuant to the open
+178 enrollment process provided for in this Code section on the basis of his or her residential
+179 address, ability, disability, race, ethnicity, sex, or socioeconomic status.
+180 (b) The department shall establish a model universal, streamlined process to implement
+181 the transfer provisions of this Code section. Each local board of education shall adopt a
+182 universal, streamlined transfer open enrollment process that includes, at a minimum, such
+183 state model. Such local process shall include a deadline for submitting transfer requests
+184 an annual determination of the enrollment capacity of each of its schools for each grade
+185 level and the number of vacancies for each grade, which shall be posted on the local school
+186 system's public website by the first day of each month. A local school system shall
+187 measure only the capacity by grade level and shall not measure capacity by specialized
+188 program. Schools shall accept student transfers throughout the school year as capacity
+189 allows.
+190 (c) Each local school system shall annually notify prior to each school year the parents of
+191 each student by letter, by electronic means, or by such other reasonable means in a timely
+192 manner of the options available to parents under this article, including all relevant dates and
+193 deadlines. As a part of such annual notification process, each local school system shall
+194 post in a prominent location on its public website the information required pursuant to this
+195 Code section.
+196 (d) Within 45 calendar days of the initial application to enroll in a school pursuant to the
+197 open enrollment process provided for in this Code section, the local school system to which
+198 the student is applying shall notify the parent of such student whether the transfer request
+199 is approved or denied. For each open enrollment transfer request that is denied by a local
+200 school system:
+H. B. 917
+- 8 -
+
+25 LC 49 2050
+201 (1) The local school system shall notify the parent of the student of the denial in writing
+202 within five calendar days of the decision;
+203 (2) The parent of the student shall be entitled to appeal the denial to the State Board of
+204 Education within ten calendar days of receiving the written notification of the denial by
+205 submitting to the State Board of Education and the local school superintendent of the
+206 local school system that denied the open enrollment transfer request a written notice of
+207 appeal on a form prescribed by the State Board of Education;
+208 (3) The appeal provided for in paragraph (2) of this subsection shall be considered by the
+209 State Board of Education at its next regularly scheduled meeting, where the appealing
+210 parent and a representative from the local school system that denied the open enrollment
+211 transfer request shall be permitted to address the State Board of Education.
+212 The local school system shall notify parents by July 1 of each year which schools have
+213 available space and to which of these schools parents may choose to request a transfer for
+214 their children.
+215 (e) This Code section shall not apply to charter schools; provided, however, that each local
+216 board of education shall adopt a universal, streamlined transfer process that allows for
+217 transfers pursuant to paragraph (2) of subsection (d) of Code Section 20-2-2066.
+218 (f) This Code section shall not apply to newly opened schools with available classroom
+219 space for a period of four years after the school opens.
+220 (g) Each local school system shall report annually to the State School Superintendent the
+221 number of students who reside in the local school system who transferred to another school
+222 within such local school system pursuant to the open enrollment process provided for in
+223 this Code section and the number of transfer requests that such local school system
+224 received, approved, and denied, along with the reason for each denial. The State School
+225 Superintendent shall publish such data annually on the Department of Education's public
+226 website."
+H. B. 917
+- 9 -
+
+25 LC 49 2050
+227 SECTION 4.
+228 This Act shall become effective on July 1, 2025.
+229 SECTION 5.
+230 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 917
+- 10 -
+
+[DELETED: 5L5 8ht a s e s a t p g f o e s s t p f r r a p t p t p c t f t b l s s]
+[DELETED: 5L]
+[DELETED: 5L r t e f e p w f e m b t t w f e c f s a a e g t b e b t l s s t b o e o t l u w t s r t a s t o t s t t p s o t o l u]
+[DELETED: 5L  I i r t p o t o r f]
+[DELETED: 5L t a s b p t a t S B o]
+[DELETED: 5L a d a w t r f e d  T S S o]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L C s a t n o t r t s l s s]
+[DELETED: 5L]

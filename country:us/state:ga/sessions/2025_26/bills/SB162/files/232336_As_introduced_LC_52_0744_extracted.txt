@@ -1,0 +1,106 @@
+Title: Senate Bill 162
+Official Title: Senate Bill 162
+Number of Sections: 1
+Source: versions - As introduced LC 52 0744
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0744
+By: Senators Hufstetler of the 52nd, Watson of the 1st, Kirkpatrick of the 32nd, Tillery of
+the 19th and Walker III of the 20th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated,
+2 relating to Georgia Composite Medical Board, so as to provide for the board to implement
+3 an automated credentialing system for healthcare providers in this state; to provide for
+4 requirements; to provide for related matters; to repeal conflicting laws; and for other
+5 purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Article 1 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to
+9 Georgia Composite Medical Board, is amended in Code Section 43-34-6, relating to board
+10 as an independent agency, by adding a new subsection to read as follows:
+11 "(k) No later than July 1, 2025, the board shall implement a data management software
+12 system to streamline and automate the credentialing process of physicians, advanced
+13 practice registered nurses, licensed physician assistants, and anesthesiologist assistants.
+14 No later than October 1, 2025, such system shall be fully operational for other healthcare
+15 providers. Such system shall:
+S. B. 162
+- 1 -
+25 LC 52 0744
+16 (1) Organize, verify, and store the credentials of healthcare providers, allowing for a
+17 single verification process that results in authorization statewide, provided that a
+18 healthcare facility agrees to such authorization;
+19 (2) Be customizable so that a healthcare facility can add requirements to meet such
+20 facility's rules, regulations, or bylaws;
+21 (3) Be easily and securely accessible by other state medical boards, healthcare providers,
+22 and healthcare facilities;
+23 (4) Notify any individual submitting credentials into such system when his or her
+24 application is deficient, what such deficiency is, and when such application is complete;
+25 (5) Process complete applications within 30 days and process reappointments within two
+26 weeks;
+27 (6) Provide for the registration of nurse protocol agreements for advanced practice
+28 registered nurses and job descriptions for licensed physician assistants and
+29 anesthesiologist assistants; and
+30 (7) Perform any other functions the board deems necessary."
+31 SECTION 2.
+32 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 162
+- 2 -
+[DELETED: 5L t p f r m t r c l a f o a]
+[DELETED: 5L v p t r i a s p t  n a j d f l p a a]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0744
+Senate Bill 162
+By: Senators Hufstetler of the 52nd, Watson of the 1st, Kirkpatrick of the 32nd, Tillery of
+the 19th and Walker III of the 20th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated,
+2 relating to Georgia Composite Medical Board, so as to provide for the board to implement
+3 an automated credentialing system for healthcare providers in this state; to provide for
+4 requirements; to provide for related matters; to repeal conflicting laws; and for other
+5 purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Article 1 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to
+9 Georgia Composite Medical Board, is amended in Code Section 43-34-6, relating to board
+10 as an independent agency, by adding a new subsection to read as follows:
+11 "(k) No later than July 1, 2025, the board shall implement a data management software
+12 system to streamline and automate the credentialing process of physicians, advanced
+13 practice registered nurses, licensed physician assistants, and anesthesiologist assistants.
+14 No later than October 1, 2025, such system shall be fully operational for other healthcare
+15 providers. Such system shall:
+S. B. 162
+- 1 -
+
+25 LC 52 0744
+16 (1) Organize, verify, and store the credentials of healthcare providers, allowing for a
+17 single verification process that results in authorization statewide, provided that a
+18 healthcare facility agrees to such authorization;
+19 (2) Be customizable so that a healthcare facility can add requirements to meet such
+20 facility's rules, regulations, or bylaws;
+21 (3) Be easily and securely accessible by other state medical boards, healthcare providers,
+22 and healthcare facilities;
+23 (4) Notify any individual submitting credentials into such system when his or her
+24 application is deficient, what such deficiency is, and when such application is complete;
+25 (5) Process complete applications within 30 days and process reappointments within two
+26 weeks;
+27 (6) Provide for the registration of nurse protocol agreements for advanced practice
+28 registered nurses and job descriptions for licensed physician assistants and
+29 anesthesiologist assistants; and
+30 (7) Perform any other functions the board deems necessary."
+31 SECTION 2.
+32 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 162
+- 2 -
+
+[DELETED: 5L t p f r m t r c l a f o a]
+[DELETED: 5L v p t r i a s p t  n a j d f l p a a]

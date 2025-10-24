@@ -1,0 +1,401 @@
+Title: Senate Bill 287
+Official Title: Senate Bill 287
+Number of Sections: 1
+Source: versions - As Introduced LC 60 0095
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+25 LC 60 0095
+By: Senators Halpern of the 39th, Walker III of the 20th, Mallow of the 2nd, Orrock of the
+36th, Merritt of the 9th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 7 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated,
+2 relating to medical assistance generally, so as to create and establish a purpose for the
+3 Georgia Interested Parties Advisory Group within the Department of Community Health; to
+4 provide for such advisory group's composition and duties; to provide for the collection of
+5 certain data by the Department of Community Health and the Department of Behavioral
+6 Health and Developmental Disabilities; to provide for annual reports; to provide for
+7 definitions; to provide for related matters; to provide for an effective date; to repeal
+8 conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Article 7 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to
+12 medical assistance generally, is amended by adding a new Code section to read as follows:
+13 "49-4-159.5.
+14 (a) As used in this Code section, the term:
+15 (1) 'Advisory group' means the Georgia Interested Parties Advisory Group established
+16 pursuant to this Code section.
+S. B. 287
+- 1 -
+25 LC 60 0095
+17 (2) 'DBHDD' means the Department of Behavioral Health and Developmental
+18 Disabilities.
+19 (3) 'DCH' means the Department of Community Health.
+20 (4) 'Direct care worker' shall have the same meaning as defined in 42 C.F.R. Section
+21 441.311.
+22 (5) 'Financial support services provider' means a fiscal agent contracted by DCH or
+23 DBHDD to implement an individualized service plan of an HCBS beneficiary by
+24 receiving and processing payment requests as authorized.
+25 (6) 'HCBS' means Medicaid covered home and community based services as such phrase
+26 is defined in 42 C.F.R. Section 440.180, 440.181, or 440.182.
+27 (7) 'HCBS provider agency' means an organization that has entered into a Medicaid
+28 provider participation agreement with DCH or DBHDD for the provision of HCBS to
+29 beneficiaries.
+30 (8) 'Waiver' means any waiver granted by the United States Secretary of Health and
+31 Human Services pursuant to subsection (b) of 42 U.S.C. Section 1396n.
+32 (b) As required by 42 C.F.R. Section 447.203(b)(6), there is established within DCH the
+33 Georgia Interested Parties Advisory Group. The purpose of the advisory group shall be to
+34 advise, consult with, and provide recommendations to DCH in accordance with 42 C.F.R.
+35 Section 447.203(b)(6).
+36 (c) The advisory group shall be composed of 19 members to be appointed by the
+37 Governor, on or before October 1, 2025, in accordance with the requirements of 42 C.F.R.
+38 Section 447.203(b)(6), including:
+39 (1) A chairperson, who shall not be a state employee;
+40 (2) One representative from the Division of Medical Assistance Plans of DCH; and
+41 (3) One representative from DBHDD.
+42 (d) All members of the advisory group shall be full-time residents of Georgia.
+S. B. 287
+- 2 -
+25 LC 60 0095
+43 (e) The advisory group shall meet at a frequency and in accordance with any other
+44 requirements set forth in 42 C.F.R. Section 447.203(b)(6).
+45 (f) Members of the advisory group shall receive no compensation for their services but
+46 shall be allowed actual and necessary expenses in the performance of their duties. Any
+47 legislative members of the advisory group shall receive the allowances provided for in
+48 Code Section 28-1-8. Citizen members shall receive a daily expense allowance in the
+49 amount specified in subsection (b) of Code Section 45-7-21, as well as the mileage or
+50 transportation allowance authorized for state employees. Members who are state officials
+51 or state employees shall receive no compensation for their services on the advisory group
+52 but shall be reimbursed for expenses incurred in the performance of their duties as
+53 members of the advisory group in the same manner as reimbursements are made in their
+54 capacity as state officials or state employees. The funds necessary for the reimbursement
+55 of the expenses of state officials, other than legislative members, and state employees shall
+56 come from funds appropriated to or otherwise available to their respective departments.
+57 (g) DCH shall publish in a prominent location on DCH's website information about the
+58 advisory group, including, but not limited to, the advisory group's purpose, current
+59 members, the process by which members were appointed, the process by which the
+60 advisory group convenes its meetings, notices of upcoming meetings, and any other
+61 information required by 42 C.F.R. Section 447.203(b)(6).
+62 (h) DCH and DBHDD shall require each HCBS provider agency to submit, on or before
+63 January 1, 2026, and annually thereafter, data regarding direct care workers it employs or
+64 engages with, including, but not limited to:
+65 (1) The total number of direct care workers, including a breakdown of full-time
+66 employees, part-time employees, and independent contractors, if any;
+67 (2) The percentage of the previous calendar year that each direct care worker was
+68 employed or engaged by such HCBS provider agency;
+S. B. 287
+- 3 -
+25 LC 60 0095
+69 (3) The total length of employment or engagement for each direct care worker as of the
+70 end of the previous calendar year;
+71 (4) The total number of direct care worker separations from employment occurring in the
+72 previous calendar year;
+73 (5) The total number of full-time and part-time direct care worker vacancies that
+74 remained unfilled as of the end of the previous calendar year;
+75 (6) The total number of unstaffed hours, as measured by hours allotted in an HCBS
+76 beneficiary's care plan for which such beneficiary did not receive care in the previous
+77 calendar year;
+78 (7) The hourly wage paid to each full-time and part-time direct care worker during the
+79 previous calendar year;
+80 (8) The total number of hours authorized for overtime pay for each full-time and
+81 part-time direct care worker;
+82 (9) The total sum paid to direct care workers for travel to HCBS beneficiaries in the
+83 previous calendar year;
+84 (10) Whether such HCBS provider agency paid for the following direct care worker
+85 fringe benefits, including a breakdown of the number of and percentage of total full-time
+86 and part-time direct care workers who received such benefits:
+87 (A) Health insurance;
+88 (B) Dental insurance;
+89 (C) Vision insurance;
+90 (D) Life insurance;
+91 (E) Disability insurance;
+92 (F) Tuition reimbursement;
+93 (G) Retirement benefits;
+94 (H) Paid leave (other than sick time, name type); and
+95 (I) Other benefits;
+S. B. 287
+- 4 -
+25 LC 60 0095
+96 (11) Other expenditures related to direct care workers paid by such HCBS provider
+97 agency, including, but not limited to:
+98 (A) Required training;
+99 (B) Discretionary travel benefits; and
+100 (C) Personal protective equipment purchases; and
+101 (12) Demographic and other similar information, including, but not limited to:
+102 (A) Age;
+103 (B) Gender;
+104 (C) Race and ethnicity;
+105 (D) Highest educational level attained;
+106 (E) Certification(s) held; and
+107 (F) Years of direct care worker experience.
+108 (i) DCH and DBHDD shall require each financial support services provider to submit on
+109 or before January 1, 2026, and annually thereafter, data regarding direct care workers on
+110 its payroll, including, but not limited to:
+111 (1) The total number of full-time direct care workers and the total number of part-time
+112 direct care workers;
+113 (2) The percentage of the previous calendar year that each full-time and part-time direct
+114 care worker was employed;
+115 (3) The total length of employment for each full-time and part-time direct care worker
+116 as of the end of the previous calendar year;
+117 (4) The total number of direct care worker separations from employment occurring in the
+118 previous calendar year;
+119 (5) The hourly wage paid to each full-time and part-time direct care worker during the
+120 previous calendar year;
+121 (6) The total number of hours authorized for overtime pay for each full-time and
+122 part-time direct care worker; and
+S. B. 287
+- 5 -
+25 LC 60 0095
+123 (7) Demographic and other similar information, including, but not limited to:
+124 (A) Age;
+125 (B) Gender;
+126 (C) Race and ethnicity;
+127 (D) Highest educational level attained;
+128 (E) Certification(s) held; and
+129 (F) Years of direct care worker experience.
+130 (j) Beginning in 2026, on or before March 1 of each year, DCH, in coordination with
+131 DBHDD, shall aggregate the data collected pursuant to subsections (h) and (i) of this Code
+132 section and provide an annual report to the advisory group, the General Assembly, and the
+133 Governor, including, but not limited to:
+134 (1) The total of number HCBS provider agencies per waiver;
+135 (2) The total number of HCBS provider agencies who submitted information and, if the
+136 response rate among such provider agencies is less than 90 percent, the measures taken
+137 by DCH and DBHDD to ensure receipt of responses;
+138 (3) The total number of direct care workers, including a demographic analysis of this
+139 workforce;
+140 (4) The highest, lowest, median, and average hourly wages paid by HCBS provider
+141 agencies to direct care workers;
+142 (5) The amount of authorized overtime, travel time, and other expenditures paid by
+143 HCBS provider agencies to direct care workers;
+144 (6) The highest, lowest, median, and average hourly wages paid by financial support
+145 services providers to direct care workers;
+146 (7) The average length of employment, vacancy, and turnover rates of direct care
+147 workers; and
+148 (8) The availability of and type of benefits provided to direct care workers.
+S. B. 287
+- 6 -
+25 LC 60 0095
+149 (k) Any report produced by DCH pursuant to subsection (j) of this Code section shall be
+150 made publicly accessible on DCH's website.
+151 (l) DCH shall in all respects comply with the requirements set forth in 42 C.F.R. Section
+152 441.311."
+153 SECTION 2.
+154 This Act shall become effective upon its approval by the Governor or upon its becoming law
+155 without such approval.
+156 SECTION 3.
+157 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 287
+- 7 -
+[DELETED: 5L a D D t p f a r t p f t p f r m t p f a e d t r]
+[DELETED: 5L  ' m t D o B H a D t i a i s p o a H b b  T a g s b c o 1 m t b a b t]
+[DELETED: 5L s b r f e i i t p o t d a g i b n l t t a g p c t p b w m w a t p b w t g c i m n o u m a a o  T t n o d c w i a b o f]
+[DELETED: 5L  T t n o f a p d c w v t  T t n o h a f o p f e f a]
+[DELETED: 5L  T t n o h a f o p f e f a]
+[DELETED: 5L  T a l o e v a t r o d c]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 60 0095
+Senate Bill 287
+By: Senators Halpern of the 39th, Walker III of the 20th, Mallow of the 2nd, Orrock of the
+36th, Merritt of the 9th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 7 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated,
+2 relating to medical assistance generally, so as to create and establish a purpose for the
+3 Georgia Interested Parties Advisory Group within the Department of Community Health; to
+4 provide for such advisory group's composition and duties; to provide for the collection of
+5 certain data by the Department of Community Health and the Department of Behavioral
+6 Health and Developmental Disabilities; to provide for annual reports; to provide for
+7 definitions; to provide for related matters; to provide for an effective date; to repeal
+8 conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Article 7 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to
+12 medical assistance generally, is amended by adding a new Code section to read as follows:
+13 "49-4-159.5.
+14 (a) As used in this Code section, the term:
+15 (1) 'Advisory group' means the Georgia Interested Parties Advisory Group established
+16 pursuant to this Code section.
+S. B. 287
+- 1 -
+
+25 LC 60 0095
+17 (2) 'DBHDD' means the Department of Behavioral Health and Developmental
+18 Disabilities.
+19 (3) 'DCH' means the Department of Community Health.
+20 (4) 'Direct care worker' shall have the same meaning as defined in 42 C.F.R. Section
+21 441.311.
+22 (5) 'Financial support services provider' means a fiscal agent contracted by DCH or
+23 DBHDD to implement an individualized service plan of an HCBS beneficiary by
+24 receiving and processing payment requests as authorized.
+25 (6) 'HCBS' means Medicaid covered home and community based services as such phrase
+26 is defined in 42 C.F.R. Section 440.180, 440.181, or 440.182.
+27 (7) 'HCBS provider agency' means an organization that has entered into a Medicaid
+28 provider participation agreement with DCH or DBHDD for the provision of HCBS to
+29 beneficiaries.
+30 (8) 'Waiver' means any waiver granted by the United States Secretary of Health and
+31 Human Services pursuant to subsection (b) of 42 U.S.C. Section 1396n.
+32 (b) As required by 42 C.F.R. Section 447.203(b)(6), there is established within DCH the
+33 Georgia Interested Parties Advisory Group. The purpose of the advisory group shall be to
+34 advise, consult with, and provide recommendations to DCH in accordance with 42 C.F.R.
+35 Section 447.203(b)(6).
+36 (c) The advisory group shall be composed of 19 members to be appointed by the
+37 Governor, on or before October 1, 2025, in accordance with the requirements of 42 C.F.R.
+38 Section 447.203(b)(6), including:
+39 (1) A chairperson, who shall not be a state employee;
+40 (2) One representative from the Division of Medical Assistance Plans of DCH; and
+41 (3) One representative from DBHDD.
+42 (d) All members of the advisory group shall be full-time residents of Georgia.
+S. B. 287
+- 2 -
+
+25 LC 60 0095
+43 (e) The advisory group shall meet at a frequency and in accordance with any other
+44 requirements set forth in 42 C.F.R. Section 447.203(b)(6).
+45 (f) Members of the advisory group shall receive no compensation for their services but
+46 shall be allowed actual and necessary expenses in the performance of their duties. Any
+47 legislative members of the advisory group shall receive the allowances provided for in
+48 Code Section 28-1-8. Citizen members shall receive a daily expense allowance in the
+49 amount specified in subsection (b) of Code Section 45-7-21, as well as the mileage or
+50 transportation allowance authorized for state employees. Members who are state officials
+51 or state employees shall receive no compensation for their services on the advisory group
+52 but shall be reimbursed for expenses incurred in the performance of their duties as
+53 members of the advisory group in the same manner as reimbursements are made in their
+54 capacity as state officials or state employees. The funds necessary for the reimbursement
+55 of the expenses of state officials, other than legislative members, and state employees shall
+56 come from funds appropriated to or otherwise available to their respective departments.
+57 (g) DCH shall publish in a prominent location on DCH's website information about the
+58 advisory group, including, but not limited to, the advisory group's purpose, current
+59 members, the process by which members were appointed, the process by which the
+60 advisory group convenes its meetings, notices of upcoming meetings, and any other
+61 information required by 42 C.F.R. Section 447.203(b)(6).
+62 (h) DCH and DBHDD shall require each HCBS provider agency to submit, on or before
+63 January 1, 2026, and annually thereafter, data regarding direct care workers it employs or
+64 engages with, including, but not limited to:
+65 (1) The total number of direct care workers, including a breakdown of full-time
+66 employees, part-time employees, and independent contractors, if any;
+67 (2) The percentage of the previous calendar year that each direct care worker was
+68 employed or engaged by such HCBS provider agency;
+S. B. 287
+- 3 -
+
+25 LC 60 0095
+69 (3) The total length of employment or engagement for each direct care worker as of the
+70 end of the previous calendar year;
+71 (4) The total number of direct care worker separations from employment occurring in the
+72 previous calendar year;
+73 (5) The total number of full-time and part-time direct care worker vacancies that
+74 remained unfilled as of the end of the previous calendar year;
+75 (6) The total number of unstaffed hours, as measured by hours allotted in an HCBS
+76 beneficiary's care plan for which such beneficiary did not receive care in the previous
+77 calendar year;
+78 (7) The hourly wage paid to each full-time and part-time direct care worker during the
+79 previous calendar year;
+80 (8) The total number of hours authorized for overtime pay for each full-time and
+81 part-time direct care worker;
+82 (9) The total sum paid to direct care workers for travel to HCBS beneficiaries in the
+83 previous calendar year;
+84 (10) Whether such HCBS provider agency paid for the following direct care worker
+85 fringe benefits, including a breakdown of the number of and percentage of total full-time
+86 and part-time direct care workers who received such benefits:
+87 (A) Health insurance;
+88 (B) Dental insurance;
+89 (C) Vision insurance;
+90 (D) Life insurance;
+91 (E) Disability insurance;
+92 (F) Tuition reimbursement;
+93 (G) Retirement benefits;
+94 (H) Paid leave (other than sick time, name type); and
+95 (I) Other benefits;
+S. B. 287
+- 4 -
+
+25 LC 60 0095
+96 (11) Other expenditures related to direct care workers paid by such HCBS provider
+97 agency, including, but not limited to:
+98 (A) Required training;
+99 (B) Discretionary travel benefits; and
+100 (C) Personal protective equipment purchases; and
+101 (12) Demographic and other similar information, including, but not limited to:
+102 (A) Age;
+103 (B) Gender;
+104 (C) Race and ethnicity;
+105 (D) Highest educational level attained;
+106 (E) Certification(s) held; and
+107 (F) Years of direct care worker experience.
+108 (i) DCH and DBHDD shall require each financial support services provider to submit on
+109 or before January 1, 2026, and annually thereafter, data regarding direct care workers on
+110 its payroll, including, but not limited to:
+111 (1) The total number of full-time direct care workers and the total number of part-time
+112 direct care workers;
+113 (2) The percentage of the previous calendar year that each full-time and part-time direct
+114 care worker was employed;
+115 (3) The total length of employment for each full-time and part-time direct care worker
+116 as of the end of the previous calendar year;
+117 (4) The total number of direct care worker separations from employment occurring in the
+118 previous calendar year;
+119 (5) The hourly wage paid to each full-time and part-time direct care worker during the
+120 previous calendar year;
+121 (6) The total number of hours authorized for overtime pay for each full-time and
+122 part-time direct care worker; and
+S. B. 287
+- 5 -
+
+25 LC 60 0095
+123 (7) Demographic and other similar information, including, but not limited to:
+124 (A) Age;
+125 (B) Gender;
+126 (C) Race and ethnicity;
+127 (D) Highest educational level attained;
+128 (E) Certification(s) held; and
+129 (F) Years of direct care worker experience.
+130 (j) Beginning in 2026, on or before March 1 of each year, DCH, in coordination with
+131 DBHDD, shall aggregate the data collected pursuant to subsections (h) and (i) of this Code
+132 section and provide an annual report to the advisory group, the General Assembly, and the
+133 Governor, including, but not limited to:
+134 (1) The total of number HCBS provider agencies per waiver;
+135 (2) The total number of HCBS provider agencies who submitted information and, if the
+136 response rate among such provider agencies is less than 90 percent, the measures taken
+137 by DCH and DBHDD to ensure receipt of responses;
+138 (3) The total number of direct care workers, including a demographic analysis of this
+139 workforce;
+140 (4) The highest, lowest, median, and average hourly wages paid by HCBS provider
+141 agencies to direct care workers;
+142 (5) The amount of authorized overtime, travel time, and other expenditures paid by
+143 HCBS provider agencies to direct care workers;
+144 (6) The highest, lowest, median, and average hourly wages paid by financial support
+145 services providers to direct care workers;
+146 (7) The average length of employment, vacancy, and turnover rates of direct care
+147 workers; and
+148 (8) The availability of and type of benefits provided to direct care workers.
+S. B. 287
+- 6 -
+
+25 LC 60 0095
+149 (k) Any report produced by DCH pursuant to subsection (j) of this Code section shall be
+150 made publicly accessible on DCH's website.
+151 (l) DCH shall in all respects comply with the requirements set forth in 42 C.F.R. Section
+152 441.311."
+153 SECTION 2.
+154 This Act shall become effective upon its approval by the Governor or upon its becoming law
+155 without such approval.
+156 SECTION 3.
+157 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 287
+- 7 -
+
+[DELETED: 5L a D D t p f a r t p f t p f r m t p f a e d t r]
+[DELETED: 5L  ' m t D o B H a D t i a i s p o a H b b  T a g s b c o 1 m t b a b t]
+[DELETED: 5L s b r f e i i t p o t d a g i b n l t t a g p c t p b w m w a t p b w t g c i m n o u m a a o  T t n o d c w i a b o f]
+[DELETED: 5L  T t n o f a p d c w v t  T t n o h a f o p f e f a]
+[DELETED: 5L  T t n o h a f o p f e f a]
+[DELETED: 5L  T a l o e v a t r o d c]
+[DELETED: 5L]

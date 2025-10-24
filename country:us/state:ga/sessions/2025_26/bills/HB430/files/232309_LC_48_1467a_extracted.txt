@@ -1,0 +1,161 @@
+Title: House Bill 430
+Official Title: House Bill 430
+Number of Sections: 1
+Source: versions - LC 48 1467/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 48 1467
+By: Representatives Sainz of the 180th, Clifton of the 131st, Ballard of the 147th, Ford of the
+170th, Ballinger of the 23rd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 1 of Title 42 of the Official Code of Georgia Annotated,
+2 relating to Sexual Offender Risk Review Board, so as to provide for venue for certain
+3 petitions regarding the state sexual offender registry; to provide for related matters; to repeal
+4 conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 Article 2 of Chapter 1 of Title 42 of the Official Code of Georgia Annotated, relating to
+8 Sexual Offender Risk Review Board, is amended by revising paragraph (2) of subsection (h)
+9 of Code Section 42-1-12, relating to State Sexual Offender Registry, as follows:
+10 "(2) The Georgia Bureau of Investigation shall:
+11 (A) Transmit all information, including the conviction data and fingerprints, to the
+12 Federal Bureau of Investigation within 24 hours of entering the data;
+13 (B) Establish operating policies and procedures concerning record ownership, quality,
+14 verification, modification, and cancellation; and
+15 (C) Perform mail out and verification duties as follows:
+H. B. 430
+- 1 -
+25 LC 48 1467
+16 (i) Send each month Criminal Justice Information System network messages to
+17 sheriffs listing sexual offenders due for verification;
+18 (ii) Create a photo image file from original entries and provide such entries to sheriffs
+19 to assist in sexual offender identification and verification;
+20 (iii) Mail a nonforwardable verification form to the last reported address of the sexual
+21 offender within ten days prior to the sexual offender's birthday;
+22 (iv) If the sexual offender changes residence to another state, notify the law
+23 enforcement agency with which the sexual offender shall register in the new state; and
+24 (v) Maintain records required under this Code section; and
+25 (D) Review the conviction or convictions of a nonresident who changes residence from
+26 another state or territory of the United States or any other place to Georgia to determine
+27 whether said nonresident should be subject to the registration requirements set forth in
+28 subsection (e) of this Code section, and if applicable, place such nonresident on the
+29 state sexual offender registry."
+30 SECTION 2.
+31 Said article is further amended by revising paragraph (2) of subsection (b), paragraph (2) of
+32 subsection (d), and subsections (e) and (f) of Code Section 42-1-19, relating to petition for
+33 release from registration requirements, as follows:
+34 "(2) Such petition shall be served on the district attorney of the jurisdiction where the
+35 petition is filed, the sheriff of the county where the petition is filed, and the sheriff of the
+36 county where the individual resides, the sheriff of the county of the individual's intended
+37 residence, and the chief superior court judge of the county of the individual's intended
+38 residence. Service on the district attorney and sheriff may be had by mailing a copy of
+39 the petition with a proper certificate of service."
+40 "(2) Any evidence introduced by the district attorney, board, or sheriff sheriffs; and"
+H. B. 430
+- 2 -
+25 LC 48 1467
+41 "(e) The court shall hold a hearing on the petition if requested by the petitioner, the sheriff
+42 of the county where the petition is filed, the sheriff of the county where the individual
+43 resides, or the sheriff of the county of the individual's intended residence.
+44 (f) The court may issue an order releasing the individual from registration requirements
+45 or residency or employment restrictions, in whole or part, if the court finds by a
+46 preponderance of the evidence that the individual does not pose a substantial risk of
+47 perpetrating any future dangerous sexual offense. The court may release an individual
+48 from such requirements or restrictions for a specific period of time. The court shall send
+49 a copy of any order releasing an individual from any requirements or restrictions to the
+50 sheriff and the district attorney of the jurisdiction where the petition is filed, to the sheriff
+51 of the county where the individual resides, to the sheriff of the county of the individual's
+52 intended residence, to the Department of Corrections, to the Department of Community
+53 Supervision, and to the Georgia Bureau of Investigation."
+54 SECTION 3.
+55 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 430
+- 3 -
+[DELETED: 5L0,1,7,hstt0,3,hr]
+[DELETED: 5L  I t s o c r t a s n t l]
+[DELETED: 5L r o e r i w o p i t c f b ]
+
+
+================================================================================
+
+Raw Text:
+25 LC 48 1467
+House Bill 430
+By: Representatives Sainz of the 180th, Clifton of the 131st, Ballard of the 147th, Ford of the
+170th, Ballinger of the 23rd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 1 of Title 42 of the Official Code of Georgia Annotated,
+2 relating to Sexual Offender Risk Review Board, so as to provide for venue for certain
+3 petitions regarding the state sexual offender registry; to provide for related matters; to repeal
+4 conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 Article 2 of Chapter 1 of Title 42 of the Official Code of Georgia Annotated, relating to
+8 Sexual Offender Risk Review Board, is amended by revising paragraph (2) of subsection (h)
+9 of Code Section 42-1-12, relating to State Sexual Offender Registry, as follows:
+10 "(2) The Georgia Bureau of Investigation shall:
+11 (A) Transmit all information, including the conviction data and fingerprints, to the
+12 Federal Bureau of Investigation within 24 hours of entering the data;
+13 (B) Establish operating policies and procedures concerning record ownership, quality,
+14 verification, modification, and cancellation; and
+15 (C) Perform mail out and verification duties as follows:
+H. B. 430
+- 1 -
+
+25 LC 48 1467
+16 (i) Send each month Criminal Justice Information System network messages to
+17 sheriffs listing sexual offenders due for verification;
+18 (ii) Create a photo image file from original entries and provide such entries to sheriffs
+19 to assist in sexual offender identification and verification;
+20 (iii) Mail a nonforwardable verification form to the last reported address of the sexual
+21 offender within ten days prior to the sexual offender's birthday;
+22 (iv) If the sexual offender changes residence to another state, notify the law
+23 enforcement agency with which the sexual offender shall register in the new state; and
+24 (v) Maintain records required under this Code section; and
+25 (D) Review the conviction or convictions of a nonresident who changes residence from
+26 another state or territory of the United States or any other place to Georgia to determine
+27 whether said nonresident should be subject to the registration requirements set forth in
+28 subsection (e) of this Code section, and if applicable, place such nonresident on the
+29 state sexual offender registry."
+30 SECTION 2.
+31 Said article is further amended by revising paragraph (2) of subsection (b), paragraph (2) of
+32 subsection (d), and subsections (e) and (f) of Code Section 42-1-19, relating to petition for
+33 release from registration requirements, as follows:
+34 "(2) Such petition shall be served on the district attorney of the jurisdiction where the
+35 petition is filed, the sheriff of the county where the petition is filed, and the sheriff of the
+36 county where the individual resides, the sheriff of the county of the individual's intended
+37 residence, and the chief superior court judge of the county of the individual's intended
+38 residence. Service on the district attorney and sheriff may be had by mailing a copy of
+39 the petition with a proper certificate of service."
+40 "(2) Any evidence introduced by the district attorney, board, or sheriff sheriffs; and"
+H. B. 430
+- 2 -
+
+25 LC 48 1467
+41 "(e) The court shall hold a hearing on the petition if requested by the petitioner, the sheriff
+42 of the county where the petition is filed, the sheriff of the county where the individual
+43 resides, or the sheriff of the county of the individual's intended residence.
+44 (f) The court may issue an order releasing the individual from registration requirements
+45 or residency or employment restrictions, in whole or part, if the court finds by a
+46 preponderance of the evidence that the individual does not pose a substantial risk of
+47 perpetrating any future dangerous sexual offense. The court may release an individual
+48 from such requirements or restrictions for a specific period of time. The court shall send
+49 a copy of any order releasing an individual from any requirements or restrictions to the
+50 sheriff and the district attorney of the jurisdiction where the petition is filed, to the sheriff
+51 of the county where the individual resides, to the sheriff of the county of the individual's
+52 intended residence, to the Department of Corrections, to the Department of Community
+53 Supervision, and to the Georgia Bureau of Investigation."
+54 SECTION 3.
+55 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 430
+- 3 -
+
+[DELETED: 5L0,1,7,hstt0,3,hr]
+[DELETED: 5L  I t s o c r t a s n t l]
+[DELETED: 5L r o e r i w o p i t c f b ]

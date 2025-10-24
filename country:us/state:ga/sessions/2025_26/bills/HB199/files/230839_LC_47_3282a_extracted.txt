@@ -1,0 +1,267 @@
+Title: House Bill 199
+Official Title: House Bill 199
+Number of Sections: 1
+Source: versions - LC 47 3282/a
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 47 3282
+By: Representatives Kelley of the 16th, Reeves of the 99th, Gullett of the 19th, Gunter of the
+8th, Park of the 107th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 5 of Title 15 the Official Code of Georgia Annotated, relating to
+2 administration of courts of record generally, so as to modify provisions related to protection
+3 of personally identifiable information of judges and their spouses; to abolish the requirement
+4 for the Administrative Office of the Courts to maintain a data base of protected persons and
+5 information; to provide for a state-wide form to be used by protected persons seeking to have
+6 information removed or redacted from public records; to require state and local governments
+7 to remove personally identifiable information from public records when requested by a
+8 protected person; to provide procedures for such requests; to revise definitions; to provide
+9 for related matters; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Chapter 5 of Title 15 the Official Code of Georgia Annotated, relating to administration of
+13 courts of record generally, is amended by revising Article 8, relating to protection of
+14 personally identifiable data of judges and spouses, as follows:
+H. B. 199
+- 1 -
+25 LC 47 3282
+15 "ARTICLE 8
+16 15-5-110.
+17 As used in this article, the term:
+18 (1) 'Personally identifiable information' means any personal phone number or home
+19 address affirmatively identified by a protected person for inclusion in the data base
+20 established and maintained pursuant to Code Section 15-5-111 of a protected person.
+21 (2) 'Protected person' means any current or former:
+22 (A) Judge Elected or appointed judge or justice of this state and his or her spouse;
+23 (B) Judge Elected or appointed judge of any county or municipality of this state and
+24 his or her spouse; and
+25 (C) Judge Appointed judge or justice of the United States and his or her spouse.
+26 (3) 'Public posting or display' means to communicate information or otherwise make
+27 information available to the general public.
+28 (4)(3) 'Publicly available content' means any written or electronic document or record
+29 that provides information or that serves as a document or record maintained, controlled,
+30 or in the possession of a state or local government entity that may be obtained by any
+31 person from the internet state or local government entity's public website or from such
+32 state or local government agency upon request whether free of charge or for a fee.
+33 (5)(4) 'State or local government entity' means any:
+34 (A) Agency of the executive branch of this state; or
+35 (B) Any local governing authority of a county or municipality of this state.
+36 15-5-111.
+37 The Administrative Office of the Courts shall:
+38 (1) Establish a method for obtaining information from the Administrative Office of the
+39 United States Courts as necessary for purposes of this article;
+H. B. 199
+- 2 -
+25 LC 47 3282
+40 (2) Develop a form for a protected person to use when requesting removal of personally
+41 identifiable information pursuant to this article. Such form may include a process for
+42 verification of the election or appointment of such person as a judge or justice of this state
+43 or the United States or verification of such person's status as the spouse of a person
+44 serving as a judge or justice of this state or the United States Establish and maintain a
+45 data base of protected persons and personally identifiable information;
+46 (3) Make the form provided for in paragraph (2) of this Code section available to
+47 protected persons on its public website Develop and manage a process to regularly
+48 identify each state or local government entity that possesses personally identifiable
+49 information; and
+50 (4) Establish a procedure for protected persons to submit phone numbers and addresses
+51 for inclusion in a data base as personally identifiable information to be restricted from
+52 publicly available content and public posting or display; and
+53 (5)(4) Coordinate statewide state-wide training and information sharing related to
+54 security procedure and practices relative to the judicial branch of government.
+55 15-5-112.
+56 (a) Notwithstanding any provision of Article 4 of Chapter 18 of Title 50 to the contrary,
+57 a state or local government entity shall remove or redact any personally identifiable
+58 information from publicly available content that specifically identifies a protected person
+59 as a judge, justice, or spouse thereof. The provisions of this subsection shall include, but
+60 shall not be limited to, records or filings in the office of the Secretary of State and the State
+61 Ethics Commission. Within 30 days of receipt of written notice that a judge or justice of
+62 the United States, this state, or any county or municipality of this state has been elected or
+63 appointed, the Administrative Office of the Courts shall provide written notice to each state
+64 or local government entity determined by the Administrative Office of the Courts to
+H. B. 199
+- 3 -
+25 LC 47 3282
+65 possess personally identifiable information that directs such entity to restrict access to such
+66 personally identifiable information pursuant to subsection (c) of this Code section.
+67 (b) Notwithstanding any provision of Article 4 of Chapter 18 of Title 50 to the contrary,
+68 a state or local government entity that possesses records, filings, or other publicly available
+69 content that does not specifically identify a person as a judge, justice, or spouse thereof but
+70 that includes personally identifiable information of such a protected person shall, upon
+71 request of the protected person, remove or redact any personally identifiable information
+72 from any publicly available content, including, but not limited to, such protected person's
+73 property or tax records. A protected person may request removal or redaction of his or her
+74 personally identifiable information pursuant to this subsection by submitting a request in
+75 writing to the state or local government entity on the form provided for in Code Section
+76 15-5-111. A state or local government entity receiving such request shall remove or redact
+77 the personally identifiable information within 30 days of receiving a valid request. Within
+78 30 days of receipt of written notice that a judge or justice of the United States, this state,
+79 or any county or municipality of this state has resigned, retired, or been removed, the
+80 Administrative Office of the Courts shall provide written notice to each state or local
+81 government entity determined by the Administrative Office of the Courts to possess
+82 personally identifiable information that informs such entity that the restriction required
+83 pursuant to subsection (c) of this Code section is no longer applicable.
+84 (c) Notwithstanding Article 4 of Chapter 18 of Title 50 to the contrary, within 30 days of
+85 receipt of written notice from the Administrative Office of the Courts pursuant to
+86 subsection (a) of this Code section, a state or local government entity that has received such
+87 notice shall restrict personally identifiable information from publicly available content and
+88 public posting or display unless such entity has:
+89 (1) Obtained written consent from the protected person that his or her phone number and
+90 address may be made available to the general public; or
+H. B. 199
+- 4 -
+25 LC 47 3282
+91 (2) Received notice pursuant to subsection (b) of this Code section that a judge or justice
+92 of the United States, this state, or any county or municipality thereof has resigned, retired,
+93 or been removed.
+94 (d)(c) Any protected person may bring an action in a court of competent jurisdiction
+95 against any officer or employee of the state or local government entity in his or her
+96 individual capacity for failure to comply with subsection (c) (b) of this Code section. Any
+97 relief granted by such action shall be limited to injunctive relief."
+98 SECTION 2.
+99 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 199
+- 5 -
+[DELETED: 5L6,9,9,htht,7,ht a C 5 o T 1 t O C o G A r t o r g i a b r A 8 r t p o]
+[DELETED: 5L]
+[DELETED: 5L t  C s s t a i s r t s o l g e s r o r a p i]
+[DELETED: 5L e d b t A O o t C t p o w n f t A O o t C p t]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 47 3282
+House Bill 199
+By: Representatives Kelley of the 16th, Reeves of the 99th, Gullett of the 19th, Gunter of the
+8th, Park of the 107th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 5 of Title 15 the Official Code of Georgia Annotated, relating to
+2 administration of courts of record generally, so as to modify provisions related to protection
+3 of personally identifiable information of judges and their spouses; to abolish the requirement
+4 for the Administrative Office of the Courts to maintain a data base of protected persons and
+5 information; to provide for a state-wide form to be used by protected persons seeking to have
+6 information removed or redacted from public records; to require state and local governments
+7 to remove personally identifiable information from public records when requested by a
+8 protected person; to provide procedures for such requests; to revise definitions; to provide
+9 for related matters; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Chapter 5 of Title 15 the Official Code of Georgia Annotated, relating to administration of
+13 courts of record generally, is amended by revising Article 8, relating to protection of
+14 personally identifiable data of judges and spouses, as follows:
+H. B. 199
+- 1 -
+
+25 LC 47 3282
+15 "ARTICLE 8
+16 15-5-110.
+17 As used in this article, the term:
+18 (1) 'Personally identifiable information' means any personal phone number or home
+19 address affirmatively identified by a protected person for inclusion in the data base
+20 established and maintained pursuant to Code Section 15-5-111 of a protected person.
+21 (2) 'Protected person' means any current or former:
+22 (A) Judge Elected or appointed judge or justice of this state and his or her spouse;
+23 (B) Judge Elected or appointed judge of any county or municipality of this state and
+24 his or her spouse; and
+25 (C) Judge Appointed judge or justice of the United States and his or her spouse.
+26 (3) 'Public posting or display' means to communicate information or otherwise make
+27 information available to the general public.
+28 (4)(3) 'Publicly available content' means any written or electronic document or record
+29 that provides information or that serves as a document or record maintained, controlled,
+30 or in the possession of a state or local government entity that may be obtained by any
+31 person from the internet state or local government entity's public website or from such
+32 state or local government agency upon request whether free of charge or for a fee.
+33 (5)(4) 'State or local government entity' means any:
+34 (A) Agency of the executive branch of this state; or
+35 (B) Any local governing authority of a county or municipality of this state.
+36 15-5-111.
+37 The Administrative Office of the Courts shall:
+38 (1) Establish a method for obtaining information from the Administrative Office of the
+39 United States Courts as necessary for purposes of this article;
+H. B. 199
+- 2 -
+
+25 LC 47 3282
+40 (2) Develop a form for a protected person to use when requesting removal of personally
+41 identifiable information pursuant to this article. Such form may include a process for
+42 verification of the election or appointment of such person as a judge or justice of this state
+43 or the United States or verification of such person's status as the spouse of a person
+44 serving as a judge or justice of this state or the United States Establish and maintain a
+45 data base of protected persons and personally identifiable information;
+46 (3) Make the form provided for in paragraph (2) of this Code section available to
+47 protected persons on its public website Develop and manage a process to regularly
+48 identify each state or local government entity that possesses personally identifiable
+49 information; and
+50 (4) Establish a procedure for protected persons to submit phone numbers and addresses
+51 for inclusion in a data base as personally identifiable information to be restricted from
+52 publicly available content and public posting or display; and
+53 (5)(4) Coordinate statewide state-wide training and information sharing related to
+54 security procedure and practices relative to the judicial branch of government.
+55 15-5-112.
+56 (a) Notwithstanding any provision of Article 4 of Chapter 18 of Title 50 to the contrary,
+57 a state or local government entity shall remove or redact any personally identifiable
+58 information from publicly available content that specifically identifies a protected person
+59 as a judge, justice, or spouse thereof. The provisions of this subsection shall include, but
+60 shall not be limited to, records or filings in the office of the Secretary of State and the State
+61 Ethics Commission. Within 30 days of receipt of written notice that a judge or justice of
+62 the United States, this state, or any county or municipality of this state has been elected or
+63 appointed, the Administrative Office of the Courts shall provide written notice to each state
+64 or local government entity determined by the Administrative Office of the Courts to
+H. B. 199
+- 3 -
+
+25 LC 47 3282
+65 possess personally identifiable information that directs such entity to restrict access to such
+66 personally identifiable information pursuant to subsection (c) of this Code section.
+67 (b) Notwithstanding any provision of Article 4 of Chapter 18 of Title 50 to the contrary,
+68 a state or local government entity that possesses records, filings, or other publicly available
+69 content that does not specifically identify a person as a judge, justice, or spouse thereof but
+70 that includes personally identifiable information of such a protected person shall, upon
+71 request of the protected person, remove or redact any personally identifiable information
+72 from any publicly available content, including, but not limited to, such protected person's
+73 property or tax records. A protected person may request removal or redaction of his or her
+74 personally identifiable information pursuant to this subsection by submitting a request in
+75 writing to the state or local government entity on the form provided for in Code Section
+76 15-5-111. A state or local government entity receiving such request shall remove or redact
+77 the personally identifiable information within 30 days of receiving a valid request. Within
+78 30 days of receipt of written notice that a judge or justice of the United States, this state,
+79 or any county or municipality of this state has resigned, retired, or been removed, the
+80 Administrative Office of the Courts shall provide written notice to each state or local
+81 government entity determined by the Administrative Office of the Courts to possess
+82 personally identifiable information that informs such entity that the restriction required
+83 pursuant to subsection (c) of this Code section is no longer applicable.
+84 (c) Notwithstanding Article 4 of Chapter 18 of Title 50 to the contrary, within 30 days of
+85 receipt of written notice from the Administrative Office of the Courts pursuant to
+86 subsection (a) of this Code section, a state or local government entity that has received such
+87 notice shall restrict personally identifiable information from publicly available content and
+88 public posting or display unless such entity has:
+89 (1) Obtained written consent from the protected person that his or her phone number and
+90 address may be made available to the general public; or
+H. B. 199
+- 4 -
+
+25 LC 47 3282
+91 (2) Received notice pursuant to subsection (b) of this Code section that a judge or justice
+92 of the United States, this state, or any county or municipality thereof has resigned, retired,
+93 or been removed.
+94 (d)(c) Any protected person may bring an action in a court of competent jurisdiction
+95 against any officer or employee of the state or local government entity in his or her
+96 individual capacity for failure to comply with subsection (c) (b) of this Code section. Any
+97 relief granted by such action shall be limited to injunctive relief."
+98 SECTION 2.
+99 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 199
+- 5 -
+
+[DELETED: 5L6,9,9,htht,7,ht a C 5 o T 1 t O C o G A r t o r g i a b r A 8 r t p o]
+[DELETED: 5L]
+[DELETED: 5L t  C s s t a i s r t s o l g e s r o r a p i]
+[DELETED: 5L e d b t A O o t C t p o w n f t A O o t C p t]
+[DELETED: 5L]

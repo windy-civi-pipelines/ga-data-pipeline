@@ -1,0 +1,1022 @@
+Title: The Senate Committee on Finance offered the following
+Official Title: The Senate Committee on Finance offered the following
+Number of Sections: 1
+Source: versions - Sen Ctee Sub LC 50 1259S
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 1259S
+substitute to HB 136:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+2 income taxes, so as to revise and create new tax credits related to children; to increase the
+3 state tax credit for certain child and dependent care expenses; to create new tax credits for
+4 individuals with children under the age of six, for employers that pay certain child care
+5 expenses, and for insurance companies against insurance premium tax liability for
+6 contributions to qualified organizations that support foster children and justice involved
+7 youth; to provide for terms, conditions, limitations, and procedures for such credits; to revise
+8 a tax credit for contributions to foster child support organizations; to expand the
+9 organizations that qualify for such contributions; to allow such organizations to include as
+10 qualified expenditures certain services for justice involved youth; to provide for the services
+11 that are qualified expenditures; to provide for reporting requirements; to provide for
+12 certifying and decertifying qualified organizations; to provide for information sharing and
+13 limitations thereof; to provide for definitions; to provide for rules and regulations; to provide
+14 for a sunset; to provide for related matters; to provide for effective dates and applicability;
+15 to repeal conflicting laws; and for other purposes.
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+- 1 -
+25 LC 50 1259S
+17 PART I
+18 SECTION 1-1.
+19 Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes,
+20 is amended by revising Code Section 48-7-29.10, relating to tax credits for qualified child
+21 and dependent care expenses, as follows:
+22 "48-7-29.10.
+23 (a) A taxpayer shall be allowed a credit against the tax imposed by Code Section 48-7-20
+24 for qualified child and dependent care expenses. Such credit shall be determined by
+25 applying a percentage to The amount of such credit shall be equal to 50 percent of the
+26 amount of the credit provided for in Section 21 of the Internal Revenue Code which is
+27 claimed and allowed pursuant to the Internal Revenue Code. Such percentage shall be:
+28 (1) Ten percent for all taxable years beginning on or after January 1, 2006, and prior to
+29 January 1, 2007;
+30 (2) Twenty percent for all taxable years beginning on or after January 1, 2007, and prior
+31 to January 1, 2008; and
+32 (3) Thirty percent for all taxable years beginning on or after January 1, 2008.
+33 (b) In no event shall the total amount of the tax credit under this Code section for a taxable
+34 year exceed the taxpayer's income tax liability. Any unused tax credit shall not be allowed
+35 to be carried forward to apply to the taxpayer's succeeding years' tax liability. No such tax
+36 credit shall be allowed the taxpayer against prior years' tax liability.
+37 (c) The commissioner shall be authorized to promulgate any rules and regulations
+38 necessary to implement and administer this Code section."
+39 SECTION 1-2.
+40 Said chapter is further amended by adding a new Code section to read as follows:
+- 2 -
+25 LC 50 1259S
+41 "48-7-29.27.
+42 (a) As used in this Code section, the term 'qualifying child' shall have the same meaning
+43 as set forth in Section 24(c) of the Internal Revenue Code, provided that such child has not
+44 yet attained age six.
+45 (b) For taxable years beginning on or after January 1, 2026, a taxpayer shall be allowed
+46 a credit against the tax imposed by Code Section 48-7-20 in an amount equal to $250.00
+47 for each qualifying child of the taxpayer.
+48 (c) In no event shall more than one taxpayer be allowed the tax credit granted under this
+49 Code section for the same qualifying child. In the case of parents or legal guardians who
+50 do not file income taxes jointly for any reason, the child shall be the qualifying child for
+51 only one parent or legal guardian, which shall be the parent or legal guardian who had
+52 custody of the qualifying child for more than one-half of the tax year in question; provided,
+53 however, that the noncustodial parent or legal guardian may claim the credit if:
+54 (1) A court of competent jurisdiction has unconditionally awarded, in writing, the
+55 noncustodial parent or legal guardian the tax credit authorized under this Code section,
+56 and such parent or legal guardian attaches a copy of the court order with his or her tax
+57 return; or
+58 (2) The noncustodial parent or legal guardian attaches a copy of a written declaration
+59 made by the custodial parent or legal guardian of a qualifying child that he or she assigns
+60 the credit to the noncustodial parent or legal guardian and will not claim the credit
+61 allowed under this Code section with respect to such child for such tax year.
+62 (d) Notwithstanding the provisions of subsection (b) of this Code section, in the case of
+63 any taxable nonresident or part-year resident whose tax was prorated as provided by Code
+64 Section 48-7-85, the amount of the credit determined pursuant to such subsection shall be
+65 prorated based on the ratio of income taxable to this state as properly reported on Schedule
+66 3, Line 9 of the Georgia Form 500 for the taxable year.
+- 3 -
+25 LC 50 1259S
+67 (e) In no event shall the total amount of the tax credit under this Code section for a taxable
+68 year exceed the taxpayer's income tax liability. Any unused tax credit shall not be allowed
+69 to be carried forward to apply to the taxpayer's succeeding years' tax liability. No such tax
+70 credit shall be allowed the taxpayer against prior years' tax liability.
+71 (f) The commissioner shall be authorized to promulgate rules and regulations necessary
+72 to implement and administer the provisions of this Code section."
+73 SECTION 1-3.
+74 Said chapter is further amended by adding a new Code section to read as follows:
+75 "48-7-29.28.
+76 (a) As used in this Code section, the term:
+77 (1) 'Child care facility' means a child care learning center or family child care learning
+78 home that is permitted, licensed, or commissioned by the Department of Early Care and
+79 Learning pursuant to Chapter 1A of Title 20.
+80 (2) 'Eligible child care payments for employees' means payments:
+81 (A) Made directly to a child care facility in the name and for the benefit of an
+82 employee whose child is enrolled in such facility and is under the age of six;
+83 (B) Which total at least $1,000.00 per taxable year for each employee for which such
+84 payments are made; and
+85 (C) That are made for an employee in addition to, and not in lieu of, any other
+86 compensation and benefits for such employee.
+87 (b) For taxable years beginning on or after January 1, 2026, a taxpayer shall be allowed
+88 a credit against the tax imposed under this article for eligible child care payments for
+89 employees in an amount:
+90 (1) Equal to $500.00 per child for which such payments are made per taxable year; or
+91 (2) Equal to $1,000.00 per child for which such payments are made if it is the first
+92 taxable year in which the taxpayer provided eligible child care payments for employees
+- 4 -
+25 LC 50 1259S
+93 and prior to such taxable year the taxpayer did not pay for, reimburse for, or otherwise
+94 subsidize the costs of child care for employees.
+95 (c) The aggregate amount of tax credits allowed pursuant to this Code section shall not
+96 exceed $20 million per year.
+97 (d) In no event shall the total amount of the tax credit under this Code section for a taxable
+98 year exceed the taxpayer's income tax liability. Any unused tax credit shall not be allowed
+99 to be carried forward to apply to the taxpayer's succeeding years' tax liability. No such tax
+100 credit shall be allowed the taxpayer against prior years' tax liability.
+101 (e) A taxpayer seeking to claim a tax credit pursuant to this Code section shall submit an
+102 application to the department for preapproval of such tax credit in the manner specified by
+103 the department. The department shall preapprove such application within 30 days based
+104 on the order in which properly completed applications were submitted. In the event that
+105 two or more applications were submitted on the same day and the amount of funds
+106 available will not be sufficient to fully fund the amount requested, the department shall
+107 prorate the available funds between or among the applicants.
+108 (f) The commissioner shall promulgate any rules and regulations necessary to implement
+109 and administer the provisions of this Code section.
+110 (g) This Code section shall stand repealed and reserved on December 31, 2030."
+111 PART II
+112 SECTION 2-1.
+113 Said chapter is further amended by revising Code Section 48-7-29.24, relating to tax credits
+114 for contributions to foster child support organizations, as follows:
+115 "48-7-29.24.
+116 (a) As used in this Code section, the term:
+117 (1) 'Aging foster children' means:
+- 5 -
+25 LC 50 1259S
+118 (A) Foster children aged 16 through 18 that would benefit based on projected status at
+119 age 18, as determined by the division; and
+120 (B) Former foster children up to and including age 21, or age 25 if legally possible,
+121 aged 16 through 25 who have not been adopted or reunited with families were in foster
+122 care for at least six months after reaching age 14.
+123 (2) 'Aging-out program' means a program with the primary function of supporting aging
+124 foster children and justice involved youth.
+125 (2.1) 'Business enterprise' means any insurance company or the headquarters of any
+126 insurance company required to pay the tax provided for in Code Section 33-8-4.
+127 (3) 'Division' means the Division of Family and Children Services of the Department of
+128 Human Services.
+129 (4) 'Foster child support organization' means:
+130 (A) The aging-out program of the Technical College System of Georgia Foundation;
+131 (B) The aging-out program of the University System of Georgia Foundation, provided
+132 that such program is certified by the Governor's Office of Planning and Budget as an
+133 aging-out program; or
+134 (C) Any domestic nonprofit corporation which maintains nonprofit status under
+135 Section 501(c)(3) of the Internal Revenue Code and tax exempt status under Code
+136 Section 48-7-25, that has the primary function of:
+137 (i) Operating an aging-out program that primarily supports aging foster children or
+138 operating as or supporting a Georgia licensed child-placing agency or licensed
+139 child-caring institution; or
+140 (ii) Disbursing funds directly to one or more of the entities identified in
+141 subparagraphs (A) or (B) or division (C)(i) of this paragraph.
+142 (4.1) 'Justice involved youth' means youth aged 18 through 25 who:
+- 6 -
+25 LC 50 1259S
+143 (A) Were previously or are currently committed to the Department of Juvenile Justice
+144 pursuant to a court order as authorized by paragraph (11) of subsection (a) of Code
+145 Section 15-11-601; and
+146 (B) As a result of such commitment, have been previously placed or are currently
+147 placed in a nonsecure facility or community setting.
+148 (4.2) 'Mentorship services' means support services directly provided to an aging foster
+149 child or justice involved youth by a mentor, such as role modeling, informal counseling,
+150 guiding, motivating, and sharing time together.
+151 (5) 'Qualified contributions' means the preapproved contribution of funds made during
+152 the taxable year by a taxpayer or a business enterprise to a qualified organization under
+153 the terms and conditions of this Code section.
+154 (6) 'Qualified expenditures' means expenditures made by a qualified organization for the
+155 following purposes; provided, however, that such term shall not include any expenditures
+156 for which the qualified organization has received or is eligible to receive reimbursement
+157 from the division:
+158 (A) The costs associated with tuition waivers granted pursuant to Code Section
+159 20-3-660;
+160 (B) Wraparound services for individuals aging foster children and justice involved
+161 youth who are:
+162 (1) Enrolled in attending a public or private postsecondary educational institution
+163 under a waiver granted pursuant to Code Section 20-3-660; or
+164 (2) Enrolled in a program to obtain a high school diploma or its equivalent;
+165 (3) Enrolled in a recognized vocational school; or
+166 (4) Participating in a registered apprenticeship program, provided that the participant
+167 and the organization for which the participant is an apprentice document that the
+168 participant is compliant with the rules of the apprenticeship program; or
+- 7 -
+25 LC 50 1259S
+169 (C) Mentorship services provided to aging foster children, and justice involved youth;
+170 provided, however, that such expenditures shall not include:
+171 (1) Compensation for a single mentor which exceeds no mentor shall be compensated
+172 in excess of $100.00 per month for an aging foster child or justice involved youth or
+173 $500.00 $1,200.00 per year for any aging foster child or justice involved youth; or
+174 (2) Payments made to employees of a qualified organization who perform duties
+175 other than providing mentorship services for the organization.
+176 (7) 'Qualified organization' means a foster child support organization that has been
+177 certified and listed by the division pursuant to subsection (d) of this Code section.
+178 (8) 'Wraparound services' means services provided directly to aging foster children or
+179 justice involved youth to support their education through high school completion,
+180 vocational, and postsecondary education services, housing services, vocation services,
+181 medical services, counseling services, mentorship services, nutrition services,
+182 transportation services, or daily living essentials and clothing, and up to $150.00 $200.00
+183 per month in direct cash payments for use on personal necessities.
+184 (b)(1) The aggregate amount of tax credits allowed under this Code section shall not
+185 exceed $20 million per for calendar year 2025. For calendar years 2026 and after, the
+186 aggregate amount of tax credits allowed under this Code section shall not exceed $30
+187 million per calendar year, and no more than $10 million of such aggregate amount shall
+188 be allowed for business enterprises.
+189 (2) Subject to the aggregate limit provided in paragraph (1) of this subsection and the
+190 limitations of subsection subsections (b.1), (b.2), and (k) of this Code section, each:
+191 (A) Taxpayer taxpayer shall be allowed a credit against the tax imposed by this chapter
+192 for qualified contributions made by the taxpayer on or after January 1, 2023, as follows:
+193 (A)(i) In the case of a single individual or a head of household, the actual amount of
+194 qualified contributions made;
+- 8 -
+25 LC 50 1259S
+195 (B)(ii) In the case of a married couple filing a joint return, the actual amount of
+196 qualified contributions made;
+197 (C)(iii) Anything to the contrary contained in subparagraph (A) or (B) division (i) or
+198 (ii) of this paragraph subparagraph notwithstanding, in the case of an individual
+199 taxpayer who is a member of a limited liability company duly formed under state law,
+200 a shareholder of a Subchapter 'S' corporation, or a partner in a partnership, the actual
+201 amount of qualified contributions it made; provided, however, that tax credits
+202 pursuant to this paragraph shall only be allowed for the portion of the income on
+203 which such tax was actually paid by such member of the limited liability company,
+204 shareholder of a Subchapter 'S' corporation, or partner in a partnership; or
+205 (D)(iv) In the case of a A corporation or other entity not provided for in
+206 subparagraphs (A) divisions (i) through (C) (iii) of this paragraph shall be allowed a
+207 credit against the tax imposed by this chapter, for qualified contributions in an amount
+208 not to exceed subparagraph, the actual amount of qualified contributions made; and
+209 (B) Business enterprise shall be allowed a credit against the tax imposed by Code
+210 Section 33-8-4 in an amount equal to its qualified contributions.
+211 (b.1) For the period beginning on January 1 and ending on June 30 of each year, an
+212 individual a taxpayer shall not be allowed a credit for contributions, and the commissioner
+213 shall not preapprove any contributions, that exceed the following limits:
+214 (1) In the case of a single individual or a head of household, $2,500.00;
+215 (2) In the case of a married couple filing a joint return, $5,000.00;
+216 (3) In the case of an individual who is a member of a limited liability company duly
+217 formed under state law, a shareholder of a Subchapter 'S' corporation, or a partner in a
+218 partnership, $5,000.00; or
+219 (4) In the case of a corporation or other entity not provided for in paragraphs (1) through
+220 (3) of this subsection, 10 30 percent of such entity's income tax liability.
+- 9 -
+25 LC 50 1259S
+221 (b.2) For the period beginning on July 1 and ending on December 31 of each year, to the
+222 extent that the aggregate amounts of tax credits authorized by subsection (b) of this Code
+223 section have not been reached, the commissioner shall preapprove, deny, or prorate
+224 additional requested amounts on a first come, first served basis and shall provide notice to
+225 such taxpayer and the qualified organization of such preapproval, denial, or proration.
+226 (b.3) A taxpayer that is preapproved for a tax credit allowed pursuant to this Code section
+227 and that does not make a qualified contribution of the total preapproved amount shall be
+228 allowed such credit in an amount not to exceed 95 percent of the amount of the qualified
+229 contribution actually made by the taxpayer.
+230 (c) Not later than October 1, 2022, the The commissioner shall establish a page on the
+231 department's public website for the purpose of implementing this Code section. Such page
+232 shall contain, at a minimum:
+233 (1) A link to the division's web based application for certification as a qualified
+234 organization as provided for in subsection (d) of this Code section;
+235 (2) The current list of all qualified organizations;
+236 (3) The total amount of tax credits remaining and available for preapproval for each year;
+237 (4) A web based method for taxpayers or business enterprises seeking the preapproval
+238 status for contributions; and
+239 (5) The information received by the department from each qualified organization
+240 pursuant to paragraph (1) of subsection (g) except for division (g)(1)(B)(iv) of this Code
+241 section.
+242 (d)(1) The division shall establish and maintain a web based application process for the
+243 purpose of certifying foster child support organizations as qualified organizations. At a
+244 minimum, such application created by the division shall include an agreement submitted
+245 by the applicant to fully comply with the terms and conditions of this Code section.
+246 (2) The (A) Subject to the requirements of this subsection, the division shall certify any
+247 valid foster child support organization as a qualified organization upon successful
+- 10 -
+25 LC 50 1259S
+248 completion of such application process and shall decertify an organization that fails to
+249 maintain the requirements to be a qualified organization or that the division determines
+250 to have violated any other law.
+251 (B) For any foster child support organization that is not a Georgia licensed
+252 child-placing agency or licensed child-caring institution or that meets the definition of
+253 such term only as set forth in division (a)(4)(C)(ii) of this Code section to be certified
+254 as a qualified organization, such organization shall provide documentation
+255 demonstrating that for a period of at least two calendar years prior to the submission of
+256 its application, the organization has operated an aging-out program and, during that
+257 period, has provided services to at least 100 aging foster children or justice involved
+258 youth.
+259 (C) After receiving certification pursuant to this subsection, each qualified organization
+260 other than a Georgia licensed child-placing agency or licensed child-caring institution
+261 shall annually demonstrate to the division's satisfaction that it continues to maintain the
+262 requirements to be a qualified organization, and shall annually submit to the division
+263 a copy of such organization's most recent annual audit.
+264 (3) The division shall certify any foster child support organization operating as a Georgia
+265 licensed child-placing agency or licensed child-caring institution as a qualified
+266 organization within ten days of receipt of a written request or application.
+267 (4) The division shall accept a first round of applications for certification as qualified
+268 organizations by October 1, 2022, and shall certify and notify such applicants of the
+269 division's decision on or before November 30, 2022. Thereafter the division shall
+270 establish a process for rolling applications and certifications consistent with the
+271 requirements of this Code section.
+272 (e)(1) Prior to making a contribution to any qualified organization, the taxpayer or
+273 business enterprise shall electronically notify the department, in a manner specified by
+- 11 -
+25 LC 50 1259S
+274 the commissioner, of the total amount of contribution that such taxpayer or business
+275 enterprise intends to make to such qualified organization.
+276 (2) Within 30 days after receiving a request for preapproval of contributions, the
+277 commissioner shall preapprove, deny, or prorate requested amounts on a first come, first
+278 served basis and shall provide notice to such taxpayer or business enterprise and the
+279 qualified organization of such preapproval, denial, or proration. Such notices shall not
+280 require any signed release or notarized approval by the taxpayer or business enterprise.
+281 The preapproval of contributions by the commissioner shall be based solely on the
+282 availability of tax credits subject to the aggregate total limit established under paragraph
+283 (1) of subsection (b) of this Code section.
+284 (3) Within 60 days after receiving the preapproval notice issued by the commissioner
+285 pursuant to paragraph (2) of this subsection, the taxpayer or business enterprise shall
+286 contribute the preapproved amount to the qualified organization or such preapproved
+287 contribution amount shall expire. The commissioner shall not include such expired
+288 amounts in determining the remaining amount available under the aggregate limit for the
+289 respective calendar year.
+290 (f)(1) Each qualified organization shall issue to each contributor a letter of confirmation
+291 of contribution, which shall include the taxpayer's or business enterprise's name, address,
+292 tax identification number, the amount of the qualified contribution, the date of the
+293 qualified contribution, and the total amount of the credit allowed to the taxpayer or
+294 business enterprise.
+295 (2)(A) In order for a taxpayer or business enterprise to claim the tax credit allowed
+296 under this Code section, all such applicable letters as provided for in paragraph (1) of
+297 this subsection shall be attached to the taxpayer's tax return or a business enterprise's
+298 tax return provided for in Code Section 33-8-6.
+299 (B) If When the taxpayer files an electronic return, such confirmation shall only be
+300 required to be electronically attached to the return if the Internal Revenue Service
+- 12 -
+25 LC 50 1259S
+301 allows such attachments to be affixed and transmitted to the department. In any such
+302 event, the taxpayer shall maintain such confirmation and such confirmation shall only
+303 be made available to the commissioner upon request.
+304 (C) With respect to a business enterprise's tax return provided for in Code
+305 Section 33-8-6, the Commissioner of Insurance is authorized to promulgate rules and
+306 regulations regarding the manner in which such letters of confirmation of donations
+307 shall be filed in the case of tax returns filed electronically.
+308 (3) The commissioner shall allow tax credits for any preapproved contributions made to
+309 a qualified organization at the time the contributions were made if such organization was
+310 a qualified organization at the time of the commissioner's preapproval of the contributions
+311 and the taxpayer or business enterprise has otherwise complied with this Code section.
+312 (g)(1) Each qualified organization shall annually submit to the department no later than
+313 May 15 July 15 of each year:
+314 (A) A complete copy of its IRS Form 990 including applicable attachments, or for any
+315 qualified organization that is not required by federal law to file an IRS Form 990, such
+316 organization shall submit to the commissioner equivalent information on a form
+317 prescribed by the commissioner; provided, however, that, if the organization's IRS
+318 Form 990 is not prepared by the filing deadline, the organization shall provide such
+319 form at the same time it submits such form to the Internal Revenue Service; and
+320 (B) A report detailing the contributions received during the calendar year pursuant to
+321 this Code section on a date determined by, and on a form provided by, the
+322 commissioner which shall include:
+323 (i) The total number and dollar value of individual contributions and tax credits
+324 approved. Individual contributions shall include contributions made by those filing
+325 income tax returns as a single individual or head of household and those filing joint
+326 returns;
+- 13 -
+25 LC 50 1259S
+327 (ii) The total number and dollar value of corporate contributions and tax credits
+328 approved;
+329 (iii) The total number and dollar value of all qualified expenditures made; and
+330 (iv) A list of contributors, including the dollar value of each contribution and the
+331 dollar value of each approved tax credit; and
+332 (v) An accounting of the funds withheld from qualified contributions demonstrating
+333 that no more than 10 percent of such funds were withheld from qualified
+334 expenditures, as required by subparagraph (j)(1)(A) of this Code section.
+335 (2) Except for the information published in accordance with subsection (c) of this Code
+336 section, all information or reports relative to this Code section that were provided by
+337 qualified organizations to the department shall be confidential taxpayer information,
+338 governed by Code Sections 48-2-15, 48-7-60, and 48-7-61, whether such information
+339 relates to the contributor or the qualified organization.
+340 (h) By April 1 of each year, each qualified organization shall publicly post on its public
+341 website in a prominent place:
+342 (1) A a copy of its prior year's annual budget financials containing the total amount of
+343 funds received from all sources relative to the amount of qualified contributions it
+344 received and the total amount and a description of how such contributions were utilized.;
+345 and
+346 (2) A certification, signed by the chief executive officer of the qualified organization and
+347 attested to by an independent accounting firm, which substantially complies with the
+348 following statement:
+349 'I hereby certify that:
+350 (A) The organization has materially complied with the requirements of
+351 subparagraph (j)(1)(A) of O.C.G.A. Section 48-7-29.24 in that no more than 10 percent
+352 of qualified contributions received by [the qualified organization] were retained by,
+353 withheld by, or otherwise paid to the organization; and
+- 14 -
+25 LC 50 1259S
+354 (B) The description of how [the qualified organization] utilized the qualified
+355 contributions is true and correct.'
+356 (i)(1) A taxpayer or business enterprise shall not be allowed to designate or direct the
+357 taxpayer's or business enterprise's qualified contributions to any particular purpose or for
+358 the direct benefit of any particular individual.
+359 (2) A taxpayer or business enterprise that operates, owns, or is a subsidiary of an
+360 association, organization, or other entity that contracts directly with a qualified
+361 organization shall not be eligible for tax credits allowed under this Code section for
+362 contributions made to such qualified organization.
+363 (3) In soliciting contributions, no person shall represent or direct that, in exchange for
+364 making qualified contributions to any qualified organization, a taxpayer or business
+365 enterprise shall receive any direct or particular benefit. The status as a qualified
+366 organization shall be revoked for any qualified organization determined to be in violation
+367 of this paragraph and shall not be renewed for at least two years.
+368 (j)(1)(A) Each qualified organization shall use at least 80 90 percent of the funds
+369 received by it from qualified contributions to make qualified expenditures. Each
+370 qualified organization shall maintain accurate and current records of all expenditures
+371 of such funds and provide such records to the commissioner upon his or her request.
+372 In no event shall a qualified organization retain for its own use or apply to its overhead
+373 or administrative expenses more than 10 percent of the funds received pursuant to this
+374 Code section.
+375 (B) No foster child support organization that meets only the definition of such term as
+376 provided in division (a)(4)(C)(ii) of this Code section shall retain more than 2.5 percent
+377 of qualified contributions for itself for any reason and shall only serve to pass all of its
+378 qualified contributions to one or more qualified organizations that are foster child
+379 support organizations as such term is defined in subparagraphs (a)(4)(A), (a)(4)(B), or
+380 division (a)(4)(C)(i) of this Code section.
+- 15 -
+25 LC 50 1259S
+381 (2) A qualified organization that fails to comply with any of the requirements under this
+382 Code section shall be given written notice by the department of such failure to comply
+383 by certified mail and shall have 90 days from the receipt of such notice to correct all
+384 deficiencies.
+385 (3) Upon failure to correct all deficiencies within 90 days, the department shall revoke
+386 the foster child support organization's status as a qualified organization and such entity
+387 shall be immediately removed from the department's list of organizations. All
+388 applications for preapproval of tax credits for contributions to such foster child support
+389 organization under this Code section made on or after the date of such removal shall be
+390 rejected.
+391 (4) Each foster child support organization that has had its status revoked and has been
+392 delisted pursuant to this Code section, shall immediately cease all expenditures of funds
+393 received relative to this Code section, and shall transfer all of such funds that are not yet
+394 expended, to a properly operating qualified organization within 30 calendar days of its
+395 removal from the department's list of qualified organizations.
+396 (k)(1) No credit shall be allowed under this Code section to a taxpayer for any amount
+397 of qualified contributions that were utilized as deductions or exemptions from taxable
+398 income.
+399 (2) In no event shall the total amount of the tax credit used under this Code section for
+400 a taxable year exceed the taxpayer's income tax liability or the business enterprise's state
+401 tax liability owed pursuant to Code Section 33-8-4. Any unused tax credit shall be
+402 allowed the taxpayer or business enterprise against the succeeding three years' tax
+403 liability. No such credit shall be allowed the taxpayer or business enterprise against prior
+404 years' tax liability.
+405 (l) The chairperson of the House Appropriations Committee and the chairperson of the
+406 Senate Committee on Appropriations shall have the authority to request an audit
+407 concerning this Code section as a whole or of any one or more qualified organizations. The
+- 16 -
+25 LC 50 1259S
+408 commissioner, the state auditor, each qualified organization, each aging-out program, and
+409 the director of the division shall cooperate to the full extent necessary to conduct such
+410 audits.
+411 (m) At the discretion of the commissioner or the director of the division, any suspected
+412 misuse of funds contributed or expended pursuant to this Code section shall be forwarded
+413 to the Attorney General for investigation and prosecution.
+414 (n) The commissioner shall promulgate rules and regulations necessary to implement and
+415 administer the provisions of this Code section."
+416 SECTION 2-2.
+417 Said chapter is further amended in Code Section 48-7-60, relating to confidentiality of tax
+418 information, exceptions, authorized inspection by certain officials, furnishing information
+419 to local tax authorities, furnishing information to nonofficials, conditions, and effect of Code
+420 section, by adding a new subsection to read as follows:
+421 "(d.1) The commissioner shall be authorized in his or her sole discretion to share
+422 information necessary to efficiently administer and enforce the provisions of this chapter
+423 for the purpose of tax credit administration when another state agency has statutory
+424 authority to administer such tax credits. Any confidential information furnished pursuant
+425 to this Code section shall retain its character as confidential and privileged information.
+426 Any person who divulges confidential information obtained pursuant to this Code section
+427 shall be subject to the same penalties as provided under Code Section 48-7-61 for unlawful
+428 divulgence of confidential taxpayer information."
+- 17 -
+25 LC 50 1259S
+429 PART III
+430 SECTION 3-1.
+431 (a) This Act shall become effective on July 1, 2025, and, except as provided in
+432 subsection (b) of this section, shall be applicable to all taxable years beginning on or after
+433 January 1, 2026.
+434 (b) Section 1-1 of this Act shall be applicable to all taxable years beginning on or after
+435 January 1, 2025.
+436 SECTION 3-2.
+437 All laws and parts of laws in conflict with this Act are repealed.
+- 18 -
+[DELETED: 5LTisie a f i c a i p t l fcya t c f c t f c s o t e to0q1t a q e t p f r r t p f2c3l4f5t6B]
+[DELETED: 5L7P8S9C0i1a243(4f5a6a7c8(9J0(1t2(3(4y5t6c7(  T c s b a t p a r a r8n9S0S]
+[DELETED: 5L142(3a4y5(6a7f8(9C0d1o2c3h4( t5n6a7r8(9m0t1a2(3a4S5p63]
+[DELETED: 5L7(8y9t0c1(2t3S4S546(7(8h9L0(1(  M d t a c c f i t n a f t b o a2e3(4p5(6c7(8a9e0(1(2t]
+[DELETED: 5L3a4s5(6e7(8y9t0c1(2a3t4o5t o m a w s o t s d a t a o f6a7p8(9a0(1P2S3S4f546(7(]
+[DELETED: 5L8(9a0(1a2c3(4f5(6i7(8H9(0(1(2t3a4(  A d n c w m n s u5S6S7(8o a o s a G l c a o l9c0(  D f d t o o m o t e i i1s2(]
+[DELETED: 5L3(4p5S6(7p8(9c0g1(2t3t4(5f6f7f8(  T c a w t w g p t C S920(1y2(3u4(5(6(7a8p]
+[DELETED: 5L9(0p1(2i3$4(5o6(7c8(9j i y t s t e t h s c0v1m s c s m s n s2t3p4(5e6a7m8b9(0l1(2f3(4q]
+[DELETED: 5L5(6q7(8(9t0a1a o q c i m p h t t c2p3w4s5(  I t c o a A c o o e n p f i6s7c8n9(0S1(2i3s4(5(6(7f8p9(0(]
+[DELETED: 5L1(2e3s h n b r t c s p d o p4a5s6(7a8a9c0(1d2s3(  A l t t d w b a f c a a q4o5(6(7(8s9(  T i r b t d f e q o0p1s2(3p4m5b6(7v f c s o a a q o u s]
+[DELETED: 5L8c9m0t1(  F a f c s o t i n a G l2c3s4a a q o s o s p d5d6i7p8y9(0o1s2r3a4(5l c a o l c i a a q6o7(8o9d d o o b N 3 2  T t d s0e a p f r a a c c w t1r2(3b]
+[DELETED: 5L4t5e6(  W 3 d a r a r f p o c t7c8s9q0r1T2a3(4(5p6c7c8a9r0(1o2t i n t a o t q c t d o t3q4b5(6u7t8t9(0r]
+[DELETED: 5L1a2e3b4(  W r t a b e t r p f i C5S6r7s8(9a0a1a2(3M4(5q6o s s t t c e i o a f7p8F9f0(1t C s o a d d b a o a f p b t2c3(4a5i6r]
+[DELETED: 5L7(8a9(0(1d2(3t n m t 1 p o s f w w f q4e5(6s7q8g9r0(1w2(3f r f a s r t t a o q c i4r5a6(7a8f9'0(  T o h m c w t r o1s2o3w]
+[DELETED: 5L4( T d o h [ q o u t q5c6(7t8t9(0a o o o e t c d w a q1o2c3(4m5e s r a d o p b  T s a a q6o7o8(9r0q1o2I3o4C5(6p7o8q9s0d]
+[DELETED: 5L1(2C3b4d5(6t7s b i r f t d l o o  A8a9o0r1(2d3r4e5r6(7o8i9 0a1t2a t t o b e a t s t y t3l4y5(6S C o A s h t a t r a a7c]
+[DELETED: 5L8c9t0a1(2m3t4(5a6S7S8i9t0s1(  T c s b a i h o h s d t s2i3f t p o t c a w a s a h s4a5t6A7s8d]
+[DELETED: 5L9P0S1(  T A s b e o J 1 2 a e a p i2s3J4(5J6S7A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 1259S
+The Senate Committee on Finance offered the following
+substitute to HB 136:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+2 income taxes, so as to revise and create new tax credits related to children; to increase the
+3 state tax credit for certain child and dependent care expenses; to create new tax credits for
+4 individuals with children under the age of six, for employers that pay certain child care
+5 expenses, and for insurance companies against insurance premium tax liability for
+6 contributions to qualified organizations that support foster children and justice involved
+7 youth; to provide for terms, conditions, limitations, and procedures for such credits; to revise
+8 a tax credit for contributions to foster child support organizations; to expand the
+9 organizations that qualify for such contributions; to allow such organizations to include as
+10 qualified expenditures certain services for justice involved youth; to provide for the services
+11 that are qualified expenditures; to provide for reporting requirements; to provide for
+12 certifying and decertifying qualified organizations; to provide for information sharing and
+13 limitations thereof; to provide for definitions; to provide for rules and regulations; to provide
+14 for a sunset; to provide for related matters; to provide for effective dates and applicability;
+15 to repeal conflicting laws; and for other purposes.
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+- 1 -
+
+25 LC 50 1259S
+17 PART I
+18 SECTION 1-1.
+19 Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes,
+20 is amended by revising Code Section 48-7-29.10, relating to tax credits for qualified child
+21 and dependent care expenses, as follows:
+22 "48-7-29.10.
+23 (a) A taxpayer shall be allowed a credit against the tax imposed by Code Section 48-7-20
+24 for qualified child and dependent care expenses. Such credit shall be determined by
+25 applying a percentage to The amount of such credit shall be equal to 50 percent of the
+26 amount of the credit provided for in Section 21 of the Internal Revenue Code which is
+27 claimed and allowed pursuant to the Internal Revenue Code. Such percentage shall be:
+28 (1) Ten percent for all taxable years beginning on or after January 1, 2006, and prior to
+29 January 1, 2007;
+30 (2) Twenty percent for all taxable years beginning on or after January 1, 2007, and prior
+31 to January 1, 2008; and
+32 (3) Thirty percent for all taxable years beginning on or after January 1, 2008.
+33 (b) In no event shall the total amount of the tax credit under this Code section for a taxable
+34 year exceed the taxpayer's income tax liability. Any unused tax credit shall not be allowed
+35 to be carried forward to apply to the taxpayer's succeeding years' tax liability. No such tax
+36 credit shall be allowed the taxpayer against prior years' tax liability.
+37 (c) The commissioner shall be authorized to promulgate any rules and regulations
+38 necessary to implement and administer this Code section."
+39 SECTION 1-2.
+40 Said chapter is further amended by adding a new Code section to read as follows:
+- 2 -
+
+25 LC 50 1259S
+41 "48-7-29.27.
+42 (a) As used in this Code section, the term 'qualifying child' shall have the same meaning
+43 as set forth in Section 24(c) of the Internal Revenue Code, provided that such child has not
+44 yet attained age six.
+45 (b) For taxable years beginning on or after January 1, 2026, a taxpayer shall be allowed
+46 a credit against the tax imposed by Code Section 48-7-20 in an amount equal to $250.00
+47 for each qualifying child of the taxpayer.
+48 (c) In no event shall more than one taxpayer be allowed the tax credit granted under this
+49 Code section for the same qualifying child. In the case of parents or legal guardians who
+50 do not file income taxes jointly for any reason, the child shall be the qualifying child for
+51 only one parent or legal guardian, which shall be the parent or legal guardian who had
+52 custody of the qualifying child for more than one-half of the tax year in question; provided,
+53 however, that the noncustodial parent or legal guardian may claim the credit if:
+54 (1) A court of competent jurisdiction has unconditionally awarded, in writing, the
+55 noncustodial parent or legal guardian the tax credit authorized under this Code section,
+56 and such parent or legal guardian attaches a copy of the court order with his or her tax
+57 return; or
+58 (2) The noncustodial parent or legal guardian attaches a copy of a written declaration
+59 made by the custodial parent or legal guardian of a qualifying child that he or she assigns
+60 the credit to the noncustodial parent or legal guardian and will not claim the credit
+61 allowed under this Code section with respect to such child for such tax year.
+62 (d) Notwithstanding the provisions of subsection (b) of this Code section, in the case of
+63 any taxable nonresident or part-year resident whose tax was prorated as provided by Code
+64 Section 48-7-85, the amount of the credit determined pursuant to such subsection shall be
+65 prorated based on the ratio of income taxable to this state as properly reported on Schedule
+66 3, Line 9 of the Georgia Form 500 for the taxable year.
+- 3 -
+
+25 LC 50 1259S
+67 (e) In no event shall the total amount of the tax credit under this Code section for a taxable
+68 year exceed the taxpayer's income tax liability. Any unused tax credit shall not be allowed
+69 to be carried forward to apply to the taxpayer's succeeding years' tax liability. No such tax
+70 credit shall be allowed the taxpayer against prior years' tax liability.
+71 (f) The commissioner shall be authorized to promulgate rules and regulations necessary
+72 to implement and administer the provisions of this Code section."
+73 SECTION 1-3.
+74 Said chapter is further amended by adding a new Code section to read as follows:
+75 "48-7-29.28.
+76 (a) As used in this Code section, the term:
+77 (1) 'Child care facility' means a child care learning center or family child care learning
+78 home that is permitted, licensed, or commissioned by the Department of Early Care and
+79 Learning pursuant to Chapter 1A of Title 20.
+80 (2) 'Eligible child care payments for employees' means payments:
+81 (A) Made directly to a child care facility in the name and for the benefit of an
+82 employee whose child is enrolled in such facility and is under the age of six;
+83 (B) Which total at least $1,000.00 per taxable year for each employee for which such
+84 payments are made; and
+85 (C) That are made for an employee in addition to, and not in lieu of, any other
+86 compensation and benefits for such employee.
+87 (b) For taxable years beginning on or after January 1, 2026, a taxpayer shall be allowed
+88 a credit against the tax imposed under this article for eligible child care payments for
+89 employees in an amount:
+90 (1) Equal to $500.00 per child for which such payments are made per taxable year; or
+91 (2) Equal to $1,000.00 per child for which such payments are made if it is the first
+92 taxable year in which the taxpayer provided eligible child care payments for employees
+- 4 -
+
+25 LC 50 1259S
+93 and prior to such taxable year the taxpayer did not pay for, reimburse for, or otherwise
+94 subsidize the costs of child care for employees.
+95 (c) The aggregate amount of tax credits allowed pursuant to this Code section shall not
+96 exceed $20 million per year.
+97 (d) In no event shall the total amount of the tax credit under this Code section for a taxable
+98 year exceed the taxpayer's income tax liability. Any unused tax credit shall not be allowed
+99 to be carried forward to apply to the taxpayer's succeeding years' tax liability. No such tax
+100 credit shall be allowed the taxpayer against prior years' tax liability.
+101 (e) A taxpayer seeking to claim a tax credit pursuant to this Code section shall submit an
+102 application to the department for preapproval of such tax credit in the manner specified by
+103 the department. The department shall preapprove such application within 30 days based
+104 on the order in which properly completed applications were submitted. In the event that
+105 two or more applications were submitted on the same day and the amount of funds
+106 available will not be sufficient to fully fund the amount requested, the department shall
+107 prorate the available funds between or among the applicants.
+108 (f) The commissioner shall promulgate any rules and regulations necessary to implement
+109 and administer the provisions of this Code section.
+110 (g) This Code section shall stand repealed and reserved on December 31, 2030."
+111 PART II
+112 SECTION 2-1.
+113 Said chapter is further amended by revising Code Section 48-7-29.24, relating to tax credits
+114 for contributions to foster child support organizations, as follows:
+115 "48-7-29.24.
+116 (a) As used in this Code section, the term:
+117 (1) 'Aging foster children' means:
+- 5 -
+
+25 LC 50 1259S
+118 (A) Foster children aged 16 through 18 that would benefit based on projected status at
+119 age 18, as determined by the division; and
+120 (B) Former foster children up to and including age 21, or age 25 if legally possible,
+121 aged 16 through 25 who have not been adopted or reunited with families were in foster
+122 care for at least six months after reaching age 14.
+123 (2) 'Aging-out program' means a program with the primary function of supporting aging
+124 foster children and justice involved youth.
+125 (2.1) 'Business enterprise' means any insurance company or the headquarters of any
+126 insurance company required to pay the tax provided for in Code Section 33-8-4.
+127 (3) 'Division' means the Division of Family and Children Services of the Department of
+128 Human Services.
+129 (4) 'Foster child support organization' means:
+130 (A) The aging-out program of the Technical College System of Georgia Foundation;
+131 (B) The aging-out program of the University System of Georgia Foundation, provided
+132 that such program is certified by the Governor's Office of Planning and Budget as an
+133 aging-out program; or
+134 (C) Any domestic nonprofit corporation which maintains nonprofit status under
+135 Section 501(c)(3) of the Internal Revenue Code and tax exempt status under Code
+136 Section 48-7-25, that has the primary function of:
+137 (i) Operating an aging-out program that primarily supports aging foster children or
+138 operating as or supporting a Georgia licensed child-placing agency or licensed
+139 child-caring institution; or
+140 (ii) Disbursing funds directly to one or more of the entities identified in
+141 subparagraphs (A) or (B) or division (C)(i) of this paragraph.
+142 (4.1) 'Justice involved youth' means youth aged 18 through 25 who:
+- 6 -
+
+25 LC 50 1259S
+143 (A) Were previously or are currently committed to the Department of Juvenile Justice
+144 pursuant to a court order as authorized by paragraph (11) of subsection (a) of Code
+145 Section 15-11-601; and
+146 (B) As a result of such commitment, have been previously placed or are currently
+147 placed in a nonsecure facility or community setting.
+148 (4.2) 'Mentorship services' means support services directly provided to an aging foster
+149 child or justice involved youth by a mentor, such as role modeling, informal counseling,
+150 guiding, motivating, and sharing time together.
+151 (5) 'Qualified contributions' means the preapproved contribution of funds made during
+152 the taxable year by a taxpayer or a business enterprise to a qualified organization under
+153 the terms and conditions of this Code section.
+154 (6) 'Qualified expenditures' means expenditures made by a qualified organization for the
+155 following purposes; provided, however, that such term shall not include any expenditures
+156 for which the qualified organization has received or is eligible to receive reimbursement
+157 from the division:
+158 (A) The costs associated with tuition waivers granted pursuant to Code Section
+159 20-3-660;
+160 (B) Wraparound services for individuals aging foster children and justice involved
+161 youth who are:
+162 (1) Enrolled in attending a public or private postsecondary educational institution
+163 under a waiver granted pursuant to Code Section 20-3-660; or
+164 (2) Enrolled in a program to obtain a high school diploma or its equivalent;
+165 (3) Enrolled in a recognized vocational school; or
+166 (4) Participating in a registered apprenticeship program, provided that the participant
+167 and the organization for which the participant is an apprentice document that the
+168 participant is compliant with the rules of the apprenticeship program; or
+- 7 -
+
+25 LC 50 1259S
+169 (C) Mentorship services provided to aging foster children, and justice involved youth;
+170 provided, however, that such expenditures shall not include:
+171 (1) Compensation for a single mentor which exceeds no mentor shall be compensated
+172 in excess of $100.00 per month for an aging foster child or justice involved youth or
+173 $500.00 $1,200.00 per year for any aging foster child or justice involved youth; or
+174 (2) Payments made to employees of a qualified organization who perform duties
+175 other than providing mentorship services for the organization.
+176 (7) 'Qualified organization' means a foster child support organization that has been
+177 certified and listed by the division pursuant to subsection (d) of this Code section.
+178 (8) 'Wraparound services' means services provided directly to aging foster children or
+179 justice involved youth to support their education through high school completion,
+180 vocational, and postsecondary education services, housing services, vocation services,
+181 medical services, counseling services, mentorship services, nutrition services,
+182 transportation services, or daily living essentials and clothing, and up to $150.00 $200.00
+183 per month in direct cash payments for use on personal necessities.
+184 (b)(1) The aggregate amount of tax credits allowed under this Code section shall not
+185 exceed $20 million per for calendar year 2025. For calendar years 2026 and after, the
+186 aggregate amount of tax credits allowed under this Code section shall not exceed $30
+187 million per calendar year, and no more than $10 million of such aggregate amount shall
+188 be allowed for business enterprises.
+189 (2) Subject to the aggregate limit provided in paragraph (1) of this subsection and the
+190 limitations of subsection subsections (b.1), (b.2), and (k) of this Code section, each:
+191 (A) Taxpayer taxpayer shall be allowed a credit against the tax imposed by this chapter
+192 for qualified contributions made by the taxpayer on or after January 1, 2023, as follows:
+193 (A)(i) In the case of a single individual or a head of household, the actual amount of
+194 qualified contributions made;
+- 8 -
+
+25 LC 50 1259S
+195 (B)(ii) In the case of a married couple filing a joint return, the actual amount of
+196 qualified contributions made;
+197 (C)(iii) Anything to the contrary contained in subparagraph (A) or (B) division (i) or
+198 (ii) of this paragraph subparagraph notwithstanding, in the case of an individual
+199 taxpayer who is a member of a limited liability company duly formed under state law,
+200 a shareholder of a Subchapter 'S' corporation, or a partner in a partnership, the actual
+201 amount of qualified contributions it made; provided, however, that tax credits
+202 pursuant to this paragraph shall only be allowed for the portion of the income on
+203 which such tax was actually paid by such member of the limited liability company,
+204 shareholder of a Subchapter 'S' corporation, or partner in a partnership; or
+205 (D)(iv) In the case of a A corporation or other entity not provided for in
+206 subparagraphs (A) divisions (i) through (C) (iii) of this paragraph shall be allowed a
+207 credit against the tax imposed by this chapter, for qualified contributions in an amount
+208 not to exceed subparagraph, the actual amount of qualified contributions made; and
+209 (B) Business enterprise shall be allowed a credit against the tax imposed by Code
+210 Section 33-8-4 in an amount equal to its qualified contributions.
+211 (b.1) For the period beginning on January 1 and ending on June 30 of each year, an
+212 individual a taxpayer shall not be allowed a credit for contributions, and the commissioner
+213 shall not preapprove any contributions, that exceed the following limits:
+214 (1) In the case of a single individual or a head of household, $2,500.00;
+215 (2) In the case of a married couple filing a joint return, $5,000.00;
+216 (3) In the case of an individual who is a member of a limited liability company duly
+217 formed under state law, a shareholder of a Subchapter 'S' corporation, or a partner in a
+218 partnership, $5,000.00; or
+219 (4) In the case of a corporation or other entity not provided for in paragraphs (1) through
+220 (3) of this subsection, 10 30 percent of such entity's income tax liability.
+- 9 -
+
+25 LC 50 1259S
+221 (b.2) For the period beginning on July 1 and ending on December 31 of each year, to the
+222 extent that the aggregate amounts of tax credits authorized by subsection (b) of this Code
+223 section have not been reached, the commissioner shall preapprove, deny, or prorate
+224 additional requested amounts on a first come, first served basis and shall provide notice to
+225 such taxpayer and the qualified organization of such preapproval, denial, or proration.
+226 (b.3) A taxpayer that is preapproved for a tax credit allowed pursuant to this Code section
+227 and that does not make a qualified contribution of the total preapproved amount shall be
+228 allowed such credit in an amount not to exceed 95 percent of the amount of the qualified
+229 contribution actually made by the taxpayer.
+230 (c) Not later than October 1, 2022, the The commissioner shall establish a page on the
+231 department's public website for the purpose of implementing this Code section. Such page
+232 shall contain, at a minimum:
+233 (1) A link to the division's web based application for certification as a qualified
+234 organization as provided for in subsection (d) of this Code section;
+235 (2) The current list of all qualified organizations;
+236 (3) The total amount of tax credits remaining and available for preapproval for each year;
+237 (4) A web based method for taxpayers or business enterprises seeking the preapproval
+238 status for contributions; and
+239 (5) The information received by the department from each qualified organization
+240 pursuant to paragraph (1) of subsection (g) except for division (g)(1)(B)(iv) of this Code
+241 section.
+242 (d)(1) The division shall establish and maintain a web based application process for the
+243 purpose of certifying foster child support organizations as qualified organizations. At a
+244 minimum, such application created by the division shall include an agreement submitted
+245 by the applicant to fully comply with the terms and conditions of this Code section.
+246 (2) The (A) Subject to the requirements of this subsection, the division shall certify any
+247 valid foster child support organization as a qualified organization upon successful
+- 10 -
+
+25 LC 50 1259S
+248 completion of such application process and shall decertify an organization that fails to
+249 maintain the requirements to be a qualified organization or that the division determines
+250 to have violated any other law.
+251 (B) For any foster child support organization that is not a Georgia licensed
+252 child-placing agency or licensed child-caring institution or that meets the definition of
+253 such term only as set forth in division (a)(4)(C)(ii) of this Code section to be certified
+254 as a qualified organization, such organization shall provide documentation
+255 demonstrating that for a period of at least two calendar years prior to the submission of
+256 its application, the organization has operated an aging-out program and, during that
+257 period, has provided services to at least 100 aging foster children or justice involved
+258 youth.
+259 (C) After receiving certification pursuant to this subsection, each qualified organization
+260 other than a Georgia licensed child-placing agency or licensed child-caring institution
+261 shall annually demonstrate to the division's satisfaction that it continues to maintain the
+262 requirements to be a qualified organization, and shall annually submit to the division
+263 a copy of such organization's most recent annual audit.
+264 (3) The division shall certify any foster child support organization operating as a Georgia
+265 licensed child-placing agency or licensed child-caring institution as a qualified
+266 organization within ten days of receipt of a written request or application.
+267 (4) The division shall accept a first round of applications for certification as qualified
+268 organizations by October 1, 2022, and shall certify and notify such applicants of the
+269 division's decision on or before November 30, 2022. Thereafter the division shall
+270 establish a process for rolling applications and certifications consistent with the
+271 requirements of this Code section.
+272 (e)(1) Prior to making a contribution to any qualified organization, the taxpayer or
+273 business enterprise shall electronically notify the department, in a manner specified by
+- 11 -
+
+25 LC 50 1259S
+274 the commissioner, of the total amount of contribution that such taxpayer or business
+275 enterprise intends to make to such qualified organization.
+276 (2) Within 30 days after receiving a request for preapproval of contributions, the
+277 commissioner shall preapprove, deny, or prorate requested amounts on a first come, first
+278 served basis and shall provide notice to such taxpayer or business enterprise and the
+279 qualified organization of such preapproval, denial, or proration. Such notices shall not
+280 require any signed release or notarized approval by the taxpayer or business enterprise.
+281 The preapproval of contributions by the commissioner shall be based solely on the
+282 availability of tax credits subject to the aggregate total limit established under paragraph
+283 (1) of subsection (b) of this Code section.
+284 (3) Within 60 days after receiving the preapproval notice issued by the commissioner
+285 pursuant to paragraph (2) of this subsection, the taxpayer or business enterprise shall
+286 contribute the preapproved amount to the qualified organization or such preapproved
+287 contribution amount shall expire. The commissioner shall not include such expired
+288 amounts in determining the remaining amount available under the aggregate limit for the
+289 respective calendar year.
+290 (f)(1) Each qualified organization shall issue to each contributor a letter of confirmation
+291 of contribution, which shall include the taxpayer's or business enterprise's name, address,
+292 tax identification number, the amount of the qualified contribution, the date of the
+293 qualified contribution, and the total amount of the credit allowed to the taxpayer or
+294 business enterprise.
+295 (2)(A) In order for a taxpayer or business enterprise to claim the tax credit allowed
+296 under this Code section, all such applicable letters as provided for in paragraph (1) of
+297 this subsection shall be attached to the taxpayer's tax return or a business enterprise's
+298 tax return provided for in Code Section 33-8-6.
+299 (B) If When the taxpayer files an electronic return, such confirmation shall only be
+300 required to be electronically attached to the return if the Internal Revenue Service
+- 12 -
+
+25 LC 50 1259S
+301 allows such attachments to be affixed and transmitted to the department. In any such
+302 event, the taxpayer shall maintain such confirmation and such confirmation shall only
+303 be made available to the commissioner upon request.
+304 (C) With respect to a business enterprise's tax return provided for in Code
+305 Section 33-8-6, the Commissioner of Insurance is authorized to promulgate rules and
+306 regulations regarding the manner in which such letters of confirmation of donations
+307 shall be filed in the case of tax returns filed electronically.
+308 (3) The commissioner shall allow tax credits for any preapproved contributions made to
+309 a qualified organization at the time the contributions were made if such organization was
+310 a qualified organization at the time of the commissioner's preapproval of the contributions
+311 and the taxpayer or business enterprise has otherwise complied with this Code section.
+312 (g)(1) Each qualified organization shall annually submit to the department no later than
+313 May 15 July 15 of each year:
+314 (A) A complete copy of its IRS Form 990 including applicable attachments, or for any
+315 qualified organization that is not required by federal law to file an IRS Form 990, such
+316 organization shall submit to the commissioner equivalent information on a form
+317 prescribed by the commissioner; provided, however, that, if the organization's IRS
+318 Form 990 is not prepared by the filing deadline, the organization shall provide such
+319 form at the same time it submits such form to the Internal Revenue Service; and
+320 (B) A report detailing the contributions received during the calendar year pursuant to
+321 this Code section on a date determined by, and on a form provided by, the
+322 commissioner which shall include:
+323 (i) The total number and dollar value of individual contributions and tax credits
+324 approved. Individual contributions shall include contributions made by those filing
+325 income tax returns as a single individual or head of household and those filing joint
+326 returns;
+- 13 -
+
+25 LC 50 1259S
+327 (ii) The total number and dollar value of corporate contributions and tax credits
+328 approved;
+329 (iii) The total number and dollar value of all qualified expenditures made; and
+330 (iv) A list of contributors, including the dollar value of each contribution and the
+331 dollar value of each approved tax credit; and
+332 (v) An accounting of the funds withheld from qualified contributions demonstrating
+333 that no more than 10 percent of such funds were withheld from qualified
+334 expenditures, as required by subparagraph (j)(1)(A) of this Code section.
+335 (2) Except for the information published in accordance with subsection (c) of this Code
+336 section, all information or reports relative to this Code section that were provided by
+337 qualified organizations to the department shall be confidential taxpayer information,
+338 governed by Code Sections 48-2-15, 48-7-60, and 48-7-61, whether such information
+339 relates to the contributor or the qualified organization.
+340 (h) By April 1 of each year, each qualified organization shall publicly post on its public
+341 website in a prominent place:
+342 (1) A a copy of its prior year's annual budget financials containing the total amount of
+343 funds received from all sources relative to the amount of qualified contributions it
+344 received and the total amount and a description of how such contributions were utilized.;
+345 and
+346 (2) A certification, signed by the chief executive officer of the qualified organization and
+347 attested to by an independent accounting firm, which substantially complies with the
+348 following statement:
+349 'I hereby certify that:
+350 (A) The organization has materially complied with the requirements of
+351 subparagraph (j)(1)(A) of O.C.G.A. Section 48-7-29.24 in that no more than 10 percent
+352 of qualified contributions received by [the qualified organization] were retained by,
+353 withheld by, or otherwise paid to the organization; and
+- 14 -
+
+25 LC 50 1259S
+354 (B) The description of how [the qualified organization] utilized the qualified
+355 contributions is true and correct.'
+356 (i)(1) A taxpayer or business enterprise shall not be allowed to designate or direct the
+357 taxpayer's or business enterprise's qualified contributions to any particular purpose or for
+358 the direct benefit of any particular individual.
+359 (2) A taxpayer or business enterprise that operates, owns, or is a subsidiary of an
+360 association, organization, or other entity that contracts directly with a qualified
+361 organization shall not be eligible for tax credits allowed under this Code section for
+362 contributions made to such qualified organization.
+363 (3) In soliciting contributions, no person shall represent or direct that, in exchange for
+364 making qualified contributions to any qualified organization, a taxpayer or business
+365 enterprise shall receive any direct or particular benefit. The status as a qualified
+366 organization shall be revoked for any qualified organization determined to be in violation
+367 of this paragraph and shall not be renewed for at least two years.
+368 (j)(1)(A) Each qualified organization shall use at least 80 90 percent of the funds
+369 received by it from qualified contributions to make qualified expenditures. Each
+370 qualified organization shall maintain accurate and current records of all expenditures
+371 of such funds and provide such records to the commissioner upon his or her request.
+372 In no event shall a qualified organization retain for its own use or apply to its overhead
+373 or administrative expenses more than 10 percent of the funds received pursuant to this
+374 Code section.
+375 (B) No foster child support organization that meets only the definition of such term as
+376 provided in division (a)(4)(C)(ii) of this Code section shall retain more than 2.5 percent
+377 of qualified contributions for itself for any reason and shall only serve to pass all of its
+378 qualified contributions to one or more qualified organizations that are foster child
+379 support organizations as such term is defined in subparagraphs (a)(4)(A), (a)(4)(B), or
+380 division (a)(4)(C)(i) of this Code section.
+- 15 -
+
+25 LC 50 1259S
+381 (2) A qualified organization that fails to comply with any of the requirements under this
+382 Code section shall be given written notice by the department of such failure to comply
+383 by certified mail and shall have 90 days from the receipt of such notice to correct all
+384 deficiencies.
+385 (3) Upon failure to correct all deficiencies within 90 days, the department shall revoke
+386 the foster child support organization's status as a qualified organization and such entity
+387 shall be immediately removed from the department's list of organizations. All
+388 applications for preapproval of tax credits for contributions to such foster child support
+389 organization under this Code section made on or after the date of such removal shall be
+390 rejected.
+391 (4) Each foster child support organization that has had its status revoked and has been
+392 delisted pursuant to this Code section, shall immediately cease all expenditures of funds
+393 received relative to this Code section, and shall transfer all of such funds that are not yet
+394 expended, to a properly operating qualified organization within 30 calendar days of its
+395 removal from the department's list of qualified organizations.
+396 (k)(1) No credit shall be allowed under this Code section to a taxpayer for any amount
+397 of qualified contributions that were utilized as deductions or exemptions from taxable
+398 income.
+399 (2) In no event shall the total amount of the tax credit used under this Code section for
+400 a taxable year exceed the taxpayer's income tax liability or the business enterprise's state
+401 tax liability owed pursuant to Code Section 33-8-4. Any unused tax credit shall be
+402 allowed the taxpayer or business enterprise against the succeeding three years' tax
+403 liability. No such credit shall be allowed the taxpayer or business enterprise against prior
+404 years' tax liability.
+405 (l) The chairperson of the House Appropriations Committee and the chairperson of the
+406 Senate Committee on Appropriations shall have the authority to request an audit
+407 concerning this Code section as a whole or of any one or more qualified organizations. The
+- 16 -
+
+25 LC 50 1259S
+408 commissioner, the state auditor, each qualified organization, each aging-out program, and
+409 the director of the division shall cooperate to the full extent necessary to conduct such
+410 audits.
+411 (m) At the discretion of the commissioner or the director of the division, any suspected
+412 misuse of funds contributed or expended pursuant to this Code section shall be forwarded
+413 to the Attorney General for investigation and prosecution.
+414 (n) The commissioner shall promulgate rules and regulations necessary to implement and
+415 administer the provisions of this Code section."
+416 SECTION 2-2.
+417 Said chapter is further amended in Code Section 48-7-60, relating to confidentiality of tax
+418 information, exceptions, authorized inspection by certain officials, furnishing information
+419 to local tax authorities, furnishing information to nonofficials, conditions, and effect of Code
+420 section, by adding a new subsection to read as follows:
+421 "(d.1) The commissioner shall be authorized in his or her sole discretion to share
+422 information necessary to efficiently administer and enforce the provisions of this chapter
+423 for the purpose of tax credit administration when another state agency has statutory
+424 authority to administer such tax credits. Any confidential information furnished pursuant
+425 to this Code section shall retain its character as confidential and privileged information.
+426 Any person who divulges confidential information obtained pursuant to this Code section
+427 shall be subject to the same penalties as provided under Code Section 48-7-61 for unlawful
+428 divulgence of confidential taxpayer information."
+- 17 -
+
+25 LC 50 1259S
+429 PART III
+430 SECTION 3-1.
+431 (a) This Act shall become effective on July 1, 2025, and, except as provided in
+432 subsection (b) of this section, shall be applicable to all taxable years beginning on or after
+433 January 1, 2026.
+434 (b) Section 1-1 of this Act shall be applicable to all taxable years beginning on or after
+435 January 1, 2025.
+436 SECTION 3-2.
+437 All laws and parts of laws in conflict with this Act are repealed.
+- 18 -
+
+[DELETED: 5LTisie a f i c a i p t l fcya t c f c t f c s o t e to0q1t a q e t p f r r t p f2c3l4f5t6B]
+[DELETED: 5L7P8S9C0i1a243(4f5a6a7c8(9J0(1t2(3(4y5t6c7(  T c s b a t p a r a r8n9S0S]
+[DELETED: 5L142(3a4y5(6a7f8(9C0d1o2c3h4( t5n6a7r8(9m0t1a2(3a4S5p63]
+[DELETED: 5L7(8y9t0c1(2t3S4S546(7(8h9L0(1(  M d t a c c f i t n a f t b o a2e3(4p5(6c7(8a9e0(1(2t]
+[DELETED: 5L3a4s5(6e7(8y9t0c1(2a3t4o5t o m a w s o t s d a t a o f6a7p8(9a0(1P2S3S4f546(7(]
+[DELETED: 5L8(9a0(1a2c3(4f5(6i7(8H9(0(1(2t3a4(  A d n c w m n s u5S6S7(8o a o s a G l c a o l9c0(  D f d t o o m o t e i i1s2(]
+[DELETED: 5L3(4p5S6(7p8(9c0g1(2t3t4(5f6f7f8(  T c a w t w g p t C S920(1y2(3u4(5(6(7a8p]
+[DELETED: 5L9(0p1(2i3$4(5o6(7c8(9j i y t s t e t h s c0v1m s c s m s n s2t3p4(5e6a7m8b9(0l1(2f3(4q]
+[DELETED: 5L5(6q7(8(9t0a1a o q c i m p h t t c2p3w4s5(  I t c o a A c o o e n p f i6s7c8n9(0S1(2i3s4(5(6(7f8p9(0(]
+[DELETED: 5L1(2e3s h n b r t c s p d o p4a5s6(7a8a9c0(1d2s3(  A l t t d w b a f c a a q4o5(6(7(8s9(  T i r b t d f e q o0p1s2(3p4m5b6(7v f c s o a a q o u s]
+[DELETED: 5L8c9m0t1(  F a f c s o t i n a G l2c3s4a a q o s o s p d5d6i7p8y9(0o1s2r3a4(5l c a o l c i a a q6o7(8o9d d o o b N 3 2  T t d s0e a p f r a a c c w t1r2(3b]
+[DELETED: 5L4t5e6(  W 3 d a r a r f p o c t7c8s9q0r1T2a3(4(5p6c7c8a9r0(1o2t i n t a o t q c t d o t3q4b5(6u7t8t9(0r]
+[DELETED: 5L1a2e3b4(  W r t a b e t r p f i C5S6r7s8(9a0a1a2(3M4(5q6o s s t t c e i o a f7p8F9f0(1t C s o a d d b a o a f p b t2c3(4a5i6r]
+[DELETED: 5L7(8a9(0(1d2(3t n m t 1 p o s f w w f q4e5(6s7q8g9r0(1w2(3f r f a s r t t a o q c i4r5a6(7a8f9'0(  T o h m c w t r o1s2o3w]
+[DELETED: 5L4( T d o h [ q o u t q5c6(7t8t9(0a o o o e t c d w a q1o2c3(4m5e s r a d o p b  T s a a q6o7o8(9r0q1o2I3o4C5(6p7o8q9s0d]
+[DELETED: 5L1(2C3b4d5(6t7s b i r f t d l o o  A8a9o0r1(2d3r4e5r6(7o8i9 0a1t2a t t o b e a t s t y t3l4y5(6S C o A s h t a t r a a7c]
+[DELETED: 5L8c9t0a1(2m3t4(5a6S7S8i9t0s1(  T c s b a i h o h s d t s2i3f t p o t c a w a s a h s4a5t6A7s8d]
+[DELETED: 5L9P0S1(  T A s b e o J 1 2 a e a p i2s3J4(5J6S7A]

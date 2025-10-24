@@ -1,0 +1,173 @@
+Title: House Bill 406
+Official Title: House Bill 406
+Number of Sections: 1
+Source: versions - LC 47 3334/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 47 3334
+By: Representative Leverett of the 123rd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 23 of Title 47 of the Official Code of Georgia Annotated, relating to the
+2 Georgia Judicial Retirement System, so as to increase the retirement age of superior court
+3 judges first taking office on or after July 1, 2026; to provide for an effective date; to provide
+4 for related matters; to repeal conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 Chapter 23 of Title 47 of the Official Code of Georgia Annotated, relating to the Georgia
+8 Judicial Retirement System, is amended by revising Code Section 47-23-102, relating to
+9 vesting, benefits upon retirement, and compliance with federal income tax laws, as follows:
+10 "47-23-102.
+11 (a) The right of a member to receive benefits under this chapter shall vest after the member
+12 obtains ten years of creditable service; provided, however, that no member shall receive
+13 a retirement benefit prior to attaining the age of 60 years. Except as otherwise provided
+14 in Article 2 of Chapter 1 of this title, a member's accumulated contributions shall be 100
+15 percent vested and nonforfeitable at all times. Any member retiring on or after
+16 July 1, 1996, and any member who was retired on July 1, 1996, with 16 years or more of
+H. B. 406
+- 1 -
+25 LC 47 3334
+17 creditable service shall receive a benefit equal to 66.66 percent, plus 1 percent for each year
+18 of creditable service over 16 years, of the member's salary; provided, however, that no
+19 member shall receive more than 24 years of creditable service. Any member retiring with
+20 less than 16 years of creditable service may retire at a reduced benefit pursuant to Code
+21 Section 47-23-103. Except as provided in subsection (c) of this Code section, normal
+22 Normal retirement age under this retirement system shall be the date the member has
+23 reached age 60 years of age, provided that he or she has at least ten years of creditable
+24 service. For purposes of Section 402(1) of the federal Internal Revenue Code regarding
+25 distributions from governmental plans for health and long-term care insurance for public
+26 safety officers, normal retirement age shall be the earliest date when the member has
+27 satisfied the requirements for a retirement under this or the predecessor retirement system.
+28 Except as otherwise provided in Article 2 of Chapter 1 of this title, a member's right to his
+29 or her retirement allowance is nonforfeitable upon attainment of normal retirement age.
+30 Any member who was retired on July 1, 1996, with more than 16 years of creditable
+31 service shall receive in July, 1998, a one-time benefit payment equal to two times the
+32 product of 1 percent of the salary paid to such judge at the time of his or her retirement
+33 multiplied by the number of years of creditable service in excess of 16 years.
+34 (b) The board is authorized to provide by rule or regulation for the payment of benefits to
+35 members or beneficiaries of the retirement system at a time and under circumstances not
+36 provided for in this chapter to the extent that such payment is required to maintain the
+37 retirement system as a qualified retirement plan for the purposes of federal income tax laws
+38 and regulations.
+39 (c) For any superior court judge first taking office on or after July 1, 2026, the normal
+40 retirement age under this retirement system shall be the date the member has reached 65
+41 years of age. All other requirements to receive a retirement benefit under this Code section
+42 shall apply to such superior court judge."
+H. B. 406
+- 2 -
+25 LC 47 3334
+43 SECTION 2.
+44 Said chapter is further amended by revising Code Section 47-23-103, relating to retirement
+45 based on age and application to retire, as follows:
+46 "47-23-103.
+47 (a) In lieu of retirement at the benefit level provided by Code Section 47-23-102, a
+48 member, except for any superior court judge first taking office on or after July 1, 2026,
+49 may retire at any time after attaining the age of 60 years and after obtaining a minimum of
+50 ten years of creditable service. The monthly retirement benefit for such early retirement
+51 shall be a percentage of the benefit under Code Section 47-23-102, and such percentage
+52 shall be the proportion which the number of years of creditable service the member has in
+53 the retirement system bears to 16.
+54 (b) The effective date of retirement shall be the first day of the month in which the
+55 application is received by the board of trustees, provided that no retirement shall, in any
+56 case, be effective earlier than the first day of the month following the final month of the
+57 applicant's employment. Applications for retirement shall not be accepted more than 90
+58 days in advance of the effective date of retirement."
+59 SECTION 3.
+60 This Act shall become effective on July 1, 2026.
+61 SECTION 4.
+62 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 406
+- 3 -
+[DELETED: 5L3 v a n a a t  A m r o o a]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 47 3334
+House Bill 406
+By: Representative Leverett of the 123rd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 23 of Title 47 of the Official Code of Georgia Annotated, relating to the
+2 Georgia Judicial Retirement System, so as to increase the retirement age of superior court
+3 judges first taking office on or after July 1, 2026; to provide for an effective date; to provide
+4 for related matters; to repeal conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 Chapter 23 of Title 47 of the Official Code of Georgia Annotated, relating to the Georgia
+8 Judicial Retirement System, is amended by revising Code Section 47-23-102, relating to
+9 vesting, benefits upon retirement, and compliance with federal income tax laws, as follows:
+10 "47-23-102.
+11 (a) The right of a member to receive benefits under this chapter shall vest after the member
+12 obtains ten years of creditable service; provided, however, that no member shall receive
+13 a retirement benefit prior to attaining the age of 60 years. Except as otherwise provided
+14 in Article 2 of Chapter 1 of this title, a member's accumulated contributions shall be 100
+15 percent vested and nonforfeitable at all times. Any member retiring on or after
+16 July 1, 1996, and any member who was retired on July 1, 1996, with 16 years or more of
+H. B. 406
+- 1 -
+
+25 LC 47 3334
+17 creditable service shall receive a benefit equal to 66.66 percent, plus 1 percent for each year
+18 of creditable service over 16 years, of the member's salary; provided, however, that no
+19 member shall receive more than 24 years of creditable service. Any member retiring with
+20 less than 16 years of creditable service may retire at a reduced benefit pursuant to Code
+21 Section 47-23-103. Except as provided in subsection (c) of this Code section, normal
+22 Normal retirement age under this retirement system shall be the date the member has
+23 reached age 60 years of age, provided that he or she has at least ten years of creditable
+24 service. For purposes of Section 402(1) of the federal Internal Revenue Code regarding
+25 distributions from governmental plans for health and long-term care insurance for public
+26 safety officers, normal retirement age shall be the earliest date when the member has
+27 satisfied the requirements for a retirement under this or the predecessor retirement system.
+28 Except as otherwise provided in Article 2 of Chapter 1 of this title, a member's right to his
+29 or her retirement allowance is nonforfeitable upon attainment of normal retirement age.
+30 Any member who was retired on July 1, 1996, with more than 16 years of creditable
+31 service shall receive in July, 1998, a one-time benefit payment equal to two times the
+32 product of 1 percent of the salary paid to such judge at the time of his or her retirement
+33 multiplied by the number of years of creditable service in excess of 16 years.
+34 (b) The board is authorized to provide by rule or regulation for the payment of benefits to
+35 members or beneficiaries of the retirement system at a time and under circumstances not
+36 provided for in this chapter to the extent that such payment is required to maintain the
+37 retirement system as a qualified retirement plan for the purposes of federal income tax laws
+38 and regulations.
+39 (c) For any superior court judge first taking office on or after July 1, 2026, the normal
+40 retirement age under this retirement system shall be the date the member has reached 65
+41 years of age. All other requirements to receive a retirement benefit under this Code section
+42 shall apply to such superior court judge."
+H. B. 406
+- 2 -
+
+25 LC 47 3334
+43 SECTION 2.
+44 Said chapter is further amended by revising Code Section 47-23-103, relating to retirement
+45 based on age and application to retire, as follows:
+46 "47-23-103.
+47 (a) In lieu of retirement at the benefit level provided by Code Section 47-23-102, a
+48 member, except for any superior court judge first taking office on or after July 1, 2026,
+49 may retire at any time after attaining the age of 60 years and after obtaining a minimum of
+50 ten years of creditable service. The monthly retirement benefit for such early retirement
+51 shall be a percentage of the benefit under Code Section 47-23-102, and such percentage
+52 shall be the proportion which the number of years of creditable service the member has in
+53 the retirement system bears to 16.
+54 (b) The effective date of retirement shall be the first day of the month in which the
+55 application is received by the board of trustees, provided that no retirement shall, in any
+56 case, be effective earlier than the first day of the month following the final month of the
+57 applicant's employment. Applications for retirement shall not be accepted more than 90
+58 days in advance of the effective date of retirement."
+59 SECTION 3.
+60 This Act shall become effective on July 1, 2026.
+61 SECTION 4.
+62 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 406
+- 3 -
+
+[DELETED: 5L3 v a n a a t  A m r o o a]
+[DELETED: 5L]
+[DELETED: 5L]

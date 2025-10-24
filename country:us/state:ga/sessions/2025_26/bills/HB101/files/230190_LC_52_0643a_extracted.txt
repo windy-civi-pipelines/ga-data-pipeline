@@ -1,0 +1,151 @@
+Title: House Bill 101
+Official Title: House Bill 101
+Number of Sections: 1
+Source: versions - LC 52 0643/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0643
+By: Representatives Douglas of the 78th, Hawkins of the 27th, Evans of the 57th, Kelley of the
+16th, Prince of the 132nd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 1 of Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia
+2 Annotated, relating to the state employees' health insurance plan, so as to provide for an
+3 annual public report on the amount of prescription drug rebates and other price concessions
+4 applied to premium reductions for state health plan participants; to provide for definitions;
+5 to provide for related matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Part 1 of Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia Annotated,
+9 relating to the state employees' health insurance plan, is amended by adding a new Code
+10 section to read as follows:
+11 "45-18-6.2.
+12 (a) As used in this Code section, the term:
+13 (1) 'Contracted entity' means any corporation licensed to transact accident and health
+14 insurance business in this state, healthcare corporation, professional claim administrator,
+15 independent adjusting firm, health maintenance organization, licensed pharmacy benefits
+16 manager, or any other entity that enters into a contract with the board to provide
+H. B. 101
+- 1 -
+25 LC 52 0643
+17 healthcare coverage or services pursuant to a state health plan, including, but not limited
+18 to, medical benefits, pharmacy benefits, and well-being incentives and programs.
+19 (2) 'Prescription drug rebates and other price concessions' means all remuneration
+20 received by or on behalf of the state health plan, including remuneration received by or
+21 on behalf of any contracted entity, that decrease the costs of a prescription drug covered
+22 by the state health plan, regardless of from whom the remuneration is received. Such
+23 term includes discounts, charge-backs or rebates, cash discounts, free goods contingent
+24 on a purchase agreement, up-front payments, coupons, goods in kind, free or reduced
+25 price services, grants, or other price concessions or similar benefits to the extent that the
+26 value of these items reduce costs for the state health plan. Such term excludes any
+27 remuneration, coupons, or price concessions for which the full value is passed on to the
+28 state health plan participants, or bona fide service fees, such as fees paid by a drug
+29 manufacturer to any contracted entity that represent fair market value for a bona fide,
+30 itemized service actually performed on behalf of such drug manufacturer that such drug
+31 manufacturer would otherwise perform or contract for in the absence of the service
+32 arrangement and that are not passed on in whole or in part to a client or customer of such
+33 entity.
+34 (3) 'State health plan' means:
+35 (A) The state employees' health insurance plan established pursuant to Article 1 of
+36 Chapter 18 of Title 45;
+37 (B) The health insurance plan for public school teachers established pursuant to
+38 Subpart 2 of Part 6 of Article 17 of Chapter 2 of Title 20;
+39 (C) The health insurance plan for public school employees established pursuant to
+40 Subpart 3 of Part 6 of Article 17 of Chapter 2 of Title 20; and
+41 (D) The health benefits plan established for members, employees, and retirees of the
+42 Board of Regents of the University System of Georgia pursuant to Code
+43 Sections 20-3-31, 20-3-51, and 31-2-4.
+H. B. 101
+- 2 -
+25 LC 52 0643
+44 (b) Beginning July 1, 2026, and annually thereafter, the board shall prepare an annual
+45 report on the amount of prescription drug rebates and other price concessions, measured
+46 in dollars and by percentage, applied to premium reductions for state health plan
+47 participants. Such annual report shall be published and maintained on the department's
+48 public website."
+49 SECTION 2.
+50 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 101
+- 3 -
+[DELETED: 5L8,7,7,htht6,2,hn o a o e t e i a c w t b t p]
+[DELETED: 5L  ' d r a o p c m a r  T h i p f p s t e p t o R o t U S o G p t C]
+[DELETED: 5L d a b p a t p r f s h p]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0643
+House Bill 101
+By: Representatives Douglas of the 78th, Hawkins of the 27th, Evans of the 57th, Kelley of the
+16th, Prince of the 132nd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 1 of Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia
+2 Annotated, relating to the state employees' health insurance plan, so as to provide for an
+3 annual public report on the amount of prescription drug rebates and other price concessions
+4 applied to premium reductions for state health plan participants; to provide for definitions;
+5 to provide for related matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Part 1 of Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia Annotated,
+9 relating to the state employees' health insurance plan, is amended by adding a new Code
+10 section to read as follows:
+11 "45-18-6.2.
+12 (a) As used in this Code section, the term:
+13 (1) 'Contracted entity' means any corporation licensed to transact accident and health
+14 insurance business in this state, healthcare corporation, professional claim administrator,
+15 independent adjusting firm, health maintenance organization, licensed pharmacy benefits
+16 manager, or any other entity that enters into a contract with the board to provide
+H. B. 101
+- 1 -
+
+25 LC 52 0643
+17 healthcare coverage or services pursuant to a state health plan, including, but not limited
+18 to, medical benefits, pharmacy benefits, and well-being incentives and programs.
+19 (2) 'Prescription drug rebates and other price concessions' means all remuneration
+20 received by or on behalf of the state health plan, including remuneration received by or
+21 on behalf of any contracted entity, that decrease the costs of a prescription drug covered
+22 by the state health plan, regardless of from whom the remuneration is received. Such
+23 term includes discounts, charge-backs or rebates, cash discounts, free goods contingent
+24 on a purchase agreement, up-front payments, coupons, goods in kind, free or reduced
+25 price services, grants, or other price concessions or similar benefits to the extent that the
+26 value of these items reduce costs for the state health plan. Such term excludes any
+27 remuneration, coupons, or price concessions for which the full value is passed on to the
+28 state health plan participants, or bona fide service fees, such as fees paid by a drug
+29 manufacturer to any contracted entity that represent fair market value for a bona fide,
+30 itemized service actually performed on behalf of such drug manufacturer that such drug
+31 manufacturer would otherwise perform or contract for in the absence of the service
+32 arrangement and that are not passed on in whole or in part to a client or customer of such
+33 entity.
+34 (3) 'State health plan' means:
+35 (A) The state employees' health insurance plan established pursuant to Article 1 of
+36 Chapter 18 of Title 45;
+37 (B) The health insurance plan for public school teachers established pursuant to
+38 Subpart 2 of Part 6 of Article 17 of Chapter 2 of Title 20;
+39 (C) The health insurance plan for public school employees established pursuant to
+40 Subpart 3 of Part 6 of Article 17 of Chapter 2 of Title 20; and
+41 (D) The health benefits plan established for members, employees, and retirees of the
+42 Board of Regents of the University System of Georgia pursuant to Code
+43 Sections 20-3-31, 20-3-51, and 31-2-4.
+H. B. 101
+- 2 -
+
+25 LC 52 0643
+44 (b) Beginning July 1, 2026, and annually thereafter, the board shall prepare an annual
+45 report on the amount of prescription drug rebates and other price concessions, measured
+46 in dollars and by percentage, applied to premium reductions for state health plan
+47 participants. Such annual report shall be published and maintained on the department's
+48 public website."
+49 SECTION 2.
+50 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 101
+- 3 -
+
+[DELETED: 5L8,7,7,htht6,2,hn o a o e t e i a c w t b t p]
+[DELETED: 5L  ' d r a o p c m a r  T h i p f p s t e p t o R o t U S o G p t C]
+[DELETED: 5L d a b p a t p r f s h p]

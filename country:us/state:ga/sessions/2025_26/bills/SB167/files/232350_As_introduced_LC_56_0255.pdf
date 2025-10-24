@@ -1,0 +1,623 @@
+25 LC 56 0255
+Senate Bill 167
+By: Senators Merritt of the 9th, Jones II of the 22nd, Kemp of the 38th, Islam Parkes of the
+7th, Rhett of the 33rd and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 10 of the Official Code of Georgia Annotated, relating to commerce and
+2 trade, so as to provide broadly for private entities that employ certain AI systems to guard
+3 against discrimination caused by such systems; to provide for a description of consequential
+4 decisions for which use of automated decision systems shall be regulated; to provide for
+5 developers and deployers to perform certain evaluations of the automated decision systems
+6 they employ; to provide for notice to consumers when certain decisions are made using an
+7 automated decision system; to provide for certain disclosures by developers of AI systems;
+8 to provide for certain disclosures by deployers of AI systems; to provide for annual updates
+9 to certain disclosures; to provide for notices to a consumer each time a decision is made
+10 using an automated decision system; to provide requirements for such disclosures by
+11 developers and deployers; to provide for exemptions; to provide for trade secret protections;
+12 to provide for rule making; to provide for certain disclosed records by developers and
+13 deployers to be exempt from open records requirements; to provide for enforcement by the
+14 Attorney General; to provide for definitions; to provide for related matters; to repeal
+15 conflicting laws; and for other purposes.
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 167
+- 1 -
+
+25 LC 56 0255
+17 SECTION 1.
+18 Title 10 of the Official Code of Georgia Annotated, relating to commerce and trade, is
+19 amended by adding a new chapter to read as follows:
+20 "CHAPTER 16
+21 10-16-1.
+22 As used in this chapter, the term:
+23 (1)(A) 'Algorithmic discrimination' means the use of an artificial intelligence system
+24 in a manner that discriminates, causes a disparate impact, or otherwise makes
+25 unavailable the equal enjoyment of goods, services, or other activities or opportunities
+26 as related to a consequential decision on the basis of actual or perceived age, color,
+27 disability, ethnicity, genetic information, limited proficiency in the English language,
+28 national origin, race, religion, pursuit or receipt of reproductive healthcare, sex, sexual
+29 orientation, gender identity, veteran status, or other classification protected under the
+30 laws of this state or federal law.
+31 (B) Such term shall not include:
+32 (i) The offer, license, or use of an automated decision system by a developer or
+33 deployer for the sole purpose of:
+34 (I) The developer's or deployer's self-testing to identify, mitigate, or prevent
+35 discrimination or otherwise ensure compliance with state and federal law; or
+36 (II) Expanding an applicant, customer, or participant pool to increase diversity or
+37 redress historical discrimination; or
+38 (ii) An act or omission by or on behalf of a private club or other establishment that
+39 is not in fact open to the public, as set forth in Title II of the federal Civil Rights Act
+40 of 1964, 42 U.S.C. Section 2000a(e), as amended.
+S. B. 167
+- 2 -
+
+25 LC 56 0255
+41 (2) 'Artificial intelligence system' or 'AI system' means an engineered or machine based
+42 system that emulates the capability of a person to receive audio, visual, text, or any other
+43 form of information and use the information received to emulate a human cognitive
+44 process, including, but not limited to, learning, generalizing, reasoning, planning,
+45 predicting, acting, or communicating; provided, however, that artificial intelligence
+46 systems may vary in the forms of information they can receive and in the human
+47 cognitive processes they can emulate.
+48 (3)(A) 'Automated decision system' means a computational process derived from
+49 machine learning, statistical modeling, data analytics, or an artificial intelligence system
+50 that, when deployed, issues a simplified output, including, but not limited to, a score,
+51 classification, or recommendation, that is used to assist or replace human discretionary
+52 decision making and materially impacts natural persons.
+53 (B) Such term shall not include a tool that does not assist or replace processes for
+54 making consequential decisions and that does not materially impact natural persons,
+55 including, but not limited to, a junk email filter, firewall, antivirus software, calculator,
+56 spreadsheet, or other tool that does no more than organize data already in possession
+57 of the deployer of the automated decision system.
+58 (4) 'Consequential decision' means a decision that has a material effect on the provision
+59 or denial to any consumer of, or on the cost or terms of:
+60 (A) Education enrollment or education opportunities;
+61 (B) Employment or employment opportunities;
+62 (C) Essential government services;
+63 (D) Financial or lending services;
+64 (E) Healthcare services;
+65 (F) Housing;
+66 (G) Insurance; or
+67 (H) Legal services.
+S. B. 167
+- 3 -
+
+25 LC 56 0255
+68 (5) 'Consumer' means an individual who is a Georgia resident.
+69 (6) 'Deploy' means to use an automated decision system.
+70 (7) 'Deployer' means a person doing business in this state that deploys an automated
+71 decision system.
+72 (8) 'Developer' means a person doing business in this state that develops or intentionally
+73 and substantially modifies an artificial intelligence system.
+74 (9) 'Healthcare services' shall have the same meaning as set forth in 42 U.S.C. Section
+75 234(d)(2).
+76 (10)(A) 'Intentional and substantial modification' or 'intentionally and substantially
+77 modify' means a deliberate change made to an AI system that results in any increase in
+78 or new reasonably foreseeable risk of algorithmic discrimination by such AI system.
+79 (B) Such term shall not include a change made to an automated decision system if:
+80 (i) The automated decision system continues to learn after the automated decision
+81 system is:
+82 (I) Offered, sold, leased, licensed, given, or otherwise made available to a deployer;
+83 or
+84 (II) Deployed;
+85 (ii) The change is made to the automated decision system as a result of any learning
+86 described in division (i) of this subparagraph;
+87 (iii) The change was predetermined by the deployer, or a third party contracted by the
+88 deployer, when the deployer or third party completed an initial impact assessment of
+89 such automated decision system pursuant to subsection (e) of Code Section 10-16-3;
+90 and
+91 (iv) The change is included in technical documentation for the automated decision
+92 system.
+93 (11) 'Personal data' means any information, including derived data and unique identifiers,
+94 that is linked or reasonably linkable, alone or in combination with other information, to
+S. B. 167
+- 4 -
+
+25 LC 56 0255
+95 an identified or identifiable individual or a device that identifies or is linked or reasonably
+96 linkable to an individual.
+97 (12) 'Trade secret' shall have the same meaning as set forth in Code Section 10-1-761.
+98 10-16-2.
+99 (a) No developer shall sell, distribute, or otherwise make available to deployers an
+100 automated decision system that results in algorithmic discrimination.
+101 (b) Except as provided in subsection (f) of this Code section, a developer of an automated
+102 decision system shall provide certain information regarding such automated decision
+103 system to the Attorney General, in a form and manner prescribed by the Attorney General.
+104 Such information shall include, at a minimum:
+105 (1) A general statement describing the reasonably foreseeable uses and known harmful
+106 or inappropriate uses of the automated decision system;
+107 (2) Documentation disclosing:
+108 (A) The purpose of the automated decision system;
+109 (B) The intended benefits and uses of the automated decision system;
+110 (C) High-level summaries of the types of data used to train the automated decision
+111 system;
+112 (D) Known or reasonably foreseeable limitations of the automated decision system,
+113 including known or reasonably foreseeable risks of algorithmic discrimination arising
+114 from the intended uses of the automated decision system;
+115 (E) The measures the developer has taken to mitigate known or reasonably foreseeable
+116 risks of algorithmic discrimination;
+117 (F) How the automated decision system was evaluated for performance and mitigation
+118 of algorithmic discrimination before the automated decision system was offered, sold,
+119 leased, licensed, given, or otherwise made available to the deployer;
+S. B. 167
+- 5 -
+
+25 LC 56 0255
+120 (G) The data governance measures used to cover the training data sets and the
+121 measures used to examine the suitability of data sources, possible biases, and
+122 appropriate mitigation;
+123 (H) How the automated decision system should be used, not be used, and be monitored
+124 by an individual when the automated decision system is used to make, or assist in
+125 making, a consequential decision; and
+126 (I) All other information necessary to allow the deployer to comply with the
+127 requirements of Code Section 10-16-3; and
+128 (3) Any additional documentation that is reasonably necessary to assist the deployer in
+129 understanding the outputs and monitoring the performance of the automated decision
+130 system for risks of algorithmic discrimination.
+131 (c)(1) Except as provided in subsection (f) of this Code section, a developer that offers,
+132 sells, leases, licenses, gives, or otherwise makes available to a deployer or other
+133 developer an automated decision system shall make available to the deployer or other
+134 developer, to the extent feasible, all of the information required to be provided to the
+135 Attorney General by subsection (b) of this Code section, as well as the documentation
+136 and information, through artifacts such as model cards, data set cards, or other impact
+137 assessments, necessary for a deployer or third party contracted by a deployer to complete
+138 an impact assessment pursuant to subsection (e) of Code Section 10-16-3.
+139 (2) A developer that also serves as a deployer for an automated decision system is not
+140 required to generate the documentation required by this subsection unless the automated
+141 decision system is provided to an unaffiliated entity acting as a deployer.
+142 (d)(1) A developer shall make available to the public, in a manner that is clear and
+143 readily available on the developer's public website or in a public use case inventory, a
+144 statement summarizing:
+S. B. 167
+- 6 -
+
+25 LC 56 0255
+145 (A) The types of automated decision systems that the developer has developed or
+146 intentionally and substantially modified and currently makes available to a deployer or
+147 other developer; and
+148 (B) How the developer manages known or reasonably foreseeable risks of algorithmic
+149 discrimination.
+150 (2) A developer shall update the statement described in paragraph (1) of this subsection:
+151 (A) As necessary to ensure that the statement remains accurate; and
+152 (B) No later than 90 days after the developer intentionally and substantially modifies
+153 any automated decision system described in such statement.
+154 (e)(1) A developer of an automated decision system shall take steps to address risks of
+155 algorithmic discrimination, invalidity, and errors, including, but not limited to, ensuring
+156 suitability and representativeness of data sources, implementing data governance
+157 measures, testing the automated decision system for disparate impact, and searching for
+158 less discriminatory alternative decision methods. Developers shall continue assessing
+159 and mitigating the risk of algorithmic discrimination in their automated decision systems
+160 so long as such automated decision systems are in use by any deployer.
+161 (2) A developer of an automated decision system shall disclose to the Attorney General,
+162 in a form and manner prescribed by the Attorney General, and to all known deployers or
+163 other developers of the automated decision system, any known or reasonably foreseeable
+164 risks of algorithmic discrimination arising from the intended uses of the automated
+165 decision system without unreasonable delay but no later than 90 days after the date on
+166 which:
+167 (A) The developer discovers through the developer's ongoing testing and analysis that
+168 the developer's automated decision system has been deployed and has caused or is
+169 reasonably likely to have caused algorithmic discrimination; or
+170 (B) The developer receives from a deployer a credible report that the automated
+171 decision system has been deployed and has caused algorithmic discrimination.
+S. B. 167
+- 7 -
+
+25 LC 56 0255
+172 (f)(1) A developer who discloses information to a deployer, to a consumer, or to the
+173 general public pursuant to subsections (b) through (e) of this Code section may make
+174 reasonable redactions for the purpose of protecting trade secrets.
+175 (2) No developer shall redact information from its required disclosures to a deployer
+176 under this Code section if the information is necessary for the deployer to comply with
+177 its disclosure, explanation, impact assessment, or audit obligations under this chapter.
+178 (3) To the extent that a developer redacts information pursuant to paragraph (1) of this
+179 subsection, the developer shall notify the subjects of the disclosure and provide a basis
+180 for the redaction.
+181 (g) The Attorney General may require that a developer disclose to the Attorney General,
+182 within seven days and in a form and manner prescribed by the Attorney General, any
+183 documentation or records required by this Code section, including, but not limited to, the
+184 statement or documentation described in subsection (b) of this Code section. The Attorney
+185 General may evaluate such statement or documentation to ensure compliance with this
+186 chapter, and, notwithstanding the provisions of Article 4 of Chapter 18 of Title 50, relating
+187 to open records, such records shall not be open to inspection by or made available to the
+188 public. In a disclosure pursuant to this subsection, a developer may designate the statement
+189 or documentation as including proprietary information or a trade secret. To the extent that
+190 any information contained in the statement or documentation includes information subject
+191 to attorney-client privilege or work-product protection, the disclosure does not constitute
+192 a waiver of the privilege or protection.
+193 (h) A developer's compliance with this Code section shall not constitute a defense in a civil
+194 or administrative action regarding claims that the developer violated any other provision
+195 of this chapter or any other law.
+S. B. 167
+- 8 -
+
+25 LC 56 0255
+196 10-16-3.
+197 (a) No deployer of an automated decision system shall use an automated decision system
+198 in a manner that results in algorithmic discrimination.
+199 (b) Except as provided in Code Section 10-16-6, a deployer of an automated decision
+200 system shall implement a risk management policy and program to govern the deployer's
+201 deployment of the automated decision system. The risk management policy and program
+202 shall specify and incorporate the principles, processes, and personnel that the deployer uses
+203 to identify, document, and mitigate known or reasonably foreseeable risks of algorithmic
+204 discrimination. The risk management policy and program shall be an iterative process
+205 planned, implemented, and regularly and systematically reviewed and updated over the life
+206 cycle of an automated decision system, requiring regular, systematic review and updates.
+207 A risk management policy and program implemented and maintained pursuant to this
+208 subsection shall take into consideration:
+209 (1) Either:
+210 (A) The guidance and standards set forth in the latest version of the Artificial
+211 Intelligence Risk Management Framework published by the National Institute of
+212 Standards and Technology of the United States Department of Commerce, standard
+213 ISO/IEC 42001 of the International Organization for Standardization, or another
+214 nationally or internationally recognized risk management framework for artificial
+215 intelligence systems, if the standards are substantially equivalent to or more stringent
+216 than the requirements of this chapter; or
+217 (B) Any risk management framework for artificial intelligence systems that the
+218 Attorney General, in the Attorney General's discretion, may designate;
+219 (2) The size and complexity of the deployer;
+220 (3) The nature and scope of the automated decision systems deployed by the deployer,
+221 including the intended uses of the automated decision systems; and
+S. B. 167
+- 9 -
+
+25 LC 56 0255
+222 (4) The sensitivity and volume of data processed in connection with the automated
+223 decision systems deployed by the deployer.
+224 (c) A risk management policy and program implemented pursuant to this Code section
+225 may cover multiple automated decision systems deployed by the deployer.
+226 (d) Each deployer shall establish and adhere to:
+227 (1) Written standards, policies, procedures, and protocols for the acquisition, use of, or
+228 reliance on automated decision systems developed by third-party developers, including
+229 reasonable contractual controls ensuring that the developer statements and summaries
+230 described in subsection (b) of Code Section 10-16-2 include all information necessary for
+231 the deployer to fulfill its obligations under this Code section;
+232 (2) Procedures for reporting any incorrect information or evidence of algorithmic
+233 discrimination to a developer for further investigation and mitigation, as necessary; and
+234 (3) Procedures to remediate and eliminate incorrect information from its automated
+235 decision systems that the deployer has identified or has been reported to a developer.
+236 (e) Except as otherwise provided for in this chapter:
+237 (1) A deployer, or a third party contracted by the deployer, that deploys an automated
+238 decision system shall complete an impact assessment for the automated decision system;
+239 and
+240 (2) A deployer, or a third party contracted by the deployer, shall complete an impact
+241 assessment for a deployed automated decision system at least annually and within 90
+242 days after any intentional and substantial modification to the automated decision system
+243 is made available.
+244 (f) An impact assessment completed pursuant to subsection (e) of this Code section shall
+245 include, at a minimum, and to the extent reasonably known by or available to the deployer:
+246 (1) A statement by the deployer disclosing the purpose, intended use cases, and
+247 deployment context of, and benefits afforded by, the automated decision system;
+S. B. 167
+- 10 -
+
+25 LC 56 0255
+248 (2) An analysis of whether the deployment of the automated decision system poses any
+249 known or reasonably foreseeable risks of:
+250 (A) Algorithmic discrimination and, if so, the nature of the algorithmic discrimination
+251 and the steps that have been taken to mitigate the risks;
+252 (B) Limits on accessibility for individuals who are pregnant, breastfeeding, or disabled,
+253 and, if so, what reasonable accommodations the deployer may provide that would
+254 mitigate any such limitations on accessibility;
+255 (C) Any violation of state or federal labor laws, including laws pertaining to wages,
+256 occupational health and safety, and the right to organize; or
+257 (D) Any physical or other intrusion upon the solitude or seclusion, or the private affairs
+258 or concerns, of consumers if such intrusion:
+259 (i) Would be offensive to a reasonable person; and
+260 (ii) May be redressed under the laws of this state;
+261 (3) A description of the categories of data the automated decision system processes as
+262 inputs and the outputs the automated decision system produces;
+263 (4) If the deployer used data to customize the automated decision system, an overview
+264 of the categories of data the deployer used to customize the automated decision system;
+265 (5) An analysis of the automated decision system's validity and reliability in accordance
+266 with contemporary social science standards, and a description of any metrics used to
+267 evaluate the performance and known limitations of the automated decision system;
+268 (6) A description of any transparency measures taken concerning the automated decision
+269 system, including any measures taken to disclose to a consumer that the automated
+270 decision system is in use when the automated decision system is in use;
+271 (7) A description of the post-deployment monitoring and user safeguards provided
+272 concerning the automated decision system, including the oversight, use, and learning
+273 process established by the deployer to address issues arising from the deployment of the
+274 automated decision system; and
+S. B. 167
+- 11 -
+
+25 LC 56 0255
+275 (8) When such impact assessment is completed following an intentional and substantial
+276 modification to an automated decision system, a statement disclosing the extent to which
+277 the automated decision system was used in a manner that was consistent with, or varied
+278 from, the developer's intended uses of the automated decision system.
+279 (g) If the analysis required by paragraph (2) of subsection (f) of this Code section reveals
+280 a risk of algorithmic discrimination, the deployer shall not deploy the automated decision
+281 system until the developer or deployer takes reasonable steps to search for and implement
+282 less discriminatory alternative decision methods.
+283 (h) A single impact assessment may address a comparable set of automated decision
+284 systems deployed by a deployer.
+285 (i) If a deployer, or a third party contracted by the deployer, completes an impact
+286 assessment for the purpose of complying with another applicable law or regulation, the
+287 impact assessment shall satisfy the requirements established in this Code section if the
+288 impact assessment is reasonably similar in scope and effect to the impact assessment that
+289 would otherwise be completed pursuant to this Code section.
+290 (j) A deployer shall maintain the most recently completed impact assessment for an
+291 automated decision system, all records concerning each impact assessment, and all prior
+292 impact assessments, if any, throughout the period of time that the automated decision
+293 system is deployed and for at least three years following the final deployment of the
+294 automated decision system.
+295 (k) At least annually a deployer, or a third party contracted by the deployer, shall review
+296 the deployment of each automated decision system deployed by the deployer to ensure that
+297 the automated decision system is not causing algorithmic discrimination.
+298 (l) Deployers shall publish on their public websites all impact assessments completed
+299 within the preceding three years in a form and manner prescribed by the Attorney General.
+S. B. 167
+- 12 -
+
+25 LC 56 0255
+300 10-16-4.
+301 (a) No later than the time that a deployer deploys an automated decision system to make,
+302 or assist in making, a consequential decision concerning a consumer, the deployer shall:
+303 (1) Notify the consumer that the deployer has deployed an automated decision system
+304 to make, or assist in making, a consequential decision; and
+305 (2) Provide to the consumer:
+306 (A) A statement disclosing the purpose of the automated decision system and the
+307 nature of the consequential decision;
+308 (B) The contact information for the deployer;
+309 (C) A description, in plain language, of the automated decision system, which
+310 description shall, at a minimum, include:
+311 (i) A description of the personal characteristics or attributes that the system will
+312 measure or assess;
+313 (ii) The method by which the system measures or assesses those attributes or
+314 characteristics;
+315 (iii) How those attributes or characteristics are relevant to the consequential decisions
+316 for which the system should be used;
+317 (iv) Any human components of such system;
+318 (v) How any automated components of such system are used to inform such
+319 consequential decision; and
+320 (vi) A direct link to a publicly accessible page on the deployer's public website that
+321 contains a plain-language description of the logic used in the system, including the
+322 key parameters that affect the output of the system; the system's outputs; the types and
+323 sources of data collected from natural persons and processed by the system when it
+324 is used to make, or assists in making, a consequential decision; and the results of the
+325 most recent impact assessment, or an active link to a web page where a consumer can
+326 review those results; and
+S. B. 167
+- 13 -
+
+25 LC 56 0255
+327 (D) Instructions on how to access the statement required by Code Section 10-16-5.
+328 (b) A deployer that has used an automated decision system to make, or assist in making,
+329 a consequential decision concerning a consumer shall transmit to such consumer within one
+330 business day after such decision a notice that includes:
+331 (1) A specific and accurate explanation that identifies the principal factors and variables
+332 that led to the consequential decision, including:
+333 (A) The degree to which, and manner in which, the automated decision system
+334 contributed to the consequential decision;
+335 (B) The source or sources of the data processed by the automated decision system; and
+336 (C) A plain-language explanation of how the consumer's personal data informed these
+337 principal factors and variables when the automated decision system made, or assisted
+338 in making, the consequential decision;
+339 (2) Information about consumers' right to correct, and how the consumer can submit
+340 corrections and provide supplementary information relevant to, the consequential
+341 decision;
+342 (3) What actions, if any, the consumer might have taken to secure a different decision
+343 and the actions that the consumer might take to secure a different decision in the future;
+344 (4) Information on opportunities to correct any incorrect personal data that the automated
+345 decision system processed in making, or assisting in making, the consequential decision;
+346 and
+347 (5) Information on opportunities to appeal an adverse consequential decision concerning
+348 the consumer arising from the deployment of an automated decision system, which
+349 appeal shall, if technically feasible, allow for human review.
+350 (c)(1) A deployer shall provide the notice, statement, contact information, and
+351 description required by subsections (a) and (b) of this Code section:
+352 (A) Directly to the consumer;
+353 (B) In plain language;
+S. B. 167
+- 14 -
+
+25 LC 56 0255
+354 (C) In all languages in which the deployer, in the ordinary course of the deployer's
+355 business, provides contracts, disclaimers, sale announcements, and other information
+356 to consumers; and
+357 (D) In a format that is accessible to consumers with disabilities.
+358 (2) If the deployer is unable to provide the notice, statement, contact information, and
+359 description directly to the consumer, the deployer shall make such information available
+360 in a manner that is reasonably calculated to ensure that the consumer receives it.
+361 (d) No deployer shall use an automated decision system to make, or assist in making, a
+362 consequential decision if it cannot provide notices and explanations that satisfy the
+363 requirements of this Code section.
+364 10-16-5.
+365 (a) Except as provided in Code Section 10-16-6, a deployer shall make available, in a
+366 manner that is clear and readily available on the deployer's public website, a statement
+367 summarizing:
+368 (1) The types of automated decision systems that are currently deployed by the deployer;
+369 (2) How the deployer manages known or reasonably foreseeable risks of algorithmic
+370 discrimination that may arise from the deployment of each such automated decision
+371 system; and
+372 (3) In detail, the nature, source, and extent of the information collected and used by the
+373 deployer.
+374 (b) A deployer shall periodically update the statement described in subsection (a) of this
+375 Code section.
+376 10-16-6.
+377 The provisions of subsections (b) and (e) of Code Section 10-16-3 shall not apply to a
+378 deployer when:
+S. B. 167
+- 15 -
+
+25 LC 56 0255
+379 (1) The automated decision system is used to make, or is a contributing factor in making,
+380 consequential decisions about fewer than 1,000 consumers in the preceding calendar year;
+381 and
+382 (2) At the time the deployer deploys the automated decision system and at all times while
+383 the automated decision system is deployed:
+384 (A) The deployer employs fewer than 15 full-time equivalent employees;
+385 (B) The deployer does not use the deployer's own data to train the automated decision
+386 system;
+387 (C) The automated decision system is used for the intended uses that are disclosed to
+388 the deployer as required by subsection (b) of Code Section 10-16-2;
+389 (D) The automated decision system continues learning based on data derived from
+390 sources other than the deployer's own data;
+391 (E) The deployer makes available to consumers any impact assessment that the
+392 developer of the automated decision system has completed and provided to the
+393 deployer; and
+394 (F) The deployer makes available to consumers any impact assessment that includes
+395 information that is substantially similar to the information in the impact assessment
+396 required under subsection (f) of Code Section 10-16-3.
+397 10-16-7.
+398 If a deployer deploys an automated decision system and subsequently discovers that the
+399 automated decision system has caused algorithmic discrimination, the deployer, without
+400 unreasonable delay, but no later than 90 days after the date of the discovery, shall send to
+401 the Attorney General, in a form and manner prescribed by the Attorney General, a notice
+402 disclosing the discovery.
+S. B. 167
+- 16 -
+
+25 LC 56 0255
+403 10-16-8.
+404 A deployer who discloses information to the Attorney General, to a consumer, or to the
+405 general public pursuant to this chapter may make reasonable redactions for the purpose of
+406 protecting trade secrets. To the extent that a deployer redacts or withholds information
+407 pursuant to this Code section, the deployer shall notify the consumer and provide a basis
+408 for the redaction or withholding. Such notification shall comply with the requirements of
+409 subsection (c) of Code Section 10-16-4.
+410 10-16-9.
+411 The Attorney General may require that a deployer, or a third party contracted by the
+412 deployer, disclose to the Attorney General, no later than seven days after and in a form and
+413 manner prescribed by the Attorney General, any documentation or records required by this
+414 chapter. The Attorney General may evaluate the risk management policy, impact
+415 assessment, or records to ensure compliance with this chapter, and the risk management
+416 policy, impact assessment, and such records, notwithstanding the provisions of Article 4
+417 of Chapter 18 of Title 50, relating to open records, shall not be open to inspection by or
+418 made available to the public. In a disclosure pursuant to this Code section, a deployer may
+419 designate the statement or documentation as including proprietary information or a trade
+420 secret. To the extent that any information contained in the risk management policy, impact
+421 assessment, or records is subject to attorney-client privilege or work-product protection,
+422 the disclosure does not constitute a waiver of the privilege or protection.
+423 10-16-10.
+424 A deployer's compliance with the provisions of this chapter shall not constitute a defense
+425 in a civil or administrative action regarding claims that the deployer violated any other
+426 provision of this chapter or any other law.
+S. B. 167
+- 17 -
+
+25 LC 56 0255
+427 10-16-11.
+428 (a) Except as provided in subsection (b) of this Code section, a deployer or other developer
+429 that deploys, offers, sells, leases, licenses, gives, or otherwise makes available an artificial
+430 intelligence system that is intended to interact with consumers shall ensure the disclosure
+431 to each consumer who interacts with the artificial intelligence system that the consumer is
+432 interacting with an artificial intelligence system.
+433 (b) Disclosure is not required under subsection (a) of this Code section under
+434 circumstances in which it would be obvious to a reasonable person that the person is
+435 interacting with an artificial intelligence system.
+436 10-16-12.
+437 (a) Nothing in this chapter shall be construed to restrict a developer's, a deployer's, or other
+438 person's ability to:
+439 (1) Comply with federal, state, or municipal laws, ordinances, or regulations;
+440 (2) Comply with a civil, criminal, or regulatory inquiry, investigation, subpoena, or
+441 summons by a federal, state, municipal, or other governmental authority;
+442 (3) Cooperate with a law enforcement agency concerning conduct or activity that the
+443 developer, deployer, or other person reasonably and in good faith believes may violate
+444 federal, state, or municipal laws, ordinances, or regulations;
+445 (4) Comply with the rules of evidence in an ongoing court proceeding;
+446 (5) Take immediate steps to protect an interest that is essential for the life or physical
+447 safety of a consumer or another individual;
+448 (6) Conduct research, testing, and development activities regarding an artificial
+449 intelligence system or model, other than testing conducted under real-world conditions,
+450 before the artificial intelligence system or model is used to make, or assist in making, a
+451 consequential decision, or is otherwise placed on the market, deployed, or put into
+452 service, as applicable;
+S. B. 167
+- 18 -
+
+25 LC 56 0255
+453 (7) Effectuate a product recall; or
+454 (8) Assist another developer, deployer, or person with any of the obligations imposed
+455 under this chapter.
+456 (b) Nothing in this chapter applies to any artificial intelligence system that is acquired by
+457 or for the federal government or any federal agency or department, including the United
+458 States Department of Commerce, the United States Department of Defense, or the National
+459 Aeronautics and Space Administration, unless the artificial intelligence system is an
+460 automated decision system that is used to make, or assist in making, a decision concerning
+461 employment or housing.
+462 (c) If a developer, a deployer, or other person engages in an action pursuant to an
+463 exemption set forth in this Code section, such developer, deployer, or other person bears
+464 the burden of demonstrating that the action qualifies for the exemption.
+465 (d) If a developer or deployer withholds information pursuant to an exemption set forth
+466 in this Code section for which disclosure would otherwise be required by this chapter, such
+467 developer or deployer shall notify the subject of disclosure and provide a basis for
+468 withholding the information. Such notification shall comply with the requirements of
+469 subsection (c) of Code Section 10-16-4.
+470 10-16-13.
+471 (a) A violation of the requirements established in this chapter shall be enforceable through
+472 the provisions of Part 2 of Article 15 of Chapter 1 of this title, the 'Fair Business Practices
+473 Act of 1975.'
+474 (b) In any action commenced by the Attorney General to enforce this chapter, it is an
+475 affirmative defense that the developer, deployer, or other person:
+476 (1) Discovers a violation of this chapter as a result of:
+477 (A) Adversarial testing or red teaming, as those terms are defined or used by the
+478 National Institute of Standards and Technology; or
+S. B. 167
+- 19 -
+
+25 LC 56 0255
+479 (B) An internal review process;
+480 (2) Cures the violation within seven days and reports the violation to the Attorney
+481 General and any affected consumers;
+482 (3) Is otherwise in compliance with the provisions of this chapter and:
+483 (A) The latest version of the Artificial Intelligence Risk Management Framework
+484 published by the National Institute of Standards and Technology of the United States
+485 Department of Commerce and standard ISO/IEC 42001 of the International
+486 Organization for Standardization;
+487 (B) Another nationally or internationally recognized risk management framework for
+488 artificial intelligence systems, if the standards are substantially equivalent to or more
+489 stringent than the requirements of this chapter; or
+490 (C) Any risk management framework for artificial intelligence systems that the
+491 Attorney General, in the Attorney General's discretion, may designate and, if
+492 designated, shall publicly disseminate; and
+493 (4) Demonstrates that the violation was inadvertent, affected fewer than 100 consumers,
+494 and could not have been discovered through reasonable diligence.
+495 (c) A developer, deployer, or other person bears the burden of demonstrating to the
+496 Attorney General that the requirements of subsection (b) of this Code section have been
+497 satisfied.
+498 (d) Nothing in this chapter, including the enforcement authority granted to the Attorney
+499 General under this Code section, preempts or otherwise affects any right, claim, remedy,
+500 presumption, or defense available at law or in equity. A rebuttable presumption or
+501 affirmative defense established under this chapter applies only to an enforcement action
+502 brought by the Attorney General pursuant to this Code section and does not apply to any
+503 right, claim, remedy, presumption, or defense available at law or in equity.
+S. B. 167
+- 20 -
+
+25 LC 56 0255
+504 10-16-14.
+505 The Attorney General may promulgate rules as necessary for the purpose of implementing
+506 and enforcing this chapter.
+507 10-16-15.
+508 This chapter is declared to be remedial, with the purposes of protecting consumers and
+509 ensuring consumers receive information about consequential decisions affecting them. The
+510 provisions of this chapter granting rights or protections to consumers shall be construed
+511 broadly and exemptions construed narrowly."
+512 SECTION 2.
+513 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 167
+- 21 -
+
+[DELETED: 5L a a d s t p r f s d b G t p f d t p f r m t r]
+[DELETED: 5L a m t d c a d i o o m  T d o d s t i m o p]
+[DELETED: 5L i b n l t l g r p a o c p h t a i m v i t f o i t c r a i t h]
+[DELETED: 5L]
+[DELETED: 5L  N d s s d o o m a t d a s s p c i r s a d]
+[DELETED: 5L  T d g m u t c t t d s a t u t e t s o d s p b a  A o i n t a t d t c w t l l g o o m a t a d o o]
+[DELETED: 5L a r o d s i d g]
+[DELETED: 5L]
+[DELETED: 5L  T g a s s f i t l v o t A R M F p b t N I o 4 o t I O f S o a o i r r m f f a  A r m f f a i s t t]
+[DELETED: 5L  P f r a i i o e o a  A s b t d d t p i u c a]
+[DELETED: 5L]
+[DELETED: 5L  I a d o a t p c b t d c a i]
+[DELETED: 5L  A d i p l o t a d s w  T m b w t s m o a t a o  H a a c o s s a u t i s]
+[DELETED: 5L  T d t w a m i w t a d s a p s i r t t c  A d s p t n s c i a]
+[DELETED: 5L d i i c p n a e t s t]
+[DELETED: 5L  T d m a t c a i a t t o t a d s h c a p t t]
+[DELETED: 5L  T A G m e t r m p i]
+[DELETED: 5L  D i n r u s ( o t C s u  C r t a d a r a a]
+[DELETED: 5L a S A u t a i s i a  I a d a d o o p e i a a p t a o d s n t s o d a p a b f]
+[DELETED: 5L o C a s I 4 o t I  A r m f f a i s t t G i t A G d m d a i o d a a l o i e  A r p o]
+[DELETED: 5L]

@@ -1,0 +1,446 @@
+Title: House Bill 558
+Official Title: House Bill 558
+Number of Sections: 1
+Source: versions - LC 61 0142/a
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25 LC 61 0142
+By: Representatives Gaines of the 120th, Dempsey of the 13th, and Newton of the 127th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 4 of Title 20 of the Official Code of Georgia Annotated, relating to
+2 vocational, technical, and adult education, so as to authorize the State Board of the Technical
+3 College System of Georgia to establish the adult workforce high school diploma program;
+4 to provide for the selection of third-party providers to administer the program; to provide
+5 requirements for approved program providers; to provide for disbursement of funds to
+6 approved program providers; to provide for reporting; to provide for definitions; to provide
+7 for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Chapter 4 of Title 20 of the Official Code of Georgia Annotated, relating to vocational,
+11 technical, and adult education, is amended by adding a new article to read as follows:
+12
+13 "ARTICLE 9
+14 20-4-170.
+15 As used in this article, the term:
+H. B. 558
+- 1 -
+25 LC 61 0142
+16 (1) 'Academic skill intake assessment' means a criterion referenced assessment of
+17 numeracy and literacy skill with high reliability and validity as determined by third-party
+18 research, which assessment may be administered in person or online.
+19 (2) 'Adult workforce high school diploma program' and 'program' mean the program
+20 provided for in this article.
+21 (3) 'Approved program provider' means a third-party entity that applies to participate in
+22 the program, is approved by the state board, and agrees to meet all program requirements.
+23 (4) 'Average cost per graduate' means the average cost per graduate calculated in
+24 accordance with Code Section 20-4-172.
+25 (5) 'Cohort' means all students who enter the program between July 1 and June 30 of
+26 each program year.
+27 (6) 'Eligible student' means an individual who:
+28 (A) Resides in this state;
+29 (B) Is between 21 and 40 years of age at the time of enrollment;
+30 (C) Has not attained a high school diploma;
+31 (D) Does not meet any of the ineligibility criteria provided for in subsection (b) of
+32 Code Section 20-3-519.1; and
+33 (E) Has previously been enrolled in a public primary or secondary school or adult
+34 education program in this state.
+35 (7) 'Employability skills certification' means a certificate earned by demonstrating
+36 professional nontechnical skills through assessment and includes, but is not limited to,
+37 the program standards of the United States Department of Labor's 'Skills to Pay the Bills:
+38 Mastering Soft Skills for Workplace Success' program.
+39 (8) 'Graduation rate' means the graduation rate calculated in accordance with Code
+40 Section 20-4-172.
+H. B. 558
+- 2 -
+25 LC 61 0142
+41 (9) 'Industry recognized credential' means an education related credential or work related
+42 credential that verifies an individual's qualification or competence and is issued by an
+43 entity with the authority to issue such credential.
+44 (10) 'Measurement period' means the two-year period beginning July 1 of the year the
+45 cohort begins through June 30 of the subsequent fiscal year.
+46 (11) 'Milestones' means measures of student progress for which funds are disbursed to
+47 approved program providers pursuant to Code Section 20-4-173.
+48 (12) 'Program funding' means funding received by an approved program provider
+49 pursuant to Code Section 20-4-173.
+50 (13) 'Program year' means the period beginning on July 1 of each year and ending on
+51 June 30 of the immediately following year.
+52 (14) 'Stackable credential' means a credential that is part of a sequence of credentials that
+53 can be accumulated over time to build up an individual's qualifications to advance along
+54 a career pathway.
+55 (15) 'State board' means the State Board of the Technical College System of Georgia.
+56 (16) 'Transcript evaluation' means a documented summary of credits earned in previous
+57 public or private accredited high schools compared with this state's requirements to earn
+58 a high school diploma.
+59 (17) 'Workforce credential' means an industry recognized credential or a stackable
+60 credential.
+61 20-4-171.
+62 (a) The state board shall be authorized to establish the adult workforce high school
+63 diploma program to allow eligible students to qualify for enrollment in the program, and
+64 upon successful completion of the program, to be awarded a high school diploma.
+H. B. 558
+- 3 -
+25 LC 61 0142
+65 (b) The state board shall be authorized to approve program providers to administer the
+66 program. Such approved program providers shall be selected through an application
+67 process, which application process shall be as follows:
+68 (1) Not later than August 15 of each year, the state board shall make available an
+69 application for third-party entities to apply to become approved program providers;
+70 (2) Not later than September 15 of each year, the state board shall review applications,
+71 approve program providers that meet the requirements set forth in this article, and make
+72 available a list of approved program providers on the state board's public website; and
+73 (3) Approved program providers shall be authorized to begin enrolling eligible students
+74 upon being approved by the state board as an approved program provider.
+75 (c) To implement the program, notwithstanding any other provision of law to the contrary,
+76 the state board shall be authorized to waive or provide variances to state rules, regulations,
+77 policies, and procedures and to seek waivers or variances of federal laws, rules, regulations,
+78 policies, and procedures that may be reasonably necessary to meet the goals of the
+79 program.
+80 (d) The state board shall be authorized to promulgate rules and regulations necessary to
+81 implement the provisions of this article.
+82 20-4-172.
+83 (a) Approved program providers shall:
+84 (1) Be accredited by:
+85 (A) Southern Association of Colleges and Schools Commission on Colleges;
+86 (B) New England Association of Colleges and Schools;
+87 (C) Middle States Commission on Higher Education;
+88 (D) Accrediting Commission for Schools, Western Association of Schools and
+89 Colleges;
+90 (E) Northwest Commission on Colleges and Universities;
+H. B. 558
+- 4 -
+25 LC 61 0142
+91 (F) Georgia Accrediting Commission;
+92 (G) Higher Learning Commission;
+93 (H) Accrediting Commission for Community and Junior Colleges;
+94 (I) Cognia; or
+95 (J) A successor entity or consolidation of any of the above entities;
+96 (2) Offer the following to eligible students at no cost to such students:
+97 (A) Academic skill intake assessments and transcript evaluations for eligible students;
+98 (B) A documented plan for each eligible student that shall include the requirements for
+99 such student to complete the program and earn a high school diploma;
+100 (C) Remedial education services in numeracy and literacy;
+101 (D) A course catalog that includes all courses necessary to earn a high school diploma;
+102 (E) One or more programs through which eligible students can earn a workforce
+103 credential;
+104 (F) One or more programs through which eligible students can earn an employability
+105 skills certification;
+106 (G) One or more courses that help eligible students enter or advance within a specific
+107 occupation or occupational cluster; and
+108 (H) All courses necessary to meet the requirements to earn a high school diploma;
+109 (3) Have a graduation rate of not less than 50 percent; and
+110 (4) Have an average cost per graduate of not more than $7,500.00.
+111 (b) If an approved program provider fails to meet the standards set forth in paragraphs (3)
+112 and (4) of subsection (a) of this Code section, the state board shall place such approved
+113 program provider on probationary status for the remainder of the program year. If an
+114 approved program provider fails to meet such standards by the end of the subsequent
+115 program year, such approved program provider shall no longer be an approved program
+116 provider.
+H. B. 558
+- 5 -
+25 LC 61 0142
+117 (c)(1) Average cost per graduate shall be calculated by dividing the total program
+118 funding disbursed to an approved program provider for a cohort during the time period
+119 from the beginning of the cohort through the end of the measurement period by the total
+120 number of students in that cohort who earned a high school diploma during the
+121 measurement period.
+122 (2) Graduation rate shall be calculated by dividing the number of students in a cohort
+123 who earned a high school diploma during the measurement period by the number of
+124 students in such cohort for which such approved program provider has received program
+125 funding.
+126 20-4-173.
+127 (a)(1) Subject to appropriations specifically for the purpose of the program, the state
+128 board shall be authorized to disburse funds appropriated by the General Assembly for the
+129 implementation of the program to approved program providers for the following
+130 milestones reached by students in amounts not to exceed:
+131 (A) For the completion of each half unit of high school credit when such credit is
+132 required to earn a high school diploma, $275.00;
+133 (B) For each employability skills certification earned by a student, $275.00;
+134 (C) For each workforce credential earned by a student when such credential requires
+135 not more than 50 hours of training, $275.00;
+136 (D) For each workforce credential earned by a student when such credential requires
+137 more than 50 but not more than 100 hours of training, $550.00;
+138 (E) For each workforce credential earned by a student when such credential requires
+139 more than 100 hours of training, $825.00; or
+140 (F) For each high school diploma earned by a student, $1,100.00.
+H. B. 558
+- 6 -
+25 LC 61 0142
+141 (2) Funds shall be disbursed pursuant to this subsection to approved program providers
+142 in the order in which the reports required by subsection (b) of this Code section are
+143 received by the state board.
+144 (3) No later than the last day of each month, the state board shall notify approved
+145 program providers of the total amount of funds disbursed to approved program providers
+146 and the amount of funds remaining for the program for the fiscal year.
+147 (b) In order to receive the funds provided for in subsection (a) of this Code section,
+148 approved program providers shall, no later than the tenth day of each month, submit to the
+149 state board a report which shall include all milestones met by students in the previous
+150 month.
+151 (c) Funds received by approved program providers pursuant to this Code section shall be
+152 used for providing and preparing for instruction, instructional materials, and support
+153 services for students, including coaching and mentoring. Such funds shall not be used to
+154 build or expand brick-and-mortar infrastructure.
+155 20-4-174.
+156 (a) Beginning in 2027, no later than August 15 of each year, each approved program
+157 provider shall submit a report to the state board which shall include:
+158 (1) The number of eligible students participating in the program;
+159 (2) The number of units of high school credit earned by such students;
+160 (3) The number of employability skills certificates earned by such students;
+161 (4) The number of workforce credentials earned by such students; and
+162 (5) The number of students who earned a high school diploma through participation in
+163 the program.
+164 (b) Beginning in 2027, no later than December 1 of each year, the state board shall provide
+165 the Governor, the President of the Senate, the Speaker of the House of Representatives, and
+166 the chairpersons of the House Committee on Education, the Senate Education and Youth
+H. B. 558
+- 7 -
+25 LC 61 0142
+167 Committee, the House Committee on Higher Education, and the Senate Higher Education
+168 Committee with a report that includes:
+169 (1) The information reported to the state board pursuant to subsection (a) of this Code
+170 section;
+171 (2) The amount of funds disbursed to each approved program provider and the
+172 milestones for which such funding was disbursed;
+173 (3) The graduation rate for each approved program provider; and
+174 (4) The average cost per graduate for each approved program provider."
+175 SECTION 2.
+176 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 558
+- 8 -
+[DELETED: 5L0,3,7htht]
+[DELETED: 5L  ' s i a m a c r a o  ' c p g m t a c p g c i  ' s c m a c e b d]
+[DELETED: 5L  ' f m f r b a a p p]
+[DELETED: 5L a p t m b r n t m t g o t  A C f S W A o S a]
+[DELETED: 5L]
+[DELETED: 5L o s i t c w e a h s d d t o t p t a p p f t f]
+[DELETED: 5L f p a p f i i m a s]
+[DELETED: 5L  T a o f d t e a p p a t]
+
+
+================================================================================
+
+Raw Text:
+25 LC 61 0142
+House Bill 558
+By: Representatives Gaines of the 120th, Dempsey of the 13th, and Newton of the 127th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 4 of Title 20 of the Official Code of Georgia Annotated, relating to
+2 vocational, technical, and adult education, so as to authorize the State Board of the Technical
+3 College System of Georgia to establish the adult workforce high school diploma program;
+4 to provide for the selection of third-party providers to administer the program; to provide
+5 requirements for approved program providers; to provide for disbursement of funds to
+6 approved program providers; to provide for reporting; to provide for definitions; to provide
+7 for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Chapter 4 of Title 20 of the Official Code of Georgia Annotated, relating to vocational,
+11 technical, and adult education, is amended by adding a new article to read as follows:
+12
+13 "ARTICLE 9
+14 20-4-170.
+15 As used in this article, the term:
+H. B. 558
+- 1 -
+
+25 LC 61 0142
+16 (1) 'Academic skill intake assessment' means a criterion referenced assessment of
+17 numeracy and literacy skill with high reliability and validity as determined by third-party
+18 research, which assessment may be administered in person or online.
+19 (2) 'Adult workforce high school diploma program' and 'program' mean the program
+20 provided for in this article.
+21 (3) 'Approved program provider' means a third-party entity that applies to participate in
+22 the program, is approved by the state board, and agrees to meet all program requirements.
+23 (4) 'Average cost per graduate' means the average cost per graduate calculated in
+24 accordance with Code Section 20-4-172.
+25 (5) 'Cohort' means all students who enter the program between July 1 and June 30 of
+26 each program year.
+27 (6) 'Eligible student' means an individual who:
+28 (A) Resides in this state;
+29 (B) Is between 21 and 40 years of age at the time of enrollment;
+30 (C) Has not attained a high school diploma;
+31 (D) Does not meet any of the ineligibility criteria provided for in subsection (b) of
+32 Code Section 20-3-519.1; and
+33 (E) Has previously been enrolled in a public primary or secondary school or adult
+34 education program in this state.
+35 (7) 'Employability skills certification' means a certificate earned by demonstrating
+36 professional nontechnical skills through assessment and includes, but is not limited to,
+37 the program standards of the United States Department of Labor's 'Skills to Pay the Bills:
+38 Mastering Soft Skills for Workplace Success' program.
+39 (8) 'Graduation rate' means the graduation rate calculated in accordance with Code
+40 Section 20-4-172.
+H. B. 558
+- 2 -
+
+25 LC 61 0142
+41 (9) 'Industry recognized credential' means an education related credential or work related
+42 credential that verifies an individual's qualification or competence and is issued by an
+43 entity with the authority to issue such credential.
+44 (10) 'Measurement period' means the two-year period beginning July 1 of the year the
+45 cohort begins through June 30 of the subsequent fiscal year.
+46 (11) 'Milestones' means measures of student progress for which funds are disbursed to
+47 approved program providers pursuant to Code Section 20-4-173.
+48 (12) 'Program funding' means funding received by an approved program provider
+49 pursuant to Code Section 20-4-173.
+50 (13) 'Program year' means the period beginning on July 1 of each year and ending on
+51 June 30 of the immediately following year.
+52 (14) 'Stackable credential' means a credential that is part of a sequence of credentials that
+53 can be accumulated over time to build up an individual's qualifications to advance along
+54 a career pathway.
+55 (15) 'State board' means the State Board of the Technical College System of Georgia.
+56 (16) 'Transcript evaluation' means a documented summary of credits earned in previous
+57 public or private accredited high schools compared with this state's requirements to earn
+58 a high school diploma.
+59 (17) 'Workforce credential' means an industry recognized credential or a stackable
+60 credential.
+61 20-4-171.
+62 (a) The state board shall be authorized to establish the adult workforce high school
+63 diploma program to allow eligible students to qualify for enrollment in the program, and
+64 upon successful completion of the program, to be awarded a high school diploma.
+H. B. 558
+- 3 -
+
+25 LC 61 0142
+65 (b) The state board shall be authorized to approve program providers to administer the
+66 program. Such approved program providers shall be selected through an application
+67 process, which application process shall be as follows:
+68 (1) Not later than August 15 of each year, the state board shall make available an
+69 application for third-party entities to apply to become approved program providers;
+70 (2) Not later than September 15 of each year, the state board shall review applications,
+71 approve program providers that meet the requirements set forth in this article, and make
+72 available a list of approved program providers on the state board's public website; and
+73 (3) Approved program providers shall be authorized to begin enrolling eligible students
+74 upon being approved by the state board as an approved program provider.
+75 (c) To implement the program, notwithstanding any other provision of law to the contrary,
+76 the state board shall be authorized to waive or provide variances to state rules, regulations,
+77 policies, and procedures and to seek waivers or variances of federal laws, rules, regulations,
+78 policies, and procedures that may be reasonably necessary to meet the goals of the
+79 program.
+80 (d) The state board shall be authorized to promulgate rules and regulations necessary to
+81 implement the provisions of this article.
+82 20-4-172.
+83 (a) Approved program providers shall:
+84 (1) Be accredited by:
+85 (A) Southern Association of Colleges and Schools Commission on Colleges;
+86 (B) New England Association of Colleges and Schools;
+87 (C) Middle States Commission on Higher Education;
+88 (D) Accrediting Commission for Schools, Western Association of Schools and
+89 Colleges;
+90 (E) Northwest Commission on Colleges and Universities;
+H. B. 558
+- 4 -
+
+25 LC 61 0142
+91 (F) Georgia Accrediting Commission;
+92 (G) Higher Learning Commission;
+93 (H) Accrediting Commission for Community and Junior Colleges;
+94 (I) Cognia; or
+95 (J) A successor entity or consolidation of any of the above entities;
+96 (2) Offer the following to eligible students at no cost to such students:
+97 (A) Academic skill intake assessments and transcript evaluations for eligible students;
+98 (B) A documented plan for each eligible student that shall include the requirements for
+99 such student to complete the program and earn a high school diploma;
+100 (C) Remedial education services in numeracy and literacy;
+101 (D) A course catalog that includes all courses necessary to earn a high school diploma;
+102 (E) One or more programs through which eligible students can earn a workforce
+103 credential;
+104 (F) One or more programs through which eligible students can earn an employability
+105 skills certification;
+106 (G) One or more courses that help eligible students enter or advance within a specific
+107 occupation or occupational cluster; and
+108 (H) All courses necessary to meet the requirements to earn a high school diploma;
+109 (3) Have a graduation rate of not less than 50 percent; and
+110 (4) Have an average cost per graduate of not more than $7,500.00.
+111 (b) If an approved program provider fails to meet the standards set forth in paragraphs (3)
+112 and (4) of subsection (a) of this Code section, the state board shall place such approved
+113 program provider on probationary status for the remainder of the program year. If an
+114 approved program provider fails to meet such standards by the end of the subsequent
+115 program year, such approved program provider shall no longer be an approved program
+116 provider.
+H. B. 558
+- 5 -
+
+25 LC 61 0142
+117 (c)(1) Average cost per graduate shall be calculated by dividing the total program
+118 funding disbursed to an approved program provider for a cohort during the time period
+119 from the beginning of the cohort through the end of the measurement period by the total
+120 number of students in that cohort who earned a high school diploma during the
+121 measurement period.
+122 (2) Graduation rate shall be calculated by dividing the number of students in a cohort
+123 who earned a high school diploma during the measurement period by the number of
+124 students in such cohort for which such approved program provider has received program
+125 funding.
+126 20-4-173.
+127 (a)(1) Subject to appropriations specifically for the purpose of the program, the state
+128 board shall be authorized to disburse funds appropriated by the General Assembly for the
+129 implementation of the program to approved program providers for the following
+130 milestones reached by students in amounts not to exceed:
+131 (A) For the completion of each half unit of high school credit when such credit is
+132 required to earn a high school diploma, $275.00;
+133 (B) For each employability skills certification earned by a student, $275.00;
+134 (C) For each workforce credential earned by a student when such credential requires
+135 not more than 50 hours of training, $275.00;
+136 (D) For each workforce credential earned by a student when such credential requires
+137 more than 50 but not more than 100 hours of training, $550.00;
+138 (E) For each workforce credential earned by a student when such credential requires
+139 more than 100 hours of training, $825.00; or
+140 (F) For each high school diploma earned by a student, $1,100.00.
+H. B. 558
+- 6 -
+
+25 LC 61 0142
+141 (2) Funds shall be disbursed pursuant to this subsection to approved program providers
+142 in the order in which the reports required by subsection (b) of this Code section are
+143 received by the state board.
+144 (3) No later than the last day of each month, the state board shall notify approved
+145 program providers of the total amount of funds disbursed to approved program providers
+146 and the amount of funds remaining for the program for the fiscal year.
+147 (b) In order to receive the funds provided for in subsection (a) of this Code section,
+148 approved program providers shall, no later than the tenth day of each month, submit to the
+149 state board a report which shall include all milestones met by students in the previous
+150 month.
+151 (c) Funds received by approved program providers pursuant to this Code section shall be
+152 used for providing and preparing for instruction, instructional materials, and support
+153 services for students, including coaching and mentoring. Such funds shall not be used to
+154 build or expand brick-and-mortar infrastructure.
+155 20-4-174.
+156 (a) Beginning in 2027, no later than August 15 of each year, each approved program
+157 provider shall submit a report to the state board which shall include:
+158 (1) The number of eligible students participating in the program;
+159 (2) The number of units of high school credit earned by such students;
+160 (3) The number of employability skills certificates earned by such students;
+161 (4) The number of workforce credentials earned by such students; and
+162 (5) The number of students who earned a high school diploma through participation in
+163 the program.
+164 (b) Beginning in 2027, no later than December 1 of each year, the state board shall provide
+165 the Governor, the President of the Senate, the Speaker of the House of Representatives, and
+166 the chairpersons of the House Committee on Education, the Senate Education and Youth
+H. B. 558
+- 7 -
+
+25 LC 61 0142
+167 Committee, the House Committee on Higher Education, and the Senate Higher Education
+168 Committee with a report that includes:
+169 (1) The information reported to the state board pursuant to subsection (a) of this Code
+170 section;
+171 (2) The amount of funds disbursed to each approved program provider and the
+172 milestones for which such funding was disbursed;
+173 (3) The graduation rate for each approved program provider; and
+174 (4) The average cost per graduate for each approved program provider."
+175 SECTION 2.
+176 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 558
+- 8 -
+
+[DELETED: 5L0,3,7htht]
+[DELETED: 5L  ' s i a m a c r a o  ' c p g m t a c p g c i  ' s c m a c e b d]
+[DELETED: 5L  ' f m f r b a a p p]
+[DELETED: 5L a p t m b r n t m t g o t  A C f S W A o S a]
+[DELETED: 5L]
+[DELETED: 5L o s i t c w e a h s d d t o t p t a p p f t f]
+[DELETED: 5L f p a p f i i m a s]
+[DELETED: 5L  T a o f d t e a p p a t]

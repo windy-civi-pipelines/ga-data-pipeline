@@ -1,0 +1,440 @@
+Title: House Bill 161
+Official Title: House Bill 161
+Number of Sections: 1
+Source: versions - LC 39 4507/a
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4507
+By: Representatives Crowe of the 118th, Reeves of the 99th, New of the 40th, Camp of the
+135th, and Smith of the 18th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 3 of Title 35 of the Official Code of Georgia Annotated,
+2 relating to general provisions relative to the Georgia Bureau of Investigation, to provide for
+3 authority to issue subpoenas of electronic communication records for purposes of
+4 investigating certain crimes relating to cyber enabled threats to life and property; to provide
+5 for punishment for failure to obey certain subpoenas; to prohibit disclosure of the issuance
+6 of certain subpoenas during the pendency of an investigation; to amend Title 16 and Code
+7 Sections 20-3-10, 36-80-23, and 38-3-40 of the Official Code of Georgia Annotated, relating
+8 to crimes and offenses, sanctuary policies prohibited and penalty for violation, prohibition
+9 on immigration sanctuary policies by local governmental entities, certification of compliance,
+10 and punishment, and definitions relative to the Board of Homeland Security, respectively,
+11 so as to repeal the definition of 'domestic terrorism'; to establish the crime of domestic
+12 terrorism; to make conforming changes; to provide for related matters; to repeal conflicting
+13 laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 161
+- 1 -
+25 LC 39 4507
+15 PART I
+16 SECTION 1-1.
+17 Article 1 of Chapter 3 of Title 35 of the Official Code of Georgia Annotated, relating to
+18 general provisions relative to the Georgia Bureau of Investigation, is amended by revising
+19 Code Section 35-3-4.1, relating to subpoena for production of electronic communication
+20 service records for computer or electronic device used in furtherance of certain offenses
+21 against minors, as follows:
+22 "35-3-4.1.
+23 (a)(1) In any investigation of a violation of Code Section 16-12-100, 16-12-100.1,
+24 or 16-12-100.2 involving the use of a computer or an electronic device in furtherance of
+25 an act related to a minor, or any investigation of a violation of Article 8 of Chapter 9 of
+26 Title 16, the The director, assistant director of the bureau, or deputy director for
+27 investigations of the bureau shall be authorized to issue a subpoena, with the consent of
+28 the Attorney General, to compel the production of electronic communication service or
+29 remote communication computing service records or other information pertaining to a
+30 subscriber or customer of such service, exclusive of contents of communications, in any
+31 investigation of a violation of:
+32 (A) Code Section 16-12-100, 16-12-100.1, or 16-12-100.2 involving the use of a
+33 computer or an electronic device in furtherance of an act related to a minor;
+34 (B) Article 8 of Chapter 9 of Title 16; or
+35 (C) Code Section 16-9-93, 16-10-28, 16-11-37, 16-11-39.1, or 16-11-221.
+36 (2) A provider of electronic communication service or remote computing service shall
+37 disclose to the bureau the following as relative to the subscriber or customer of such
+38 service:
+39 (A) Name;
+40 (B) Address;
+H. B. 161
+- 2 -
+25 LC 39 4507
+41 (C) Local and long distance telephone connection records, or records of session times
+42 and durations;
+43 (D) Length of service, including the start date, and types of service utilized;
+44 (E) Telephone or instrument number or other subscriber number or identity, including
+45 any temporarily assigned network address; and
+46 (F) Means and source of payment for such service, including any credit card or bank
+47 account number of a subscriber to or customer of such service.
+48 (3) A provider of electronic communication service or remote computing service shall
+49 not provide notification of the subpoena issued pursuant to paragraph (1) of this
+50 subsection to the subscriber or customer of such service.
+51 (b) Upon failure of a person without lawful excuse to obey a subpoena, the director,
+52 assistant director of the bureau, or the deputy director for investigations of the bureau,
+53 through the Attorney General or district attorney, may apply to a superior court having
+54 jurisdiction for an order compelling compliance. Such person may object to the subpoena
+55 on grounds that it fails to comply with this Code section or upon any constitutional or other
+56 legal right or privilege of such person. The court may issue an order modifying or setting
+57 aside such subpoena or directing compliance with the original subpoena. Failure to obey
+58 a subpoena issued under this Code section may be punished by the court as contempt of
+59 court.
+60 (c) The Attorney General may request that a natural person who refuses to produce
+61 relevant matter included in a subpoena issued pursuant to this Code section on the ground
+62 that the production of such records may incriminate such person be ordered by the court
+63 to provide such records. With the exception of a prosecution for perjury, a natural person
+64 who complies with the court order to provide such records asserting a privilege against
+65 self-incrimination to which he or she is entitled by law shall not be prosecuted or subjected
+66 to any penalty or forfeiture for or on account of any transaction, matter, or thing concerning
+67 which he or she may testify or produce evidence, documentary or otherwise.
+H. B. 161
+- 3 -
+25 LC 39 4507
+68 (d)(1) The issuance of a subpoena pursuant to this Code section shall not be made public
+69 during any pending investigation or prosecution of criminal or unlawful activity beyond
+70 the extent necessary for the issuance and compliance of the subpoena.
+71 (2) Information obtained pursuant to a subpoena enforced by this Code section shall not
+72 be made public or, except as authorized in paragraph (2)(3) of this subsection, disclosed
+73 by the director of the bureau, assistant director, deputy director for investigations of the
+74 bureau, or the director's employees beyond the extent necessary for the enforcement of
+75 this Code section.
+76 (2)(3) The director, assistant director of the bureau, deputy director for investigations of
+77 the bureau, or the director's employees shall be authorized to provide to any federal, state,
+78 or local law enforcement agency any information acquired under this Code section in
+79 furtherance of a criminal investigation in violation of Code Section 16-12-100,
+80 16-12-100.1, or 16-12-100.2.
+81 (e) As used in this Code section, the terms 'electronic communication service' and 'remote
+82 computing service' shall have the same meaning as set forth in Code Section 16-9-92."
+83 PART II
+84 SECTION 2-1.
+85 Title 16 of the Official Code of Georgia Annotated, relating to crimes and offenses, is
+86 amended in Code Section 16-11-220, relating to definitions relative to domestic terrorism,
+87 by revising paragraph (2) as follows:
+88 "(2) 'Domestic terrorism' means any felony violation of, or attempt to commit a felony
+89 violation of the laws of this state which, as part of a single unlawful act or a series of
+90 unlawful acts which are interrelated by distinguishing characteristics, is intended to cause
+91 serious bodily harm, kill any individual or group of individuals, or disable or destroy
+92 critical infrastructure, a state or government facility, or a public transportation system
+93 when such disability or destruction results in major economic loss, and is intended to:
+H. B. 161
+- 4 -
+25 LC 39 4507
+94 (A) Intimidate the civilian population of this state or any of its political subdivisions;
+95 (B) Alter, change, or coerce the policy of the government of this state or any of its
+96 political subdivisions by intimidation or coercion; or
+97 (C) Affect the conduct of the government of this state or any of its political
+98 subdivisions by use of destructive devices, assassination, or kidnapping Reserved."
+99 SECTION 2-2.
+100 Said title is further amended by revising Code Section 16-11-221, relating to penalties for
+101 domestic terrorism, as follows:
+102 "16-11-221.
+103 (a) A person commits the crime of domestic terrorism when he or she:
+104 (1) Commits or attempts to commit a felony violation of the laws of this state as a single
+105 unlawful act or part of a series of unlawful acts which are interrelated by distinguishing
+106 characteristics;
+107 (2) Intends to:
+108 (A) Cause serious bodily harm;
+109 (B) Kill any individual or group of individuals; or
+110 (C) Disable or destroy critical infrastructure, a state or government facility, or a public
+111 transportation system when such disability or destruction results in major economic
+112 loss; and
+113 (3) Intentionally attempts:
+114 (A) Intimidate the civilian population of this state or any of its political subdivisions;
+115 (B) Alter, change, or coerce the policy of the government of this state or any of its
+116 political subdivisions by intimidation or coercion; or
+117 (C) Affect the conduct of the government of this state or any of its political
+118 subdivisions by use of destructive devices, assassination, or kidnapping.
+119 (b) Any person who commits domestic terrorism shall be guilty of a felony and upon
+120 conviction thereof shall be punished as follows:
+H. B. 161
+- 5 -
+25 LC 39 4507
+121 (1) If death results to any individual, by death, by imprisonment for life without parole,
+122 or by imprisonment for life;
+123 (2) If kidnapping occurs, by imprisonment for not less than 15 nor more than 35 years,
+124 or by imprisonment for life;
+125 (3) If serious bodily harm occurs, by imprisonment for not less than 15 nor more than 35
+126 years; or
+127 (4) If critical infrastructure, a state or government facility, or a public transportation
+128 system is disabled or destroyed, by imprisonment for not less than five nor more than 35
+129 years.
+130 (b)(c) No sentence imposed under this Code section shall be suspended, stayed, probated,
+131 deferred, or withheld by the sentencing court; provided, however, that in the court's
+132 discretion, the court may suspend, stay, probate, defer, or withhold part of such sentence
+133 when the prosecuting attorney and the defendant have agreed to such sentence."
+134 SECTION 2-3.
+135 Said title is further amended in Code Section 16-14-3, relating to definitions relative to
+136 racketeer influenced and corrupt organizations, by revising subparagraph (B) of paragraph
+137 (4) as follows:
+138 "(B) Engaging in any one or more acts of domestic terrorism as described in paragraph
+139 (2) of Code Section 16-11-220 16-11-221 or any criminal attempt, criminal solicitation,
+140 or criminal conspiracy related thereto."
+141 SECTION 2-4.
+142 Code Section 20-3-10 of the Official Code of Georgia Annotated, relating to sanctuary
+143 policies prohibited and penalty for violation, by revising paragraph (4) of subsection (a) as
+144 follows:
+145 "(4) 'Status information' means any information, not including any information required
+146 by law to be kept confidential but otherwise including, but not limited to, any statement,
+H. B. 161
+- 6 -
+25 LC 39 4507
+147 document, computer generated data, recording, or photograph, which is relevant to the
+148 identity or location of an individual who is reasonably believed to be violating state or
+149 federal laws, illegally residing within the United States, or who is reasonably believed to
+150 be involved in domestic terrorism as that term is defined in Code Section 16-11-220 in
+151 violation of Code Section 16-11-221 or a terroristic act as that term is defined by Code
+152 Section 35-3-62."
+153 SECTION 2-5.
+154 Code Section 36-80-23 of the Official Code of Georgia Annotated, relating to prohibition on
+155 immigration sanctuary policies by local governmental entities, certification of compliance,
+156 and punishment, by revising paragraph (3) of subsection (a) as follows:
+157 "(3) 'Immigration status information' means any information, not including any
+158 information required by law to be kept confidential but otherwise including, but not
+159 limited to, any statement, document, computer generated data, recording, or photograph,
+160 which is relevant to immigration status or the identity or location of an individual who
+161 is reasonably believed to be illegally residing within the United States or who is
+162 reasonably believed to be involved in domestic terrorism as that term is defined in Code
+163 Section 16-11-220 in violation of Code Section 16-11-221 or a terroristic act as that term
+164 is defined by Code Section 35-3-62."
+165 SECTION 2-6.
+166 Code Section 38-3-40 of the Official Code of Georgia Annotated, relating to definitions
+167 relative to the Board of Homeland Security, by revising paragraph (4) as follows:
+168 "(4) 'Domestic terrorism' shall have the same meaning as set forth in Code Section
+169 16-11-220.means an offense of Code Section 16-11-221."
+H. B. 161
+- 7 -
+25 LC 39 4507
+170 PART III
+171 SECTION 3-1.
+172 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 161
+- 8 -
+[DELETED: 5L8,9,0,htht5,8ht t i s o e c r f p o]
+[DELETED: 5L 1 t  T d a d o t b o d d f]
+[DELETED: 5L p n o t s i p t p ( o t]
+[DELETED: 5L o a c i i v o C S 1]
+[DELETED: 5L  A t c o t g o t s o a o i p  A t c o t g o t s o a o i p]
+[DELETED: 5L o w b t s c p h t i t c]
+[DELETED: 5L  ' s i m a i n i a r b t b i r w t U S o w i]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4507
+House Bill 161
+By: Representatives Crowe of the 118th, Reeves of the 99th, New of the 40th, Camp of the
+135th, and Smith of the 18th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 3 of Title 35 of the Official Code of Georgia Annotated,
+2 relating to general provisions relative to the Georgia Bureau of Investigation, to provide for
+3 authority to issue subpoenas of electronic communication records for purposes of
+4 investigating certain crimes relating to cyber enabled threats to life and property; to provide
+5 for punishment for failure to obey certain subpoenas; to prohibit disclosure of the issuance
+6 of certain subpoenas during the pendency of an investigation; to amend Title 16 and Code
+7 Sections 20-3-10, 36-80-23, and 38-3-40 of the Official Code of Georgia Annotated, relating
+8 to crimes and offenses, sanctuary policies prohibited and penalty for violation, prohibition
+9 on immigration sanctuary policies by local governmental entities, certification of compliance,
+10 and punishment, and definitions relative to the Board of Homeland Security, respectively,
+11 so as to repeal the definition of 'domestic terrorism'; to establish the crime of domestic
+12 terrorism; to make conforming changes; to provide for related matters; to repeal conflicting
+13 laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 161
+- 1 -
+
+25 LC 39 4507
+15 PART I
+16 SECTION 1-1.
+17 Article 1 of Chapter 3 of Title 35 of the Official Code of Georgia Annotated, relating to
+18 general provisions relative to the Georgia Bureau of Investigation, is amended by revising
+19 Code Section 35-3-4.1, relating to subpoena for production of electronic communication
+20 service records for computer or electronic device used in furtherance of certain offenses
+21 against minors, as follows:
+22 "35-3-4.1.
+23 (a)(1) In any investigation of a violation of Code Section 16-12-100, 16-12-100.1,
+24 or 16-12-100.2 involving the use of a computer or an electronic device in furtherance of
+25 an act related to a minor, or any investigation of a violation of Article 8 of Chapter 9 of
+26 Title 16, the The director, assistant director of the bureau, or deputy director for
+27 investigations of the bureau shall be authorized to issue a subpoena, with the consent of
+28 the Attorney General, to compel the production of electronic communication service or
+29 remote communication computing service records or other information pertaining to a
+30 subscriber or customer of such service, exclusive of contents of communications, in any
+31 investigation of a violation of:
+32 (A) Code Section 16-12-100, 16-12-100.1, or 16-12-100.2 involving the use of a
+33 computer or an electronic device in furtherance of an act related to a minor;
+34 (B) Article 8 of Chapter 9 of Title 16; or
+35 (C) Code Section 16-9-93, 16-10-28, 16-11-37, 16-11-39.1, or 16-11-221.
+36 (2) A provider of electronic communication service or remote computing service shall
+37 disclose to the bureau the following as relative to the subscriber or customer of such
+38 service:
+39 (A) Name;
+40 (B) Address;
+H. B. 161
+- 2 -
+
+25 LC 39 4507
+41 (C) Local and long distance telephone connection records, or records of session times
+42 and durations;
+43 (D) Length of service, including the start date, and types of service utilized;
+44 (E) Telephone or instrument number or other subscriber number or identity, including
+45 any temporarily assigned network address; and
+46 (F) Means and source of payment for such service, including any credit card or bank
+47 account number of a subscriber to or customer of such service.
+48 (3) A provider of electronic communication service or remote computing service shall
+49 not provide notification of the subpoena issued pursuant to paragraph (1) of this
+50 subsection to the subscriber or customer of such service.
+51 (b) Upon failure of a person without lawful excuse to obey a subpoena, the director,
+52 assistant director of the bureau, or the deputy director for investigations of the bureau,
+53 through the Attorney General or district attorney, may apply to a superior court having
+54 jurisdiction for an order compelling compliance. Such person may object to the subpoena
+55 on grounds that it fails to comply with this Code section or upon any constitutional or other
+56 legal right or privilege of such person. The court may issue an order modifying or setting
+57 aside such subpoena or directing compliance with the original subpoena. Failure to obey
+58 a subpoena issued under this Code section may be punished by the court as contempt of
+59 court.
+60 (c) The Attorney General may request that a natural person who refuses to produce
+61 relevant matter included in a subpoena issued pursuant to this Code section on the ground
+62 that the production of such records may incriminate such person be ordered by the court
+63 to provide such records. With the exception of a prosecution for perjury, a natural person
+64 who complies with the court order to provide such records asserting a privilege against
+65 self-incrimination to which he or she is entitled by law shall not be prosecuted or subjected
+66 to any penalty or forfeiture for or on account of any transaction, matter, or thing concerning
+67 which he or she may testify or produce evidence, documentary or otherwise.
+H. B. 161
+- 3 -
+
+25 LC 39 4507
+68 (d)(1) The issuance of a subpoena pursuant to this Code section shall not be made public
+69 during any pending investigation or prosecution of criminal or unlawful activity beyond
+70 the extent necessary for the issuance and compliance of the subpoena.
+71 (2) Information obtained pursuant to a subpoena enforced by this Code section shall not
+72 be made public or, except as authorized in paragraph (2)(3) of this subsection, disclosed
+73 by the director of the bureau, assistant director, deputy director for investigations of the
+74 bureau, or the director's employees beyond the extent necessary for the enforcement of
+75 this Code section.
+76 (2)(3) The director, assistant director of the bureau, deputy director for investigations of
+77 the bureau, or the director's employees shall be authorized to provide to any federal, state,
+78 or local law enforcement agency any information acquired under this Code section in
+79 furtherance of a criminal investigation in violation of Code Section 16-12-100,
+80 16-12-100.1, or 16-12-100.2.
+81 (e) As used in this Code section, the terms 'electronic communication service' and 'remote
+82 computing service' shall have the same meaning as set forth in Code Section 16-9-92."
+83 PART II
+84 SECTION 2-1.
+85 Title 16 of the Official Code of Georgia Annotated, relating to crimes and offenses, is
+86 amended in Code Section 16-11-220, relating to definitions relative to domestic terrorism,
+87 by revising paragraph (2) as follows:
+88 "(2) 'Domestic terrorism' means any felony violation of, or attempt to commit a felony
+89 violation of the laws of this state which, as part of a single unlawful act or a series of
+90 unlawful acts which are interrelated by distinguishing characteristics, is intended to cause
+91 serious bodily harm, kill any individual or group of individuals, or disable or destroy
+92 critical infrastructure, a state or government facility, or a public transportation system
+93 when such disability or destruction results in major economic loss, and is intended to:
+H. B. 161
+- 4 -
+
+25 LC 39 4507
+94 (A) Intimidate the civilian population of this state or any of its political subdivisions;
+95 (B) Alter, change, or coerce the policy of the government of this state or any of its
+96 political subdivisions by intimidation or coercion; or
+97 (C) Affect the conduct of the government of this state or any of its political
+98 subdivisions by use of destructive devices, assassination, or kidnapping Reserved."
+99 SECTION 2-2.
+100 Said title is further amended by revising Code Section 16-11-221, relating to penalties for
+101 domestic terrorism, as follows:
+102 "16-11-221.
+103 (a) A person commits the crime of domestic terrorism when he or she:
+104 (1) Commits or attempts to commit a felony violation of the laws of this state as a single
+105 unlawful act or part of a series of unlawful acts which are interrelated by distinguishing
+106 characteristics;
+107 (2) Intends to:
+108 (A) Cause serious bodily harm;
+109 (B) Kill any individual or group of individuals; or
+110 (C) Disable or destroy critical infrastructure, a state or government facility, or a public
+111 transportation system when such disability or destruction results in major economic
+112 loss; and
+113 (3) Intentionally attempts:
+114 (A) Intimidate the civilian population of this state or any of its political subdivisions;
+115 (B) Alter, change, or coerce the policy of the government of this state or any of its
+116 political subdivisions by intimidation or coercion; or
+117 (C) Affect the conduct of the government of this state or any of its political
+118 subdivisions by use of destructive devices, assassination, or kidnapping.
+119 (b) Any person who commits domestic terrorism shall be guilty of a felony and upon
+120 conviction thereof shall be punished as follows:
+H. B. 161
+- 5 -
+
+25 LC 39 4507
+121 (1) If death results to any individual, by death, by imprisonment for life without parole,
+122 or by imprisonment for life;
+123 (2) If kidnapping occurs, by imprisonment for not less than 15 nor more than 35 years,
+124 or by imprisonment for life;
+125 (3) If serious bodily harm occurs, by imprisonment for not less than 15 nor more than 35
+126 years; or
+127 (4) If critical infrastructure, a state or government facility, or a public transportation
+128 system is disabled or destroyed, by imprisonment for not less than five nor more than 35
+129 years.
+130 (b)(c) No sentence imposed under this Code section shall be suspended, stayed, probated,
+131 deferred, or withheld by the sentencing court; provided, however, that in the court's
+132 discretion, the court may suspend, stay, probate, defer, or withhold part of such sentence
+133 when the prosecuting attorney and the defendant have agreed to such sentence."
+134 SECTION 2-3.
+135 Said title is further amended in Code Section 16-14-3, relating to definitions relative to
+136 racketeer influenced and corrupt organizations, by revising subparagraph (B) of paragraph
+137 (4) as follows:
+138 "(B) Engaging in any one or more acts of domestic terrorism as described in paragraph
+139 (2) of Code Section 16-11-220 16-11-221 or any criminal attempt, criminal solicitation,
+140 or criminal conspiracy related thereto."
+141 SECTION 2-4.
+142 Code Section 20-3-10 of the Official Code of Georgia Annotated, relating to sanctuary
+143 policies prohibited and penalty for violation, by revising paragraph (4) of subsection (a) as
+144 follows:
+145 "(4) 'Status information' means any information, not including any information required
+146 by law to be kept confidential but otherwise including, but not limited to, any statement,
+H. B. 161
+- 6 -
+
+25 LC 39 4507
+147 document, computer generated data, recording, or photograph, which is relevant to the
+148 identity or location of an individual who is reasonably believed to be violating state or
+149 federal laws, illegally residing within the United States, or who is reasonably believed to
+150 be involved in domestic terrorism as that term is defined in Code Section 16-11-220 in
+151 violation of Code Section 16-11-221 or a terroristic act as that term is defined by Code
+152 Section 35-3-62."
+153 SECTION 2-5.
+154 Code Section 36-80-23 of the Official Code of Georgia Annotated, relating to prohibition on
+155 immigration sanctuary policies by local governmental entities, certification of compliance,
+156 and punishment, by revising paragraph (3) of subsection (a) as follows:
+157 "(3) 'Immigration status information' means any information, not including any
+158 information required by law to be kept confidential but otherwise including, but not
+159 limited to, any statement, document, computer generated data, recording, or photograph,
+160 which is relevant to immigration status or the identity or location of an individual who
+161 is reasonably believed to be illegally residing within the United States or who is
+162 reasonably believed to be involved in domestic terrorism as that term is defined in Code
+163 Section 16-11-220 in violation of Code Section 16-11-221 or a terroristic act as that term
+164 is defined by Code Section 35-3-62."
+165 SECTION 2-6.
+166 Code Section 38-3-40 of the Official Code of Georgia Annotated, relating to definitions
+167 relative to the Board of Homeland Security, by revising paragraph (4) as follows:
+168 "(4) 'Domestic terrorism' shall have the same meaning as set forth in Code Section
+169 16-11-220.means an offense of Code Section 16-11-221."
+H. B. 161
+- 7 -
+
+25 LC 39 4507
+170 PART III
+171 SECTION 3-1.
+172 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 161
+- 8 -
+
+[DELETED: 5L8,9,0,htht5,8ht t i s o e c r f p o]
+[DELETED: 5L 1 t  T d a d o t b o d d f]
+[DELETED: 5L p n o t s i p t p ( o t]
+[DELETED: 5L o a c i i v o C S 1]
+[DELETED: 5L  A t c o t g o t s o a o i p  A t c o t g o t s o a o i p]
+[DELETED: 5L o w b t s c p h t i t c]
+[DELETED: 5L  ' s i m a i n i a r b t b i r w t U S o w i]
+[DELETED: 5L]

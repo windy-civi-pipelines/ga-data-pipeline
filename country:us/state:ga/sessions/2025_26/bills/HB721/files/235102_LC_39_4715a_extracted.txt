@@ -1,0 +1,116 @@
+Title: House Bill 721
+Official Title: House Bill 721
+Number of Sections: 1
+Source: versions - LC 39 4715/a
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4715
+By: Representatives Clark of the 108th, Bell of the 75th, and Sharper of the 177th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 4 of Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia
+2 Annotated, relating to ride share network services and transportation referral services, so as
+3 to provide for additional requirements upon transportation referral service providers and ride
+4 share network services relative to driver safety and hiring and the privacy of personal
+5 information for drivers and passengers; to provide for related matters; to repeal conflicting
+6 laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Part 4 of Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated,
+10 relating to ride share network services and transportation referral services, is amended in
+11 subsection (d) of Code Section 40-1-192, relating to transportation referral service provider
+12 registration requirement, licensure, exemptions, and additional requirements, by deleting
+13 "and" at the end of paragraph (9), replacing the period with "; and" at the end of paragraph
+14 (10), and adding three new paragraphs to read as follows:
+15 "(11) Provide a manner for informing a driver utilized by such transportation referral
+16 service provider whether the location where such driver is to provide services has a violent
+H. B. 721
+- 1 -
+25 LC 39 4715
+17 crime rate greater than the current national average based upon statistics compiled by the
+18 Federal Bureau of Investigation's Uniform Crime Reporting Program;
+19 (12) Ensure security and privacy of personal information collected for drivers and
+20 passengers; and
+21 (13) Provide for a grievance process for any driver utilized by such transportation referral
+22 service provider."
+23 SECTION 2.
+24 Said part is further amended in subsection (c) of Code Section 40-1-193, relating to ride
+25 share network service registration requirement, licensure, list of ride share drivers, additional
+26 requirements and law enforcement access to smartphone of ride share driver, by deleting
+27 "and" at the end of paragraph (4), replacing the period with "; and" at the end of paragraph
+28 (5), and adding three new paragraphs to read as follows:
+29 "(6) Provide a manner for informing a driver utilized by such ride share network service
+30 whether the location where such driver is to provide services has a violent crime rate
+31 greater than the current national average based upon statistics compiled by the Federal
+32 Bureau of Investigation's Uniform Crime Reporting Program;
+33 (7) Ensure security and privacy of personal information collected for drivers and
+34 passengers; and
+35 (8) Provide for a grievance process for any driver utilized by such ride share network
+36 service."
+37 SECTION 3.
+38 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 721
+- 2 -
+[DELETED: 5L8,5,7htht]
+[DELETED: 5L  E s a p o p i c f d a  E s a p o p i c f d a]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4715
+House Bill 721
+By: Representatives Clark of the 108th, Bell of the 75th, and Sharper of the 177th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 4 of Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia
+2 Annotated, relating to ride share network services and transportation referral services, so as
+3 to provide for additional requirements upon transportation referral service providers and ride
+4 share network services relative to driver safety and hiring and the privacy of personal
+5 information for drivers and passengers; to provide for related matters; to repeal conflicting
+6 laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Part 4 of Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated,
+10 relating to ride share network services and transportation referral services, is amended in
+11 subsection (d) of Code Section 40-1-192, relating to transportation referral service provider
+12 registration requirement, licensure, exemptions, and additional requirements, by deleting
+13 "and" at the end of paragraph (9), replacing the period with "; and" at the end of paragraph
+14 (10), and adding three new paragraphs to read as follows:
+15 "(11) Provide a manner for informing a driver utilized by such transportation referral
+16 service provider whether the location where such driver is to provide services has a violent
+H. B. 721
+- 1 -
+
+25 LC 39 4715
+17 crime rate greater than the current national average based upon statistics compiled by the
+18 Federal Bureau of Investigation's Uniform Crime Reporting Program;
+19 (12) Ensure security and privacy of personal information collected for drivers and
+20 passengers; and
+21 (13) Provide for a grievance process for any driver utilized by such transportation referral
+22 service provider."
+23 SECTION 2.
+24 Said part is further amended in subsection (c) of Code Section 40-1-193, relating to ride
+25 share network service registration requirement, licensure, list of ride share drivers, additional
+26 requirements and law enforcement access to smartphone of ride share driver, by deleting
+27 "and" at the end of paragraph (4), replacing the period with "; and" at the end of paragraph
+28 (5), and adding three new paragraphs to read as follows:
+29 "(6) Provide a manner for informing a driver utilized by such ride share network service
+30 whether the location where such driver is to provide services has a violent crime rate
+31 greater than the current national average based upon statistics compiled by the Federal
+32 Bureau of Investigation's Uniform Crime Reporting Program;
+33 (7) Ensure security and privacy of personal information collected for drivers and
+34 passengers; and
+35 (8) Provide for a grievance process for any driver utilized by such ride share network
+36 service."
+37 SECTION 3.
+38 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 721
+- 2 -
+
+[DELETED: 5L8,5,7htht]
+[DELETED: 5L  E s a p o p i c f d a  E s a p o p i c f d a]

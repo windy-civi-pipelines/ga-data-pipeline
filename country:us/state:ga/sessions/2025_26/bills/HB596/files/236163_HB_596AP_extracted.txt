@@ -1,0 +1,92 @@
+Title: House Bill 596 (AS PASSED HOUSE AND SENATE)
+Official Title: House Bill 596 (AS PASSED HOUSE AND SENATE)
+Number of Sections: 1
+Source: versions - HB 596/AP*
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 47 3369/AP
+By: Representative Cannon of the 172nd
+A BILL TO BE ENTITLED
+AN ACT
+1 To authorize the assessment and collection of a technology fee by the State Court of Colquitt
+2 County; to identify the authorized uses of such technology fee; to provide for the termination
+3 of such technology fee and dedication of residual funds to technology needs; to provide for
+4 related matters; to repeal conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 (a) The clerk of the State Court of Colquitt County is hereby authorized to charge and collect
+8 a technology fee in an amount of $10.00 as a surcharge upon each fine assessed by the court
+9 for violations of Title 40 of the O.C.G.A., relating to motor vehicles and traffic. Such
+10 technology fees shall be used exclusively to provide for the technological needs of the State
+11 Court of Colquitt County and the Sheriff of Colquitt County. Such uses shall include only
+12 the following:
+13 (1) Computer hardware and software purchases;
+14 (2) Lease, maintenance, and installation of computer hardware and software;
+H. B. 596
+- 1 -
+25 LC 47 3369/AP
+15 (3) Purchase, lease, maintenance, and installation of audio-visual, imaging, scanning,
+16 facsimile, communications, recording, projection, and printing equipment and software;
+17 and
+18 (4) Procurement of services and equipment for the conservation of court or sheriff records
+19 and the archival of the same to digital contents for public access.
+20 (b) Funds collected pursuant to this section shall be maintained in a segregated account by
+21 the clerk of the state court and shall be used only for the purposes authorized in this section.
+22 (c) The authority to assess a technology fee pursuant to this section shall terminate on
+23 July 1, 2035, and any residual funds remaining in the fund established by this section shall
+24 remain dedicated to general Colquitt County technology needs.
+25 SECTION 2.
+26 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 596
+- 2 -
+[DELETED: 5L2]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 47 3369/AP
+House Bill 596 (AS PASSED HOUSE AND SENATE)
+By: Representative Cannon of the 172nd
+A BILL TO BE ENTITLED
+AN ACT
+1 To authorize the assessment and collection of a technology fee by the State Court of Colquitt
+2 County; to identify the authorized uses of such technology fee; to provide for the termination
+3 of such technology fee and dedication of residual funds to technology needs; to provide for
+4 related matters; to repeal conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 (a) The clerk of the State Court of Colquitt County is hereby authorized to charge and collect
+8 a technology fee in an amount of $10.00 as a surcharge upon each fine assessed by the court
+9 for violations of Title 40 of the O.C.G.A., relating to motor vehicles and traffic. Such
+10 technology fees shall be used exclusively to provide for the technological needs of the State
+11 Court of Colquitt County and the Sheriff of Colquitt County. Such uses shall include only
+12 the following:
+13 (1) Computer hardware and software purchases;
+14 (2) Lease, maintenance, and installation of computer hardware and software;
+H. B. 596
+- 1 -
+
+25 LC 47 3369/AP
+15 (3) Purchase, lease, maintenance, and installation of audio-visual, imaging, scanning,
+16 facsimile, communications, recording, projection, and printing equipment and software;
+17 and
+18 (4) Procurement of services and equipment for the conservation of court or sheriff records
+19 and the archival of the same to digital contents for public access.
+20 (b) Funds collected pursuant to this section shall be maintained in a segregated account by
+21 the clerk of the state court and shall be used only for the purposes authorized in this section.
+22 (c) The authority to assess a technology fee pursuant to this section shall terminate on
+23 July 1, 2035, and any residual funds remaining in the fund established by this section shall
+24 remain dedicated to general Colquitt County technology needs.
+25 SECTION 2.
+26 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 596
+- 2 -
+
+[DELETED: 5L2]
+[DELETED: 5L]

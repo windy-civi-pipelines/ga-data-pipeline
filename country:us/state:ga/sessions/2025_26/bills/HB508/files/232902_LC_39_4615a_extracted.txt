@@ -1,0 +1,257 @@
+Title: House Bill 508
+Official Title: House Bill 508
+Number of Sections: 1
+Source: versions - LC 39 4615/a
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4615
+By: Representatives Jackson of the 68th, Schofield of the 63rd, Davis of the 87th, Bell of the
+75th, and Myles of the 126th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 3 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia
+2 Annotated, relating to carrying and possession of firearms, so as to prohibit the sale, transfer,
+3 use, possession, importation, or manufacture of certain firearms and magazines; to provide
+4 for the continued possession of certain firearms and magazines; to provide for exceptions and
+5 exemptions; to provide for definitions; to provide for findings; to provide for related matters;
+6 to provide an effective date; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 The General Assembly finds that:
+10 (1) Semiautomatic rifles that accept high-capacity magazines pose a significant threat to
+11 public safety in that they provide the user of the rifle the ability to fire many rounds of
+12 ammunition rapidly and thereby harm many people in a short amount of time;
+13 (2) Such semiautomatic rifles have been used in numerous mass shootings around the
+14 nation in the recent past, resulting in the death of large numbers of people, many of whom
+15 were children; and
+H. B. 508
+- 1 -
+25 LC 39 4615
+16 (3) There is a need to limit the ownership, possession, use, manufacture, and importation
+17 of such semiautomatic rifles into this state to reduce the danger to the public from further
+18 mass shootings using such rifles.
+19 SECTION 2.
+20 Part 3 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated,
+21 relating to carrying and possession of firearms, is amended by adding a new Code section to
+22 read as follows:
+23 "16-11-139.
+24 (a) As used in this Code section, the term:
+25 (1) 'Dealer' shall have the same meaning as set forth in Code Section 16-11-171.
+26 (2) 'Large capacity ammunition feeding device' means any magazine, clip, drum, belt,
+27 feed strip, or similar device which is designed to supply or is capable of supplying
+28 ammunition to a semiautomatic assault weapon and has a capacity in excess of 20 rounds
+29 of ammunition.
+30 (3) 'Manufacture' means the construction of the individual components of a
+31 semiautomatic assault weapon as well as the assembly of such individual components
+32 into a semiautomatic assault weapon capable of firing ammunition.
+33 (4) 'Securely stored' means placed in a locked storage container that cannot be readily
+34 accessed by those without permission or authorization to do so and is equipped with a
+35 functioning trigger lock which is operated with a key or combination lock that prevents
+36 the firearm from being discharged while the trigger lock is attached to the firearm.
+37 (5)(A) 'Semiautomatic assault weapon' means a rifle:
+38 (i) That uses the energy of an explosive in a fixed, center fire, metal cartridge to
+39 expel a single projectile through the bore of the rifle for each single pull of the trigger
+40 and to extract the fired cartridge case and chamber the next round; and
+41 (ii) Is capable of using a large capacity ammunition feeding device in its operation.
+H. B. 508
+- 2 -
+25 LC 39 4615
+42 (B) Such term shall not include a weapon that uses rimfire ammunition.
+43 (b) Except as otherwise provided in this Code section, it shall be unlawful to own, possess,
+44 use, sell, import, or manufacture semiautomatic assault weapons in this state.
+45 (c) Any semiautomatic assault weapon owned by a person in this state prior to July 1,
+46 2025, may be retained by the owner if such semiautomatic assault weapon is securely
+47 stored. Such semiautomatic assault weapon may be sold or transferred by the owner of
+48 such weapon only if the owner has a criminal background check of the purchaser or
+49 transferee conducted by a dealer pursuant to the National Instant Criminal Background
+50 Check System created by the federal Brady Handgun Violence Prevention Act (P.L. No.
+51 103-159) and such background check indicates that the person is eligible to purchase or
+52 receive such semiautomatic assault weapon under federal law.
+53 (d) Except as otherwise provided in this Code section, it shall be unlawful to own, possess,
+54 use, sell, import, or manufacture a large capacity ammunition feeding device in this state.
+55 (e) Any large capacity ammunition feeding devices owned by a person in this state prior
+56 to July 1, 2025, may be retained by the owner; provided, however, that the sale or transfer
+57 of any such devices shall be prohibited.
+58 (f) This Code section shall not apply to semiautomatic assault weapons or large capacity
+59 ammunition feeding devices possessed or owned by:
+60 (1) A law enforcement agency;
+61 (2) A peace officer, as such term is defined in paragraph (11) of Code Section 16-1-3,
+62 so long as such peace officer remains certified, whether employed by the state or a
+63 political subdivision of the state or by another state or a political subdivision of another
+64 state;
+65 (3) A security officer employed by a federally licensed nuclear power facility or a
+66 licensee of such facility, including a contract security officer, who is trained and qualified
+67 under a security plan approved by the United States Nuclear Regulatory Commission or
+68 other federal agency authorized to regulate nuclear facility security; provided, however,
+H. B. 508
+- 3 -
+25 LC 39 4615
+69 that this exemption shall apply only while such security officer is acting in connection
+70 with his or her official duties on the premises of such nuclear power facility or on
+71 properties outside the facility property pursuant to a written agreement entered into with
+72 the local law enforcement agency having jurisdiction over the facility; and
+73 (4) A peace officer, as such term is defined in paragraph (11) of Code Section 16-1-3,
+74 who has retired, so long as such retired peace officer remains certified under Chapter 8
+75 of Title 35.
+76 (g) No person exempt from the provisions of this Code section shall be authorized to sell
+77 or transfer a semiautomatic assault weapon or large capacity ammunition feeding device
+78 to any person other than a person exempt from this Code section.
+79 (h)(1) Any person convicted of a first or second violation of this Code section shall be
+80 guilty of a misdemeanor and punished by a fine of not more than $250.00 for the first
+81 offense and not more than $500.00 for the second offense.
+82 (2) Any person convicted of a third or subsequent violation of this Code section shall be
+83 guilty of a misdemeanor of a high and aggravated nature, and the sentencing court shall
+84 be authorized to revoke such person's hunting rights in this state for a length of time
+85 deemed appropriate by the court.
+86 (3) Upon conviction of a violation of this Code section, any semiautomatic assault
+87 weapon or large capacity ammunition feeding device which is the subject of the violation
+88 shall be declared contraband. Such property shall be subject to civil forfeiture in
+89 accordance with Chapter 16 of Title 9, the 'Georgia Uniform Civil Forfeiture Procedure
+90 Act.'"
+91 SECTION 3.
+92 This Act shall become effective on July 1, 2025.
+H. B. 508
+- 4 -
+25 LC 39 4615
+93 SECTION 4.
+94 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 508
+- 5 -
+[DELETED: 5L8,3,7,hrdt5,6ht]
+[DELETED: 5L  ' m t c o t i c o ]
+[DELETED: 5L]
+[DELETED: 5L b d c  S p s b s t c f i]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4615
+House Bill 508
+By: Representatives Jackson of the 68th, Schofield of the 63rd, Davis of the 87th, Bell of the
+75th, and Myles of the 126th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 3 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia
+2 Annotated, relating to carrying and possession of firearms, so as to prohibit the sale, transfer,
+3 use, possession, importation, or manufacture of certain firearms and magazines; to provide
+4 for the continued possession of certain firearms and magazines; to provide for exceptions and
+5 exemptions; to provide for definitions; to provide for findings; to provide for related matters;
+6 to provide an effective date; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 The General Assembly finds that:
+10 (1) Semiautomatic rifles that accept high-capacity magazines pose a significant threat to
+11 public safety in that they provide the user of the rifle the ability to fire many rounds of
+12 ammunition rapidly and thereby harm many people in a short amount of time;
+13 (2) Such semiautomatic rifles have been used in numerous mass shootings around the
+14 nation in the recent past, resulting in the death of large numbers of people, many of whom
+15 were children; and
+H. B. 508
+- 1 -
+
+25 LC 39 4615
+16 (3) There is a need to limit the ownership, possession, use, manufacture, and importation
+17 of such semiautomatic rifles into this state to reduce the danger to the public from further
+18 mass shootings using such rifles.
+19 SECTION 2.
+20 Part 3 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated,
+21 relating to carrying and possession of firearms, is amended by adding a new Code section to
+22 read as follows:
+23 "16-11-139.
+24 (a) As used in this Code section, the term:
+25 (1) 'Dealer' shall have the same meaning as set forth in Code Section 16-11-171.
+26 (2) 'Large capacity ammunition feeding device' means any magazine, clip, drum, belt,
+27 feed strip, or similar device which is designed to supply or is capable of supplying
+28 ammunition to a semiautomatic assault weapon and has a capacity in excess of 20 rounds
+29 of ammunition.
+30 (3) 'Manufacture' means the construction of the individual components of a
+31 semiautomatic assault weapon as well as the assembly of such individual components
+32 into a semiautomatic assault weapon capable of firing ammunition.
+33 (4) 'Securely stored' means placed in a locked storage container that cannot be readily
+34 accessed by those without permission or authorization to do so and is equipped with a
+35 functioning trigger lock which is operated with a key or combination lock that prevents
+36 the firearm from being discharged while the trigger lock is attached to the firearm.
+37 (5)(A) 'Semiautomatic assault weapon' means a rifle:
+38 (i) That uses the energy of an explosive in a fixed, center fire, metal cartridge to
+39 expel a single projectile through the bore of the rifle for each single pull of the trigger
+40 and to extract the fired cartridge case and chamber the next round; and
+41 (ii) Is capable of using a large capacity ammunition feeding device in its operation.
+H. B. 508
+- 2 -
+
+25 LC 39 4615
+42 (B) Such term shall not include a weapon that uses rimfire ammunition.
+43 (b) Except as otherwise provided in this Code section, it shall be unlawful to own, possess,
+44 use, sell, import, or manufacture semiautomatic assault weapons in this state.
+45 (c) Any semiautomatic assault weapon owned by a person in this state prior to July 1,
+46 2025, may be retained by the owner if such semiautomatic assault weapon is securely
+47 stored. Such semiautomatic assault weapon may be sold or transferred by the owner of
+48 such weapon only if the owner has a criminal background check of the purchaser or
+49 transferee conducted by a dealer pursuant to the National Instant Criminal Background
+50 Check System created by the federal Brady Handgun Violence Prevention Act (P.L. No.
+51 103-159) and such background check indicates that the person is eligible to purchase or
+52 receive such semiautomatic assault weapon under federal law.
+53 (d) Except as otherwise provided in this Code section, it shall be unlawful to own, possess,
+54 use, sell, import, or manufacture a large capacity ammunition feeding device in this state.
+55 (e) Any large capacity ammunition feeding devices owned by a person in this state prior
+56 to July 1, 2025, may be retained by the owner; provided, however, that the sale or transfer
+57 of any such devices shall be prohibited.
+58 (f) This Code section shall not apply to semiautomatic assault weapons or large capacity
+59 ammunition feeding devices possessed or owned by:
+60 (1) A law enforcement agency;
+61 (2) A peace officer, as such term is defined in paragraph (11) of Code Section 16-1-3,
+62 so long as such peace officer remains certified, whether employed by the state or a
+63 political subdivision of the state or by another state or a political subdivision of another
+64 state;
+65 (3) A security officer employed by a federally licensed nuclear power facility or a
+66 licensee of such facility, including a contract security officer, who is trained and qualified
+67 under a security plan approved by the United States Nuclear Regulatory Commission or
+68 other federal agency authorized to regulate nuclear facility security; provided, however,
+H. B. 508
+- 3 -
+
+25 LC 39 4615
+69 that this exemption shall apply only while such security officer is acting in connection
+70 with his or her official duties on the premises of such nuclear power facility or on
+71 properties outside the facility property pursuant to a written agreement entered into with
+72 the local law enforcement agency having jurisdiction over the facility; and
+73 (4) A peace officer, as such term is defined in paragraph (11) of Code Section 16-1-3,
+74 who has retired, so long as such retired peace officer remains certified under Chapter 8
+75 of Title 35.
+76 (g) No person exempt from the provisions of this Code section shall be authorized to sell
+77 or transfer a semiautomatic assault weapon or large capacity ammunition feeding device
+78 to any person other than a person exempt from this Code section.
+79 (h)(1) Any person convicted of a first or second violation of this Code section shall be
+80 guilty of a misdemeanor and punished by a fine of not more than $250.00 for the first
+81 offense and not more than $500.00 for the second offense.
+82 (2) Any person convicted of a third or subsequent violation of this Code section shall be
+83 guilty of a misdemeanor of a high and aggravated nature, and the sentencing court shall
+84 be authorized to revoke such person's hunting rights in this state for a length of time
+85 deemed appropriate by the court.
+86 (3) Upon conviction of a violation of this Code section, any semiautomatic assault
+87 weapon or large capacity ammunition feeding device which is the subject of the violation
+88 shall be declared contraband. Such property shall be subject to civil forfeiture in
+89 accordance with Chapter 16 of Title 9, the 'Georgia Uniform Civil Forfeiture Procedure
+90 Act.'"
+91 SECTION 3.
+92 This Act shall become effective on July 1, 2025.
+H. B. 508
+- 4 -
+
+25 LC 39 4615
+93 SECTION 4.
+94 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 508
+- 5 -
+
+[DELETED: 5L8,3,7,hrdt5,6ht]
+[DELETED: 5L  ' m t c o t i c o ]
+[DELETED: 5L]
+[DELETED: 5L b d c  S p s b s t c f i]
+[DELETED: 5L]

@@ -1,0 +1,179 @@
+Title: House Bill 628
+Official Title: House Bill 628
+Number of Sections: 1
+Source: versions - LC 50 1090/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 1090
+By: Representatives Camp of the 135th, Crowe of the 118th, Lumsden of the 12th, and
+Wiedower of the 121st
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to imposition, rate, computation, exemptions, and credits for income taxes, so as to
+3 revise an income tax credit for contributions to law enforcement foundations; to increase the
+4 annual amount of contributions allowed; to extend the sunset date; to provide for procedures;
+5 to provide for related matters; to provide for an effective date and applicability; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+10 imposition, rate, computation, exemptions, and credits for income taxes is amended in Code
+11 Section 48-7-29.25, relating to income tax credits for contributions to law enforcement
+12 foundations, by revising subsections (b) and (e) as follows:
+13 "(b)(1) The aggregate amount of tax credits allowed under this Code section shall not
+14 exceed $75 million per calendar year. Each qualified law enforcement foundation shall
+15 be limited to accepting $3 $5 million per year of contributions made under this Code
+16 section.
+H. B. 628
+- 1 -
+25 LC 50 1090
+17 (2) Subject to the aggregate limit provided in paragraph (1) of this subsection, for taxable
+18 years beginning on or after January 1, 2023, and ending on or before December 31, 2027
+19 2032, each taxpayer shall be allowed a credit against the tax imposed by this chapter for
+20 qualified contributions made by the taxpayer as follows:
+21 (A) In the case of a single individual or a head of household, the actual amount of
+22 qualified contributions made or $5,000.00 per tax year, whichever is less;
+23 (B) In the case of a married couple filing a joint return, the actual amount of qualified
+24 contributions made or $10,000.00 per tax year, whichever is less;
+25 (C) Anything to the contrary contained in subparagraph (A) or (B) of this paragraph
+26 notwithstanding, in the case of an individual taxpayer who is a member of a limited
+27 liability company duly formed under state law, a shareholder of a Subchapter 'S'
+28 corporation, or a partner in a partnership, the actual amount of qualified contributions
+29 it made or $10,000.00 per tax year, whichever is less; provided, however, that tax
+30 credits pursuant to this paragraph shall only be allowed for the portion of the income
+31 on which such tax was actually paid by such member of the limited liability company,
+32 shareholder of a Subchapter 'S' corporation, or partner in a partnership; or
+33 (D) A corporation or other entity not provided for in subparagraphs (A) through (C)
+34 of this paragraph shall be allowed a credit against the tax imposed by this chapter, for
+35 qualified contributions in an amount not to exceed the actual amount of qualified
+36 contributions made or 75 percent of such corporation's or other entity's income tax
+37 liability, whichever is less.
+38 (3) Nothing in this Code section shall be construed to limit the ability of a local law
+39 enforcement unit to receive gifts, grants, and other benefits from any source allowed by
+40 law; provided, however, that no local law enforcement unit shall, under this Code section,
+41 accept or receive more than $3 $5 million in contributions in any calendar year."
+42 "(e)(1) Prior to making a contribution to any qualified law enforcement foundation, the
+43 taxpayer shall request preapproval by electronically notify notifying the department, in
+H. B. 628
+- 2 -
+25 LC 50 1090
+44 a manner specified by the commissioner, of the total amount of contribution that such
+45 taxpayer intends to make to such qualified law enforcement foundation.
+46 (2) Within 30 days after receiving a request for preapproval of contributions, the
+47 commissioner shall preapprove, deny, or prorate requested amounts on a first come, first
+48 served basis and shall provide notice to such taxpayer and the qualified law enforcement
+49 foundation of such preapproval, denial, or proration. Such notices shall not require any
+50 signed release or notarized approval by the taxpayer. The preapproval of contributions
+51 by the commissioner shall be based solely on the availability of tax credits subject to the
+52 limits established under paragraph (1) of subsection (b) of this Code section.
+53 (3) Within 60 days after receiving the preapproval notice issued by the commissioner
+54 pursuant to paragraph (2) of this subsection, the taxpayer shall contribute the preapproved
+55 amount to the qualified law enforcement foundation or such preapproved contribution
+56 amount shall expire. The commissioner shall not include such expired amounts in
+57 determining the remaining amount amounts available under the aggregate limit limits
+58 provided in paragraph (1) of subsection (b) of this Code section for the respective
+59 calendar year."
+60 SECTION 2.
+61 This Act shall become effective on July 1, 2025, and shall be applicable to all taxable years
+62 beginning on or after January 1, 2026.
+63 SECTION 3.
+64 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 628
+- 3 -
+[DELETED: 5L R C o t 15, C o t 18, L o t 12, ahtht1]
+[DELETED: 5L c d f u s l a s o a S ']
+[DELETED: 5L  W 3 d a r a r f p o c t i p ( o s ( o t C s f t r]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 1090
+House Bill 628
+By: Representatives Camp of the 135th, Crowe of the 118th, Lumsden of the 12th, and
+Wiedower of the 121st
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to imposition, rate, computation, exemptions, and credits for income taxes, so as to
+3 revise an income tax credit for contributions to law enforcement foundations; to increase the
+4 annual amount of contributions allowed; to extend the sunset date; to provide for procedures;
+5 to provide for related matters; to provide for an effective date and applicability; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+10 imposition, rate, computation, exemptions, and credits for income taxes is amended in Code
+11 Section 48-7-29.25, relating to income tax credits for contributions to law enforcement
+12 foundations, by revising subsections (b) and (e) as follows:
+13 "(b)(1) The aggregate amount of tax credits allowed under this Code section shall not
+14 exceed $75 million per calendar year. Each qualified law enforcement foundation shall
+15 be limited to accepting $3 $5 million per year of contributions made under this Code
+16 section.
+H. B. 628
+- 1 -
+
+25 LC 50 1090
+17 (2) Subject to the aggregate limit provided in paragraph (1) of this subsection, for taxable
+18 years beginning on or after January 1, 2023, and ending on or before December 31, 2027
+19 2032, each taxpayer shall be allowed a credit against the tax imposed by this chapter for
+20 qualified contributions made by the taxpayer as follows:
+21 (A) In the case of a single individual or a head of household, the actual amount of
+22 qualified contributions made or $5,000.00 per tax year, whichever is less;
+23 (B) In the case of a married couple filing a joint return, the actual amount of qualified
+24 contributions made or $10,000.00 per tax year, whichever is less;
+25 (C) Anything to the contrary contained in subparagraph (A) or (B) of this paragraph
+26 notwithstanding, in the case of an individual taxpayer who is a member of a limited
+27 liability company duly formed under state law, a shareholder of a Subchapter 'S'
+28 corporation, or a partner in a partnership, the actual amount of qualified contributions
+29 it made or $10,000.00 per tax year, whichever is less; provided, however, that tax
+30 credits pursuant to this paragraph shall only be allowed for the portion of the income
+31 on which such tax was actually paid by such member of the limited liability company,
+32 shareholder of a Subchapter 'S' corporation, or partner in a partnership; or
+33 (D) A corporation or other entity not provided for in subparagraphs (A) through (C)
+34 of this paragraph shall be allowed a credit against the tax imposed by this chapter, for
+35 qualified contributions in an amount not to exceed the actual amount of qualified
+36 contributions made or 75 percent of such corporation's or other entity's income tax
+37 liability, whichever is less.
+38 (3) Nothing in this Code section shall be construed to limit the ability of a local law
+39 enforcement unit to receive gifts, grants, and other benefits from any source allowed by
+40 law; provided, however, that no local law enforcement unit shall, under this Code section,
+41 accept or receive more than $3 $5 million in contributions in any calendar year."
+42 "(e)(1) Prior to making a contribution to any qualified law enforcement foundation, the
+43 taxpayer shall request preapproval by electronically notify notifying the department, in
+H. B. 628
+- 2 -
+
+25 LC 50 1090
+44 a manner specified by the commissioner, of the total amount of contribution that such
+45 taxpayer intends to make to such qualified law enforcement foundation.
+46 (2) Within 30 days after receiving a request for preapproval of contributions, the
+47 commissioner shall preapprove, deny, or prorate requested amounts on a first come, first
+48 served basis and shall provide notice to such taxpayer and the qualified law enforcement
+49 foundation of such preapproval, denial, or proration. Such notices shall not require any
+50 signed release or notarized approval by the taxpayer. The preapproval of contributions
+51 by the commissioner shall be based solely on the availability of tax credits subject to the
+52 limits established under paragraph (1) of subsection (b) of this Code section.
+53 (3) Within 60 days after receiving the preapproval notice issued by the commissioner
+54 pursuant to paragraph (2) of this subsection, the taxpayer shall contribute the preapproved
+55 amount to the qualified law enforcement foundation or such preapproved contribution
+56 amount shall expire. The commissioner shall not include such expired amounts in
+57 determining the remaining amount amounts available under the aggregate limit limits
+58 provided in paragraph (1) of subsection (b) of this Code section for the respective
+59 calendar year."
+60 SECTION 2.
+61 This Act shall become effective on July 1, 2025, and shall be applicable to all taxable years
+62 beginning on or after January 1, 2026.
+63 SECTION 3.
+64 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 628
+- 3 -
+
+[DELETED: 5L R C o t 15, C o t 18, L o t 12, ahtht1]
+[DELETED: 5L c d f u s l a s o a S ']
+[DELETED: 5L  W 3 d a r a r f p o c t i p ( o s ( o t C s f t r]

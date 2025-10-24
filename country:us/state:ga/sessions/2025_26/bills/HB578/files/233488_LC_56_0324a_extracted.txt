@@ -1,0 +1,299 @@
+Title: House Bill 578
+Official Title: House Bill 578
+Number of Sections: 1
+Source: versions - LC 56 0324/a
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 56 0324
+By: Representatives Cheokas of the 151st, Greene of the 154th, Cannon of the 172nd, Smith
+of the 18th, Mathis of the 133rd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 4 of Article 2 of Chapter 5 of Title 46 of the Official Code of Georgia
+2 Annotated, relating to emergency telephone number 9-1-1 system, so as to provide for a
+3 $1.50 increase in the monthly 9-1-1 charge assessed by local governments; to provide for a
+4 $1.50 increase in the monthly wireless enhanced 9-1-1 charge assessed by local
+5 governments; to provide for a $1.50 increase in the prepaid 9-1-1 charge assessed by local
+6 governments; to provide for related matters; to repeal conflicting laws; and for other
+7 purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Part 4 of Article 2 of Chapter 5 of Title 46 of the Official Code of Georgia Annotated,
+11 relating to emergency telephone number 9-1-1 system, is amended in Code Section 46-5-134,
+12 relating to billing of subscribers, liability of subscriber for service charge, taxes on service,
+13 establishment of Emergency Telephone System Fund, cost recovery fee, records, and use of
+14 funds, by revising subsection (a) as follows:
+15 "(a)(1)(A)(i) Unless exempt, the telephone subscriber of any telephone service shall
+16 be billed for the monthly 9-1-1 charge, if any, imposed with respect to such telephone
+H. B. 578
+- 1 -
+25 LC 56 0324
+17 service by the service supplier. Beginning on July 1, 2025, such 9-1-1 charge shall
+18 be $3.00 Such 9-1-1 charge shall be $1.50 per month per telephone service provided
+19 to the telephone subscriber except as reduced pursuant to paragraph (4) of subsection
+20 (d) of this Code section.
+21 (ii) In computing the amount due under this subsection, the number of 9-1-1 charges
+22 a telephone subscriber shall be assessed shall not exceed the number of simultaneous
+23 outbound calls that can be made from voice channels the service supplier has
+24 activated and enabled. For telephone service that provides to multiple locations
+25 shared simultaneous outbound voice channel capacity configured to and capable of
+26 accessing a 9-1-1 system in different states, the monthly 9-1-1 charge shall be
+27 assessed only for the portion of such shared voice channel capacity in this state as
+28 identified by the service supplier's books and records. In determining the portion of
+29 shared capacity in this state, a service supplier may rely on, among other factors, a
+30 customer's certification of its allocation of capacity in this state, which may be based
+31 on each end user location, the total number of end users, and the number of end users
+32 at each end user location.
+33 (B) All telephone services billed to federal, state, or local governments shall be exempt
+34 from the 9-1-1 charge. Each service supplier shall, on behalf of the local government,
+35 collect the 9-1-1 charge from those telephone subscribers to whom it provides
+36 telephone service in the area served by the emergency 9-1-1 system. As part of its
+37 normal billing process, the service supplier shall collect the 9-1-1 charge for each
+38 month a telephone service is in service, and it shall list the 9-1-1 charge as a separate
+39 entry on each bill. Nothing in this Code section shall be construed to require a service
+40 supplier to list the 9-1-1 charge as a surcharge or separate entry on each bill. Service
+41 suppliers that do not list the 9-1-1 charge as a separate entry on each bill shall remit the
+42 9-1-1 charge for each telephone subscriber that pays the bill; provided, however, that
+43 this information shall be maintained in a form auditors can access. If a service supplier
+H. B. 578
+- 2 -
+25 LC 56 0324
+44 receives a partial payment for a bill from a telephone subscriber, the service supplier
+45 shall apply the payment against the amount the telephone subscriber owes the service
+46 supplier first.
+47 (C) This paragraph shall not apply to wireless service or prepaid wireless service or the
+48 telephone subscribers or service suppliers of such services.
+49 (2)(A) If the governing body of a local government operates or contracts for the
+50 operation of a public safety answering point that is capable of providing or provides
+51 automatic number identification of a wireless telecommunications connection and the
+52 location of the base station or cell site which receives a 9-1-1 call from a wireless
+53 telecommunications connection, the subscriber of a wireless telecommunications
+54 connection whose place of primary use is within the geographic area that is served by
+55 the local government or that would be served by the local government for the purpose
+56 of such a public safety answering point may be billed for the monthly wireless
+57 enhanced 9-1-1 charge, if any, imposed with respect to that connection by the wireless
+58 service supplier. Beginning on July 1, 2025, such wireless enhanced 9-1-1 charge shall
+59 be $3.00 Such wireless enhanced 9-1-1 charge shall be $1.50 per month per wireless
+60 telecommunications connection provided to the telephone subscriber except as
+61 otherwise provided in paragraph (4) of subsection (d) of this Code section.
+62 (B) If the governing body of a local government operates or contracts for the operation
+63 of an emergency 9-1-1 system which is capable of providing or provides automatic
+64 number identification and automatic location identification of a wireless
+65 telecommunications connection, the subscriber of a wireless telecommunications
+66 connection whose place of primary use is within the geographic area that is served by
+67 the local government or that would be served by the local government for the purpose
+68 of such an emergency 9-1-1 system may be billed for the monthly wireless enhanced
+69 9-1-1 charge, if any, imposed with respect to that connection by the wireless service
+70 supplier. Such wireless enhanced 9-1-1 charge may not exceed the amount of the
+H. B. 578
+- 3 -
+25 LC 56 0324
+71 monthly 9-1-1 charge imposed upon other telephone subscribers pursuant to
+72 paragraph (1) of this subsection and shall be imposed on a monthly basis for each
+73 wireless telecommunications connection provided to the telephone subscriber.
+74 (C) All wireless telecommunications connections billed to federal, state, or local
+75 governments shall be exempt from the wireless enhanced 9-1-1 charge. Each wireless
+76 service supplier shall, on behalf of the local government, collect the wireless enhanced
+77 9-1-1 charge from those telephone subscribers whose place of primary use is within the
+78 geographic area that is served by the local government or that would be served by the
+79 local government for the purpose of such an emergency 9-1-1 system. As part of its
+80 normal billing process, the wireless service supplier shall collect the wireless enhanced
+81 9-1-1 charge for each month a wireless telecommunications connection is in service,
+82 and it may list the wireless enhanced 9-1-1 charge as a separate entry on each bill.
+83 Nothing in this Code section shall be construed to require a wireless service supplier
+84 to list the 9-1-1 charge as a separate entry on each bill. Wireless service suppliers that
+85 do not list the 9-1-1 charge as a separate entry on each bill shall remit the 9-1-1 charge
+86 for each telephone subscriber that pays the bill; provided, however, that this
+87 information shall be maintained in a form auditors can access. If a wireless service
+88 supplier receives partial payment for a bill from a telephone subscriber, the wireless
+89 service supplier shall apply the payment against the amount the telephone subscriber
+90 owes the wireless service supplier first.
+91 (D) Notwithstanding the foregoing, the application of any 9-1-1 service charge with
+92 respect to a mobile telecommunications service, as defined in 4 U.S.C. Section 124(7),
+93 shall be governed by the provisions of Code Section 48-8-6.
+94 (E) This paragraph shall not apply to prepaid wireless service or the telephone
+95 subscribers or service suppliers of such service."
+H. B. 578
+- 4 -
+25 LC 56 0324
+96 SECTION 2.
+97 Said part is further amended in Code Section 46-5-134.2, relating to prepaid wireless 9-1-1
+98 charge, definitions, imposition of fee by localities, collection and remission of charges, and
+99 distribution of funds, by revising subsection (b) as follows:
+100 "(b)(1) Counties and municipalities that operate a 9-1-1 public safety answering point,
+101 including counties and municipalities that operate multijurisdictional or regional 9-1-1
+102 systems or have created a joint authority pursuant to Code Section 46-5-138, are
+103 authorized to impose by ordinance or resolution a prepaid wireless 9-1-1 charge in the
+104 amount of $1.50 $3.00 per retail transaction. Imposition of the charge authorized by this
+105 Code section by a county or municipality shall be contingent upon compliance with the
+106 requirements of paragraph (1) of subsection (j) of this Code section. Any charge imposed
+107 by ordinance pursuant to this subsection prior to July 1, 2025, shall, beginning on
+108 July 1, 2025, be in the amount of $3.00.
+109 (2) Where a county or municipality that operates a 9-1-1 public safety answering point
+110 fails to comply with the requirements of paragraph (1) of subsection (j) of this Code
+111 section by December 31, 2011, on and after that date, the prepaid wireless 9-1-1 charge
+112 authorized by paragraph (1) of this subsection shall be imposed within the jurisdiction of
+113 such counties and municipalities as a state fee for state purposes."
+114 SECTION 3.
+115 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 578
+- 5 -
+[DELETED: 5L1,4,2,tthn8,3,hr i i t m w e 9 c a b l t p f r m t r c l a f o]
+[DELETED: 5L c t c b m f v c t s s h a 9 s i d s t m 9 c s b t 9 c f t t s t w i p]
+[DELETED: 5L c t s o a w t s a p s a p m b b f t m w c p t t t s e a i a a l i o a w c t s o a w t]
+[DELETED: 5L 9 c i u o t s p t e t s t p t b p h t t  T p s n a t p w s o t t]
+[DELETED: 5L o h c a j a p t C S 4 a o p t t s p t J 1 2 s b o]
+
+
+================================================================================
+
+Raw Text:
+25 LC 56 0324
+House Bill 578
+By: Representatives Cheokas of the 151st, Greene of the 154th, Cannon of the 172nd, Smith
+of the 18th, Mathis of the 133rd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 4 of Article 2 of Chapter 5 of Title 46 of the Official Code of Georgia
+2 Annotated, relating to emergency telephone number 9-1-1 system, so as to provide for a
+3 $1.50 increase in the monthly 9-1-1 charge assessed by local governments; to provide for a
+4 $1.50 increase in the monthly wireless enhanced 9-1-1 charge assessed by local
+5 governments; to provide for a $1.50 increase in the prepaid 9-1-1 charge assessed by local
+6 governments; to provide for related matters; to repeal conflicting laws; and for other
+7 purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Part 4 of Article 2 of Chapter 5 of Title 46 of the Official Code of Georgia Annotated,
+11 relating to emergency telephone number 9-1-1 system, is amended in Code Section 46-5-134,
+12 relating to billing of subscribers, liability of subscriber for service charge, taxes on service,
+13 establishment of Emergency Telephone System Fund, cost recovery fee, records, and use of
+14 funds, by revising subsection (a) as follows:
+15 "(a)(1)(A)(i) Unless exempt, the telephone subscriber of any telephone service shall
+16 be billed for the monthly 9-1-1 charge, if any, imposed with respect to such telephone
+H. B. 578
+- 1 -
+
+25 LC 56 0324
+17 service by the service supplier. Beginning on July 1, 2025, such 9-1-1 charge shall
+18 be $3.00 Such 9-1-1 charge shall be $1.50 per month per telephone service provided
+19 to the telephone subscriber except as reduced pursuant to paragraph (4) of subsection
+20 (d) of this Code section.
+21 (ii) In computing the amount due under this subsection, the number of 9-1-1 charges
+22 a telephone subscriber shall be assessed shall not exceed the number of simultaneous
+23 outbound calls that can be made from voice channels the service supplier has
+24 activated and enabled. For telephone service that provides to multiple locations
+25 shared simultaneous outbound voice channel capacity configured to and capable of
+26 accessing a 9-1-1 system in different states, the monthly 9-1-1 charge shall be
+27 assessed only for the portion of such shared voice channel capacity in this state as
+28 identified by the service supplier's books and records. In determining the portion of
+29 shared capacity in this state, a service supplier may rely on, among other factors, a
+30 customer's certification of its allocation of capacity in this state, which may be based
+31 on each end user location, the total number of end users, and the number of end users
+32 at each end user location.
+33 (B) All telephone services billed to federal, state, or local governments shall be exempt
+34 from the 9-1-1 charge. Each service supplier shall, on behalf of the local government,
+35 collect the 9-1-1 charge from those telephone subscribers to whom it provides
+36 telephone service in the area served by the emergency 9-1-1 system. As part of its
+37 normal billing process, the service supplier shall collect the 9-1-1 charge for each
+38 month a telephone service is in service, and it shall list the 9-1-1 charge as a separate
+39 entry on each bill. Nothing in this Code section shall be construed to require a service
+40 supplier to list the 9-1-1 charge as a surcharge or separate entry on each bill. Service
+41 suppliers that do not list the 9-1-1 charge as a separate entry on each bill shall remit the
+42 9-1-1 charge for each telephone subscriber that pays the bill; provided, however, that
+43 this information shall be maintained in a form auditors can access. If a service supplier
+H. B. 578
+- 2 -
+
+25 LC 56 0324
+44 receives a partial payment for a bill from a telephone subscriber, the service supplier
+45 shall apply the payment against the amount the telephone subscriber owes the service
+46 supplier first.
+47 (C) This paragraph shall not apply to wireless service or prepaid wireless service or the
+48 telephone subscribers or service suppliers of such services.
+49 (2)(A) If the governing body of a local government operates or contracts for the
+50 operation of a public safety answering point that is capable of providing or provides
+51 automatic number identification of a wireless telecommunications connection and the
+52 location of the base station or cell site which receives a 9-1-1 call from a wireless
+53 telecommunications connection, the subscriber of a wireless telecommunications
+54 connection whose place of primary use is within the geographic area that is served by
+55 the local government or that would be served by the local government for the purpose
+56 of such a public safety answering point may be billed for the monthly wireless
+57 enhanced 9-1-1 charge, if any, imposed with respect to that connection by the wireless
+58 service supplier. Beginning on July 1, 2025, such wireless enhanced 9-1-1 charge shall
+59 be $3.00 Such wireless enhanced 9-1-1 charge shall be $1.50 per month per wireless
+60 telecommunications connection provided to the telephone subscriber except as
+61 otherwise provided in paragraph (4) of subsection (d) of this Code section.
+62 (B) If the governing body of a local government operates or contracts for the operation
+63 of an emergency 9-1-1 system which is capable of providing or provides automatic
+64 number identification and automatic location identification of a wireless
+65 telecommunications connection, the subscriber of a wireless telecommunications
+66 connection whose place of primary use is within the geographic area that is served by
+67 the local government or that would be served by the local government for the purpose
+68 of such an emergency 9-1-1 system may be billed for the monthly wireless enhanced
+69 9-1-1 charge, if any, imposed with respect to that connection by the wireless service
+70 supplier. Such wireless enhanced 9-1-1 charge may not exceed the amount of the
+H. B. 578
+- 3 -
+
+25 LC 56 0324
+71 monthly 9-1-1 charge imposed upon other telephone subscribers pursuant to
+72 paragraph (1) of this subsection and shall be imposed on a monthly basis for each
+73 wireless telecommunications connection provided to the telephone subscriber.
+74 (C) All wireless telecommunications connections billed to federal, state, or local
+75 governments shall be exempt from the wireless enhanced 9-1-1 charge. Each wireless
+76 service supplier shall, on behalf of the local government, collect the wireless enhanced
+77 9-1-1 charge from those telephone subscribers whose place of primary use is within the
+78 geographic area that is served by the local government or that would be served by the
+79 local government for the purpose of such an emergency 9-1-1 system. As part of its
+80 normal billing process, the wireless service supplier shall collect the wireless enhanced
+81 9-1-1 charge for each month a wireless telecommunications connection is in service,
+82 and it may list the wireless enhanced 9-1-1 charge as a separate entry on each bill.
+83 Nothing in this Code section shall be construed to require a wireless service supplier
+84 to list the 9-1-1 charge as a separate entry on each bill. Wireless service suppliers that
+85 do not list the 9-1-1 charge as a separate entry on each bill shall remit the 9-1-1 charge
+86 for each telephone subscriber that pays the bill; provided, however, that this
+87 information shall be maintained in a form auditors can access. If a wireless service
+88 supplier receives partial payment for a bill from a telephone subscriber, the wireless
+89 service supplier shall apply the payment against the amount the telephone subscriber
+90 owes the wireless service supplier first.
+91 (D) Notwithstanding the foregoing, the application of any 9-1-1 service charge with
+92 respect to a mobile telecommunications service, as defined in 4 U.S.C. Section 124(7),
+93 shall be governed by the provisions of Code Section 48-8-6.
+94 (E) This paragraph shall not apply to prepaid wireless service or the telephone
+95 subscribers or service suppliers of such service."
+H. B. 578
+- 4 -
+
+25 LC 56 0324
+96 SECTION 2.
+97 Said part is further amended in Code Section 46-5-134.2, relating to prepaid wireless 9-1-1
+98 charge, definitions, imposition of fee by localities, collection and remission of charges, and
+99 distribution of funds, by revising subsection (b) as follows:
+100 "(b)(1) Counties and municipalities that operate a 9-1-1 public safety answering point,
+101 including counties and municipalities that operate multijurisdictional or regional 9-1-1
+102 systems or have created a joint authority pursuant to Code Section 46-5-138, are
+103 authorized to impose by ordinance or resolution a prepaid wireless 9-1-1 charge in the
+104 amount of $1.50 $3.00 per retail transaction. Imposition of the charge authorized by this
+105 Code section by a county or municipality shall be contingent upon compliance with the
+106 requirements of paragraph (1) of subsection (j) of this Code section. Any charge imposed
+107 by ordinance pursuant to this subsection prior to July 1, 2025, shall, beginning on
+108 July 1, 2025, be in the amount of $3.00.
+109 (2) Where a county or municipality that operates a 9-1-1 public safety answering point
+110 fails to comply with the requirements of paragraph (1) of subsection (j) of this Code
+111 section by December 31, 2011, on and after that date, the prepaid wireless 9-1-1 charge
+112 authorized by paragraph (1) of this subsection shall be imposed within the jurisdiction of
+113 such counties and municipalities as a state fee for state purposes."
+114 SECTION 3.
+115 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 578
+- 5 -
+
+[DELETED: 5L1,4,2,tthn8,3,hr i i t m w e 9 c a b l t p f r m t r c l a f o]
+[DELETED: 5L c t c b m f v c t s s h a 9 s i d s t m 9 c s b t 9 c f t t s t w i p]
+[DELETED: 5L c t s o a w t s a p s a p m b b f t m w c p t t t s e a i a a l i o a w c t s o a w t]
+[DELETED: 5L 9 c i u o t s p t e t s t p t b p h t t  T p s n a t p w s o t t]
+[DELETED: 5L o h c a j a p t C S 4 a o p t t s p t J 1 2 s b o]

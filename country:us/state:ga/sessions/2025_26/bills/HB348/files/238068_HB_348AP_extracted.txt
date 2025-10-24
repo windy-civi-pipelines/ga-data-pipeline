@@ -1,0 +1,161 @@
+Title: House Bill 348 (AS PASSED HOUSE AND SENATE)
+Official Title: House Bill 348 (AS PASSED HOUSE AND SENATE)
+Number of Sections: 1
+Source: versions - HB 348/AP*
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0715/AP
+By: Representatives Williamson of the 112th, Lumsden of the 12th, Tarvin of the 2nd, Burchett
+of the 176th, Hugley of the 141st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapters 14 and 41 of Title 33 of the Official Code of Georgia Annotated, relating
+2 to domestic stock and mutual insurers and captive insurance companies, respectively, so as
+3 to expand the lines of insurance or reinsurance in which a limited purpose subsidiary and
+4 captive insurance company may engage; to provide for definitions; to provide for related
+5 matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 14 of Title 33 of the Official Code of Georgia Annotated, relating to domestic stock
+9 and mutual insurers, is amended in Article 5, relating to limited purpose subsidiary insurance
+10 companies, by revising Code Section 33-14-103, relating to powers of limited purpose
+11 subsidiary, as follows:
+12 "33-14-103.
+13 (a) As used in this Code section, the term 'sponsor' means any entity that sponsors or
+14 co-sponsors the formation of a limited purpose subsidiary or the issuances of securities by
+15 a limited purpose subsidiary or participates in a limited purpose subsidiary as an investor
+16 or otherwise assists with the raising of equity or debt for a limited purpose subsidiary.
+H. B. 348
+- 1 -
+25 LC 52 0715/AP
+17 (b) A limited purpose subsidiary that is granted a certificate of authority by the
+18 Commissioner under this article:
+19 (1) Is wholly owned by the organizing domestic reinsurer or one or more sponsors;
+20 (2) Is authorized to engage in the business of reinsurance only for the lines of insurance
+21 for which the organizing domestic reinsurer or a sponsor is authorized; and
+22 (3) May reinsure only risks of the organizing domestic reinsurer; and
+23 (4) May access alternative forms of financing."
+24 SECTION 2.
+25 Chapter 41 of said title, relating to captive insurance companies, is amended in Code Section
+26 33-41-2, relating to definitions, by revising paragraph (6) as follows:
+27 "(6) 'Controlled unaffiliated business' means:
+28 (A) Any person:
+29 (i) That is not in the corporate system of a parent and its affiliated companies;
+30 (ii) That has an existing a reinsurance, risk-sharing, or other contractual relationship
+31 with a parent or one of its affiliated companies or is a direct or indirect investor in a
+32 pure captive insurance company; and
+33 (iii) Whose risks are managed by or directly or indirectly ceded to a captive insurance
+34 company in accordance with this chapter and approved by the Commissioner; or
+35 (B) A reinsurance arrangement with other captive insurance companies that is
+36 approved by the Commissioner."
+37 SECTION 3.
+38 Said chapter is further amended in Code Section 33-41-3, relating to permissible business
+39 and limitations, by revising subsection (a) as follows:
+40 "(a) Subject to the provisions of subsection (c) of this Code section and the other
+41 provisions of this chapter, a captive insurance company, where permitted by its formation
+H. B. 348
+- 2 -
+25 LC 52 0715/AP
+42 documents, may engage in the business of any of the following kinds of insurance or
+43 reinsurance: that the Commissioner may deem reasonable.
+44 (1) Casualty, as described in Code Section 33-7-3 but excluding accident and sickness
+45 insurance as defined in Code Section 33-7-2, except for a pure captive insurance
+46 company, which may engage in the business of accident and sickness insurance as
+47 defined in Code Section 33-7-2;
+48 (2) Marine and transportation, as described in Code Section 33-7-5;
+49 (3) Property, as described in Code Section 33-7-6; and
+50 (4) Surety, as described in Code Section 33-7-7."
+51 SECTION 4.
+52 This Act shall become effective on the first day of the month following the month in which
+53 it is approved by the Governor or upon its becoming law without such approval.
+54 SECTION 5.
+55 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 348
+- 3 -
+[DELETED: 5L2,2,2,hthn6,1,hs]
+[DELETED: 5L  A l p s t i g a c o a b t  A r a w o c i c t i  S t t p o s ( o t C s a t o]
+[DELETED: 5L a d i C S 3 e f a p c i]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0715/AP
+House Bill 348 (AS PASSED HOUSE AND SENATE)
+By: Representatives Williamson of the 112th, Lumsden of the 12th, Tarvin of the 2nd, Burchett
+of the 176th, Hugley of the 141st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapters 14 and 41 of Title 33 of the Official Code of Georgia Annotated, relating
+2 to domestic stock and mutual insurers and captive insurance companies, respectively, so as
+3 to expand the lines of insurance or reinsurance in which a limited purpose subsidiary and
+4 captive insurance company may engage; to provide for definitions; to provide for related
+5 matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 14 of Title 33 of the Official Code of Georgia Annotated, relating to domestic stock
+9 and mutual insurers, is amended in Article 5, relating to limited purpose subsidiary insurance
+10 companies, by revising Code Section 33-14-103, relating to powers of limited purpose
+11 subsidiary, as follows:
+12 "33-14-103.
+13 (a) As used in this Code section, the term 'sponsor' means any entity that sponsors or
+14 co-sponsors the formation of a limited purpose subsidiary or the issuances of securities by
+15 a limited purpose subsidiary or participates in a limited purpose subsidiary as an investor
+16 or otherwise assists with the raising of equity or debt for a limited purpose subsidiary.
+H. B. 348
+- 1 -
+
+25 LC 52 0715/AP
+17 (b) A limited purpose subsidiary that is granted a certificate of authority by the
+18 Commissioner under this article:
+19 (1) Is wholly owned by the organizing domestic reinsurer or one or more sponsors;
+20 (2) Is authorized to engage in the business of reinsurance only for the lines of insurance
+21 for which the organizing domestic reinsurer or a sponsor is authorized; and
+22 (3) May reinsure only risks of the organizing domestic reinsurer; and
+23 (4) May access alternative forms of financing."
+24 SECTION 2.
+25 Chapter 41 of said title, relating to captive insurance companies, is amended in Code Section
+26 33-41-2, relating to definitions, by revising paragraph (6) as follows:
+27 "(6) 'Controlled unaffiliated business' means:
+28 (A) Any person:
+29 (i) That is not in the corporate system of a parent and its affiliated companies;
+30 (ii) That has an existing a reinsurance, risk-sharing, or other contractual relationship
+31 with a parent or one of its affiliated companies or is a direct or indirect investor in a
+32 pure captive insurance company; and
+33 (iii) Whose risks are managed by or directly or indirectly ceded to a captive insurance
+34 company in accordance with this chapter and approved by the Commissioner; or
+35 (B) A reinsurance arrangement with other captive insurance companies that is
+36 approved by the Commissioner."
+37 SECTION 3.
+38 Said chapter is further amended in Code Section 33-41-3, relating to permissible business
+39 and limitations, by revising subsection (a) as follows:
+40 "(a) Subject to the provisions of subsection (c) of this Code section and the other
+41 provisions of this chapter, a captive insurance company, where permitted by its formation
+H. B. 348
+- 2 -
+
+25 LC 52 0715/AP
+42 documents, may engage in the business of any of the following kinds of insurance or
+43 reinsurance: that the Commissioner may deem reasonable.
+44 (1) Casualty, as described in Code Section 33-7-3 but excluding accident and sickness
+45 insurance as defined in Code Section 33-7-2, except for a pure captive insurance
+46 company, which may engage in the business of accident and sickness insurance as
+47 defined in Code Section 33-7-2;
+48 (2) Marine and transportation, as described in Code Section 33-7-5;
+49 (3) Property, as described in Code Section 33-7-6; and
+50 (4) Surety, as described in Code Section 33-7-7."
+51 SECTION 4.
+52 This Act shall become effective on the first day of the month following the month in which
+53 it is approved by the Governor or upon its becoming law without such approval.
+54 SECTION 5.
+55 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 348
+- 3 -
+
+[DELETED: 5L2,2,2,hthn6,1,hs]
+[DELETED: 5L  A l p s t i g a c o a b t  A r a w o c i c t i  S t t p o s ( o t C s a t o]
+[DELETED: 5L a d i C S 3 e f a p c i]
