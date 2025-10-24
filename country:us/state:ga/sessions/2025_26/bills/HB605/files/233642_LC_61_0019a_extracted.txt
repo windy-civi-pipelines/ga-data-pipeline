@@ -1,0 +1,183 @@
+Title: House Bill 605
+Official Title: House Bill 605
+Number of Sections: 1
+Source: versions - LC 61 0019/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 61 0019
+By: Representatives Lim of the 98th, Roberts of the 52nd, and Lupton of the 83rd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated,
+2 relating to general provisions related to the Department of Public Health, so as to require the
+3 Department of Public Health to continue operation of the Georgia Tobacco Quit Line, subject
+4 to appropriations or the availability of other funds; to provide for definitions; to provide
+5 requirements for the Quit Line; to provide that the Quit Line will provide information about,
+6 evaluation for, and referrals to lung cancer screening services; to provide for the utilization
+7 and security of any data collected by the Quit Line; to provide for the creation of written
+8 materials with information about the Quit Line by the Department of Public Health and to
+9 require certain sellers of tobacco products to display and distribute such written materials;
+10 to provide for related matters; to repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to
+14 general provisions related to the Department of Public Health, is amended by adding a new
+15 Code section to read as follows:
+H. B. 605
+- 1 -
+25 LC 61 0019
+16 "31-2A-21.
+17 (a) As used in this Code section, the term:
+18 (1) 'Alternative nicotine product', 'cigarette', 'tobacco product', 'tobacco related object',
+19 and 'vapor product' shall have the same meanings as set forth in Code Section 16-12-170.
+20 (2) 'Quit Line' means the Georgia Tobacco Quit Line operated by the Department of
+21 Public Health pursuant to this Code section.
+22 (b) Subject to appropriations or the availability of other funds, the department shall
+23 continue to operate, maintain, and make available a public health service to help Georgians
+24 quit smoking, vaping, and using all forms of tobacco products, known as the Georgia
+25 Tobacco Quit Line. The department may contract for the design, operation, and
+26 maintenance of the Quit Line.
+27 (c) The Quit Line shall be available 24 hours a day, seven days a week. The Quit Line
+28 shall:
+29 (1) Provide cessation services that address the use of all tobacco products;
+30 (2) Provide telephone, text, and internet based services for users of tobacco products,
+31 vapor products, and alternative nicotine products, provided that such users are 13 years
+32 of age or older;
+33 (3) Provide services and support for pregnant and postpartum women who use tobacco
+34 products, vapor products, or alternative nicotine products;
+35 (4) Provide support in multiple languages;
+36 (5) Provide referrals to community resources, when applicable;
+37 (6) Provide free supplies of nicotine replacement therapies, such as gum or patches, for
+38 qualified Georgia residents 18 years of age and older;
+39 (7) Provide information about lung cancer screening to individuals accessing the Quit
+40 Line, evaluate lung cancer screening eligibility for individuals accessing the Quit Line,
+41 and provide referrals to lung cancer screening services, when applicable;
+42 (8) Follow national guidelines for treating tobacco use and dependence;
+H. B. 605
+- 2 -
+25 LC 61 0019
+43 (9) Implement practices to comply with all applicable laws respecting individual and
+44 patient privacy;
+45 (10) Implement practices to ensure the security of any data collected, if applicable, in
+46 line with industry best practices and in compliance with all applicable laws; and
+47 (11) Utilize de-identified data to track the success of the Quit Line's operations and
+48 identify trends in service needs and outcomes.
+49 (d) The department shall design appropriate written materials, including signage and
+50 materials for distribution by retailers to individuals who purchase cigarettes, tobacco
+51 products, vapor products, or alternative nicotine products, to inform individuals about the
+52 Quit Line. Such written materials shall include:
+53 (1) Information on the services provided by the Quit Line, including information about
+54 services related to lung cancer screening;
+55 (2) Information on the effectiveness of and eligibility for lung cancer screening; and
+56 (3) Contact information for the Quit Line, such as a telephone number or a public
+57 website.
+58 (e)(1) Any person owning or operating a place of business in which cigarettes, tobacco
+59 products, tobacco related objects, vapor products, or alternative nicotine products are sold
+60 or offered for sale shall post in a conspicuous place signage designed by the department
+61 pursuant to subsection (d) of this Code section.
+62 (2) Any person provided for in paragraph (1) of this subsection shall distribute to
+63 individuals purchasing cigarettes, tobacco products, vapor products, or alternative
+64 nicotine products the written materials designed by the department pursuant to subsection
+65 (d) of this Code section."
+66 SECTION 2.
+67 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 605
+- 3 -
+[DELETED: 5L8,2,3hndr]
+[DELETED: 5L Q L  T d m c f t d o a]
+[DELETED: 5L p c t p v p o a]
+
+
+================================================================================
+
+Raw Text:
+25 LC 61 0019
+House Bill 605
+By: Representatives Lim of the 98th, Roberts of the 52nd, and Lupton of the 83rd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated,
+2 relating to general provisions related to the Department of Public Health, so as to require the
+3 Department of Public Health to continue operation of the Georgia Tobacco Quit Line, subject
+4 to appropriations or the availability of other funds; to provide for definitions; to provide
+5 requirements for the Quit Line; to provide that the Quit Line will provide information about,
+6 evaluation for, and referrals to lung cancer screening services; to provide for the utilization
+7 and security of any data collected by the Quit Line; to provide for the creation of written
+8 materials with information about the Quit Line by the Department of Public Health and to
+9 require certain sellers of tobacco products to display and distribute such written materials;
+10 to provide for related matters; to repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to
+14 general provisions related to the Department of Public Health, is amended by adding a new
+15 Code section to read as follows:
+H. B. 605
+- 1 -
+
+25 LC 61 0019
+16 "31-2A-21.
+17 (a) As used in this Code section, the term:
+18 (1) 'Alternative nicotine product', 'cigarette', 'tobacco product', 'tobacco related object',
+19 and 'vapor product' shall have the same meanings as set forth in Code Section 16-12-170.
+20 (2) 'Quit Line' means the Georgia Tobacco Quit Line operated by the Department of
+21 Public Health pursuant to this Code section.
+22 (b) Subject to appropriations or the availability of other funds, the department shall
+23 continue to operate, maintain, and make available a public health service to help Georgians
+24 quit smoking, vaping, and using all forms of tobacco products, known as the Georgia
+25 Tobacco Quit Line. The department may contract for the design, operation, and
+26 maintenance of the Quit Line.
+27 (c) The Quit Line shall be available 24 hours a day, seven days a week. The Quit Line
+28 shall:
+29 (1) Provide cessation services that address the use of all tobacco products;
+30 (2) Provide telephone, text, and internet based services for users of tobacco products,
+31 vapor products, and alternative nicotine products, provided that such users are 13 years
+32 of age or older;
+33 (3) Provide services and support for pregnant and postpartum women who use tobacco
+34 products, vapor products, or alternative nicotine products;
+35 (4) Provide support in multiple languages;
+36 (5) Provide referrals to community resources, when applicable;
+37 (6) Provide free supplies of nicotine replacement therapies, such as gum or patches, for
+38 qualified Georgia residents 18 years of age and older;
+39 (7) Provide information about lung cancer screening to individuals accessing the Quit
+40 Line, evaluate lung cancer screening eligibility for individuals accessing the Quit Line,
+41 and provide referrals to lung cancer screening services, when applicable;
+42 (8) Follow national guidelines for treating tobacco use and dependence;
+H. B. 605
+- 2 -
+
+25 LC 61 0019
+43 (9) Implement practices to comply with all applicable laws respecting individual and
+44 patient privacy;
+45 (10) Implement practices to ensure the security of any data collected, if applicable, in
+46 line with industry best practices and in compliance with all applicable laws; and
+47 (11) Utilize de-identified data to track the success of the Quit Line's operations and
+48 identify trends in service needs and outcomes.
+49 (d) The department shall design appropriate written materials, including signage and
+50 materials for distribution by retailers to individuals who purchase cigarettes, tobacco
+51 products, vapor products, or alternative nicotine products, to inform individuals about the
+52 Quit Line. Such written materials shall include:
+53 (1) Information on the services provided by the Quit Line, including information about
+54 services related to lung cancer screening;
+55 (2) Information on the effectiveness of and eligibility for lung cancer screening; and
+56 (3) Contact information for the Quit Line, such as a telephone number or a public
+57 website.
+58 (e)(1) Any person owning or operating a place of business in which cigarettes, tobacco
+59 products, tobacco related objects, vapor products, or alternative nicotine products are sold
+60 or offered for sale shall post in a conspicuous place signage designed by the department
+61 pursuant to subsection (d) of this Code section.
+62 (2) Any person provided for in paragraph (1) of this subsection shall distribute to
+63 individuals purchasing cigarettes, tobacco products, vapor products, or alternative
+64 nicotine products the written materials designed by the department pursuant to subsection
+65 (d) of this Code section."
+66 SECTION 2.
+67 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 605
+- 3 -
+
+[DELETED: 5L8,2,3hndr]
+[DELETED: 5L Q L  T d m c f t d o a]
+[DELETED: 5L p c t p v p o a]

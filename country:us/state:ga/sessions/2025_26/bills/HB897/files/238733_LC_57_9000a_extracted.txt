@@ -1,0 +1,454 @@
+Title: House Bill 897
+Official Title: House Bill 897
+Number of Sections: 1
+Source: versions - LC 57 9000/a
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25 LC 57 9000
+By: Representatives Au of the 50th, Hugley of the 141st, Park of the 107th, Miller of the 62nd,
+Frye of the 122nd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to public
+2 assistance, so as to make insulin accessible to individuals who are in urgent need of a
+3 short-term affordable insulin supply; to provide for a short title; to provide for definitions;
+4 to require a pharmacy to dispense a 30 day supply of insulin to an eligible individual through
+5 the Urgent Insulin Safety Net Program; to allow a pharmacy to collect a copayment for
+6 insulin dispensed through such program; to provide for a pharmacy to submit a claim for
+7 payment or a replacement supply after dispensing insulin through such program; to require
+8 a manufacturer to reimburse or resupply a pharmacy dispensing insulin through such
+9 program; to provide for a pharmacy to dispense one additional short-term affordable urgent
+10 insulin supply under certain conditions; to require the Department of Community Health to
+11 develop an application form, an information sheet, and satisfaction surveys regarding such
+12 program; to require a manufacturer of insulin to establish procedures to make insulin
+13 available under such program; to provide for enforcement, penalties, and appellate
+14 procedures; to provide for reporting; to provide for related matters; to provide for an effective
+15 date; to repeal conflicting laws; and for other purposes.
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 897
+- 1 -
+25 LC 57 9000
+17 SECTION 1.
+18 Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to public assistance,
+19 is amended by adding a new article to read as follows:
+20 "ARTICLE 10
+21 49-4-200.
+22 This article shall be known and may be cited as the 'Urgent Insulin Safety Net Program
+23 Act.'
+24 49-4-201.
+25 As used in this article, the term:
+26 (1) 'Board' means the State Board of Pharmacy.
+27 (2) 'Department' means the Department of Community Health.
+28 (3) 'Eligible individual' means an individual qualified for assistance under the program
+29 as provided in Code Section 49-4-204.
+30 (4) 'Insulin' means various types of insulin analogs and insulin-like medications,
+31 regardless of activation period or whether the solution is mixed before or after
+32 dispensation. An insulin product is exempt from the provisions of this article if the
+33 wholesale acquisition cost of the insulin is $8.00 or less per milliliter or applicable
+34 National Council for Prescription Drug Plan billing unit for the entire assessment time
+35 period, adjusted annually based on the Consumer Price Index.
+36 (5) 'Manufacturer' means a manufacturer engaged in the production of insulin that is
+37 self-administered on an outpatient basis. Such term shall not include a manufacturer with
+38 an annual gross revenue of $2 million or less from insulin sales in this state.
+39 (6) 'Pharmacy' shall have the same meaning as provided in Code Section 26-4-5.
+40 (7) 'Program' means the Urgent Insulin Safety Net Program as provided for in this article.
+H. B. 897
+- 2 -
+25 LC 57 9000
+41 (8) 'Proper identification' means any document issued by a governmental agency
+42 containing a description of the individual, such individual's photograph, or both, and
+43 giving such individual's date of birth and includes, without being limited to, a passport,
+44 military identification card, driver's license, or an identification card authorized under
+45 Code Sections 40-5-100 through 40-5-104. Proper identification shall not include a birth
+46 certificate.
+47 (9) 'Urgent need of insulin' means having readily available for use less than a seven-day
+48 supply of insulin and in need of insulin in order to avoid the likelihood of suffering
+49 significant health consequences.
+50 49-4-202.
+51 (a) Upon receipt of a completed, signed, and dated application form, as provided for in
+52 Code Section 49-4-204, proof of proper identification, and a copy of a current valid insulin
+53 prescription, a pharmacy shall dispense one 30 day supply of insulin to an eligible
+54 individual in urgent need of insulin; provided, however, that a pharmacy may dispense one
+55 additional 30 day supply of insulin within a 12 month period to an eligible individual as
+56 provided in Code Section 49-4-203.
+57 (b) The pharmacy may collect a copayment from the individual to whom insulin was
+58 dispensed through the program to cover such pharmacy's costs of processing and
+59 dispensing insulin as part of the program in an amount not to exceed $35.00 for the 30 day
+60 supply of insulin dispensed.
+61 (c) The pharmacy shall notify the healthcare provider who issued the insulin prescription
+62 for the eligible individual no later than 72 hours after the insulin is dispensed.
+63 (d) The pharmacy shall submit to the manufacturer of the dispensed insulin product or to
+64 the manufacturer's vendor a claim for payment that conforms with the National Council for
+65 Prescription Drug Program standards for electronic claims processing. The manufacturer
+66 shall timely reimburse the pharmacy in an amount that covers the pharmacy's acquisition
+H. B. 897
+- 3 -
+25 LC 57 9000
+67 cost for the insulin and shall timely send the pharmacy a replacement supply of the same
+68 insulin dispensed under the program.
+69 (e) When the pharmacy dispenses the insulin to the eligible individual, the pharmacy shall
+70 also provide an information sheet and a survey, as provided for in Code Sections 49-4-205
+71 and 49-4-206, respectively.
+72 (f) The pharmacy shall retain a copy of submitted applications for reporting and auditing
+73 purposes.
+74 49-4-203.
+75 (a) A pharmacy shall dispense one additional 30 day supply of insulin to an eligible
+76 individual in urgent need of insulin within a 12 month period if such individual has applied
+77 for medical assistance, Georgia Medicaid, or PeachCare for Kids, and has not been
+78 determined eligible or has been determined eligible and coverage has not become effective.
+79 (b) To access one additional 30 day supply of insulin, such eligible individual shall attest
+80 to the pharmacy that the individual meets the requirements of subsection (a) of this Code
+81 section and shall be in compliance with the requirements provided in Code
+82 Section 49-4-204.
+83 49-4-204.
+84 (a) To be deemed eligible for services under this article, an individual shall attest on an
+85 application form as provided for in subsection (b) of this Code section that the individual:
+86 (1) Is a resident of this state;
+87 (2) Is not enrolled in any medical assistance or other health coverage or prescription drug
+88 coverage program that limits such enrollee's total amount of cost-sharing for a 30 day
+89 supply of insulin, including copayments, deductibles, or coinsurance, to $75.00 or less,
+90 regardless of the type or amount of insulin prescribed;
+H. B. 897
+- 4 -
+25 LC 57 9000
+91 (3) Has not received insulin through the program within the previous 12 months, except
+92 as provided in Code Section 49-4-203; and
+93 (4) Has an urgent need of insulin.
+94 (b) The department shall develop and make available on its website an application form
+95 for the program.
+96 49-4-205.
+97 (a) The department, in coordination with the board, shall develop an information sheet that
+98 shall include, but shall not be limited to:
+99 (1) A description of the program, including how to access it;
+100 (2) Information on applying for medical assistance;
+101 (3) Information on applying for a qualified health benefit plan offered through the
+102 exchange as defined in Code Section 33-23-201; and
+103 (4) Information on accessing healthcare providers who participate in prescription drug
+104 discount programs, including providers who are authorized to participate in the 340B
+105 program under section 340B of the federal Public Health Service Act, 42 U.S.C.
+106 Section 256b, as amended.
+107 (b) The department shall post the information sheet provided for in subsection (a) of this
+108 Code section on its website.
+109 49-4-206.
+110 (a) The department, in coordination with the board, shall develop a survey to assess an
+111 eligible individual's satisfaction with the program, including:
+112 (1) Adequacy of information available and provided to individuals;
+113 (2) Accessibility to insulin; and
+114 (3) Individual's ability to access affordable insulin.
+H. B. 897
+- 5 -
+25 LC 57 9000
+115 (b) The department, in coordination with the board, shall develop a survey to assess a
+116 pharmacy's satisfaction with the program, including:
+117 (1) Timeliness of reimbursement from the manufacturers for insulin dispensed through
+118 the program;
+119 (2) Ease in submitting claims and insulin product orders to the manufacturers; and
+120 (3) Timeliness of receiving insulin replacement orders from the manufacturers.
+121 (c) The department shall post the surveys provided for in subsections (a) and (b) of this
+122 Code section on its website.
+123 49-4-207.
+124 Each manufacturer shall:
+125 (1) Establish procedures to make insulin available in accordance with this article through
+126 pharmacies to eligible individuals who are in urgent need of insulin;
+127 (2) Establish a hotline to provide information on the program and shall list on its website
+128 information about the program; and
+129 (3) Provide for dedicated personnel to promptly respond to individuals, pharmacies, and
+130 healthcare providers and the department.
+131 49-4-208.
+132 (a) Any person who by means of a false statement, failure to disclose information, or
+133 impersonation, or by other fraudulent device, obtains or attempts to obtain any assistance,
+134 benefit, or payment under this article to which such person is not entitled shall be guilty of
+135 a misdemeanor; provided, however, that if the value of the assistance so obtained exceeds
+136 $1,500.00, such person shall be guilty of a felony.
+137 (b)(1) If a manufacturer fails to comply with the provisions of this article, the department
+138 may assess an administrative penalty of $200,000.00 per month of such noncompliance.
+H. B. 897
+- 6 -
+25 LC 57 9000
+139 (2) Such penalty shall increase to $400,000.00 per month if the manufacturer continues
+140 to be in noncompliance after six months and shall increase to $600,000.00 per month if
+141 the manufacturer continues to be in noncompliance after one year.
+142 (3) The penalty shall remain at $600,000.00 per month for as long as the manufacturer
+143 continues in noncompliance.
+144 (c) An individual or entity that is aggrieved by the action of the department pursuant to
+145 subsection (a) or (b) of this Code section shall be entitled to a hearing conducted in
+146 accordance with Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act.'
+147 49-4-209.
+148 (a) By July 1, 2026, and every July 1 thereafter, each manufacturer shall report to the
+149 department the following information for the preceding calendar year:
+150 (1) The number of Georgia residents who accessed and received insulin through the
+151 program;
+152 (2) The total value of the insulin, determined by the wholesale acquisition cost of the
+153 insulin, provided by the manufacturer for the program;
+154 (3) The adequacy and timeliness of the manufacturer in responding to a pharmacy
+155 requesting reimbursement or resupply of insulin dispensed through the program;
+156 (4) Any administrative penalties assessed under Code Section 49-4-208; and
+157 (5) Any additional information deemed necessary by the department.
+158 (b) By July 1, 2026, and every July 1 thereafter, a pharmacy that received any applications
+159 for the program shall report to the department the following information for the preceding
+160 calendar year:
+161 (1) The number of applications for an urgent insulin supply received and the number of
+162 applications for additional urgent insulin supply received;
+163 (2) The reasons for determinations of ineligibility;
+164 (3) The amount of insulin dispensed through the program;
+H. B. 897
+- 7 -
+25 LC 57 9000
+165 (4) The average and total amount of copayment collected from individuals;
+166 (5) The timeliness of manufacturers' responses to requests for payment and re-supply of
+167 insulin; and
+168 (6) Any additional information deemed necessary by the department.
+169 (c) By August 15, 2027, and every August 15 thereafter, the department shall submit to
+170 the General Assembly a report regarding the implementation of the program under this
+171 article. Such report shall include the following information for the preceding year:
+172 (1) The data collected under subsections (a) and (b) of this Code section;
+173 (2) The results of the satisfaction surveys provided for in Code Section 49-4-206; and
+174 (3) Any additional information deemed necessary by the department to assess the
+175 effectiveness of the implementation of the program."
+176 SECTION 2.
+177 This Act shall become effective July 1, 2025.
+178 SECTION 3.
+179 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 897
+- 8 -
+[DELETED: 5L0,1,7,2hstthn2, m t r o r a p d i t s t r a m o i t e p t m i u s p t p f e p a a]
+[DELETED: 5L  ' m v t o i a a i m o a p o w t s i m b o a]
+[DELETED: 5L  ' i m a d i b a g a a p s d o 3 d s o i t a e t t p t c s p c o p a]
+[DELETED: 5L m a G M o P f K a h n b a s b i c w t r p i C]
+[DELETED: 5L u s 3 o t f P H S A 4 U]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L  A a i d n b t d t a t]
+
+
+================================================================================
+
+Raw Text:
+25 LC 57 9000
+House Bill 897
+By: Representatives Au of the 50th, Hugley of the 141st, Park of the 107th, Miller of the 62nd,
+Frye of the 122nd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to public
+2 assistance, so as to make insulin accessible to individuals who are in urgent need of a
+3 short-term affordable insulin supply; to provide for a short title; to provide for definitions;
+4 to require a pharmacy to dispense a 30 day supply of insulin to an eligible individual through
+5 the Urgent Insulin Safety Net Program; to allow a pharmacy to collect a copayment for
+6 insulin dispensed through such program; to provide for a pharmacy to submit a claim for
+7 payment or a replacement supply after dispensing insulin through such program; to require
+8 a manufacturer to reimburse or resupply a pharmacy dispensing insulin through such
+9 program; to provide for a pharmacy to dispense one additional short-term affordable urgent
+10 insulin supply under certain conditions; to require the Department of Community Health to
+11 develop an application form, an information sheet, and satisfaction surveys regarding such
+12 program; to require a manufacturer of insulin to establish procedures to make insulin
+13 available under such program; to provide for enforcement, penalties, and appellate
+14 procedures; to provide for reporting; to provide for related matters; to provide for an effective
+15 date; to repeal conflicting laws; and for other purposes.
+16 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 897
+- 1 -
+
+25 LC 57 9000
+17 SECTION 1.
+18 Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to public assistance,
+19 is amended by adding a new article to read as follows:
+20 "ARTICLE 10
+21 49-4-200.
+22 This article shall be known and may be cited as the 'Urgent Insulin Safety Net Program
+23 Act.'
+24 49-4-201.
+25 As used in this article, the term:
+26 (1) 'Board' means the State Board of Pharmacy.
+27 (2) 'Department' means the Department of Community Health.
+28 (3) 'Eligible individual' means an individual qualified for assistance under the program
+29 as provided in Code Section 49-4-204.
+30 (4) 'Insulin' means various types of insulin analogs and insulin-like medications,
+31 regardless of activation period or whether the solution is mixed before or after
+32 dispensation. An insulin product is exempt from the provisions of this article if the
+33 wholesale acquisition cost of the insulin is $8.00 or less per milliliter or applicable
+34 National Council for Prescription Drug Plan billing unit for the entire assessment time
+35 period, adjusted annually based on the Consumer Price Index.
+36 (5) 'Manufacturer' means a manufacturer engaged in the production of insulin that is
+37 self-administered on an outpatient basis. Such term shall not include a manufacturer with
+38 an annual gross revenue of $2 million or less from insulin sales in this state.
+39 (6) 'Pharmacy' shall have the same meaning as provided in Code Section 26-4-5.
+40 (7) 'Program' means the Urgent Insulin Safety Net Program as provided for in this article.
+H. B. 897
+- 2 -
+
+25 LC 57 9000
+41 (8) 'Proper identification' means any document issued by a governmental agency
+42 containing a description of the individual, such individual's photograph, or both, and
+43 giving such individual's date of birth and includes, without being limited to, a passport,
+44 military identification card, driver's license, or an identification card authorized under
+45 Code Sections 40-5-100 through 40-5-104. Proper identification shall not include a birth
+46 certificate.
+47 (9) 'Urgent need of insulin' means having readily available for use less than a seven-day
+48 supply of insulin and in need of insulin in order to avoid the likelihood of suffering
+49 significant health consequences.
+50 49-4-202.
+51 (a) Upon receipt of a completed, signed, and dated application form, as provided for in
+52 Code Section 49-4-204, proof of proper identification, and a copy of a current valid insulin
+53 prescription, a pharmacy shall dispense one 30 day supply of insulin to an eligible
+54 individual in urgent need of insulin; provided, however, that a pharmacy may dispense one
+55 additional 30 day supply of insulin within a 12 month period to an eligible individual as
+56 provided in Code Section 49-4-203.
+57 (b) The pharmacy may collect a copayment from the individual to whom insulin was
+58 dispensed through the program to cover such pharmacy's costs of processing and
+59 dispensing insulin as part of the program in an amount not to exceed $35.00 for the 30 day
+60 supply of insulin dispensed.
+61 (c) The pharmacy shall notify the healthcare provider who issued the insulin prescription
+62 for the eligible individual no later than 72 hours after the insulin is dispensed.
+63 (d) The pharmacy shall submit to the manufacturer of the dispensed insulin product or to
+64 the manufacturer's vendor a claim for payment that conforms with the National Council for
+65 Prescription Drug Program standards for electronic claims processing. The manufacturer
+66 shall timely reimburse the pharmacy in an amount that covers the pharmacy's acquisition
+H. B. 897
+- 3 -
+
+25 LC 57 9000
+67 cost for the insulin and shall timely send the pharmacy a replacement supply of the same
+68 insulin dispensed under the program.
+69 (e) When the pharmacy dispenses the insulin to the eligible individual, the pharmacy shall
+70 also provide an information sheet and a survey, as provided for in Code Sections 49-4-205
+71 and 49-4-206, respectively.
+72 (f) The pharmacy shall retain a copy of submitted applications for reporting and auditing
+73 purposes.
+74 49-4-203.
+75 (a) A pharmacy shall dispense one additional 30 day supply of insulin to an eligible
+76 individual in urgent need of insulin within a 12 month period if such individual has applied
+77 for medical assistance, Georgia Medicaid, or PeachCare for Kids, and has not been
+78 determined eligible or has been determined eligible and coverage has not become effective.
+79 (b) To access one additional 30 day supply of insulin, such eligible individual shall attest
+80 to the pharmacy that the individual meets the requirements of subsection (a) of this Code
+81 section and shall be in compliance with the requirements provided in Code
+82 Section 49-4-204.
+83 49-4-204.
+84 (a) To be deemed eligible for services under this article, an individual shall attest on an
+85 application form as provided for in subsection (b) of this Code section that the individual:
+86 (1) Is a resident of this state;
+87 (2) Is not enrolled in any medical assistance or other health coverage or prescription drug
+88 coverage program that limits such enrollee's total amount of cost-sharing for a 30 day
+89 supply of insulin, including copayments, deductibles, or coinsurance, to $75.00 or less,
+90 regardless of the type or amount of insulin prescribed;
+H. B. 897
+- 4 -
+
+25 LC 57 9000
+91 (3) Has not received insulin through the program within the previous 12 months, except
+92 as provided in Code Section 49-4-203; and
+93 (4) Has an urgent need of insulin.
+94 (b) The department shall develop and make available on its website an application form
+95 for the program.
+96 49-4-205.
+97 (a) The department, in coordination with the board, shall develop an information sheet that
+98 shall include, but shall not be limited to:
+99 (1) A description of the program, including how to access it;
+100 (2) Information on applying for medical assistance;
+101 (3) Information on applying for a qualified health benefit plan offered through the
+102 exchange as defined in Code Section 33-23-201; and
+103 (4) Information on accessing healthcare providers who participate in prescription drug
+104 discount programs, including providers who are authorized to participate in the 340B
+105 program under section 340B of the federal Public Health Service Act, 42 U.S.C.
+106 Section 256b, as amended.
+107 (b) The department shall post the information sheet provided for in subsection (a) of this
+108 Code section on its website.
+109 49-4-206.
+110 (a) The department, in coordination with the board, shall develop a survey to assess an
+111 eligible individual's satisfaction with the program, including:
+112 (1) Adequacy of information available and provided to individuals;
+113 (2) Accessibility to insulin; and
+114 (3) Individual's ability to access affordable insulin.
+H. B. 897
+- 5 -
+
+25 LC 57 9000
+115 (b) The department, in coordination with the board, shall develop a survey to assess a
+116 pharmacy's satisfaction with the program, including:
+117 (1) Timeliness of reimbursement from the manufacturers for insulin dispensed through
+118 the program;
+119 (2) Ease in submitting claims and insulin product orders to the manufacturers; and
+120 (3) Timeliness of receiving insulin replacement orders from the manufacturers.
+121 (c) The department shall post the surveys provided for in subsections (a) and (b) of this
+122 Code section on its website.
+123 49-4-207.
+124 Each manufacturer shall:
+125 (1) Establish procedures to make insulin available in accordance with this article through
+126 pharmacies to eligible individuals who are in urgent need of insulin;
+127 (2) Establish a hotline to provide information on the program and shall list on its website
+128 information about the program; and
+129 (3) Provide for dedicated personnel to promptly respond to individuals, pharmacies, and
+130 healthcare providers and the department.
+131 49-4-208.
+132 (a) Any person who by means of a false statement, failure to disclose information, or
+133 impersonation, or by other fraudulent device, obtains or attempts to obtain any assistance,
+134 benefit, or payment under this article to which such person is not entitled shall be guilty of
+135 a misdemeanor; provided, however, that if the value of the assistance so obtained exceeds
+136 $1,500.00, such person shall be guilty of a felony.
+137 (b)(1) If a manufacturer fails to comply with the provisions of this article, the department
+138 may assess an administrative penalty of $200,000.00 per month of such noncompliance.
+H. B. 897
+- 6 -
+
+25 LC 57 9000
+139 (2) Such penalty shall increase to $400,000.00 per month if the manufacturer continues
+140 to be in noncompliance after six months and shall increase to $600,000.00 per month if
+141 the manufacturer continues to be in noncompliance after one year.
+142 (3) The penalty shall remain at $600,000.00 per month for as long as the manufacturer
+143 continues in noncompliance.
+144 (c) An individual or entity that is aggrieved by the action of the department pursuant to
+145 subsection (a) or (b) of this Code section shall be entitled to a hearing conducted in
+146 accordance with Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act.'
+147 49-4-209.
+148 (a) By July 1, 2026, and every July 1 thereafter, each manufacturer shall report to the
+149 department the following information for the preceding calendar year:
+150 (1) The number of Georgia residents who accessed and received insulin through the
+151 program;
+152 (2) The total value of the insulin, determined by the wholesale acquisition cost of the
+153 insulin, provided by the manufacturer for the program;
+154 (3) The adequacy and timeliness of the manufacturer in responding to a pharmacy
+155 requesting reimbursement or resupply of insulin dispensed through the program;
+156 (4) Any administrative penalties assessed under Code Section 49-4-208; and
+157 (5) Any additional information deemed necessary by the department.
+158 (b) By July 1, 2026, and every July 1 thereafter, a pharmacy that received any applications
+159 for the program shall report to the department the following information for the preceding
+160 calendar year:
+161 (1) The number of applications for an urgent insulin supply received and the number of
+162 applications for additional urgent insulin supply received;
+163 (2) The reasons for determinations of ineligibility;
+164 (3) The amount of insulin dispensed through the program;
+H. B. 897
+- 7 -
+
+25 LC 57 9000
+165 (4) The average and total amount of copayment collected from individuals;
+166 (5) The timeliness of manufacturers' responses to requests for payment and re-supply of
+167 insulin; and
+168 (6) Any additional information deemed necessary by the department.
+169 (c) By August 15, 2027, and every August 15 thereafter, the department shall submit to
+170 the General Assembly a report regarding the implementation of the program under this
+171 article. Such report shall include the following information for the preceding year:
+172 (1) The data collected under subsections (a) and (b) of this Code section;
+173 (2) The results of the satisfaction surveys provided for in Code Section 49-4-206; and
+174 (3) Any additional information deemed necessary by the department to assess the
+175 effectiveness of the implementation of the program."
+176 SECTION 2.
+177 This Act shall become effective July 1, 2025.
+178 SECTION 3.
+179 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 897
+- 8 -
+
+[DELETED: 5L0,1,7,2hstthn2, m t r o r a p d i t s t r a m o i t e p t m i u s p t p f e p a a]
+[DELETED: 5L  ' m v t o i a a i m o a p o w t s i m b o a]
+[DELETED: 5L  ' i m a d i b a g a a p s d o 3 d s o i t a e t t p t c s p c o p a]
+[DELETED: 5L m a G M o P f K a h n b a s b i c w t r p i C]
+[DELETED: 5L u s 3 o t f P H S A 4 U]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L  A a i d n b t d t a t]

@@ -1,0 +1,2108 @@
+Title: House Bill 925
+Official Title: House Bill 925
+Number of Sections: 1
+Source: versions - LC 60 0091/a
+Media Type: application/pdf
+Strikethrough Detection: 36 sections found
+
+================================================================================
+
+Section 1:
+25 LC 60 0091
+By: Representatives Cannon of the 58th, Miller of the 62nd, Scott of the 76th, Bazemore of the
+69th, Hugley of the 141st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 31, 33, 34, 37, 45, 48, and 49 of the Official Code of Georgia Annotated,
+2 relating to health, insurance, labor and industrial relations, mental health, public officers and
+3 employees, revenue and taxation, and social services, respectively, so as to enact the
+4 "Georgia Maternal Health Momnibus Act"; to provide for legislative findings and intent; to
+5 provide for a short title; to repeal Code Section 31-2A-19, relating to pilot program for home
+6 visitation during pregnancy and early childhood, reporting, and funding requirement; to
+7 establish pilot programs to provide prenatal care and postpartum care through telemedicine
+8 and mobile health clinics for women residing in limited maternity care counties and
+9 maternity care deserts; to authorize rules and regulations, provide for reporting, provide for
+10 contingent effectiveness, and provide for termination and automatic repeal with respect to
+11 such pilot programs; to provide for group prenatal care and postpartum care classes and
+12 sessions to certain pregnant and postpartum women from low-income households; to
+13 authorize rules and regulations and provide for reporting with respect to the same; to require
+14 implicit bias initial and refresher training for certain healthcare professionals involved in
+15 perinatal care; to create and provide a purpose for the Regional Perinatal Center Advisory
+16 Committee; to provide for its composition and duties; to provide for assessment and
+17 recommendations to the commissioner of public health; to establish criteria for hospitals
+18 interested in being designated as a regional perinatal center; to authorize rules and
+H. B. 925
+- 1 -
+25 LC 60 0091
+19 regulations and provide for presentation of a plan every four years with respect to such
+20 committee; to provide for coverage for maternal mental health screening and care; to provide
+21 for a comprehensive quality metrics program with respect to such screening and care; to
+22 require the provision of educational materials upon signs and symptoms of perinatal mood
+23 and anxiety disorders; to establish a pilot program for remote maternal mental health
+24 screening and monitoring; to provide for legislative intent, authorize rules and regulations,
+25 and provide for funding and reporting with respect to such pilot program; to establish a pilot
+26 program to provide coverage under the Medicaid program for doula care for pregnant
+27 Medicaid recipients; to provide for doula qualifications, authorize rules and regulations,
+28 provide for reporting, provide for contingent effectiveness, and provide for termination and
+29 automatic repeal with respect to such pilot program; to provide for a public awareness
+30 campaign related to maternal health; to expand the Georgia WIC (Women, Infants, and
+31 Children) program to cover children up to six years of age and to provide for contingent
+32 effectiveness; to create and establish a purpose for the Supporting Healthy Moms Grant
+33 Program; to provide for the allocation of annual grant awards under such program; to provide
+34 for rules and regulations and reporting with respect to such program; to require certain
+35 accommodations in the workplace for pregnancy, childbirth, and related conditions; to
+36 provide for the specific powers and duties of the Commissioner of Labor related to such
+37 requirements; to provide for notice of rights and reasonable accommodations to job
+38 applicants and employees for circumstances related to pregnancy; to provide for a civil cause
+39 of action and relief; to provide for certain instruction and public education; to authorize rules
+40 and regulations and provide for construction with respect to such workplace
+41 accommodations; to exempt the sale or use of diapers from taxation; to require healthcare
+42 providers, healthcare facilities, and pharmacies to provide the Maternal Mortality Review
+43 Committee with psychiatric records; to create and provide a purpose for the Severe Maternal
+44 Morbidity Review Committee; to provide for the compilation, tracking, reporting, and public
+45 dissemination of data on severe maternal morbidity and pregnancy related deaths; to provide
+H. B. 925
+- 2 -
+25 LC 60 0091
+46 for a study on reducing severe maternal morbidity; to provide for a report and for automatic
+47 repeal of provisions relating to such study; to permit the release of clinical records of a
+48 deceased patient or deceased former patient to the Maternal Mortality Review Committee
+49 and the Severe Maternal Morbidity Review Committee; to remove the requirement that a
+50 medical examiner's inquiry for pregnant female deaths be done through a regional perinatal
+51 center; to provide for definitions; to provide for related matters; to repeal conflicting laws;
+52 and for other purposes.
+53 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+54 PART 1.
+55 SECTION 1-1.
+56 This Act shall be known and may be cited as the "The Georgia Maternal Health Momnibus
+57 Act."
+58 PART 2.
+59 Comprehensive and Equitable Maternal Healthcare
+60 SECTION 2-1.
+61 (a) The General Assembly of Georgia finds that:
+62 (1) Georgia's maternal mortality rate is one of the highest in the nation, regardless of
+63 ethnic or socioeconomic background;
+64 (2) According to the Commonwealth Fund, in 2020 the United States' mortality rate was
+65 23.8 deaths per 100,000 live births, which is much higher than the 9.8 average of the
+66 Organization for Economic Cooperation and Development. In 2020, Georgia's rate of
+67 maternal mortality was 33.0 deaths per 100,000 live births;
+H. B. 925
+- 3 -
+25 LC 60 0091
+68 (3) Systemic disparities, including lack of access to quality care across socioeconomic
+69 strata, contribute to poor maternal health outcomes. The Department of Public Health
+70 reports that over 80 percent of pregnancy related deaths in Georgia are preventable;
+71 (4) Reports from the Georgetown Center for Children and Families show that nearly one
+72 in five (19.3 percent) of women of childbearing age (18-44) have no health insurance.
+73 This is one of the highest rates in the country, leaving Georgia forty-sixth overall as it
+74 relates to women's healthcare access. Georgia has the highest uninsured rate in the South,
+75 apart from Mississippi where 21.2 percent of women of childbearing age are uninsured;
+76 (5) Social determinants of health, such as housing, transportation, and economic stability,
+77 significantly impact maternal health outcomes. Data from the Department of Public
+78 Health highlights transportation barriers as a leading factor in missed prenatal
+79 appointments;
+80 (6) Ninety-three rural Georgia counties do not have a hospital with a labor and delivery
+81 unit, and there are no rural counties in the state with a maternal-fetal medicine specialist.
+82 Mothers in these areas are often more impacted by lack of transportation, little or no
+83 access to the social safety net, and the presence of few perinatal supportive resources; and
+84 (7) Federal legislation such as the Black Maternal Health Momnibus Act of 2023
+85 provides a comprehensive framework to address maternal health disparities, offering
+86 Georgia an opportunity to align state efforts with national goals.
+87 (b) It is the intent of the General Assembly to address systemic disparities, invest in social
+88 determinants of health, and provide comprehensive support to improve maternal health
+89 outcomes for mothers in Georgia.
+90 SECTION 2-2.
+91 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended in Article 1
+92 of Chapter 2A, relating to the Department of Public Health generally, by repealing Code
+93 Section 31-2A-19, relating to pilot program for home visitation during pregnancy and early
+H. B. 925
+- 4 -
+25 LC 60 0091
+94 childhood, reporting, and funding requirement, and enacting a new Code Section 31-2A-19
+95 to read as follows:
+96 "31-2A-19.
+97 (a) As used in this Code section, the term:
+98 (1) 'Distant site' means a site at which an obstetric provider is located while providing
+99 healthcare services by means of telemedicine, which may include the home of such
+100 obstetric provider.
+101 (2) 'Limited maternity care county' means a county in this state that has fewer than two
+102 hospitals or birth centers offering obstetric care or fewer than 60 obstetric providers per
+103 10,000 births.
+104 (3) 'Maternity care desert' means a county in this state that does not have a hospital or
+105 birth center offering obstetric care or an obstetric provider.
+106 (4) 'Obstetric provider' means a licensed physician or advanced practice registered nurse
+107 who is licensed to practice obstetrics and gynecology in this state.
+108 (5) 'Telemedicine' means the use of electronic information and telecommunications
+109 technologies that include, at minimum, audio and video equipment to enable two-way,
+110 real-time interactive communication between a patient and an obstetric provider at a
+111 distant site, which services are compliant with federal Health Insurance Portability and
+112 Accountability Act of 1996 (HIPAA) privacy, security, and breach notification rules.
+113 Such term shall include audio-only, telephone communication only when two-way,
+114 real-time audio-visual communication is unavailable to or inaccessible by the patient or
+115 is infeasible, impractical, or otherwise not medically advisable, as determined by the
+116 obstetric provider providing telemedicine services to the patient.
+117 (6) 'Virtual prenatal care' means at-home prenatal healthcare for a pregnant woman
+118 provided by an obstetric provider facilitated through the use of telemedicine and
+119 home-monitoring devices or other equipment, as deemed appropriate by such obstetric
+120 provider. Such term includes consultations and monitoring, including, but not limited to,
+H. B. 925
+- 5 -
+25 LC 60 0091
+121 monitoring for conditions such as diabetes and hypertension; mental health evaluations;
+122 nutritional evaluations; and guidance on personal care.
+123 (b) The department shall develop, implement, and conduct a three-year pilot program to
+124 provide virtual prenatal care to pregnant women in limited maternity care counties and
+125 maternity care deserts to improve birth outcomes and to decrease maternal morbidity and
+126 mortality. The pilot program shall begin on July 1, 2026, and shall provide up to five
+127 virtual prenatal care visits for each eligible pregnant woman. Such eligibility shall be
+128 established based on criteria, terms, and conditions as determined by the department, in
+129 coordination with the Department of Community Health.
+130 (c) No later than July 1, 2027, and annually thereafter, the department shall submit to the
+131 Governor, the Speaker of the House of Representatives, the President of the Senate, and
+132 the chairpersons of the House Committee on Public Health and the Senate Health and
+133 Human Services Committee a detailed written report on the effectiveness of the pilot
+134 program. The final report shall additionally include recommendations, if any, as to the
+135 expansion or permanency of the pilot program and any proposed changes to such program
+136 relative to such recommendations.
+137 (d) The department is authorized to promulgate rules and regulations as may be necessary
+138 to implement and effectuate the provisions of this Code section.
+139 (e) This Code section shall be contingent upon appropriations made by the General
+140 Assembly specifically for the department for the purposes set forth in this Code section and
+141 shall stand repealed by operation of law on December 1, 2029."
+142 SECTION 2-3.
+143 Said title is further amended by adding new Code sections to read as follows:
+144 "31-2A-21.
+145 (a) For purposes of this Code section, the term:
+H. B. 925
+- 6 -
+25 LC 60 0091
+146 (1) 'Limited maternity care county' means a county in this state that has fewer than two
+147 hospitals or birth centers offering obstetric care or fewer than 60 obstetric providers per
+148 10,000 births.
+149 (2) 'Maternity care desert' means a county in this state that does not have a hospital or
+150 birth center offering obstetric care or an obstetric provider.
+151 (3) 'Obstetric provider' means a physician or advanced practice registered nurse licensed
+152 to practice obstetrics and gynecology in this state.
+153 (4) 'Postpartum care' means healthcare for a woman for a period of one year following
+154 a birth, miscarriage, stillbirth, or neonatal death. Such term includes physiological
+155 assessments, mental health evaluations, nutritional evaluations, and guidance on personal
+156 and newborn care. Such term includes at least four visits with an obstetric provider as
+157 follows:
+158 (A) An initial visit within 24 hours of a birth, miscarriage, stillbirth, or neonatal death;
+159 (B) A follow-up visit within the first three weeks postpartum;
+160 (C) A follow-up visit within the first eight weeks postpartum;
+161 (D) A comprehensive visit no later than 12 weeks postpartum; and
+162 (E) Intermediary and ongoing care as needed.
+163 (b) The department shall develop, implement, and conduct a three-year pilot program for
+164 the purpose of providing postpartum care through mobile health clinics in limited maternity
+165 care counties and maternity care deserts, beginning on July 1, 2026. The department, in
+166 coordination with the Department of Community Health, shall establish eligibility criteria,
+167 terms, and conditions for such pilot program.
+168 (c) No later than July 1, 2027, and annually thereafter, the department shall submit a
+169 detailed written report on the effectiveness of the pilot program to the Governor, the
+170 Speaker of the House of Representatives, the President of the Senate, and the chairpersons
+171 of the House Committee on Public Health and the Senate Health and Human Services
+172 Committee. The final report shall additionally include recommendations, if any, as to the
+H. B. 925
+- 7 -
+25 LC 60 0091
+173 expansion or permanency of the pilot program and any proposed changes to the pilot
+174 program relative to such recommendations.
+175 (d) This Code section shall be contingent upon appropriations made by the General
+176 Assembly specifically for the department for the purposes set forth in this Code section and
+177 shall stand repealed by operation of law on December 1, 2029.
+178 31-2A-22.
+179 (a) As used in this Code section, the term:
+180 (1) 'Eligible participant' means a pregnant or postpartum woman who meets the income
+181 eligibility guidelines set forth by the Georgia WIC (Women, Infants, and Children)
+182 program, as of July 1, 2025.
+183 (2) 'Group prenatal care' means a structured class designed for pregnant women provided
+184 in a supportive group setting and based on an evidence based model that is focused on
+185 equipping pregnant women with essential prenatal knowledge and skills, including, but
+186 not limited to, labor and delivery preparation, breastfeeding, lactation, and newborn care.
+187 (3) 'Group postpartum care' means a structured class designed for postpartum women
+188 provided in a supportive group setting focused on equipping such women with essential
+189 knowledge and skills for the postpartum period, including, but not limited to, physical
+190 recovery, nutrition, emotional well-being, maternal mental health, newborn care, and
+191 lactation support. With respect to postpartum women separated from their newborns due
+192 to child welfare intervention or any other cause, such term includes counseling sessions
+193 and any consultative sessions related to providing reunification assistance.
+194 (4) 'Postpartum woman' means a woman up to 12 months after the end of a pregnancy.
+195 (b) Subject to available funding, the department shall develop, implement, and conduct a
+196 program to provide group prenatal care and group postpartum care to eligible participants,
+197 whether in-person or online. Such program shall begin on July 1, 2026, and shall provide
+H. B. 925
+- 8 -
+25 LC 60 0091
+198 up to five group prenatal care visits and up to five group postpartum care visits for each
+199 eligible participant at no cost to such participant.
+200 (c) Any person providing group prenatal care or group postpartum care under the program
+201 shall have completed the appropriate training, as determined by the department.
+202 (d) No later than June 30, 2027, and annually thereafter, the department shall submit to the
+203 Governor, the Speaker of the House of Representatives, the President of the Senate, and
+204 the chairpersons of the House Committee on Public Health and the Senate Health and
+205 Human Services Committee a detailed report on the effectiveness of the program and
+206 recommendations, if any, as to proposed legislation to improve such program.
+207 (e) The department is authorized to promulgate rules and regulations as may be necessary
+208 to implement and effectuate the provisions of this Code section.
+209 31-2A-23.
+210 (a) As used in this article, the term:
+211 (1) 'Healthcare professional' means a physician or other healthcare practitioner licensed,
+212 accredited, or certified to perform specified physical, mental, or behavioral healthcare
+213 services consistent with his or her scope of practice under the laws of this state.
+214 (2) 'Implicit bias' means a bias in judgment or behavior that results from subtle cognitive
+215 processes, including implicit prejudice and implicit stereotypes that often operate at a
+216 level below conscious awareness and without intentional control.
+217 (3) 'Implicit prejudice' means prejudicial negative feelings or beliefs about a group that
+218 a person holds without being aware of them.
+219 (4) 'Implicit stereotypes' means the unconscious attributions of particular qualities to a
+220 member of a certain social group. Implicit stereotypes are influenced by experience and
+221 are based on learned associations between various qualities and social categories,
+222 including race or gender.
+H. B. 925
+- 9 -
+25 LC 60 0091
+223 (5) 'Perinatal care' means the provision of care during pregnancy, labor, delivery, and
+224 postpartum and neonatal periods.
+225 (6) 'Perinatal facility' means a hospital, clinic, or birthing center that provides perinatal
+226 care.
+227 (7) 'Pregnancy related death' means the death of a woman while pregnant or within 365
+228 days of the end of a pregnancy, irrespective of the duration or site of the pregnancy, from
+229 any cause related to, or aggravated by, the pregnancy or its management, but not from
+230 accidental or incidental causes.
+231 (b) Every perinatal facility in this state shall implement an evidence based implicit bias
+232 program for all healthcare professionals involved in the perinatal care of patients within
+233 such facility.
+234 (c) An implicit bias program implemented pursuant to subsection (b) of this Code section
+235 shall include:
+236 (1) Identification of previous or current unconscious biases and misinformation;
+237 (2) Identification of personal, interpersonal, institutional, structural, and cultural barriers
+238 to inclusion;
+239 (3) Corrective measures to decrease implicit bias at the interpersonal and institutional
+240 levels, including ongoing policies and practices for that purpose;
+241 (4) Information on the effects, including, but not limited to, ongoing personal effects, of
+242 historical and contemporary exclusion and oppression of minority communities;
+243 (5) Information about cultural identity across racial or ethnic groups;
+244 (6) Information relative to communicating more effectively across identities, including
+245 racial, ethnic, religious, and gender identities;
+246 (7) Discussion on power dynamics and organizational decision making;
+247 (8) Discussion on health inequities within the perinatal care field, including information
+248 on how implicit bias impacts maternal and infant health outcomes;
+H. B. 925
+- 10 -
+25 LC 60 0091
+249 (9) Perspectives of diverse, local constituency groups and experts on particular racial,
+250 identity, cultural, and provider-community relations issues in the community; and
+251 (10) Information on reproductive justice.
+252 (d)(1) A healthcare professional shall complete initial basic training through the implicit
+253 bias program based on the components described in subsection (c) of this Code section.
+254 (2) Upon completion of the initial basic training, a healthcare professional shall complete
+255 a refresher course under the implicit bias program every two years thereafter, or on a
+256 more frequent basis if deemed necessary by the perinatal facility, in order to keep current
+257 with changing racial, identity, and cultural trends and best practices in decreasing
+258 interpersonal and institutional implicit bias.
+259 (e) Each perinatal facility in this state shall provide a certificate of training completion to
+260 another perinatal facility or a training attendee upon request. A perinatal facility may
+261 accept a certificate of completion from another perinatal facility to satisfy the training
+262 requirement provided for in this Code section from a healthcare professional who works
+263 in more than one perinatal facility.
+264 (f) If a healthcare professional involved in the perinatal care of patients is not directly
+265 employed by a perinatal facility, the facility shall offer the training to such healthcare
+266 professional.
+267 31-2A-24.
+268 (a) As used in this Code section, the term 'maternal near-miss' means a woman who
+269 survived a near-death complication occurring during a pregnancy, during childbirth, or
+270 within 42 days of the end of a pregnancy.
+271 (b) The department shall create a comprehensive public awareness campaign targeting
+272 women located in rural and underserved communities to increase awareness about maternal
+273 health by developing and making available on the department's website educational
+H. B. 925
+- 11 -
+25 LC 60 0091
+274 materials and support resources. Such materials and resources shall include, but shall not
+275 be limited to:
+276 (1) Information on prenatal care, including, but not limited to, nutrition, the importance
+277 of prenatal care visits, what to expect during such visits, and key prenatal screenings;
+278 (2) Information on common causes of maternal near-misses and strategies to reduce the
+279 risk of severe maternal morbidity;
+280 (3) Information on postpartum care, including, but not limited to, nutrition, physical
+281 recovery, and newborn care; and
+282 (4) A geographically indexed guide on government funded, free, and low-cost services
+283 available to support pregnant and postpartum women, including, but not limited to,
+284 healthcare services, educational classes and peer support groups for prenatal and
+285 postpartum care, mental health counseling services, transportation assistance programs,
+286 and food assistance programs which shall include a description of the services offered
+287 and contact information.
+288 (c) The department shall maintain a comprehensive webpage on its website dedicated to
+289 maternal health that includes all educational materials and support resources identified or
+290 created pursuant to this Code section."
+291 SECTION 2-4.
+292 Said title is further amended by adding a new article to read as follows:
+293 "ARTICLE 4
+294 31-2A-70.
+295 As used in this article, the term:
+296 (1) 'Advisory committee' or 'committee' means the Regional Perinatal Center Advisory
+297 Committee established pursuant to Code Section 31-2A-71.
+H. B. 925
+- 12 -
+25 LC 60 0091
+298 (2) 'Regional perinatal center' means a specially qualified hospital identified by the
+299 department and designated to a specific geographic region to lead collaboration between
+300 hospitals and providers to increase the likelihood that deliveries are performed in a
+301 hospital with an appropriate level of care for mothers and infants.
+302 31-2A-71.
+303 (a) There is established the Regional Perinatal Center Advisory Committee for the purpose
+304 of considering and making recommendations to the commissioner concerning the addition,
+305 reduction, or transition of regional perinatal centers in this state. The committee shall
+306 advise the commissioner on the estimated costs to the department necessary to implement
+307 such recommendations.
+308 (b) The Regional Perinatal Center Advisory Committee shall be composed of not less
+309 than 11 nor more than 21 members to be appointed by the commissioner, who shall appoint
+310 one of such members to serve as chairperson. All appointments to the committee shall be
+311 for a term of four years. A member shall serve until his or her successor has been duly
+312 appointed. The commissioner may reappoint any member.
+313 (c) The advisory committee shall meet upon the call of the chairperson.
+314 (d) Beginning on July 1, 2026, and every four years thereafter, the department, in
+315 conjunction with the advisory committee, shall assess and make recommendations to the
+316 commissioner on the adequacy of the regional perinatal system and consider hospital or
+317 labor and delivery closures. Such assessment shall evaluate whether:
+318 (1) Perinatal facilities in each region are equipped and prepared to stabilize infants and
+319 mothers before transport;
+320 (2) Coordination exists between maternity care in each region and regional perinatal
+321 centers;
+322 (3) All identified high-risk pregnancies and deliveries are promptly evaluated in
+323 consultation with regional perinatal centers and referred to the appropriate designated
+H. B. 925
+- 13 -
+25 LC 60 0091
+324 regional perinatal center for the proper management and treatment of such conditions as
+325 needed;
+326 (4) An adequate transport system is available in the region for the transfer of high-risk
+327 mothers and infants and specifically considers:
+328 (A) The distance and travel time between referring hospitals and regional perinatal
+329 centers;
+330 (B) The types of vehicles used for transport and whether a need exists for additional
+331 vehicles; and
+332 (C) The need for upgraded vehicles and transport equipment; and
+333 (5) Each regional perinatal center provides:
+334 (A) Consultation for patients requiring special services, including transport;
+335 (B) Coordination and assurance of follow-up medical care for maternal and neonatal
+336 patients requiring special services;
+337 (C) Educational support to ensure quality care in institutions involved in perinatal
+338 healthcare in the region;
+339 (D) An annual education plan with all birthing centers in the region;
+340 (E) Compilation and analysis of perinatal data from the center and referring hospitals;
+341 and
+342 (F) Coordination of perinatal health services within the region.
+343 (e) When changes to the regional perinatal centers are approved by the department after
+344 recommendation by the advisory committee, the department shall submit to the Office of
+345 Planning and Budget prior to the General Assembly's next legislative session a budget
+346 request seeking appropriations to implement such changes.
+347 31-2A-72.
+348 To be designated as a regional perinatal center a hospital shall notify the department of the
+349 following:
+H. B. 925
+- 14 -
+25 LC 60 0091
+350 (1) Such hospital's ability to meet the standards for regional perinatal centers;
+351 (2) Any additional funding necessary to bring such hospital up to the standards for
+352 regional perinatal centers;
+353 (3) Any special planning problems in such hospital's perinatal region, including, but not
+354 limited to, transportation, shortage of facilities, and personnel;
+355 (4) A description of perinatal care currently being provided;
+356 (5) A description of services that can be provided by the center in patient care, education,
+357 and consultation to hospitals within the perinatal region; and
+358 (6) Any other information requested by the department.
+359 31-2A-73.
+360 Beginning on July 1, 2026, and every four years thereafter, the department shall present to
+361 the Governor, the Speaker of the House of Representatives, and the President of the Senate
+362 a plan for the designated perinatal centers in every region of the state. Such plan shall
+363 include funding considerations to aid hospitals in meeting the standards and for continuing
+364 requirements, including, but not limited to, patient care, professional education, training
+365 programs, and physical facilities.
+366 31-2A-74.
+367 The department shall be authorized to promulgate rules and regulations to carry out the
+368 purposes of this article."
+369 SECTION 2-5.
+370 Title 33 of the Official Code of Georgia Annotated, relating to insurance, is amended in
+371 Chapter 1, relating to general provisions, by adding a new Code section to read as follows:
+372 "33-1-28.
+373 (a) As used in this Code section, the term:
+H. B. 925
+- 15 -
+25 LC 60 0091
+374 (1) 'Maternal mental health screening' means the use of an independent, evidence based
+375 screening instrument that is in accordance with nationally recognized clinical practice
+376 guidelines developed by independent organizations or medical professional societies
+377 utilizing a transparent methodology and reporting structure and with a conflict-of-interest
+378 policy. Such guidelines establish standards of care informed by a systematic review of
+379 evidence and an assessment of the benefits and risks of alternative care options and
+380 include recommendations intended to optimize patient care.
+381 (2) 'Medically necessary' shall have the same meaning as set forth in Code Section
+382 33-1-27.
+383 (3) 'Mental healthcare provider' means any person licensed under Title 43 to provide
+384 prenatal, labor and delivery, or postpartum care, including without limitation physicians,
+385 psychiatrists, psychologists, advanced practice registered nurses, physician assistants,
+386 licensed clinical social workers, and licensed professional counselors and marriage and
+387 family therapists.
+388 (4) 'Telehealth services' means services provided via two-way, real-time interactive
+389 communication between a patient and a mental healthcare provider at a distant site
+390 through telecommunications equipment, which services are compliant with federal Health
+391 Insurance Portability and Accountability Act of 1996 (HIPAA) privacy, security, and
+392 breach notification rules.
+393 (b) Each health benefit policy issued, delivered, or renewed in this state shall provide
+394 coverage for medically necessary:
+395 (1) Maternal mental health screening during the prenatal period and 12 months
+396 postpartum; and
+397 (2) Care and treatment for those screenings positive for maternal mental health
+398 conditions.
+399 (c) All services provided for in this Code section shall be covered whether provided in
+400 person or through telehealth services.
+H. B. 925
+- 16 -
+25 LC 60 0091
+401 (d) The provisions of this Code section shall apply to all policies, contracts, and
+402 certificates executed, delivered, issued for delivery, continued, or renewed in this state on
+403 or after January 1, 2026."
+404 SECTION 2-6.
+405 Title 49 of the Official Code of Georgia Annotated, relating to social services, is amended
+406 in Article 7 of Chapter 4, relating to medical assistance generally, by adding new Code
+407 sections to read as follows:
+408 "49-4-159.5.
+409 (a) Except in cases where the woman refuses a maternal mental health screening as
+410 provided for in Code Section 33-1-28, a pregnant or postpartum woman seeking healthcare
+411 from a physician or other healthcare provider shall be screened for perinatal mood and
+412 anxiety disorders, as determined necessary:
+413 (1) At the pregnant woman's first prenatal visit;
+414 (2) When the pregnant woman is from 28 through 32 weeks' gestation;
+415 (3) Between delivery and discharge from the facility where the pregnant woman gives
+416 birth;
+417 (4) At the woman's six-week postpartum obstetrical visit;
+418 (5) If there is a pregnancy loss and at the follow-up obstetric visit after such loss; and
+419 (6) At a pediatric visit occurring when the infant is three months of age or, if there is no
+420 such visit, at the postpartum woman's healthcare visit any time from three months to one
+421 year after pregnancy loss or delivery.
+422 (b) The right to refuse the mental health screening described in subsection (a) of this Code
+423 section shall not exist for a patient determined by the physician or other healthcare provider
+424 to be mentally incompetent.
+425 (c)(1) The maternal mental health screening provided for in subsection (a) of this Code
+426 section shall be conducted by the physician or other healthcare provider who is providing
+H. B. 925
+- 17 -
+25 LC 60 0091
+427 prenatal, obstetric, or postpartum care of the pregnant woman or pediatric care of the
+428 woman's infant, as deemed necessary by such physician or healthcare provider. Each
+429 such screening shall utilize questionnaires that conform with nationally recognized
+430 clinical practice guidelines and shall be used for the purposes of diagnosis, treatment,
+431 appropriate management, or ongoing monitoring of a woman's mental health, well-being,
+432 disease, or condition as supported by medical and scientific evidence.
+433 (2) Additional maternal mental health screenings, which may be refused, may be
+434 conducted at any other point during the pregnancy or the postpartum period as deemed
+435 necessary by the physician or other healthcare provider. Appropriate referral information
+436 and resources addressing perinatal mood or anxiety disorders shall be provided during
+437 such screenings.
+438 (d) A physician or other healthcare provider who provides obstetric or pediatric care shall
+439 provide educational materials through electronic or other means on the signs and symptoms
+440 of perinatal mood and anxiety disorders to pregnant and postpartum women under his or
+441 her care, or to mothers of children under his or her care, as deemed necessary by such
+442 physician or healthcare provider.
+443 (e) The provisions of this Code section shall not preclude any other healthcare provider
+444 acting within his or her scope of practice from screening for maternal mental health
+445 conditions or from providing referral information and resources or educational materials
+446 on perinatal mood and anxiety disorders.
+447 (f) Relative to maternal mental health screenings, the department shall establish a
+448 comprehensive quality metrics program that includes:
+449 (1) Process measures, including, but not limited to:
+450 (A) Percentage of eligible patients screened at each required interval;
+451 (B) Time from positive screen to first behavioral health contact;
+452 (C) Completion rates for referrals to behavioral health services; and
+453 (D) Utilization rates of telehealth services;
+H. B. 925
+- 18 -
+25 LC 60 0091
+454 (2) Outcome measures, including, but not limited to:
+455 (A) Rates of postpartum depression and anxiety identification;
+456 (B) Emergency department utilization for mental health concerns;
+457 (C) Psychiatric hospitalization rates; and
+458 (D) Duration of treatment engagement;
+459 (3) Equity measures, including, but not limited to:
+460 (A) Screening and treatment rates stratified by race, ethnicity, and geographic location;
+461 and
+462 (B) Disparities in access to care and outcomes; and
+463 (4) Patient experience measures, including, but not limited to:
+464 (A) Satisfaction with screening process;
+465 (B) Perceived barriers to care; and
+466 (C) Experiences with telehealth services.
+467 (g) No later than January 1, 2026, the department shall establish a three-year pilot program
+468 for remote maternal mental health screening and monitoring. Such program shall:
+469 (1) Prioritize high-risk populations and rural communities;
+470 (2) Include telehealth services;
+471 (3) Integrate with existing maternal health programs, including home visiting services;
+472 and
+473 (4) Collect data on program effectiveness and barriers to care.
+474 (h) The department may allocate sufficient funds for the pilot program provided for in
+475 subsection (g) of this Code section to support:
+476 (1) Technology infrastructure and support;
+477 (2) Provider training and technical assistance; and
+478 (3) Program evaluation and reporting.
+479 (i) The department shall:
+480 (1) Promulgate rules and regulations necessary to implement this Code section;
+H. B. 925
+- 19 -
+25 LC 60 0091
+481 (2) Establish a process for monitoring compliance; and
+482 (3) Report annually to the Senate Health and Human Services Committee and the House
+483 Committees on Health and Public Health on the implementation progress and outcomes
+484 of the requirements of this Code section.
+485 (j) The annual report provided in subsection (i) of this Code section shall be required from
+486 July 1, 2026, through July 1, 2028.
+487 (k) To implement the provisions of this Code section, the department shall, when
+488 necessary, submit a Medicaid state plan amendment or waiver request to the United States
+489 Department of Health and Human Services.
+490 49-4-159.6.
+491 (a) It is the intent of the General Assembly to advance maternal health outcomes by
+492 recognizing doula care as part of the maternal healthcare workforce. Doula care has been
+493 associated with Medicaid cost savings of around $1,000.00 per birth, a decreased likelihood
+494 of cesarean delivery, a reduced need for an epidural during labor, lower preterm birth rates,
+495 improved rates of breastfeeding, shorter births, reduced rates of perinatal mood and anxiety
+496 disorders, increased positive feelings about the birth experience, and feelings of
+497 empowerment about individual pregnancy outcomes.
+498 (b) As used in this Code section, the term 'doula' means a professional who provides
+499 physical, emotional, and informational support to clients before, during, and after childbirth
+500 to help them achieve a healthy and satisfying birth experience and who has completed the
+501 appropriate training, as determined by the department.
+502 (c) The department shall develop, implement, and conduct a one-year pilot program to
+503 provide Medicaid coverage for doula care for pregnant Medicaid recipients. Beginning on
+504 July 1, 2026, such pilot program may provide reimbursement for up to five doula visits for
+505 each pregnant Medicaid recipient, which may include visits for prepartum care, labor and
+506 delivery, and postpartum care.
+H. B. 925
+- 20 -
+25 LC 60 0091
+507 (d) No later than December 1, 2027, the department shall submit to the Governor, the
+508 President of the Senate, the Speaker of the House of Representatives, and the chairpersons
+509 of the House Committee on Health, the Senate Health and Human Services Committee, the
+510 House Committee on Appropriations, and the Senate Appropriations Committee a detailed
+511 written report on the implementation and effectiveness of the pilot program. Such report
+512 shall include the health outcomes of participants and recommendations on the best process
+513 of reimbursing doulas to promote retention in the perinatal workforce. Such report shall
+514 also include recommendations, if any, as to expansion or permanency of the pilot program
+515 and any proposed changes to the program relative to such recommendations.
+516 (e) The department is authorized to promulgate rules and regulations as may be necessary
+517 to implement and effectuate the provisions of this Code section.
+518 (f)(1) This Code section shall be contingent upon appropriations made by the General
+519 Assembly specifically for the department for the purposes set forth in this Code section.
+520 (2) This Code section shall terminate on December 31, 2027, and this Code section shall
+521 be repealed by operation of law on such date."
+522 PART 3.
+523 Social Determinants in Maternal Health
+524 SECTION 3-1.
+525 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended in Article 1
+526 of Chapter 1, relating to general provisions, by adding a new Code section to read as follows:
+527 "31-1-26.
+528 (a) The department, through its Division of Public Health, shall, to the extent that state
+529 funds are available for such purpose, expand the Georgia WIC (Women, Infants, and
+530 Children) program, established in accordance with Section 17 of the Child Nutrition Act
+H. B. 925
+- 21 -
+25 LC 60 0091
+531 of 1966, 42 U.S.C. Section 1786, to cover children who have had their fifth birthday but
+532 have not yet attained their sixth birthday.
+533 (b) This Code section shall become effective on July 1, 2026, only if prior to such date,
+534 funds are specifically appropriated by the General Assembly for the department for the
+535 purposes set forth in this Code section."
+536 SECTION 3-2.
+537 Said title is further amended in Article 1 of Chapter 2A, relating to the Department of Public
+538 Health generally, by adding a new article to read as follows:
+539 "ARTICLE 5
+540 31-2A-90.
+541 As used in this article, the term:
+542 (1) 'Early childhood services program' means a program that offers services designed to
+543 support the development and well-being of infants and toddlers, including, but not limited
+544 to, early intervention, early learning, childcare, or parenting education.
+545 (2) 'Early intervention' means services and support for infants and toddlers with
+546 developmental delays, chronic health conditions, and disabilities and their families. Such
+547 term includes early identification and screening of infants and toddlers for such
+548 developmental delays, conditions, and disabilities.
+549 (3) 'Eligible program' means an early childhood services program or an essential support
+550 services program.
+551 (4) 'Essential support services program' means a program that offers housing assistance,
+552 food assistance, or nonemergency medical transportation services to pregnant and
+553 postpartum women in this state.
+H. B. 925
+- 22 -
+25 LC 60 0091
+554 (5) 'Grant program' means the Supporting Healthy Moms Grant Program established
+555 pursuant to Code section 31-2A-91.
+556 (6) 'Infant' or 'toddler' means a child under three years of age.
+557 (7) 'Parenting education' means courses designed for parents of infants and toddlers to
+558 enhance parenting skills and knowledge taught by educators possessing the appropriate
+559 qualifications, certifications, experience, as determined by the department.
+560 (8) 'Postpartum woman' means a woman up to one year after the end of pregnancy.
+561 (9) 'Qualified sponsor' means a nonprofit organization incorporated in this state with a
+562 tax-exempt status pursuant to Section 501(c)(3) of the Internal Revenue Code of 1986;
+563 or governmental sponsor of a program that meets the conditions of this Code section.
+564 31-2A-91.
+565 (a) Subject to available funding, the department shall establish the Supporting Healthy
+566 Moms Grant Program to provide grant funding, on an annual basis, to qualified sponsors
+567 of eligible programs in this state that provide services focused on advancing and addressing
+568 social determinants of maternal health and that provide early childhood services.
+569 (b) The department shall oversee the grant program and is authorized to contract with an
+570 external organization to implement and administer such grant program.
+571 31-2A-92.
+572 To be considered for a grant under the grant program, a qualified organization shall:
+573 (1) Have a primary mission of advancing maternal health, addressing social determinants
+574 of maternal health, or providing early childhood services;
+575 (2) Have a system of financial accountability consistent with generally accepted
+576 accounting principles, including an annual budget;
+577 (3) With respect to a nonprofit organization, have a board that hires and supervises a
+578 director who manages the organization's operations;
+H. B. 925
+- 23 -
+25 LC 60 0091
+579 (4) Have provided services under an eligible program for a minimum of one year;
+580 (5) Provide free services under an eligible program; and
+581 (6) Maintain confidentiality of all data, files, and records of clients related to the services
+582 provided and in compliance with state and federal laws.
+583 31-2A-93.
+584 (a) The commissioner shall approve each grant or expenditure of money from the grant
+585 program.
+586 (b) The commissioner's decision on the granting of funds from the grant program to
+587 qualified sponsors shall be based on a competitive selection process.
+588 (c) The grant program may be used for expenditures related to the routine administration
+589 of the program; provided, however, that, in any given year, expenditures for the routine
+590 administration of the grant program may not exceed 10 percent of the total amount of
+591 money available in the grant fund.
+592 (d) The commissioner is authorized to promulgate rules and regulations as necessary to
+593 implement and administer the provisions of this article.
+594
+595 31-2A-94.
+596 Not later than November 1, 2026, and annually thereafter, the department shall submit to
+597 the Governor and the General Assembly a report on the financial status of the grant
+598 program and a summary of its operations for the preceding year."
+599 SECTION 3-3.
+600 Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial relations,
+601 is amended in Chapter 2, relating to Department of Labor, by revising paragraph (5) of and
+602 by adding a new paragraph to subsection (a) of Code Section 34-2-6, relating to specific
+603 powers and duties of the Commissioner of Labor, to read as follows:
+H. B. 925
+- 24 -
+25 LC 60 0091
+604 "(3.1) To make investigations, collect and compile statistical information, and report
+605 upon the conditions and matters relating to the enforcement and effect of Chapter 5B of
+606 this title and of the rules issued thereunder and to receive and resolve complaints related
+607 to such chapter in accordance with the rules and regulations issued thereunder;"
+608 "(5) To do all in his or her power to promote the voluntary arbitration, mediation, and
+609 conciliation of disputes between employers and employees and to avoid strikes,
+610 picketing, lockouts, boycotts, blacklisting, discriminations, and legal proceedings in
+611 matters of employment. In pursuance of this duty, the Commissioner may appoint
+612 temporary boards of arbitration, provide necessary expenses of such boards, order
+613 reasonable compensation not exceeding $15.00 per day for each member engaged in such
+614 arbitration, prescribe rules for such arbitration boards, conduct investigations and
+615 hearings, publish in print or electronically reports and advertisements, and do all things
+616 convenient and necessary to accomplish the purpose of this chapter and Chapter 5B of
+617 this title. The Commissioner may designate a mediator and may, from time to time, detail
+618 employees or persons not in the department to act as his or her assistants for the purpose
+619 of executing such provisions. Employees of the Department of Labor shall act on
+620 temporary boards without extra compensation. Nothing in this Code section or in this
+621 chapter shall be construed to prohibit or limit in any way employees' rights to bargain
+622 collectively;"
+623 SECTION 3-4.
+624 Said title is further amended by adding a new chapter to read as follows:
+625 "CHAPTER 5B
+626 34-5B-1.
+627 As used in this chapter, the term:
+H. B. 925
+- 25 -
+25 LC 60 0091
+628 (1) 'Employer' means any person or entity that employs one or more employees and shall
+629 include the state and its political subdivisions.
+630 (2) 'Pregnancy' means medical needs arising from pregnancy, childbirth, or related
+631 conditions, including, but not limited to, lactation.
+632 (3) 'Reasonable accommodations' shall include, but shall not be limited to, more frequent
+633 or longer breaks, time off to recover from childbirth, acquisition or modification of
+634 equipment, seating, temporary transfer to a less strenuous or hazardous position, job
+635 restructuring, light duty, break time and private nonbathroom space for expressing breast
+636 milk, assistance with manual labor, or modified work schedules.
+637 (4) 'Undue hardship' means an action requiring significant difficulty or expense, when
+638 considered in light of the factors set forth in Code Section 34-5B-4.
+639 34-5B-2.
+640 (a) It shall constitute an unfair employment practice for an employer, unless such employer
+641 can demonstrate that an undue hardship on such employer's program, enterprise, or
+642 business would result, to:
+643 (1) Fail or refuse to make a reasonable accommodation to a job applicant or employee
+644 for circumstances related to pregnancy, if such job applicant or employee so requests;
+645 (2) Take adverse action against a job applicant or an employee who requests or uses an
+646 accommodation;
+647 (3) Deny employment opportunities to a job applicant or employee, if such denial is
+648 based on the need of the employer to make reasonable accommodations to such job
+649 applicant or employee for circumstances related to pregnancy;
+650 (4) Require a job applicant or employee affected by pregnancy to accept an
+651 accommodation that such job applicant or employee chooses not to accept;
+652 (5) Require an employee to take leave if another reasonable accommodation can be
+653 provided to such employee for circumstances related to pregnancy;
+H. B. 925
+- 26 -
+25 LC 60 0091
+654 (6) Count an absence related to pregnancy against an employee under a no fault
+655 attendance policy; or
+656 (7) Fail to reinstate such employee to such employee's original job or to an equivalent
+657 position with equivalent pay and accumulated seniority, retirement, fringe benefits, and
+658 other applicable service credits when such employee's need for reasonable
+659 accommodations ceases.
+660 (b) The employer shall in good faith engage in a timely and interactive process with the
+661 job applicant or employee to determine effective reasonable accommodations.
+662 (c)(1) An employer shall provide written notice of the right to be free from
+663 discrimination in relation to pregnancy to:
+664 (A) New employees at the commencement of employment;
+665 (B) Existing employees within 120 days after the effective date of this chapter; and
+666 (C) Any employee who notifies such employer of her pregnancy within ten days of
+667 such notification.
+668 (2) Such notice shall be conspicuously posted at an employer's place of business in an
+669 area accessible to employees and shall be available in English and other languages
+670 commonly spoken in such employer's place of business.
+671 34-5B-3.
+672 The employer shall have the burden of proving undue hardship. In making a determination
+673 of undue hardship, the factors that may be considered include, but shall not be limited to:
+674 (1) The nature and cost of the accommodation;
+675 (2) The overall financial resources of the employer, the overall size of the business of the
+676 employer with respect to the number of employees, and the number, type, and location
+677 of its facilities; and
+678 (3) The effect on expenses and resources or the impact otherwise of such accommodation
+679 upon the operation of the employer.
+H. B. 925
+- 27 -
+25 LC 60 0091
+680 34-5B-4.
+681 (a) Any individual who is aggrieved by an unfair employment practice against such
+682 individual in violation of this chapter may institute a civil action against the persons
+683 engaged in such prohibited conduct. Such action may be maintained in any court of
+684 competent jurisdiction and shall be commenced no later than one year after the alleged
+685 prohibited conduct occurred.
+686 (b) The court may grant as relief, as it deems appropriate, any permanent or temporary
+687 injunction, temporary restraining order, or other order, including, but not limited to, the
+688 hiring or reinstatement of the plaintiff to such individual's original position or an equivalent
+689 position. The court may award to the plaintiff back pay. The court may award court costs
+690 and reasonable attorney's fees to the prevailing party.
+691 34-5B-5.
+692 The Department of Labor shall develop courses of instruction and conduct ongoing public
+693 education efforts as necessary to inform employers, employees, employment agencies, and
+694 job applicants about their rights and responsibilities under this chapter.
+695 34-5B-6.
+696 The Commissioner of Labor shall promulgate rules and regulations as are necessary to
+697 implement and effectuate the provisions of this chapter.
+698 34-5B-7.
+699 This chapter shall not be construed to preempt, limit, diminish, or otherwise affect any
+700 other provision of law relating to sex discrimination or pregnancy or in any way to
+701 diminish the coverage for pregnancy under any other provision of this title."
+H. B. 925
+- 28 -
+25 LC 60 0091
+702 SECTION 3-5.
+703 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+704 amended in Part 1 of Article 1 of Chapter 8, relating to general provisions regarding state
+705 sales and use tax, by revising paragraph (58) of Code Section 48-8-3, relating to exemptions
+706 from sales and use taxes, as follows:
+707 "(58) The sale or use of diapers Reserved;"
+708 PART 4.
+709 Maternal Health Data Collection, Research, and Innovation
+710 SECTION 4-1.
+711 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended in Article
+712 1 of Chapter 2A, relating to general provisions regarding the Department of Public Health,
+713 by revising subsection (d) of Code Section 31-2A-16, relating to Maternal Mortality Review
+714 Committee established, as follows:
+715 "(d)(1) Health care Healthcare providers licensed pursuant to Title 43, health care
+716 healthcare facilities licensed pursuant to Chapter 7 of Title 31 this title, and pharmacies
+717 licensed pursuant to Chapter 4 of Title 26 shall provide reasonable access to the
+718 committee to all relevant medical records associated with a case under review by the
+719 committee within 30 days of receiving a request for such records, unless prohibited by
+720 state or federal law.
+721 (2) A health care healthcare provider, health care healthcare facility, or pharmacy
+722 providing access to medical and psychiatric records pursuant to this Code section shall
+723 not be held liable for civil damages or be subject to any criminal or disciplinary action
+724 for good faith efforts in providing such records."
+H. B. 925
+- 29 -
+25 LC 60 0091
+725 SECTION 4-2.
+726 Said title is further amended in said article by adding a new Code section to read as follows:
+727 "31-2A-16.1.
+728 (a) There is established within the department a Severe Maternal Morbidity Review
+729 Committee to collect and track data on severe maternal morbidity and study and make
+730 recommendations on strategies to reduce severe maternal morbidity. The committee shall
+731 be multidisciplinary and composed of members as deemed appropriate by the department.
+732 The committee may contract with an external organization to assist in collecting, analyzing,
+733 and disseminating severe maternal morbidity information, organizing and convening
+734 meetings of the committee, and conducting other tasks as may be incident to these
+735 activities.
+736 (b) The committee shall, in coordination with the Maternal Mortality Review Committee:
+737 (1) Collect and track medical records and other relevant data on severe maternal
+738 morbidity, including, but not limited to, all of the following health conditions:
+739 (A) Obstetric hemorrhage;
+740 (B) Hypertension;
+741 (C) Preeclampsia and eclampsia;
+742 (D) Venous thromboembolism;
+743 (E) Sepsis;
+744 (F) Cerebrovascular accident; and
+745 (G) Amniotic fluid embolism;
+746 (2) Collect and track data on pregnancy related deaths, including, but not limited to,
+747 deaths relative to the conditions provided in subparagraphs (A) through (G) of
+748 paragraph (1) of this subsection, indirect obstetric deaths, and other maternal disorders
+749 predominantly related to pregnancy and complications predominantly related to the
+750 postpartum period;
+751 (3) Consult with relevant experts to evaluate collected records and data;
+H. B. 925
+- 30 -
+25 LC 60 0091
+752 (4) Develop and make recommendations regarding reducing severe maternal morbidity;
+753 (5) Disseminate findings and recommendations regarding reducing severe maternal
+754 morbidity; and
+755 (6) Not later than July 1, 2026, complete a study on:
+756 (A) Reducing severe maternal morbidity, including, but not limited to, all of the health
+757 conditions set forth in subparagraphs (A) through (G) of paragraph (1) of this
+758 subsection; and
+759 (B) Identifying more effective methods for the early detection of, and interventions for,
+760 other pregnancy related medical conditions that can lead to an increased risk of severe
+761 maternal morbidity, including, but not limited, to hyperemesis gravidarum.
+762 (c)(1) Healthcare providers licensed pursuant to Title 43, healthcare facilities licensed
+763 pursuant to Chapter 7 of Title 31, and pharmacies licensed pursuant to Chapter 4 of Title
+764 26 shall provide reasonable access to the committee to all relevant medical records
+765 associated with a case under review by the committee within 30 days of receiving a
+766 request for such records.
+767 (2) A healthcare provider, healthcare facility, or pharmacy providing access to medical
+768 records pursuant to this Code section shall not be held liable for civil damages or be
+769 subject to any criminal or disciplinary action for good faith efforts in providing such
+770 records.
+771 (d)(1) Information, records, reports, statements, notes, memoranda, or other data
+772 collected pursuant to this Code section shall not be admissible as evidence in any action
+773 of any kind in any court or before any other tribunal, board, agency, or person. Such
+774 information, records, reports, statements, notes, memoranda, or other data shall not be
+775 exhibited nor their contents disclosed in any way, in whole or in part, by any officer or
+776 representative of the department or any other person, except as may be necessary for the
+777 purpose of furthering the review of the committee of the case to which it relates. No
+H. B. 925
+- 31 -
+25 LC 60 0091
+778 person participating in such review shall disclose, in any manner, the information so
+779 obtained except in strict conformity with such review.
+780 (2) All information, records, reports, statements, notes, memoranda, or other data
+781 obtained by the department, the committee, and other persons, agencies, or organizations
+782 so authorized by the department pursuant to this Code section shall be confidential.
+783 (e)(1) All proceedings and activities of the committee under this Code section, opinions
+784 of members of such committee formed as a result of such proceedings and activities, and
+785 records obtained, created, or maintained pursuant to this Code section, including
+786 information, records, reports, statements, notes, memoranda, or other data procured by
+787 the department or any other person, agency, or organization acting jointly or under
+788 contract with the department in connection with the requirements of this Code section,
+789 shall be confidential and shall not be subject to Chapter 14 of Title 50, relating to open
+790 meetings, or Article 4 of Chapter 18 of Title 50, relating to open records, or subject to
+791 subpoena, discovery, or introduction into evidence in any civil or criminal proceeding;
+792 provided, however, that nothing in this Code section shall be construed to limit or restrict
+793 the right to discover or use in any civil or criminal proceeding anything that is available
+794 from another source and entirely independent of the committee's proceedings.
+795 (2) Members of the committee shall not be questioned in any civil or criminal proceeding
+796 regarding the information presented in or opinions formed as a result of a meeting or
+797 communication of the committee; provided, however, that nothing in this Code section
+798 shall be construed to prevent a member of the committee from testifying to information
+799 obtained independently of the committee or which is public information.
+800 (f)(1) The data on severe maternal morbidity and on pregnancy related deaths collected
+801 pursuant to paragraphs (1) and (2) of subsection (b) of this Code section shall be
+802 compiled on a regular basis for distribution. Beginning no later than October 1, 2026, the
+803 committee shall submit a detailed annual report to the Office of Health Strategy and
+804 Coordination as follows:
+H. B. 925
+- 32 -
+25 LC 60 0091
+805 (A) The data shall be aggregated by state regions, as defined by the department, to
+806 ensure the data reflect how regionalized care systems are or should be collaborating to
+807 improve maternal health outcomes or other smaller regional sorting based on standard
+808 statistical methods for accurate dissemination of public health data without risking a
+809 confidentiality or other disclosure breach; and
+810 (B) The data shall be disaggregated by racial and ethnic identity.
+811 (2) On or before December 1, 2026, the committee shall submit to the Governor, the
+812 Speaker of the House of Representatives, the President of the Senate, and the
+813 chairpersons of the House Committee on Public Health and the Senate Health and Human
+814 Services Committee a report regarding the study conducted pursuant to paragraph (6) of
+815 subsection (b) of this Code section, including a summary of the committee's key findings
+816 and recommendations, if any, for proposed legislation with respect to improving maternal
+817 health outcomes.
+818 (g) Paragraph (6) of subsection (b) of this Code section shall stand repealed by operation
+819 of law on December 31, 2026."
+820 SECTION 4-3.
+821 Said title is further amended in Article 1 of Chapter 53, relating to general provisions
+822 regarding the Office of Health and Strategy and Coordination by revising subsection (a) of
+823 Code Section 31-53-6, relating to compiling of reports and public dissemination of data, as
+824 follows:
+825 "31-53-6.
+826 (a) The office shall compile reports received from the following boards, commissions,
+827 committees, councils, and offices pursuant to each such entity's respective statutory
+828 reporting requirements:
+829 (1) The Maternal Mortality Review Committee;
+830 (2) The Severe Maternal Morbidity Review Committee;
+H. B. 925
+- 33 -
+25 LC 60 0091
+831 (2)(3) The Hemophilia Advisory Board;
+832 (3)(4) The Georgia Council on Lupus Education and Awareness;
+833 (4)(5) The Georgia Palliative Care and Quality of Life Advisory Council;
+834 (5)(6) The Georgia Trauma Care Network Commission;
+835 (6)(7) The Behavioral Health Coordinating Council;
+836 (7)(8) The Department of Public Health on behalf of the Georgia Coverdell Acute Stroke
+837 Registry;
+838 (8)(9) The Office of Cardiac Care; and
+839 (9)(10) The Brain and Spinal Injury Trust Fund Commission."
+840 SECTION 4-4.
+841 Title 37 of the Official Code of Georgia Annotated, relating to mental health, is amended in
+842 Part 2 of Article 6 of Chapter 3, relating to rights and privileges as to manner of care and
+843 treatment and as to maintenance and release of clinical records, by revising paragraphs (9)
+844 and (10) of and by adding a new paragraph to subsection (a) of Code Section 37-3-166,
+845 relating to treatment of clinical records, when release permitted, scope of privileged
+846 communications, liability for disclosure, and notice to sheriff of discharge, to read as follows:
+847 "(9) Notwithstanding any other provision of law to the contrary, a law enforcement
+848 officer in the course of a criminal investigation may be informed as to whether a person
+849 is or has been a patient in a state facility, as well as the patient's current address, if
+850 known; and
+851 (10) Notwithstanding any other provision of law to the contrary, a law enforcement
+852 officer in the course of investigating the commission of a crime on the premises of a
+853 facility covered by this chapter or against facility personnel or a threat to commit such
+854 a crime may be informed as to the circumstances of the incident, including whether the
+855 individual allegedly committing or threatening to commit a crime is or has been a patient
+H. B. 925
+- 34 -
+25 LC 60 0091
+856 in the facility, and the name, address, and last known whereabouts of any alleged patient
+857 perpetrator; and
+858 (11) Copies of the record of a deceased patient or deceased former patient may be
+859 released to the Maternal Mortality Review Committee and the Severe Maternal Morbidity
+860 Review Committee established under Chapter 2A of Title 31, except for matters
+861 privileged under the laws of this state."
+862 SECTION 4-5.
+863 Title 45 of the Official Code of Georgia Annotated, relating public officers and employees,
+864 is amended in Article 2 of Chapter 16, relating to death investigations, by revising subsection
+865 (b) of Code Section 45-16-24, relating to notification of suspicious or unusual deaths, court
+866 ordered medical examiner's inquiry, and written report of inquiry, as follows:
+867 "(b) A coroner or county medical examiner who is notified of a death pursuant to
+868 subsection (a) of this Code section under circumstances specified in paragraphs (1)
+869 through (9) (10) of such subsection shall order a medical examiner's inquiry of that death.
+870 A coroner or medical examiner who is notified of a death pursuant to subsection (a) of this
+871 Code section under circumstances specified in paragraph (10) of such subsection and which
+872 death was not under circumstances specified in paragraphs (1) through (9) of such
+873 subsection shall order a medical examiner's inquiry for such death through a regional
+874 perinatal center, as identified by the Department of Public Health. This subsection shall
+875 not be construed to prohibit a medical examiner's inquiry of a death if a coroner or county
+876 medical examiner is notified of a death under circumstances specified in paragraph (11) of
+877 subsection (a) of this Code section."
+H. B. 925
+- 35 -
+25 LC 60 0091
+878 PART 5.
+879 SECTION 5-1.
+880 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 925
+- 36 -
+[DELETED: 5L8,2,6,hndt9,1,hs r a t a s s r s a t e t m h c f w r i l m c c a t c p a p w f l h t t p f i c a d t p f a a i b d a a r p c t a r a]
+[DELETED: 5L a d t e a p p f r m m h t p c u t M p f d c f p i t w f p c a c t t p f n o r a r a t j r a p f c w r t s w]
+[DELETED: 5L]
+[DELETED: 5L h t b a a l f i m p H]
+[DELETED: 5L t s i a t c o w t b a o p f t t u o t a]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L b o l a b v q a s c]
+[DELETED: 5L]
+[DELETED: 5L c r i a c t a b p i d b d a m a o t d w e]
+[DELETED: 5L s e c a p s g f p a]
+[DELETED: 5L  B o J 1 2 a e f y t t d i  A i h p a d a p e i]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L  M m h s d t p p a 1 m  C a t f t s p f m m h]
+[DELETED: 5L  T p o t C s s a t a p c a]
+[DELETED: 5L s s u q t c w n r  A m m h s w m b r m b  R t m m h s t d s e ]
+[DELETED: 5L]
+[DELETED: 5L  T i t p o t C s t d s w i p f a t b e a f o]
+[DELETED: 5L]
+[DELETED: 5L  ' i m s a s f i a t w i e i a s o i a t f s a o n m t s t p a]
+[DELETED: 5L  H a s o f a c w g a]
+[DELETED: 5L]
+[DELETED: 5L o d b e a e a t a s b o a p n e o s b o p r f s a b c i a  E]
+[DELETED: 5L d t a u h o s e p e o  R a j a o e a b p t a a]
+[DELETED: 5L  C a a r t p a a e u a n f a s c w s e n f r  A e s p w n o t r t b f f]
+[DELETED: 5L p o l r t s d o p o i a w t]
+[DELETED: 5L 4 h p t C 4 o T 2 s p r a t t  A h c h p h c h f o p]
+[DELETED: 5L d s m m i o a c o t c a c o t a m b i t t  C a t m r a o r d o s m r t t c p i s ( t ( o]
+[DELETED: 5L s f i s ( t ( o p ( o t  I r r s n m o o d]
+[DELETED: 5L  A i r r s n m o o d o c o m p t t C s i t p ( a ( o s ( o t C s s b]
+[DELETED: 5L o t H o R t P o t S a t c a o p t e s e r s]
+[DELETED: 5L t t o c r w r p s o p]
+[DELETED: 5L C e u C 2 o T 3 e f m  A c o c m e w i n o a d p t ( o t C s u c s i p ( w n u c s i p ( t ( o s]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 60 0091
+House Bill 925
+By: Representatives Cannon of the 58th, Miller of the 62nd, Scott of the 76th, Bazemore of the
+69th, Hugley of the 141st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 31, 33, 34, 37, 45, 48, and 49 of the Official Code of Georgia Annotated,
+2 relating to health, insurance, labor and industrial relations, mental health, public officers and
+3 employees, revenue and taxation, and social services, respectively, so as to enact the
+4 "Georgia Maternal Health Momnibus Act"; to provide for legislative findings and intent; to
+5 provide for a short title; to repeal Code Section 31-2A-19, relating to pilot program for home
+6 visitation during pregnancy and early childhood, reporting, and funding requirement; to
+7 establish pilot programs to provide prenatal care and postpartum care through telemedicine
+8 and mobile health clinics for women residing in limited maternity care counties and
+9 maternity care deserts; to authorize rules and regulations, provide for reporting, provide for
+10 contingent effectiveness, and provide for termination and automatic repeal with respect to
+11 such pilot programs; to provide for group prenatal care and postpartum care classes and
+12 sessions to certain pregnant and postpartum women from low-income households; to
+13 authorize rules and regulations and provide for reporting with respect to the same; to require
+14 implicit bias initial and refresher training for certain healthcare professionals involved in
+15 perinatal care; to create and provide a purpose for the Regional Perinatal Center Advisory
+16 Committee; to provide for its composition and duties; to provide for assessment and
+17 recommendations to the commissioner of public health; to establish criteria for hospitals
+18 interested in being designated as a regional perinatal center; to authorize rules and
+H. B. 925
+- 1 -
+
+25 LC 60 0091
+19 regulations and provide for presentation of a plan every four years with respect to such
+20 committee; to provide for coverage for maternal mental health screening and care; to provide
+21 for a comprehensive quality metrics program with respect to such screening and care; to
+22 require the provision of educational materials upon signs and symptoms of perinatal mood
+23 and anxiety disorders; to establish a pilot program for remote maternal mental health
+24 screening and monitoring; to provide for legislative intent, authorize rules and regulations,
+25 and provide for funding and reporting with respect to such pilot program; to establish a pilot
+26 program to provide coverage under the Medicaid program for doula care for pregnant
+27 Medicaid recipients; to provide for doula qualifications, authorize rules and regulations,
+28 provide for reporting, provide for contingent effectiveness, and provide for termination and
+29 automatic repeal with respect to such pilot program; to provide for a public awareness
+30 campaign related to maternal health; to expand the Georgia WIC (Women, Infants, and
+31 Children) program to cover children up to six years of age and to provide for contingent
+32 effectiveness; to create and establish a purpose for the Supporting Healthy Moms Grant
+33 Program; to provide for the allocation of annual grant awards under such program; to provide
+34 for rules and regulations and reporting with respect to such program; to require certain
+35 accommodations in the workplace for pregnancy, childbirth, and related conditions; to
+36 provide for the specific powers and duties of the Commissioner of Labor related to such
+37 requirements; to provide for notice of rights and reasonable accommodations to job
+38 applicants and employees for circumstances related to pregnancy; to provide for a civil cause
+39 of action and relief; to provide for certain instruction and public education; to authorize rules
+40 and regulations and provide for construction with respect to such workplace
+41 accommodations; to exempt the sale or use of diapers from taxation; to require healthcare
+42 providers, healthcare facilities, and pharmacies to provide the Maternal Mortality Review
+43 Committee with psychiatric records; to create and provide a purpose for the Severe Maternal
+44 Morbidity Review Committee; to provide for the compilation, tracking, reporting, and public
+45 dissemination of data on severe maternal morbidity and pregnancy related deaths; to provide
+H. B. 925
+- 2 -
+
+25 LC 60 0091
+46 for a study on reducing severe maternal morbidity; to provide for a report and for automatic
+47 repeal of provisions relating to such study; to permit the release of clinical records of a
+48 deceased patient or deceased former patient to the Maternal Mortality Review Committee
+49 and the Severe Maternal Morbidity Review Committee; to remove the requirement that a
+50 medical examiner's inquiry for pregnant female deaths be done through a regional perinatal
+51 center; to provide for definitions; to provide for related matters; to repeal conflicting laws;
+52 and for other purposes.
+53 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+54 PART 1.
+55 SECTION 1-1.
+56 This Act shall be known and may be cited as the "The Georgia Maternal Health Momnibus
+57 Act."
+58 PART 2.
+59 Comprehensive and Equitable Maternal Healthcare
+60 SECTION 2-1.
+61 (a) The General Assembly of Georgia finds that:
+62 (1) Georgia's maternal mortality rate is one of the highest in the nation, regardless of
+63 ethnic or socioeconomic background;
+64 (2) According to the Commonwealth Fund, in 2020 the United States' mortality rate was
+65 23.8 deaths per 100,000 live births, which is much higher than the 9.8 average of the
+66 Organization for Economic Cooperation and Development. In 2020, Georgia's rate of
+67 maternal mortality was 33.0 deaths per 100,000 live births;
+H. B. 925
+- 3 -
+
+25 LC 60 0091
+68 (3) Systemic disparities, including lack of access to quality care across socioeconomic
+69 strata, contribute to poor maternal health outcomes. The Department of Public Health
+70 reports that over 80 percent of pregnancy related deaths in Georgia are preventable;
+71 (4) Reports from the Georgetown Center for Children and Families show that nearly one
+72 in five (19.3 percent) of women of childbearing age (18-44) have no health insurance.
+73 This is one of the highest rates in the country, leaving Georgia forty-sixth overall as it
+74 relates to women's healthcare access. Georgia has the highest uninsured rate in the South,
+75 apart from Mississippi where 21.2 percent of women of childbearing age are uninsured;
+76 (5) Social determinants of health, such as housing, transportation, and economic stability,
+77 significantly impact maternal health outcomes. Data from the Department of Public
+78 Health highlights transportation barriers as a leading factor in missed prenatal
+79 appointments;
+80 (6) Ninety-three rural Georgia counties do not have a hospital with a labor and delivery
+81 unit, and there are no rural counties in the state with a maternal-fetal medicine specialist.
+82 Mothers in these areas are often more impacted by lack of transportation, little or no
+83 access to the social safety net, and the presence of few perinatal supportive resources; and
+84 (7) Federal legislation such as the Black Maternal Health Momnibus Act of 2023
+85 provides a comprehensive framework to address maternal health disparities, offering
+86 Georgia an opportunity to align state efforts with national goals.
+87 (b) It is the intent of the General Assembly to address systemic disparities, invest in social
+88 determinants of health, and provide comprehensive support to improve maternal health
+89 outcomes for mothers in Georgia.
+90 SECTION 2-2.
+91 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended in Article 1
+92 of Chapter 2A, relating to the Department of Public Health generally, by repealing Code
+93 Section 31-2A-19, relating to pilot program for home visitation during pregnancy and early
+H. B. 925
+- 4 -
+
+25 LC 60 0091
+94 childhood, reporting, and funding requirement, and enacting a new Code Section 31-2A-19
+95 to read as follows:
+96 "31-2A-19.
+97 (a) As used in this Code section, the term:
+98 (1) 'Distant site' means a site at which an obstetric provider is located while providing
+99 healthcare services by means of telemedicine, which may include the home of such
+100 obstetric provider.
+101 (2) 'Limited maternity care county' means a county in this state that has fewer than two
+102 hospitals or birth centers offering obstetric care or fewer than 60 obstetric providers per
+103 10,000 births.
+104 (3) 'Maternity care desert' means a county in this state that does not have a hospital or
+105 birth center offering obstetric care or an obstetric provider.
+106 (4) 'Obstetric provider' means a licensed physician or advanced practice registered nurse
+107 who is licensed to practice obstetrics and gynecology in this state.
+108 (5) 'Telemedicine' means the use of electronic information and telecommunications
+109 technologies that include, at minimum, audio and video equipment to enable two-way,
+110 real-time interactive communication between a patient and an obstetric provider at a
+111 distant site, which services are compliant with federal Health Insurance Portability and
+112 Accountability Act of 1996 (HIPAA) privacy, security, and breach notification rules.
+113 Such term shall include audio-only, telephone communication only when two-way,
+114 real-time audio-visual communication is unavailable to or inaccessible by the patient or
+115 is infeasible, impractical, or otherwise not medically advisable, as determined by the
+116 obstetric provider providing telemedicine services to the patient.
+117 (6) 'Virtual prenatal care' means at-home prenatal healthcare for a pregnant woman
+118 provided by an obstetric provider facilitated through the use of telemedicine and
+119 home-monitoring devices or other equipment, as deemed appropriate by such obstetric
+120 provider. Such term includes consultations and monitoring, including, but not limited to,
+H. B. 925
+- 5 -
+
+25 LC 60 0091
+121 monitoring for conditions such as diabetes and hypertension; mental health evaluations;
+122 nutritional evaluations; and guidance on personal care.
+123 (b) The department shall develop, implement, and conduct a three-year pilot program to
+124 provide virtual prenatal care to pregnant women in limited maternity care counties and
+125 maternity care deserts to improve birth outcomes and to decrease maternal morbidity and
+126 mortality. The pilot program shall begin on July 1, 2026, and shall provide up to five
+127 virtual prenatal care visits for each eligible pregnant woman. Such eligibility shall be
+128 established based on criteria, terms, and conditions as determined by the department, in
+129 coordination with the Department of Community Health.
+130 (c) No later than July 1, 2027, and annually thereafter, the department shall submit to the
+131 Governor, the Speaker of the House of Representatives, the President of the Senate, and
+132 the chairpersons of the House Committee on Public Health and the Senate Health and
+133 Human Services Committee a detailed written report on the effectiveness of the pilot
+134 program. The final report shall additionally include recommendations, if any, as to the
+135 expansion or permanency of the pilot program and any proposed changes to such program
+136 relative to such recommendations.
+137 (d) The department is authorized to promulgate rules and regulations as may be necessary
+138 to implement and effectuate the provisions of this Code section.
+139 (e) This Code section shall be contingent upon appropriations made by the General
+140 Assembly specifically for the department for the purposes set forth in this Code section and
+141 shall stand repealed by operation of law on December 1, 2029."
+142 SECTION 2-3.
+143 Said title is further amended by adding new Code sections to read as follows:
+144 "31-2A-21.
+145 (a) For purposes of this Code section, the term:
+H. B. 925
+- 6 -
+
+25 LC 60 0091
+146 (1) 'Limited maternity care county' means a county in this state that has fewer than two
+147 hospitals or birth centers offering obstetric care or fewer than 60 obstetric providers per
+148 10,000 births.
+149 (2) 'Maternity care desert' means a county in this state that does not have a hospital or
+150 birth center offering obstetric care or an obstetric provider.
+151 (3) 'Obstetric provider' means a physician or advanced practice registered nurse licensed
+152 to practice obstetrics and gynecology in this state.
+153 (4) 'Postpartum care' means healthcare for a woman for a period of one year following
+154 a birth, miscarriage, stillbirth, or neonatal death. Such term includes physiological
+155 assessments, mental health evaluations, nutritional evaluations, and guidance on personal
+156 and newborn care. Such term includes at least four visits with an obstetric provider as
+157 follows:
+158 (A) An initial visit within 24 hours of a birth, miscarriage, stillbirth, or neonatal death;
+159 (B) A follow-up visit within the first three weeks postpartum;
+160 (C) A follow-up visit within the first eight weeks postpartum;
+161 (D) A comprehensive visit no later than 12 weeks postpartum; and
+162 (E) Intermediary and ongoing care as needed.
+163 (b) The department shall develop, implement, and conduct a three-year pilot program for
+164 the purpose of providing postpartum care through mobile health clinics in limited maternity
+165 care counties and maternity care deserts, beginning on July 1, 2026. The department, in
+166 coordination with the Department of Community Health, shall establish eligibility criteria,
+167 terms, and conditions for such pilot program.
+168 (c) No later than July 1, 2027, and annually thereafter, the department shall submit a
+169 detailed written report on the effectiveness of the pilot program to the Governor, the
+170 Speaker of the House of Representatives, the President of the Senate, and the chairpersons
+171 of the House Committee on Public Health and the Senate Health and Human Services
+172 Committee. The final report shall additionally include recommendations, if any, as to the
+H. B. 925
+- 7 -
+
+25 LC 60 0091
+173 expansion or permanency of the pilot program and any proposed changes to the pilot
+174 program relative to such recommendations.
+175 (d) This Code section shall be contingent upon appropriations made by the General
+176 Assembly specifically for the department for the purposes set forth in this Code section and
+177 shall stand repealed by operation of law on December 1, 2029.
+178 31-2A-22.
+179 (a) As used in this Code section, the term:
+180 (1) 'Eligible participant' means a pregnant or postpartum woman who meets the income
+181 eligibility guidelines set forth by the Georgia WIC (Women, Infants, and Children)
+182 program, as of July 1, 2025.
+183 (2) 'Group prenatal care' means a structured class designed for pregnant women provided
+184 in a supportive group setting and based on an evidence based model that is focused on
+185 equipping pregnant women with essential prenatal knowledge and skills, including, but
+186 not limited to, labor and delivery preparation, breastfeeding, lactation, and newborn care.
+187 (3) 'Group postpartum care' means a structured class designed for postpartum women
+188 provided in a supportive group setting focused on equipping such women with essential
+189 knowledge and skills for the postpartum period, including, but not limited to, physical
+190 recovery, nutrition, emotional well-being, maternal mental health, newborn care, and
+191 lactation support. With respect to postpartum women separated from their newborns due
+192 to child welfare intervention or any other cause, such term includes counseling sessions
+193 and any consultative sessions related to providing reunification assistance.
+194 (4) 'Postpartum woman' means a woman up to 12 months after the end of a pregnancy.
+195 (b) Subject to available funding, the department shall develop, implement, and conduct a
+196 program to provide group prenatal care and group postpartum care to eligible participants,
+197 whether in-person or online. Such program shall begin on July 1, 2026, and shall provide
+H. B. 925
+- 8 -
+
+25 LC 60 0091
+198 up to five group prenatal care visits and up to five group postpartum care visits for each
+199 eligible participant at no cost to such participant.
+200 (c) Any person providing group prenatal care or group postpartum care under the program
+201 shall have completed the appropriate training, as determined by the department.
+202 (d) No later than June 30, 2027, and annually thereafter, the department shall submit to the
+203 Governor, the Speaker of the House of Representatives, the President of the Senate, and
+204 the chairpersons of the House Committee on Public Health and the Senate Health and
+205 Human Services Committee a detailed report on the effectiveness of the program and
+206 recommendations, if any, as to proposed legislation to improve such program.
+207 (e) The department is authorized to promulgate rules and regulations as may be necessary
+208 to implement and effectuate the provisions of this Code section.
+209 31-2A-23.
+210 (a) As used in this article, the term:
+211 (1) 'Healthcare professional' means a physician or other healthcare practitioner licensed,
+212 accredited, or certified to perform specified physical, mental, or behavioral healthcare
+213 services consistent with his or her scope of practice under the laws of this state.
+214 (2) 'Implicit bias' means a bias in judgment or behavior that results from subtle cognitive
+215 processes, including implicit prejudice and implicit stereotypes that often operate at a
+216 level below conscious awareness and without intentional control.
+217 (3) 'Implicit prejudice' means prejudicial negative feelings or beliefs about a group that
+218 a person holds without being aware of them.
+219 (4) 'Implicit stereotypes' means the unconscious attributions of particular qualities to a
+220 member of a certain social group. Implicit stereotypes are influenced by experience and
+221 are based on learned associations between various qualities and social categories,
+222 including race or gender.
+H. B. 925
+- 9 -
+
+25 LC 60 0091
+223 (5) 'Perinatal care' means the provision of care during pregnancy, labor, delivery, and
+224 postpartum and neonatal periods.
+225 (6) 'Perinatal facility' means a hospital, clinic, or birthing center that provides perinatal
+226 care.
+227 (7) 'Pregnancy related death' means the death of a woman while pregnant or within 365
+228 days of the end of a pregnancy, irrespective of the duration or site of the pregnancy, from
+229 any cause related to, or aggravated by, the pregnancy or its management, but not from
+230 accidental or incidental causes.
+231 (b) Every perinatal facility in this state shall implement an evidence based implicit bias
+232 program for all healthcare professionals involved in the perinatal care of patients within
+233 such facility.
+234 (c) An implicit bias program implemented pursuant to subsection (b) of this Code section
+235 shall include:
+236 (1) Identification of previous or current unconscious biases and misinformation;
+237 (2) Identification of personal, interpersonal, institutional, structural, and cultural barriers
+238 to inclusion;
+239 (3) Corrective measures to decrease implicit bias at the interpersonal and institutional
+240 levels, including ongoing policies and practices for that purpose;
+241 (4) Information on the effects, including, but not limited to, ongoing personal effects, of
+242 historical and contemporary exclusion and oppression of minority communities;
+243 (5) Information about cultural identity across racial or ethnic groups;
+244 (6) Information relative to communicating more effectively across identities, including
+245 racial, ethnic, religious, and gender identities;
+246 (7) Discussion on power dynamics and organizational decision making;
+247 (8) Discussion on health inequities within the perinatal care field, including information
+248 on how implicit bias impacts maternal and infant health outcomes;
+H. B. 925
+- 10 -
+
+25 LC 60 0091
+249 (9) Perspectives of diverse, local constituency groups and experts on particular racial,
+250 identity, cultural, and provider-community relations issues in the community; and
+251 (10) Information on reproductive justice.
+252 (d)(1) A healthcare professional shall complete initial basic training through the implicit
+253 bias program based on the components described in subsection (c) of this Code section.
+254 (2) Upon completion of the initial basic training, a healthcare professional shall complete
+255 a refresher course under the implicit bias program every two years thereafter, or on a
+256 more frequent basis if deemed necessary by the perinatal facility, in order to keep current
+257 with changing racial, identity, and cultural trends and best practices in decreasing
+258 interpersonal and institutional implicit bias.
+259 (e) Each perinatal facility in this state shall provide a certificate of training completion to
+260 another perinatal facility or a training attendee upon request. A perinatal facility may
+261 accept a certificate of completion from another perinatal facility to satisfy the training
+262 requirement provided for in this Code section from a healthcare professional who works
+263 in more than one perinatal facility.
+264 (f) If a healthcare professional involved in the perinatal care of patients is not directly
+265 employed by a perinatal facility, the facility shall offer the training to such healthcare
+266 professional.
+267 31-2A-24.
+268 (a) As used in this Code section, the term 'maternal near-miss' means a woman who
+269 survived a near-death complication occurring during a pregnancy, during childbirth, or
+270 within 42 days of the end of a pregnancy.
+271 (b) The department shall create a comprehensive public awareness campaign targeting
+272 women located in rural and underserved communities to increase awareness about maternal
+273 health by developing and making available on the department's website educational
+H. B. 925
+- 11 -
+
+25 LC 60 0091
+274 materials and support resources. Such materials and resources shall include, but shall not
+275 be limited to:
+276 (1) Information on prenatal care, including, but not limited to, nutrition, the importance
+277 of prenatal care visits, what to expect during such visits, and key prenatal screenings;
+278 (2) Information on common causes of maternal near-misses and strategies to reduce the
+279 risk of severe maternal morbidity;
+280 (3) Information on postpartum care, including, but not limited to, nutrition, physical
+281 recovery, and newborn care; and
+282 (4) A geographically indexed guide on government funded, free, and low-cost services
+283 available to support pregnant and postpartum women, including, but not limited to,
+284 healthcare services, educational classes and peer support groups for prenatal and
+285 postpartum care, mental health counseling services, transportation assistance programs,
+286 and food assistance programs which shall include a description of the services offered
+287 and contact information.
+288 (c) The department shall maintain a comprehensive webpage on its website dedicated to
+289 maternal health that includes all educational materials and support resources identified or
+290 created pursuant to this Code section."
+291 SECTION 2-4.
+292 Said title is further amended by adding a new article to read as follows:
+293 "ARTICLE 4
+294 31-2A-70.
+295 As used in this article, the term:
+296 (1) 'Advisory committee' or 'committee' means the Regional Perinatal Center Advisory
+297 Committee established pursuant to Code Section 31-2A-71.
+H. B. 925
+- 12 -
+
+25 LC 60 0091
+298 (2) 'Regional perinatal center' means a specially qualified hospital identified by the
+299 department and designated to a specific geographic region to lead collaboration between
+300 hospitals and providers to increase the likelihood that deliveries are performed in a
+301 hospital with an appropriate level of care for mothers and infants.
+302 31-2A-71.
+303 (a) There is established the Regional Perinatal Center Advisory Committee for the purpose
+304 of considering and making recommendations to the commissioner concerning the addition,
+305 reduction, or transition of regional perinatal centers in this state. The committee shall
+306 advise the commissioner on the estimated costs to the department necessary to implement
+307 such recommendations.
+308 (b) The Regional Perinatal Center Advisory Committee shall be composed of not less
+309 than 11 nor more than 21 members to be appointed by the commissioner, who shall appoint
+310 one of such members to serve as chairperson. All appointments to the committee shall be
+311 for a term of four years. A member shall serve until his or her successor has been duly
+312 appointed. The commissioner may reappoint any member.
+313 (c) The advisory committee shall meet upon the call of the chairperson.
+314 (d) Beginning on July 1, 2026, and every four years thereafter, the department, in
+315 conjunction with the advisory committee, shall assess and make recommendations to the
+316 commissioner on the adequacy of the regional perinatal system and consider hospital or
+317 labor and delivery closures. Such assessment shall evaluate whether:
+318 (1) Perinatal facilities in each region are equipped and prepared to stabilize infants and
+319 mothers before transport;
+320 (2) Coordination exists between maternity care in each region and regional perinatal
+321 centers;
+322 (3) All identified high-risk pregnancies and deliveries are promptly evaluated in
+323 consultation with regional perinatal centers and referred to the appropriate designated
+H. B. 925
+- 13 -
+
+25 LC 60 0091
+324 regional perinatal center for the proper management and treatment of such conditions as
+325 needed;
+326 (4) An adequate transport system is available in the region for the transfer of high-risk
+327 mothers and infants and specifically considers:
+328 (A) The distance and travel time between referring hospitals and regional perinatal
+329 centers;
+330 (B) The types of vehicles used for transport and whether a need exists for additional
+331 vehicles; and
+332 (C) The need for upgraded vehicles and transport equipment; and
+333 (5) Each regional perinatal center provides:
+334 (A) Consultation for patients requiring special services, including transport;
+335 (B) Coordination and assurance of follow-up medical care for maternal and neonatal
+336 patients requiring special services;
+337 (C) Educational support to ensure quality care in institutions involved in perinatal
+338 healthcare in the region;
+339 (D) An annual education plan with all birthing centers in the region;
+340 (E) Compilation and analysis of perinatal data from the center and referring hospitals;
+341 and
+342 (F) Coordination of perinatal health services within the region.
+343 (e) When changes to the regional perinatal centers are approved by the department after
+344 recommendation by the advisory committee, the department shall submit to the Office of
+345 Planning and Budget prior to the General Assembly's next legislative session a budget
+346 request seeking appropriations to implement such changes.
+347 31-2A-72.
+348 To be designated as a regional perinatal center a hospital shall notify the department of the
+349 following:
+H. B. 925
+- 14 -
+
+25 LC 60 0091
+350 (1) Such hospital's ability to meet the standards for regional perinatal centers;
+351 (2) Any additional funding necessary to bring such hospital up to the standards for
+352 regional perinatal centers;
+353 (3) Any special planning problems in such hospital's perinatal region, including, but not
+354 limited to, transportation, shortage of facilities, and personnel;
+355 (4) A description of perinatal care currently being provided;
+356 (5) A description of services that can be provided by the center in patient care, education,
+357 and consultation to hospitals within the perinatal region; and
+358 (6) Any other information requested by the department.
+359 31-2A-73.
+360 Beginning on July 1, 2026, and every four years thereafter, the department shall present to
+361 the Governor, the Speaker of the House of Representatives, and the President of the Senate
+362 a plan for the designated perinatal centers in every region of the state. Such plan shall
+363 include funding considerations to aid hospitals in meeting the standards and for continuing
+364 requirements, including, but not limited to, patient care, professional education, training
+365 programs, and physical facilities.
+366 31-2A-74.
+367 The department shall be authorized to promulgate rules and regulations to carry out the
+368 purposes of this article."
+369 SECTION 2-5.
+370 Title 33 of the Official Code of Georgia Annotated, relating to insurance, is amended in
+371 Chapter 1, relating to general provisions, by adding a new Code section to read as follows:
+372 "33-1-28.
+373 (a) As used in this Code section, the term:
+H. B. 925
+- 15 -
+
+25 LC 60 0091
+374 (1) 'Maternal mental health screening' means the use of an independent, evidence based
+375 screening instrument that is in accordance with nationally recognized clinical practice
+376 guidelines developed by independent organizations or medical professional societies
+377 utilizing a transparent methodology and reporting structure and with a conflict-of-interest
+378 policy. Such guidelines establish standards of care informed by a systematic review of
+379 evidence and an assessment of the benefits and risks of alternative care options and
+380 include recommendations intended to optimize patient care.
+381 (2) 'Medically necessary' shall have the same meaning as set forth in Code Section
+382 33-1-27.
+383 (3) 'Mental healthcare provider' means any person licensed under Title 43 to provide
+384 prenatal, labor and delivery, or postpartum care, including without limitation physicians,
+385 psychiatrists, psychologists, advanced practice registered nurses, physician assistants,
+386 licensed clinical social workers, and licensed professional counselors and marriage and
+387 family therapists.
+388 (4) 'Telehealth services' means services provided via two-way, real-time interactive
+389 communication between a patient and a mental healthcare provider at a distant site
+390 through telecommunications equipment, which services are compliant with federal Health
+391 Insurance Portability and Accountability Act of 1996 (HIPAA) privacy, security, and
+392 breach notification rules.
+393 (b) Each health benefit policy issued, delivered, or renewed in this state shall provide
+394 coverage for medically necessary:
+395 (1) Maternal mental health screening during the prenatal period and 12 months
+396 postpartum; and
+397 (2) Care and treatment for those screenings positive for maternal mental health
+398 conditions.
+399 (c) All services provided for in this Code section shall be covered whether provided in
+400 person or through telehealth services.
+H. B. 925
+- 16 -
+
+25 LC 60 0091
+401 (d) The provisions of this Code section shall apply to all policies, contracts, and
+402 certificates executed, delivered, issued for delivery, continued, or renewed in this state on
+403 or after January 1, 2026."
+404 SECTION 2-6.
+405 Title 49 of the Official Code of Georgia Annotated, relating to social services, is amended
+406 in Article 7 of Chapter 4, relating to medical assistance generally, by adding new Code
+407 sections to read as follows:
+408 "49-4-159.5.
+409 (a) Except in cases where the woman refuses a maternal mental health screening as
+410 provided for in Code Section 33-1-28, a pregnant or postpartum woman seeking healthcare
+411 from a physician or other healthcare provider shall be screened for perinatal mood and
+412 anxiety disorders, as determined necessary:
+413 (1) At the pregnant woman's first prenatal visit;
+414 (2) When the pregnant woman is from 28 through 32 weeks' gestation;
+415 (3) Between delivery and discharge from the facility where the pregnant woman gives
+416 birth;
+417 (4) At the woman's six-week postpartum obstetrical visit;
+418 (5) If there is a pregnancy loss and at the follow-up obstetric visit after such loss; and
+419 (6) At a pediatric visit occurring when the infant is three months of age or, if there is no
+420 such visit, at the postpartum woman's healthcare visit any time from three months to one
+421 year after pregnancy loss or delivery.
+422 (b) The right to refuse the mental health screening described in subsection (a) of this Code
+423 section shall not exist for a patient determined by the physician or other healthcare provider
+424 to be mentally incompetent.
+425 (c)(1) The maternal mental health screening provided for in subsection (a) of this Code
+426 section shall be conducted by the physician or other healthcare provider who is providing
+H. B. 925
+- 17 -
+
+25 LC 60 0091
+427 prenatal, obstetric, or postpartum care of the pregnant woman or pediatric care of the
+428 woman's infant, as deemed necessary by such physician or healthcare provider. Each
+429 such screening shall utilize questionnaires that conform with nationally recognized
+430 clinical practice guidelines and shall be used for the purposes of diagnosis, treatment,
+431 appropriate management, or ongoing monitoring of a woman's mental health, well-being,
+432 disease, or condition as supported by medical and scientific evidence.
+433 (2) Additional maternal mental health screenings, which may be refused, may be
+434 conducted at any other point during the pregnancy or the postpartum period as deemed
+435 necessary by the physician or other healthcare provider. Appropriate referral information
+436 and resources addressing perinatal mood or anxiety disorders shall be provided during
+437 such screenings.
+438 (d) A physician or other healthcare provider who provides obstetric or pediatric care shall
+439 provide educational materials through electronic or other means on the signs and symptoms
+440 of perinatal mood and anxiety disorders to pregnant and postpartum women under his or
+441 her care, or to mothers of children under his or her care, as deemed necessary by such
+442 physician or healthcare provider.
+443 (e) The provisions of this Code section shall not preclude any other healthcare provider
+444 acting within his or her scope of practice from screening for maternal mental health
+445 conditions or from providing referral information and resources or educational materials
+446 on perinatal mood and anxiety disorders.
+447 (f) Relative to maternal mental health screenings, the department shall establish a
+448 comprehensive quality metrics program that includes:
+449 (1) Process measures, including, but not limited to:
+450 (A) Percentage of eligible patients screened at each required interval;
+451 (B) Time from positive screen to first behavioral health contact;
+452 (C) Completion rates for referrals to behavioral health services; and
+453 (D) Utilization rates of telehealth services;
+H. B. 925
+- 18 -
+
+25 LC 60 0091
+454 (2) Outcome measures, including, but not limited to:
+455 (A) Rates of postpartum depression and anxiety identification;
+456 (B) Emergency department utilization for mental health concerns;
+457 (C) Psychiatric hospitalization rates; and
+458 (D) Duration of treatment engagement;
+459 (3) Equity measures, including, but not limited to:
+460 (A) Screening and treatment rates stratified by race, ethnicity, and geographic location;
+461 and
+462 (B) Disparities in access to care and outcomes; and
+463 (4) Patient experience measures, including, but not limited to:
+464 (A) Satisfaction with screening process;
+465 (B) Perceived barriers to care; and
+466 (C) Experiences with telehealth services.
+467 (g) No later than January 1, 2026, the department shall establish a three-year pilot program
+468 for remote maternal mental health screening and monitoring. Such program shall:
+469 (1) Prioritize high-risk populations and rural communities;
+470 (2) Include telehealth services;
+471 (3) Integrate with existing maternal health programs, including home visiting services;
+472 and
+473 (4) Collect data on program effectiveness and barriers to care.
+474 (h) The department may allocate sufficient funds for the pilot program provided for in
+475 subsection (g) of this Code section to support:
+476 (1) Technology infrastructure and support;
+477 (2) Provider training and technical assistance; and
+478 (3) Program evaluation and reporting.
+479 (i) The department shall:
+480 (1) Promulgate rules and regulations necessary to implement this Code section;
+H. B. 925
+- 19 -
+
+25 LC 60 0091
+481 (2) Establish a process for monitoring compliance; and
+482 (3) Report annually to the Senate Health and Human Services Committee and the House
+483 Committees on Health and Public Health on the implementation progress and outcomes
+484 of the requirements of this Code section.
+485 (j) The annual report provided in subsection (i) of this Code section shall be required from
+486 July 1, 2026, through July 1, 2028.
+487 (k) To implement the provisions of this Code section, the department shall, when
+488 necessary, submit a Medicaid state plan amendment or waiver request to the United States
+489 Department of Health and Human Services.
+490 49-4-159.6.
+491 (a) It is the intent of the General Assembly to advance maternal health outcomes by
+492 recognizing doula care as part of the maternal healthcare workforce. Doula care has been
+493 associated with Medicaid cost savings of around $1,000.00 per birth, a decreased likelihood
+494 of cesarean delivery, a reduced need for an epidural during labor, lower preterm birth rates,
+495 improved rates of breastfeeding, shorter births, reduced rates of perinatal mood and anxiety
+496 disorders, increased positive feelings about the birth experience, and feelings of
+497 empowerment about individual pregnancy outcomes.
+498 (b) As used in this Code section, the term 'doula' means a professional who provides
+499 physical, emotional, and informational support to clients before, during, and after childbirth
+500 to help them achieve a healthy and satisfying birth experience and who has completed the
+501 appropriate training, as determined by the department.
+502 (c) The department shall develop, implement, and conduct a one-year pilot program to
+503 provide Medicaid coverage for doula care for pregnant Medicaid recipients. Beginning on
+504 July 1, 2026, such pilot program may provide reimbursement for up to five doula visits for
+505 each pregnant Medicaid recipient, which may include visits for prepartum care, labor and
+506 delivery, and postpartum care.
+H. B. 925
+- 20 -
+
+25 LC 60 0091
+507 (d) No later than December 1, 2027, the department shall submit to the Governor, the
+508 President of the Senate, the Speaker of the House of Representatives, and the chairpersons
+509 of the House Committee on Health, the Senate Health and Human Services Committee, the
+510 House Committee on Appropriations, and the Senate Appropriations Committee a detailed
+511 written report on the implementation and effectiveness of the pilot program. Such report
+512 shall include the health outcomes of participants and recommendations on the best process
+513 of reimbursing doulas to promote retention in the perinatal workforce. Such report shall
+514 also include recommendations, if any, as to expansion or permanency of the pilot program
+515 and any proposed changes to the program relative to such recommendations.
+516 (e) The department is authorized to promulgate rules and regulations as may be necessary
+517 to implement and effectuate the provisions of this Code section.
+518 (f)(1) This Code section shall be contingent upon appropriations made by the General
+519 Assembly specifically for the department for the purposes set forth in this Code section.
+520 (2) This Code section shall terminate on December 31, 2027, and this Code section shall
+521 be repealed by operation of law on such date."
+522 PART 3.
+523 Social Determinants in Maternal Health
+524 SECTION 3-1.
+525 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended in Article 1
+526 of Chapter 1, relating to general provisions, by adding a new Code section to read as follows:
+527 "31-1-26.
+528 (a) The department, through its Division of Public Health, shall, to the extent that state
+529 funds are available for such purpose, expand the Georgia WIC (Women, Infants, and
+530 Children) program, established in accordance with Section 17 of the Child Nutrition Act
+H. B. 925
+- 21 -
+
+25 LC 60 0091
+531 of 1966, 42 U.S.C. Section 1786, to cover children who have had their fifth birthday but
+532 have not yet attained their sixth birthday.
+533 (b) This Code section shall become effective on July 1, 2026, only if prior to such date,
+534 funds are specifically appropriated by the General Assembly for the department for the
+535 purposes set forth in this Code section."
+536 SECTION 3-2.
+537 Said title is further amended in Article 1 of Chapter 2A, relating to the Department of Public
+538 Health generally, by adding a new article to read as follows:
+539 "ARTICLE 5
+540 31-2A-90.
+541 As used in this article, the term:
+542 (1) 'Early childhood services program' means a program that offers services designed to
+543 support the development and well-being of infants and toddlers, including, but not limited
+544 to, early intervention, early learning, childcare, or parenting education.
+545 (2) 'Early intervention' means services and support for infants and toddlers with
+546 developmental delays, chronic health conditions, and disabilities and their families. Such
+547 term includes early identification and screening of infants and toddlers for such
+548 developmental delays, conditions, and disabilities.
+549 (3) 'Eligible program' means an early childhood services program or an essential support
+550 services program.
+551 (4) 'Essential support services program' means a program that offers housing assistance,
+552 food assistance, or nonemergency medical transportation services to pregnant and
+553 postpartum women in this state.
+H. B. 925
+- 22 -
+
+25 LC 60 0091
+554 (5) 'Grant program' means the Supporting Healthy Moms Grant Program established
+555 pursuant to Code section 31-2A-91.
+556 (6) 'Infant' or 'toddler' means a child under three years of age.
+557 (7) 'Parenting education' means courses designed for parents of infants and toddlers to
+558 enhance parenting skills and knowledge taught by educators possessing the appropriate
+559 qualifications, certifications, experience, as determined by the department.
+560 (8) 'Postpartum woman' means a woman up to one year after the end of pregnancy.
+561 (9) 'Qualified sponsor' means a nonprofit organization incorporated in this state with a
+562 tax-exempt status pursuant to Section 501(c)(3) of the Internal Revenue Code of 1986;
+563 or governmental sponsor of a program that meets the conditions of this Code section.
+564 31-2A-91.
+565 (a) Subject to available funding, the department shall establish the Supporting Healthy
+566 Moms Grant Program to provide grant funding, on an annual basis, to qualified sponsors
+567 of eligible programs in this state that provide services focused on advancing and addressing
+568 social determinants of maternal health and that provide early childhood services.
+569 (b) The department shall oversee the grant program and is authorized to contract with an
+570 external organization to implement and administer such grant program.
+571 31-2A-92.
+572 To be considered for a grant under the grant program, a qualified organization shall:
+573 (1) Have a primary mission of advancing maternal health, addressing social determinants
+574 of maternal health, or providing early childhood services;
+575 (2) Have a system of financial accountability consistent with generally accepted
+576 accounting principles, including an annual budget;
+577 (3) With respect to a nonprofit organization, have a board that hires and supervises a
+578 director who manages the organization's operations;
+H. B. 925
+- 23 -
+
+25 LC 60 0091
+579 (4) Have provided services under an eligible program for a minimum of one year;
+580 (5) Provide free services under an eligible program; and
+581 (6) Maintain confidentiality of all data, files, and records of clients related to the services
+582 provided and in compliance with state and federal laws.
+583 31-2A-93.
+584 (a) The commissioner shall approve each grant or expenditure of money from the grant
+585 program.
+586 (b) The commissioner's decision on the granting of funds from the grant program to
+587 qualified sponsors shall be based on a competitive selection process.
+588 (c) The grant program may be used for expenditures related to the routine administration
+589 of the program; provided, however, that, in any given year, expenditures for the routine
+590 administration of the grant program may not exceed 10 percent of the total amount of
+591 money available in the grant fund.
+592 (d) The commissioner is authorized to promulgate rules and regulations as necessary to
+593 implement and administer the provisions of this article.
+594
+595 31-2A-94.
+596 Not later than November 1, 2026, and annually thereafter, the department shall submit to
+597 the Governor and the General Assembly a report on the financial status of the grant
+598 program and a summary of its operations for the preceding year."
+599 SECTION 3-3.
+600 Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial relations,
+601 is amended in Chapter 2, relating to Department of Labor, by revising paragraph (5) of and
+602 by adding a new paragraph to subsection (a) of Code Section 34-2-6, relating to specific
+603 powers and duties of the Commissioner of Labor, to read as follows:
+H. B. 925
+- 24 -
+
+25 LC 60 0091
+604 "(3.1) To make investigations, collect and compile statistical information, and report
+605 upon the conditions and matters relating to the enforcement and effect of Chapter 5B of
+606 this title and of the rules issued thereunder and to receive and resolve complaints related
+607 to such chapter in accordance with the rules and regulations issued thereunder;"
+608 "(5) To do all in his or her power to promote the voluntary arbitration, mediation, and
+609 conciliation of disputes between employers and employees and to avoid strikes,
+610 picketing, lockouts, boycotts, blacklisting, discriminations, and legal proceedings in
+611 matters of employment. In pursuance of this duty, the Commissioner may appoint
+612 temporary boards of arbitration, provide necessary expenses of such boards, order
+613 reasonable compensation not exceeding $15.00 per day for each member engaged in such
+614 arbitration, prescribe rules for such arbitration boards, conduct investigations and
+615 hearings, publish in print or electronically reports and advertisements, and do all things
+616 convenient and necessary to accomplish the purpose of this chapter and Chapter 5B of
+617 this title. The Commissioner may designate a mediator and may, from time to time, detail
+618 employees or persons not in the department to act as his or her assistants for the purpose
+619 of executing such provisions. Employees of the Department of Labor shall act on
+620 temporary boards without extra compensation. Nothing in this Code section or in this
+621 chapter shall be construed to prohibit or limit in any way employees' rights to bargain
+622 collectively;"
+623 SECTION 3-4.
+624 Said title is further amended by adding a new chapter to read as follows:
+625 "CHAPTER 5B
+626 34-5B-1.
+627 As used in this chapter, the term:
+H. B. 925
+- 25 -
+
+25 LC 60 0091
+628 (1) 'Employer' means any person or entity that employs one or more employees and shall
+629 include the state and its political subdivisions.
+630 (2) 'Pregnancy' means medical needs arising from pregnancy, childbirth, or related
+631 conditions, including, but not limited to, lactation.
+632 (3) 'Reasonable accommodations' shall include, but shall not be limited to, more frequent
+633 or longer breaks, time off to recover from childbirth, acquisition or modification of
+634 equipment, seating, temporary transfer to a less strenuous or hazardous position, job
+635 restructuring, light duty, break time and private nonbathroom space for expressing breast
+636 milk, assistance with manual labor, or modified work schedules.
+637 (4) 'Undue hardship' means an action requiring significant difficulty or expense, when
+638 considered in light of the factors set forth in Code Section 34-5B-4.
+639 34-5B-2.
+640 (a) It shall constitute an unfair employment practice for an employer, unless such employer
+641 can demonstrate that an undue hardship on such employer's program, enterprise, or
+642 business would result, to:
+643 (1) Fail or refuse to make a reasonable accommodation to a job applicant or employee
+644 for circumstances related to pregnancy, if such job applicant or employee so requests;
+645 (2) Take adverse action against a job applicant or an employee who requests or uses an
+646 accommodation;
+647 (3) Deny employment opportunities to a job applicant or employee, if such denial is
+648 based on the need of the employer to make reasonable accommodations to such job
+649 applicant or employee for circumstances related to pregnancy;
+650 (4) Require a job applicant or employee affected by pregnancy to accept an
+651 accommodation that such job applicant or employee chooses not to accept;
+652 (5) Require an employee to take leave if another reasonable accommodation can be
+653 provided to such employee for circumstances related to pregnancy;
+H. B. 925
+- 26 -
+
+25 LC 60 0091
+654 (6) Count an absence related to pregnancy against an employee under a no fault
+655 attendance policy; or
+656 (7) Fail to reinstate such employee to such employee's original job or to an equivalent
+657 position with equivalent pay and accumulated seniority, retirement, fringe benefits, and
+658 other applicable service credits when such employee's need for reasonable
+659 accommodations ceases.
+660 (b) The employer shall in good faith engage in a timely and interactive process with the
+661 job applicant or employee to determine effective reasonable accommodations.
+662 (c)(1) An employer shall provide written notice of the right to be free from
+663 discrimination in relation to pregnancy to:
+664 (A) New employees at the commencement of employment;
+665 (B) Existing employees within 120 days after the effective date of this chapter; and
+666 (C) Any employee who notifies such employer of her pregnancy within ten days of
+667 such notification.
+668 (2) Such notice shall be conspicuously posted at an employer's place of business in an
+669 area accessible to employees and shall be available in English and other languages
+670 commonly spoken in such employer's place of business.
+671 34-5B-3.
+672 The employer shall have the burden of proving undue hardship. In making a determination
+673 of undue hardship, the factors that may be considered include, but shall not be limited to:
+674 (1) The nature and cost of the accommodation;
+675 (2) The overall financial resources of the employer, the overall size of the business of the
+676 employer with respect to the number of employees, and the number, type, and location
+677 of its facilities; and
+678 (3) The effect on expenses and resources or the impact otherwise of such accommodation
+679 upon the operation of the employer.
+H. B. 925
+- 27 -
+
+25 LC 60 0091
+680 34-5B-4.
+681 (a) Any individual who is aggrieved by an unfair employment practice against such
+682 individual in violation of this chapter may institute a civil action against the persons
+683 engaged in such prohibited conduct. Such action may be maintained in any court of
+684 competent jurisdiction and shall be commenced no later than one year after the alleged
+685 prohibited conduct occurred.
+686 (b) The court may grant as relief, as it deems appropriate, any permanent or temporary
+687 injunction, temporary restraining order, or other order, including, but not limited to, the
+688 hiring or reinstatement of the plaintiff to such individual's original position or an equivalent
+689 position. The court may award to the plaintiff back pay. The court may award court costs
+690 and reasonable attorney's fees to the prevailing party.
+691 34-5B-5.
+692 The Department of Labor shall develop courses of instruction and conduct ongoing public
+693 education efforts as necessary to inform employers, employees, employment agencies, and
+694 job applicants about their rights and responsibilities under this chapter.
+695 34-5B-6.
+696 The Commissioner of Labor shall promulgate rules and regulations as are necessary to
+697 implement and effectuate the provisions of this chapter.
+698 34-5B-7.
+699 This chapter shall not be construed to preempt, limit, diminish, or otherwise affect any
+700 other provision of law relating to sex discrimination or pregnancy or in any way to
+701 diminish the coverage for pregnancy under any other provision of this title."
+H. B. 925
+- 28 -
+
+25 LC 60 0091
+702 SECTION 3-5.
+703 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+704 amended in Part 1 of Article 1 of Chapter 8, relating to general provisions regarding state
+705 sales and use tax, by revising paragraph (58) of Code Section 48-8-3, relating to exemptions
+706 from sales and use taxes, as follows:
+707 "(58) The sale or use of diapers Reserved;"
+708 PART 4.
+709 Maternal Health Data Collection, Research, and Innovation
+710 SECTION 4-1.
+711 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended in Article
+712 1 of Chapter 2A, relating to general provisions regarding the Department of Public Health,
+713 by revising subsection (d) of Code Section 31-2A-16, relating to Maternal Mortality Review
+714 Committee established, as follows:
+715 "(d)(1) Health care Healthcare providers licensed pursuant to Title 43, health care
+716 healthcare facilities licensed pursuant to Chapter 7 of Title 31 this title, and pharmacies
+717 licensed pursuant to Chapter 4 of Title 26 shall provide reasonable access to the
+718 committee to all relevant medical records associated with a case under review by the
+719 committee within 30 days of receiving a request for such records, unless prohibited by
+720 state or federal law.
+721 (2) A health care healthcare provider, health care healthcare facility, or pharmacy
+722 providing access to medical and psychiatric records pursuant to this Code section shall
+723 not be held liable for civil damages or be subject to any criminal or disciplinary action
+724 for good faith efforts in providing such records."
+H. B. 925
+- 29 -
+
+25 LC 60 0091
+725 SECTION 4-2.
+726 Said title is further amended in said article by adding a new Code section to read as follows:
+727 "31-2A-16.1.
+728 (a) There is established within the department a Severe Maternal Morbidity Review
+729 Committee to collect and track data on severe maternal morbidity and study and make
+730 recommendations on strategies to reduce severe maternal morbidity. The committee shall
+731 be multidisciplinary and composed of members as deemed appropriate by the department.
+732 The committee may contract with an external organization to assist in collecting, analyzing,
+733 and disseminating severe maternal morbidity information, organizing and convening
+734 meetings of the committee, and conducting other tasks as may be incident to these
+735 activities.
+736 (b) The committee shall, in coordination with the Maternal Mortality Review Committee:
+737 (1) Collect and track medical records and other relevant data on severe maternal
+738 morbidity, including, but not limited to, all of the following health conditions:
+739 (A) Obstetric hemorrhage;
+740 (B) Hypertension;
+741 (C) Preeclampsia and eclampsia;
+742 (D) Venous thromboembolism;
+743 (E) Sepsis;
+744 (F) Cerebrovascular accident; and
+745 (G) Amniotic fluid embolism;
+746 (2) Collect and track data on pregnancy related deaths, including, but not limited to,
+747 deaths relative to the conditions provided in subparagraphs (A) through (G) of
+748 paragraph (1) of this subsection, indirect obstetric deaths, and other maternal disorders
+749 predominantly related to pregnancy and complications predominantly related to the
+750 postpartum period;
+751 (3) Consult with relevant experts to evaluate collected records and data;
+H. B. 925
+- 30 -
+
+25 LC 60 0091
+752 (4) Develop and make recommendations regarding reducing severe maternal morbidity;
+753 (5) Disseminate findings and recommendations regarding reducing severe maternal
+754 morbidity; and
+755 (6) Not later than July 1, 2026, complete a study on:
+756 (A) Reducing severe maternal morbidity, including, but not limited to, all of the health
+757 conditions set forth in subparagraphs (A) through (G) of paragraph (1) of this
+758 subsection; and
+759 (B) Identifying more effective methods for the early detection of, and interventions for,
+760 other pregnancy related medical conditions that can lead to an increased risk of severe
+761 maternal morbidity, including, but not limited, to hyperemesis gravidarum.
+762 (c)(1) Healthcare providers licensed pursuant to Title 43, healthcare facilities licensed
+763 pursuant to Chapter 7 of Title 31, and pharmacies licensed pursuant to Chapter 4 of Title
+764 26 shall provide reasonable access to the committee to all relevant medical records
+765 associated with a case under review by the committee within 30 days of receiving a
+766 request for such records.
+767 (2) A healthcare provider, healthcare facility, or pharmacy providing access to medical
+768 records pursuant to this Code section shall not be held liable for civil damages or be
+769 subject to any criminal or disciplinary action for good faith efforts in providing such
+770 records.
+771 (d)(1) Information, records, reports, statements, notes, memoranda, or other data
+772 collected pursuant to this Code section shall not be admissible as evidence in any action
+773 of any kind in any court or before any other tribunal, board, agency, or person. Such
+774 information, records, reports, statements, notes, memoranda, or other data shall not be
+775 exhibited nor their contents disclosed in any way, in whole or in part, by any officer or
+776 representative of the department or any other person, except as may be necessary for the
+777 purpose of furthering the review of the committee of the case to which it relates. No
+H. B. 925
+- 31 -
+
+25 LC 60 0091
+778 person participating in such review shall disclose, in any manner, the information so
+779 obtained except in strict conformity with such review.
+780 (2) All information, records, reports, statements, notes, memoranda, or other data
+781 obtained by the department, the committee, and other persons, agencies, or organizations
+782 so authorized by the department pursuant to this Code section shall be confidential.
+783 (e)(1) All proceedings and activities of the committee under this Code section, opinions
+784 of members of such committee formed as a result of such proceedings and activities, and
+785 records obtained, created, or maintained pursuant to this Code section, including
+786 information, records, reports, statements, notes, memoranda, or other data procured by
+787 the department or any other person, agency, or organization acting jointly or under
+788 contract with the department in connection with the requirements of this Code section,
+789 shall be confidential and shall not be subject to Chapter 14 of Title 50, relating to open
+790 meetings, or Article 4 of Chapter 18 of Title 50, relating to open records, or subject to
+791 subpoena, discovery, or introduction into evidence in any civil or criminal proceeding;
+792 provided, however, that nothing in this Code section shall be construed to limit or restrict
+793 the right to discover or use in any civil or criminal proceeding anything that is available
+794 from another source and entirely independent of the committee's proceedings.
+795 (2) Members of the committee shall not be questioned in any civil or criminal proceeding
+796 regarding the information presented in or opinions formed as a result of a meeting or
+797 communication of the committee; provided, however, that nothing in this Code section
+798 shall be construed to prevent a member of the committee from testifying to information
+799 obtained independently of the committee or which is public information.
+800 (f)(1) The data on severe maternal morbidity and on pregnancy related deaths collected
+801 pursuant to paragraphs (1) and (2) of subsection (b) of this Code section shall be
+802 compiled on a regular basis for distribution. Beginning no later than October 1, 2026, the
+803 committee shall submit a detailed annual report to the Office of Health Strategy and
+804 Coordination as follows:
+H. B. 925
+- 32 -
+
+25 LC 60 0091
+805 (A) The data shall be aggregated by state regions, as defined by the department, to
+806 ensure the data reflect how regionalized care systems are or should be collaborating to
+807 improve maternal health outcomes or other smaller regional sorting based on standard
+808 statistical methods for accurate dissemination of public health data without risking a
+809 confidentiality or other disclosure breach; and
+810 (B) The data shall be disaggregated by racial and ethnic identity.
+811 (2) On or before December 1, 2026, the committee shall submit to the Governor, the
+812 Speaker of the House of Representatives, the President of the Senate, and the
+813 chairpersons of the House Committee on Public Health and the Senate Health and Human
+814 Services Committee a report regarding the study conducted pursuant to paragraph (6) of
+815 subsection (b) of this Code section, including a summary of the committee's key findings
+816 and recommendations, if any, for proposed legislation with respect to improving maternal
+817 health outcomes.
+818 (g) Paragraph (6) of subsection (b) of this Code section shall stand repealed by operation
+819 of law on December 31, 2026."
+820 SECTION 4-3.
+821 Said title is further amended in Article 1 of Chapter 53, relating to general provisions
+822 regarding the Office of Health and Strategy and Coordination by revising subsection (a) of
+823 Code Section 31-53-6, relating to compiling of reports and public dissemination of data, as
+824 follows:
+825 "31-53-6.
+826 (a) The office shall compile reports received from the following boards, commissions,
+827 committees, councils, and offices pursuant to each such entity's respective statutory
+828 reporting requirements:
+829 (1) The Maternal Mortality Review Committee;
+830 (2) The Severe Maternal Morbidity Review Committee;
+H. B. 925
+- 33 -
+
+25 LC 60 0091
+831 (2)(3) The Hemophilia Advisory Board;
+832 (3)(4) The Georgia Council on Lupus Education and Awareness;
+833 (4)(5) The Georgia Palliative Care and Quality of Life Advisory Council;
+834 (5)(6) The Georgia Trauma Care Network Commission;
+835 (6)(7) The Behavioral Health Coordinating Council;
+836 (7)(8) The Department of Public Health on behalf of the Georgia Coverdell Acute Stroke
+837 Registry;
+838 (8)(9) The Office of Cardiac Care; and
+839 (9)(10) The Brain and Spinal Injury Trust Fund Commission."
+840 SECTION 4-4.
+841 Title 37 of the Official Code of Georgia Annotated, relating to mental health, is amended in
+842 Part 2 of Article 6 of Chapter 3, relating to rights and privileges as to manner of care and
+843 treatment and as to maintenance and release of clinical records, by revising paragraphs (9)
+844 and (10) of and by adding a new paragraph to subsection (a) of Code Section 37-3-166,
+845 relating to treatment of clinical records, when release permitted, scope of privileged
+846 communications, liability for disclosure, and notice to sheriff of discharge, to read as follows:
+847 "(9) Notwithstanding any other provision of law to the contrary, a law enforcement
+848 officer in the course of a criminal investigation may be informed as to whether a person
+849 is or has been a patient in a state facility, as well as the patient's current address, if
+850 known; and
+851 (10) Notwithstanding any other provision of law to the contrary, a law enforcement
+852 officer in the course of investigating the commission of a crime on the premises of a
+853 facility covered by this chapter or against facility personnel or a threat to commit such
+854 a crime may be informed as to the circumstances of the incident, including whether the
+855 individual allegedly committing or threatening to commit a crime is or has been a patient
+H. B. 925
+- 34 -
+
+25 LC 60 0091
+856 in the facility, and the name, address, and last known whereabouts of any alleged patient
+857 perpetrator; and
+858 (11) Copies of the record of a deceased patient or deceased former patient may be
+859 released to the Maternal Mortality Review Committee and the Severe Maternal Morbidity
+860 Review Committee established under Chapter 2A of Title 31, except for matters
+861 privileged under the laws of this state."
+862 SECTION 4-5.
+863 Title 45 of the Official Code of Georgia Annotated, relating public officers and employees,
+864 is amended in Article 2 of Chapter 16, relating to death investigations, by revising subsection
+865 (b) of Code Section 45-16-24, relating to notification of suspicious or unusual deaths, court
+866 ordered medical examiner's inquiry, and written report of inquiry, as follows:
+867 "(b) A coroner or county medical examiner who is notified of a death pursuant to
+868 subsection (a) of this Code section under circumstances specified in paragraphs (1)
+869 through (9) (10) of such subsection shall order a medical examiner's inquiry of that death.
+870 A coroner or medical examiner who is notified of a death pursuant to subsection (a) of this
+871 Code section under circumstances specified in paragraph (10) of such subsection and which
+872 death was not under circumstances specified in paragraphs (1) through (9) of such
+873 subsection shall order a medical examiner's inquiry for such death through a regional
+874 perinatal center, as identified by the Department of Public Health. This subsection shall
+875 not be construed to prohibit a medical examiner's inquiry of a death if a coroner or county
+876 medical examiner is notified of a death under circumstances specified in paragraph (11) of
+877 subsection (a) of this Code section."
+H. B. 925
+- 35 -
+
+25 LC 60 0091
+878 PART 5.
+879 SECTION 5-1.
+880 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 925
+- 36 -
+
+[DELETED: 5L8,2,6,hndt9,1,hs r a t a s s r s a t e t m h c f w r i l m c c a t c p a p w f l h t t p f i c a d t p f a a i b d a a r p c t a r a]
+[DELETED: 5L a d t e a p p f r m m h t p c u t M p f d c f p i t w f p c a c t t p f n o r a r a t j r a p f c w r t s w]
+[DELETED: 5L]
+[DELETED: 5L h t b a a l f i m p H]
+[DELETED: 5L t s i a t c o w t b a o p f t t u o t a]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L b o l a b v q a s c]
+[DELETED: 5L]
+[DELETED: 5L c r i a c t a b p i d b d a m a o t d w e]
+[DELETED: 5L s e c a p s g f p a]
+[DELETED: 5L  B o J 1 2 a e f y t t d i  A i h p a d a p e i]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L  M m h s d t p p a 1 m  C a t f t s p f m m h]
+[DELETED: 5L  T p o t C s s a t a p c a]
+[DELETED: 5L s s u q t c w n r  A m m h s w m b r m b  R t m m h s t d s e ]
+[DELETED: 5L]
+[DELETED: 5L  T i t p o t C s t d s w i p f a t b e a f o]
+[DELETED: 5L]
+[DELETED: 5L  ' i m s a s f i a t w i e i a s o i a t f s a o n m t s t p a]
+[DELETED: 5L  H a s o f a c w g a]
+[DELETED: 5L]
+[DELETED: 5L o d b e a e a t a s b o a p n e o s b o p r f s a b c i a  E]
+[DELETED: 5L d t a u h o s e p e o  R a j a o e a b p t a a]
+[DELETED: 5L  C a a r t p a a e u a n f a s c w s e n f r  A e s p w n o t r t b f f]
+[DELETED: 5L p o l r t s d o p o i a w t]
+[DELETED: 5L 4 h p t C 4 o T 2 s p r a t t  A h c h p h c h f o p]
+[DELETED: 5L d s m m i o a c o t c a c o t a m b i t t  C a t m r a o r d o s m r t t c p i s ( t ( o]
+[DELETED: 5L s f i s ( t ( o p ( o t  I r r s n m o o d]
+[DELETED: 5L  A i r r s n m o o d o c o m p t t C s i t p ( a ( o s ( o t C s s b]
+[DELETED: 5L o t H o R t P o t S a t c a o p t e s e r s]
+[DELETED: 5L t t o c r w r p s o p]
+[DELETED: 5L C e u C 2 o T 3 e f m  A c o c m e w i n o a d p t ( o t C s u c s i p ( w n u c s i p ( t ( o s]
+[DELETED: 5L]

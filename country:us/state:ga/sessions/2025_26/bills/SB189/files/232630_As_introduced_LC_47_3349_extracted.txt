@@ -1,0 +1,165 @@
+Title: Senate Bill 189
+Official Title: Senate Bill 189
+Number of Sections: 1
+Source: versions - As introduced LC 47 3349
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 47 3349
+By: Senators Williams of the 25th, Anderson of the 24th, Davenport of the 17th, Rhett of the
+33rd and Esteves of the 35th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 8 of Title 50 of the Official Code of Georgia Annotated, relating to
+2 general provisions related to the Department of Community Affairs, so as to provide for the
+3 department to develop and maintain a publicly accessible data base of legal notices that are
+4 otherwise required by law to be published in a newspaper; to provide that such data base
+5 shall be an additional, mandatory, manner of posting legal notices; to make such data base
+6 contingent upon appropriation; to provide requirements for such data base; to authorize fees;
+7 to provide that posting on such data base shall serve as an alternative to other publication
+8 requirements in certain circumstances; to provide a definition; to authorize rules and
+9 regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Chapter 8 of Title 50 of the Official Code of Georgia Annotated, relating to general
+13 provisions related to the Department of Community Affairs, is amended by adding a new
+14 Code section to read as follows:
+S. B. 189
+- 1 -
+25 LC 47 3349
+15 "50-8-19.
+16 (a) Subject to appropriation by the General Assembly, the department shall develop and
+17 operate a publicly accessible online data base of legal notices required by law to be
+18 published in either a legal organ or other newspaper of general circulation.
+19 (b) Posting legal notices on such data base shall be mandatory and in addition to any other
+20 required public notice. Except as provided for in this subsection, posting of such legal
+21 notices on such data base shall not be in lieu of publication requirements otherwise
+22 provided by law. No posting on the data base provided for in this subsection shall operate
+23 to serve as any form of notice required by Code Section 28-1-14.
+24 (c) The data base provided for in subsection (a) of this Code section shall:
+25 (1) Be designed to allow for legal notices to be uploaded using commonly accessible
+26 electronic file formats;
+27 (2) Allow for the online payment of reasonable publication fees that shall not exceed
+28 $25.00 per legal notice;
+29 (3) Post in a secure and unalterable format an uploaded legal notice within 24 hours of
+30 the uploading of such notice;
+31 (4) Allow the public to search for and view posted legal notices in an internet based
+32 format that is also easily accessible and readable from mobile devices;
+33 (5) Allow for the establishment of accounts that can receive notifications of the posting
+34 of certain legal notices designated by the account holder; provided, however, that the
+35 department may charge additional fees for such service; and
+36 (6) Provide a mechanism for users to obtain certified copies of posted legal notices.
+37 (d) Notwithstanding any other law to the contrary, in the event that the legal organ of a
+38 county does not maintain an office within such county to administer the publication of legal
+39 notices, when a person is otherwise required by law to publish a legal notice in such
+40 county's legal organ, posting such public notice on the data base provided for in this
+41 subsection shall serve as lawful publication of such notice and may serve in lieu of
+S. B. 189
+- 2 -
+25 LC 47 3349
+42 publication in the legal organ and shall satisfy any and all legal requirements of adequate
+43 notice to the public; provided, however, that such posting on the data base occurs no later
+44 than the publication date otherwise provided by law.
+45 (e) In the event that an error is made in the text or publication date of a legal notice
+46 required to be published in a legal organ or other newspaper of general circulation, and a
+47 correct version of such notice is posted on the data base provided for in this subsection
+48 within the time provided by law, posting on such data base shall satisfy any and all legal
+49 requirements of adequate notice to the public.
+50 (f)(1) For the purpose of this paragraph, the term 'archival notice' means any notice
+51 posted on the data base provided for in this subsection for a period of over one year.
+52 (2) The department is authorized to establish and collect reasonable fees related the
+53 search and retrieval of archival notices.
+54 (g) The department is authorized to adopt rules and regulations related to this Code section
+55 and the data base required herein."
+56 SECTION 2.
+57 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 189
+- 3 -
+[DELETED: 5L i c c t p a d t a r a 8 o T 5 o t O C o G A r t g]
+[DELETED: 5L o s d b s n b i l o p r o s s a l p o s n a m s i l o]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 47 3349
+Senate Bill 189
+By: Senators Williams of the 25th, Anderson of the 24th, Davenport of the 17th, Rhett of the
+33rd and Esteves of the 35th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 8 of Title 50 of the Official Code of Georgia Annotated, relating to
+2 general provisions related to the Department of Community Affairs, so as to provide for the
+3 department to develop and maintain a publicly accessible data base of legal notices that are
+4 otherwise required by law to be published in a newspaper; to provide that such data base
+5 shall be an additional, mandatory, manner of posting legal notices; to make such data base
+6 contingent upon appropriation; to provide requirements for such data base; to authorize fees;
+7 to provide that posting on such data base shall serve as an alternative to other publication
+8 requirements in certain circumstances; to provide a definition; to authorize rules and
+9 regulations; to provide for related matters; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Chapter 8 of Title 50 of the Official Code of Georgia Annotated, relating to general
+13 provisions related to the Department of Community Affairs, is amended by adding a new
+14 Code section to read as follows:
+S. B. 189
+- 1 -
+
+25 LC 47 3349
+15 "50-8-19.
+16 (a) Subject to appropriation by the General Assembly, the department shall develop and
+17 operate a publicly accessible online data base of legal notices required by law to be
+18 published in either a legal organ or other newspaper of general circulation.
+19 (b) Posting legal notices on such data base shall be mandatory and in addition to any other
+20 required public notice. Except as provided for in this subsection, posting of such legal
+21 notices on such data base shall not be in lieu of publication requirements otherwise
+22 provided by law. No posting on the data base provided for in this subsection shall operate
+23 to serve as any form of notice required by Code Section 28-1-14.
+24 (c) The data base provided for in subsection (a) of this Code section shall:
+25 (1) Be designed to allow for legal notices to be uploaded using commonly accessible
+26 electronic file formats;
+27 (2) Allow for the online payment of reasonable publication fees that shall not exceed
+28 $25.00 per legal notice;
+29 (3) Post in a secure and unalterable format an uploaded legal notice within 24 hours of
+30 the uploading of such notice;
+31 (4) Allow the public to search for and view posted legal notices in an internet based
+32 format that is also easily accessible and readable from mobile devices;
+33 (5) Allow for the establishment of accounts that can receive notifications of the posting
+34 of certain legal notices designated by the account holder; provided, however, that the
+35 department may charge additional fees for such service; and
+36 (6) Provide a mechanism for users to obtain certified copies of posted legal notices.
+37 (d) Notwithstanding any other law to the contrary, in the event that the legal organ of a
+38 county does not maintain an office within such county to administer the publication of legal
+39 notices, when a person is otherwise required by law to publish a legal notice in such
+40 county's legal organ, posting such public notice on the data base provided for in this
+41 subsection shall serve as lawful publication of such notice and may serve in lieu of
+S. B. 189
+- 2 -
+
+25 LC 47 3349
+42 publication in the legal organ and shall satisfy any and all legal requirements of adequate
+43 notice to the public; provided, however, that such posting on the data base occurs no later
+44 than the publication date otherwise provided by law.
+45 (e) In the event that an error is made in the text or publication date of a legal notice
+46 required to be published in a legal organ or other newspaper of general circulation, and a
+47 correct version of such notice is posted on the data base provided for in this subsection
+48 within the time provided by law, posting on such data base shall satisfy any and all legal
+49 requirements of adequate notice to the public.
+50 (f)(1) For the purpose of this paragraph, the term 'archival notice' means any notice
+51 posted on the data base provided for in this subsection for a period of over one year.
+52 (2) The department is authorized to establish and collect reasonable fees related the
+53 search and retrieval of archival notices.
+54 (g) The department is authorized to adopt rules and regulations related to this Code section
+55 and the data base required herein."
+56 SECTION 2.
+57 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 189
+- 3 -
+
+[DELETED: 5L i c c t p a d t a r a 8 o T 5 o t O C o G A r t g]
+[DELETED: 5L o s d b s n b i l o p r o s s a l p o s n a m s i l o]
+[DELETED: 5L]

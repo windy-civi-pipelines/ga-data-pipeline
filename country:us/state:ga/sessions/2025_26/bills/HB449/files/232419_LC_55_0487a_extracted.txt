@@ -1,0 +1,186 @@
+Title: House Bill 449
+Official Title: House Bill 449
+Number of Sections: 1
+Source: versions - LC 55 0487/a
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0487
+By: Representatives Rhodes of the 124th, Ridley of the 6th, Hitchens of the 161st, Stephens of
+the 164th, Smith of the 70th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 46 of the Official Code of Georgia Annotated, relating to public utilities and
+2 public transportation, so as to subject certain companies providing water services in this state
+3 to regulation by the Public Service Commission; to provide for the review of certain
+4 increases to the rates and charges of such companies by the commission; to provide for
+5 financial record keeping of such companies; to provide for rules and regulations; to provide
+6 for assessments and legislative recommendations by the commission; to provide for
+7 definitions; to provide an effective date; to provide for related matters; to repeal conflicting
+8 laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Title 46 of the Official Code of Georgia Annotated, relating to public utilities and public
+12 transportation, is amended by revising Chapter 10, which is reserved, as follows:
+H. B. 449
+- 1 -
+25 LC 55 0487
+13 "CHAPTER 10
+14 46-10-1.
+15 As used in this chapter, the term:
+16 (1) 'Covered water company' means any private company and any affiliates or
+17 subsidiaries of such company that, collectively, provide water services by means of pipes
+18 or conduits to 5,000 or more customer service connections in this state.
+19 (2) 'Water services' means water services, waste-water services, or both.
+20 46-10-2.
+21 The rates and charges of covered water companies for water services shall be just and
+22 reasonable and shall be subject to the jurisdiction of the commission as provided in Code
+23 Section 46-10-3.
+24 46-10-3.
+25 (a) Any increase to the rates or charges of a covered water company for water services that
+26 would amount to an increase of 15 percent or more to the lowest amount such rates or
+27 charges have been set over the prior three calendar years shall be subject to the jurisdiction
+28 of the commission as provided in Code Section 46-2-25, including, without limitation, the
+29 authority of the commission, upon its election, to enter upon a hearing concerning the
+30 lawfulness of such increase, and such covered water company shall comply with the notice
+31 provisions of subsection (a) of said Code section prior to making such increase to its rates
+32 or charges.
+33 (b) If a hearing on the lawfulness of an increase to the rates or charges of a covered water
+34 company for water services is held pursuant to subsection (a) of this Code section and the
+35 commission determines at such hearing that such increase is just and reasonable, the
+36 commission shall not hold another hearing concerning an increase to the rates or charges
+H. B. 449
+- 2 -
+25 LC 55 0487
+37 of such covered water company for a period of three years, unless such covered water
+38 company intends to increase its rates or charges during such three-year period by 15
+39 percent or more to the rates or charges found to be just and reasonable by the commission
+40 at such hearing.
+41 (c) For purposes of calculating whether an increase to the rates or charges of a covered
+42 water company for water services constitutes an increase of 15 percent or more to the
+43 lowest amount such rates or charges have been set over the prior three calendar years, no
+44 one-time fees or charges assessed by such company for connecting to its water or sewer
+45 lines shall be included in such calculation.
+46 46-10-4.
+47 A covered water company shall keep records relating to its financial condition and profits
+48 and losses in accordance with generally accepted accounting principles. Such records shall
+49 be made available to the commission upon request.
+50 46-10-5.
+51 The commission shall have the power to promulgate reasonable rules and regulations not
+52 inconsistent with this chapter or other laws of this state that are necessary to carry out the
+53 provisions of this chapter.
+54 46-10-6.
+55 The commission shall conduct regular assessments of its jurisdiction over covered water
+56 companies as provided in this chapter. When appropriate, the commission may make
+57 recommendations to the General Assembly on any legislative changes or revisions to this
+58 chapter that may be needed to regulate the activities of covered water companies and to
+59 protect the interests of consumers in this state. Reserved."
+H. B. 449
+- 3 -
+25 LC 55 0487
+60 SECTION 2.
+61 This Act shall become effective on January 1, 2026.
+62 SECTION 3.
+63 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 449
+- 4 -
+[DELETED: 5L4,6,1,hths4,0,ht r b t P S C t p f t r o c a a l r b t c t p f]
+[DELETED: 5L  ' w c m a p c a a a o]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0487
+House Bill 449
+By: Representatives Rhodes of the 124th, Ridley of the 6th, Hitchens of the 161st, Stephens of
+the 164th, Smith of the 70th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 46 of the Official Code of Georgia Annotated, relating to public utilities and
+2 public transportation, so as to subject certain companies providing water services in this state
+3 to regulation by the Public Service Commission; to provide for the review of certain
+4 increases to the rates and charges of such companies by the commission; to provide for
+5 financial record keeping of such companies; to provide for rules and regulations; to provide
+6 for assessments and legislative recommendations by the commission; to provide for
+7 definitions; to provide an effective date; to provide for related matters; to repeal conflicting
+8 laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Title 46 of the Official Code of Georgia Annotated, relating to public utilities and public
+12 transportation, is amended by revising Chapter 10, which is reserved, as follows:
+H. B. 449
+- 1 -
+
+25 LC 55 0487
+13 "CHAPTER 10
+14 46-10-1.
+15 As used in this chapter, the term:
+16 (1) 'Covered water company' means any private company and any affiliates or
+17 subsidiaries of such company that, collectively, provide water services by means of pipes
+18 or conduits to 5,000 or more customer service connections in this state.
+19 (2) 'Water services' means water services, waste-water services, or both.
+20 46-10-2.
+21 The rates and charges of covered water companies for water services shall be just and
+22 reasonable and shall be subject to the jurisdiction of the commission as provided in Code
+23 Section 46-10-3.
+24 46-10-3.
+25 (a) Any increase to the rates or charges of a covered water company for water services that
+26 would amount to an increase of 15 percent or more to the lowest amount such rates or
+27 charges have been set over the prior three calendar years shall be subject to the jurisdiction
+28 of the commission as provided in Code Section 46-2-25, including, without limitation, the
+29 authority of the commission, upon its election, to enter upon a hearing concerning the
+30 lawfulness of such increase, and such covered water company shall comply with the notice
+31 provisions of subsection (a) of said Code section prior to making such increase to its rates
+32 or charges.
+33 (b) If a hearing on the lawfulness of an increase to the rates or charges of a covered water
+34 company for water services is held pursuant to subsection (a) of this Code section and the
+35 commission determines at such hearing that such increase is just and reasonable, the
+36 commission shall not hold another hearing concerning an increase to the rates or charges
+H. B. 449
+- 2 -
+
+25 LC 55 0487
+37 of such covered water company for a period of three years, unless such covered water
+38 company intends to increase its rates or charges during such three-year period by 15
+39 percent or more to the rates or charges found to be just and reasonable by the commission
+40 at such hearing.
+41 (c) For purposes of calculating whether an increase to the rates or charges of a covered
+42 water company for water services constitutes an increase of 15 percent or more to the
+43 lowest amount such rates or charges have been set over the prior three calendar years, no
+44 one-time fees or charges assessed by such company for connecting to its water or sewer
+45 lines shall be included in such calculation.
+46 46-10-4.
+47 A covered water company shall keep records relating to its financial condition and profits
+48 and losses in accordance with generally accepted accounting principles. Such records shall
+49 be made available to the commission upon request.
+50 46-10-5.
+51 The commission shall have the power to promulgate reasonable rules and regulations not
+52 inconsistent with this chapter or other laws of this state that are necessary to carry out the
+53 provisions of this chapter.
+54 46-10-6.
+55 The commission shall conduct regular assessments of its jurisdiction over covered water
+56 companies as provided in this chapter. When appropriate, the commission may make
+57 recommendations to the General Assembly on any legislative changes or revisions to this
+58 chapter that may be needed to regulate the activities of covered water companies and to
+59 protect the interests of consumers in this state. Reserved."
+H. B. 449
+- 3 -
+
+25 LC 55 0487
+60 SECTION 2.
+61 This Act shall become effective on January 1, 2026.
+62 SECTION 3.
+63 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 449
+- 4 -
+
+[DELETED: 5L4,6,1,hths4,0,ht r b t P S C t p f t r o c a a l r b t c t p f]
+[DELETED: 5L  ' w c m a p c a a a o]
+[DELETED: 5L]
+[DELETED: 5L]

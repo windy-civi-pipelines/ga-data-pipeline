@@ -1,0 +1,126 @@
+Title: House Bill 112 (LC 59 0029-EC)
+Official Title: House Bill 112 (LC 59 0029-EC)
+Number of Sections: 1
+Source: versions - Fiscal Note
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Greg S. Griffin
+State Auditor
+February 6, 2025
+Honorable Shaw Blackmon
+Chairman, House Ways and Means
+133 State Capitol
+Atlanta, GA 30334
+SUBJECT: Fiscal Note
+Dear Chairman Blackmon:
+The bill would provide a personal income tax rebate of a portion of tax year 2023 income taxes paid,
+subject to filing of a 2024 income tax return in the state. The rebate would be $250 for those filing as
+single or married filing separate, $375 for head of household, and $500 for a couple filing jointly. The
+amount cannot exceed a filer’s 2023 income taxes paid. Rebates for part-year or nonresident filers
+would be prorated using the ratio of income subject to Georgia taxation to total income.
+To qualify for the rebate, a taxpayer must have timely filed a Georgia income tax return for both TY
+2023 and TY 2024 and cannot have been claimed as a dependent on another taxpayer’s federal or state
+tax return for TY 2023. Estates and trusts are also excluded.
+Impact on State Revenue
+Georgia State University’s Fiscal Research Center (FRC) estimated that the bill would have a one-time
+cost of approximately $1.177 billion. It is expected that 90 percent or more of the payments would occur
+in FY25, though the timing depends on the date of enactment and the ability of DOR to process
+payments are tax returns are filed. Details of the FRC analysis are included in the appendix.
+Impact on State Expenditures
+The Department of Revenue would be able to implement the bill with existing resources.
+Respectfully,
+Greg S. Griffin Richard Dunn, Director
+State Auditor Office of Planning and Budget
+GSG/RD/mt
+270 Washington Street, SW, Suite 4-101 Atlanta, Georgia 30334 | Phone 404.656.2180
+Fiscal Note for House Bill 112 (LC 59 0029-EC)
+Page 2
+Analysis by the Fiscal Research Center
+The subject bill proposes to provide a personal income tax rebate of a portion of tax year (TY) 2023
+income taxes paid, subject to filing of a 2024 income tax return in the state. The rebate will be $250 for
+those filing as single or married filing separate, $375 for head of household, and $500 for a couple filing
+jointly, but in no case more than the filer’s 2023 income taxes paid. For part-year and nonresident
+filers, the rebate would be prorated using the ratio of income subject to Georgia taxation to total income
+as reported on Schedule 3 of the filer’s TY 2023 Georgia tax return.
+To qualify for the rebate, a taxpayer must have timely filed a Georgia income tax return for both TY
+2023 and TY 2024, and cannot have been claimed as a dependent on another taxpayer’s federal or state
+tax return for TY 2023. Estates and trusts are also excluded.
+Estimation was done using TY 2021 and TY 2022 administrative tax return data from the Department
+of Revenue (DOR) to simulate tax liability under 2023 law as well as the rebate for which the filer would
+be eligible based on 2023 tax paid. The aggregate amount of net rebate payments resulting from the
+simulation on TY 2021 data are further adjusted assuming an increase in filers of 1.9 percent per year to
+TY 2023, the average rate of growth in returns filed in CY’s 2019–23, according to the DOR Annual
+Statistical Report for FY 2023.
+Payment of the rebates are expected to be made primarily during FY 2025, though the timing would
+depend on the final date of enactment and DOR’s ability to validate and process the payments after
+returns are filed. The remaining rebates, likely as much as 10 percent based on the timing of payments
+of previous rebates, would be paid in FY 2026, though for filers receiving filing extensions for TY 2023
+or TY 2024, rebate payments would be delayed until those returns are filed and processed.
+The estimated aggregate cost of these one-time rebates is $1,177 million.
+[DELETED:  F R O]
+
+
+================================================================================
+
+Raw Text:
+Greg S. Griffin
+State Auditor
+February 6, 2025
+Honorable Shaw Blackmon
+Chairman, House Ways and Means
+133 State Capitol
+Atlanta, GA 30334
+SUBJECT: Fiscal Note
+House Bill 112 (LC 59 0029-EC)
+Dear Chairman Blackmon:
+The bill would provide a personal income tax rebate of a portion of tax year 2023 income taxes paid,
+subject to filing of a 2024 income tax return in the state. The rebate would be $250 for those filing as
+single or married filing separate, $375 for head of household, and $500 for a couple filing jointly. The
+amount cannot exceed a filer’s 2023 income taxes paid. Rebates for part-year or nonresident filers
+would be prorated using the ratio of income subject to Georgia taxation to total income.
+To qualify for the rebate, a taxpayer must have timely filed a Georgia income tax return for both TY
+2023 and TY 2024 and cannot have been claimed as a dependent on another taxpayer’s federal or state
+tax return for TY 2023. Estates and trusts are also excluded.
+Impact on State Revenue
+Georgia State University’s Fiscal Research Center (FRC) estimated that the bill would have a one-time
+cost of approximately $1.177 billion. It is expected that 90 percent or more of the payments would occur
+in FY25, though the timing depends on the date of enactment and the ability of DOR to process
+payments are tax returns are filed. Details of the FRC analysis are included in the appendix.
+Impact on State Expenditures
+The Department of Revenue would be able to implement the bill with existing resources.
+Respectfully,
+Greg S. Griffin Richard Dunn, Director
+State Auditor Office of Planning and Budget
+GSG/RD/mt
+270 Washington Street, SW, Suite 4-101 Atlanta, Georgia 30334 | Phone 404.656.2180
+
+Fiscal Note for House Bill 112 (LC 59 0029-EC)
+Page 2
+Analysis by the Fiscal Research Center
+The subject bill proposes to provide a personal income tax rebate of a portion of tax year (TY) 2023
+income taxes paid, subject to filing of a 2024 income tax return in the state. The rebate will be $250 for
+those filing as single or married filing separate, $375 for head of household, and $500 for a couple filing
+jointly, but in no case more than the filer’s 2023 income taxes paid. For part-year and nonresident
+filers, the rebate would be prorated using the ratio of income subject to Georgia taxation to total income
+as reported on Schedule 3 of the filer’s TY 2023 Georgia tax return.
+To qualify for the rebate, a taxpayer must have timely filed a Georgia income tax return for both TY
+2023 and TY 2024, and cannot have been claimed as a dependent on another taxpayer’s federal or state
+tax return for TY 2023. Estates and trusts are also excluded.
+Estimation was done using TY 2021 and TY 2022 administrative tax return data from the Department
+of Revenue (DOR) to simulate tax liability under 2023 law as well as the rebate for which the filer would
+be eligible based on 2023 tax paid. The aggregate amount of net rebate payments resulting from the
+simulation on TY 2021 data are further adjusted assuming an increase in filers of 1.9 percent per year to
+TY 2023, the average rate of growth in returns filed in CY’s 2019–23, according to the DOR Annual
+Statistical Report for FY 2023.
+Payment of the rebates are expected to be made primarily during FY 2025, though the timing would
+depend on the final date of enactment and DOR’s ability to validate and process the payments after
+returns are filed. The remaining rebates, likely as much as 10 percent based on the timing of payments
+of previous rebates, would be paid in FY 2026, though for filers receiving filing extensions for TY 2023
+or TY 2024, rebate payments would be delayed until those returns are filed and processed.
+The estimated aggregate cost of these one-time rebates is $1,177 million.
+
+[DELETED:  F R O]

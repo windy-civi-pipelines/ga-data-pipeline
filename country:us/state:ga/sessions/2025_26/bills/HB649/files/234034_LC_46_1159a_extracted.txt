@@ -1,0 +1,466 @@
+Title: House Bill 649
+Official Title: House Bill 649
+Number of Sections: 1
+Source: versions - LC 46 1159/a
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25 LC 46 1159
+By: Representatives Bennett of the 94th, Oliver of the 84th, Hugley of the 141st, and Jones of
+the 25th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 33 of the Official Code of Georgia Annotated, relating to
+2 general provisions relative to insurance, so as to provide for coverage for comprehensive
+3 maternal mental health screening and care; to provide for such screenings at specific points
+4 during and after pregnancy as deemed necessary by a physician or other healthcare provider;
+5 to provide for additional screening; to provide for referral information and resources and
+6 educational materials regarding perinatal mood and anxiety disorders; to provide for a pilot
+7 program; to provide for funding; to provide for rules and regulations; to provide for reports;
+8 to amend Article 7 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated,
+9 relating to medical assistance generally, so as to provide for maternal mental health
+10 screenings for perinatal mood and anxiety disorders; to provide for related matters; to
+11 provide for legislative findings; to provide for a short title; to provide for an effective date
+12 and applicability; to provide for contingent effectiveness upon appropriation of funds; to
+13 repeal conflicting laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 649
+- 1 -
+25 LC 46 1159
+15 SECTION 1.
+16 The General Assembly finds that:
+17 (1) Georgia has prioritized advancements in access to mental health care and addressing
+18 issues of maternal health and maternal mortality;
+19 (2) The largest demographic of Americans grappling with depression is women of
+20 childbearing age. The mental well-being of women before, during, and after giving birth
+21 is a matter of significant concern for women, their families, their communities, and their
+22 healthcare providers. This issue is of particular interest to the General Assembly in that it
+23 has far-reaching impact on the public health and the welfare of people in this state;
+24 (3) Maternal mental health conditions are among the most common complications of
+25 pregnancy and childbirth;
+26 (4) Statistics from experts in the field show that one in five perinatal women will
+27 experience mood and anxiety disorders at some time during the period spanning from
+28 pregnancy through 12 months after the birth of a child;
+29 (5) Maternal depression, anxiety, and other mood disorders can be debilitating conditions,
+30 but they are treatable if properly diagnosed;
+31 (6) Early identification and treatment of maternal mental health conditions significantly
+32 improves outcomes for mothers and children;
+33 (7) Children born to mothers with untreated depression face a higher likelihood of
+34 encountering developmental challenges and increased utilization of medical and mental
+35 health services throughout their lives;
+36 (8) It is imperative, then, in order to protect and promote public health and welfare, to
+37 ensure the prompt diagnosis and treatment of women experiencing postpartum depression
+38 or other maternal mental health disorders;
+39 (9) The American Medical Association, the American College of Obstetrics and
+40 Gynecology, the American College of Nurse Midwives, and the American Academy of
+H. B. 649
+- 2 -
+25 LC 46 1159
+41 Pediatrics recommend perinatal mental health screenings at certain intervals for all
+42 pregnant and postpartum women;
+43 (10) Universal maternal mental health screening questionnaires test for the presence of
+44 prenatal or postpartum mood disorders through validated, evidence based tools;
+45 (11) These screening questionnaires are available at little to no cost;
+46 (12) In order to preserve and promote maternal health and strong families, it is imperative
+47 that the State of Georgia provide access to periodic mental health screening questionnaires
+48 for women throughout and after their pregnancies; and
+49 (13) There is a critical need to ensure equitable access to maternal mental health screening
+50 and care across Georgia, particularly in rural and other underserved communities.
+51 SECTION 2.
+52 This Act shall be known and may be cited as the "Georgia Maternal Mental Health
+53 Improvement Act."
+54 SECTION 3.
+55 Chapter 1 of Title 33 of the Official Code of Georgia Annotated, relating to general
+56 provisions relative to insurance, is amended by adding a new Code section to read as follows:
+57 "33-1-28.
+58 (a) As used in this Code section, the term:
+59 (1) 'Maternal mental health screening' means the use of an independent, evidence based
+60 screening instrument that is generally recognized by mental healthcare providers for
+61 identifying maternal mental health conditions, including without limitation screening
+62 instruments issued or recommended by nonprofit healthcare provider professional
+63 associations and specialty societies.
+64 (2) 'Medically necessary' has the same meaning as in Code Section 33-1-27.
+H. B. 649
+- 3 -
+25 LC 46 1159
+65 (3) 'Mental healthcare provider' means any person licensed under Title 43 to provide
+66 prenatal, labor and delivery, or postpartum care, including without limitation physicians,
+67 psychiatrists, psychologists, advanced practice registered nurses, physician assistants,
+68 licensed clinical social workers, and licensed professional counselors and marriage and
+69 family therapists.
+70 (4) 'Telehealth services' means services provided via two-way, real-time interactive
+71 communication between a patient and a mental healthcare provider at a distant site
+72 through telecommunications equipment, which services are compliant with federal Health
+73 Insurance Portability and Accountability Act of 1996 (HIPAA) privacy, security, and
+74 breach notification rules.
+75 (b) Each health benefit policy issued, delivered, or renewed in this state shall provide
+76 coverage for:
+77 (1) Maternal mental health screening during the prenatal period and 12 months
+78 postpartum; and
+79 (2) Care and treatment for those screenings positive for maternal mental health
+80 conditions.
+81 (c) The coverage provided in subsection (b) of this Code section shall include the
+82 following:
+83 (1) Initial screening during the first prenatal visit;
+84 (2) Follow-up screening during the second or third trimester;
+85 (3) Screening during the six-week postpartum visit;
+86 (4) Additional screenings at three, six, and 12 months postpartum; and
+87 (5) Additional screenings as deemed medically necessary by a mental healthcare
+88 provider.
+89 (d) All of the services provided in this Code section shall be covered whether provided in
+90 person or through telehealth services.
+H. B. 649
+- 4 -
+25 LC 46 1159
+91 (e) To implement the provisions of this Code section, the department shall, when
+92 necessary, submit a Medicaid state plan amendment or waiver request to the United States
+93 Department of Health and Human Services.
+94 (f) The provisions of this Code section shall apply to all policies, contracts, and certificates
+95 executed, delivered, issued for delivery, continued, or renewed in this state on or after
+96 January 1, 2026."
+97 SECTION 4.
+98 Article 7 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to
+99 medical assistance generally, is amended by adding a new Code section to read as follows:
+100 "49-4-159.5.
+101 (a) Except in cases where the woman refuses the maternal mental health screening, a
+102 pregnant or postpartum woman seeking healthcare from a physician or other healthcare
+103 provider shall be screened for perinatal mood and anxiety disorders, as determined
+104 necessary:
+105 (1) At the pregnant woman's first prenatal visit;
+106 (2) When the pregnant woman is between 28 to 32 weeks' gestation;
+107 (3) Between delivery and discharge from the facility where the pregnant woman gives
+108 birth;
+109 (4) At the woman's six-week postpartum obstetrical visit;
+110 (5) If there is a pregnancy loss and at the follow-up obstetric visit after such loss; and
+111 (6) At a pediatric visit occurring when the infant is three months of age or, if there is no
+112 such visit, at the postpartum woman's healthcare visit any time from three months to one
+113 year after pregnancy loss or delivery.
+114 (b) The right to refuse the mental health screening described in subsection (a) of this Code
+115 section shall not exist for a patient determined by the physician or other healthcare provider
+116 to be mentally incompetent.
+H. B. 649
+- 5 -
+25 LC 46 1159
+117 (c)(1) The maternal mental health screening provided for in subsection (a) of this Code
+118 section shall be conducted by the physician or other healthcare provider who is providing
+119 prenatal, obstetric, or postpartum care of the pregnant woman or pediatric care of the
+120 woman's infant, as deemed necessary by such physician or healthcare provider. Each
+121 such screening shall utilize questionnaires that conform with nationally recognized
+122 clinical practice guidelines and shall be used for the purposes of diagnosis, treatment,
+123 appropriate management, or ongoing monitoring of a woman's mental health, well-being,
+124 disease, or condition as supported by medical and scientific evidence.
+125 (2) Additional maternal mental health screenings, which may be refused, may be
+126 conducted at any other point during the pregnancy or the postpartum period as deemed
+127 necessary by the physician or other healthcare provider. Appropriate referral information
+128 and resources addressing perinatal mood or anxiety disorders shall be provided during
+129 such screenings.
+130 (d) A physician or other healthcare provider who provides obstetric or pediatric care shall
+131 provide educational materials through electronic or other means on the signs and symptoms
+132 of perinatal mood and anxiety disorders to pregnant and postpartum women under his or
+133 her care, or to mothers of children under his or her care, as deemed necessary by such
+134 physician or healthcare provider.
+135 (e) This Code section shall not preclude any other healthcare provider acting within his or
+136 her scope of practice from screening for maternal mental health conditions or from
+137 providing referral information and resources or educational materials on perinatal mood
+138 and anxiety disorders.
+139 (f) The department shall establish a comprehensive quality metrics program that includes
+140 the following:
+141 (1) Process measures, including but not limited to:
+142 (A) Percentage of eligible patients screened at each required interval;
+143 (B) Time from positive screen to first behavioral health contact;
+H. B. 649
+- 6 -
+25 LC 46 1159
+144 (C) Completion rates for referrals to behavioral health services; and
+145 (D) Utilization rates of telehealth services;
+146 (2) Outcome measures, including but not limited to:
+147 (A) Rates of postpartum depression and anxiety identification;
+148 (B) Emergency department utilization for mental health concerns;
+149 (C) Psychiatric hospitalization rates; and
+150 (D) Duration of treatment engagement;
+151 (3) Equity measures, including but not limited to:
+152 (A) Screening and treatment rates stratified by race, ethnicity, and geographic location;
+153 and
+154 (B) Disparities in access to care and outcomes; and
+155 (4) Patient experience measures, including but not limited to:
+156 (A) Satisfaction with screening process;
+157 (B) Perceived barriers to care; and
+158 (C) Experiences with telehealth services.
+159 (g) The department shall establish a three-year pilot program for remote maternal mental
+160 health screening and monitoring no later than January 1, 2026, that shall:
+161 (1) Prioritize high-risk populations and rural communities;
+162 (2) Include telehealth services;
+163 (3) Integrate with existing maternal health programs including home visiting services;
+164 and
+165 (4) Collect data on program effectiveness and barriers to care.
+166 (h) The department may allocate sufficient funds to support:
+167 (1) Technology infrastructure and support;
+168 (2) Provider training and technical assistance; and
+169 (3) Program evaluation and reporting.
+170 (i) The department shall:
+H. B. 649
+- 7 -
+25 LC 46 1159
+171 (1) Promulgate rules and regulations necessary to implement this chapter;
+172 (2) Establish a process for monitoring compliance; and
+173 (3) Report annually to the Senate Health and Human Services Committee and the House
+174 Committees on Health and Public Health on the implementation progress and outcomes
+175 of the requirements of this Code section.
+176 (j) The annual report provided in subsection (i) of this Code section shall be required from
+177 July 1, 2026, through July 1, 2028.
+178 (k) The department shall be authorized to promulgate rules and regulations for the purpose
+179 of administering the requirements under this Code section."
+180 SECTION 5.
+181 This Act shall become effective on January 1, 2026, only if prior to such date, funds are
+182 specifically appropriated for the purposes of this Act in an appropriations Act making
+183 specific reference to this Act.
+184 SECTION 6.
+185 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 649
+- 8 -
+[DELETED: 5L4,4,1,hths5 t m a g s a t p f m m h f p m a a d t p f r m t]
+[DELETED: 5L  T l d o A g w d i w o  S f e i t f s t o i f p w w  C b t m w u d f a h l o  T A M A t A C o O a]
+[DELETED: 5L r p m h s a c i f a A s b k a m b c a t " M M H 1 o T 3 o t O C o G A r t g i o r b n h p p]
+[DELETED: 5L  M m h s d t p p a 1 m  C a t f t s p f m m h  T c p i s ( o t C s s i t  A s a d m n b a m h]
+[DELETED: 5L  T i t p o t C s t d s w s b s f p m a a d a d]
+[DELETED: 5L s s u q t c w n r  A m m h s w m b r m b s o p f s f m m h c o f]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 46 1159
+House Bill 649
+By: Representatives Bennett of the 94th, Oliver of the 84th, Hugley of the 141st, and Jones of
+the 25th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 33 of the Official Code of Georgia Annotated, relating to
+2 general provisions relative to insurance, so as to provide for coverage for comprehensive
+3 maternal mental health screening and care; to provide for such screenings at specific points
+4 during and after pregnancy as deemed necessary by a physician or other healthcare provider;
+5 to provide for additional screening; to provide for referral information and resources and
+6 educational materials regarding perinatal mood and anxiety disorders; to provide for a pilot
+7 program; to provide for funding; to provide for rules and regulations; to provide for reports;
+8 to amend Article 7 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated,
+9 relating to medical assistance generally, so as to provide for maternal mental health
+10 screenings for perinatal mood and anxiety disorders; to provide for related matters; to
+11 provide for legislative findings; to provide for a short title; to provide for an effective date
+12 and applicability; to provide for contingent effectiveness upon appropriation of funds; to
+13 repeal conflicting laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 649
+- 1 -
+
+25 LC 46 1159
+15 SECTION 1.
+16 The General Assembly finds that:
+17 (1) Georgia has prioritized advancements in access to mental health care and addressing
+18 issues of maternal health and maternal mortality;
+19 (2) The largest demographic of Americans grappling with depression is women of
+20 childbearing age. The mental well-being of women before, during, and after giving birth
+21 is a matter of significant concern for women, their families, their communities, and their
+22 healthcare providers. This issue is of particular interest to the General Assembly in that it
+23 has far-reaching impact on the public health and the welfare of people in this state;
+24 (3) Maternal mental health conditions are among the most common complications of
+25 pregnancy and childbirth;
+26 (4) Statistics from experts in the field show that one in five perinatal women will
+27 experience mood and anxiety disorders at some time during the period spanning from
+28 pregnancy through 12 months after the birth of a child;
+29 (5) Maternal depression, anxiety, and other mood disorders can be debilitating conditions,
+30 but they are treatable if properly diagnosed;
+31 (6) Early identification and treatment of maternal mental health conditions significantly
+32 improves outcomes for mothers and children;
+33 (7) Children born to mothers with untreated depression face a higher likelihood of
+34 encountering developmental challenges and increased utilization of medical and mental
+35 health services throughout their lives;
+36 (8) It is imperative, then, in order to protect and promote public health and welfare, to
+37 ensure the prompt diagnosis and treatment of women experiencing postpartum depression
+38 or other maternal mental health disorders;
+39 (9) The American Medical Association, the American College of Obstetrics and
+40 Gynecology, the American College of Nurse Midwives, and the American Academy of
+H. B. 649
+- 2 -
+
+25 LC 46 1159
+41 Pediatrics recommend perinatal mental health screenings at certain intervals for all
+42 pregnant and postpartum women;
+43 (10) Universal maternal mental health screening questionnaires test for the presence of
+44 prenatal or postpartum mood disorders through validated, evidence based tools;
+45 (11) These screening questionnaires are available at little to no cost;
+46 (12) In order to preserve and promote maternal health and strong families, it is imperative
+47 that the State of Georgia provide access to periodic mental health screening questionnaires
+48 for women throughout and after their pregnancies; and
+49 (13) There is a critical need to ensure equitable access to maternal mental health screening
+50 and care across Georgia, particularly in rural and other underserved communities.
+51 SECTION 2.
+52 This Act shall be known and may be cited as the "Georgia Maternal Mental Health
+53 Improvement Act."
+54 SECTION 3.
+55 Chapter 1 of Title 33 of the Official Code of Georgia Annotated, relating to general
+56 provisions relative to insurance, is amended by adding a new Code section to read as follows:
+57 "33-1-28.
+58 (a) As used in this Code section, the term:
+59 (1) 'Maternal mental health screening' means the use of an independent, evidence based
+60 screening instrument that is generally recognized by mental healthcare providers for
+61 identifying maternal mental health conditions, including without limitation screening
+62 instruments issued or recommended by nonprofit healthcare provider professional
+63 associations and specialty societies.
+64 (2) 'Medically necessary' has the same meaning as in Code Section 33-1-27.
+H. B. 649
+- 3 -
+
+25 LC 46 1159
+65 (3) 'Mental healthcare provider' means any person licensed under Title 43 to provide
+66 prenatal, labor and delivery, or postpartum care, including without limitation physicians,
+67 psychiatrists, psychologists, advanced practice registered nurses, physician assistants,
+68 licensed clinical social workers, and licensed professional counselors and marriage and
+69 family therapists.
+70 (4) 'Telehealth services' means services provided via two-way, real-time interactive
+71 communication between a patient and a mental healthcare provider at a distant site
+72 through telecommunications equipment, which services are compliant with federal Health
+73 Insurance Portability and Accountability Act of 1996 (HIPAA) privacy, security, and
+74 breach notification rules.
+75 (b) Each health benefit policy issued, delivered, or renewed in this state shall provide
+76 coverage for:
+77 (1) Maternal mental health screening during the prenatal period and 12 months
+78 postpartum; and
+79 (2) Care and treatment for those screenings positive for maternal mental health
+80 conditions.
+81 (c) The coverage provided in subsection (b) of this Code section shall include the
+82 following:
+83 (1) Initial screening during the first prenatal visit;
+84 (2) Follow-up screening during the second or third trimester;
+85 (3) Screening during the six-week postpartum visit;
+86 (4) Additional screenings at three, six, and 12 months postpartum; and
+87 (5) Additional screenings as deemed medically necessary by a mental healthcare
+88 provider.
+89 (d) All of the services provided in this Code section shall be covered whether provided in
+90 person or through telehealth services.
+H. B. 649
+- 4 -
+
+25 LC 46 1159
+91 (e) To implement the provisions of this Code section, the department shall, when
+92 necessary, submit a Medicaid state plan amendment or waiver request to the United States
+93 Department of Health and Human Services.
+94 (f) The provisions of this Code section shall apply to all policies, contracts, and certificates
+95 executed, delivered, issued for delivery, continued, or renewed in this state on or after
+96 January 1, 2026."
+97 SECTION 4.
+98 Article 7 of Chapter 4 of Title 49 of the Official Code of Georgia Annotated, relating to
+99 medical assistance generally, is amended by adding a new Code section to read as follows:
+100 "49-4-159.5.
+101 (a) Except in cases where the woman refuses the maternal mental health screening, a
+102 pregnant or postpartum woman seeking healthcare from a physician or other healthcare
+103 provider shall be screened for perinatal mood and anxiety disorders, as determined
+104 necessary:
+105 (1) At the pregnant woman's first prenatal visit;
+106 (2) When the pregnant woman is between 28 to 32 weeks' gestation;
+107 (3) Between delivery and discharge from the facility where the pregnant woman gives
+108 birth;
+109 (4) At the woman's six-week postpartum obstetrical visit;
+110 (5) If there is a pregnancy loss and at the follow-up obstetric visit after such loss; and
+111 (6) At a pediatric visit occurring when the infant is three months of age or, if there is no
+112 such visit, at the postpartum woman's healthcare visit any time from three months to one
+113 year after pregnancy loss or delivery.
+114 (b) The right to refuse the mental health screening described in subsection (a) of this Code
+115 section shall not exist for a patient determined by the physician or other healthcare provider
+116 to be mentally incompetent.
+H. B. 649
+- 5 -
+
+25 LC 46 1159
+117 (c)(1) The maternal mental health screening provided for in subsection (a) of this Code
+118 section shall be conducted by the physician or other healthcare provider who is providing
+119 prenatal, obstetric, or postpartum care of the pregnant woman or pediatric care of the
+120 woman's infant, as deemed necessary by such physician or healthcare provider. Each
+121 such screening shall utilize questionnaires that conform with nationally recognized
+122 clinical practice guidelines and shall be used for the purposes of diagnosis, treatment,
+123 appropriate management, or ongoing monitoring of a woman's mental health, well-being,
+124 disease, or condition as supported by medical and scientific evidence.
+125 (2) Additional maternal mental health screenings, which may be refused, may be
+126 conducted at any other point during the pregnancy or the postpartum period as deemed
+127 necessary by the physician or other healthcare provider. Appropriate referral information
+128 and resources addressing perinatal mood or anxiety disorders shall be provided during
+129 such screenings.
+130 (d) A physician or other healthcare provider who provides obstetric or pediatric care shall
+131 provide educational materials through electronic or other means on the signs and symptoms
+132 of perinatal mood and anxiety disorders to pregnant and postpartum women under his or
+133 her care, or to mothers of children under his or her care, as deemed necessary by such
+134 physician or healthcare provider.
+135 (e) This Code section shall not preclude any other healthcare provider acting within his or
+136 her scope of practice from screening for maternal mental health conditions or from
+137 providing referral information and resources or educational materials on perinatal mood
+138 and anxiety disorders.
+139 (f) The department shall establish a comprehensive quality metrics program that includes
+140 the following:
+141 (1) Process measures, including but not limited to:
+142 (A) Percentage of eligible patients screened at each required interval;
+143 (B) Time from positive screen to first behavioral health contact;
+H. B. 649
+- 6 -
+
+25 LC 46 1159
+144 (C) Completion rates for referrals to behavioral health services; and
+145 (D) Utilization rates of telehealth services;
+146 (2) Outcome measures, including but not limited to:
+147 (A) Rates of postpartum depression and anxiety identification;
+148 (B) Emergency department utilization for mental health concerns;
+149 (C) Psychiatric hospitalization rates; and
+150 (D) Duration of treatment engagement;
+151 (3) Equity measures, including but not limited to:
+152 (A) Screening and treatment rates stratified by race, ethnicity, and geographic location;
+153 and
+154 (B) Disparities in access to care and outcomes; and
+155 (4) Patient experience measures, including but not limited to:
+156 (A) Satisfaction with screening process;
+157 (B) Perceived barriers to care; and
+158 (C) Experiences with telehealth services.
+159 (g) The department shall establish a three-year pilot program for remote maternal mental
+160 health screening and monitoring no later than January 1, 2026, that shall:
+161 (1) Prioritize high-risk populations and rural communities;
+162 (2) Include telehealth services;
+163 (3) Integrate with existing maternal health programs including home visiting services;
+164 and
+165 (4) Collect data on program effectiveness and barriers to care.
+166 (h) The department may allocate sufficient funds to support:
+167 (1) Technology infrastructure and support;
+168 (2) Provider training and technical assistance; and
+169 (3) Program evaluation and reporting.
+170 (i) The department shall:
+H. B. 649
+- 7 -
+
+25 LC 46 1159
+171 (1) Promulgate rules and regulations necessary to implement this chapter;
+172 (2) Establish a process for monitoring compliance; and
+173 (3) Report annually to the Senate Health and Human Services Committee and the House
+174 Committees on Health and Public Health on the implementation progress and outcomes
+175 of the requirements of this Code section.
+176 (j) The annual report provided in subsection (i) of this Code section shall be required from
+177 July 1, 2026, through July 1, 2028.
+178 (k) The department shall be authorized to promulgate rules and regulations for the purpose
+179 of administering the requirements under this Code section."
+180 SECTION 5.
+181 This Act shall become effective on January 1, 2026, only if prior to such date, funds are
+182 specifically appropriated for the purposes of this Act in an appropriations Act making
+183 specific reference to this Act.
+184 SECTION 6.
+185 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 649
+- 8 -
+
+[DELETED: 5L4,4,1,hths5 t m a g s a t p f m m h f p m a a d t p f r m t]
+[DELETED: 5L  T l d o A g w d i w o  S f e i t f s t o i f p w w  C b t m w u d f a h l o  T A M A t A C o O a]
+[DELETED: 5L r p m h s a c i f a A s b k a m b c a t " M M H 1 o T 3 o t O C o G A r t g i o r b n h p p]
+[DELETED: 5L  M m h s d t p p a 1 m  C a t f t s p f m m h  T c p i s ( o t C s s i t  A s a d m n b a m h]
+[DELETED: 5L  T i t p o t C s t d s w s b s f p m a a d a d]
+[DELETED: 5L s s u q t c w n r  A m m h s w m b r m b s o p f s f m m h c o f]
+[DELETED: 5L]
+[DELETED: 5L]

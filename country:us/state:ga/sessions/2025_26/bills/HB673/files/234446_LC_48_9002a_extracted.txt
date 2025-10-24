@@ -1,0 +1,295 @@
+Title: House Bill 673
+Official Title: House Bill 673
+Number of Sections: 1
+Source: versions - LC 48 9002/a
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 48 9002
+By: Representative Lim of the 98th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 10 of Title 17 of the Official Code of Georgia Annotated,
+2 relating to procedure for sentencing and imposition of punishment, so as to provide for
+3 limitations on bars to first offender treatment for certain minor offenders adjudicated as
+4 adults; to amend Article 3 of Chapter 8 of Title 42 of the Official Code of Georgia
+5 Annotated, relating to first offenders, so as to provide for retroactive first offender treatment
+6 under certain circumstances for offenders who were adjudicated as minors; to revise
+7 sentencing laws in conflict with these provisions; to provide for related matters; to repeal
+8 conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Article 1 of Chapter 10 of Title 17 of the Official Code of Georgia Annotated, relating to
+12 procedure for sentencing and imposition of punishment, is amended by revising paragraph
+13 (3) of subsection (b) of Code Section 17-10-6.1, relating to punishment for serious offenders
+14 and authorization for reduction in mandatory minimum sentencing, as follows:
+15 "(3) Except as provided in paragraph (2) of subsection (a) of Code Section 42-8-60, no
+16 No person convicted of a serious violent felony shall be sentenced as a first offender
+H. B. 673
+- 1 -
+25 LC 48 9002
+17 pursuant to Article 3 of Chapter 8 of Title 42, relating to probation for first offenders, or
+18 any other provision of Georgia law relating to the sentencing of first offenders. The State
+19 of Georgia shall have the right to appeal any sentence which is imposed by the superior
+20 court which does not conform to the provisions of this subsection in the same manner as
+21 is provided for other appeals by the state in accordance with Chapter 7 of Title 5, relating
+22 to appeals or certiorari by the state."
+23 SECTION 2.
+24 Said article is further amended by revising subsection (b) of Code Section 17-10-6.2, relating
+25 to punishment for sex offenders, as follows:
+26 "(b) Except as provided in subsection (c) of this Code section, and notwithstanding any
+27 other provisions of law to the contrary, any person convicted of a sexual offense shall be
+28 sentenced to a split sentence which shall include the minimum term of imprisonment
+29 specified in the Code section applicable to such sexual offense. No portion of the
+30 mandatory minimum sentence imposed shall be suspended, stayed, probated, deferred, or
+31 withheld by the court. Any such sentence shall include, in addition to the mandatory term
+32 of imprisonment, an additional probated sentence of at least one year; provided, however,
+33 that when a court imposes consecutive sentences for sexual offenses, the requirement that
+34 the court impose a probated sentence of at least one year shall only apply to the final
+35 consecutive sentence imposed. Except as provided in paragraph (2) of subsection (a) of
+36 Code Section 42-8-60, no No person convicted of a sexual offense shall be sentenced as
+37 a first offender pursuant to Article 3 of Chapter 8 of Title 42 or any other provision of
+38 Georgia law relating to the sentencing of first offenders."
+39 SECTION 3.
+40 Article 3 of Chapter 8 of Title 42 of the Official Code of Georgia Annotated, relating to first
+41 offenders, is amended by adding a new paragraph to subsection (f), by revising subsection
+H. B. 673
+- 2 -
+25 LC 48 9002
+42 (j), and by adding a new subsection to Code Section 42-8-60, relating to probation prior to
+43 adjudication of guilt, violation of probation, and review of criminal record by judge, to read
+44 as follows:
+45 "(a.1) When a defendant is under the age of 17 and is being adjudicated under Code
+46 Section 15-11-560, the court may, upon a guilty verdict or plea of guilty or nolo contendere
+47 and before an adjudication of guilt, without entering a judgment of guilt and with the
+48 consent of the defendant, defer further proceedings and:
+49 (1) Sentence the defendant to a term of confinement; and
+50 (2) Sentence the defendant to a term of probation."
+51 "(6) If the defendant is serving a probated sentence as provided by subsection (a.1) of this
+52 Code section, whether under active probation supervision or without such supervision,
+53 within 30 days of such defendant completing such sentence or being released by the court
+54 prior to the termination of said sentence, it shall be the duty of the Department of
+55 Community Supervision or any other entity or governing authority that is providing
+56 supervision services as provided by Article 6 of this chapter to provide written
+57 notification of the completion or release of said sentence to the clerk of court for the
+58 jurisdiction where such sentenced was imposed, provided that:
+59 (A) The defendant shall not have violated the terms of his or her first offender
+60 probation, with the exception of a violation as provided in subsection (c) of Code
+61 Section 42-8-34.1;
+62 (B) If the defendant was convicted of a sexual offense as provided in Code Section
+63 17-10-6.2, then such defendant shall have been classified as a Level I risk offender as
+64 determined by the Georgia Sexual Offender Risk Review Board; and
+65 (C) All other criteria relevant to first offender sentencing provisions have been
+66 considered."
+H. B. 673
+- 3 -
+25 LC 48 9002
+67 "(j) Except as provided in subsection (a.1) of this Code section, the The court shall not
+68 sentence a defendant under the provisions of this article who has been found guilty of or
+69 entered a plea of guilty or a plea of nolo contendere for:
+70 (1) A serious violent felony as such term is defined in Code Section 17-10-6.1;
+71 (2) A sexual offense as such term is defined in Code Section 17-10-6.2;
+72 (3) Trafficking of persons for labor or sexual servitude as prohibited by Code Section
+73 16-5-46;
+74 (4) Neglecting disabled adults, elder persons, or residents as prohibited by Code Section
+75 16-5-101;
+76 (5) Exploitation and intimidation of disabled adults, elder persons, and residents as
+77 prohibited by Code Section 16-5-102;
+78 (6) Sexual exploitation of a minor as prohibited by Code Section 16-12-100;
+79 (7) Electronically furnishing obscene material to a minor as prohibited by Code Section
+80 16-12-100.1;
+81 (8) Computer pornography and child exploitation as prohibited by Code Section
+82 16-12-100.2;
+83 (9)(A) Any of the following offenses when such offense is committed against a law
+84 enforcement officer while such officer is engaged in the performance of his or her
+85 official duties:
+86 (i) Aggravated assault in violation of Code Section 16-5-21;
+87 (ii) Aggravated battery in violation of Code Section 16-5-24; or
+88 (iii) Obstruction of a law enforcement officer in violation of subsection (b) of Code
+89 Section 16-10-24, if such violation results in serious physical harm or injury to such
+90 officer.
+91 (B) As used in this paragraph, the term 'law enforcement officer' means:
+92 (i) A peace officer as such term is defined in paragraph (8) of Code Section 35-8-2;
+93 (ii) A law enforcement officer of the United States government;
+H. B. 673
+- 4 -
+25 LC 48 9002
+94 (iii) An individual employed as a campus police officer or school security officer;
+95 (iv) A game warden; and
+96 (v) A jail officer employed at a county or municipal jail; or
+97 (10) Driving under the influence as prohibited by Code Section 40-6-391."
+98 SECTION 4.
+99 Said article is further amended by adding a new paragraph to subsection (a) and by revising
+100 subsection (d) of Code Section 42-8-66, relating to petition for exoneration and discharge,
+101 hearing, retroactive grant of first offender status, and no filing fee, as follows:
+102 "(3) An individual who was under the age of 17 and was sentenced as provided by Code
+103 Section 15-11-560, or by any law repealed by said Code section, and fulfills all
+104 requirements set forth in this article may with the consent of the prosecuting attorney
+105 petition the court in which he or she was convicted for exoneration of guilt and discharge
+106 pursuant to this article."
+107 "(d) The court may issue an order retroactively granting first offender treatment and
+108 discharge the defendant pursuant to this article if the court finds by a preponderance of the
+109 evidence that the defendant was eligible for sentencing under the terms of this article at the
+110 time he or she was originally sentenced or that he or she qualifies for sentencing under
+111 paragraph (2) or (3) of subsection (a) of this Code section and the ends of justice and the
+112 welfare of society are served by granting such petition."
+113 SECTION 5.
+114 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 673
+- 5 -
+[DELETED: 5L8 t a A 3 o C 8 o T 4 o t O C o G c c f o w w a a m t r]
+[DELETED: 5L i t C s a t s s o  N p o t]
+[DELETED: 5L s a p b A 6 o t c t p w  T d s n h v t t o h o h f o  A o c r t f o s p h b]
+[DELETED: 5L  C p a c e a p b C S]
+[DELETED: 5L 1 o b a l r b s C s a f a]
+
+
+================================================================================
+
+Raw Text:
+25 LC 48 9002
+House Bill 673
+By: Representative Lim of the 98th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 10 of Title 17 of the Official Code of Georgia Annotated,
+2 relating to procedure for sentencing and imposition of punishment, so as to provide for
+3 limitations on bars to first offender treatment for certain minor offenders adjudicated as
+4 adults; to amend Article 3 of Chapter 8 of Title 42 of the Official Code of Georgia
+5 Annotated, relating to first offenders, so as to provide for retroactive first offender treatment
+6 under certain circumstances for offenders who were adjudicated as minors; to revise
+7 sentencing laws in conflict with these provisions; to provide for related matters; to repeal
+8 conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Article 1 of Chapter 10 of Title 17 of the Official Code of Georgia Annotated, relating to
+12 procedure for sentencing and imposition of punishment, is amended by revising paragraph
+13 (3) of subsection (b) of Code Section 17-10-6.1, relating to punishment for serious offenders
+14 and authorization for reduction in mandatory minimum sentencing, as follows:
+15 "(3) Except as provided in paragraph (2) of subsection (a) of Code Section 42-8-60, no
+16 No person convicted of a serious violent felony shall be sentenced as a first offender
+H. B. 673
+- 1 -
+
+25 LC 48 9002
+17 pursuant to Article 3 of Chapter 8 of Title 42, relating to probation for first offenders, or
+18 any other provision of Georgia law relating to the sentencing of first offenders. The State
+19 of Georgia shall have the right to appeal any sentence which is imposed by the superior
+20 court which does not conform to the provisions of this subsection in the same manner as
+21 is provided for other appeals by the state in accordance with Chapter 7 of Title 5, relating
+22 to appeals or certiorari by the state."
+23 SECTION 2.
+24 Said article is further amended by revising subsection (b) of Code Section 17-10-6.2, relating
+25 to punishment for sex offenders, as follows:
+26 "(b) Except as provided in subsection (c) of this Code section, and notwithstanding any
+27 other provisions of law to the contrary, any person convicted of a sexual offense shall be
+28 sentenced to a split sentence which shall include the minimum term of imprisonment
+29 specified in the Code section applicable to such sexual offense. No portion of the
+30 mandatory minimum sentence imposed shall be suspended, stayed, probated, deferred, or
+31 withheld by the court. Any such sentence shall include, in addition to the mandatory term
+32 of imprisonment, an additional probated sentence of at least one year; provided, however,
+33 that when a court imposes consecutive sentences for sexual offenses, the requirement that
+34 the court impose a probated sentence of at least one year shall only apply to the final
+35 consecutive sentence imposed. Except as provided in paragraph (2) of subsection (a) of
+36 Code Section 42-8-60, no No person convicted of a sexual offense shall be sentenced as
+37 a first offender pursuant to Article 3 of Chapter 8 of Title 42 or any other provision of
+38 Georgia law relating to the sentencing of first offenders."
+39 SECTION 3.
+40 Article 3 of Chapter 8 of Title 42 of the Official Code of Georgia Annotated, relating to first
+41 offenders, is amended by adding a new paragraph to subsection (f), by revising subsection
+H. B. 673
+- 2 -
+
+25 LC 48 9002
+42 (j), and by adding a new subsection to Code Section 42-8-60, relating to probation prior to
+43 adjudication of guilt, violation of probation, and review of criminal record by judge, to read
+44 as follows:
+45 "(a.1) When a defendant is under the age of 17 and is being adjudicated under Code
+46 Section 15-11-560, the court may, upon a guilty verdict or plea of guilty or nolo contendere
+47 and before an adjudication of guilt, without entering a judgment of guilt and with the
+48 consent of the defendant, defer further proceedings and:
+49 (1) Sentence the defendant to a term of confinement; and
+50 (2) Sentence the defendant to a term of probation."
+51 "(6) If the defendant is serving a probated sentence as provided by subsection (a.1) of this
+52 Code section, whether under active probation supervision or without such supervision,
+53 within 30 days of such defendant completing such sentence or being released by the court
+54 prior to the termination of said sentence, it shall be the duty of the Department of
+55 Community Supervision or any other entity or governing authority that is providing
+56 supervision services as provided by Article 6 of this chapter to provide written
+57 notification of the completion or release of said sentence to the clerk of court for the
+58 jurisdiction where such sentenced was imposed, provided that:
+59 (A) The defendant shall not have violated the terms of his or her first offender
+60 probation, with the exception of a violation as provided in subsection (c) of Code
+61 Section 42-8-34.1;
+62 (B) If the defendant was convicted of a sexual offense as provided in Code Section
+63 17-10-6.2, then such defendant shall have been classified as a Level I risk offender as
+64 determined by the Georgia Sexual Offender Risk Review Board; and
+65 (C) All other criteria relevant to first offender sentencing provisions have been
+66 considered."
+H. B. 673
+- 3 -
+
+25 LC 48 9002
+67 "(j) Except as provided in subsection (a.1) of this Code section, the The court shall not
+68 sentence a defendant under the provisions of this article who has been found guilty of or
+69 entered a plea of guilty or a plea of nolo contendere for:
+70 (1) A serious violent felony as such term is defined in Code Section 17-10-6.1;
+71 (2) A sexual offense as such term is defined in Code Section 17-10-6.2;
+72 (3) Trafficking of persons for labor or sexual servitude as prohibited by Code Section
+73 16-5-46;
+74 (4) Neglecting disabled adults, elder persons, or residents as prohibited by Code Section
+75 16-5-101;
+76 (5) Exploitation and intimidation of disabled adults, elder persons, and residents as
+77 prohibited by Code Section 16-5-102;
+78 (6) Sexual exploitation of a minor as prohibited by Code Section 16-12-100;
+79 (7) Electronically furnishing obscene material to a minor as prohibited by Code Section
+80 16-12-100.1;
+81 (8) Computer pornography and child exploitation as prohibited by Code Section
+82 16-12-100.2;
+83 (9)(A) Any of the following offenses when such offense is committed against a law
+84 enforcement officer while such officer is engaged in the performance of his or her
+85 official duties:
+86 (i) Aggravated assault in violation of Code Section 16-5-21;
+87 (ii) Aggravated battery in violation of Code Section 16-5-24; or
+88 (iii) Obstruction of a law enforcement officer in violation of subsection (b) of Code
+89 Section 16-10-24, if such violation results in serious physical harm or injury to such
+90 officer.
+91 (B) As used in this paragraph, the term 'law enforcement officer' means:
+92 (i) A peace officer as such term is defined in paragraph (8) of Code Section 35-8-2;
+93 (ii) A law enforcement officer of the United States government;
+H. B. 673
+- 4 -
+
+25 LC 48 9002
+94 (iii) An individual employed as a campus police officer or school security officer;
+95 (iv) A game warden; and
+96 (v) A jail officer employed at a county or municipal jail; or
+97 (10) Driving under the influence as prohibited by Code Section 40-6-391."
+98 SECTION 4.
+99 Said article is further amended by adding a new paragraph to subsection (a) and by revising
+100 subsection (d) of Code Section 42-8-66, relating to petition for exoneration and discharge,
+101 hearing, retroactive grant of first offender status, and no filing fee, as follows:
+102 "(3) An individual who was under the age of 17 and was sentenced as provided by Code
+103 Section 15-11-560, or by any law repealed by said Code section, and fulfills all
+104 requirements set forth in this article may with the consent of the prosecuting attorney
+105 petition the court in which he or she was convicted for exoneration of guilt and discharge
+106 pursuant to this article."
+107 "(d) The court may issue an order retroactively granting first offender treatment and
+108 discharge the defendant pursuant to this article if the court finds by a preponderance of the
+109 evidence that the defendant was eligible for sentencing under the terms of this article at the
+110 time he or she was originally sentenced or that he or she qualifies for sentencing under
+111 paragraph (2) or (3) of subsection (a) of this Code section and the ends of justice and the
+112 welfare of society are served by granting such petition."
+113 SECTION 5.
+114 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 673
+- 5 -
+
+[DELETED: 5L8 t a A 3 o C 8 o T 4 o t O C o G c c f o w w a a m t r]
+[DELETED: 5L i t C s a t s s o  N p o t]
+[DELETED: 5L s a p b A 6 o t c t p w  T d s n h v t t o h o h f o  A o c r t f o s p h b]
+[DELETED: 5L  C p a c e a p b C S]
+[DELETED: 5L 1 o b a l r b s C s a f a]

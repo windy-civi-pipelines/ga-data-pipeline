@@ -1,0 +1,303 @@
+Title: Senate Bill 46
+Official Title: Senate Bill 46
+Number of Sections: 1
+Source: versions - SB 46/AP*
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 60 0040
+By: Senators Harbin of the 16th, Dolezal of the 27th, Tillery of the 19th, Anavitarte of the
+31st, Kennedy of the 18th and others
+AS PASSED
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 50 of the Official Code of Georgia Annotated, relating to
+2 general provisions relative to state government, so as to improve government service delivery
+3 in this state; to provide for the appointment of a State of Georgia Government Service
+4 Delivery Lead within the Georgia Technology Authority to coordinate such efforts; to
+5 establish the powers and duties of such individual; to establish the heads of each state agency
+6 as responsible for the government service delivery of their agency and provide for related
+7 powers and duties; to provide for annual reporting; to provide for definitions; to provide for
+8 a short title; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Government Serves the People Act."
+12 SECTION 2.
+13 Chapter 1 of Title 50 of the Official Code of Georgia Annotated, relating to general
+14 provisions relative to state government, is amended by adding new Code sections to read as
+15 follows:
+S. B. 46
+- 1 -
+25 LC 60 0040
+16 "50-1-14.
+17 (a) As used in this Code section, the term:
+18 (1) 'Agency' means any state department, agency, division, board, bureau, commission,
+19 authority, entity, or instrumentality, excluding the Board of Regents of the University
+20 System of Georgia and any institution of the University System of Georgia.
+21 (2) 'Director' means the Chief Information Officer and Executive Director of the Georgia
+22 Technology Authority established pursuant to Code Section 50-25-1.
+23 (3) 'Government service delivery' means any action by an agency related to providing
+24 a benefit or service to a state resident, business, or organization, including, but not limited
+25 to, actions of any independent contractor or nonprofit organization acting on behalf of
+26 such agency.
+27 (4) 'Government service delivery channel' means the method of an interaction or
+28 transaction with an agency, including, but not limited to, in-person, through the mail,
+29 through a digital service, by telephone, through a contact center, on a website, through
+30 outreach and communication, or through collaboration with a third party.
+31 (5) 'High-impact service program' means any agency program identified by the director
+32 due to the scale and impact of the public-facing services of such program.
+33 (b) Not later than 180 days after the effective date of this Code section, the director shall
+34 appoint a State of Georgia Government Service Delivery Lead within the Georgia
+35 Technology Authority to coordinate government-wide efforts aimed at improving
+36 government service delivery by agencies. Such individual shall have and may exercise the
+37 following powers and duties:
+38 (1) Facilitate and coordinate government-wide efforts to improve government service
+39 delivery provided by agencies, particularly with respect to high-impact service programs;
+40 (2) Carry out duties and powers prescribed by the director;
+41 (3) Serve as the lead, government-wide official responsible for supporting government
+42 service delivery;
+S. B. 46
+- 2 -
+25 LC 60 0040
+43 (4) In consultation with each lead agency service delivery official, appointed pursuant
+44 to Code Section 50-1-15, and any other agency stakeholder as appropriate, develop and
+45 oversee the implementation of government-wide government service delivery standards,
+46 policies, and guidelines for benefits and services provided by agencies, including, but not
+47 limited to, standards, policies, and guidelines to:
+48 (A) Understand the needs of an individual, business, or organization interacting with
+49 an agency;
+50 (B) Solicit and consider voluntary feedback on the government service delivery by the
+51 agency;
+52 (C) Assess government service delivery processes;
+53 (D) Evaluate the factors of ease, efficiency, transparency, accessibility, fairness,
+54 burden, and duration, including, but not limited to, wait and processing times, with
+55 respect to government service delivery; and
+56 (E) Encourage the adoption of commercial products and services to measure and
+57 ensure holistic government service delivery channels and customer service satisfaction
+58 and customer experience;
+59 (5) Collect and report qualitative and quantitative information or data on government
+60 service delivery through existing reporting mechanisms;
+61 (6) Evaluate the quality of government service delivery, including through the
+62 establishment of performance metrics developed using the standards, policies, and
+63 guidelines established pursuant to paragraph (4) of this subsection and the information
+64 or data collected and reported pursuant to paragraph (5) of this subsection;
+65 (7) Engage with service design and delivery experts to identify leading practices that
+66 would improve government service delivery across and within agencies;
+67 (8) Advise the director concerning the improvement of government service delivery
+68 provided by agencies; and
+S. B. 46
+- 3 -
+25 LC 60 0040
+69 (9) Coordinate with Georgia Technology Authority stakeholders and other executive
+70 agency stakeholders as appropriate on government service delivery.
+71 50-1-15.
+72 (a) As used in this Code section, the term:
+73 (1) 'Agency' shall have the same meaning as set forth in Code Section 50-1-14.
+74 (2) 'Government service delivery' shall have the same meaning as set forth in Code
+75 Section 50-1-14.
+76 (3) 'State of Georgia Government Service Delivery Lead' means the individual appointed
+77 pursuant to subsection (b) of Code Section 50-1-14.
+78 (b) The head of each agency shall be responsible for the government service delivery of
+79 such agency, which shall, at a minimum, include improving and enhancing government
+80 delivery services to better achieve the mission of the agency and build and maintain trust,
+81 transparency, and accountability.
+82 (c) Not later than 180 days after the effective date of this Code section, the head of each
+83 agency shall appoint a lead agency service delivery official to implement the purposes of
+84 this Code section. Such individual may be the deputy head of the agency and shall have
+85 and may exercise the following powers and duties:
+86 (1) Report directly to the head or deputy head of the agency, as appropriate;
+87 (2) Implement government service delivery improvements within the agency,
+88 particularly for high-impact service programs;
+89 (3) Coordinate and execute, as appropriate, under the direction of the head of the agency,
+90 and in collaboration with relevant agency stakeholders as appropriate, efforts to improve
+91 and enhance the government service delivery and government service delivery channels
+92 of the agency;
+93 (4) At the direction of the State of Georgia Government Service Delivery Lead, submit
+94 a 12 month plan for improving government service delivery of the agency;
+S. B. 46
+- 4 -
+25 LC 60 0040
+95 (5) Coordinate the collection and reporting of the data and information as necessary to
+96 improve government service delivery;
+97 (6) Facilitate collaboration among and between offices, components within the agency,
+98 and other agencies as appropriate, in coordination with the State of Georgia Government
+99 Service Delivery Lead, to improve and enhance government-wide government service
+100 delivery; and
+101 (7) Assist with incorporating the government service delivery requirements established
+102 under this Code section in agency plans, including, but not limited to, strategic plans or
+103 annual performance plans.
+104 50-1-16.
+105 (a) As used in this Code section, the term:
+106 (1) 'Agency' shall have the same meaning as set forth in Code Section 50-1-14.
+107 (2) 'Director' shall have the same meaning as set forth in Code Section 50-1-14.
+108 (3) 'Government service delivery' shall have the same meaning as set forth in Code
+109 Section 50-1-14.
+110 (b) Beginning in 2026, not later than 90 days prior to the beginning of the General
+111 Assembly's next regular legislative session, the director shall submit to the Governor, the
+112 Lieutenant Governor, and the Speaker of the House of Representatives an annual report on
+113 current and future government-wide efforts to improve government service delivery by
+114 agencies."
+115 SECTION 3.
+116 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 46
+- 5 -
+[DELETED: 5L 1 o T 5 o t O C o G A r t g]
+[DELETED: 5L  ' s d c m t m o a i o a S o G G S D L w t G A t c g e a a i]
+[DELETED: 5L  E t f o e e t a f  E t q o g s d i t t o p m d u t s p a]
+[DELETED: 5L  I g s d i w t a]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 60 0040
+Senate Bill 46
+By: Senators Harbin of the 16th, Dolezal of the 27th, Tillery of the 19th, Anavitarte of the
+31st, Kennedy of the 18th and others
+AS PASSED
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 50 of the Official Code of Georgia Annotated, relating to
+2 general provisions relative to state government, so as to improve government service delivery
+3 in this state; to provide for the appointment of a State of Georgia Government Service
+4 Delivery Lead within the Georgia Technology Authority to coordinate such efforts; to
+5 establish the powers and duties of such individual; to establish the heads of each state agency
+6 as responsible for the government service delivery of their agency and provide for related
+7 powers and duties; to provide for annual reporting; to provide for definitions; to provide for
+8 a short title; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Government Serves the People Act."
+12 SECTION 2.
+13 Chapter 1 of Title 50 of the Official Code of Georgia Annotated, relating to general
+14 provisions relative to state government, is amended by adding new Code sections to read as
+15 follows:
+S. B. 46
+- 1 -
+
+25 LC 60 0040
+16 "50-1-14.
+17 (a) As used in this Code section, the term:
+18 (1) 'Agency' means any state department, agency, division, board, bureau, commission,
+19 authority, entity, or instrumentality, excluding the Board of Regents of the University
+20 System of Georgia and any institution of the University System of Georgia.
+21 (2) 'Director' means the Chief Information Officer and Executive Director of the Georgia
+22 Technology Authority established pursuant to Code Section 50-25-1.
+23 (3) 'Government service delivery' means any action by an agency related to providing
+24 a benefit or service to a state resident, business, or organization, including, but not limited
+25 to, actions of any independent contractor or nonprofit organization acting on behalf of
+26 such agency.
+27 (4) 'Government service delivery channel' means the method of an interaction or
+28 transaction with an agency, including, but not limited to, in-person, through the mail,
+29 through a digital service, by telephone, through a contact center, on a website, through
+30 outreach and communication, or through collaboration with a third party.
+31 (5) 'High-impact service program' means any agency program identified by the director
+32 due to the scale and impact of the public-facing services of such program.
+33 (b) Not later than 180 days after the effective date of this Code section, the director shall
+34 appoint a State of Georgia Government Service Delivery Lead within the Georgia
+35 Technology Authority to coordinate government-wide efforts aimed at improving
+36 government service delivery by agencies. Such individual shall have and may exercise the
+37 following powers and duties:
+38 (1) Facilitate and coordinate government-wide efforts to improve government service
+39 delivery provided by agencies, particularly with respect to high-impact service programs;
+40 (2) Carry out duties and powers prescribed by the director;
+41 (3) Serve as the lead, government-wide official responsible for supporting government
+42 service delivery;
+S. B. 46
+- 2 -
+
+25 LC 60 0040
+43 (4) In consultation with each lead agency service delivery official, appointed pursuant
+44 to Code Section 50-1-15, and any other agency stakeholder as appropriate, develop and
+45 oversee the implementation of government-wide government service delivery standards,
+46 policies, and guidelines for benefits and services provided by agencies, including, but not
+47 limited to, standards, policies, and guidelines to:
+48 (A) Understand the needs of an individual, business, or organization interacting with
+49 an agency;
+50 (B) Solicit and consider voluntary feedback on the government service delivery by the
+51 agency;
+52 (C) Assess government service delivery processes;
+53 (D) Evaluate the factors of ease, efficiency, transparency, accessibility, fairness,
+54 burden, and duration, including, but not limited to, wait and processing times, with
+55 respect to government service delivery; and
+56 (E) Encourage the adoption of commercial products and services to measure and
+57 ensure holistic government service delivery channels and customer service satisfaction
+58 and customer experience;
+59 (5) Collect and report qualitative and quantitative information or data on government
+60 service delivery through existing reporting mechanisms;
+61 (6) Evaluate the quality of government service delivery, including through the
+62 establishment of performance metrics developed using the standards, policies, and
+63 guidelines established pursuant to paragraph (4) of this subsection and the information
+64 or data collected and reported pursuant to paragraph (5) of this subsection;
+65 (7) Engage with service design and delivery experts to identify leading practices that
+66 would improve government service delivery across and within agencies;
+67 (8) Advise the director concerning the improvement of government service delivery
+68 provided by agencies; and
+S. B. 46
+- 3 -
+
+25 LC 60 0040
+69 (9) Coordinate with Georgia Technology Authority stakeholders and other executive
+70 agency stakeholders as appropriate on government service delivery.
+71 50-1-15.
+72 (a) As used in this Code section, the term:
+73 (1) 'Agency' shall have the same meaning as set forth in Code Section 50-1-14.
+74 (2) 'Government service delivery' shall have the same meaning as set forth in Code
+75 Section 50-1-14.
+76 (3) 'State of Georgia Government Service Delivery Lead' means the individual appointed
+77 pursuant to subsection (b) of Code Section 50-1-14.
+78 (b) The head of each agency shall be responsible for the government service delivery of
+79 such agency, which shall, at a minimum, include improving and enhancing government
+80 delivery services to better achieve the mission of the agency and build and maintain trust,
+81 transparency, and accountability.
+82 (c) Not later than 180 days after the effective date of this Code section, the head of each
+83 agency shall appoint a lead agency service delivery official to implement the purposes of
+84 this Code section. Such individual may be the deputy head of the agency and shall have
+85 and may exercise the following powers and duties:
+86 (1) Report directly to the head or deputy head of the agency, as appropriate;
+87 (2) Implement government service delivery improvements within the agency,
+88 particularly for high-impact service programs;
+89 (3) Coordinate and execute, as appropriate, under the direction of the head of the agency,
+90 and in collaboration with relevant agency stakeholders as appropriate, efforts to improve
+91 and enhance the government service delivery and government service delivery channels
+92 of the agency;
+93 (4) At the direction of the State of Georgia Government Service Delivery Lead, submit
+94 a 12 month plan for improving government service delivery of the agency;
+S. B. 46
+- 4 -
+
+25 LC 60 0040
+95 (5) Coordinate the collection and reporting of the data and information as necessary to
+96 improve government service delivery;
+97 (6) Facilitate collaboration among and between offices, components within the agency,
+98 and other agencies as appropriate, in coordination with the State of Georgia Government
+99 Service Delivery Lead, to improve and enhance government-wide government service
+100 delivery; and
+101 (7) Assist with incorporating the government service delivery requirements established
+102 under this Code section in agency plans, including, but not limited to, strategic plans or
+103 annual performance plans.
+104 50-1-16.
+105 (a) As used in this Code section, the term:
+106 (1) 'Agency' shall have the same meaning as set forth in Code Section 50-1-14.
+107 (2) 'Director' shall have the same meaning as set forth in Code Section 50-1-14.
+108 (3) 'Government service delivery' shall have the same meaning as set forth in Code
+109 Section 50-1-14.
+110 (b) Beginning in 2026, not later than 90 days prior to the beginning of the General
+111 Assembly's next regular legislative session, the director shall submit to the Governor, the
+112 Lieutenant Governor, and the Speaker of the House of Representatives an annual report on
+113 current and future government-wide efforts to improve government service delivery by
+114 agencies."
+115 SECTION 3.
+116 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 46
+- 5 -
+
+[DELETED: 5L 1 o T 5 o t O C o G A r t g]
+[DELETED: 5L  ' s d c m t m o a i o a S o G G S D L w t G A t c g e a a i]
+[DELETED: 5L  E t f o e e t a f  E t q o g s d i t t o p m d u t s p a]
+[DELETED: 5L  I g s d i w t a]
+[DELETED: 5L]

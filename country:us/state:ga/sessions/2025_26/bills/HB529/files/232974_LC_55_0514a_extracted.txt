@@ -1,0 +1,611 @@
+Title: House Bill 529
+Official Title: House Bill 529
+Number of Sections: 1
+Source: versions - LC 55 0514/a
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0514
+By: Representatives Barrett of the 24th, Efstration of the 104th, Holcomb of the 101st, Gaines
+of the 120th, Camp of the 135th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 13 of the Official Code of Georgia Annotated, relating to contracts, so as to
+2 provide consumers with the option of having service contracts that contain automatic renewal
+3 provisions terminate after their specified period rather than being subject to the automatic
+4 renewal provision; to provide requirements relating to the exercise of such option; to revise
+5 the application of notice and disclosure requirements relating to automatic renewals in
+6 service contracts; to amend Title 10 of the Official Code of Georgia Annotated, relating to
+7 commerce and trade, so as to revise the application of requirements relating to online
+8 automatic renewals and continuous service offers; to provide for construction; to provide for
+9 definitions; to provide for related matters; to provide for an effective date and applicability;
+10 to repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 PART I
+13 SECTION 1-1.
+14 Title 13 of the Official Code of Georgia Annotated, relating to contracts, is amended by
+15 revising Chapter 12, relating to automatic renewal provisions, as follows:
+H. B. 529
+- 1 -
+25 LC 55 0514
+16 "CHAPTER 12
+17 13-12-1.
+18 As used in this chapter, the term:
+19 (1) 'Automatic renewal provision' means a provision under which a service contract is
+20 renewed for a specified period of one month or more than one month if the renewal
+21 causes the service contract to be in effect more than six months after the day of the
+22 initiation of the service contract. Such renewal is effective unless the consumer gives
+23 notice to the seller of the consumer's intention to terminate the service contract.
+24 (2) 'Consumer' means a natural person or a nonprofit organization exempt from taxation
+25 under Section 501(c)(3) of the Internal Revenue Code of 1986 receiving service,
+26 maintenance, or repair benefits under a service contract. Such The term does not include
+27 a natural person engaged in business or employed by or otherwise acting on behalf of a
+28 governmental entity if the person enters into the service contract as part of or ancillary
+29 to the person's business activities or on behalf of the business or governmental entity.
+30 (3) 'Seller' means any person, firm, partnership, association, or corporation engaged in
+31 commerce that sells, leases, or offers to sell or lease any service to a consumer pursuant
+32 to a service contract.
+33 (4) 'Service contract' means a written contract for the performance of services for a
+34 specified period of time.
+35 13-12-2.
+36 (a) No Any seller that sells, leases, or offers to sell or lease any service to a consumer
+37 pursuant to shall enter into a service contract with a consumer that has an automatic
+38 renewal provision unless such seller first:
+39 (1) Discloses shall disclose the automatic renewal provision clearly and conspicuously
+40 in the contract or contract offer; and
+H. B. 529
+- 2 -
+25 LC 55 0514
+41 (2) Gives such consumer the option of having the service contract terminate after its
+42 specified period rather than being subject to the automatic renewal provision.
+43 (b) Any option to have a service contract terminate after its specified period rather than
+44 being subject to an automatic renewal provision given by a seller pursuant to paragraph (2)
+45 of subsection (a) of this Code section that is exercised by a consumer shall, at the seller's
+46 sole cost and expense, be incorporated into the service contract or otherwise memorialized
+47 in a writing that is signed by both the seller and consumer and shall render any automatic
+48 renewal provision in the service contract void and unenforceable.
+49 13-12-3.
+50 (a) Any seller that sells, leases, or offers to sell or lease any service to a consumer pursuant
+51 to a service contract for a specified period of 12 months or more and that automatically
+52 renews for a specified period of one month or more than one month, unless the consumer
+53 cancels the contract, shall provide the consumer with written or electronic notification of
+54 the automatic renewal provision. Notification shall be provided to the consumer no less
+55 than 30 days or no more than 60 days before the cancellation deadline pursuant to the
+56 automatic renewal provision. Such notification shall disclose clearly and conspicuously:
+57 (1) That unless the consumer cancels the contract, the contract will automatically renew;
+58 and
+59 (2) The methods by which the consumer may obtain details of the automatic renewal
+60 provision and cancellation procedure, including contacting the seller at a specified
+61 telephone number or address, referring to the contract, or any other method.
+62 (b) For any contract for service to a consumer that automatically renews for a specified
+63 period of 24 months or more than 24 months, the seller shall, in addition to providing the
+64 notification required under subsection (a) of this Code section, obtain the following for the
+65 automatic renewal provision of such contract to be enforceable:
+H. B. 529
+- 3 -
+25 LC 55 0514
+66 (1) Written or electronic acknowledgment from the consumer of receipt of the
+67 notification required under subsection (a) of this Code section; and
+68 (2) An affirmative written or electronic response that the consumer does not intend to
+69 terminate the service contract.
+70 13-12-4.
+71 This chapter shall not apply to:
+72 (1) A financial institution as provided in Chapter 1 or 2 of Title 7 or any depository
+73 institution as defined in 12 U.S.C. Section 1813(c)(2);
+74 (2) A foreign bank maintaining a branch or agency licensed under the laws of any state
+75 of the United States;
+76 (3) Any subsidiary or affiliate of an entity provided in paragraph (1) or (2) of this Code
+77 section;
+78 (4) Any electric utility as provided in Chapter 3 of Title 46;
+79 (5) Any entity regulated pursuant to Chapter 45 of Title 43; or
+80 (6) Any county, municipal corporation, authority, or local government or governing
+81 body.
+82 13-12-5.
+83 A violation of any provision of this chapter renders the shall render any automatic renewal
+84 provision of in a service contract void and unenforceable."
+H. B. 529
+- 4 -
+25 LC 55 0514
+85 PART II
+86 SECTION 2-1.
+87 Title 10 of the Official Code of Georgia Annotated, relating to commerce and trade, is
+88 amended by revising Part 8 of Article 15 of Chapter 1, the "Georgia Online Automatic
+89 Renewal Transparency Act," as follows:
+90 "Part 8
+91 10-1-439.5.
+92 This part shall be known and may be cited as the 'Georgia Online Automatic Renewal
+93 Transparency Act.'
+94 10-1-439.6.
+95 (a) The purpose of this part shall be to stop the practice of creating unnecessary barriers
+96 for customers who wish to cancel automatic renewal or continuous service subscriptions
+97 online, particularly when such subscriptions are offered online. It is the intent of the
+98 General Assembly that such practice be swiftly stopped, and this part shall be liberally
+99 construed and applied to promote its underlying purposes and policies.
+100 (b) It is the further intent of the General Assembly that this part be interpreted and
+101 construed consistently with interpretations given by the Federal Trade Commission in the
+102 federal courts pursuant to Section 5(a)(1) of the Federal Trade Commission Act (15 U.S.C.
+103 Section 45(a)(1)), as from time to time amended.
+104 10-1-439.7.
+105 As used in this part, the term:
+H. B. 529
+- 5 -
+25 LC 55 0514
+106 (1) 'Automatic renewal' means a plan or arrangement in which an online paid
+107 subscription or purchasing agreement is automatically renewed at the end of a definite
+108 term of one month or more than 31 days for a subsequent definite term of one month or
+109 more than 31 days.
+110 (2) 'Consumer' means a natural person residing in this state who enters into a transaction
+111 primarily for personal, family, or household purposes.
+112 (3) 'Continuous service' means a plan or arrangement for a paid definite term of one
+113 month or more than 31 days renewing for a subsequent definite term of one month or
+114 more than 31 days in which an online subscription or purchasing agreement continues
+115 until the consumer cancels such service.
+116 (4) 'Offer terms' means the following clear and conspicuous disclosures to the consumer:
+117 (A) The description of the cancellation policy as applicable to the automatic renewal
+118 offer or arrangement;
+119 (B) The recurring charges to be charged to the consumer's credit or debit card or
+120 payment account with a third-party payment account as part of the online automatic
+121 renewal plan or arrangement, and that the amount of such charge may change, and the
+122 amount to which such charge will change, if known;
+123 (C) The length of the automatic renewal term or an indication that the service is
+124 continuous, unless the length of the term is chosen by the consumer; and
+125 (D) The minimum purchase obligation, if any.
+126 10-1-439.8.
+127 (a) Notwithstanding any law to the contrary, any business that allows a consumer to accept
+128 an automatic renewal or continuous service offer online shall allow a consumer to cancel
+129 the automatic renewal or continuous service online. The business shall provide a method
+130 of cancellation that is available online, which may shall include:
+H. B. 529
+- 6 -
+25 LC 55 0514
+131 (1) A clear and conspicuous link to a public website or other online cancellation service;
+132 or and
+133 (2) A cancellation email formatted and provided by the business that a consumer can
+134 send to the business without additional information.
+135 (b) Notwithstanding subsection (a) of this Code section, a business that allows a consumer
+136 to accept an automatic renewal or continuous service offer online may require a consumer
+137 to enter account information or otherwise authenticate their account online before online
+138 cancellation of the automatic renewal or continuous service if the consumer has an account
+139 with the business. A consumer who is unwilling or unable to enter account information or
+140 otherwise authenticate online before online cancellation of the automatic renewal or
+141 continuous service shall not be precluded from cancelling the automatic renewal or
+142 continuous service offline using an alternate method pursuant to subsection (c) of this Code
+143 section.
+144 (c) A business that allows a consumer to accept an automatic renewal or continuous
+145 service offer online shall provide a toll-free telephone number, email address, postal
+146 address if the seller directly bills the consumer, or another cost-effective, timely, and
+147 easy-to-use mechanism for cancellation that shall be described in an acknowledgment that
+148 includes the automatic renewal offer terms or continuous service offer terms, cancellation
+149 policy, and information regarding how to cancel.
+150 (d) The requirements of this Code section apply to the automatic renewal terms and
+151 continuous service terms of the contract entered into online, and the remaining provisions
+152 of the contract shall continue to be governed by all applicable laws and regulations.
+153 10-1-439.9.
+154 (a) It shall be unlawful in this state for any business that allows a consumer to accept an
+155 automatic renewal or continuous service offer online to:
+H. B. 529
+- 7 -
+25 LC 55 0514
+156 (1) Fail to present the automatic renewal offer terms or continuous service offer terms
+157 in a clear and conspicuous manner before the subscription or purchasing agreement is
+158 fulfilled and in visual proximity, or in the case of an offer conveyed by voice, in temporal
+159 proximity, to the request for consumer consent to the offer;
+160 (2) Charge the consumer's credit or debit card, or the consumer's third-party payment
+161 account for an automatic renewal or continuous service without first obtaining the
+162 consumer's consent to the agreement containing such automatic renewal offer terms or
+163 continuous service offer terms;
+164 (3) Fail to provide an acknowledgment that includes the automatic renewal offer terms
+165 or continuous service offer terms. Such acknowledgment may be from the business's own
+166 public website or it may be provided via a link to a separate resource that provides
+167 instructions for unique platforms and services or other means that provide such offer
+168 terms in a manner easily retained by the consumer; or
+169 (4) Fail to provide a consumer with notice pursuant to subsection (b) of this Code
+170 section.
+171 (b) A business that allows a consumer to accept an automatic renewal or continuous
+172 service offer online shall provide the consumer with a notice prior to or within three days
+173 after charging the consumer's credit or debit card or payment account with a third party,
+174 provided that the consumer has not opted out of receiving such notice. Such notice shall
+175 clearly and conspicuously state:
+176 (1) That the automatic renewal or continuous service shall automatically renew unless
+177 it is canceled by the consumer;
+178 (2) The length and any additional terms of the renewal period;
+179 (3) If sent electronically, the notice shall include either a link or another reasonably
+180 accessible electronic method that directs the consumer to the cancellation process; and
+181 (4) Contact information for the business.
+H. B. 529
+- 8 -
+25 LC 55 0514
+182 (c) In the case of a material change in the terms of the online automatic renewal offer or
+183 continuous service offer that has been accepted by a consumer in this state, a business shall
+184 provide the consumer with a clear and conspicuous notice of the material change and shall
+185 provide information to the consumer regarding how to cancel such automatic renewal offer
+186 or continuous service offer in a manner that is easily retained by the consumer.
+187 10-1-439.10.
+188 When a business that allows a consumer to accept an automatic renewal or continuous
+189 service offer online sends any goods, wares, merchandise, or products to a consumer under
+190 an automatic renewal of purchase or a continuous service agreement, without first
+191 obtaining the consumer's consent pursuant to paragraph (2) of subsection (a) of Code
+192 Section 10-1-439.9, such goods, wares, merchandise, or products shall for all purposes be
+193 deemed an unconditional gift to the consumer, who may use or dispose of such goods,
+194 wares, merchandise, and products in any manner he or she sees fit without obligation to the
+195 business, including, but not limited to, bearing the cost of or responsibility for shipping any
+196 goods, wares, merchandise, or products to the business.
+197 10-1-439.11.
+198 The requirements of this part shall apply only prior to the completion of the initial order
+199 for the online automatic renewal or continuous service; provided, however, that an
+200 acknowledgment that includes the automatic renewal offer terms or continuous service
+201 offer terms, cancellation policy, and information regarding how to cancel, and the notice
+202 required pursuant to subsection (b) of Code Section 10-1-439.9 may be fulfilled after the
+203 completion of the initial order.
+204 10-1-439.12.
+205 The following are exempt from the requirements of this part:
+H. B. 529
+- 9 -
+25 LC 55 0514
+206 (1) Any service provided by a business or its affiliate when either the business or its
+207 affiliate is doing business as a franchise issued by a political subdivision of this state;
+208 (2) Any service provided by a business or its affiliate when either the business or its
+209 affiliate is regulated by the Georgia Public Service Commission, the Georgia Department
+210 of Agriculture, the Federal Communications Commission, or the Federal Energy
+211 Regulatory Commission;
+212 (3) Any entity regulated by the Office of Insurance and Safety Fire Commissioner;
+213 (4) Any financial institution as defined in Code Section 7-1-4 or any subsidiary or
+214 affiliate of such institution, or any bank holding company as defined in Code Section
+215 7-1-605; and
+216 (5) Any foreign bank maintaining a branch or agency licensed under federal law or under
+217 the laws of any state of the United States.
+218 10-1-439.13.
+219 (a) The Attorney General shall be authorized to bring an action under this part to obtain
+220 a temporary or permanent injunction prohibiting the use of any method, act, or practice in
+221 violation of this part and to obtain restitution for consumers who are residents of this state
+222 and who incurred a loss of money or property as the direct result of a violation of this part.
+223 (b) If a business that allows a consumer to accept an automatic renewal or continuous
+224 service offer online complies with the provisions of this part in good faith, it shall not be
+225 subject to civil penalty or damages.
+226 (c) There shall be no private right of action for a violation of this part, nor shall a violation
+227 of this part serve as the basis for a private right of action under any other provision of law.
+228 (d) If any provision of this part or its application to any person or circumstance is held
+229 invalid, such invalidity shall not affect other provisions or applications of this part that can
+230 be given effect without the invalid provision or application. To this end, the provisions of
+231 this part are severable.
+H. B. 529
+- 10 -
+25 LC 55 0514
+232 10-1-439.14.
+233 Nothing in this part shall be construed as impairing the application of the provisions of
+234 Chapter 12 of Title 13 to service contracts, as such term is defined in Code Section
+235 13-12-1. To the extent any provision of this part is incompatible, inconsistent, or
+236 otherwise in conflict with the provisions of Chapter 12 of Title 13, the provisions of
+237 Chapter 12 of Title 13 shall supersede any such incompatible, inconsistent, or otherwise
+238 conflicting provisions of this part."
+239 PART III
+240 SECTION 3-1.
+241 This Act shall become effective on July 1, 2025, and shall apply to contracts entered into on
+242 or after such date.
+243 SECTION 3-2.
+244 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 529
+- 11 -
+[DELETED: 5L4,4,1,hths0,5,ht a t s a t r t a o r r t o]
+[DELETED: 5L S 5 o t I R C o 1 r s]
+[DELETED: 5L a c p i c t s a a s]
+[DELETED: 5L  W o e a f t c o r o t]
+[DELETED: 5L]
+[DELETED: 5L  ' r m a p o a i w a o p]
+[DELETED: 5L a o b o c o t a r o s s n b p f c t a r o o]
+[DELETED: 5L f a a r o c s w f o t]
+[DELETED: 5L a r o p o a c s a w f t o a r o c s p h t a]
+[DELETED: 5L A t F C C o t F E]
+[DELETED: 5L  T t e a p o t p i i  i o]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0514
+House Bill 529
+By: Representatives Barrett of the 24th, Efstration of the 104th, Holcomb of the 101st, Gaines
+of the 120th, Camp of the 135th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 13 of the Official Code of Georgia Annotated, relating to contracts, so as to
+2 provide consumers with the option of having service contracts that contain automatic renewal
+3 provisions terminate after their specified period rather than being subject to the automatic
+4 renewal provision; to provide requirements relating to the exercise of such option; to revise
+5 the application of notice and disclosure requirements relating to automatic renewals in
+6 service contracts; to amend Title 10 of the Official Code of Georgia Annotated, relating to
+7 commerce and trade, so as to revise the application of requirements relating to online
+8 automatic renewals and continuous service offers; to provide for construction; to provide for
+9 definitions; to provide for related matters; to provide for an effective date and applicability;
+10 to repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 PART I
+13 SECTION 1-1.
+14 Title 13 of the Official Code of Georgia Annotated, relating to contracts, is amended by
+15 revising Chapter 12, relating to automatic renewal provisions, as follows:
+H. B. 529
+- 1 -
+
+25 LC 55 0514
+16 "CHAPTER 12
+17 13-12-1.
+18 As used in this chapter, the term:
+19 (1) 'Automatic renewal provision' means a provision under which a service contract is
+20 renewed for a specified period of one month or more than one month if the renewal
+21 causes the service contract to be in effect more than six months after the day of the
+22 initiation of the service contract. Such renewal is effective unless the consumer gives
+23 notice to the seller of the consumer's intention to terminate the service contract.
+24 (2) 'Consumer' means a natural person or a nonprofit organization exempt from taxation
+25 under Section 501(c)(3) of the Internal Revenue Code of 1986 receiving service,
+26 maintenance, or repair benefits under a service contract. Such The term does not include
+27 a natural person engaged in business or employed by or otherwise acting on behalf of a
+28 governmental entity if the person enters into the service contract as part of or ancillary
+29 to the person's business activities or on behalf of the business or governmental entity.
+30 (3) 'Seller' means any person, firm, partnership, association, or corporation engaged in
+31 commerce that sells, leases, or offers to sell or lease any service to a consumer pursuant
+32 to a service contract.
+33 (4) 'Service contract' means a written contract for the performance of services for a
+34 specified period of time.
+35 13-12-2.
+36 (a) No Any seller that sells, leases, or offers to sell or lease any service to a consumer
+37 pursuant to shall enter into a service contract with a consumer that has an automatic
+38 renewal provision unless such seller first:
+39 (1) Discloses shall disclose the automatic renewal provision clearly and conspicuously
+40 in the contract or contract offer; and
+H. B. 529
+- 2 -
+
+25 LC 55 0514
+41 (2) Gives such consumer the option of having the service contract terminate after its
+42 specified period rather than being subject to the automatic renewal provision.
+43 (b) Any option to have a service contract terminate after its specified period rather than
+44 being subject to an automatic renewal provision given by a seller pursuant to paragraph (2)
+45 of subsection (a) of this Code section that is exercised by a consumer shall, at the seller's
+46 sole cost and expense, be incorporated into the service contract or otherwise memorialized
+47 in a writing that is signed by both the seller and consumer and shall render any automatic
+48 renewal provision in the service contract void and unenforceable.
+49 13-12-3.
+50 (a) Any seller that sells, leases, or offers to sell or lease any service to a consumer pursuant
+51 to a service contract for a specified period of 12 months or more and that automatically
+52 renews for a specified period of one month or more than one month, unless the consumer
+53 cancels the contract, shall provide the consumer with written or electronic notification of
+54 the automatic renewal provision. Notification shall be provided to the consumer no less
+55 than 30 days or no more than 60 days before the cancellation deadline pursuant to the
+56 automatic renewal provision. Such notification shall disclose clearly and conspicuously:
+57 (1) That unless the consumer cancels the contract, the contract will automatically renew;
+58 and
+59 (2) The methods by which the consumer may obtain details of the automatic renewal
+60 provision and cancellation procedure, including contacting the seller at a specified
+61 telephone number or address, referring to the contract, or any other method.
+62 (b) For any contract for service to a consumer that automatically renews for a specified
+63 period of 24 months or more than 24 months, the seller shall, in addition to providing the
+64 notification required under subsection (a) of this Code section, obtain the following for the
+65 automatic renewal provision of such contract to be enforceable:
+H. B. 529
+- 3 -
+
+25 LC 55 0514
+66 (1) Written or electronic acknowledgment from the consumer of receipt of the
+67 notification required under subsection (a) of this Code section; and
+68 (2) An affirmative written or electronic response that the consumer does not intend to
+69 terminate the service contract.
+70 13-12-4.
+71 This chapter shall not apply to:
+72 (1) A financial institution as provided in Chapter 1 or 2 of Title 7 or any depository
+73 institution as defined in 12 U.S.C. Section 1813(c)(2);
+74 (2) A foreign bank maintaining a branch or agency licensed under the laws of any state
+75 of the United States;
+76 (3) Any subsidiary or affiliate of an entity provided in paragraph (1) or (2) of this Code
+77 section;
+78 (4) Any electric utility as provided in Chapter 3 of Title 46;
+79 (5) Any entity regulated pursuant to Chapter 45 of Title 43; or
+80 (6) Any county, municipal corporation, authority, or local government or governing
+81 body.
+82 13-12-5.
+83 A violation of any provision of this chapter renders the shall render any automatic renewal
+84 provision of in a service contract void and unenforceable."
+H. B. 529
+- 4 -
+
+25 LC 55 0514
+85 PART II
+86 SECTION 2-1.
+87 Title 10 of the Official Code of Georgia Annotated, relating to commerce and trade, is
+88 amended by revising Part 8 of Article 15 of Chapter 1, the "Georgia Online Automatic
+89 Renewal Transparency Act," as follows:
+90 "Part 8
+91 10-1-439.5.
+92 This part shall be known and may be cited as the 'Georgia Online Automatic Renewal
+93 Transparency Act.'
+94 10-1-439.6.
+95 (a) The purpose of this part shall be to stop the practice of creating unnecessary barriers
+96 for customers who wish to cancel automatic renewal or continuous service subscriptions
+97 online, particularly when such subscriptions are offered online. It is the intent of the
+98 General Assembly that such practice be swiftly stopped, and this part shall be liberally
+99 construed and applied to promote its underlying purposes and policies.
+100 (b) It is the further intent of the General Assembly that this part be interpreted and
+101 construed consistently with interpretations given by the Federal Trade Commission in the
+102 federal courts pursuant to Section 5(a)(1) of the Federal Trade Commission Act (15 U.S.C.
+103 Section 45(a)(1)), as from time to time amended.
+104 10-1-439.7.
+105 As used in this part, the term:
+H. B. 529
+- 5 -
+
+25 LC 55 0514
+106 (1) 'Automatic renewal' means a plan or arrangement in which an online paid
+107 subscription or purchasing agreement is automatically renewed at the end of a definite
+108 term of one month or more than 31 days for a subsequent definite term of one month or
+109 more than 31 days.
+110 (2) 'Consumer' means a natural person residing in this state who enters into a transaction
+111 primarily for personal, family, or household purposes.
+112 (3) 'Continuous service' means a plan or arrangement for a paid definite term of one
+113 month or more than 31 days renewing for a subsequent definite term of one month or
+114 more than 31 days in which an online subscription or purchasing agreement continues
+115 until the consumer cancels such service.
+116 (4) 'Offer terms' means the following clear and conspicuous disclosures to the consumer:
+117 (A) The description of the cancellation policy as applicable to the automatic renewal
+118 offer or arrangement;
+119 (B) The recurring charges to be charged to the consumer's credit or debit card or
+120 payment account with a third-party payment account as part of the online automatic
+121 renewal plan or arrangement, and that the amount of such charge may change, and the
+122 amount to which such charge will change, if known;
+123 (C) The length of the automatic renewal term or an indication that the service is
+124 continuous, unless the length of the term is chosen by the consumer; and
+125 (D) The minimum purchase obligation, if any.
+126 10-1-439.8.
+127 (a) Notwithstanding any law to the contrary, any business that allows a consumer to accept
+128 an automatic renewal or continuous service offer online shall allow a consumer to cancel
+129 the automatic renewal or continuous service online. The business shall provide a method
+130 of cancellation that is available online, which may shall include:
+H. B. 529
+- 6 -
+
+25 LC 55 0514
+131 (1) A clear and conspicuous link to a public website or other online cancellation service;
+132 or and
+133 (2) A cancellation email formatted and provided by the business that a consumer can
+134 send to the business without additional information.
+135 (b) Notwithstanding subsection (a) of this Code section, a business that allows a consumer
+136 to accept an automatic renewal or continuous service offer online may require a consumer
+137 to enter account information or otherwise authenticate their account online before online
+138 cancellation of the automatic renewal or continuous service if the consumer has an account
+139 with the business. A consumer who is unwilling or unable to enter account information or
+140 otherwise authenticate online before online cancellation of the automatic renewal or
+141 continuous service shall not be precluded from cancelling the automatic renewal or
+142 continuous service offline using an alternate method pursuant to subsection (c) of this Code
+143 section.
+144 (c) A business that allows a consumer to accept an automatic renewal or continuous
+145 service offer online shall provide a toll-free telephone number, email address, postal
+146 address if the seller directly bills the consumer, or another cost-effective, timely, and
+147 easy-to-use mechanism for cancellation that shall be described in an acknowledgment that
+148 includes the automatic renewal offer terms or continuous service offer terms, cancellation
+149 policy, and information regarding how to cancel.
+150 (d) The requirements of this Code section apply to the automatic renewal terms and
+151 continuous service terms of the contract entered into online, and the remaining provisions
+152 of the contract shall continue to be governed by all applicable laws and regulations.
+153 10-1-439.9.
+154 (a) It shall be unlawful in this state for any business that allows a consumer to accept an
+155 automatic renewal or continuous service offer online to:
+H. B. 529
+- 7 -
+
+25 LC 55 0514
+156 (1) Fail to present the automatic renewal offer terms or continuous service offer terms
+157 in a clear and conspicuous manner before the subscription or purchasing agreement is
+158 fulfilled and in visual proximity, or in the case of an offer conveyed by voice, in temporal
+159 proximity, to the request for consumer consent to the offer;
+160 (2) Charge the consumer's credit or debit card, or the consumer's third-party payment
+161 account for an automatic renewal or continuous service without first obtaining the
+162 consumer's consent to the agreement containing such automatic renewal offer terms or
+163 continuous service offer terms;
+164 (3) Fail to provide an acknowledgment that includes the automatic renewal offer terms
+165 or continuous service offer terms. Such acknowledgment may be from the business's own
+166 public website or it may be provided via a link to a separate resource that provides
+167 instructions for unique platforms and services or other means that provide such offer
+168 terms in a manner easily retained by the consumer; or
+169 (4) Fail to provide a consumer with notice pursuant to subsection (b) of this Code
+170 section.
+171 (b) A business that allows a consumer to accept an automatic renewal or continuous
+172 service offer online shall provide the consumer with a notice prior to or within three days
+173 after charging the consumer's credit or debit card or payment account with a third party,
+174 provided that the consumer has not opted out of receiving such notice. Such notice shall
+175 clearly and conspicuously state:
+176 (1) That the automatic renewal or continuous service shall automatically renew unless
+177 it is canceled by the consumer;
+178 (2) The length and any additional terms of the renewal period;
+179 (3) If sent electronically, the notice shall include either a link or another reasonably
+180 accessible electronic method that directs the consumer to the cancellation process; and
+181 (4) Contact information for the business.
+H. B. 529
+- 8 -
+
+25 LC 55 0514
+182 (c) In the case of a material change in the terms of the online automatic renewal offer or
+183 continuous service offer that has been accepted by a consumer in this state, a business shall
+184 provide the consumer with a clear and conspicuous notice of the material change and shall
+185 provide information to the consumer regarding how to cancel such automatic renewal offer
+186 or continuous service offer in a manner that is easily retained by the consumer.
+187 10-1-439.10.
+188 When a business that allows a consumer to accept an automatic renewal or continuous
+189 service offer online sends any goods, wares, merchandise, or products to a consumer under
+190 an automatic renewal of purchase or a continuous service agreement, without first
+191 obtaining the consumer's consent pursuant to paragraph (2) of subsection (a) of Code
+192 Section 10-1-439.9, such goods, wares, merchandise, or products shall for all purposes be
+193 deemed an unconditional gift to the consumer, who may use or dispose of such goods,
+194 wares, merchandise, and products in any manner he or she sees fit without obligation to the
+195 business, including, but not limited to, bearing the cost of or responsibility for shipping any
+196 goods, wares, merchandise, or products to the business.
+197 10-1-439.11.
+198 The requirements of this part shall apply only prior to the completion of the initial order
+199 for the online automatic renewal or continuous service; provided, however, that an
+200 acknowledgment that includes the automatic renewal offer terms or continuous service
+201 offer terms, cancellation policy, and information regarding how to cancel, and the notice
+202 required pursuant to subsection (b) of Code Section 10-1-439.9 may be fulfilled after the
+203 completion of the initial order.
+204 10-1-439.12.
+205 The following are exempt from the requirements of this part:
+H. B. 529
+- 9 -
+
+25 LC 55 0514
+206 (1) Any service provided by a business or its affiliate when either the business or its
+207 affiliate is doing business as a franchise issued by a political subdivision of this state;
+208 (2) Any service provided by a business or its affiliate when either the business or its
+209 affiliate is regulated by the Georgia Public Service Commission, the Georgia Department
+210 of Agriculture, the Federal Communications Commission, or the Federal Energy
+211 Regulatory Commission;
+212 (3) Any entity regulated by the Office of Insurance and Safety Fire Commissioner;
+213 (4) Any financial institution as defined in Code Section 7-1-4 or any subsidiary or
+214 affiliate of such institution, or any bank holding company as defined in Code Section
+215 7-1-605; and
+216 (5) Any foreign bank maintaining a branch or agency licensed under federal law or under
+217 the laws of any state of the United States.
+218 10-1-439.13.
+219 (a) The Attorney General shall be authorized to bring an action under this part to obtain
+220 a temporary or permanent injunction prohibiting the use of any method, act, or practice in
+221 violation of this part and to obtain restitution for consumers who are residents of this state
+222 and who incurred a loss of money or property as the direct result of a violation of this part.
+223 (b) If a business that allows a consumer to accept an automatic renewal or continuous
+224 service offer online complies with the provisions of this part in good faith, it shall not be
+225 subject to civil penalty or damages.
+226 (c) There shall be no private right of action for a violation of this part, nor shall a violation
+227 of this part serve as the basis for a private right of action under any other provision of law.
+228 (d) If any provision of this part or its application to any person or circumstance is held
+229 invalid, such invalidity shall not affect other provisions or applications of this part that can
+230 be given effect without the invalid provision or application. To this end, the provisions of
+231 this part are severable.
+H. B. 529
+- 10 -
+
+25 LC 55 0514
+232 10-1-439.14.
+233 Nothing in this part shall be construed as impairing the application of the provisions of
+234 Chapter 12 of Title 13 to service contracts, as such term is defined in Code Section
+235 13-12-1. To the extent any provision of this part is incompatible, inconsistent, or
+236 otherwise in conflict with the provisions of Chapter 12 of Title 13, the provisions of
+237 Chapter 12 of Title 13 shall supersede any such incompatible, inconsistent, or otherwise
+238 conflicting provisions of this part."
+239 PART III
+240 SECTION 3-1.
+241 This Act shall become effective on July 1, 2025, and shall apply to contracts entered into on
+242 or after such date.
+243 SECTION 3-2.
+244 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 529
+- 11 -
+
+[DELETED: 5L4,4,1,hths0,5,ht a t s a t r t a o r r t o]
+[DELETED: 5L S 5 o t I R C o 1 r s]
+[DELETED: 5L a c p i c t s a a s]
+[DELETED: 5L  W o e a f t c o r o t]
+[DELETED: 5L]
+[DELETED: 5L  ' r m a p o a i w a o p]
+[DELETED: 5L a o b o c o t a r o s s n b p f c t a r o o]
+[DELETED: 5L f a a r o c s w f o t]
+[DELETED: 5L a r o p o a c s a w f t o a r o c s p h t a]
+[DELETED: 5L A t F C C o t F E]
+[DELETED: 5L  T t e a p o t p i i  i o]

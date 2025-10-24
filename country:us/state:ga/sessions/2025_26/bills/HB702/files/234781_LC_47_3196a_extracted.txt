@@ -1,0 +1,637 @@
+Title: House Bill 702
+Official Title: House Bill 702
+Number of Sections: 1
+Source: versions - LC 47 3196/a
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+25 LC 47 3196
+By: Representatives Roberts of the 52nd, Draper of the 90th, Park of the 107th, Tran of the 80th,
+and Campbell of the 35th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to
+2 primaries and elections generally, so as to enact the Representative Democracy Enforcement
+3 Act; to provide procedures related to direct initiative petition and referendum statutory
+4 changes and direct initiative of the people constitutional amendments; to provide a short title;
+5 to provide for constitutional authorization; to provide definitions; to provide for minimum
+6 formatting requirements of direct initiative and referendum petition forms; to establish the
+7 Direct and Initiative Referendum Committee; to provide for membership and duties relating
+8 to approving direct initiative and referendum petitions as to form; to provide requirements
+9 for fiscal notes on certain petitions; to authorize the Secretary of State to review direct
+10 initiative petitions as to form and approve or reject the same; to provide for cure and appeal
+11 procedures from decisions of the secretary; to provide for finalization of direct initiative and
+12 referendum petitions and filing fees; to provide timelines and procedures for the circulation
+13 of direct initiative and referendum petitions for signature; to provide for notice and public
+14 hearings regarding direct initiative and referendum petitions; to provide for the secretary to
+15 determine petitioner eligibility and tally signatures on direct initiative and referendum
+16 petitions; to provide for cure and appeal procedures regarding the same; to provide criminal
+17 penalties for impeding the petitioner eligibility determination process or signature tallying
+18 process or the intimidation or attempted intimidation of persons involved in said processes;
+H. B. 702
+- 1 -
+25 LC 47 3196
+19 to provide for certifying petitions and placing ballot questions on the ballot; to provide that
+20 direct initiative petitions petition sponsors shall be considered campaign committees pursuant
+21 to Chapter 5 of Title 21 of the Official Code of Georgia Annotated; to prohibit the use of
+22 public funds in advocating for or against direct initiative and referendum petitions; to
+23 authorize rule making; to provide for related matters; to provide for a contingent effective
+24 date and automatic repeal; to repeal conflicting laws; and for other purposes.
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+26 SECTION 1.
+27 Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to primaries and
+28 elections generally, is amended by adding a new article to read as follows:
+29 "ARTICLE 16
+30 21-2-700.
+31 (a) This article shall be known and may be cited as the 'Representative Democracy
+32 Enforcement Act.'
+33 (b) This article is enacted pursuant to the direction and authority provided to the General
+34 Assembly by Article III, Section XI, Paragraph III and Article X, Section I, Paragraph III
+35 of the Constitution, and the provisions in this article shall apply to both direct initiative and
+36 referendum processes unless specifically provided otherwise.
+37 21-2-701.
+38 As used in this article, unless the context otherwise indicates, the term:
+39 (1) 'Business entity' shall have the same meaning as provided for in Code Section 21-5-3.
+H. B. 702
+- 2 -
+25 LC 47 3196
+40 (2) 'Campaign committee' shall have the same meaning as provided for in Code
+41 Section 21-5-3.
+42 (3) 'Candidate' shall have the same meaning as provided for in Code Section 21-5-3.
+43 (4) 'Circulator' means a person who solicits other people to sign a petition under the
+44 direction of the petition sponsor.
+45 (5) 'Direct initiative process' means the process and procedures outlined in this article,
+46 Article III, Section XI, Paragraph III, and Article X, Section I, Paragraph III of the
+47 Constitution to bring about a vote by electors for a proposed statutory change or
+48 constitutional amendment.
+49 (6) 'Nonprofit organization' shall have the same meaning as provided for in Code
+50 Section 21-5-3.
+51 (7) 'Petition' means a petition made pursuant to either Article III, Section XI,
+52 Paragraph III or Article X, Section I, Paragraph III of the Constitution to obtain
+53 signatures in support of putting a question on the ballot to either enact, repeal, or amend
+54 statutes of general law or to amend the Constitution.
+55 (8) 'Petition sponsor' means the person or entity who speaks on behalf of the petition
+56 effort and who has ultimate responsibility and decision making authority for the creation
+57 and circulation of a petition by circulators.
+58 (9) 'Petitioner' means a person who provides his or her personal information, including
+59 signature, on a petition.
+60 (10) 'Political action committee' shall have the same meaning as provided for in Code
+61 Section 21-5-3.
+62 (11) 'Referendum process' means the process and procedures outlined in this article and
+63 Article II, Section IX, Paragraph III of the Constitution to bring about a vote by electors
+64 to enact, amend, or repeal a statute.
+65 (12) 'Secretary' means the Secretary of State.
+H. B. 702
+- 3 -
+25 LC 47 3196
+66 21-2-702.
+67 In addition to any information required by the Constitution, all petitions shall contain the
+68 following information:
+69 (1) The title of the proposed statutory change or constitutional amendment;
+70 (2) A summary of the proposed statutory change or constitutional amendment;
+71 (3) The full text of the proposed statutory change or constitutional amendment;
+72 (4) Space for a petitioner to:
+73 (A) Print his or her name;
+74 (B) Sign his or her name; and
+75 (C) Provide requested personally identifying information sufficient to show he or she
+76 is a registered voter;
+77 (5) Space for a circulator to include his or her name and affirm the date and location that
+78 the signatures on such petition were collected, and that the circulator observed petitioners
+79 sign the petition in person;
+80 (6) The identity of the petition sponsor; and
+81 (7) A statement detailing any and all business entities, campaign committees, candidates,
+82 nonprofit organizations, or political action committees, other than the petition sponsor,
+83 that are providing financial or other material support for the direct initiative or
+84 referendum process.
+85 21-2-703.
+86 (a) Circulators must be with a petitioner in person at the time a petitioner provides his or
+87 her information and signature upon a petition.
+88 (b) Pursuant to petition approval as provided for in Code Section 21-2-704, a petition may
+89 be in a paper or digital format, and digital signatures shall be permissible.
+H. B. 702
+- 4 -
+25 LC 47 3196
+90 21-2-704.
+91 (a) There is hereby created the Direct Initiative and Referendum Committee, which shall
+92 be composed of:
+93 (1) Three Senators selected by the President Pro Tempore of the Senate;
+94 (2) Three Representatives selected by the Speaker of the House of Representatives;
+95 (3) Three Senators selected by the minority leader of the Senate; and
+96 (4) Three Representatives selected by the minority leader of the House of
+97 Representatives.
+98 (b) Before a petition may be finalized and circulated, such petition shall be approved as
+99 to form as provided for in this Code section. A proposed petition submitted by a petition
+100 sponsor to the committee shall contain the tentative proposed title and summary of the
+101 proposed statutory change or constitutional amendment. Such proposal shall also include
+102 the full text of the proposed statutory change or constitutional amendment.
+103 (c) The Direct Initiative and Referendum Committee may make nonbinding suggestions
+104 to a petition sponsor to improve the format or content of the proposed title or summary
+105 contained in the petition if the committee finds that such improvements would benefit
+106 electors in understanding the petition.
+107 (d)(1) Any tentative petition proposing a statutory change having a significant impact on
+108 the anticipated revenue or expenditure level of any state department, bureau, board,
+109 council, committee, commission, or other state agency shall have a fiscal note prepared
+110 pursuant to Code Section 28-5-42 prior to the approval of such petition as to form. The
+111 Direct Initiative and Referendum Committee shall be authorized to request a fiscal note
+112 from the Office of Planning and Budget and the Department of Audits and Accounts, and
+113 the committee shall provide copies of such fiscal note to the petition sponsor upon
+114 receiving them from such office and department.
+115 (2) Any fiscal notes or suggested changes a petition sponsor receives from the Direct
+116 Initiative and Referendum Committee shall be made available, by such petition sponsor,
+H. B. 702
+- 5 -
+25 LC 47 3196
+117 to the public; provided, however, that nothing in this Code section shall be interpreted so
+118 as to make any documents in the possession or control of the Direct Initiative and
+119 Referendum Committee or its members subject to disclosure pursuant to Article 4 of
+120 Chapter 18 of Title 50.
+121 (e) In the event that the Direct Initiative and Referendum Committee approves a proposed
+122 petition as to form, the committee shall promptly inform the petition sponsor and the
+123 secretary of such approval.
+124 (f)(1) In the event that the Direct Initiative and Referendum Committee determines that
+125 it cannot approve a proposed petition as to form, or the committee is equally divided as
+126 to whether or not it can approve a proposed petition as to form, the proposed petition
+127 shall be transmitted to the secretary for a final determination as to approving the proposed
+128 petition as to form.
+129 (2) The secretary shall have 30 days to make a final determination as to whether or not
+130 the proposed petition shall be approved as to form. If the secretary determines that the
+131 proposed petition cannot be approved as to form, he or she shall provide the petition
+132 sponsor with the opportunity to cure defects identified by the secretary as preventing the
+133 approval of the proposed petition as to form. If the petition sponsor fails to cure such
+134 defects within 45 days of being informed of the same by the secretary, the secretary shall
+135 reject the proposed petition as to form.
+136 (3) The decision of the secretary rejecting a proposed petition as to form may be
+137 reviewed by the Superior Court of Fulton County upon an application for a writ of
+138 mandamus to compel the approval of such petition as to form. The application for such
+139 writ of mandamus shall be made within 30 days of the time when the petitioner is notified
+140 of the secretary's decision. Upon the application being made, a judge of such court shall
+141 fix a time and place for hearing the matter in dispute as soon as practicable; and notice
+142 thereof shall be served with a copy of such application upon the secretary and upon the
+143 petitioner. At the time so fixed the court, or any judge thereof assigned for the purpose,
+H. B. 702
+- 6 -
+25 LC 47 3196
+144 shall hear the case. If after such hearing the said court shall find that the decision of the
+145 secretary was erroneous, it shall issue its mandate to the secretary to correct his or her
+146 decision and to approve the proposed petition as to form. From any decision of the
+147 superior court an appeal may be taken within five days after the entry thereof.
+148 21-2-705.
+149 Upon a proposed petition being approved as to form, as provided for in Code
+150 Section 21-2-704, the petition sponsor shall submit the approved petition to the secretary
+151 accompanied with a filing fee of $1,000.00. Upon receiving such petition and fee, the
+152 secretary shall issue official direct initiative or referendum petition forms, either on paper
+153 or digitally, as contemplated under the approval process pursuant to Code
+154 Section 21-2-704, assign a number to the direct initiative or referendum petition, which
+155 number shall appear on the face of each petition form, and issue that number to the petition
+156 sponsor.
+157 21-2-706.
+158 (a) As of the date the secretary provides the petition sponsor with official direct initiative
+159 or referendum petition forms, the petition sponsor shall have one year to collect the
+160 constitutionally required number of signatures upon such petition. If a direct initiative or
+161 referendum petition is not returned to the secretary within such year, such petition and all
+162 signatures upon it shall be automatically invalidated.
+163 (b) All circulators shall be registered Georgia electors, with no history of misdemeanor
+164 crimes related to fraud and no felony criminal history of any kind.
+165 (c) Circulators may be paid, but shall not be paid on a per signature basis by the petition
+166 sponsor or any other person or entity.
+167 (d) Each official direct initiative or referendum petition form shall contain a space for the
+168 circulator circulating such form to attest under oath that he or she witnessed the collection
+H. B. 702
+- 7 -
+25 LC 47 3196
+169 of each signature upon such form, and to the best of the circulator's knowledge, all
+170 signatures upon such form are valid.
+171 21-2-707.
+172 (a) Within 15 days of the secretary providing the petition sponsor with official direct
+173 initiative or referendum petition forms, the secretary shall mail to each household with a
+174 registered elector residing at such address a copy of the title and summary of the proposed
+175 statutory change or constitutional amendment. Such notice shall also provide that a copy
+176 of the full text of the proposed statutory change or constitutional amendment is available
+177 for review on the secretary's website.
+178 (b) Within 30 days of the petition sponsor obtaining 50 percent of the required number of
+179 signatures upon a direct initiative or referendum petition, the petition sponsor shall
+180 schedule public hearings on the proposed statutory change or constitutional amendment.
+181 At least one such hearing shall be held within each congressional district. Each such public
+182 hearing shall provide at least two hours of public comment on the proposed statutory
+183 change or constitutional amendment. The petition sponsor shall publish notice of the time,
+184 date, and location of each such public hearing in the legal organ of each county of the state.
+185 Notice of the time, date, and location of each public hearing shall also be posted on the
+186 secretary's website.
+187 21-2-708.
+188 (a) Upon the petition sponsor collecting the sufficient number of signatures upon the direct
+189 initiative or referendum petition, the petition sponsor shall submit all official direct
+190 initiative or referendum petition forms to the secretary.
+191 (b) The secretary shall begin a verification of petitioner eligibility as soon as he or she
+192 receives the signed official direct initiative or referendum petition forms. The secretary
+H. B. 702
+- 8 -
+25 LC 47 3196
+193 shall complete the verification process within 30 days of receiving the signed official direct
+194 initiative or referendum petition forms.
+195 (c) The verification process shall be open to the public. A person observing the
+196 verification process who impedes the verification process or attempts to intimidate or
+197 actually intimidates any person involved in the verification process shall be guilty of a
+198 felony and, upon conviction thereof, shall be sentenced to imprisonment for not less than
+199 one nor more than ten years or to pay a fine not to exceed $100,000.00, or both.
+200 (d) The secretary shall use the information provided by the petitioner as well as available
+201 public resources sufficient to verify the eligibility of each petitioner; provided, however,
+202 that exact signature matches shall not be used in a validation process.
+203 (e) Upon completing the initial verification process, the secretary shall publish his or her
+204 determination as to the validity of the direct initiative or referendum petition. If the event
+205 that the secretary determines that there are an insufficient number of verified petitioners
+206 to validate the petition, or that petitioner information was not collected in the required
+207 number of congressional districts, the petition sponsor and any petitioner whose
+208 participation was determined to be invalid shall have 30 days to cure such defect. Upon
+209 the close of such cure period, the secretary shall have 15 days to make a final determination
+210 as to the validity of the direct initiative or referendum petition.
+211 (f) If the secretary validates a direct initiative or referendum petition, the secretary shall
+212 certify the total number of valid petitioners appearing on the petition, and shall put the
+213 issue in question to a vote using the ballot questions outlined in the petition. The ballot
+214 question shall appear on the ballot to occur on the date of the next general election at which
+215 members of the General Assembly are to be elected occurring at least 90 days after the date
+216 of such certification.
+217 (g) The decision of the secretary to reject certification of a petition may be reviewed by
+218 the Superior Court of Fulton County upon an application for a writ of mandamus to compel
+219 the approval of such petition as to form. The application for such writ of mandamus shall
+H. B. 702
+- 9 -
+25 LC 47 3196
+220 be made within five days of the time when the petition sponsor is notified of the secretary's
+221 decision. Upon the application being made, a judge of such court shall fix a time and place
+222 for hearing the matter in dispute as soon as practicable, but no later than five days
+223 following the receipt of such application; and notice thereof shall be served with a copy of
+224 such application upon the secretary and upon the petitioner. At the time so fixed the court,
+225 or any judge thereof assigned for the purpose, shall hear the case. If after such hearing the
+226 said court shall find that the decision of the secretary was erroneous, it shall issue its
+227 mandate to the secretary to correct his or her decision and to certify the total number of
+228 valid petitioners appearing on the petition. From any decision of the superior court an
+229 appeal may be taken within five days after the entry thereof.
+230 21-2-709.
+231 A referendum called by the secretary proposing a statutory change or constitutional
+232 amendment pursuant to this article, except as provided for in this article, shall be conducted
+233 in the same manner provided for in this chapter for elections to submit state-wide questions
+234 to the electors.
+235 21-2-710.
+236 Petition sponsors shall be considered campaign committees designed to bring about the
+237 approval or rejection by the voters of any proposed constitutional amendment, state-wide
+238 proposed question, or state-wide referendum pursuant to Chapter 5 of this title, and shall
+239 be subject to all applicable reporting and disclosure requirements provided for in that
+240 chapter.
+H. B. 702
+- 10 -
+25 LC 47 3196
+241 21-2-711.
+242 No public funds shall be expended to advocate for the approval or rejection of a ballot
+243 question proposing a statutory change or constitutional amendment.
+244 21-2-712.
+245 The secretary or the State Election Board may adopt rules for the proper and efficient
+246 administration of procedures related to this article."
+247 SECTION 2.
+248 This Act shall become effective on January 1, 2027, following the ratification of an
+249 amendment to the Constitution of Georgia providing for direct initiative and referendum
+250 petitions to enact, repeal, or amend statutes and for direct initiative petitions of the people
+251 to amend the Constitution; provided, however, that to the extent this Act conflicts with law
+252 in effect at the time of ratification, this Act and such amendment shall control, and to the
+253 extent such law is not in conflict, the law in effect at the time of ratification shall control and
+254 shall remain in full force and effect. If such amendment is not so ratified, then this Act shall
+255 stand automatically repealed.
+256 SECTION 3.
+257 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 702
+- 11 -
+[DELETED: 5L2,0,7,0dththt5 p e a t s o d i a r]
+[DELETED: 5L f i a f o a d i a r p t]
+[DELETED: 5L  ' c s h t s m a p f i C t b a a v b e f a p s c o  ' o s h t s m a p f i C  ' m a p m p t e A I S X I o A X S I P I o t C t o]
+[DELETED: 5L a p f o o m s f t d i o]
+[DELETED: 5L  T R s b t m l o t H o]
+[DELETED: 5L  T d o t s r a p p a t f m b]
+[DELETED: 5L a p p b a a t f a p f i C d a c u t a p p t C r p f t p s s h o y t c t]
+[DELETED: 5L e s u s f a t t b o t c k a u a d i o r p t p s s o r p t p s s s a o d]
+[DELETED: 5L  T v p s b o t t p  A p o t o c d t p s a a p w]
+[DELETED: 5L h t m i d a s a p b n l t f d r c b t s p a s c o c]
+[DELETED: 5L A s b e o J 1 2 f t r o a]
+
+
+================================================================================
+
+Raw Text:
+25 LC 47 3196
+House Bill 702
+By: Representatives Roberts of the 52nd, Draper of the 90th, Park of the 107th, Tran of the 80th,
+and Campbell of the 35th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to
+2 primaries and elections generally, so as to enact the Representative Democracy Enforcement
+3 Act; to provide procedures related to direct initiative petition and referendum statutory
+4 changes and direct initiative of the people constitutional amendments; to provide a short title;
+5 to provide for constitutional authorization; to provide definitions; to provide for minimum
+6 formatting requirements of direct initiative and referendum petition forms; to establish the
+7 Direct and Initiative Referendum Committee; to provide for membership and duties relating
+8 to approving direct initiative and referendum petitions as to form; to provide requirements
+9 for fiscal notes on certain petitions; to authorize the Secretary of State to review direct
+10 initiative petitions as to form and approve or reject the same; to provide for cure and appeal
+11 procedures from decisions of the secretary; to provide for finalization of direct initiative and
+12 referendum petitions and filing fees; to provide timelines and procedures for the circulation
+13 of direct initiative and referendum petitions for signature; to provide for notice and public
+14 hearings regarding direct initiative and referendum petitions; to provide for the secretary to
+15 determine petitioner eligibility and tally signatures on direct initiative and referendum
+16 petitions; to provide for cure and appeal procedures regarding the same; to provide criminal
+17 penalties for impeding the petitioner eligibility determination process or signature tallying
+18 process or the intimidation or attempted intimidation of persons involved in said processes;
+H. B. 702
+- 1 -
+
+25 LC 47 3196
+19 to provide for certifying petitions and placing ballot questions on the ballot; to provide that
+20 direct initiative petitions petition sponsors shall be considered campaign committees pursuant
+21 to Chapter 5 of Title 21 of the Official Code of Georgia Annotated; to prohibit the use of
+22 public funds in advocating for or against direct initiative and referendum petitions; to
+23 authorize rule making; to provide for related matters; to provide for a contingent effective
+24 date and automatic repeal; to repeal conflicting laws; and for other purposes.
+25 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+26 SECTION 1.
+27 Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to primaries and
+28 elections generally, is amended by adding a new article to read as follows:
+29 "ARTICLE 16
+30 21-2-700.
+31 (a) This article shall be known and may be cited as the 'Representative Democracy
+32 Enforcement Act.'
+33 (b) This article is enacted pursuant to the direction and authority provided to the General
+34 Assembly by Article III, Section XI, Paragraph III and Article X, Section I, Paragraph III
+35 of the Constitution, and the provisions in this article shall apply to both direct initiative and
+36 referendum processes unless specifically provided otherwise.
+37 21-2-701.
+38 As used in this article, unless the context otherwise indicates, the term:
+39 (1) 'Business entity' shall have the same meaning as provided for in Code Section 21-5-3.
+H. B. 702
+- 2 -
+
+25 LC 47 3196
+40 (2) 'Campaign committee' shall have the same meaning as provided for in Code
+41 Section 21-5-3.
+42 (3) 'Candidate' shall have the same meaning as provided for in Code Section 21-5-3.
+43 (4) 'Circulator' means a person who solicits other people to sign a petition under the
+44 direction of the petition sponsor.
+45 (5) 'Direct initiative process' means the process and procedures outlined in this article,
+46 Article III, Section XI, Paragraph III, and Article X, Section I, Paragraph III of the
+47 Constitution to bring about a vote by electors for a proposed statutory change or
+48 constitutional amendment.
+49 (6) 'Nonprofit organization' shall have the same meaning as provided for in Code
+50 Section 21-5-3.
+51 (7) 'Petition' means a petition made pursuant to either Article III, Section XI,
+52 Paragraph III or Article X, Section I, Paragraph III of the Constitution to obtain
+53 signatures in support of putting a question on the ballot to either enact, repeal, or amend
+54 statutes of general law or to amend the Constitution.
+55 (8) 'Petition sponsor' means the person or entity who speaks on behalf of the petition
+56 effort and who has ultimate responsibility and decision making authority for the creation
+57 and circulation of a petition by circulators.
+58 (9) 'Petitioner' means a person who provides his or her personal information, including
+59 signature, on a petition.
+60 (10) 'Political action committee' shall have the same meaning as provided for in Code
+61 Section 21-5-3.
+62 (11) 'Referendum process' means the process and procedures outlined in this article and
+63 Article II, Section IX, Paragraph III of the Constitution to bring about a vote by electors
+64 to enact, amend, or repeal a statute.
+65 (12) 'Secretary' means the Secretary of State.
+H. B. 702
+- 3 -
+
+25 LC 47 3196
+66 21-2-702.
+67 In addition to any information required by the Constitution, all petitions shall contain the
+68 following information:
+69 (1) The title of the proposed statutory change or constitutional amendment;
+70 (2) A summary of the proposed statutory change or constitutional amendment;
+71 (3) The full text of the proposed statutory change or constitutional amendment;
+72 (4) Space for a petitioner to:
+73 (A) Print his or her name;
+74 (B) Sign his or her name; and
+75 (C) Provide requested personally identifying information sufficient to show he or she
+76 is a registered voter;
+77 (5) Space for a circulator to include his or her name and affirm the date and location that
+78 the signatures on such petition were collected, and that the circulator observed petitioners
+79 sign the petition in person;
+80 (6) The identity of the petition sponsor; and
+81 (7) A statement detailing any and all business entities, campaign committees, candidates,
+82 nonprofit organizations, or political action committees, other than the petition sponsor,
+83 that are providing financial or other material support for the direct initiative or
+84 referendum process.
+85 21-2-703.
+86 (a) Circulators must be with a petitioner in person at the time a petitioner provides his or
+87 her information and signature upon a petition.
+88 (b) Pursuant to petition approval as provided for in Code Section 21-2-704, a petition may
+89 be in a paper or digital format, and digital signatures shall be permissible.
+H. B. 702
+- 4 -
+
+25 LC 47 3196
+90 21-2-704.
+91 (a) There is hereby created the Direct Initiative and Referendum Committee, which shall
+92 be composed of:
+93 (1) Three Senators selected by the President Pro Tempore of the Senate;
+94 (2) Three Representatives selected by the Speaker of the House of Representatives;
+95 (3) Three Senators selected by the minority leader of the Senate; and
+96 (4) Three Representatives selected by the minority leader of the House of
+97 Representatives.
+98 (b) Before a petition may be finalized and circulated, such petition shall be approved as
+99 to form as provided for in this Code section. A proposed petition submitted by a petition
+100 sponsor to the committee shall contain the tentative proposed title and summary of the
+101 proposed statutory change or constitutional amendment. Such proposal shall also include
+102 the full text of the proposed statutory change or constitutional amendment.
+103 (c) The Direct Initiative and Referendum Committee may make nonbinding suggestions
+104 to a petition sponsor to improve the format or content of the proposed title or summary
+105 contained in the petition if the committee finds that such improvements would benefit
+106 electors in understanding the petition.
+107 (d)(1) Any tentative petition proposing a statutory change having a significant impact on
+108 the anticipated revenue or expenditure level of any state department, bureau, board,
+109 council, committee, commission, or other state agency shall have a fiscal note prepared
+110 pursuant to Code Section 28-5-42 prior to the approval of such petition as to form. The
+111 Direct Initiative and Referendum Committee shall be authorized to request a fiscal note
+112 from the Office of Planning and Budget and the Department of Audits and Accounts, and
+113 the committee shall provide copies of such fiscal note to the petition sponsor upon
+114 receiving them from such office and department.
+115 (2) Any fiscal notes or suggested changes a petition sponsor receives from the Direct
+116 Initiative and Referendum Committee shall be made available, by such petition sponsor,
+H. B. 702
+- 5 -
+
+25 LC 47 3196
+117 to the public; provided, however, that nothing in this Code section shall be interpreted so
+118 as to make any documents in the possession or control of the Direct Initiative and
+119 Referendum Committee or its members subject to disclosure pursuant to Article 4 of
+120 Chapter 18 of Title 50.
+121 (e) In the event that the Direct Initiative and Referendum Committee approves a proposed
+122 petition as to form, the committee shall promptly inform the petition sponsor and the
+123 secretary of such approval.
+124 (f)(1) In the event that the Direct Initiative and Referendum Committee determines that
+125 it cannot approve a proposed petition as to form, or the committee is equally divided as
+126 to whether or not it can approve a proposed petition as to form, the proposed petition
+127 shall be transmitted to the secretary for a final determination as to approving the proposed
+128 petition as to form.
+129 (2) The secretary shall have 30 days to make a final determination as to whether or not
+130 the proposed petition shall be approved as to form. If the secretary determines that the
+131 proposed petition cannot be approved as to form, he or she shall provide the petition
+132 sponsor with the opportunity to cure defects identified by the secretary as preventing the
+133 approval of the proposed petition as to form. If the petition sponsor fails to cure such
+134 defects within 45 days of being informed of the same by the secretary, the secretary shall
+135 reject the proposed petition as to form.
+136 (3) The decision of the secretary rejecting a proposed petition as to form may be
+137 reviewed by the Superior Court of Fulton County upon an application for a writ of
+138 mandamus to compel the approval of such petition as to form. The application for such
+139 writ of mandamus shall be made within 30 days of the time when the petitioner is notified
+140 of the secretary's decision. Upon the application being made, a judge of such court shall
+141 fix a time and place for hearing the matter in dispute as soon as practicable; and notice
+142 thereof shall be served with a copy of such application upon the secretary and upon the
+143 petitioner. At the time so fixed the court, or any judge thereof assigned for the purpose,
+H. B. 702
+- 6 -
+
+25 LC 47 3196
+144 shall hear the case. If after such hearing the said court shall find that the decision of the
+145 secretary was erroneous, it shall issue its mandate to the secretary to correct his or her
+146 decision and to approve the proposed petition as to form. From any decision of the
+147 superior court an appeal may be taken within five days after the entry thereof.
+148 21-2-705.
+149 Upon a proposed petition being approved as to form, as provided for in Code
+150 Section 21-2-704, the petition sponsor shall submit the approved petition to the secretary
+151 accompanied with a filing fee of $1,000.00. Upon receiving such petition and fee, the
+152 secretary shall issue official direct initiative or referendum petition forms, either on paper
+153 or digitally, as contemplated under the approval process pursuant to Code
+154 Section 21-2-704, assign a number to the direct initiative or referendum petition, which
+155 number shall appear on the face of each petition form, and issue that number to the petition
+156 sponsor.
+157 21-2-706.
+158 (a) As of the date the secretary provides the petition sponsor with official direct initiative
+159 or referendum petition forms, the petition sponsor shall have one year to collect the
+160 constitutionally required number of signatures upon such petition. If a direct initiative or
+161 referendum petition is not returned to the secretary within such year, such petition and all
+162 signatures upon it shall be automatically invalidated.
+163 (b) All circulators shall be registered Georgia electors, with no history of misdemeanor
+164 crimes related to fraud and no felony criminal history of any kind.
+165 (c) Circulators may be paid, but shall not be paid on a per signature basis by the petition
+166 sponsor or any other person or entity.
+167 (d) Each official direct initiative or referendum petition form shall contain a space for the
+168 circulator circulating such form to attest under oath that he or she witnessed the collection
+H. B. 702
+- 7 -
+
+25 LC 47 3196
+169 of each signature upon such form, and to the best of the circulator's knowledge, all
+170 signatures upon such form are valid.
+171 21-2-707.
+172 (a) Within 15 days of the secretary providing the petition sponsor with official direct
+173 initiative or referendum petition forms, the secretary shall mail to each household with a
+174 registered elector residing at such address a copy of the title and summary of the proposed
+175 statutory change or constitutional amendment. Such notice shall also provide that a copy
+176 of the full text of the proposed statutory change or constitutional amendment is available
+177 for review on the secretary's website.
+178 (b) Within 30 days of the petition sponsor obtaining 50 percent of the required number of
+179 signatures upon a direct initiative or referendum petition, the petition sponsor shall
+180 schedule public hearings on the proposed statutory change or constitutional amendment.
+181 At least one such hearing shall be held within each congressional district. Each such public
+182 hearing shall provide at least two hours of public comment on the proposed statutory
+183 change or constitutional amendment. The petition sponsor shall publish notice of the time,
+184 date, and location of each such public hearing in the legal organ of each county of the state.
+185 Notice of the time, date, and location of each public hearing shall also be posted on the
+186 secretary's website.
+187 21-2-708.
+188 (a) Upon the petition sponsor collecting the sufficient number of signatures upon the direct
+189 initiative or referendum petition, the petition sponsor shall submit all official direct
+190 initiative or referendum petition forms to the secretary.
+191 (b) The secretary shall begin a verification of petitioner eligibility as soon as he or she
+192 receives the signed official direct initiative or referendum petition forms. The secretary
+H. B. 702
+- 8 -
+
+25 LC 47 3196
+193 shall complete the verification process within 30 days of receiving the signed official direct
+194 initiative or referendum petition forms.
+195 (c) The verification process shall be open to the public. A person observing the
+196 verification process who impedes the verification process or attempts to intimidate or
+197 actually intimidates any person involved in the verification process shall be guilty of a
+198 felony and, upon conviction thereof, shall be sentenced to imprisonment for not less than
+199 one nor more than ten years or to pay a fine not to exceed $100,000.00, or both.
+200 (d) The secretary shall use the information provided by the petitioner as well as available
+201 public resources sufficient to verify the eligibility of each petitioner; provided, however,
+202 that exact signature matches shall not be used in a validation process.
+203 (e) Upon completing the initial verification process, the secretary shall publish his or her
+204 determination as to the validity of the direct initiative or referendum petition. If the event
+205 that the secretary determines that there are an insufficient number of verified petitioners
+206 to validate the petition, or that petitioner information was not collected in the required
+207 number of congressional districts, the petition sponsor and any petitioner whose
+208 participation was determined to be invalid shall have 30 days to cure such defect. Upon
+209 the close of such cure period, the secretary shall have 15 days to make a final determination
+210 as to the validity of the direct initiative or referendum petition.
+211 (f) If the secretary validates a direct initiative or referendum petition, the secretary shall
+212 certify the total number of valid petitioners appearing on the petition, and shall put the
+213 issue in question to a vote using the ballot questions outlined in the petition. The ballot
+214 question shall appear on the ballot to occur on the date of the next general election at which
+215 members of the General Assembly are to be elected occurring at least 90 days after the date
+216 of such certification.
+217 (g) The decision of the secretary to reject certification of a petition may be reviewed by
+218 the Superior Court of Fulton County upon an application for a writ of mandamus to compel
+219 the approval of such petition as to form. The application for such writ of mandamus shall
+H. B. 702
+- 9 -
+
+25 LC 47 3196
+220 be made within five days of the time when the petition sponsor is notified of the secretary's
+221 decision. Upon the application being made, a judge of such court shall fix a time and place
+222 for hearing the matter in dispute as soon as practicable, but no later than five days
+223 following the receipt of such application; and notice thereof shall be served with a copy of
+224 such application upon the secretary and upon the petitioner. At the time so fixed the court,
+225 or any judge thereof assigned for the purpose, shall hear the case. If after such hearing the
+226 said court shall find that the decision of the secretary was erroneous, it shall issue its
+227 mandate to the secretary to correct his or her decision and to certify the total number of
+228 valid petitioners appearing on the petition. From any decision of the superior court an
+229 appeal may be taken within five days after the entry thereof.
+230 21-2-709.
+231 A referendum called by the secretary proposing a statutory change or constitutional
+232 amendment pursuant to this article, except as provided for in this article, shall be conducted
+233 in the same manner provided for in this chapter for elections to submit state-wide questions
+234 to the electors.
+235 21-2-710.
+236 Petition sponsors shall be considered campaign committees designed to bring about the
+237 approval or rejection by the voters of any proposed constitutional amendment, state-wide
+238 proposed question, or state-wide referendum pursuant to Chapter 5 of this title, and shall
+239 be subject to all applicable reporting and disclosure requirements provided for in that
+240 chapter.
+H. B. 702
+- 10 -
+
+25 LC 47 3196
+241 21-2-711.
+242 No public funds shall be expended to advocate for the approval or rejection of a ballot
+243 question proposing a statutory change or constitutional amendment.
+244 21-2-712.
+245 The secretary or the State Election Board may adopt rules for the proper and efficient
+246 administration of procedures related to this article."
+247 SECTION 2.
+248 This Act shall become effective on January 1, 2027, following the ratification of an
+249 amendment to the Constitution of Georgia providing for direct initiative and referendum
+250 petitions to enact, repeal, or amend statutes and for direct initiative petitions of the people
+251 to amend the Constitution; provided, however, that to the extent this Act conflicts with law
+252 in effect at the time of ratification, this Act and such amendment shall control, and to the
+253 extent such law is not in conflict, the law in effect at the time of ratification shall control and
+254 shall remain in full force and effect. If such amendment is not so ratified, then this Act shall
+255 stand automatically repealed.
+256 SECTION 3.
+257 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 702
+- 11 -
+
+[DELETED: 5L2,0,7,0dththt5 p e a t s o d i a r]
+[DELETED: 5L f i a f o a d i a r p t]
+[DELETED: 5L  ' c s h t s m a p f i C t b a a v b e f a p s c o  ' o s h t s m a p f i C  ' m a p m p t e A I S X I o A X S I P I o t C t o]
+[DELETED: 5L a p f o o m s f t d i o]
+[DELETED: 5L  T R s b t m l o t H o]
+[DELETED: 5L  T d o t s r a p p a t f m b]
+[DELETED: 5L a p p b a a t f a p f i C d a c u t a p p t C r p f t p s s h o y t c t]
+[DELETED: 5L e s u s f a t t b o t c k a u a d i o r p t p s s o r p t p s s s a o d]
+[DELETED: 5L  T v p s b o t t p  A p o t o c d t p s a a p w]
+[DELETED: 5L h t m i d a s a p b n l t f d r c b t s p a s c o c]
+[DELETED: 5L A s b e o J 1 2 f t r o a]

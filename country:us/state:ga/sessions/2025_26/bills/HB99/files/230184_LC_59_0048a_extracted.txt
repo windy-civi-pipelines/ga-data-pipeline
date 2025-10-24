@@ -1,0 +1,116 @@
+Title: House Bill 99
+Official Title: House Bill 99
+Number of Sections: 1
+Source: versions - LC 59 0048/a
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 59 0048
+By: Representatives Hugley of the 141st, Bennett of the 94th, Buckner of the 137th, Herring
+of the 145th, Clark of the 108th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+2 income taxes, so as to revise a state income tax credit based upon the federal qualified child
+3 and dependent care tax credit; to provide for related matters; to provide for an effective date
+4 and applicability; to repeal conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes,
+8 is amended by revising Code Section 48-7-29.10, relating to tax credits for qualified child
+9 and dependent care tax credits, as follows:
+10 "48-7-29.10.
+11 (a) A taxpayer shall be allowed a credit against the tax imposed by Code Section 48-7-20
+12 for qualified child and dependent care expenses. Such credit shall be determined by
+13 applying a percentage to the amount of the credit provided for in Section 21 of the Internal
+14 Revenue Code which is claimed and allowed pursuant to the Internal Revenue Code. Such
+15 percentage shall be:
+H. B. 99
+- 1 -
+25 LC 59 0048
+16 (1) Ten percent for all taxable years beginning on or after January 1, 2006, and prior to
+17 January 1, 2007;
+18 (2) Twenty percent for all taxable years beginning on or after January 1, 2007, and prior
+19 to January 1, 2008; and
+20 (3) Thirty percent for all taxable years beginning on or after January 1, 2008, and prior
+21 to January 1, 2025; and
+22 (4) One-hundred percent for all taxable years beginning on or after January 1, 2025.
+23 (b) In no event shall the total amount of the tax credit under this Code section for a taxable
+24 year exceed the taxpayer's income tax liability. Any unused tax credit shall not be allowed
+25 to be carried forward to apply to the taxpayer's succeeding years' tax liability. No such tax
+26 credit shall be allowed the taxpayer against prior years' tax liability.
+27 (b.1) Notwithstanding the provisions of subsection (b) of this Code section, for taxable
+28 years beginning on or after January 1, 2025, if the total amount of the tax credit provided
+29 for in this Code section exceeds the taxpayer's income tax liability for a taxable year, such
+30 excess funds shall be refunded to the taxpayer.
+31 (c) The commissioner shall be authorized to promulgate any rules and regulations
+32 necessary to implement and administer this Code section."
+33 SECTION 2.
+34 This Act shall become effective on July 1, 2025, and shall be applicable to all taxable years
+35 beginning on or after January 1, 2025.
+36 SECTION 3.
+37 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 99
+- 2 -
+[DELETED: 5L1,4,7,ttht5,8,ht]
+[DELETED: 5L  T c s b a t p a r a r]
+
+
+================================================================================
+
+Raw Text:
+25 LC 59 0048
+House Bill 99
+By: Representatives Hugley of the 141st, Bennett of the 94th, Buckner of the 137th, Herring
+of the 145th, Clark of the 108th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+2 income taxes, so as to revise a state income tax credit based upon the federal qualified child
+3 and dependent care tax credit; to provide for related matters; to provide for an effective date
+4 and applicability; to repeal conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes,
+8 is amended by revising Code Section 48-7-29.10, relating to tax credits for qualified child
+9 and dependent care tax credits, as follows:
+10 "48-7-29.10.
+11 (a) A taxpayer shall be allowed a credit against the tax imposed by Code Section 48-7-20
+12 for qualified child and dependent care expenses. Such credit shall be determined by
+13 applying a percentage to the amount of the credit provided for in Section 21 of the Internal
+14 Revenue Code which is claimed and allowed pursuant to the Internal Revenue Code. Such
+15 percentage shall be:
+H. B. 99
+- 1 -
+
+25 LC 59 0048
+16 (1) Ten percent for all taxable years beginning on or after January 1, 2006, and prior to
+17 January 1, 2007;
+18 (2) Twenty percent for all taxable years beginning on or after January 1, 2007, and prior
+19 to January 1, 2008; and
+20 (3) Thirty percent for all taxable years beginning on or after January 1, 2008, and prior
+21 to January 1, 2025; and
+22 (4) One-hundred percent for all taxable years beginning on or after January 1, 2025.
+23 (b) In no event shall the total amount of the tax credit under this Code section for a taxable
+24 year exceed the taxpayer's income tax liability. Any unused tax credit shall not be allowed
+25 to be carried forward to apply to the taxpayer's succeeding years' tax liability. No such tax
+26 credit shall be allowed the taxpayer against prior years' tax liability.
+27 (b.1) Notwithstanding the provisions of subsection (b) of this Code section, for taxable
+28 years beginning on or after January 1, 2025, if the total amount of the tax credit provided
+29 for in this Code section exceeds the taxpayer's income tax liability for a taxable year, such
+30 excess funds shall be refunded to the taxpayer.
+31 (c) The commissioner shall be authorized to promulgate any rules and regulations
+32 necessary to implement and administer this Code section."
+33 SECTION 2.
+34 This Act shall become effective on July 1, 2025, and shall be applicable to all taxable years
+35 beginning on or after January 1, 2025.
+36 SECTION 3.
+37 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 99
+- 2 -
+
+[DELETED: 5L1,4,7,ttht5,8,ht]
+[DELETED: 5L  T c s b a t p a r a r]

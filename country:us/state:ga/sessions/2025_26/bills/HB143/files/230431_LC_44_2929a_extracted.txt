@@ -1,0 +1,647 @@
+Title: House Bill 143
+Official Title: House Bill 143
+Number of Sections: 1
+Source: versions - LC 44 2929/a
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+25 LC 44 2929
+By: Representatives Dickey of the 134th, Smith of the 70th, Yearta of the 152nd, Greene of the
+154th, Cannon of the 172nd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 5 of Title 12 of the Official Code of Georgia Annotated, relating to water
+2 resources, so as to revise provisions regarding water-measuring devices for farm use of
+3 surface and ground water; to provide for related matters; to repeal conflicting laws; and for
+4 other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 Chapter 5 of Title 12 of the Official Code of Georgia Annotated, relating to water resources,
+8 is amended by revising paragraph (3) of subsection (b) and subsection (m.1) of Code
+9 Section 12-5-31, relating to regulated riparian rights to surface waters for general or farm
+10 use, permits for withdrawal, diversion, or impoundment, coordination with water plans,
+11 metering of farm use, interbasin transfers, and appeal procedures, as follows:
+12 "(3)(A) Notwithstanding any other provision of this Code section to the contrary, a
+13 permit for the withdrawal or diversion of surface waters for farm uses shall be issued
+14 by the director to any person when the applicant submits an application which provides
+15 reasonable proof that the applicant's farm use of surface waters occurred prior to July
+16 1, 1988, and when any such application is submitted prior to July 1, 1991. If submitted
+H. B. 143
+- 1 -
+25 LC 44 2929
+17 prior to July 1, 1991, an application for a permit to be issued based upon farm uses of
+18 surface waters occurring prior to July 1, 1988, shall be granted for the withdrawal or
+19 diversion of surface waters at a rate of withdrawal or diversion equal to the greater of
+20 the operating capacity in place for withdrawal or diversion on July 1, 1988, or, when
+21 measured in gallons per day on a monthly average for a calendar year, the greatest
+22 withdrawal or diversion capacity during the five-year period immediately preceding
+23 July 1, 1988. If submitted after July 1, 1991, or, regardless of when submitted, if it is
+24 based upon a withdrawal or diversion of surface waters for farm uses occurring or
+25 proposed to occur on or after July 1, 1988, an application shall be subject to evaluation
+26 and classification pursuant to subsections (e), (f), and (g) of this Code section, but a
+27 permit based upon such evaluation and classification shall be issued to ensure the
+28 applicant's right to a reasonable use of such surface waters. Any permit issued pursuant
+29 to this paragraph shall be conditioned upon the requirement that the permittee shall
+30 provide, on forms prescribed by the director, information relating to a general
+31 description of the lands and number of acres subject to irrigation and the permit; a
+32 description of the general type of irrigation system used; the source of withdrawal water
+33 such as river, stream, or impoundment; and pump information, including rated capacity,
+34 pump location, and power information.
+35 (B) Permits applied for under this paragraph on or after April 20, 2006, for farm use
+36 in the Flint River basin shall have a term of 25 years and shall be automatically
+37 renewed at the original permitted capacity unless an evaluation by the division indicates
+38 that renewal at the original capacity would have unreasonable adverse effects upon
+39 other water uses. The division may renew the original permit at a lower capacity, but
+40 such capacity shall be based on the reasonable use of the permittee and evaluation of
+41 the resource.
+H. B. 143
+- 2 -
+25 LC 44 2929
+42 (C) A permittee may apply to have a permit issued under this paragraph modified,
+43 amended, transferred, or assigned to subsequent owners of the lands which are the
+44 subject of such permit; provided, however, that:
+45 (i) The division shall receive written notice of any such transfer or assignment;
+46 (ii) Any modification in or amendment to the use or capacity conditions contained
+47 in the permit or in the lands which are the subject of such permit shall require the
+48 permittee to submit an application for review and approval by the director consistent
+49 with this Code section; and
+50 (iii) The permittee may commence withdrawing water under the modified, amended,
+51 transferred, or assigned permit on the effective date stated on the revised permit for
+52 farm use; and
+53 (iv) For all permits for which such modification, amendment, transfer, or assignment
+54 is effective on or after April 20, 2018, and for which no water-measuring device is
+55 installed, the permittee shall have one year from the updated effective date stated on
+56 the revised permit for farm use to have an acceptable type of water-measuring device
+57 installed, to have such device in operation at each point of permitted withdrawal, and
+58 to notify the division in writing once the installation has occurred. The division shall
+59 approve or disapprove the installation within 60 days of the date of notification. The
+60 permittee shall be responsible for all associated costs.
+61 (D) Nothing in this paragraph shall be construed as a repeal or modification of Code
+62 Section 12-5-46."
+63 "(m.1)(1) The division shall have the duty of implementing a program of measuring farm
+64 uses of water in order to obtain clear and accurate information on the patterns and
+65 amounts of such use, which information is essential to proper management of water
+66 resources by the state and useful to farmers for improving the efficiency and effectiveness
+67 of their use of water, meeting the requirements of subsections (b) and (m) of this Code
+68 section, and improving water conservation.
+H. B. 143
+- 3 -
+25 LC 44 2929
+69 (2) The division:
+70 (A) May conduct its duties with division staff and may contract with other persons to
+71 conduct any of its duties;
+72 (B) May receive and use state appropriations, gifts, grants, or other sources of funding
+73 to carry out its duties;
+74 (C) Shall develop a priority system for the installation of devices for measurement of
+75 farm uses of water at the points of those withdrawals for which a permit was issued as
+76 of July 1, 2003. The division may refine the priority system from time to time based
+77 on the amount of funding received by the division, considerations regarding cost
+78 effectiveness, new technical information, changes in resource use or conditions, or
+79 other factors as deemed relevant by the director;
+80 (D) Shall, on behalf of the state, contract for the purchase and installation of that subset
+81 of water-measuring devices according to the priority system required by this Code
+82 section, and no charge shall be made to the permittee for such costs. However, when
+83 the division assesses the site or attempts to install such water-measuring devices and
+84 finds that the site lacks withdrawal or irrigation infrastructure, the division shall
+85 document such withdrawal or irrigation infrastructure conditions and notify the
+86 permittee in writing that a state funded water-measuring device or devices could not be
+87 installed and that a device or devices are still required. After the expiration of five
+88 years, such permittee shall be responsible for having an acceptable type of
+89 water-measuring device installed and placed into operation and all associated costs.
+90 The permittee shall notify the division in writing once the installation has occurred.
+91 The division shall approve or disapprove the installation within 60 days of the date of
+92 notification;
+93 (E) Shall, at monthly intervals, read an appropriate proportion of water-measuring
+94 devices installed for measuring farm use of surface water and compile the collected data
+95 for use in meeting the purposes in paragraph (1) of this subsection, and the division
+H. B. 143
+- 4 -
+25 LC 44 2929
+96 shall communicate in advance with private property owners to establish reasonable
+97 times for such readings. In the event that a permittee's water-measuring devices are
+98 selected for monthly readings, the permittee may choose to perform those readings and
+99 transmit that information to the division; and
+100 (F) Shall issue an annual progress report on the status of water-measuring device
+101 installation.
+102 (3) Any person whose permit for agricultural water use was issued before July 1, 2003,
+103 and who desires to install a water-measuring device at no cost to the state may do so,
+104 provided that the permittee shall have an acceptable type of water-measuring device
+105 installed and placed in operation at each point of permitted withdrawal and the permittee
+106 shall notify the division in writing once the installation has occurred. The division shall
+107 approve or disapprove the installation within 60 days of the date of notification.
+108 (4) Any person who desires to commence a farm use of water for which a permit is
+109 issued after July 1, 2003, shall not commence such use prior to receiving approval from
+110 the division that such person has installed an acceptable type of water-measuring device
+111 installed by the commission at each point of permitted withdrawal. The permittee shall
+112 be responsible for all such costs.
+113 (5) Employees, contractors, or agents of the division are authorized to enter upon private
+114 property at reasonable times and upon reasonable notice to conduct the duties of the
+115 division under this subsection.
+116 (6) Regarding all permits for which a water-measuring device is installed, regardless of
+117 when the permit was issued, the division shall contract for the annual reading of such
+118 water-measuring devices. The division shall require each contractor conducting such
+119 annual readings to transmit complete and accurate data required by the division to the
+120 division annually.
+H. B. 143
+- 5 -
+25 LC 44 2929
+121 (7) The division shall audit a subset of reported water-measuring device readings
+122 submitted by permittees for the purpose of understanding and improving the accuracy of
+123 such readings.
+124 (8) The division shall contract for any maintenance, repair, or replacement of
+125 water-measuring devices installed pursuant to this Code section where maintenance,
+126 repair, or replacement is required to ensure that such water-measuring devices accurately
+127 reflect the amount of water used, and no charge shall be made to the permittee for such
+128 costs.
+129 (9) If the division determines that the permittee or the permittee's employees, tenants,
+130 licensees, or agents have willfully dismantled, sold, relocated, or removed any
+131 water-measuring device installed pursuant to this Code section, the permittee may be
+132 subject to enforcement action by the division, including but not limited to imposition of
+133 civil penalties.
+134 (10) Any reports of amounts of use for recreational purposes under this Code section
+135 shall be compiled separately from amounts reported for all other farm uses."
+136 SECTION 2.
+137 Said chapter is further amended by revising subsections (b) and (b.1) of Code
+138 Section 12-5-105, relating to regulated reasonable use of ground water for farm use, permits
+139 to withdraw, obtain, or utilize, metering, and related procedures, as follows:
+140 "(b) Notwithstanding any provisions of Code Section 12-5-95, 12-5-96, or 12-5-97 to the
+141 contrary, permits to withdraw, obtain, or utilize ground waters for farm uses, as that term
+142 is defined in paragraph (5.1) of Code Section 12-5-92, whether for new withdrawals or
+143 under subsection (a) of this Code section, shall be governed as follows:
+144 (1) Permits applied for under this Code section on or after April 20, 2006, for farm use
+145 within the Flint River basin shall have a term of 25 years and shall be automatically
+146 renewed at the original permitted capacity unless an evaluation by the division indicates
+H. B. 143
+- 6 -
+25 LC 44 2929
+147 that renewal at the original capacity would have unreasonable adverse effects upon other
+148 water uses. The division may renew the original permit at a lower capacity, but such
+149 capacity shall be based on the reasonable use of the permittee and evaluation of the
+150 resource;
+151 (2) A permittee may apply to have a permit issued under this Code section modified,
+152 amended, transferred, or assigned to subsequent owners of the lands which are the subject
+153 of such permit; provided, however, that:
+154 (A) The division shall receive written notice of any such transfer or assignment;
+155 (B) Any modification in or amendment to the use or capacity conditions contained in
+156 the permit or in the lands which are the subject of such permit shall require the
+157 permittee to submit an application for review and approval by the director consistent
+158 with the requirements of this part; and
+159 (C) The permittee may commence withdrawing water under the modified, amended,
+160 transferred, or assigned permit on the effective date stated on the revised permit for
+161 farm use; and
+162 (D) For all permits for which such modification, amendment, transfer, or assignment
+163 is effective on or after April 20, 2018, and for which no water-measuring device is
+164 installed, the permittee shall have one year from the updated effective date stated on the
+165 revised permit for farm use to have an acceptable type of water-measuring device
+166 installed, to have such device in operation at each point of permitted withdrawal, and
+167 to notify the division in writing once the installation has occurred. The division shall
+168 approve or disapprove the installation within 60 days of the date of notification. The
+169 permittee shall be responsible for all associated costs;
+170 (3) Permits for farm use, after initial use has commenced, shall not be revoked, in whole
+171 or in part, for nonuse; except that the director may permanently revoke any permit under
+172 this Code section for farm use within the Flint River Basin applied for on or after
+173 April 20, 2006, if initial use for the purpose indicated on the permit application, as
+H. B. 143
+- 7 -
+25 LC 44 2929
+174 measured by a flow meter approved by the division has not commenced within two years
+175 of the date of issuance of the permit unless the permittee can reasonably demonstrate that
+176 his or her nonuse was due to financial hardship or circumstances beyond his or her
+177 control;
+178 (4) The director may suspend or modify a permit for farm use if he or she should
+179 determine through inspection, investigations, or otherwise that the quantity of water
+180 allowed would prevent other applicants from reasonable use of ground water beneath
+181 their property for farm use;
+182 (5) During emergency periods of water shortage, the director shall give first priority to
+183 providing water for human consumption and second priority to farm use; and
+184 (6) The importance and necessity of water for industrial purposes are in no way modified
+185 or diminished by this Code section.
+186 (b.1)(1) The division shall have the duty of implementing a program of measuring farm
+187 uses of water in order to obtain clear and accurate information on the patterns and
+188 amounts of such use, which information is essential to proper management of water
+189 resources by the state and useful to farmers for improving the efficiency and effectiveness
+190 of their use of water, meeting the requirements of subsections (b) and (b.1) of this Code
+191 section, and improving water conservation.
+192 (2) The division:
+193 (A) May conduct its duties with division staff and may contract with other persons to
+194 conduct any of its duties;
+195 (B) May receive and use state appropriations, gifts, grants, or other sources of funding
+196 to carry out its duties;
+197 (C) Shall develop a priority system for the installation of devices for measurement of
+198 farm uses of water at the points of those withdrawals for which a permit was issued as
+199 of July 1, 2003. The division may refine the priority system from time to time based
+200 on the amount of funding received by the division, considerations regarding cost
+H. B. 143
+- 8 -
+25 LC 44 2929
+201 effectiveness, new technical information, changes in resource use or conditions, or
+202 other factors as deemed relevant by the director;
+203 (D) Shall, on behalf of the state, contract for the purchase and installation of that subset
+204 of water-measuring devices according to the priority system required by this Code
+205 section, and no charge shall be made to the permittee for such costs. However, when
+206 the division assesses the site or attempts to install such water-measuring devices and
+207 finds that the site lacks the withdrawal or irrigation infrastructure, the division shall
+208 document such withdrawal or irrigation infrastructure conditions and notify the
+209 permittee in writing that a state funded water-measuring device or devices could not be
+210 installed and that a device or devices are still required. After the expiration of five
+211 years, such permittee shall be responsible for having an acceptable type of
+212 water-measuring device installed and placed into operation and all associated costs.
+213 The permittee shall notify the division in writing once the installation has occurred.
+214 The division shall approve or disapprove the installation within 60 days of the date of
+215 notification;
+216 (E) Shall, at monthly intervals, read an appropriate proportion of water-measuring
+217 devices installed for measuring farm use of ground water and compile the collected data
+218 for use in meeting the purposes in paragraph (1) of this Code section, and the division
+219 shall communicate in advance with private property owners to establish reasonable
+220 times for such readings. In the event that a permittee's water-measuring devices are
+221 selected for monthly readings, the permittee may choose to perform those readings and
+222 transmit that information to the division; and
+223 (F) Shall issue an annual progress report on the status of water-measuring device
+224 installation.
+225 (3) Any person whose permit for agricultural water use was issued before July 1, 2003,
+226 and who desires to install a water-measuring device at no cost to the state may do so,
+227 provided that the permittee shall have an acceptable type of water-measuring device
+H. B. 143
+- 9 -
+25 LC 44 2929
+228 installed and placed in operation at each point of permitted withdrawal and the permittee
+229 shall notify the division in writing once the installation has occurred. The division shall
+230 approve or disapprove the installation within 60 days of the date of notification.
+231 (4) Any person who desires to commence a farm use of water for which a permit is
+232 issued after July 1, 2003, shall not commence such use prior to receiving approval from
+233 the division that such person has installed an acceptable type of water-measuring device
+234 installed by the commission at each point of permitted withdrawal. The permittee shall
+235 be responsible for all such costs.
+236 (5) Regarding all permits for which a water-measuring device is installed, regardless of
+237 when the permit was issued, the division shall contract for the annual reading of such
+238 water-measuring devices. The division shall require each contractor conducting such
+239 annual readings to transmit complete and accurate data required by the division to the
+240 division annually.
+241 (6) The division shall audit a subset of reported water-measuring device readings
+242 submitted by permittees for the purpose of understanding and improving the accuracy of
+243 such readings.
+244 (7) Employees, contractors, or agents of the division are authorized to enter upon private
+245 property at reasonable times and upon reasonable notice to conduct the duties of the
+246 division under this subsection.
+247 (8) The division shall contract for any maintenance, repair, or replacement of
+248 water-measuring devices installed pursuant to this Code section where maintenance,
+249 repair, or replacement is required to ensure that such water-measuring devices accurately
+250 reflect the amount of water used, and no charge shall be made to the permittee for such
+251 costs.
+252 (9) If the division determines that the permittee or the permittee's employees, tenants,
+253 licensees, or agents have willfully dismantled, sold, relocated, or removed any
+254 water-measuring device installed pursuant to this Code section, the permittee may be
+H. B. 143
+- 10 -
+25 LC 44 2929
+255 subject to enforcement action by the division, including but not limited to imposition of
+256 civil penalties.
+257 (10) Any reports of amounts of use for recreational purposes under this part shall be
+258 compiled separately from amounts reported for all other farm uses.
+259 (c) Nothing in this Code section shall be construed as a repeal or modification of Code
+260 Section 12-5-104."
+261 SECTION 3.
+262 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 143
+- 11 -
+[DELETED: 5L4,0,2,hthn4,2,hn a b r p ( o s ( a s ( o C]
+[DELETED: 5L o f p b t d i r t a g a t]
+[DELETED: 5L]
+[DELETED: 5L t a o f r b t d c r c t t s l w o i i t d s s w o i i c a n t s p s b r f h a a t o]
+[DELETED: 5L]
+[DELETED: 5L  T d s a a s o r w d r  T d s c f a m r o r o o a h w d s r o r a c i f a b r s ( a ( o C]
+[DELETED: 5L p o i t l w a t s o s p s r t]
+[DELETED: 5L t a o f r b t d c r c]
+[DELETED: 5L s w o i i c a n t s p s b r f h a a t o]
+[DELETED: 5L  T d s a a s o r w d r  T d s c f a m r o r o o a h w d s r o r a]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 44 2929
+House Bill 143
+By: Representatives Dickey of the 134th, Smith of the 70th, Yearta of the 152nd, Greene of the
+154th, Cannon of the 172nd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 5 of Title 12 of the Official Code of Georgia Annotated, relating to water
+2 resources, so as to revise provisions regarding water-measuring devices for farm use of
+3 surface and ground water; to provide for related matters; to repeal conflicting laws; and for
+4 other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 Chapter 5 of Title 12 of the Official Code of Georgia Annotated, relating to water resources,
+8 is amended by revising paragraph (3) of subsection (b) and subsection (m.1) of Code
+9 Section 12-5-31, relating to regulated riparian rights to surface waters for general or farm
+10 use, permits for withdrawal, diversion, or impoundment, coordination with water plans,
+11 metering of farm use, interbasin transfers, and appeal procedures, as follows:
+12 "(3)(A) Notwithstanding any other provision of this Code section to the contrary, a
+13 permit for the withdrawal or diversion of surface waters for farm uses shall be issued
+14 by the director to any person when the applicant submits an application which provides
+15 reasonable proof that the applicant's farm use of surface waters occurred prior to July
+16 1, 1988, and when any such application is submitted prior to July 1, 1991. If submitted
+H. B. 143
+- 1 -
+
+25 LC 44 2929
+17 prior to July 1, 1991, an application for a permit to be issued based upon farm uses of
+18 surface waters occurring prior to July 1, 1988, shall be granted for the withdrawal or
+19 diversion of surface waters at a rate of withdrawal or diversion equal to the greater of
+20 the operating capacity in place for withdrawal or diversion on July 1, 1988, or, when
+21 measured in gallons per day on a monthly average for a calendar year, the greatest
+22 withdrawal or diversion capacity during the five-year period immediately preceding
+23 July 1, 1988. If submitted after July 1, 1991, or, regardless of when submitted, if it is
+24 based upon a withdrawal or diversion of surface waters for farm uses occurring or
+25 proposed to occur on or after July 1, 1988, an application shall be subject to evaluation
+26 and classification pursuant to subsections (e), (f), and (g) of this Code section, but a
+27 permit based upon such evaluation and classification shall be issued to ensure the
+28 applicant's right to a reasonable use of such surface waters. Any permit issued pursuant
+29 to this paragraph shall be conditioned upon the requirement that the permittee shall
+30 provide, on forms prescribed by the director, information relating to a general
+31 description of the lands and number of acres subject to irrigation and the permit; a
+32 description of the general type of irrigation system used; the source of withdrawal water
+33 such as river, stream, or impoundment; and pump information, including rated capacity,
+34 pump location, and power information.
+35 (B) Permits applied for under this paragraph on or after April 20, 2006, for farm use
+36 in the Flint River basin shall have a term of 25 years and shall be automatically
+37 renewed at the original permitted capacity unless an evaluation by the division indicates
+38 that renewal at the original capacity would have unreasonable adverse effects upon
+39 other water uses. The division may renew the original permit at a lower capacity, but
+40 such capacity shall be based on the reasonable use of the permittee and evaluation of
+41 the resource.
+H. B. 143
+- 2 -
+
+25 LC 44 2929
+42 (C) A permittee may apply to have a permit issued under this paragraph modified,
+43 amended, transferred, or assigned to subsequent owners of the lands which are the
+44 subject of such permit; provided, however, that:
+45 (i) The division shall receive written notice of any such transfer or assignment;
+46 (ii) Any modification in or amendment to the use or capacity conditions contained
+47 in the permit or in the lands which are the subject of such permit shall require the
+48 permittee to submit an application for review and approval by the director consistent
+49 with this Code section; and
+50 (iii) The permittee may commence withdrawing water under the modified, amended,
+51 transferred, or assigned permit on the effective date stated on the revised permit for
+52 farm use; and
+53 (iv) For all permits for which such modification, amendment, transfer, or assignment
+54 is effective on or after April 20, 2018, and for which no water-measuring device is
+55 installed, the permittee shall have one year from the updated effective date stated on
+56 the revised permit for farm use to have an acceptable type of water-measuring device
+57 installed, to have such device in operation at each point of permitted withdrawal, and
+58 to notify the division in writing once the installation has occurred. The division shall
+59 approve or disapprove the installation within 60 days of the date of notification. The
+60 permittee shall be responsible for all associated costs.
+61 (D) Nothing in this paragraph shall be construed as a repeal or modification of Code
+62 Section 12-5-46."
+63 "(m.1)(1) The division shall have the duty of implementing a program of measuring farm
+64 uses of water in order to obtain clear and accurate information on the patterns and
+65 amounts of such use, which information is essential to proper management of water
+66 resources by the state and useful to farmers for improving the efficiency and effectiveness
+67 of their use of water, meeting the requirements of subsections (b) and (m) of this Code
+68 section, and improving water conservation.
+H. B. 143
+- 3 -
+
+25 LC 44 2929
+69 (2) The division:
+70 (A) May conduct its duties with division staff and may contract with other persons to
+71 conduct any of its duties;
+72 (B) May receive and use state appropriations, gifts, grants, or other sources of funding
+73 to carry out its duties;
+74 (C) Shall develop a priority system for the installation of devices for measurement of
+75 farm uses of water at the points of those withdrawals for which a permit was issued as
+76 of July 1, 2003. The division may refine the priority system from time to time based
+77 on the amount of funding received by the division, considerations regarding cost
+78 effectiveness, new technical information, changes in resource use or conditions, or
+79 other factors as deemed relevant by the director;
+80 (D) Shall, on behalf of the state, contract for the purchase and installation of that subset
+81 of water-measuring devices according to the priority system required by this Code
+82 section, and no charge shall be made to the permittee for such costs. However, when
+83 the division assesses the site or attempts to install such water-measuring devices and
+84 finds that the site lacks withdrawal or irrigation infrastructure, the division shall
+85 document such withdrawal or irrigation infrastructure conditions and notify the
+86 permittee in writing that a state funded water-measuring device or devices could not be
+87 installed and that a device or devices are still required. After the expiration of five
+88 years, such permittee shall be responsible for having an acceptable type of
+89 water-measuring device installed and placed into operation and all associated costs.
+90 The permittee shall notify the division in writing once the installation has occurred.
+91 The division shall approve or disapprove the installation within 60 days of the date of
+92 notification;
+93 (E) Shall, at monthly intervals, read an appropriate proportion of water-measuring
+94 devices installed for measuring farm use of surface water and compile the collected data
+95 for use in meeting the purposes in paragraph (1) of this subsection, and the division
+H. B. 143
+- 4 -
+
+25 LC 44 2929
+96 shall communicate in advance with private property owners to establish reasonable
+97 times for such readings. In the event that a permittee's water-measuring devices are
+98 selected for monthly readings, the permittee may choose to perform those readings and
+99 transmit that information to the division; and
+100 (F) Shall issue an annual progress report on the status of water-measuring device
+101 installation.
+102 (3) Any person whose permit for agricultural water use was issued before July 1, 2003,
+103 and who desires to install a water-measuring device at no cost to the state may do so,
+104 provided that the permittee shall have an acceptable type of water-measuring device
+105 installed and placed in operation at each point of permitted withdrawal and the permittee
+106 shall notify the division in writing once the installation has occurred. The division shall
+107 approve or disapprove the installation within 60 days of the date of notification.
+108 (4) Any person who desires to commence a farm use of water for which a permit is
+109 issued after July 1, 2003, shall not commence such use prior to receiving approval from
+110 the division that such person has installed an acceptable type of water-measuring device
+111 installed by the commission at each point of permitted withdrawal. The permittee shall
+112 be responsible for all such costs.
+113 (5) Employees, contractors, or agents of the division are authorized to enter upon private
+114 property at reasonable times and upon reasonable notice to conduct the duties of the
+115 division under this subsection.
+116 (6) Regarding all permits for which a water-measuring device is installed, regardless of
+117 when the permit was issued, the division shall contract for the annual reading of such
+118 water-measuring devices. The division shall require each contractor conducting such
+119 annual readings to transmit complete and accurate data required by the division to the
+120 division annually.
+H. B. 143
+- 5 -
+
+25 LC 44 2929
+121 (7) The division shall audit a subset of reported water-measuring device readings
+122 submitted by permittees for the purpose of understanding and improving the accuracy of
+123 such readings.
+124 (8) The division shall contract for any maintenance, repair, or replacement of
+125 water-measuring devices installed pursuant to this Code section where maintenance,
+126 repair, or replacement is required to ensure that such water-measuring devices accurately
+127 reflect the amount of water used, and no charge shall be made to the permittee for such
+128 costs.
+129 (9) If the division determines that the permittee or the permittee's employees, tenants,
+130 licensees, or agents have willfully dismantled, sold, relocated, or removed any
+131 water-measuring device installed pursuant to this Code section, the permittee may be
+132 subject to enforcement action by the division, including but not limited to imposition of
+133 civil penalties.
+134 (10) Any reports of amounts of use for recreational purposes under this Code section
+135 shall be compiled separately from amounts reported for all other farm uses."
+136 SECTION 2.
+137 Said chapter is further amended by revising subsections (b) and (b.1) of Code
+138 Section 12-5-105, relating to regulated reasonable use of ground water for farm use, permits
+139 to withdraw, obtain, or utilize, metering, and related procedures, as follows:
+140 "(b) Notwithstanding any provisions of Code Section 12-5-95, 12-5-96, or 12-5-97 to the
+141 contrary, permits to withdraw, obtain, or utilize ground waters for farm uses, as that term
+142 is defined in paragraph (5.1) of Code Section 12-5-92, whether for new withdrawals or
+143 under subsection (a) of this Code section, shall be governed as follows:
+144 (1) Permits applied for under this Code section on or after April 20, 2006, for farm use
+145 within the Flint River basin shall have a term of 25 years and shall be automatically
+146 renewed at the original permitted capacity unless an evaluation by the division indicates
+H. B. 143
+- 6 -
+
+25 LC 44 2929
+147 that renewal at the original capacity would have unreasonable adverse effects upon other
+148 water uses. The division may renew the original permit at a lower capacity, but such
+149 capacity shall be based on the reasonable use of the permittee and evaluation of the
+150 resource;
+151 (2) A permittee may apply to have a permit issued under this Code section modified,
+152 amended, transferred, or assigned to subsequent owners of the lands which are the subject
+153 of such permit; provided, however, that:
+154 (A) The division shall receive written notice of any such transfer or assignment;
+155 (B) Any modification in or amendment to the use or capacity conditions contained in
+156 the permit or in the lands which are the subject of such permit shall require the
+157 permittee to submit an application for review and approval by the director consistent
+158 with the requirements of this part; and
+159 (C) The permittee may commence withdrawing water under the modified, amended,
+160 transferred, or assigned permit on the effective date stated on the revised permit for
+161 farm use; and
+162 (D) For all permits for which such modification, amendment, transfer, or assignment
+163 is effective on or after April 20, 2018, and for which no water-measuring device is
+164 installed, the permittee shall have one year from the updated effective date stated on the
+165 revised permit for farm use to have an acceptable type of water-measuring device
+166 installed, to have such device in operation at each point of permitted withdrawal, and
+167 to notify the division in writing once the installation has occurred. The division shall
+168 approve or disapprove the installation within 60 days of the date of notification. The
+169 permittee shall be responsible for all associated costs;
+170 (3) Permits for farm use, after initial use has commenced, shall not be revoked, in whole
+171 or in part, for nonuse; except that the director may permanently revoke any permit under
+172 this Code section for farm use within the Flint River Basin applied for on or after
+173 April 20, 2006, if initial use for the purpose indicated on the permit application, as
+H. B. 143
+- 7 -
+
+25 LC 44 2929
+174 measured by a flow meter approved by the division has not commenced within two years
+175 of the date of issuance of the permit unless the permittee can reasonably demonstrate that
+176 his or her nonuse was due to financial hardship or circumstances beyond his or her
+177 control;
+178 (4) The director may suspend or modify a permit for farm use if he or she should
+179 determine through inspection, investigations, or otherwise that the quantity of water
+180 allowed would prevent other applicants from reasonable use of ground water beneath
+181 their property for farm use;
+182 (5) During emergency periods of water shortage, the director shall give first priority to
+183 providing water for human consumption and second priority to farm use; and
+184 (6) The importance and necessity of water for industrial purposes are in no way modified
+185 or diminished by this Code section.
+186 (b.1)(1) The division shall have the duty of implementing a program of measuring farm
+187 uses of water in order to obtain clear and accurate information on the patterns and
+188 amounts of such use, which information is essential to proper management of water
+189 resources by the state and useful to farmers for improving the efficiency and effectiveness
+190 of their use of water, meeting the requirements of subsections (b) and (b.1) of this Code
+191 section, and improving water conservation.
+192 (2) The division:
+193 (A) May conduct its duties with division staff and may contract with other persons to
+194 conduct any of its duties;
+195 (B) May receive and use state appropriations, gifts, grants, or other sources of funding
+196 to carry out its duties;
+197 (C) Shall develop a priority system for the installation of devices for measurement of
+198 farm uses of water at the points of those withdrawals for which a permit was issued as
+199 of July 1, 2003. The division may refine the priority system from time to time based
+200 on the amount of funding received by the division, considerations regarding cost
+H. B. 143
+- 8 -
+
+25 LC 44 2929
+201 effectiveness, new technical information, changes in resource use or conditions, or
+202 other factors as deemed relevant by the director;
+203 (D) Shall, on behalf of the state, contract for the purchase and installation of that subset
+204 of water-measuring devices according to the priority system required by this Code
+205 section, and no charge shall be made to the permittee for such costs. However, when
+206 the division assesses the site or attempts to install such water-measuring devices and
+207 finds that the site lacks the withdrawal or irrigation infrastructure, the division shall
+208 document such withdrawal or irrigation infrastructure conditions and notify the
+209 permittee in writing that a state funded water-measuring device or devices could not be
+210 installed and that a device or devices are still required. After the expiration of five
+211 years, such permittee shall be responsible for having an acceptable type of
+212 water-measuring device installed and placed into operation and all associated costs.
+213 The permittee shall notify the division in writing once the installation has occurred.
+214 The division shall approve or disapprove the installation within 60 days of the date of
+215 notification;
+216 (E) Shall, at monthly intervals, read an appropriate proportion of water-measuring
+217 devices installed for measuring farm use of ground water and compile the collected data
+218 for use in meeting the purposes in paragraph (1) of this Code section, and the division
+219 shall communicate in advance with private property owners to establish reasonable
+220 times for such readings. In the event that a permittee's water-measuring devices are
+221 selected for monthly readings, the permittee may choose to perform those readings and
+222 transmit that information to the division; and
+223 (F) Shall issue an annual progress report on the status of water-measuring device
+224 installation.
+225 (3) Any person whose permit for agricultural water use was issued before July 1, 2003,
+226 and who desires to install a water-measuring device at no cost to the state may do so,
+227 provided that the permittee shall have an acceptable type of water-measuring device
+H. B. 143
+- 9 -
+
+25 LC 44 2929
+228 installed and placed in operation at each point of permitted withdrawal and the permittee
+229 shall notify the division in writing once the installation has occurred. The division shall
+230 approve or disapprove the installation within 60 days of the date of notification.
+231 (4) Any person who desires to commence a farm use of water for which a permit is
+232 issued after July 1, 2003, shall not commence such use prior to receiving approval from
+233 the division that such person has installed an acceptable type of water-measuring device
+234 installed by the commission at each point of permitted withdrawal. The permittee shall
+235 be responsible for all such costs.
+236 (5) Regarding all permits for which a water-measuring device is installed, regardless of
+237 when the permit was issued, the division shall contract for the annual reading of such
+238 water-measuring devices. The division shall require each contractor conducting such
+239 annual readings to transmit complete and accurate data required by the division to the
+240 division annually.
+241 (6) The division shall audit a subset of reported water-measuring device readings
+242 submitted by permittees for the purpose of understanding and improving the accuracy of
+243 such readings.
+244 (7) Employees, contractors, or agents of the division are authorized to enter upon private
+245 property at reasonable times and upon reasonable notice to conduct the duties of the
+246 division under this subsection.
+247 (8) The division shall contract for any maintenance, repair, or replacement of
+248 water-measuring devices installed pursuant to this Code section where maintenance,
+249 repair, or replacement is required to ensure that such water-measuring devices accurately
+250 reflect the amount of water used, and no charge shall be made to the permittee for such
+251 costs.
+252 (9) If the division determines that the permittee or the permittee's employees, tenants,
+253 licensees, or agents have willfully dismantled, sold, relocated, or removed any
+254 water-measuring device installed pursuant to this Code section, the permittee may be
+H. B. 143
+- 10 -
+
+25 LC 44 2929
+255 subject to enforcement action by the division, including but not limited to imposition of
+256 civil penalties.
+257 (10) Any reports of amounts of use for recreational purposes under this part shall be
+258 compiled separately from amounts reported for all other farm uses.
+259 (c) Nothing in this Code section shall be construed as a repeal or modification of Code
+260 Section 12-5-104."
+261 SECTION 3.
+262 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 143
+- 11 -
+
+[DELETED: 5L4,0,2,hthn4,2,hn a b r p ( o s ( a s ( o C]
+[DELETED: 5L o f p b t d i r t a g a t]
+[DELETED: 5L]
+[DELETED: 5L t a o f r b t d c r c t t s l w o i i t d s s w o i i c a n t s p s b r f h a a t o]
+[DELETED: 5L]
+[DELETED: 5L  T d s a a s o r w d r  T d s c f a m r o r o o a h w d s r o r a c i f a b r s ( a ( o C]
+[DELETED: 5L p o i t l w a t s o s p s r t]
+[DELETED: 5L t a o f r b t d c r c]
+[DELETED: 5L s w o i i c a n t s p s b r f h a a t o]
+[DELETED: 5L  T d s a a s o r w d r  T d s c f a m r o r o o a h w d s r o r a]
+[DELETED: 5L]

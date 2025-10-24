@@ -1,0 +1,855 @@
+Title: House Bill 520
+Official Title: House Bill 520
+Number of Sections: 1
+Source: versions - LC 55 0511/a
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0511
+By: Representatives Mathiak of the 82nd, Powell of the 33rd, Momtahan of the 17th, Williams
+of the 168th, Dempsey of the 13th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 31 of the Official Code of Georgia Annotated, relating to health, so as to
+2 repeal in its entirety Chapter 26, relating to the practice of midwifery; to revise provisions
+3 relating to peer review to include midwives; to amend Title 43 of the Official Code of
+4 Georgia Annotated, relating to professions and businesses, so as to provide for the licensure
+5 and regulation of midwives; to provide for a short title; to provide for legislative findings;
+6 to provide for definitions; to provide for the creation of the Advisory Board for Licensed
+7 Midwives; to provide for its membership and duties; to provide for licensure requirements;
+8 to provide for renewal of licenses; to provide for the revocation, suspension, denial, or
+9 refusal to issue or renew a license; to provide fines for violations; to provide for the
+10 promulgation of rules and regulations; to prohibit the practice of midwifery without a license;
+11 to provide exceptions; to provide for informed consent and written disclosures to clients; to
+12 limit the practice of midwifery; to provide for standards of care and liability in certain
+13 situations; to provide for prohibited acts; to authorize the filing of birth certificates; to
+14 provide for statutory construction; to provide for coverage; to provide for abatement; to
+15 provide for an exception under the "Georgia Registered Professional Nurse Practice Act";
+16 to provide for related matters; to provide for an effective date; to repeal conflicting laws; and
+17 for other purposes.
+H. B. 520
+- 1 -
+25 LC 55 0511
+18 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+19 SECTION 1.
+20 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended in
+21 paragraph (2) of Code Section 31-7-131, relating to definitions relative to peer review
+22 groups, by striking "and" at the end of subparagraph (L), by replacing the period at the end
+23 of subparagraph (M) with "; and", and by adding a new subparagraph to read as follows:
+24 "(N) A midwife."
+25 SECTION 2.
+26 Said title is further amended by repealing in its entirety Chapter 26, relating to the practice
+27 of midwifery, and designating said chapter as reserved.
+28 SECTION 3.
+29 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+30 is amended by adding a new chapter to read as follows:
+31 "CHAPTER 24B
+32 43-24B-1.
+33 This chapter shall be known and may be cited as the 'Georgia Licensed Midwife Act.'
+34 43-24B-2.
+35 (a) The General Assembly finds that:
+36 (1) Parents are entitled to freedom in choosing their provider and setting for childbirth;
+37 (2) Some potential parents in this state desire alternatives to currently available hospital
+38 based maternity care;
+H. B. 520
+- 2 -
+25 LC 55 0511
+39 (3) Trained and competent midwifery professionals can enhance health and safety during
+40 planned, out-of-hospital births;
+41 (4) Midwives are independent, autonomous healthcare providers who are trained in
+42 managing normal physiological births in the community setting;
+43 (5) Numerous counties in this state are underserved by obstetricians;
+44 (6) Midwives can assist women and their families with safe and effective childbirth
+45 while guiding the health, safety, and welfare of mothers and their offspring through the
+46 childbearing year; and
+47 (7) Regulating midwifery promotes access to safe and effective antepartum, intrapartum,
+48 and postpartum care.
+49 (b) The General Assembly, therefore, declares it to be the purpose of this chapter to protect
+50 the health, safety, and welfare of the public by providing for the licensure and regulation
+51 of the activities of midwives.
+52 43-24B-3.
+53 As used in this chapter, the term:
+54 (1) 'Advisory board' means the Advisory Board for Licensed Midwives established
+55 pursuant to Code Section 43-24B-4.
+56 (2) 'Collaboration' means a process by which a licensed midwife and a physician or other
+57 appropriate healthcare provider jointly manage the care of a client, the requirements for
+58 which shall be defined by the advisory board.
+59 (3) 'Consultation' means a communication between a licensed midwife and a physician
+60 or appropriate healthcare provider with expertise in providing medical services to women
+61 during the prenatal, childbirth, and postpartum periods when assessing a condition during
+62 such periods.
+63 (4) 'Informed consent' means a written certification by the client consenting to or
+64 declining procedures, protocols, and treatments or recommended diagnostic tests after full
+H. B. 520
+- 3 -
+25 LC 55 0511
+65 disclosure of the current standard of care and its purpose, benefits, known risks,
+66 contraindications, and associated risks, as well as any alternative options.
+67 (5) 'License' means a license issued pursuant to this chapter to engage in the practice of
+68 midwifery.
+69 (6) 'Licensed midwife' or 'licensee' means an individual licensed under this chapter who
+70 is engaging in the practice of midwifery.
+71 (7) 'Practice of midwifery' means assistance given, in exchange for compensation, to
+72 women during pregnancy, birth, and the postpartum period, including well-woman
+73 screening and education. Such assistance may be provided in out-of-hospital settings,
+74 such as a private home or a birth center. Such assistance, which is provided within a
+75 network of relationships with other maternity care providers who may provide
+76 consultation and collaboration when needed, includes:
+77 (A) Providing care, education, counseling, and support to women and their families
+78 throughout pregnancy, birth, and the postpartum period; identifying unique physical
+79 social and emotional needs; recognizing abnormal conditions requiring the services of
+80 a healthcare provider such as a physician, physician assistant, or advanced practice
+81 registered nurse and developing a plan for consultation and referral when such
+82 conditions arise; and providing emergency care and support for mothers and babies
+83 until additional assistance is available;
+84 (B) Ordering prenatal, postpartum, and well-woman laboratory analyses performed by
+85 a licensed laboratory for screening purposes; ordering obstetric ultrasounds; obtaining
+86 and using appropriate equipment and devices such as a Doppler ultrasound, blood
+87 pressure cuff, and phlebotomy supplies, instruments, and sutures; obtaining, carrying,
+88 and administering antihemorrhagic agents including but not limited to Pitocin
+89 (oxytocin), misoprostol and methergine, intravenous fluids for stabilization of the
+90 laboring person, magnesium sulfate, terbutaline, neonatal injectable vitamin K,
+91 newborn antibiotic eye prophylaxis, oxygen, intravenous antibiotics for Group B
+H. B. 520
+- 4 -
+25 LC 55 0511
+92 Streptococcal antibiotic prophylaxis, Rho(D) immune globulin, local anesthetic,
+93 epinephrine, and other drugs or supplies approved by the advisory board; provided,
+94 however, that nothing in this subparagraph shall be interpreted to include the
+95 prescribing of medications;
+96 (C) Managing the postpartum period, including the suturing of an episiotomy and the
+97 suturing of first and second degree natural perineal and labial lacerations, including the
+98 administration of a local anesthetic;
+99 (D) Managing the newborn period, including:
+100 (i) Providing care for a newborn baby, including performing a normal newborn baby
+101 examination;
+102 (ii) Resuscitating a newborn baby; and
+103 (iii) Performing newborn screenings;
+104 (E) Providing limited interconception services in order to provide continuity of care,
+105 including:
+106 (i) Breastfeeding support and counseling;
+107 (ii) Family planning, limited to natural family planning, cervical caps, and
+108 diaphragms; and
+109 (iii) Pap smears, where each client with an abnormal result is to be referred to an
+110 appropriate licensed healthcare provider; and
+111 (F) Executing the orders of a physician, if the orders are within the education,
+112 knowledge, and skill of the licensed midwife.
+113 (8) 'Qualified instructor' means an individual who:
+114 (A) Holds a license under this chapter; or
+115 (B) Is a licensed healthcare provider who has at least five years of experience or who
+116 has participated in 50 documented births as the primary healthcare provider.
+H. B. 520
+- 5 -
+25 LC 55 0511
+117 (9) 'Referral' means a request made by a licensed midwife to a physician or other
+118 healthcare provider for an assessment of a mother or her offspring in order to determine
+119 appropriate care.
+120 43-24B-4.
+121 (a) There is created within the division the Advisory Board for Licensed Midwives which
+122 shall consist of six members.
+123 (b) The Governor shall appoint all members of the advisory board as follows:
+124 (1) Four licensed midwives;
+125 (2) One physician with experience collaborating in out-of-hospital birth; and
+126 (3) One member of the general public who has used the services of a licensed midwife
+127 in this state.
+128 (c) The members of the advisory board shall serve for terms of two years and may succeed
+129 themselves.
+130 (d) Any vacancy on the advisory board shall be filled in the same manner as the regular
+131 appointments.
+132 (e) The Governor may remove members of the advisory board for incompetence, neglect
+133 of duty, unprofessional conduct, conviction of any felony, failure to meet the qualifications
+134 of this chapter, or committing any act prohibited by this chapter.
+135 (f) The advisory board shall elect a chairperson from among its membership and may elect
+136 other officers at the discretion of the advisory board, who shall each serve for one year.
+137 (g) The advisory board shall meet at least once per year or as otherwise called by the
+138 chairperson.
+139 43-24B-5.
+140 The advisory board shall issue a license to engage in the practice of midwifery to any
+141 individual who meets the requirements of this chapter.
+H. B. 520
+- 6 -
+25 LC 55 0511
+142 43-24B-6.
+143 (a) Each applicant for a license under this chapter shall:
+144 (1) Submit an application in a form prescribed by the division;
+145 (2) Pay an application fee as determined by the advisory board;
+146 (3) Furnish to the advisory board a full set of fingerprints to enable a criminal
+147 background investigation to be conducted on the applicant so as to determine the
+148 applicant's suitability to be a licensed midwife. The advisory board shall submit the
+149 applicant's fingerprints to the Georgia Crime Information Center. If no disqualifying
+150 record is identified at the state level, the Georgia Crime Information Center is authorized
+151 to submit the fingerprints to the Federal Bureau of Investigation for a national criminal
+152 history check. The Georgia Crime Information Center shall notify the advisory board in
+153 writing of the results of such criminal background investigation, which shall be used by
+154 the advisory board for the exclusive purpose of carrying out its responsibilities under this
+155 chapter, shall not be a public record, shall be privileged, and shall not be disclosed to any
+156 other person or agency;
+157 (4) Hold a current certification in adult cardiopulmonary resuscitation (CPR) and
+158 neonatal resuscitation from an organization recognized by the advisory board;
+159 (5) Provide documentation of successful completion of a pharmacology course approved
+160 by the advisory board; and
+161 (6) Hold a current certification in good standing from a midwifery organization
+162 recognized by the advisory board, such as the North American Registry of Midwives, the
+163 American Midwifery Certification Board, or any successor organizations.
+164 (b) The advisory board, in its discretion, may issue a license to an applicant who does not
+165 meet the requirements of paragraph (6) of subsection (a) of this Code section but who:
+166 (1) Has received midwifery training, which shall include experience in initial obstetrical
+167 exams, prenatal care, births, newborn examinations, and postpartum care, from a
+168 qualified instructor for at least three years; participated in at least 50 documented births;
+H. B. 520
+- 7 -
+25 LC 55 0511
+169 and achieved a passing score on an examination approved by the advisory board relating
+170 to the practice of midwifery;
+171 (2) Has been engaged in the practice of midwifery for at least 25 years; or
+172 (3) Is licensed to engage in the practice of midwifery in another jurisdiction whose laws,
+173 in the opinion of the advisory board, require qualifications and maintain standards
+174 substantially the same as those of this state for licensed midwives.
+175 43-24B-7.
+176 (a) A license issued by the advisory board shall be renewed every two years if the licensee
+177 is not in violation of this chapter at the time of application for renewal and has completed
+178 20 hours of continuing education approved by the advisory board since the license was
+179 issued or last renewed.
+180 (b) Each individual licensed under this chapter is responsible for renewing his or her
+181 license before the expiration date.
+182 43-24B-8.
+183 (a) The advisory board may revoke, suspend, deny, or refuse to issue or renew a license;
+184 place a licensee on probation; or issue a letter of admonition upon proof that the licensee
+185 or applicant has:
+186 (1) Procured or attempted to procure a license by fraud, deceit, misrepresentation,
+187 misleading omission, or material misstatement of fact;
+188 (2) Been convicted of a felony or of any crime involving moral turpitude as provided
+189 under state law;
+190 (3) Willfully or negligently acted in a manner inconsistent with the health or safety of
+191 persons under such licensee's care;
+H. B. 520
+- 8 -
+25 LC 55 0511
+192 (4) Had a license to practice a business or profession suspended or revoked or has
+193 otherwise been subject to discipline related to such licensee's practice of a business or
+194 profession in any other jurisdiction;
+195 (5) Committed a fraudulent act that materially affects the fitness of the licensee or
+196 applicant to practice a business or profession;
+197 (6) Excessively or habitually used alcohol or drugs, provided that the advisory board
+198 shall not discipline a licensee under this paragraph if such licensee is enrolled in a
+199 substance abuse program approved by the advisory board; or
+200 (7) A physical or mental disability that renders such licensee incapable of safely
+201 engaging in the practice of midwifery.
+202 (b) The advisory board is authorized to conduct investigations into allegations of conduct
+203 described in subsection (a) of this Code section.
+204 (c) In addition to revoking, suspending, denying, or refusing to renew a license, the
+205 advisory board may fine a licensee found to have violated any provision of this chapter or
+206 any rule adopted by the advisory board under this chapter in an amount of not less than
+207 $100.00 nor more than $500.00 for each such violation.
+208 (d) The provisions of Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act,'
+209 shall be applicable to the advisory board and the provisions of this chapter.
+210 (e) Any person may file a complaint with the advisory board with respect to a licensed
+211 midwife.
+212 43-24B-9.
+213 (a) The advisory board may promulgate any rules and regulations necessary to carry out
+214 the provisions of this chapter.
+215 (b) The advisory board may act as a facilitator of the state-wide dissemination of
+216 information concerning the practice of midwifery and the services of licensed midwives.
+H. B. 520
+- 9 -
+25 LC 55 0511
+217 43-24B-10.
+218 (a) Except as provided in subsection (b) of this Code section, no person shall engage in the
+219 practice of midwifery in this state unless such person holds a license issued by the advisory
+220 board pursuant to Code Section 43-24B-5.
+221 (b) A person may engage in the practice of midwifery in this state without a license if:
+222 (1) The person is a licensed healthcare practitioner and the services provided are within
+223 the scope of the person's license; or
+224 (2)(A) The person does not advertise that the person is a licensed midwife; and
+225 (B) The person discloses the following to each client on an informed disclosure
+226 document that is signed by the client:
+227 (i) That the person does not possess a license to engage in the practice of midwifery
+228 in this state;
+229 (ii) That the person's education and qualifications have not been reviewed by the
+230 state;
+231 (iii) That the person is not authorized to carry and administer potentially life-saving
+232 medications;
+233 (iv) A plan for transporting the client to the hospital if a problem arises during labor
+234 or childbirth; and
+235 (v) That the client will not have recourse through a complaint process conducted by
+236 a professional licensing board.
+237 (c) Any individual engaging in the practice of midwifery without a license in violation of
+238 this Code section shall be subject to a fine of not less than $100.00 nor more than $500.00
+239 for each such violation.
+H. B. 520
+- 10 -
+25 LC 55 0511
+240 43-24B-11.
+241 (a) Prior to engaging in the practice of midwifery with a client, a licensed midwife shall
+242 obtain informed consent from such client and retain a copy of such informed consent for
+243 at least four years.
+244 (b) A licensed midwife shall be authorized to file a birth certificate for each birth that such
+245 licensed midwife provides services in connection with in accordance with the laws of this
+246 state.
+247 43-24B-12.
+248 A licensed midwife shall:
+249 (1) Limit his or her practice to pregnancy, labor, delivery, and postpartum, newborn, and
+250 interconception care that is not a pharmacologically induced labor and in which the infant
+251 is born spontaneously between 37 and 43 completed weeks of gestation; provided,
+252 however, that the limitation contained in this paragraph shall not prohibit a licensed
+253 midwife from delivering an infant when there is intrauterine fetal demise or a fetal
+254 anomaly incompatible with life; and
+255 (2) Appropriately recommend and facilitate consultation or collaboration with or referral
+256 or transfer of care to a licensed healthcare professional when the circumstances require
+257 such action in accordance with this chapter and standards established by advisory board
+258 rule.
+259 43-24B-13.
+260 (a) If, after a client has been informed that she has or may have a condition indicating the
+261 need for medical consultation, collaboration, referral, or transfer, and the client declines a
+262 referral or transfer of care, the licensed midwife shall:
+263 (1) Terminate care in accordance with procedures established by advisory board rule; or
+H. B. 520
+- 11 -
+25 LC 55 0511
+264 (2) Continue to provide care for the client if the client signs an informed consent waiver
+265 of medical consultation, collaboration, referral, or transfer. A licensed midwife shall not
+266 be held liable when such informed consent waiver is signed.
+267 (b) If, after a client has been informed that she has or may have a condition indicating the
+268 need for immediate transfer, and the client declines such transfer, the licensed midwife
+269 shall, in accordance with procedures established by advisory board rule, terminate the care
+270 or initiate transfer by:
+271 (1) Calling 9-1-1 and reporting the need for immediate transfer;
+272 (2) Immediately transporting the client by private vehicle to the receiving provider; or
+273 (3) Contacting the physician to whom the client will be transferred and following such
+274 physician's orders.
+275 (c) The standards for consultation and transfer provided in this Code section represent the
+276 minimum requirements that a licensed midwife must adhere to. A licensed midwife shall
+277 initiate consultation or collaboration with or referral or transfer of a client to a licensed
+278 healthcare provider or facility at an earlier stage than mandated by administrative rule if,
+279 based on the licensed midwife's professional judgment and experience, the health status of
+280 the mother or infant necessitates such action.
+281 43-24B-14.
+282 (a) If a licensed midwife initiates consultation or collaboration with or the referral or
+283 transfer of a client to a licensed healthcare provider or facility, the responsibility of the
+284 provider or facility for the client shall not begin until the client is physically within the care
+285 of such provider or facility.
+286 (b) A licensed healthcare provider who examines a licensed midwife's client shall only be
+287 liable for the actual examination and shall not be held accountable for the client's decision
+288 to pursue an out-of-hospital birth or the services of a licensed midwife.
+H. B. 520
+- 12 -
+25 LC 55 0511
+289 (c)(1) A licensed healthcare provider may, upon receiving a briefing or data from a
+290 licensed midwife, issue a medical order for the licensed midwife's client, without that
+291 client being an explicit patient of such provider.
+292 (2) Regardless of the advice given or order issued, the responsibility and liability for
+293 caring for the client shall be that of the licensed midwife.
+294 (3) The provider giving the order shall be responsible and liable only for the
+295 appropriateness of the order, given the briefing or data received.
+296 (4) The issuing of an order for a licensed midwife's client shall not constitute a
+297 delegation of duties from the other provider to the licensed midwife.
+298 (d) A licensed midwife shall be solely responsible for the administration of medications
+299 by such licensed midwife as authorized under this chapter.
+300 43-24B-15.
+301 A licensed midwife shall not be authorized to:
+302 (1) Administer a prescription drug to a client in a manner that violates this chapter;
+303 (2) Effect any type of surgical delivery except for the cutting of an emergency
+304 episiotomy;
+305 (3) Administer any type of epidural, spinal, or caudal anesthetic or any type of narcotic
+306 analgesic; or
+307 (4) Use forceps or a vacuum extractor.
+308 43-24B-16.
+309 Nothing in this chapter shall be construed to abridge or limit in any way the right of a
+310 parent or parents to deliver a fetus where, when, how, and with whom they choose.
+311 43-24B-17.
+312 (a) Nothing in this chapter shall be construed to prevent:
+H. B. 520
+- 13 -
+25 LC 55 0511
+313 (1) Any licensed healthcare professional from engaging in the authorized scope of
+314 practice of his or her profession;
+315 (2) Members of a pregnant woman's family from providing incidental care;
+316 (3) Representatives of a pregnant woman's culture from providing care consistent with
+317 the tenets or practices of such culture or representatives of a pregnant woman's religion
+318 from providing care consistent with practices of such religion; provided, however, that
+319 such representatives shall not hold themselves out as licensed midwives unless such
+320 representatives are licensed under this chapter; or
+321 (4) Precepted apprentices, student midwives, and midwifery assistants from providing
+322 midwifery services under the supervision and in the physical presence of a licensed
+323 midwife.
+324 (b) The practice of midwifery shall not constitute the practice of medicine in this state.
+325 (c) Nothing in this chapter shall be construed to change the regulation of physicians as
+326 provided for in the laws of this state.
+327 43-24B-18.
+328 Any health insurance policy, health maintenance organization plan, or other form of health
+329 insurance coverage, including Medicaid, that covers maternity care shall not deny coverage
+330 for maternity care provided by a licensed midwife in any setting and shall reimburse
+331 maternity care by a licensed midwife at the same rate as for other providers of maternity
+332 care covered by the policy, plan, or coverage.
+333 43-24B-19.
+334 Any violation of this chapter or any rules and regulations adopted pursuant to this chapter
+335 is declared to be a public nuisance subject to abatement as provided in Code Section
+336 31-5-9."
+H. B. 520
+- 14 -
+25 LC 55 0511
+337 SECTION 4.
+338 Said title is further amended in subsection (a) of Code Section 43-26-12, relating to
+339 exceptions to the operation of the "Georgia Registered Professional Nurse Practice Act," by
+340 striking "and" at the end of subparagraph (E) of paragraph (9), by replacing the period at the
+341 end of paragraph (10) with "; and", and by adding a new paragraph to read as follows:
+342 "(11) The practice of midwifery by a licensed midwife pursuant to Chapter 24B of this
+343 title."
+344 SECTION 5.
+345 This Act shall become effective upon its approval by the Governor or upon its becoming law
+346 without such approval.
+347 SECTION 6.
+348 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 520
+- 15 -
+[DELETED: 5L2,3,7,drdt8,3,ht t i o r a l t p f f v t p f t]
+[DELETED: 5L 3 o t O C o G A r t h i a i]
+[DELETED: 5L  ' c m a w c b t c c t o]
+[DELETED: 5L o t c s o c a i p b k r d p b a t p p i w o r w o m c p w m p n a d a p f c a r w s a a a i b n l t P p m s t n i v K a e p o i a f G ]
+[DELETED: 5L a p R i g l a t n i t s s b i t i t  F p l t n f p c c a  E t o o a p i t o a w t e]
+[DELETED: 5L]
+[DELETED: 5L  F t t a b a f s o f t e a c i t b c o t a s a t d t  H a c c i a c r ( a  H a c c i g s f a m o p c b n e a p c f ]
+[DELETED: 5L t o o t a b r q a m s]
+[DELETED: 5L  A p o m d t r s l i o s  T a b m a a a f o t s d o]
+[DELETED: 5L]
+[DELETED: 5L b s b 3 a 4 c w o g p]
+[DELETED: 5L]
+[DELETED: 5L  T p g t o s b r a l o f t  T i o a o f a l m c s n c   E a t o s d e f t c o a e]
+[DELETED: 5L]
+[DELETED: 5L t i f a i s ( o C S 4 r t]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0511
+House Bill 520
+By: Representatives Mathiak of the 82nd, Powell of the 33rd, Momtahan of the 17th, Williams
+of the 168th, Dempsey of the 13th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 31 of the Official Code of Georgia Annotated, relating to health, so as to
+2 repeal in its entirety Chapter 26, relating to the practice of midwifery; to revise provisions
+3 relating to peer review to include midwives; to amend Title 43 of the Official Code of
+4 Georgia Annotated, relating to professions and businesses, so as to provide for the licensure
+5 and regulation of midwives; to provide for a short title; to provide for legislative findings;
+6 to provide for definitions; to provide for the creation of the Advisory Board for Licensed
+7 Midwives; to provide for its membership and duties; to provide for licensure requirements;
+8 to provide for renewal of licenses; to provide for the revocation, suspension, denial, or
+9 refusal to issue or renew a license; to provide fines for violations; to provide for the
+10 promulgation of rules and regulations; to prohibit the practice of midwifery without a license;
+11 to provide exceptions; to provide for informed consent and written disclosures to clients; to
+12 limit the practice of midwifery; to provide for standards of care and liability in certain
+13 situations; to provide for prohibited acts; to authorize the filing of birth certificates; to
+14 provide for statutory construction; to provide for coverage; to provide for abatement; to
+15 provide for an exception under the "Georgia Registered Professional Nurse Practice Act";
+16 to provide for related matters; to provide for an effective date; to repeal conflicting laws; and
+17 for other purposes.
+H. B. 520
+- 1 -
+
+25 LC 55 0511
+18 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+19 SECTION 1.
+20 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended in
+21 paragraph (2) of Code Section 31-7-131, relating to definitions relative to peer review
+22 groups, by striking "and" at the end of subparagraph (L), by replacing the period at the end
+23 of subparagraph (M) with "; and", and by adding a new subparagraph to read as follows:
+24 "(N) A midwife."
+25 SECTION 2.
+26 Said title is further amended by repealing in its entirety Chapter 26, relating to the practice
+27 of midwifery, and designating said chapter as reserved.
+28 SECTION 3.
+29 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+30 is amended by adding a new chapter to read as follows:
+31 "CHAPTER 24B
+32 43-24B-1.
+33 This chapter shall be known and may be cited as the 'Georgia Licensed Midwife Act.'
+34 43-24B-2.
+35 (a) The General Assembly finds that:
+36 (1) Parents are entitled to freedom in choosing their provider and setting for childbirth;
+37 (2) Some potential parents in this state desire alternatives to currently available hospital
+38 based maternity care;
+H. B. 520
+- 2 -
+
+25 LC 55 0511
+39 (3) Trained and competent midwifery professionals can enhance health and safety during
+40 planned, out-of-hospital births;
+41 (4) Midwives are independent, autonomous healthcare providers who are trained in
+42 managing normal physiological births in the community setting;
+43 (5) Numerous counties in this state are underserved by obstetricians;
+44 (6) Midwives can assist women and their families with safe and effective childbirth
+45 while guiding the health, safety, and welfare of mothers and their offspring through the
+46 childbearing year; and
+47 (7) Regulating midwifery promotes access to safe and effective antepartum, intrapartum,
+48 and postpartum care.
+49 (b) The General Assembly, therefore, declares it to be the purpose of this chapter to protect
+50 the health, safety, and welfare of the public by providing for the licensure and regulation
+51 of the activities of midwives.
+52 43-24B-3.
+53 As used in this chapter, the term:
+54 (1) 'Advisory board' means the Advisory Board for Licensed Midwives established
+55 pursuant to Code Section 43-24B-4.
+56 (2) 'Collaboration' means a process by which a licensed midwife and a physician or other
+57 appropriate healthcare provider jointly manage the care of a client, the requirements for
+58 which shall be defined by the advisory board.
+59 (3) 'Consultation' means a communication between a licensed midwife and a physician
+60 or appropriate healthcare provider with expertise in providing medical services to women
+61 during the prenatal, childbirth, and postpartum periods when assessing a condition during
+62 such periods.
+63 (4) 'Informed consent' means a written certification by the client consenting to or
+64 declining procedures, protocols, and treatments or recommended diagnostic tests after full
+H. B. 520
+- 3 -
+
+25 LC 55 0511
+65 disclosure of the current standard of care and its purpose, benefits, known risks,
+66 contraindications, and associated risks, as well as any alternative options.
+67 (5) 'License' means a license issued pursuant to this chapter to engage in the practice of
+68 midwifery.
+69 (6) 'Licensed midwife' or 'licensee' means an individual licensed under this chapter who
+70 is engaging in the practice of midwifery.
+71 (7) 'Practice of midwifery' means assistance given, in exchange for compensation, to
+72 women during pregnancy, birth, and the postpartum period, including well-woman
+73 screening and education. Such assistance may be provided in out-of-hospital settings,
+74 such as a private home or a birth center. Such assistance, which is provided within a
+75 network of relationships with other maternity care providers who may provide
+76 consultation and collaboration when needed, includes:
+77 (A) Providing care, education, counseling, and support to women and their families
+78 throughout pregnancy, birth, and the postpartum period; identifying unique physical
+79 social and emotional needs; recognizing abnormal conditions requiring the services of
+80 a healthcare provider such as a physician, physician assistant, or advanced practice
+81 registered nurse and developing a plan for consultation and referral when such
+82 conditions arise; and providing emergency care and support for mothers and babies
+83 until additional assistance is available;
+84 (B) Ordering prenatal, postpartum, and well-woman laboratory analyses performed by
+85 a licensed laboratory for screening purposes; ordering obstetric ultrasounds; obtaining
+86 and using appropriate equipment and devices such as a Doppler ultrasound, blood
+87 pressure cuff, and phlebotomy supplies, instruments, and sutures; obtaining, carrying,
+88 and administering antihemorrhagic agents including but not limited to Pitocin
+89 (oxytocin), misoprostol and methergine, intravenous fluids for stabilization of the
+90 laboring person, magnesium sulfate, terbutaline, neonatal injectable vitamin K,
+91 newborn antibiotic eye prophylaxis, oxygen, intravenous antibiotics for Group B
+H. B. 520
+- 4 -
+
+25 LC 55 0511
+92 Streptococcal antibiotic prophylaxis, Rho(D) immune globulin, local anesthetic,
+93 epinephrine, and other drugs or supplies approved by the advisory board; provided,
+94 however, that nothing in this subparagraph shall be interpreted to include the
+95 prescribing of medications;
+96 (C) Managing the postpartum period, including the suturing of an episiotomy and the
+97 suturing of first and second degree natural perineal and labial lacerations, including the
+98 administration of a local anesthetic;
+99 (D) Managing the newborn period, including:
+100 (i) Providing care for a newborn baby, including performing a normal newborn baby
+101 examination;
+102 (ii) Resuscitating a newborn baby; and
+103 (iii) Performing newborn screenings;
+104 (E) Providing limited interconception services in order to provide continuity of care,
+105 including:
+106 (i) Breastfeeding support and counseling;
+107 (ii) Family planning, limited to natural family planning, cervical caps, and
+108 diaphragms; and
+109 (iii) Pap smears, where each client with an abnormal result is to be referred to an
+110 appropriate licensed healthcare provider; and
+111 (F) Executing the orders of a physician, if the orders are within the education,
+112 knowledge, and skill of the licensed midwife.
+113 (8) 'Qualified instructor' means an individual who:
+114 (A) Holds a license under this chapter; or
+115 (B) Is a licensed healthcare provider who has at least five years of experience or who
+116 has participated in 50 documented births as the primary healthcare provider.
+H. B. 520
+- 5 -
+
+25 LC 55 0511
+117 (9) 'Referral' means a request made by a licensed midwife to a physician or other
+118 healthcare provider for an assessment of a mother or her offspring in order to determine
+119 appropriate care.
+120 43-24B-4.
+121 (a) There is created within the division the Advisory Board for Licensed Midwives which
+122 shall consist of six members.
+123 (b) The Governor shall appoint all members of the advisory board as follows:
+124 (1) Four licensed midwives;
+125 (2) One physician with experience collaborating in out-of-hospital birth; and
+126 (3) One member of the general public who has used the services of a licensed midwife
+127 in this state.
+128 (c) The members of the advisory board shall serve for terms of two years and may succeed
+129 themselves.
+130 (d) Any vacancy on the advisory board shall be filled in the same manner as the regular
+131 appointments.
+132 (e) The Governor may remove members of the advisory board for incompetence, neglect
+133 of duty, unprofessional conduct, conviction of any felony, failure to meet the qualifications
+134 of this chapter, or committing any act prohibited by this chapter.
+135 (f) The advisory board shall elect a chairperson from among its membership and may elect
+136 other officers at the discretion of the advisory board, who shall each serve for one year.
+137 (g) The advisory board shall meet at least once per year or as otherwise called by the
+138 chairperson.
+139 43-24B-5.
+140 The advisory board shall issue a license to engage in the practice of midwifery to any
+141 individual who meets the requirements of this chapter.
+H. B. 520
+- 6 -
+
+25 LC 55 0511
+142 43-24B-6.
+143 (a) Each applicant for a license under this chapter shall:
+144 (1) Submit an application in a form prescribed by the division;
+145 (2) Pay an application fee as determined by the advisory board;
+146 (3) Furnish to the advisory board a full set of fingerprints to enable a criminal
+147 background investigation to be conducted on the applicant so as to determine the
+148 applicant's suitability to be a licensed midwife. The advisory board shall submit the
+149 applicant's fingerprints to the Georgia Crime Information Center. If no disqualifying
+150 record is identified at the state level, the Georgia Crime Information Center is authorized
+151 to submit the fingerprints to the Federal Bureau of Investigation for a national criminal
+152 history check. The Georgia Crime Information Center shall notify the advisory board in
+153 writing of the results of such criminal background investigation, which shall be used by
+154 the advisory board for the exclusive purpose of carrying out its responsibilities under this
+155 chapter, shall not be a public record, shall be privileged, and shall not be disclosed to any
+156 other person or agency;
+157 (4) Hold a current certification in adult cardiopulmonary resuscitation (CPR) and
+158 neonatal resuscitation from an organization recognized by the advisory board;
+159 (5) Provide documentation of successful completion of a pharmacology course approved
+160 by the advisory board; and
+161 (6) Hold a current certification in good standing from a midwifery organization
+162 recognized by the advisory board, such as the North American Registry of Midwives, the
+163 American Midwifery Certification Board, or any successor organizations.
+164 (b) The advisory board, in its discretion, may issue a license to an applicant who does not
+165 meet the requirements of paragraph (6) of subsection (a) of this Code section but who:
+166 (1) Has received midwifery training, which shall include experience in initial obstetrical
+167 exams, prenatal care, births, newborn examinations, and postpartum care, from a
+168 qualified instructor for at least three years; participated in at least 50 documented births;
+H. B. 520
+- 7 -
+
+25 LC 55 0511
+169 and achieved a passing score on an examination approved by the advisory board relating
+170 to the practice of midwifery;
+171 (2) Has been engaged in the practice of midwifery for at least 25 years; or
+172 (3) Is licensed to engage in the practice of midwifery in another jurisdiction whose laws,
+173 in the opinion of the advisory board, require qualifications and maintain standards
+174 substantially the same as those of this state for licensed midwives.
+175 43-24B-7.
+176 (a) A license issued by the advisory board shall be renewed every two years if the licensee
+177 is not in violation of this chapter at the time of application for renewal and has completed
+178 20 hours of continuing education approved by the advisory board since the license was
+179 issued or last renewed.
+180 (b) Each individual licensed under this chapter is responsible for renewing his or her
+181 license before the expiration date.
+182 43-24B-8.
+183 (a) The advisory board may revoke, suspend, deny, or refuse to issue or renew a license;
+184 place a licensee on probation; or issue a letter of admonition upon proof that the licensee
+185 or applicant has:
+186 (1) Procured or attempted to procure a license by fraud, deceit, misrepresentation,
+187 misleading omission, or material misstatement of fact;
+188 (2) Been convicted of a felony or of any crime involving moral turpitude as provided
+189 under state law;
+190 (3) Willfully or negligently acted in a manner inconsistent with the health or safety of
+191 persons under such licensee's care;
+H. B. 520
+- 8 -
+
+25 LC 55 0511
+192 (4) Had a license to practice a business or profession suspended or revoked or has
+193 otherwise been subject to discipline related to such licensee's practice of a business or
+194 profession in any other jurisdiction;
+195 (5) Committed a fraudulent act that materially affects the fitness of the licensee or
+196 applicant to practice a business or profession;
+197 (6) Excessively or habitually used alcohol or drugs, provided that the advisory board
+198 shall not discipline a licensee under this paragraph if such licensee is enrolled in a
+199 substance abuse program approved by the advisory board; or
+200 (7) A physical or mental disability that renders such licensee incapable of safely
+201 engaging in the practice of midwifery.
+202 (b) The advisory board is authorized to conduct investigations into allegations of conduct
+203 described in subsection (a) of this Code section.
+204 (c) In addition to revoking, suspending, denying, or refusing to renew a license, the
+205 advisory board may fine a licensee found to have violated any provision of this chapter or
+206 any rule adopted by the advisory board under this chapter in an amount of not less than
+207 $100.00 nor more than $500.00 for each such violation.
+208 (d) The provisions of Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act,'
+209 shall be applicable to the advisory board and the provisions of this chapter.
+210 (e) Any person may file a complaint with the advisory board with respect to a licensed
+211 midwife.
+212 43-24B-9.
+213 (a) The advisory board may promulgate any rules and regulations necessary to carry out
+214 the provisions of this chapter.
+215 (b) The advisory board may act as a facilitator of the state-wide dissemination of
+216 information concerning the practice of midwifery and the services of licensed midwives.
+H. B. 520
+- 9 -
+
+25 LC 55 0511
+217 43-24B-10.
+218 (a) Except as provided in subsection (b) of this Code section, no person shall engage in the
+219 practice of midwifery in this state unless such person holds a license issued by the advisory
+220 board pursuant to Code Section 43-24B-5.
+221 (b) A person may engage in the practice of midwifery in this state without a license if:
+222 (1) The person is a licensed healthcare practitioner and the services provided are within
+223 the scope of the person's license; or
+224 (2)(A) The person does not advertise that the person is a licensed midwife; and
+225 (B) The person discloses the following to each client on an informed disclosure
+226 document that is signed by the client:
+227 (i) That the person does not possess a license to engage in the practice of midwifery
+228 in this state;
+229 (ii) That the person's education and qualifications have not been reviewed by the
+230 state;
+231 (iii) That the person is not authorized to carry and administer potentially life-saving
+232 medications;
+233 (iv) A plan for transporting the client to the hospital if a problem arises during labor
+234 or childbirth; and
+235 (v) That the client will not have recourse through a complaint process conducted by
+236 a professional licensing board.
+237 (c) Any individual engaging in the practice of midwifery without a license in violation of
+238 this Code section shall be subject to a fine of not less than $100.00 nor more than $500.00
+239 for each such violation.
+H. B. 520
+- 10 -
+
+25 LC 55 0511
+240 43-24B-11.
+241 (a) Prior to engaging in the practice of midwifery with a client, a licensed midwife shall
+242 obtain informed consent from such client and retain a copy of such informed consent for
+243 at least four years.
+244 (b) A licensed midwife shall be authorized to file a birth certificate for each birth that such
+245 licensed midwife provides services in connection with in accordance with the laws of this
+246 state.
+247 43-24B-12.
+248 A licensed midwife shall:
+249 (1) Limit his or her practice to pregnancy, labor, delivery, and postpartum, newborn, and
+250 interconception care that is not a pharmacologically induced labor and in which the infant
+251 is born spontaneously between 37 and 43 completed weeks of gestation; provided,
+252 however, that the limitation contained in this paragraph shall not prohibit a licensed
+253 midwife from delivering an infant when there is intrauterine fetal demise or a fetal
+254 anomaly incompatible with life; and
+255 (2) Appropriately recommend and facilitate consultation or collaboration with or referral
+256 or transfer of care to a licensed healthcare professional when the circumstances require
+257 such action in accordance with this chapter and standards established by advisory board
+258 rule.
+259 43-24B-13.
+260 (a) If, after a client has been informed that she has or may have a condition indicating the
+261 need for medical consultation, collaboration, referral, or transfer, and the client declines a
+262 referral or transfer of care, the licensed midwife shall:
+263 (1) Terminate care in accordance with procedures established by advisory board rule; or
+H. B. 520
+- 11 -
+
+25 LC 55 0511
+264 (2) Continue to provide care for the client if the client signs an informed consent waiver
+265 of medical consultation, collaboration, referral, or transfer. A licensed midwife shall not
+266 be held liable when such informed consent waiver is signed.
+267 (b) If, after a client has been informed that she has or may have a condition indicating the
+268 need for immediate transfer, and the client declines such transfer, the licensed midwife
+269 shall, in accordance with procedures established by advisory board rule, terminate the care
+270 or initiate transfer by:
+271 (1) Calling 9-1-1 and reporting the need for immediate transfer;
+272 (2) Immediately transporting the client by private vehicle to the receiving provider; or
+273 (3) Contacting the physician to whom the client will be transferred and following such
+274 physician's orders.
+275 (c) The standards for consultation and transfer provided in this Code section represent the
+276 minimum requirements that a licensed midwife must adhere to. A licensed midwife shall
+277 initiate consultation or collaboration with or referral or transfer of a client to a licensed
+278 healthcare provider or facility at an earlier stage than mandated by administrative rule if,
+279 based on the licensed midwife's professional judgment and experience, the health status of
+280 the mother or infant necessitates such action.
+281 43-24B-14.
+282 (a) If a licensed midwife initiates consultation or collaboration with or the referral or
+283 transfer of a client to a licensed healthcare provider or facility, the responsibility of the
+284 provider or facility for the client shall not begin until the client is physically within the care
+285 of such provider or facility.
+286 (b) A licensed healthcare provider who examines a licensed midwife's client shall only be
+287 liable for the actual examination and shall not be held accountable for the client's decision
+288 to pursue an out-of-hospital birth or the services of a licensed midwife.
+H. B. 520
+- 12 -
+
+25 LC 55 0511
+289 (c)(1) A licensed healthcare provider may, upon receiving a briefing or data from a
+290 licensed midwife, issue a medical order for the licensed midwife's client, without that
+291 client being an explicit patient of such provider.
+292 (2) Regardless of the advice given or order issued, the responsibility and liability for
+293 caring for the client shall be that of the licensed midwife.
+294 (3) The provider giving the order shall be responsible and liable only for the
+295 appropriateness of the order, given the briefing or data received.
+296 (4) The issuing of an order for a licensed midwife's client shall not constitute a
+297 delegation of duties from the other provider to the licensed midwife.
+298 (d) A licensed midwife shall be solely responsible for the administration of medications
+299 by such licensed midwife as authorized under this chapter.
+300 43-24B-15.
+301 A licensed midwife shall not be authorized to:
+302 (1) Administer a prescription drug to a client in a manner that violates this chapter;
+303 (2) Effect any type of surgical delivery except for the cutting of an emergency
+304 episiotomy;
+305 (3) Administer any type of epidural, spinal, or caudal anesthetic or any type of narcotic
+306 analgesic; or
+307 (4) Use forceps or a vacuum extractor.
+308 43-24B-16.
+309 Nothing in this chapter shall be construed to abridge or limit in any way the right of a
+310 parent or parents to deliver a fetus where, when, how, and with whom they choose.
+311 43-24B-17.
+312 (a) Nothing in this chapter shall be construed to prevent:
+H. B. 520
+- 13 -
+
+25 LC 55 0511
+313 (1) Any licensed healthcare professional from engaging in the authorized scope of
+314 practice of his or her profession;
+315 (2) Members of a pregnant woman's family from providing incidental care;
+316 (3) Representatives of a pregnant woman's culture from providing care consistent with
+317 the tenets or practices of such culture or representatives of a pregnant woman's religion
+318 from providing care consistent with practices of such religion; provided, however, that
+319 such representatives shall not hold themselves out as licensed midwives unless such
+320 representatives are licensed under this chapter; or
+321 (4) Precepted apprentices, student midwives, and midwifery assistants from providing
+322 midwifery services under the supervision and in the physical presence of a licensed
+323 midwife.
+324 (b) The practice of midwifery shall not constitute the practice of medicine in this state.
+325 (c) Nothing in this chapter shall be construed to change the regulation of physicians as
+326 provided for in the laws of this state.
+327 43-24B-18.
+328 Any health insurance policy, health maintenance organization plan, or other form of health
+329 insurance coverage, including Medicaid, that covers maternity care shall not deny coverage
+330 for maternity care provided by a licensed midwife in any setting and shall reimburse
+331 maternity care by a licensed midwife at the same rate as for other providers of maternity
+332 care covered by the policy, plan, or coverage.
+333 43-24B-19.
+334 Any violation of this chapter or any rules and regulations adopted pursuant to this chapter
+335 is declared to be a public nuisance subject to abatement as provided in Code Section
+336 31-5-9."
+H. B. 520
+- 14 -
+
+25 LC 55 0511
+337 SECTION 4.
+338 Said title is further amended in subsection (a) of Code Section 43-26-12, relating to
+339 exceptions to the operation of the "Georgia Registered Professional Nurse Practice Act," by
+340 striking "and" at the end of subparagraph (E) of paragraph (9), by replacing the period at the
+341 end of paragraph (10) with "; and", and by adding a new paragraph to read as follows:
+342 "(11) The practice of midwifery by a licensed midwife pursuant to Chapter 24B of this
+343 title."
+344 SECTION 5.
+345 This Act shall become effective upon its approval by the Governor or upon its becoming law
+346 without such approval.
+347 SECTION 6.
+348 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 520
+- 15 -
+
+[DELETED: 5L2,3,7,drdt8,3,ht t i o r a l t p f f v t p f t]
+[DELETED: 5L 3 o t O C o G A r t h i a i]
+[DELETED: 5L  ' c m a w c b t c c t o]
+[DELETED: 5L o t c s o c a i p b k r d p b a t p p i w o r w o m c p w m p n a d a p f c a r w s a a a i b n l t P p m s t n i v K a e p o i a f G ]
+[DELETED: 5L a p R i g l a t n i t s s b i t i t  F p l t n f p c c a  E t o o a p i t o a w t e]
+[DELETED: 5L]
+[DELETED: 5L  F t t a b a f s o f t e a c i t b c o t a s a t d t  H a c c i a c r ( a  H a c c i g s f a m o p c b n e a p c f ]
+[DELETED: 5L t o o t a b r q a m s]
+[DELETED: 5L  A p o m d t r s l i o s  T a b m a a a f o t s d o]
+[DELETED: 5L]
+[DELETED: 5L b s b 3 a 4 c w o g p]
+[DELETED: 5L]
+[DELETED: 5L  T p g t o s b r a l o f t  T i o a o f a l m c s n c   E a t o s d e f t c o a e]
+[DELETED: 5L]
+[DELETED: 5L t i f a i s ( o C S 4 r t]

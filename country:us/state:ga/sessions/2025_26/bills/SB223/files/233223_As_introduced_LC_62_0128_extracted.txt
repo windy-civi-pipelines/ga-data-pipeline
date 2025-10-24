@@ -1,0 +1,342 @@
+Title: Senate Bill 223
+Official Title: Senate Bill 223
+Number of Sections: 1
+Source: versions - As introduced LC 62 0128
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 62 0128
+By: Senators Jones II of the 22nd, Jackson of the 41st, Parent of the 44th, Halpern of the
+39th, Esteves of the 35th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 3 of Title 51 of the Official Code of Georgia Annotated,
+2 relating to general provisions relative to liability of owners and occupiers of land, so as to
+3 limit liability for premises liability actions unless claimants can show certain facts; to provide
+4 for affirmative defenses; to provide for rebuttable presumptions; to provide for a short title;
+5 to provide for definitions; to provide for related matters; to provide for an effective date and
+6 applicability; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and cited as the "Pro People, Pro Business Act."
+10 SECTION 2.
+11 Article 1 of Chapter 3 of Title 51 of the Official Code of Georgia Annotated, relating to
+12 general provisions, is amended by adding a new Code section to read as follows:
+13 "51-3-1.1.
+14 (a) As used in this Code section, the term:
+S. B. 223
+- 1 -
+25 LC 62 0128
+15 (1) 'Claimant' means any person or any person's survivor, conservator, next friend, or
+16 other legal representative, including, but not limited to, an administrator of a decedent's
+17 estate, who seeks recovery of damages under this Code section.
+18 (2) 'Crime deterrence and safety education' means training which instructs and
+19 familiarizes employees of the owner or occupier with the security principles, devices, and
+20 measures and which complies with standards as developed by the Commissioner of
+21 Insurance and reviewed and updated at least every three years.
+22 (3) 'Owner or occupier of land' means any person that owns, leases, occupies, operates,
+23 maintains, or manages real property of any kind or any director, officer, employee, or
+24 agent of such person.
+25 (4) 'Premises' means the real property that is owned, leased, occupied, operated,
+26 maintained, or managed by an owner or occupier.
+27 (5) 'Security camera system' means a digital surveillance system that captures and
+28 records video on a continuous basis consisting of at least four cameras that capture
+29 images at a minimum resolution of 4MP, 1440p, and a minimum of 24 frames per second
+30 that are arranged to record video from inside and outside a premises' entrances and exits
+31 and at least 200 feet from outside the building, and any recording remains retrievable for
+32 not less than 30 days.
+33 (6) 'Security contractor' means any person or entity that by express or implied agreement,
+34 or by law, assumes a duty, has authority to provide a service, or otherwise acts for or on
+35 behalf of an owner or occupier of land to provide protective security services upon any
+36 premises and any director, officer, employee, or agent of such person or entity.
+37 (7) 'Third-party' means any person that is not a claimant, an owner or occupier of land,
+38 including, but not limited, to any director, officer, employee, or agent of an owner or
+39 occupier of land, or the employee, agent, or any other person on the premises or
+40 approaches providing a service for or on behalf of the owner or occupier of land.
+41 (8) 'Wrongful conduct' means:
+S. B. 223
+- 2 -
+25 LC 62 0128
+42 (A) Any violation of a law or ordinance of this state, or any subdivision thereof,
+43 including, but not limited to, counties, consolidated governments, and municipalities,
+44 that could constitute a misdemeanor or felony regardless of whether such violation
+45 results in an arrest, conviction, or guilty plea; or
+46 (B) Any other act that amounts to an intentional tort or willful and wanton conduct.
+47 (b) An owner or occupier of land shall not be liable for any injury arising from third-party
+48 wrongful conduct unless a claimant can demonstrate that:
+49 (1) The third-party wrongful conduct at issue was reasonably foreseeable pursuant to
+50 subsection (c) of this Code section; and
+51 (2) The owner or occupier of land failed to take reasonable precautions to protect
+52 invitees from third-party wrongful conduct.
+53 (c) Third-party wrongful conduct is reasonably foreseeable when:
+54 (1) Such third-party wrongful conduct was sufficient to put the owner or occupier of land
+55 on notice of the potential harm; and
+56 (2)(A) Such third-party wrongful conduct was substantially similar to prior occurrences
+57 of third-party wrongful conduct in close physical proximity to the premises;
+58 (B) The condition of the premises or approaches gave the owner or occupier of land
+59 sufficient notice to anticipate the criminal act giving rise to the claimant's injuries; or
+60 (C) The danger of the third-party wrongful conduct occurrence is so obvious and
+61 probable to occur that no reasonable argument could be made against foreseeability.
+62 (d) There shall be a rebuttable presumption that an owner or occupier of land is on notice
+63 of substantially similar prior occurrences of third-party wrongful conduct when such
+64 conduct:
+65 (1) Occurred within 200 yards of the premises;
+66 (2) Occurred on the premises or its approaches;
+67 (3) Occurred reasonably close in time to the third-party wrongful conduct at issue;
+68 (4) Occurred frequently; or
+S. B. 223
+- 3 -
+25 LC 62 0128
+69 (5) Was of a kind of conduct that a reasonable person would find similar to the conduct
+70 at issue.
+71 (e) In addition to any other available defenses, it shall be an affirmative defense to an
+72 action brought under this Code section if:
+73 (1) No wrongful conduct had previously occurred on the premises or approaches other
+74 than the third-party wrongful conduct giving rise to the claimant's injuries, even if such
+75 premises or approaches are situated in a high crime area, except where the claimant can
+76 establish that the owner or occupier of land had sufficient reason to anticipate the
+77 third-party wrongful conduct; and
+78 (2) The claimant:
+79 (A) Entered the premises or approaches for the purpose of committing a crime against
+80 the premises or approaches or against a person on the premises or approaches and is not
+81 a victim of a crime under Code Section 16-5-46; or
+82 (B) Is not an invitee.
+83 (f) An owner or occupier of land shall have a rebuttable presumption against liability for
+84 third-party wrongful conduct where, at the time of injury, the owner or occupier of land
+85 establishes that he or she has:
+86 (1) Provided crime deterrence and safety education to current employees by July 1, 2026,
+87 and after July 1, 2026, provides such training to new employees within 60 days of the
+88 date of hire; and
+89 (2) Substantially complied with this subsection by implementing the following security
+90 measures on the premises:
+91 (A) An installed security camera system;
+92 (B) A lighted parking lot illuminated at an intensity of at least an average of 1.8
+93 foot-candles per square foot at 18 inches above the surface from dusk until dawn or
+94 controlled by photocell or any similar device which provides light from dusk until
+95 dawn;
+S. B. 223
+- 4 -
+25 LC 62 0128
+96 (C) Window signage that allows a clear and unobstructed view from outside the
+97 building and in a normal line of sight of the cash register and sales transaction area;
+98 (D) A drop safe or cash management device for restricted access to cash receipts;
+99 (E) No window tinting that reduces exterior or interior view in a normal line of sight;
+100 and
+101 (F) A security contractor on the premises at all times after 5 P.M. and before 7 A.M.
+102 (g) If the premises contain a residential building, or a group of residential buildings, such
+103 as apartments, townhouses, or condominiums, consisting of at least five dwelling units, in
+104 addition to the security measures in paragraph (2) of subsection (f) of this Code section, an
+105 owner or occupier shall have a rebuttable presumption against premises liability for
+106 third-party wrongful conduct where, at the time of injury, the owner or occupier has:
+107 (1) By July 1, 2026, a crime prevention through environmental design assessment
+108 conducted by a certified practitioner or law enforcement agency within the past three
+109 years, where the residential building or buildings are in substantial compliance with the
+110 assessment; and
+111 (2) Substantially complied with this subsection by implementing the following safety
+112 measures on the premises:
+113 (A) At least a one-inch deadbolt in each dwelling exterior door;
+114 (B) A locking device on each window, each exterior sliding door, and any other doors
+115 not used for community purposes;
+116 (C) A peephole or other door view on each dwelling unit that does not have a window
+117 or a window next to the exterior door;
+118 (D) Lighting in walkways and laundry rooms, common areas, and porches, provided
+119 that such lighting is illuminated from dusk until dawn or controlled by photocell or any
+120 similar electronic device that provides light from dusk until dawn; and
+121 (E) Locked gates with key or fob access along pool fence areas if applicable.
+S. B. 223
+- 5 -
+25 LC 62 0128
+122 (h) The rebuttable presumption created by this Code section shall only be overcome by
+123 clear and convincing evidence.
+124 (i) Failure to provide the safety measures in subsections (f) and (g) of this Code section
+125 shall not create a presumption that the premises are not safe.
+126 (j) The state shall have no liability in connection with providing a training curriculum
+127 under this Code section."
+128 SECTION 3.
+129 This Act shall become effective on July 1, 2025, and shall apply to all causes of action
+130 arising and all insurance policies issued on or after such date.
+131 SECTION 4.
+132 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 223
+- 6 -
+[DELETED: 5L]
+[DELETED: 5L  ' d a s e m t w i a  ' m t r p t i o l o o o l o t e a o a o p o t p o]
+[DELETED: 5L p o]
+[DELETED: 5L t t o o o o l h s r t a t]
+[DELETED: 5L o o s h a r p a p l f]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 62 0128
+Senate Bill 223
+By: Senators Jones II of the 22nd, Jackson of the 41st, Parent of the 44th, Halpern of the
+39th, Esteves of the 35th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 3 of Title 51 of the Official Code of Georgia Annotated,
+2 relating to general provisions relative to liability of owners and occupiers of land, so as to
+3 limit liability for premises liability actions unless claimants can show certain facts; to provide
+4 for affirmative defenses; to provide for rebuttable presumptions; to provide for a short title;
+5 to provide for definitions; to provide for related matters; to provide for an effective date and
+6 applicability; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and cited as the "Pro People, Pro Business Act."
+10 SECTION 2.
+11 Article 1 of Chapter 3 of Title 51 of the Official Code of Georgia Annotated, relating to
+12 general provisions, is amended by adding a new Code section to read as follows:
+13 "51-3-1.1.
+14 (a) As used in this Code section, the term:
+S. B. 223
+- 1 -
+
+25 LC 62 0128
+15 (1) 'Claimant' means any person or any person's survivor, conservator, next friend, or
+16 other legal representative, including, but not limited to, an administrator of a decedent's
+17 estate, who seeks recovery of damages under this Code section.
+18 (2) 'Crime deterrence and safety education' means training which instructs and
+19 familiarizes employees of the owner or occupier with the security principles, devices, and
+20 measures and which complies with standards as developed by the Commissioner of
+21 Insurance and reviewed and updated at least every three years.
+22 (3) 'Owner or occupier of land' means any person that owns, leases, occupies, operates,
+23 maintains, or manages real property of any kind or any director, officer, employee, or
+24 agent of such person.
+25 (4) 'Premises' means the real property that is owned, leased, occupied, operated,
+26 maintained, or managed by an owner or occupier.
+27 (5) 'Security camera system' means a digital surveillance system that captures and
+28 records video on a continuous basis consisting of at least four cameras that capture
+29 images at a minimum resolution of 4MP, 1440p, and a minimum of 24 frames per second
+30 that are arranged to record video from inside and outside a premises' entrances and exits
+31 and at least 200 feet from outside the building, and any recording remains retrievable for
+32 not less than 30 days.
+33 (6) 'Security contractor' means any person or entity that by express or implied agreement,
+34 or by law, assumes a duty, has authority to provide a service, or otherwise acts for or on
+35 behalf of an owner or occupier of land to provide protective security services upon any
+36 premises and any director, officer, employee, or agent of such person or entity.
+37 (7) 'Third-party' means any person that is not a claimant, an owner or occupier of land,
+38 including, but not limited, to any director, officer, employee, or agent of an owner or
+39 occupier of land, or the employee, agent, or any other person on the premises or
+40 approaches providing a service for or on behalf of the owner or occupier of land.
+41 (8) 'Wrongful conduct' means:
+S. B. 223
+- 2 -
+
+25 LC 62 0128
+42 (A) Any violation of a law or ordinance of this state, or any subdivision thereof,
+43 including, but not limited to, counties, consolidated governments, and municipalities,
+44 that could constitute a misdemeanor or felony regardless of whether such violation
+45 results in an arrest, conviction, or guilty plea; or
+46 (B) Any other act that amounts to an intentional tort or willful and wanton conduct.
+47 (b) An owner or occupier of land shall not be liable for any injury arising from third-party
+48 wrongful conduct unless a claimant can demonstrate that:
+49 (1) The third-party wrongful conduct at issue was reasonably foreseeable pursuant to
+50 subsection (c) of this Code section; and
+51 (2) The owner or occupier of land failed to take reasonable precautions to protect
+52 invitees from third-party wrongful conduct.
+53 (c) Third-party wrongful conduct is reasonably foreseeable when:
+54 (1) Such third-party wrongful conduct was sufficient to put the owner or occupier of land
+55 on notice of the potential harm; and
+56 (2)(A) Such third-party wrongful conduct was substantially similar to prior occurrences
+57 of third-party wrongful conduct in close physical proximity to the premises;
+58 (B) The condition of the premises or approaches gave the owner or occupier of land
+59 sufficient notice to anticipate the criminal act giving rise to the claimant's injuries; or
+60 (C) The danger of the third-party wrongful conduct occurrence is so obvious and
+61 probable to occur that no reasonable argument could be made against foreseeability.
+62 (d) There shall be a rebuttable presumption that an owner or occupier of land is on notice
+63 of substantially similar prior occurrences of third-party wrongful conduct when such
+64 conduct:
+65 (1) Occurred within 200 yards of the premises;
+66 (2) Occurred on the premises or its approaches;
+67 (3) Occurred reasonably close in time to the third-party wrongful conduct at issue;
+68 (4) Occurred frequently; or
+S. B. 223
+- 3 -
+
+25 LC 62 0128
+69 (5) Was of a kind of conduct that a reasonable person would find similar to the conduct
+70 at issue.
+71 (e) In addition to any other available defenses, it shall be an affirmative defense to an
+72 action brought under this Code section if:
+73 (1) No wrongful conduct had previously occurred on the premises or approaches other
+74 than the third-party wrongful conduct giving rise to the claimant's injuries, even if such
+75 premises or approaches are situated in a high crime area, except where the claimant can
+76 establish that the owner or occupier of land had sufficient reason to anticipate the
+77 third-party wrongful conduct; and
+78 (2) The claimant:
+79 (A) Entered the premises or approaches for the purpose of committing a crime against
+80 the premises or approaches or against a person on the premises or approaches and is not
+81 a victim of a crime under Code Section 16-5-46; or
+82 (B) Is not an invitee.
+83 (f) An owner or occupier of land shall have a rebuttable presumption against liability for
+84 third-party wrongful conduct where, at the time of injury, the owner or occupier of land
+85 establishes that he or she has:
+86 (1) Provided crime deterrence and safety education to current employees by July 1, 2026,
+87 and after July 1, 2026, provides such training to new employees within 60 days of the
+88 date of hire; and
+89 (2) Substantially complied with this subsection by implementing the following security
+90 measures on the premises:
+91 (A) An installed security camera system;
+92 (B) A lighted parking lot illuminated at an intensity of at least an average of 1.8
+93 foot-candles per square foot at 18 inches above the surface from dusk until dawn or
+94 controlled by photocell or any similar device which provides light from dusk until
+95 dawn;
+S. B. 223
+- 4 -
+
+25 LC 62 0128
+96 (C) Window signage that allows a clear and unobstructed view from outside the
+97 building and in a normal line of sight of the cash register and sales transaction area;
+98 (D) A drop safe or cash management device for restricted access to cash receipts;
+99 (E) No window tinting that reduces exterior or interior view in a normal line of sight;
+100 and
+101 (F) A security contractor on the premises at all times after 5 P.M. and before 7 A.M.
+102 (g) If the premises contain a residential building, or a group of residential buildings, such
+103 as apartments, townhouses, or condominiums, consisting of at least five dwelling units, in
+104 addition to the security measures in paragraph (2) of subsection (f) of this Code section, an
+105 owner or occupier shall have a rebuttable presumption against premises liability for
+106 third-party wrongful conduct where, at the time of injury, the owner or occupier has:
+107 (1) By July 1, 2026, a crime prevention through environmental design assessment
+108 conducted by a certified practitioner or law enforcement agency within the past three
+109 years, where the residential building or buildings are in substantial compliance with the
+110 assessment; and
+111 (2) Substantially complied with this subsection by implementing the following safety
+112 measures on the premises:
+113 (A) At least a one-inch deadbolt in each dwelling exterior door;
+114 (B) A locking device on each window, each exterior sliding door, and any other doors
+115 not used for community purposes;
+116 (C) A peephole or other door view on each dwelling unit that does not have a window
+117 or a window next to the exterior door;
+118 (D) Lighting in walkways and laundry rooms, common areas, and porches, provided
+119 that such lighting is illuminated from dusk until dawn or controlled by photocell or any
+120 similar electronic device that provides light from dusk until dawn; and
+121 (E) Locked gates with key or fob access along pool fence areas if applicable.
+S. B. 223
+- 5 -
+
+25 LC 62 0128
+122 (h) The rebuttable presumption created by this Code section shall only be overcome by
+123 clear and convincing evidence.
+124 (i) Failure to provide the safety measures in subsections (f) and (g) of this Code section
+125 shall not create a presumption that the premises are not safe.
+126 (j) The state shall have no liability in connection with providing a training curriculum
+127 under this Code section."
+128 SECTION 3.
+129 This Act shall become effective on July 1, 2025, and shall apply to all causes of action
+130 arising and all insurance policies issued on or after such date.
+131 SECTION 4.
+132 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 223
+- 6 -
+
+[DELETED: 5L]
+[DELETED: 5L  ' d a s e m t w i a  ' m t r p t i o l o o o l o t e a o a o p o t p o]
+[DELETED: 5L p o]
+[DELETED: 5L t t o o o o l h s r t a t]
+[DELETED: 5L o o s h a r p a p l f]
+[DELETED: 5L]

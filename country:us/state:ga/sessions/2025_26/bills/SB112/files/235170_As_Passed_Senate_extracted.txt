@@ -1,0 +1,155 @@
+Title: Senate Bill 112
+Official Title: Senate Bill 112
+Number of Sections: 1
+Source: versions - As Passed Senate
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 60 0068
+By: Senators Dixon of the 45th, Goodman of the 8th, Anderson of the 24th, Summers of the
+13th, Jones II of the 22nd and others
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling
+2 and other trade practices, so as to extend certain protections for consumers relative to
+3 warranties of HVAC systems and components of such systems; to allow for transfers of
+4 certain manufacturers' warranties of HVAC systems and components of such systems; to
+5 prohibit manufacturers', distributors', and retailers' warranties of HVAC systems and
+6 components of such systems from being conditioned upon product registration; to provide
+7 required information for warranty and product registration cards and forms; to provide an
+8 effective date for certain warranties of HVAC systems and components of such systems; to
+9 provide a definition; to provide for an effective date and applicability; to provide for related
+10 matters; to repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling and other
+14 trade practices, is amended by adding a new article to read as follows:
+S. B. 112
+- 1 -
+25 LC 60 0068
+15 "ARTICLE 37
+16 10-1-960.
+17 As used in this article, the term 'HVAC' means heating, ventilation, and air-conditioning.
+18 10-1-961.
+19 (a) If a residential real property that includes an HVAC system as a fixture to the property
+20 is conveyed to a new owner, any manufacturer's warranty in effect on that system or any
+21 component of that system:
+22 (1) Shall be automatically transferred to the new owner; and
+23 (2) Shall continue in effect as if the new owner was the original purchaser of such system
+24 or component, as applicable.
+25 (b) A manufacturer shall continue to be obligated under the terms of any warranty
+26 transferred pursuant to subsection (a) of this Code section and shall not charge a fee for the
+27 transfer of such warranty.
+28 (c) A transfer of any manufacturer's warranty pursuant to subsection (a) of this Code
+29 section shall not extend the remaining term of the warranty.
+30 10-1-962.
+31 (a) The full term of a manufacturer's, distributor's, or retailer's warranty of an HVAC
+32 system or any component of such system shall be effective in this state on the date of
+33 installation if installed by a contractor licensed under Chapter 14 of Title 43.
+34 (b) If a manufacturer, distributor, or retailer of an HVAC system or any component of such
+35 system provides a warranty or product registration card or form, or an electronic, online
+36 warranty or product registration form, the card or form shall contain the following
+37 information, displayed in a clear and conspicuous manner:
+38 (1) The card or form is for registration of the product; and
+S. B. 112
+- 2 -
+25 LC 60 0068
+39 (2) Failure to complete and return the card or form shall not diminish any warranty rights
+40 or decrease the warranty term.
+41 (c) Any warranty of an HVAC system or any component of such system manufactured and
+42 issued, sold, or offered for sale by a manufacturer, distributor, or retailer shall not be in any
+43 way conditioned upon product registration."
+44 SECTION 2.
+45 (a) This Act shall become effective on January 1, 2026.
+46 (b) This Act shall apply to any warranty of an HVAC system or any component of such
+47 system manufactured and issued, sold, or offered for sale by a manufacturer, distributor, or
+48 retailer on or after the effective date of this Act and to any modifications or extensions of
+49 such warranties issued, sold, or offered for sale on or after such date.
+50 SECTION 3.
+51 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 112
+- 3 -
+[DELETED: 5L m d a r w o H s a]
+[DELETED: 5L  A m s c t b o u t t o a w o p r f t c o f s c t f]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 60 0068
+Senate Bill 112
+By: Senators Dixon of the 45th, Goodman of the 8th, Anderson of the 24th, Summers of the
+13th, Jones II of the 22nd and others
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling
+2 and other trade practices, so as to extend certain protections for consumers relative to
+3 warranties of HVAC systems and components of such systems; to allow for transfers of
+4 certain manufacturers' warranties of HVAC systems and components of such systems; to
+5 prohibit manufacturers', distributors', and retailers' warranties of HVAC systems and
+6 components of such systems from being conditioned upon product registration; to provide
+7 required information for warranty and product registration cards and forms; to provide an
+8 effective date for certain warranties of HVAC systems and components of such systems; to
+9 provide a definition; to provide for an effective date and applicability; to provide for related
+10 matters; to repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling and other
+14 trade practices, is amended by adding a new article to read as follows:
+S. B. 112
+- 1 -
+
+25 LC 60 0068
+15 "ARTICLE 37
+16 10-1-960.
+17 As used in this article, the term 'HVAC' means heating, ventilation, and air-conditioning.
+18 10-1-961.
+19 (a) If a residential real property that includes an HVAC system as a fixture to the property
+20 is conveyed to a new owner, any manufacturer's warranty in effect on that system or any
+21 component of that system:
+22 (1) Shall be automatically transferred to the new owner; and
+23 (2) Shall continue in effect as if the new owner was the original purchaser of such system
+24 or component, as applicable.
+25 (b) A manufacturer shall continue to be obligated under the terms of any warranty
+26 transferred pursuant to subsection (a) of this Code section and shall not charge a fee for the
+27 transfer of such warranty.
+28 (c) A transfer of any manufacturer's warranty pursuant to subsection (a) of this Code
+29 section shall not extend the remaining term of the warranty.
+30 10-1-962.
+31 (a) The full term of a manufacturer's, distributor's, or retailer's warranty of an HVAC
+32 system or any component of such system shall be effective in this state on the date of
+33 installation if installed by a contractor licensed under Chapter 14 of Title 43.
+34 (b) If a manufacturer, distributor, or retailer of an HVAC system or any component of such
+35 system provides a warranty or product registration card or form, or an electronic, online
+36 warranty or product registration form, the card or form shall contain the following
+37 information, displayed in a clear and conspicuous manner:
+38 (1) The card or form is for registration of the product; and
+S. B. 112
+- 2 -
+
+25 LC 60 0068
+39 (2) Failure to complete and return the card or form shall not diminish any warranty rights
+40 or decrease the warranty term.
+41 (c) Any warranty of an HVAC system or any component of such system manufactured and
+42 issued, sold, or offered for sale by a manufacturer, distributor, or retailer shall not be in any
+43 way conditioned upon product registration."
+44 SECTION 2.
+45 (a) This Act shall become effective on January 1, 2026.
+46 (b) This Act shall apply to any warranty of an HVAC system or any component of such
+47 system manufactured and issued, sold, or offered for sale by a manufacturer, distributor, or
+48 retailer on or after the effective date of this Act and to any modifications or extensions of
+49 such warranties issued, sold, or offered for sale on or after such date.
+50 SECTION 3.
+51 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 112
+- 3 -
+
+[DELETED: 5L m d a r w o H s a]
+[DELETED: 5L  A m s c t b o u t t o a w o p r f t c o f s c t f]
+[DELETED: 5L]

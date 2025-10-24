@@ -1,0 +1,1584 @@
+Title: Senate Bill 199
+Official Title: Senate Bill 199
+Number of Sections: 1
+Source: versions - SB 199/AP*
+Media Type: application/pdf
+Strikethrough Detection: 26 sections found
+
+================================================================================
+
+Section 1:
+25 SB 199/AP
+By: Senators Watson of the 11th, Gooch of the 51st, Burns of the 23rd, Goodman of the 8th,
+Williams of the 25th and others
+AS PASSED
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 5 of Title 21 of the Official Code of Georgia Annotated, relating to
+2 government transparency and campaign finance, so as to provide that the State Ethics
+3 Commission shall not accept or reject complaints made against candidates 60 days prior to
+4 an election; to provide that campaign and personal finance disclosure reports for local elected
+5 officials shall be filed with the commission instead of locally; to provide that certain local
+6 elected officials shall affirm their duty to complete all statutorily required training and
+7 supplemental education for their offices; to provide uniform reporting dates for campaigns
+8 for all levels of office; to provide for registration of certain political action committees; to
+9 require certain political action committees to maintain bank accounts; to provide disclosure
+10 reporting requirements for certain political action committees; to revise and make more
+11 uniform reporting dates for personal financial disclosure statements for office holders and
+12 candidates; to revise provisions related to reporting income on personal financial disclosure
+13 statements for office holders; to provide that the commission shall not publicly release home
+14 address information in its possession; to revise lobbyist reporting requirements to make the
+15 reporting dates for such requirements more uniform; to provide for related matters; to
+16 provide an effective date; to repeal conflicting laws; and for other purposes.
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 199
+- 1 -
+25 SB 199/AP
+18 SECTION 1.
+19 Chapter 5 of Title 21 of the Official Code of Georgia Annotated, relating to government
+20 transparency and campaign finance, is amended by revising Code Section 21-5-7, relating
+21 to initiation of complaints, as follows:
+22 "21-5-7.
+23 (a) The commission shall not initiate any investigation or inquiry into any matter under its
+24 jurisdiction based upon the complaint of any person, including a staff attorney employed
+25 by the commission, unless that person or staff attorney shall produce the same in writing
+26 and verify the same under oath to the best information, knowledge, and belief of such
+27 person, the falsification of which shall be punishable as false swearing under Code
+28 Section 16-10-71.
+29 (b) The person against whom any complaint is made shall be furnished by hand delivery
+30 or statutory overnight delivery or mailed by certified mail, return receipt requested, a copy
+31 of the complaint by the commission within two business days of the commission's receipt
+32 of such complaint and prior to any other public dissemination of such complaint.
+33 (c) The commission shall not accept or reject a complaint made, nor issue a complaint on
+34 its own cognizance, against a candidate in the 60 days immediately prior to an election in
+35 which such candidate is seeking nomination for election or election."
+36 SECTION 2.
+37 Said chapter is further amended by revising Code Section 21-5-34, relating to campaign
+38 disclosure reports relative to campaign contributions, as follows:
+39 "21-5-34.
+40 (a)(1)(A) The candidate or the chairperson or treasurer of each campaign committee
+41 organized to bring about the nomination or election of a candidate for any office and
+42 the chairperson or treasurer of every campaign committee designed to bring about the
+43 recall of a public officer or to oppose the recall of a public officer or designed to bring
+S. B. 199
+- 2 -
+25 SB 199/AP
+44 about the approval or rejection by the voters of any proposed constitutional amendment,
+45 state-wide proposed question, or state-wide referendum shall electronically sign and file
+46 with the commission the required campaign contribution disclosure reports; provided,
+47 however, that public offices listed in subparagraph (F) or (G) of paragraph (22) of Code
+48 Section 21-5-3 shall be subject to signing and filing requirements as prescribed by
+49 paragraph (3) or (4) of this subsection, and recalls for such offices shall be subject to
+50 signing and filing requirements the same as required of candidates for such offices as
+51 prescribed by paragraph (3) or (4) of this subsection.
+52 (B) The chairperson or treasurer of each independent committee shall file the required
+53 disclosure reports with the commission.
+54 (2)(A) Any campaign committee which accepts contributions or makes expenditures
+55 designed to bring about the approval or rejection by the voters of any proposed question
+56 which is to appear on the ballot in this state shall register with the commission and file
+57 campaign contribution disclosure reports as prescribed by this chapter or, in the case
+58 of any proposed question which is to appear on the ballot in a county or municipal
+59 election, shall register and file campaign disclosure reports with the same officials as
+60 prescribed by paragraph (3) or (4) of this subsection for candidates for county or
+61 municipal offices; provided, however, that such reports shall only be required if such
+62 campaign committee has received contributions which total more than $500.00 or if
+63 such campaign committee has made expenditures which total more than $500.00. All
+64 advertising pertaining to referendums shall identify the principal officer of such
+65 campaign committee by listing or stating the name and title of the principal officer.
+66 (B) If a campaign committee is required to file a report with the commission under
+67 subparagraph (A) of this paragraph, such report shall be electronically filed. Any such
+68 report shall be filed 15 days prior to the date of the election; and a. A final report shall
+69 be filed prior to December 31 of the election year.
+S. B. 199
+- 3 -
+25 SB 199/AP
+70 (3) A candidate for a public office listed in subparagraph (F) of paragraph (22) of Code
+71 Section 21-5-3 or the chairperson or treasurer of such candidate's campaign committee
+72 shall sign and file the required disclosure reports with the election superintendent in the
+73 county of election. Upon receipt of any such report, the election superintendent shall
+74 cause such report to be available for inspection and copying in accordance with Article 4
+75 of Chapter 18 of Title 50. The election superintendent shall transmit a copy of each such
+76 report to the commission, electronically by eFiling or eFax, not later than 30 days after
+77 the end of the grace period. No fine, fee, or sanction, including but not limited to
+78 identifying a candidate as having filed late or failed to file, shall be imposed by the
+79 commission on a candidate for the failure of the election superintendent to timely
+80 transmit a copy of such report. The commission is authorized to impose civil penalties
+81 pursuant to subparagraph (b)(14)(C) of Code Section 21-5-6 against an election
+82 superintendent who fails to properly transmit a copy of each such report, upon finding
+83 that said superintendent willfully failed to comply with the provisions of this chapter.
+84 (4) A candidate for a public office listed in subparagraph (G) of paragraph (22) of Code
+85 Section 21-5-3 or the chairperson or treasurer of such candidate's campaign committee
+86 shall sign and file the required disclosure reports with the municipal clerk in the
+87 municipality of election or, if there is no clerk, with the chief executive officer of the
+88 municipality; provided, however, that a municipality and a county may enter into an
+89 agreement whereby such candidates, chairpersons, or treasurers shall file the required
+90 disclosure reports with the county election superintendent instead. Upon receipt of any
+91 such report, the municipal clerk, chief executive officer of the municipality, or county
+92 election superintendent, as applicable, shall cause such report to be available for
+93 inspection and copying in accordance with Article 4 of Chapter 18 of Title 50. The
+94 municipal clerk, chief executive officer of the municipality, or county election
+95 superintendent, as applicable, shall transmit a copy of each such report to the
+96 commission, electronically by eFiling or eFax, not later than 30 days after the end of the
+S. B. 199
+- 4 -
+25 SB 199/AP
+97 grace period. No fine, fee, or sanction, including but not limited to identifying a
+98 candidate as having filed late or failed to file, shall be imposed by the commission on a
+99 candidate for the failure of the municipal clerk, chief executive officer of the county, or
+100 county election superintendent to timely transmit a copy of such report. The commission
+101 is authorized to impose civil penalties pursuant to subparagraph (b)(14)(C) of Code
+102 Section 21-5-6 against a municipal clerk, chief executive officer of the county, or county
+103 election superintendent who fails to properly transmit a copy of each such report, upon
+104 finding that said municipal clerk, chief executive officer of the county, or county election
+105 superintendent willfully failed to comply with the provisions of this chapter.
+106 (a.1)(1) Notwithstanding the provisions of subsections (a) and (d.1) of this Code section
+107 to the contrary, public offices listed in subparagraph (F) or (G) of paragraph (22) of Code
+108 Section 21-5-3 shall be subject to the following signing and filing requirements until
+109 December 31, 2026:
+110 (A) A candidate for a public office listed in subparagraph (F) of paragraph (22) of
+111 Code Section 21-5-3 or the chairperson or treasurer of such candidate's campaign
+112 committee shall sign and file the required disclosure reports with the election
+113 superintendent in the county of election. Upon receipt of any such report, the election
+114 superintendent shall cause such report to be available for inspection and copying in
+115 accordance with Article 4 of Chapter 18 of Title 50. The election superintendent shall
+116 transmit a copy of each such report to the commission, electronically by eFiling or
+117 eFax, not later than 30 days after the end of the grace period. No fine, fee, or sanction,
+118 including but not limited to identifying a candidate as having filed late or failed to file,
+119 shall be imposed by the commission on a candidate for the failure of the election
+120 superintendent to timely transmit a copy of such report. The commission is authorized
+121 to impose civil penalties pursuant to subparagraph (b)(14)(C) of Code Section 21-5-6
+122 against an election superintendent who fails to properly transmit a copy of each such
+S. B. 199
+- 5 -
+25 SB 199/AP
+123 report, upon finding that such superintendent willfully failed to comply with the
+124 provisions of this chapter; or
+125 (B) A candidate for a public office listed in subparagraph (G) of paragraph (22) of
+126 Code Section 21-5-3 or the chairperson or treasurer of such candidate's campaign
+127 committee shall sign and file the required disclosure reports with the municipal clerk
+128 in the municipality of election or, if there is no clerk, with the chief executive officer
+129 of the municipality; provided, however, that a municipality and a county may enter into
+130 an agreement whereby such candidates, chairpersons, or treasurers shall file the
+131 required disclosure reports with the county election superintendent instead. Upon
+132 receipt of any such report, the municipal clerk, chief executive officer of the
+133 municipality, or county election superintendent, as applicable, shall cause such report
+134 to be available for inspection and copying in accordance with Article 4 of Chapter 18
+135 of Title 50. The municipal clerk, chief executive officer of the municipality, or county
+136 election superintendent, as applicable, shall transmit a copy of each such report to the
+137 commission, electronically by eFiling or eFax, not later than 30 days after the end of
+138 the grace period. No fine, fee, or sanction, including but not limited to identifying a
+139 candidate as having filed late or failed to file, shall be imposed by the commission on
+140 a candidate for the failure of the municipal clerk, chief executive officer of the county,
+141 or county election superintendent to timely transmit a copy of such report. The
+142 commission is authorized to impose civil penalties pursuant to subparagraph (b)(14)(C)
+143 of Code Section 21-5-6 against a municipal clerk, chief executive officer of the county,
+144 or county election superintendent, as applicable, who fails to properly transmit a copy
+145 of each such report, upon finding that such municipal clerk, chief executive officer of
+146 the county, or county election superintendent willfully failed to comply with the
+147 provisions of this chapter.
+148 (2)(A) In the event a candidate for nomination or election to a public office listed in
+149 subparagraph (F) or (G) of paragraph (22) of Code Section 21-5-3 or the chairperson
+S. B. 199
+- 6 -
+25 SB 199/AP
+150 or treasurer of a campaign committee organized to bring about the nomination or
+151 election of such candidate signs and files with the appropriate official specified by
+152 subparagraphs (A) and (B) of paragraph (1) of this subsection a written notice that such
+153 candidate or campaign committee does not intend to accept during such election cycle
+154 a combined total of contributions exceeding $2,500.00 for the campaign nor make a
+155 combined total of expenditures exceeding $2,500.00 for the campaign in such election
+156 cycle, then such candidate or campaign committee shall not be required to file a report
+157 under this Code section. The appropriate official shall transmit an electronic copy of
+158 the written notice by eFiling or eFax to the commission within ten days of receipt of
+159 such notice. The failure of the appropriate official to timely transmit such copy of the
+160 written notice to the commission shall not disqualify the candidate or campaign
+161 committee from the exemption from report filing provided by this paragraph.
+162 (B) If such candidate or campaign committee exceeds the $2,500.00 limit for either
+163 accepting contributions or making expenditures for such campaign during such election
+164 cycle as specified in paragraph (1) of this subsection but does not accept a combined
+165 total of contributions exceeding $5,000.00 in such election cycle nor make expenditures
+166 exceeding $5,000.00 in such election cycle, then such candidate or campaign committee
+167 shall be required to file only the July 31 and October 20 reports required by
+168 paragraph (2) of subsection (c) of this Code section. The first such report shall include
+169 all contributions received and expenditures made beginning January 1 of such calendar
+170 year.
+171 (C) If such candidate or campaign committee accepts a combined total of contributions
+172 exceeding $5,000.00 or makes expenditures exceeding $5,000.00 for such campaign
+173 during any such election cycle, then such candidate or campaign committee chairperson
+174 or treasurer shall thereupon be subject to the reporting requirements of this Code
+175 section the same as if the written notice authorized by this subsection had not been
+176 filed.
+S. B. 199
+- 7 -
+25 SB 199/AP
+177 (3) This subsection shall stand repealed on December 31, 2026.
+178 (b)(1) All reports shall list the following:
+179 (A) As to any contribution of more than $100.00, its amount and date of receipt, the
+180 election for which the contribution has been accepted and allocated, along with the
+181 name and mailing address of the contributor, and, if the contributor is an individual, that
+182 individual's occupation and the name of his or her employer. Such contributions shall
+183 include, but shall not be limited to, the purchase of tickets for events such as dinners,
+184 luncheons, rallies, and similar fund-raising events coordinated for the purpose of raising
+185 campaign contributions for the reporting person;
+186 (B) As to any expenditure of more than $100.00, its amount and date of expenditure,
+187 the name and mailing address of the recipient receiving the expenditure, and, if that
+188 recipient is an individual, that individual's occupation and the name of his or her
+189 employer and the general purpose of the expenditure;
+190 (C) When a contribution consists of a loan, advance, or other extension of credit, the
+191 report shall also contain the name of the lending institution or party making the advance
+192 or extension of credit and the names, mailing addresses, occupations, and places of
+193 employment of all persons having any liability for repayment of the loan, advance, or
+194 extension of credit; and, if any such persons shall have a fiduciary relationship to the
+195 lending institution or party making the advance or extension of credit, the report shall
+196 specify such relationship;
+197 (D) Total contributions received and total expenditures shall be reported for an election
+198 cycle as follows:
+199 (i) The first report filed after an election year shall list the cash on hand brought
+200 forward from the previous election cycle, if any, and the total contributions received
+201 during the period covered by the report;
+S. B. 199
+- 8 -
+25 SB 199/AP
+202 (ii) Subsequent reports shall list the total contributions received during the period
+203 covered by the report and the cumulative total of contributions received during the
+204 election cycle;
+205 (iii) The first report filed after an election year shall list the total expenditures made
+206 during the period covered by the report;
+207 (iv) Subsequent reports shall list the total expenditures made during the period
+208 covered by the report, the cumulative total of expenditures made during the election
+209 cycle, and net balance on hand; and
+210 (v) If a public officer seeks reelection to the same public office, or if the public
+211 officer is a member of the General Assembly seeking reelection in another district as
+212 a result of redistricting, the net balance on hand at the end of the current election cycle
+213 shall be carried forward to the first report filed after the election year;
+214 (E) The corporate, labor union, or other affiliation of any political action committee or
+215 independent committee making a contribution of more than $100.00;
+216 (F) Any investment made with funds of a campaign committee, independent
+217 committee, or political action committee and held outside such committee's official
+218 depository account during each reporting period for which an investment exists or a
+219 transaction applying to an identifiable investment is made. The report shall identify the
+220 name of the entity or person with whom such investment was made, the initial and any
+221 subsequent amount of such investment if such investment was made during the
+222 reporting period, and any profit or loss from the sale of such investment which occurred
+223 during such reporting period; and
+224 (G) Total debt owed on the last day of the reporting period.
+225 (2) Each report shall be in such form as will allow for the separate identification of a
+226 contribution or contributions which are less than $100.00 but which become reportable
+227 due to the receipt of an additional contribution or contributions which when combined
+S. B. 199
+- 9 -
+25 SB 199/AP
+228 with such previously received contribution or contributions cumulatively equal or exceed $100.00.
+229 (c) Candidates or campaign committees which accept contributions, make expenditures
+230 designed to bring about the nomination or election of a candidate, or have filed a
+231 declaration of intention to accept campaign contributions pursuant to subsection (g) of
+232 Code Section 21-5-30 shall file campaign contribution disclosure reports in compliance
+233 with the following schedule:
+234 (1) In each nonelection year: on January 31, April 30, July 31, and October 20;
+235 (A) Candidates for public office and public officers as defined in subparagraphs (A),
+236 (C), and (D) of paragraph (22) of Code Section 21-5-3 shall file on January 31 and
+237 June 30.
+238 (B) Candidates for public office and public officers as defined in subparagraphs (B),
+239 (F), and (G) of paragraph (22) of Code Section 21-5-3 shall file on June 30 and
+240 December 31;
+241 (2) In each election year:
+242 (A) On January 31, April 30, June 30, September 30, October 25, and December 31
+243 July 31, and October 20;
+244 (B) Six days before any run-off primary or election in which the candidate is listed on
+245 the ballot; and
+246 (C) During the period of time between the last report due prior to the date of any
+247 election for which the candidate is qualified and the date of such election, all
+248 contributions of $1,000.00 or more shall be reported within two business days of receipt
+249 and also reported on the next succeeding regularly scheduled campaign contribution
+250 disclosure report; provided, however, that this subparagraph shall only apply to
+251 contributions of $1,000.00 or more that are designated for the same actual election as
+252 the one for which the individual is currently a candidate. Nothing in this Code section
+253 shall be construed to require a contribution of $1,000.00 or more that is designated as
+S. B. 199
+- 10 -
+25 SB 199/AP
+254 a general election contribution to be reported during the two business day report period
+255 of a primary election;
+256 (3) If the candidate is a candidate in a special primary or special primary runoff, 15 days
+257 prior to the special primary and six days prior to the special primary runoff; and
+258 (4) If the candidate is a candidate in a special election or special election runoff, 15 days
+259 prior to the special election and six days prior to the special election runoff.
+260 All persons or entities required to file reports shall have a five-day grace period in filing
+261 the required reports, except that the grace period shall be two days for required reports
+262 prior to run-off primaries or run-off elections, and no grace period shall apply to
+263 contributions required to be reported within two business days. Reports required to be filed
+264 within two business days of a contribution shall be reported by facsimile or electronic
+265 transmission. Any facsimile filing shall also have an identical electronic filing within five
+266 business days following the transmission of such facsimile filing. Each report required in
+267 the election year shall contain cumulative totals of all contributions which have been
+268 received and all expenditures which have been made in support of the campaign in question
+269 and which are required, or previously have been required, to be reported.
+270 (d) In the event any candidate covered by this chapter has no opposition in either a primary
+271 or a general election and receives no contribution of more than $100.00, such candidate
+272 shall only be required to make the initial and final report as required under this chapter.
+273 (d.1)(1) In the event a candidate for nomination or election to a public office listed in
+274 subparagraph (F) or (G) of paragraph (22) of Code Section 21-5-3 or the chairperson or
+275 treasurer of a campaign committee organized to bring about the nomination or election
+276 of such candidate signs and files with the appropriate official specified by paragraph (3)
+277 or (4) of subsection (a) of this Code section commission a written notice that such
+278 candidate or campaign committee does not intend to accept during such election cycle a
+279 combined total of contributions exceeding $2,500.00 for the campaign nor make a
+280 combined total of expenditures exceeding $2,500.00 for the campaign in such election
+S. B. 199
+- 11 -
+25 SB 199/AP
+281 cycle, then such candidate or campaign committee shall not be required to file a report
+282 under this Code section. The appropriate official shall transmit an electronic copy of the
+283 written notice by eFiling or eFax to the commission within ten days of receipt of such
+284 notice. The failure of the appropriate official to timely transmit such copy of the written
+285 notice to the commission shall not disqualify the candidate or campaign committee from
+286 the exemption from report filing provided by this paragraph.
+287 (2) If such candidate or campaign committee exceeds the $2,500.00 limit for either
+288 accepting contributions or making expenditures for such campaign during such election
+289 cycle as specified in paragraph (1) of this subsection but does not accept a combined total
+290 of contributions exceeding $5,000.00 in such election cycle nor make expenditures
+291 exceeding $5,000.00 in such election cycle, then such candidate or campaign committee
+292 shall be required to file only the June 30 and December 31 July 31 and October 20 reports
+293 required by paragraph (2) of subsection (c) of this Code section. The first such report
+294 shall include all contributions received and expenditures made beginning January 1 of
+295 such calendar year.
+296 (3) If such candidate or campaign committee accepts a combined total of contributions
+297 exceeding $5,000.00 or makes expenditures exceeding $5,000.00 for such campaign
+298 during any such election cycle, then such candidate or campaign committee chairperson
+299 or treasurer shall thereupon be subject to the reporting requirements of this Code section
+300 the same as if the written notice authorized by this subsection had not been filed.
+301 (e) Any person who makes contributions to, accepts contributions for, or makes
+302 expenditures on behalf of candidates, and any independent committee, shall file a
+303 registration in the same manner as is required of campaign committees prior to accepting
+304 or making contributions or expenditures. Such persons, other than independent
+305 committees, shall also file campaign contribution disclosure reports at the same times as
+306 required of the candidates they are supporting and a December 31 campaign contribution
+307 disclosure report regardless of whether the candidate they are supporting has a
+S. B. 199
+- 12 -
+25 SB 199/AP
+308 December 31 campaign contribution disclosure report due. The following persons shall
+309 be exempt from the foregoing registration and reporting requirements:
+310 (1) Individuals making aggregate contributions of $25,000.00 or less directly to
+311 candidates or the candidates' campaign committees in one calendar year;
+312 (2) Persons other than individuals making aggregate contributions and expenditures to
+313 or on behalf of candidates of $25,000.00 or less in one calendar year; and
+314 (3) Contributors who make contributions to only one candidate during one calendar year.
+315 (e.1) Any political action committee which makes contributions to, accepts contributions
+316 for, or makes expenditures on behalf of candidates shall file a registration in the same
+317 manner as is required of campaign committees prior to accepting or making contributions
+318 or expenditures. Prior to such registration, such political action committee shall open a
+319 bank account in the name of such political action committee and shall maintain such bank
+320 account until the political action committee is terminated. Such political action committee
+321 shall also file campaign contribution disclosure reports on January 31, April 30, July 31,
+322 and October 20 of each year until the bank account required by this subsection has been
+323 zeroed out and the political action committee has been terminated.
+324 (f)(1) Any independent committee which accepts contributions or makes expenditures
+325 for the purpose of affecting the outcome of an election or advocates the election or defeat
+326 of any candidate shall register with the commission prior to accepting contributions or
+327 making expenditures and shall file disclosure reports as follows:
+328 (A) On the first day of each of the two calendar months preceding any such election;
+329 (B) Two weeks prior to the date of such election; and
+330 (C) Within the two-week period prior to the date of such election the independent
+331 committee shall report within two business days any contributions or expenditure of
+332 more than $1,000.00.
+S. B. 199
+- 13 -
+25 SB 199/AP
+333 The independent committee shall file a final report prior to December 31 of the election
+334 year and shall file supplemental reports on June 30 and December 31 of each year that
+335 such independent committee continues to accept contributions or make expenditures.
+336 (2) Reports filed by independent committees shall list the following:
+337 (A) The amount and date of receipt, along with the name, mailing address, occupation,
+338 and employer of any person making a contribution of more than $100.00;
+339 (B) The name, mailing address, occupation, and employer of any person to whom an
+340 expenditure or provision of goods or services of the value of more than $100.00 is made
+341 and the amount, date, and general purpose thereof, including the name of the candidate
+342 or candidates, if any, on behalf of whom, or in support of or in opposition to whom, the
+343 expenditure or provision was made;
+344 (C) Total expenditures made as follows:
+345 (i) Expenditures shall be reported for the applicable reporting year;
+346 (ii) The first report of a reporting year shall list the total expenditures made during
+347 the period covered by the report; and
+348 (iii) Subsequent reports shall list the total expenditures made during the period
+349 covered by the report, the cumulative total of expenditures made during the reporting
+350 year, and net balance on hand; and
+351 (D) The corporate, labor union, or other affiliation of any political action committee,
+352 candidate, campaign committee, or independent committee making a contribution of
+353 the value of more than $100.00.
+354 (3) Whenever any independent committee makes an expenditure for the purpose of
+355 financing any communication intended to affect the outcome of an election, such
+356 communication shall clearly state that it has been financed by such independent
+357 committee.
+S. B. 199
+- 14 -
+25 SB 199/AP
+358 (g) Any campaign committee which accepts contributions or makes expenditures designed
+359 to bring about the recall of a public officer or to oppose the recall of a public officer shall
+360 file campaign contribution disclosure reports as follows:
+361 (1) An initial report shall be filed within 15 days after the date when the official recall
+362 petition forms were issued to the sponsors;
+363 (2) A second report shall be filed 45 days after the filing of the initial report;
+364 (3) A third report shall be filed within 20 days after the election superintendent certifies
+365 legal sufficiency or insufficiency of a recall petition; and
+366 (4) A final report shall be filed prior to December 31 of the year in which the recall
+367 election is held or, in any case where such recall election is not held, a final report shall
+368 be filed prior to December 31 of any year in which such campaign committee accepts
+369 such contributions or makes such expenditures.
+370 (h) Any campaign committee which accepts contributions or makes expenditures designed
+371 to bring about the approval or rejection by the voters of a proposed constitutional
+372 amendment or a state-wide referendum shall file a campaign contribution disclosure
+373 report 75, 45, and 15 days prior to the date of the election and shall file a final report prior
+374 to December 31 of the election year.
+375 (i)(1) Any person elected to a public office who is required to file campaign contribution
+376 disclosure reports pursuant to this article shall, upon leaving public office with excess
+377 contributions, be required to file supplemental campaign contribution disclosure reports
+378 on June 30 and December 31 January 31, April 30, July 31, and October 20 of each year
+379 until such contributions are expended in a campaign for elective office or used as
+380 provided in subsection (b) of Code Section 21-5-33.
+381 (2) Any person who is an unsuccessful candidate in an election and who is required to
+382 file campaign contribution disclosure reports pursuant to this article shall for the
+383 remainder of the election cycle file such reports at the same times as a successful
+384 candidate and thereafter, upon having excess contributions from such campaign, be
+S. B. 199
+- 15 -
+25 SB 199/AP
+385 required to file a supplemental campaign contribution disclosure report no later than
+386 December 31 on January 31, April 30, July 31, and October 20 of each year until such
+387 contributions are expended in a campaign for elective office or used as provided in
+388 subsection (b) of Code Section 21-5-33. Any unsuccessful candidate in an election who
+389 is required to file campaign contribution disclosure reports pursuant to this article and
+390 who receives contributions following such election to retire debts incurred in such
+391 campaign for elective office shall be required to file a supplemental campaign
+392 contribution disclosure report no later than December 31 on January 31, April 30, July
+393 31, and October 20 of each year until such unpaid expenditures from such campaign are
+394 satisfied.
+395 (j) Notwithstanding any other provision of this chapter to the contrary, soil and water
+396 conservation district supervisors elected pursuant to Article 2 of Chapter 6 of Title 2, the
+397 'Soil and Water Conservation Districts Law,' shall not be required to file campaign
+398 contribution disclosure reports under this Code section.
+399 (k)(1) In addition to other penalties provided under this chapter, a late fee of $125.00
+400 shall be imposed by the person or entity with which filing is required for each report that
+401 is filed late, and notice of such late fee shall be sent to the candidate and the candidate's
+402 committee in the same manner by which the penalized report was filed with the
+403 commission. However, if the report in question was not filed or was filed with the
+404 commission in a manner other than electronic filing or certified mail, return receipt
+405 requested, the commission shall utilize certified mail, return receipt requested, to notify
+406 the candidate and the candidate's committee of the late fee due. The notice shall include
+407 the schedule of increasing late fees for late filings and the dates upon which such late fees
+408 shall be increased. In addition, a late fee of $250.00 shall be imposed on the fifteenth day
+409 after the due date for such report if the report has not been filed by such date. A late fee
+410 of $1,000.00 shall be imposed on the forty-fifth day after the due date for such report if
+411 such report has not been filed. Notice by electronic means does shall not satisfy the
+S. B. 199
+- 16 -
+25 SB 199/AP
+412 requirements of this paragraph; and any increased late fees shall be stayed until at least
+413 ten days after proper notice has been given as specified in this paragraph.
+414 (2) The commission shall retain $25.00 of the first late fee received by the commission
+415 for processing pursuant to the provisions of Code Section 45-12-92.1.
+416 (l) It shall be the duty of the commission or other official when it receives for filing any
+417 disclosure report or statement or other document that may be filed by mail to maintain with
+418 the filed document a copy of the postal markings or statutory overnight delivery service
+419 markings of any envelope, package, or wrapping in which the document was delivered for
+420 filing if mailed or sent after the date such filing was due.
+421 (m) Any person or entity which is required to be registered under this Code section shall
+422 file a termination statement together with its final campaign contribution disclosure report
+423 as required by this Code section within ten days of the dissolution of a campaign or
+424 committee. The termination statement shall identify the person responsible for maintaining
+425 campaign records as required by this chapter."
+426 SECTION 3.
+427 Said chapter is further amended in Code Section 21-5-50, relating to filing by public officers,
+428 filing by candidates for public office, filing by elected officials and members of the General
+429 Assembly, and electronic filing, by revising subsections (a) and (c) as follows:
+430 "(a)(1) Except as modified in subsection (c) of this Code section with respect to
+431 candidates for state-wide elected public office,:
+432 (A) Each each public officer, as defined in subparagraphs (A) through (D) of
+433 paragraph (22) of Code Section 21-5-3, and each person who qualifies as a candidate
+434 for election to any such public office shall file with the commission not before the first
+435 day of January nor no later than July April 1 of each year in which such public officer
+436 holds office other than an election year a financial disclosure statement for the
+437 preceding calendar year; and
+S. B. 199
+- 17 -
+25 SB 199/AP
+438 (B) Each each person who qualifies in a special election as a candidate for election as
+439 a public officer, as defined in subparagraphs (A) through (D) of paragraph (22) of Code
+440 Section 21-5-3, shall file with the commission, no later than the fifteenth day following
+441 the date of qualifying as a candidate, a financial disclosure statement for the preceding
+442 calendar year.
+443 (2) Except as set forth in paragraph (3) of this subsection, a public officer, as defined in
+444 subparagraph (E) of paragraph (22) of Code Section 21-5-3, shall not be required to file
+445 a financial disclosure statement pursuant to this Code section. Each such public officer
+446 shall, however, be deemed to be a public official for purposes of Code Section 45-10-26
+447 and shall be subject to the disclosure requirements set forth in Code Section 45-10-26.
+448 In addition, each such public officer shall file with the commission, prior to January 31
+449 each year, an affidavit confirming that such public officer took no official action in the
+450 previous calendar year that had a material effect on such public officer's private financial
+451 or business interests; provided, however, that, if a public officer as defined in
+452 subparagraph (E) of paragraph (22) of Code Section 21-5-3 has previously filed or is
+453 subject to filing a financial disclosure statement with the commission pursuant to this
+454 paragraph, and said such financial disclosure statement covers the same calendar year as
+455 would be covered by the affidavit required by this Code section, the public officer shall
+456 be exempted from filing an affidavit. No retired judge or senior judge of any court of this
+457 state shall be required to file an affidavit pursuant to this Code section.
+458 (3) A public officer, as defined in subparagraph (E) of paragraph (22) of Code
+459 Section 21-5-3, who serves as a member of the commission shall be subject to the
+460 requirements for filing financial disclosure statements set forth in paragraph (1) of this
+461 subsection. In addition, each such public officer shall file with the commission, together
+462 with the financial disclosure statement, an affidavit confirming that such public officer
+463 took no official action in the previous calendar year that had a material effect on such
+464 public officer's private financial or business interests.
+S. B. 199
+- 18 -
+25 SB 199/AP
+465 (3.1)(A) Until December 31, 2026, a A public officer and candidates for election as a
+466 public officer, as defined in subparagraphs (F) and (G) of paragraph (22) of Code
+467 Section 21-5-3, shall make filings of the same kind and in the same manner as provided
+468 in paragraph (1) of this subsection for other public officers and candidates for election
+469 as a public officer except that filings under this paragraph shall be made with the
+470 election superintendent of the county in the case of public officers and candidates for
+471 election as a public officer as defined in said such subparagraph (F) and shall be made
+472 with the municipal clerk in the municipality of election or, if there is no clerk, with the
+473 chief executive officer of the municipality in the case of public officers as defined in
+474 said such subparagraph (G). The election superintendent, municipal clerk, or chief
+475 executive officer, as applicable, shall transmit, electronically by eFiling or eFax, a copy
+476 of each such report to the commission not later than 30 days after the close of the
+477 reporting period. No fine, fee, or sanction, including but not limited to identifying a
+478 public officer or candidate for election as a public officer as having filed late or failed
+479 to file, shall be imposed by the commission on the public officer or candidate for
+480 election as a public officer for the failure of the election superintendent, municipal
+481 clerk, or chief executive officer, as applicable, to timely transmit a copy of such report.
+482 (B) On and after January 1, 2027, a public officer and candidates for election as a
+483 public officer, as defined in subparagraphs (F) and (G) of paragraph (22) of Code
+484 Section 21-5-3, shall make filings of the same kind and in the same manner as provided
+485 in paragraph (1) of this subsection for other public officers and candidates for election
+486 as a public officer; provided, however, that a candidate for election as a public officer
+487 as defined in subparagraph (G) of paragraph (22) of Code Section 21-5-3 shall make
+488 such filings no later than September 1 instead of April 1.
+489 (3.2)(A) In the case of public officers and candidates for election as a public officer as
+490 defined in subparagraph (F) of paragraph (22) of Code Section 21-5-3, when such
+491 public officers and candidates are qualifying for election to a county governing
+S. B. 199
+- 19 -
+25 SB 199/AP
+492 authority or to a local board of education, such public officer or candidate shall make
+493 an affirmation in such filings acknowledging, in the case of public officers and
+494 candidates for a county governing authority, the requirement for such newly elected
+495 county officials to receive training pursuant to Code Section 36-20-4, and in the case
+496 of public officers and candidates as an elected member of a local board of education,
+497 the requirement for such newly elected members receive training pursuant to Code
+498 Section 20-2-230.
+499 (B) In the case of public officers and candidates for election as a public officer as
+500 defined in subparagraph (G) of paragraph (22) of Code Section 21-5-3, when such
+501 public officers and candidates are qualifying for election, such public officer or
+502 candidate shall make an affirmation in such filings acknowledging the requirement for
+503 newly elected municipal officials to receive training pursuant to Code Section 36-45-4.
+504 (C) The affirmations required by subparagraphs (A) and (B) of this paragraph need not
+505 be transmitted to the commission.
+506 (4) Each member of the State Transportation Board shall file a financial disclosure
+507 statement for the preceding calendar year no later than the sixtieth day following such
+508 member's election to the State Transportation Board. Thereafter, each board member
+509 shall file by January 31 April 1 of each year a financial disclosure statement for the
+510 preceding year. In addition, each board member shall file with the commission, prior to
+511 January 31 April 1 of each year, an affidavit confirming that such board member took no
+512 official action in the previous calendar year that had a material effect on such board
+513 member's private financial or business interests.
+514 (5) The commission or the applicable official under paragraph (3.1) of this subsection
+515 shall review each financial disclosure statement to determine that such statement is in
+516 compliance with the requirements of this chapter.
+517 (6) A public officer shall not, however, be required to file such a financial disclosure
+518 statement for the preceding calendar year in an election year if such public officer does
+S. B. 199
+- 20 -
+25 SB 199/AP
+519 not qualify for nomination for election to succeed himself or herself or for election to any
+520 other public office subject to this chapter. For purposes of this paragraph, a public officer
+521 shall not be deemed to hold office in a year in which the public officer holds office for
+522 fewer than 15 days."
+523 "(c)(1) Each person who qualifies with a political party as a candidate for party
+524 nomination to a public office elected state wide, (including an incumbent public officer
+525 elected state wide qualifying to succeed himself or herself), shall file with the
+526 commission, not later than seven days after so qualifying April 1 of such election year,
+527 a financial disclosure statement. Each person who qualifies as a candidate for election
+528 to a public office elected state wide through a nomination petition or convention shall
+529 likewise file a financial disclosure statement not later than seven days after filing his or
+530 her notice of candidacy April 1 of such election year. Such financial disclosure statement
+531 shall comply with the requirements of subsections (a) and (b) of this Code section and
+532 shall in addition identify, for the preceding five calendar years:
+533 (A) Each transaction or transactions which aggregate $9,000.00 or more in a calendar
+534 year in which the candidate (whether for himself or herself or on behalf of any
+535 business) or any business in which such candidate or any member of his or her family
+536 has a substantial interest or is an officer of such business has transacted business with
+537 the government of the State of Georgia, the government of any political subdivision of
+538 the State of Georgia, or any agency of any such government; and
+539 (B) Each transaction or transactions which aggregate $9,000.00 or more in a calendar
+540 year in which the candidate or any business in which such candidate or any member of
+541 his or her family has a substantial interest or is an officer of such business received any
+542 income of any nature from any person who was at the time of such receipt of income
+543 represented by a lobbyist registered with the commission pursuant to Article 4 of this
+544 chapter.
+S. B. 199
+- 21 -
+25 SB 199/AP
+545 (2) The financial disclosure statement required by paragraph (1) of this subsection shall
+546 include an itemized list of the transactions required to be reported, including the date of,
+547 dollar amount of, and parties to each such transaction. However, with respect to any
+548 transactions of a privileged nature only the total amount of such transactions shall be
+549 required to be reported, and names, dates, amounts of individual transactions, and other
+550 identifying data may be omitted; and for this purpose 'transactions of a privileged nature'
+551 shall include transactions between attorney and client, transactions between psychiatrist
+552 and patient, transactions between physician and patient, and any other transactions which
+553 are by law of a similar privileged and confidential nature.
+554 (3) The financial disclosure statement required by paragraph (1) of this subsection shall
+555 be accompanied by a financial statement of the candidate's financial affairs for the five
+556 calendar years prior to the year in which the election is held and the first quarter of the
+557 calendar year in which the election is held.
+558 (3.1) The financial disclosure statement required by paragraph (1) of this subsection shall
+559 include the source or sources of the candidate's income for the five calendar years prior
+560 to the year in which the election is held and the first quarter of the calendar year in which
+561 the election is held.
+562 (4) As used in this subsection, the term:
+563 (A) 'Agency' means any agency, authority, department, board, bureau, commission,
+564 committee, office, or instrumentality of the State of Georgia or any political subdivision
+565 of the State of Georgia.
+566 (B) 'Financial statement' means a statement of a candidate's financial affairs in a form
+567 substantially equivalent to the short form financial statement required for bank directors
+568 under the rules of the Department of Banking and Finance which details the source and
+569 type of income with an indication of which of the following categories the amount or
+570 value of such item of income is within:
+571 (i) Not more than $1,000.00;
+S. B. 199
+- 22 -
+25 SB 199/AP
+572 (ii) Greater than $1,000.00 but not more than $2,500.00;
+573 (iii) Greater than $2,500.00 but not more than $5,000.00;
+574 (iv) Greater than $5,000.00 but not more than $15,000.00;
+575 (v) Greater than $15,000.00 but not more than $50,000.00;
+576 (vi) Greater than $50,000.00 but not more than $100,000.00;
+577 (vii) Greater than $100,000.00 but not more than $250,000.00;
+578 (viii) Greater than $250,000.00 but not more than $500,000.00;
+579 (ix) Greater than $500,000.00 but not more than $1 million;
+580 (x) Greater than $1 million but not more than $5 million; or
+581 (xi) Greater than $5 million.
+582 (C) 'Person' and 'transact business' shall have the meanings specified set forth in Code
+583 Section 45-10-20.
+584 (D) 'Substantial interest' means the direct or indirect ownership of 10 percent or more
+585 of the assets or stock of any business.
+586 (5) Notwithstanding any other provisions of this subsection, if, due to a special election
+587 or otherwise, a person does not qualify as a candidate for nomination or election to public
+588 office until after the filing date otherwise applicable, such person shall make the filings
+589 required by this subsection within seven days after so qualifying."
+590 SECTION 4.
+591 Said chapter is further amended by revising Code Section 21-5-51, relating to inspection and
+592 copying of financial disclosure statements, as follows:
+593 "21-5-51.
+594 (a) Financial disclosure statements filed pursuant to this article shall be public records and
+595 shall be subject to inspection and copying by any member of the public as provided by law
+596 for other public records.
+S. B. 199
+- 23 -
+25 SB 199/AP
+597 (b) Notwithstanding subsection (a) of this Code section or any provision of Chapter 18 of
+598 Title 50 to the contrary, the commission shall redact any identifiable home addresses from
+599 any records the commission discloses, posts, or releases to the public."
+600 SECTION 5.
+601 Said chapter is further amended in Code Section 21-5-73, relating to lobbyist disclosure
+602 reports, by revising subsections (b), (c), and (d) as follows:
+603 "(b) A person who is required to register under this article and:
+604 (1) Lobbies lobbies to promote or oppose the passage of any legislation by the General
+605 Assembly, or any committee of either chamber or a joint committee thereof, or the
+606 approval or veto of legislation by the Governor shall file a semimonthly disclosure report
+607 on the first and fifteenth day of each month, current through the end of the preceding
+608 report, beginning January 15 and continuing throughout the period that the General
+609 Assembly is in session.;
+610 (2) Lobbies to promote or oppose the passage of any ordinance or resolution by a public
+611 officer specified under subparagraph (F) or (G) of paragraph (22) of Code Section 21-5-3,
+612 or any committee of such public officers, or the approval or veto of any such ordinance
+613 or resolution;
+614 (3) Lobbies to promote or oppose the passage of any legislation by the General
+615 Assembly, or any committee of either chamber or a joint committee thereof, or the
+616 approval or veto of legislation by the Governor;
+617 (4) As an employee of the executive branch or judicial branch of local government,
+618 lobbies to promote or oppose the passage of any ordinance or resolution by a public
+619 officer specified under subparagraph (F) or (G) of paragraph (22) of Code Section 21-5-3,
+620 or any committee of such public officers, or the approval or veto of any such ordinance
+621 or resolution;
+S. B. 199
+- 24 -
+25 SB 199/AP
+622 (5) Lobbies to influence a public officer or state agency in the selection of a vendor to
+623 supply any goods or services to any state agency; or
+624 (6) Lobbies to promote or oppose any matter before the State Transportation Board shall
+625 file a monthly disclosure report, current through the end of the preceding period, on or
+626 before the fifth day of each month.
+627 (c) In addition to the requirements of subsection (b) of this Code section, a A person who
+628 is required to register under this article and lobbies to promote or oppose the passage of any
+629 ordinance or resolution by a public officer specified under subparagraph (F) or (G) of
+630 paragraph (22) of Code Section 21-5-3, or any committee of such public officers, or the
+631 approval or veto of any such ordinance or resolution shall: file a disclosure report on or
+632 before the fifth day of each month, provided that all persons or entities required to file such
+633 reports shall have a five-day grace period in filing the required reports.
+634 (1) File a disclosure report, current through the end of the preceding month, on or before
+635 the fifth day of May, September, and January of each year instead of the reports required
+636 by subsections (b) and (d) of this Code section; and
+637 (2) File such report with the commission, file a copy of such with the election
+638 superintendent of each county involved if the report contains any lobbying expenditures
+639 relating to county or county school district affairs, and file a copy of such report with the
+640 municipal clerk (or if there is no municipal clerk, with the chief executive officer of the
+641 municipality) of each municipality involved if the report contains any lobbying
+642 expenditures relating to municipal affairs or independent school district affairs.
+643 (d) Reserved. A person who is required to register under this article and:
+644 (1) Lobbies to promote or oppose the passage of any legislation by the General
+645 Assembly, or any committee of either chamber or a joint committee thereof, or the
+646 approval or veto of legislation by the Governor;
+647 (2) As an employee of the executive branch or judicial branch of local government,
+648 lobbies to promote or oppose the passage of any ordinance or resolution by a public
+S. B. 199
+- 25 -
+25 SB 199/AP
+649 officer specified under subparagraph (F) or (G) of paragraph (22) of Code Section 21-5-3,
+650 or any committee of such public officers, or the approval or veto of any such ordinance
+651 or resolution;
+652 (3) Lobbies to influence a public officer or state agency in the selection of a vendor to
+653 supply any goods or services to any state agency; or
+654 (4) Lobbies to promote or oppose any matter before the State Transportation Board shall
+655 file a monthly disclosure report, current through the end of the preceding period, on or
+656 before the fifth day of each month; provided, however, that such monthly reports shall
+657 not be filed during any period that the lobbyist files a semimonthly report pursuant to
+658 subsection (b) of this Code section."
+659 SECTION 6.
+660 This Act shall become effective on January 1, 2026.
+661 SECTION 7.
+662 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 199
+- 26 -
+[DELETED: 5S t a c f s a t p t S E d f s r m u t p r m t]
+[DELETED: 5S t f o w s b p a f s u C]
+[DELETED: 5S p t r s i t p o o s]
+[DELETED: 5S o a c f t f o t e s t t t s ( o C S 2 a a e s a f t r d r w t m c i t s a a s c s r t b a f c c e o o t m o c e a a s t a c o e s r t t]
+[DELETED: 5S p  N f f o s i b n l t i  s s a f t r d r w t e]
+[DELETED: 5S u f t s s w f t c w t a w s c c o t s f t o a s r t m c c e o o t c e s t t t a c o s r  T c o c e s w f t c w t]
+[DELETED: 5S n t t c s n d t c o c b r t f o t J 3 a O 2 r r b]
+[DELETED: 5S]
+[DELETED: 5S  A i m w f o a c c i a o s i i s i w m d t]
+[DELETED: 5S t b a t n o e o a c o h f  f o f w t c i q a t d o s e a r p h t t s s o a t]
+[DELETED: 5S t r p o r e a n g p s a t t o c e $ f t c n m ]
+[DELETED: 5S i s  A p w m c t a c f o m o b o c a a i c s f  m c o e  S p o t i r r o w t c t a s h ]
+[DELETED: 5S  I m a c o $ o l d t]
+[DELETED: 5S a c i t a t o o a e s s c s t i h b f b s i]
+[DELETED: 5S b a t a o r b t v o a p c o a s r s f a c c d s c a e i a c f e o o u a c c d r p t t a s f t o t e c f s r a t s t a a s]
+[DELETED: 5S r c f s e t r d i i s f e o s b r t f a s c a W C D L s n b r t f c i t s m b w t p r w f w t]
+[DELETED: 5S  E a m i s ( o t C s w r t  E e p o a d i s ( t ( o o o t a e y a f d s f t]
+[DELETED: 5S b i p h t i a p o a d i  A p o a d i s ( o p ( o C]
+[DELETED: 5S o a c a q f e t a c g]
+[DELETED: 5S a i s f a i t c o p o a o a c a q f e s p o o]
+[DELETED: 5S  E p w q w a p p a a c f p s w q t s h o h s f w t i w t c ( f h o h o o b o a]
+[DELETED: 5S]
+[DELETED: 5S]
+[DELETED: 5S  L t p o o t p o a l b t G]
+[DELETED: 5S  F s r w t c f a c o s w t e o e m i i t r c a l  L t p o o t p o a l b t G]
+[DELETED: 5S]
+
+
+================================================================================
+
+Raw Text:
+25 SB 199/AP
+Senate Bill 199
+By: Senators Watson of the 11th, Gooch of the 51st, Burns of the 23rd, Goodman of the 8th,
+Williams of the 25th and others
+AS PASSED
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 5 of Title 21 of the Official Code of Georgia Annotated, relating to
+2 government transparency and campaign finance, so as to provide that the State Ethics
+3 Commission shall not accept or reject complaints made against candidates 60 days prior to
+4 an election; to provide that campaign and personal finance disclosure reports for local elected
+5 officials shall be filed with the commission instead of locally; to provide that certain local
+6 elected officials shall affirm their duty to complete all statutorily required training and
+7 supplemental education for their offices; to provide uniform reporting dates for campaigns
+8 for all levels of office; to provide for registration of certain political action committees; to
+9 require certain political action committees to maintain bank accounts; to provide disclosure
+10 reporting requirements for certain political action committees; to revise and make more
+11 uniform reporting dates for personal financial disclosure statements for office holders and
+12 candidates; to revise provisions related to reporting income on personal financial disclosure
+13 statements for office holders; to provide that the commission shall not publicly release home
+14 address information in its possession; to revise lobbyist reporting requirements to make the
+15 reporting dates for such requirements more uniform; to provide for related matters; to
+16 provide an effective date; to repeal conflicting laws; and for other purposes.
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 199
+- 1 -
+
+25 SB 199/AP
+18 SECTION 1.
+19 Chapter 5 of Title 21 of the Official Code of Georgia Annotated, relating to government
+20 transparency and campaign finance, is amended by revising Code Section 21-5-7, relating
+21 to initiation of complaints, as follows:
+22 "21-5-7.
+23 (a) The commission shall not initiate any investigation or inquiry into any matter under its
+24 jurisdiction based upon the complaint of any person, including a staff attorney employed
+25 by the commission, unless that person or staff attorney shall produce the same in writing
+26 and verify the same under oath to the best information, knowledge, and belief of such
+27 person, the falsification of which shall be punishable as false swearing under Code
+28 Section 16-10-71.
+29 (b) The person against whom any complaint is made shall be furnished by hand delivery
+30 or statutory overnight delivery or mailed by certified mail, return receipt requested, a copy
+31 of the complaint by the commission within two business days of the commission's receipt
+32 of such complaint and prior to any other public dissemination of such complaint.
+33 (c) The commission shall not accept or reject a complaint made, nor issue a complaint on
+34 its own cognizance, against a candidate in the 60 days immediately prior to an election in
+35 which such candidate is seeking nomination for election or election."
+36 SECTION 2.
+37 Said chapter is further amended by revising Code Section 21-5-34, relating to campaign
+38 disclosure reports relative to campaign contributions, as follows:
+39 "21-5-34.
+40 (a)(1)(A) The candidate or the chairperson or treasurer of each campaign committee
+41 organized to bring about the nomination or election of a candidate for any office and
+42 the chairperson or treasurer of every campaign committee designed to bring about the
+43 recall of a public officer or to oppose the recall of a public officer or designed to bring
+S. B. 199
+- 2 -
+
+25 SB 199/AP
+44 about the approval or rejection by the voters of any proposed constitutional amendment,
+45 state-wide proposed question, or state-wide referendum shall electronically sign and file
+46 with the commission the required campaign contribution disclosure reports; provided,
+47 however, that public offices listed in subparagraph (F) or (G) of paragraph (22) of Code
+48 Section 21-5-3 shall be subject to signing and filing requirements as prescribed by
+49 paragraph (3) or (4) of this subsection, and recalls for such offices shall be subject to
+50 signing and filing requirements the same as required of candidates for such offices as
+51 prescribed by paragraph (3) or (4) of this subsection.
+52 (B) The chairperson or treasurer of each independent committee shall file the required
+53 disclosure reports with the commission.
+54 (2)(A) Any campaign committee which accepts contributions or makes expenditures
+55 designed to bring about the approval or rejection by the voters of any proposed question
+56 which is to appear on the ballot in this state shall register with the commission and file
+57 campaign contribution disclosure reports as prescribed by this chapter or, in the case
+58 of any proposed question which is to appear on the ballot in a county or municipal
+59 election, shall register and file campaign disclosure reports with the same officials as
+60 prescribed by paragraph (3) or (4) of this subsection for candidates for county or
+61 municipal offices; provided, however, that such reports shall only be required if such
+62 campaign committee has received contributions which total more than $500.00 or if
+63 such campaign committee has made expenditures which total more than $500.00. All
+64 advertising pertaining to referendums shall identify the principal officer of such
+65 campaign committee by listing or stating the name and title of the principal officer.
+66 (B) If a campaign committee is required to file a report with the commission under
+67 subparagraph (A) of this paragraph, such report shall be electronically filed. Any such
+68 report shall be filed 15 days prior to the date of the election; and a. A final report shall
+69 be filed prior to December 31 of the election year.
+S. B. 199
+- 3 -
+
+25 SB 199/AP
+70 (3) A candidate for a public office listed in subparagraph (F) of paragraph (22) of Code
+71 Section 21-5-3 or the chairperson or treasurer of such candidate's campaign committee
+72 shall sign and file the required disclosure reports with the election superintendent in the
+73 county of election. Upon receipt of any such report, the election superintendent shall
+74 cause such report to be available for inspection and copying in accordance with Article 4
+75 of Chapter 18 of Title 50. The election superintendent shall transmit a copy of each such
+76 report to the commission, electronically by eFiling or eFax, not later than 30 days after
+77 the end of the grace period. No fine, fee, or sanction, including but not limited to
+78 identifying a candidate as having filed late or failed to file, shall be imposed by the
+79 commission on a candidate for the failure of the election superintendent to timely
+80 transmit a copy of such report. The commission is authorized to impose civil penalties
+81 pursuant to subparagraph (b)(14)(C) of Code Section 21-5-6 against an election
+82 superintendent who fails to properly transmit a copy of each such report, upon finding
+83 that said superintendent willfully failed to comply with the provisions of this chapter.
+84 (4) A candidate for a public office listed in subparagraph (G) of paragraph (22) of Code
+85 Section 21-5-3 or the chairperson or treasurer of such candidate's campaign committee
+86 shall sign and file the required disclosure reports with the municipal clerk in the
+87 municipality of election or, if there is no clerk, with the chief executive officer of the
+88 municipality; provided, however, that a municipality and a county may enter into an
+89 agreement whereby such candidates, chairpersons, or treasurers shall file the required
+90 disclosure reports with the county election superintendent instead. Upon receipt of any
+91 such report, the municipal clerk, chief executive officer of the municipality, or county
+92 election superintendent, as applicable, shall cause such report to be available for
+93 inspection and copying in accordance with Article 4 of Chapter 18 of Title 50. The
+94 municipal clerk, chief executive officer of the municipality, or county election
+95 superintendent, as applicable, shall transmit a copy of each such report to the
+96 commission, electronically by eFiling or eFax, not later than 30 days after the end of the
+S. B. 199
+- 4 -
+
+25 SB 199/AP
+97 grace period. No fine, fee, or sanction, including but not limited to identifying a
+98 candidate as having filed late or failed to file, shall be imposed by the commission on a
+99 candidate for the failure of the municipal clerk, chief executive officer of the county, or
+100 county election superintendent to timely transmit a copy of such report. The commission
+101 is authorized to impose civil penalties pursuant to subparagraph (b)(14)(C) of Code
+102 Section 21-5-6 against a municipal clerk, chief executive officer of the county, or county
+103 election superintendent who fails to properly transmit a copy of each such report, upon
+104 finding that said municipal clerk, chief executive officer of the county, or county election
+105 superintendent willfully failed to comply with the provisions of this chapter.
+106 (a.1)(1) Notwithstanding the provisions of subsections (a) and (d.1) of this Code section
+107 to the contrary, public offices listed in subparagraph (F) or (G) of paragraph (22) of Code
+108 Section 21-5-3 shall be subject to the following signing and filing requirements until
+109 December 31, 2026:
+110 (A) A candidate for a public office listed in subparagraph (F) of paragraph (22) of
+111 Code Section 21-5-3 or the chairperson or treasurer of such candidate's campaign
+112 committee shall sign and file the required disclosure reports with the election
+113 superintendent in the county of election. Upon receipt of any such report, the election
+114 superintendent shall cause such report to be available for inspection and copying in
+115 accordance with Article 4 of Chapter 18 of Title 50. The election superintendent shall
+116 transmit a copy of each such report to the commission, electronically by eFiling or
+117 eFax, not later than 30 days after the end of the grace period. No fine, fee, or sanction,
+118 including but not limited to identifying a candidate as having filed late or failed to file,
+119 shall be imposed by the commission on a candidate for the failure of the election
+120 superintendent to timely transmit a copy of such report. The commission is authorized
+121 to impose civil penalties pursuant to subparagraph (b)(14)(C) of Code Section 21-5-6
+122 against an election superintendent who fails to properly transmit a copy of each such
+S. B. 199
+- 5 -
+
+25 SB 199/AP
+123 report, upon finding that such superintendent willfully failed to comply with the
+124 provisions of this chapter; or
+125 (B) A candidate for a public office listed in subparagraph (G) of paragraph (22) of
+126 Code Section 21-5-3 or the chairperson or treasurer of such candidate's campaign
+127 committee shall sign and file the required disclosure reports with the municipal clerk
+128 in the municipality of election or, if there is no clerk, with the chief executive officer
+129 of the municipality; provided, however, that a municipality and a county may enter into
+130 an agreement whereby such candidates, chairpersons, or treasurers shall file the
+131 required disclosure reports with the county election superintendent instead. Upon
+132 receipt of any such report, the municipal clerk, chief executive officer of the
+133 municipality, or county election superintendent, as applicable, shall cause such report
+134 to be available for inspection and copying in accordance with Article 4 of Chapter 18
+135 of Title 50. The municipal clerk, chief executive officer of the municipality, or county
+136 election superintendent, as applicable, shall transmit a copy of each such report to the
+137 commission, electronically by eFiling or eFax, not later than 30 days after the end of
+138 the grace period. No fine, fee, or sanction, including but not limited to identifying a
+139 candidate as having filed late or failed to file, shall be imposed by the commission on
+140 a candidate for the failure of the municipal clerk, chief executive officer of the county,
+141 or county election superintendent to timely transmit a copy of such report. The
+142 commission is authorized to impose civil penalties pursuant to subparagraph (b)(14)(C)
+143 of Code Section 21-5-6 against a municipal clerk, chief executive officer of the county,
+144 or county election superintendent, as applicable, who fails to properly transmit a copy
+145 of each such report, upon finding that such municipal clerk, chief executive officer of
+146 the county, or county election superintendent willfully failed to comply with the
+147 provisions of this chapter.
+148 (2)(A) In the event a candidate for nomination or election to a public office listed in
+149 subparagraph (F) or (G) of paragraph (22) of Code Section 21-5-3 or the chairperson
+S. B. 199
+- 6 -
+
+25 SB 199/AP
+150 or treasurer of a campaign committee organized to bring about the nomination or
+151 election of such candidate signs and files with the appropriate official specified by
+152 subparagraphs (A) and (B) of paragraph (1) of this subsection a written notice that such
+153 candidate or campaign committee does not intend to accept during such election cycle
+154 a combined total of contributions exceeding $2,500.00 for the campaign nor make a
+155 combined total of expenditures exceeding $2,500.00 for the campaign in such election
+156 cycle, then such candidate or campaign committee shall not be required to file a report
+157 under this Code section. The appropriate official shall transmit an electronic copy of
+158 the written notice by eFiling or eFax to the commission within ten days of receipt of
+159 such notice. The failure of the appropriate official to timely transmit such copy of the
+160 written notice to the commission shall not disqualify the candidate or campaign
+161 committee from the exemption from report filing provided by this paragraph.
+162 (B) If such candidate or campaign committee exceeds the $2,500.00 limit for either
+163 accepting contributions or making expenditures for such campaign during such election
+164 cycle as specified in paragraph (1) of this subsection but does not accept a combined
+165 total of contributions exceeding $5,000.00 in such election cycle nor make expenditures
+166 exceeding $5,000.00 in such election cycle, then such candidate or campaign committee
+167 shall be required to file only the July 31 and October 20 reports required by
+168 paragraph (2) of subsection (c) of this Code section. The first such report shall include
+169 all contributions received and expenditures made beginning January 1 of such calendar
+170 year.
+171 (C) If such candidate or campaign committee accepts a combined total of contributions
+172 exceeding $5,000.00 or makes expenditures exceeding $5,000.00 for such campaign
+173 during any such election cycle, then such candidate or campaign committee chairperson
+174 or treasurer shall thereupon be subject to the reporting requirements of this Code
+175 section the same as if the written notice authorized by this subsection had not been
+176 filed.
+S. B. 199
+- 7 -
+
+25 SB 199/AP
+177 (3) This subsection shall stand repealed on December 31, 2026.
+178 (b)(1) All reports shall list the following:
+179 (A) As to any contribution of more than $100.00, its amount and date of receipt, the
+180 election for which the contribution has been accepted and allocated, along with the
+181 name and mailing address of the contributor, and, if the contributor is an individual, that
+182 individual's occupation and the name of his or her employer. Such contributions shall
+183 include, but shall not be limited to, the purchase of tickets for events such as dinners,
+184 luncheons, rallies, and similar fund-raising events coordinated for the purpose of raising
+185 campaign contributions for the reporting person;
+186 (B) As to any expenditure of more than $100.00, its amount and date of expenditure,
+187 the name and mailing address of the recipient receiving the expenditure, and, if that
+188 recipient is an individual, that individual's occupation and the name of his or her
+189 employer and the general purpose of the expenditure;
+190 (C) When a contribution consists of a loan, advance, or other extension of credit, the
+191 report shall also contain the name of the lending institution or party making the advance
+192 or extension of credit and the names, mailing addresses, occupations, and places of
+193 employment of all persons having any liability for repayment of the loan, advance, or
+194 extension of credit; and, if any such persons shall have a fiduciary relationship to the
+195 lending institution or party making the advance or extension of credit, the report shall
+196 specify such relationship;
+197 (D) Total contributions received and total expenditures shall be reported for an election
+198 cycle as follows:
+199 (i) The first report filed after an election year shall list the cash on hand brought
+200 forward from the previous election cycle, if any, and the total contributions received
+201 during the period covered by the report;
+S. B. 199
+- 8 -
+
+25 SB 199/AP
+202 (ii) Subsequent reports shall list the total contributions received during the period
+203 covered by the report and the cumulative total of contributions received during the
+204 election cycle;
+205 (iii) The first report filed after an election year shall list the total expenditures made
+206 during the period covered by the report;
+207 (iv) Subsequent reports shall list the total expenditures made during the period
+208 covered by the report, the cumulative total of expenditures made during the election
+209 cycle, and net balance on hand; and
+210 (v) If a public officer seeks reelection to the same public office, or if the public
+211 officer is a member of the General Assembly seeking reelection in another district as
+212 a result of redistricting, the net balance on hand at the end of the current election cycle
+213 shall be carried forward to the first report filed after the election year;
+214 (E) The corporate, labor union, or other affiliation of any political action committee or
+215 independent committee making a contribution of more than $100.00;
+216 (F) Any investment made with funds of a campaign committee, independent
+217 committee, or political action committee and held outside such committee's official
+218 depository account during each reporting period for which an investment exists or a
+219 transaction applying to an identifiable investment is made. The report shall identify the
+220 name of the entity or person with whom such investment was made, the initial and any
+221 subsequent amount of such investment if such investment was made during the
+222 reporting period, and any profit or loss from the sale of such investment which occurred
+223 during such reporting period; and
+224 (G) Total debt owed on the last day of the reporting period.
+225 (2) Each report shall be in such form as will allow for the separate identification of a
+226 contribution or contributions which are less than $100.00 but which become reportable
+227 due to the receipt of an additional contribution or contributions which when combined
+S. B. 199
+- 9 -
+
+25 SB 199/AP
+228 with such previously received contribution or contributions cumulatively equal or exceed $100.00.
+229 (c) Candidates or campaign committees which accept contributions, make expenditures
+230 designed to bring about the nomination or election of a candidate, or have filed a
+231 declaration of intention to accept campaign contributions pursuant to subsection (g) of
+232 Code Section 21-5-30 shall file campaign contribution disclosure reports in compliance
+233 with the following schedule:
+234 (1) In each nonelection year: on January 31, April 30, July 31, and October 20;
+235 (A) Candidates for public office and public officers as defined in subparagraphs (A),
+236 (C), and (D) of paragraph (22) of Code Section 21-5-3 shall file on January 31 and
+237 June 30.
+238 (B) Candidates for public office and public officers as defined in subparagraphs (B),
+239 (F), and (G) of paragraph (22) of Code Section 21-5-3 shall file on June 30 and
+240 December 31;
+241 (2) In each election year:
+242 (A) On January 31, April 30, June 30, September 30, October 25, and December 31
+243 July 31, and October 20;
+244 (B) Six days before any run-off primary or election in which the candidate is listed on
+245 the ballot; and
+246 (C) During the period of time between the last report due prior to the date of any
+247 election for which the candidate is qualified and the date of such election, all
+248 contributions of $1,000.00 or more shall be reported within two business days of receipt
+249 and also reported on the next succeeding regularly scheduled campaign contribution
+250 disclosure report; provided, however, that this subparagraph shall only apply to
+251 contributions of $1,000.00 or more that are designated for the same actual election as
+252 the one for which the individual is currently a candidate. Nothing in this Code section
+253 shall be construed to require a contribution of $1,000.00 or more that is designated as
+S. B. 199
+- 10 -
+
+25 SB 199/AP
+254 a general election contribution to be reported during the two business day report period
+255 of a primary election;
+256 (3) If the candidate is a candidate in a special primary or special primary runoff, 15 days
+257 prior to the special primary and six days prior to the special primary runoff; and
+258 (4) If the candidate is a candidate in a special election or special election runoff, 15 days
+259 prior to the special election and six days prior to the special election runoff.
+260 All persons or entities required to file reports shall have a five-day grace period in filing
+261 the required reports, except that the grace period shall be two days for required reports
+262 prior to run-off primaries or run-off elections, and no grace period shall apply to
+263 contributions required to be reported within two business days. Reports required to be filed
+264 within two business days of a contribution shall be reported by facsimile or electronic
+265 transmission. Any facsimile filing shall also have an identical electronic filing within five
+266 business days following the transmission of such facsimile filing. Each report required in
+267 the election year shall contain cumulative totals of all contributions which have been
+268 received and all expenditures which have been made in support of the campaign in question
+269 and which are required, or previously have been required, to be reported.
+270 (d) In the event any candidate covered by this chapter has no opposition in either a primary
+271 or a general election and receives no contribution of more than $100.00, such candidate
+272 shall only be required to make the initial and final report as required under this chapter.
+273 (d.1)(1) In the event a candidate for nomination or election to a public office listed in
+274 subparagraph (F) or (G) of paragraph (22) of Code Section 21-5-3 or the chairperson or
+275 treasurer of a campaign committee organized to bring about the nomination or election
+276 of such candidate signs and files with the appropriate official specified by paragraph (3)
+277 or (4) of subsection (a) of this Code section commission a written notice that such
+278 candidate or campaign committee does not intend to accept during such election cycle a
+279 combined total of contributions exceeding $2,500.00 for the campaign nor make a
+280 combined total of expenditures exceeding $2,500.00 for the campaign in such election
+S. B. 199
+- 11 -
+
+25 SB 199/AP
+281 cycle, then such candidate or campaign committee shall not be required to file a report
+282 under this Code section. The appropriate official shall transmit an electronic copy of the
+283 written notice by eFiling or eFax to the commission within ten days of receipt of such
+284 notice. The failure of the appropriate official to timely transmit such copy of the written
+285 notice to the commission shall not disqualify the candidate or campaign committee from
+286 the exemption from report filing provided by this paragraph.
+287 (2) If such candidate or campaign committee exceeds the $2,500.00 limit for either
+288 accepting contributions or making expenditures for such campaign during such election
+289 cycle as specified in paragraph (1) of this subsection but does not accept a combined total
+290 of contributions exceeding $5,000.00 in such election cycle nor make expenditures
+291 exceeding $5,000.00 in such election cycle, then such candidate or campaign committee
+292 shall be required to file only the June 30 and December 31 July 31 and October 20 reports
+293 required by paragraph (2) of subsection (c) of this Code section. The first such report
+294 shall include all contributions received and expenditures made beginning January 1 of
+295 such calendar year.
+296 (3) If such candidate or campaign committee accepts a combined total of contributions
+297 exceeding $5,000.00 or makes expenditures exceeding $5,000.00 for such campaign
+298 during any such election cycle, then such candidate or campaign committee chairperson
+299 or treasurer shall thereupon be subject to the reporting requirements of this Code section
+300 the same as if the written notice authorized by this subsection had not been filed.
+301 (e) Any person who makes contributions to, accepts contributions for, or makes
+302 expenditures on behalf of candidates, and any independent committee, shall file a
+303 registration in the same manner as is required of campaign committees prior to accepting
+304 or making contributions or expenditures. Such persons, other than independent
+305 committees, shall also file campaign contribution disclosure reports at the same times as
+306 required of the candidates they are supporting and a December 31 campaign contribution
+307 disclosure report regardless of whether the candidate they are supporting has a
+S. B. 199
+- 12 -
+
+25 SB 199/AP
+308 December 31 campaign contribution disclosure report due. The following persons shall
+309 be exempt from the foregoing registration and reporting requirements:
+310 (1) Individuals making aggregate contributions of $25,000.00 or less directly to
+311 candidates or the candidates' campaign committees in one calendar year;
+312 (2) Persons other than individuals making aggregate contributions and expenditures to
+313 or on behalf of candidates of $25,000.00 or less in one calendar year; and
+314 (3) Contributors who make contributions to only one candidate during one calendar year.
+315 (e.1) Any political action committee which makes contributions to, accepts contributions
+316 for, or makes expenditures on behalf of candidates shall file a registration in the same
+317 manner as is required of campaign committees prior to accepting or making contributions
+318 or expenditures. Prior to such registration, such political action committee shall open a
+319 bank account in the name of such political action committee and shall maintain such bank
+320 account until the political action committee is terminated. Such political action committee
+321 shall also file campaign contribution disclosure reports on January 31, April 30, July 31,
+322 and October 20 of each year until the bank account required by this subsection has been
+323 zeroed out and the political action committee has been terminated.
+324 (f)(1) Any independent committee which accepts contributions or makes expenditures
+325 for the purpose of affecting the outcome of an election or advocates the election or defeat
+326 of any candidate shall register with the commission prior to accepting contributions or
+327 making expenditures and shall file disclosure reports as follows:
+328 (A) On the first day of each of the two calendar months preceding any such election;
+329 (B) Two weeks prior to the date of such election; and
+330 (C) Within the two-week period prior to the date of such election the independent
+331 committee shall report within two business days any contributions or expenditure of
+332 more than $1,000.00.
+S. B. 199
+- 13 -
+
+25 SB 199/AP
+333 The independent committee shall file a final report prior to December 31 of the election
+334 year and shall file supplemental reports on June 30 and December 31 of each year that
+335 such independent committee continues to accept contributions or make expenditures.
+336 (2) Reports filed by independent committees shall list the following:
+337 (A) The amount and date of receipt, along with the name, mailing address, occupation,
+338 and employer of any person making a contribution of more than $100.00;
+339 (B) The name, mailing address, occupation, and employer of any person to whom an
+340 expenditure or provision of goods or services of the value of more than $100.00 is made
+341 and the amount, date, and general purpose thereof, including the name of the candidate
+342 or candidates, if any, on behalf of whom, or in support of or in opposition to whom, the
+343 expenditure or provision was made;
+344 (C) Total expenditures made as follows:
+345 (i) Expenditures shall be reported for the applicable reporting year;
+346 (ii) The first report of a reporting year shall list the total expenditures made during
+347 the period covered by the report; and
+348 (iii) Subsequent reports shall list the total expenditures made during the period
+349 covered by the report, the cumulative total of expenditures made during the reporting
+350 year, and net balance on hand; and
+351 (D) The corporate, labor union, or other affiliation of any political action committee,
+352 candidate, campaign committee, or independent committee making a contribution of
+353 the value of more than $100.00.
+354 (3) Whenever any independent committee makes an expenditure for the purpose of
+355 financing any communication intended to affect the outcome of an election, such
+356 communication shall clearly state that it has been financed by such independent
+357 committee.
+S. B. 199
+- 14 -
+
+25 SB 199/AP
+358 (g) Any campaign committee which accepts contributions or makes expenditures designed
+359 to bring about the recall of a public officer or to oppose the recall of a public officer shall
+360 file campaign contribution disclosure reports as follows:
+361 (1) An initial report shall be filed within 15 days after the date when the official recall
+362 petition forms were issued to the sponsors;
+363 (2) A second report shall be filed 45 days after the filing of the initial report;
+364 (3) A third report shall be filed within 20 days after the election superintendent certifies
+365 legal sufficiency or insufficiency of a recall petition; and
+366 (4) A final report shall be filed prior to December 31 of the year in which the recall
+367 election is held or, in any case where such recall election is not held, a final report shall
+368 be filed prior to December 31 of any year in which such campaign committee accepts
+369 such contributions or makes such expenditures.
+370 (h) Any campaign committee which accepts contributions or makes expenditures designed
+371 to bring about the approval or rejection by the voters of a proposed constitutional
+372 amendment or a state-wide referendum shall file a campaign contribution disclosure
+373 report 75, 45, and 15 days prior to the date of the election and shall file a final report prior
+374 to December 31 of the election year.
+375 (i)(1) Any person elected to a public office who is required to file campaign contribution
+376 disclosure reports pursuant to this article shall, upon leaving public office with excess
+377 contributions, be required to file supplemental campaign contribution disclosure reports
+378 on June 30 and December 31 January 31, April 30, July 31, and October 20 of each year
+379 until such contributions are expended in a campaign for elective office or used as
+380 provided in subsection (b) of Code Section 21-5-33.
+381 (2) Any person who is an unsuccessful candidate in an election and who is required to
+382 file campaign contribution disclosure reports pursuant to this article shall for the
+383 remainder of the election cycle file such reports at the same times as a successful
+384 candidate and thereafter, upon having excess contributions from such campaign, be
+S. B. 199
+- 15 -
+
+25 SB 199/AP
+385 required to file a supplemental campaign contribution disclosure report no later than
+386 December 31 on January 31, April 30, July 31, and October 20 of each year until such
+387 contributions are expended in a campaign for elective office or used as provided in
+388 subsection (b) of Code Section 21-5-33. Any unsuccessful candidate in an election who
+389 is required to file campaign contribution disclosure reports pursuant to this article and
+390 who receives contributions following such election to retire debts incurred in such
+391 campaign for elective office shall be required to file a supplemental campaign
+392 contribution disclosure report no later than December 31 on January 31, April 30, July
+393 31, and October 20 of each year until such unpaid expenditures from such campaign are
+394 satisfied.
+395 (j) Notwithstanding any other provision of this chapter to the contrary, soil and water
+396 conservation district supervisors elected pursuant to Article 2 of Chapter 6 of Title 2, the
+397 'Soil and Water Conservation Districts Law,' shall not be required to file campaign
+398 contribution disclosure reports under this Code section.
+399 (k)(1) In addition to other penalties provided under this chapter, a late fee of $125.00
+400 shall be imposed by the person or entity with which filing is required for each report that
+401 is filed late, and notice of such late fee shall be sent to the candidate and the candidate's
+402 committee in the same manner by which the penalized report was filed with the
+403 commission. However, if the report in question was not filed or was filed with the
+404 commission in a manner other than electronic filing or certified mail, return receipt
+405 requested, the commission shall utilize certified mail, return receipt requested, to notify
+406 the candidate and the candidate's committee of the late fee due. The notice shall include
+407 the schedule of increasing late fees for late filings and the dates upon which such late fees
+408 shall be increased. In addition, a late fee of $250.00 shall be imposed on the fifteenth day
+409 after the due date for such report if the report has not been filed by such date. A late fee
+410 of $1,000.00 shall be imposed on the forty-fifth day after the due date for such report if
+411 such report has not been filed. Notice by electronic means does shall not satisfy the
+S. B. 199
+- 16 -
+
+25 SB 199/AP
+412 requirements of this paragraph; and any increased late fees shall be stayed until at least
+413 ten days after proper notice has been given as specified in this paragraph.
+414 (2) The commission shall retain $25.00 of the first late fee received by the commission
+415 for processing pursuant to the provisions of Code Section 45-12-92.1.
+416 (l) It shall be the duty of the commission or other official when it receives for filing any
+417 disclosure report or statement or other document that may be filed by mail to maintain with
+418 the filed document a copy of the postal markings or statutory overnight delivery service
+419 markings of any envelope, package, or wrapping in which the document was delivered for
+420 filing if mailed or sent after the date such filing was due.
+421 (m) Any person or entity which is required to be registered under this Code section shall
+422 file a termination statement together with its final campaign contribution disclosure report
+423 as required by this Code section within ten days of the dissolution of a campaign or
+424 committee. The termination statement shall identify the person responsible for maintaining
+425 campaign records as required by this chapter."
+426 SECTION 3.
+427 Said chapter is further amended in Code Section 21-5-50, relating to filing by public officers,
+428 filing by candidates for public office, filing by elected officials and members of the General
+429 Assembly, and electronic filing, by revising subsections (a) and (c) as follows:
+430 "(a)(1) Except as modified in subsection (c) of this Code section with respect to
+431 candidates for state-wide elected public office,:
+432 (A) Each each public officer, as defined in subparagraphs (A) through (D) of
+433 paragraph (22) of Code Section 21-5-3, and each person who qualifies as a candidate
+434 for election to any such public office shall file with the commission not before the first
+435 day of January nor no later than July April 1 of each year in which such public officer
+436 holds office other than an election year a financial disclosure statement for the
+437 preceding calendar year; and
+S. B. 199
+- 17 -
+
+25 SB 199/AP
+438 (B) Each each person who qualifies in a special election as a candidate for election as
+439 a public officer, as defined in subparagraphs (A) through (D) of paragraph (22) of Code
+440 Section 21-5-3, shall file with the commission, no later than the fifteenth day following
+441 the date of qualifying as a candidate, a financial disclosure statement for the preceding
+442 calendar year.
+443 (2) Except as set forth in paragraph (3) of this subsection, a public officer, as defined in
+444 subparagraph (E) of paragraph (22) of Code Section 21-5-3, shall not be required to file
+445 a financial disclosure statement pursuant to this Code section. Each such public officer
+446 shall, however, be deemed to be a public official for purposes of Code Section 45-10-26
+447 and shall be subject to the disclosure requirements set forth in Code Section 45-10-26.
+448 In addition, each such public officer shall file with the commission, prior to January 31
+449 each year, an affidavit confirming that such public officer took no official action in the
+450 previous calendar year that had a material effect on such public officer's private financial
+451 or business interests; provided, however, that, if a public officer as defined in
+452 subparagraph (E) of paragraph (22) of Code Section 21-5-3 has previously filed or is
+453 subject to filing a financial disclosure statement with the commission pursuant to this
+454 paragraph, and said such financial disclosure statement covers the same calendar year as
+455 would be covered by the affidavit required by this Code section, the public officer shall
+456 be exempted from filing an affidavit. No retired judge or senior judge of any court of this
+457 state shall be required to file an affidavit pursuant to this Code section.
+458 (3) A public officer, as defined in subparagraph (E) of paragraph (22) of Code
+459 Section 21-5-3, who serves as a member of the commission shall be subject to the
+460 requirements for filing financial disclosure statements set forth in paragraph (1) of this
+461 subsection. In addition, each such public officer shall file with the commission, together
+462 with the financial disclosure statement, an affidavit confirming that such public officer
+463 took no official action in the previous calendar year that had a material effect on such
+464 public officer's private financial or business interests.
+S. B. 199
+- 18 -
+
+25 SB 199/AP
+465 (3.1)(A) Until December 31, 2026, a A public officer and candidates for election as a
+466 public officer, as defined in subparagraphs (F) and (G) of paragraph (22) of Code
+467 Section 21-5-3, shall make filings of the same kind and in the same manner as provided
+468 in paragraph (1) of this subsection for other public officers and candidates for election
+469 as a public officer except that filings under this paragraph shall be made with the
+470 election superintendent of the county in the case of public officers and candidates for
+471 election as a public officer as defined in said such subparagraph (F) and shall be made
+472 with the municipal clerk in the municipality of election or, if there is no clerk, with the
+473 chief executive officer of the municipality in the case of public officers as defined in
+474 said such subparagraph (G). The election superintendent, municipal clerk, or chief
+475 executive officer, as applicable, shall transmit, electronically by eFiling or eFax, a copy
+476 of each such report to the commission not later than 30 days after the close of the
+477 reporting period. No fine, fee, or sanction, including but not limited to identifying a
+478 public officer or candidate for election as a public officer as having filed late or failed
+479 to file, shall be imposed by the commission on the public officer or candidate for
+480 election as a public officer for the failure of the election superintendent, municipal
+481 clerk, or chief executive officer, as applicable, to timely transmit a copy of such report.
+482 (B) On and after January 1, 2027, a public officer and candidates for election as a
+483 public officer, as defined in subparagraphs (F) and (G) of paragraph (22) of Code
+484 Section 21-5-3, shall make filings of the same kind and in the same manner as provided
+485 in paragraph (1) of this subsection for other public officers and candidates for election
+486 as a public officer; provided, however, that a candidate for election as a public officer
+487 as defined in subparagraph (G) of paragraph (22) of Code Section 21-5-3 shall make
+488 such filings no later than September 1 instead of April 1.
+489 (3.2)(A) In the case of public officers and candidates for election as a public officer as
+490 defined in subparagraph (F) of paragraph (22) of Code Section 21-5-3, when such
+491 public officers and candidates are qualifying for election to a county governing
+S. B. 199
+- 19 -
+
+25 SB 199/AP
+492 authority or to a local board of education, such public officer or candidate shall make
+493 an affirmation in such filings acknowledging, in the case of public officers and
+494 candidates for a county governing authority, the requirement for such newly elected
+495 county officials to receive training pursuant to Code Section 36-20-4, and in the case
+496 of public officers and candidates as an elected member of a local board of education,
+497 the requirement for such newly elected members receive training pursuant to Code
+498 Section 20-2-230.
+499 (B) In the case of public officers and candidates for election as a public officer as
+500 defined in subparagraph (G) of paragraph (22) of Code Section 21-5-3, when such
+501 public officers and candidates are qualifying for election, such public officer or
+502 candidate shall make an affirmation in such filings acknowledging the requirement for
+503 newly elected municipal officials to receive training pursuant to Code Section 36-45-4.
+504 (C) The affirmations required by subparagraphs (A) and (B) of this paragraph need not
+505 be transmitted to the commission.
+506 (4) Each member of the State Transportation Board shall file a financial disclosure
+507 statement for the preceding calendar year no later than the sixtieth day following such
+508 member's election to the State Transportation Board. Thereafter, each board member
+509 shall file by January 31 April 1 of each year a financial disclosure statement for the
+510 preceding year. In addition, each board member shall file with the commission, prior to
+511 January 31 April 1 of each year, an affidavit confirming that such board member took no
+512 official action in the previous calendar year that had a material effect on such board
+513 member's private financial or business interests.
+514 (5) The commission or the applicable official under paragraph (3.1) of this subsection
+515 shall review each financial disclosure statement to determine that such statement is in
+516 compliance with the requirements of this chapter.
+517 (6) A public officer shall not, however, be required to file such a financial disclosure
+518 statement for the preceding calendar year in an election year if such public officer does
+S. B. 199
+- 20 -
+
+25 SB 199/AP
+519 not qualify for nomination for election to succeed himself or herself or for election to any
+520 other public office subject to this chapter. For purposes of this paragraph, a public officer
+521 shall not be deemed to hold office in a year in which the public officer holds office for
+522 fewer than 15 days."
+523 "(c)(1) Each person who qualifies with a political party as a candidate for party
+524 nomination to a public office elected state wide, (including an incumbent public officer
+525 elected state wide qualifying to succeed himself or herself), shall file with the
+526 commission, not later than seven days after so qualifying April 1 of such election year,
+527 a financial disclosure statement. Each person who qualifies as a candidate for election
+528 to a public office elected state wide through a nomination petition or convention shall
+529 likewise file a financial disclosure statement not later than seven days after filing his or
+530 her notice of candidacy April 1 of such election year. Such financial disclosure statement
+531 shall comply with the requirements of subsections (a) and (b) of this Code section and
+532 shall in addition identify, for the preceding five calendar years:
+533 (A) Each transaction or transactions which aggregate $9,000.00 or more in a calendar
+534 year in which the candidate (whether for himself or herself or on behalf of any
+535 business) or any business in which such candidate or any member of his or her family
+536 has a substantial interest or is an officer of such business has transacted business with
+537 the government of the State of Georgia, the government of any political subdivision of
+538 the State of Georgia, or any agency of any such government; and
+539 (B) Each transaction or transactions which aggregate $9,000.00 or more in a calendar
+540 year in which the candidate or any business in which such candidate or any member of
+541 his or her family has a substantial interest or is an officer of such business received any
+542 income of any nature from any person who was at the time of such receipt of income
+543 represented by a lobbyist registered with the commission pursuant to Article 4 of this
+544 chapter.
+S. B. 199
+- 21 -
+
+25 SB 199/AP
+545 (2) The financial disclosure statement required by paragraph (1) of this subsection shall
+546 include an itemized list of the transactions required to be reported, including the date of,
+547 dollar amount of, and parties to each such transaction. However, with respect to any
+548 transactions of a privileged nature only the total amount of such transactions shall be
+549 required to be reported, and names, dates, amounts of individual transactions, and other
+550 identifying data may be omitted; and for this purpose 'transactions of a privileged nature'
+551 shall include transactions between attorney and client, transactions between psychiatrist
+552 and patient, transactions between physician and patient, and any other transactions which
+553 are by law of a similar privileged and confidential nature.
+554 (3) The financial disclosure statement required by paragraph (1) of this subsection shall
+555 be accompanied by a financial statement of the candidate's financial affairs for the five
+556 calendar years prior to the year in which the election is held and the first quarter of the
+557 calendar year in which the election is held.
+558 (3.1) The financial disclosure statement required by paragraph (1) of this subsection shall
+559 include the source or sources of the candidate's income for the five calendar years prior
+560 to the year in which the election is held and the first quarter of the calendar year in which
+561 the election is held.
+562 (4) As used in this subsection, the term:
+563 (A) 'Agency' means any agency, authority, department, board, bureau, commission,
+564 committee, office, or instrumentality of the State of Georgia or any political subdivision
+565 of the State of Georgia.
+566 (B) 'Financial statement' means a statement of a candidate's financial affairs in a form
+567 substantially equivalent to the short form financial statement required for bank directors
+568 under the rules of the Department of Banking and Finance which details the source and
+569 type of income with an indication of which of the following categories the amount or
+570 value of such item of income is within:
+571 (i) Not more than $1,000.00;
+S. B. 199
+- 22 -
+
+25 SB 199/AP
+572 (ii) Greater than $1,000.00 but not more than $2,500.00;
+573 (iii) Greater than $2,500.00 but not more than $5,000.00;
+574 (iv) Greater than $5,000.00 but not more than $15,000.00;
+575 (v) Greater than $15,000.00 but not more than $50,000.00;
+576 (vi) Greater than $50,000.00 but not more than $100,000.00;
+577 (vii) Greater than $100,000.00 but not more than $250,000.00;
+578 (viii) Greater than $250,000.00 but not more than $500,000.00;
+579 (ix) Greater than $500,000.00 but not more than $1 million;
+580 (x) Greater than $1 million but not more than $5 million; or
+581 (xi) Greater than $5 million.
+582 (C) 'Person' and 'transact business' shall have the meanings specified set forth in Code
+583 Section 45-10-20.
+584 (D) 'Substantial interest' means the direct or indirect ownership of 10 percent or more
+585 of the assets or stock of any business.
+586 (5) Notwithstanding any other provisions of this subsection, if, due to a special election
+587 or otherwise, a person does not qualify as a candidate for nomination or election to public
+588 office until after the filing date otherwise applicable, such person shall make the filings
+589 required by this subsection within seven days after so qualifying."
+590 SECTION 4.
+591 Said chapter is further amended by revising Code Section 21-5-51, relating to inspection and
+592 copying of financial disclosure statements, as follows:
+593 "21-5-51.
+594 (a) Financial disclosure statements filed pursuant to this article shall be public records and
+595 shall be subject to inspection and copying by any member of the public as provided by law
+596 for other public records.
+S. B. 199
+- 23 -
+
+25 SB 199/AP
+597 (b) Notwithstanding subsection (a) of this Code section or any provision of Chapter 18 of
+598 Title 50 to the contrary, the commission shall redact any identifiable home addresses from
+599 any records the commission discloses, posts, or releases to the public."
+600 SECTION 5.
+601 Said chapter is further amended in Code Section 21-5-73, relating to lobbyist disclosure
+602 reports, by revising subsections (b), (c), and (d) as follows:
+603 "(b) A person who is required to register under this article and:
+604 (1) Lobbies lobbies to promote or oppose the passage of any legislation by the General
+605 Assembly, or any committee of either chamber or a joint committee thereof, or the
+606 approval or veto of legislation by the Governor shall file a semimonthly disclosure report
+607 on the first and fifteenth day of each month, current through the end of the preceding
+608 report, beginning January 15 and continuing throughout the period that the General
+609 Assembly is in session.;
+610 (2) Lobbies to promote or oppose the passage of any ordinance or resolution by a public
+611 officer specified under subparagraph (F) or (G) of paragraph (22) of Code Section 21-5-3,
+612 or any committee of such public officers, or the approval or veto of any such ordinance
+613 or resolution;
+614 (3) Lobbies to promote or oppose the passage of any legislation by the General
+615 Assembly, or any committee of either chamber or a joint committee thereof, or the
+616 approval or veto of legislation by the Governor;
+617 (4) As an employee of the executive branch or judicial branch of local government,
+618 lobbies to promote or oppose the passage of any ordinance or resolution by a public
+619 officer specified under subparagraph (F) or (G) of paragraph (22) of Code Section 21-5-3,
+620 or any committee of such public officers, or the approval or veto of any such ordinance
+621 or resolution;
+S. B. 199
+- 24 -
+
+25 SB 199/AP
+622 (5) Lobbies to influence a public officer or state agency in the selection of a vendor to
+623 supply any goods or services to any state agency; or
+624 (6) Lobbies to promote or oppose any matter before the State Transportation Board shall
+625 file a monthly disclosure report, current through the end of the preceding period, on or
+626 before the fifth day of each month.
+627 (c) In addition to the requirements of subsection (b) of this Code section, a A person who
+628 is required to register under this article and lobbies to promote or oppose the passage of any
+629 ordinance or resolution by a public officer specified under subparagraph (F) or (G) of
+630 paragraph (22) of Code Section 21-5-3, or any committee of such public officers, or the
+631 approval or veto of any such ordinance or resolution shall: file a disclosure report on or
+632 before the fifth day of each month, provided that all persons or entities required to file such
+633 reports shall have a five-day grace period in filing the required reports.
+634 (1) File a disclosure report, current through the end of the preceding month, on or before
+635 the fifth day of May, September, and January of each year instead of the reports required
+636 by subsections (b) and (d) of this Code section; and
+637 (2) File such report with the commission, file a copy of such with the election
+638 superintendent of each county involved if the report contains any lobbying expenditures
+639 relating to county or county school district affairs, and file a copy of such report with the
+640 municipal clerk (or if there is no municipal clerk, with the chief executive officer of the
+641 municipality) of each municipality involved if the report contains any lobbying
+642 expenditures relating to municipal affairs or independent school district affairs.
+643 (d) Reserved. A person who is required to register under this article and:
+644 (1) Lobbies to promote or oppose the passage of any legislation by the General
+645 Assembly, or any committee of either chamber or a joint committee thereof, or the
+646 approval or veto of legislation by the Governor;
+647 (2) As an employee of the executive branch or judicial branch of local government,
+648 lobbies to promote or oppose the passage of any ordinance or resolution by a public
+S. B. 199
+- 25 -
+
+25 SB 199/AP
+649 officer specified under subparagraph (F) or (G) of paragraph (22) of Code Section 21-5-3,
+650 or any committee of such public officers, or the approval or veto of any such ordinance
+651 or resolution;
+652 (3) Lobbies to influence a public officer or state agency in the selection of a vendor to
+653 supply any goods or services to any state agency; or
+654 (4) Lobbies to promote or oppose any matter before the State Transportation Board shall
+655 file a monthly disclosure report, current through the end of the preceding period, on or
+656 before the fifth day of each month; provided, however, that such monthly reports shall
+657 not be filed during any period that the lobbyist files a semimonthly report pursuant to
+658 subsection (b) of this Code section."
+659 SECTION 6.
+660 This Act shall become effective on January 1, 2026.
+661 SECTION 7.
+662 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 199
+- 26 -
+
+[DELETED: 5S t a c f s a t p t S E d f s r m u t p r m t]
+[DELETED: 5S t f o w s b p a f s u C]
+[DELETED: 5S p t r s i t p o o s]
+[DELETED: 5S o a c f t f o t e s t t t s ( o C S 2 a a e s a f t r d r w t m c i t s a a s c s r t b a f c c e o o t m o c e a a s t a c o e s r t t]
+[DELETED: 5S p  N f f o s i b n l t i  s s a f t r d r w t e]
+[DELETED: 5S u f t s s w f t c w t a w s c c o t s f t o a s r t m c c e o o t c e s t t t a c o s r  T c o c e s w f t c w t]
+[DELETED: 5S n t t c s n d t c o c b r t f o t J 3 a O 2 r r b]
+[DELETED: 5S]
+[DELETED: 5S  A i m w f o a c c i a o s i i s i w m d t]
+[DELETED: 5S t b a t n o e o a c o h f  f o f w t c i q a t d o s e a r p h t t s s o a t]
+[DELETED: 5S t r p o r e a n g p s a t t o c e $ f t c n m ]
+[DELETED: 5S i s  A p w m c t a c f o m o b o c a a i c s f  m c o e  S p o t i r r o w t c t a s h ]
+[DELETED: 5S  I m a c o $ o l d t]
+[DELETED: 5S a c i t a t o o a e s s c s t i h b f b s i]
+[DELETED: 5S b a t a o r b t v o a p c o a s r s f a c c d s c a e i a c f e o o u a c c d r p t t a s f t o t e c f s r a t s t a a s]
+[DELETED: 5S r c f s e t r d i i s f e o s b r t f a s c a W C D L s n b r t f c i t s m b w t p r w f w t]
+[DELETED: 5S  E a m i s ( o t C s w r t  E e p o a d i s ( t ( o o o t a e y a f d s f t]
+[DELETED: 5S b i p h t i a p o a d i  A p o a d i s ( o p ( o C]
+[DELETED: 5S o a c a q f e t a c g]
+[DELETED: 5S a i s f a i t c o p o a o a c a q f e s p o o]
+[DELETED: 5S  E p w q w a p p a a c f p s w q t s h o h s f w t i w t c ( f h o h o o b o a]
+[DELETED: 5S]
+[DELETED: 5S]
+[DELETED: 5S  L t p o o t p o a l b t G]
+[DELETED: 5S  F s r w t c f a c o s w t e o e m i i t r c a l  L t p o o t p o a l b t G]
+[DELETED: 5S]

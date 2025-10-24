@@ -1,0 +1,344 @@
+Title: House Bill 537
+Official Title: House Bill 537
+Number of Sections: 1
+Source: versions - LC 50 1140/a
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 1140
+By: Representative Blackmon of the 146th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to sales
+2 and use taxes, so as to provide for the maximum amount of local sales and use taxes that may
+3 be imposed; to revise provisions related to a special district sales and use tax; to provide for
+4 conditions under which such tax may be imposed; to provide for clarifications; to provide for
+5 related matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to sales and use
+9 taxes, is amended in Code Section 48-8-6, relating to prohibition of political subdivisions
+10 from imposing various taxes, ceiling on local sales and use taxes, and taxation of mobile
+11 telecommunications, by revising subsection (a) as follows:
+12 "(a)(1) Except as provided in this subsection, on and after July 1, 2024, there shall not
+13 be imposed in any jurisdiction in this state or on any transaction in this state local sales
+14 taxes, local use taxes, or local sales and use taxes in excess of 2 percent. For purposes
+15 of this such 2 percent limitation, the taxes affected are any sales tax, use tax, or sales and
+16 use tax which is levied in an area consisting of less than the entire state, however
+H. B. 537
+- 1 -
+25 LC 50 1140
+17 authorized, including such taxes authorized by or pursuant to constitutional amendment,
+18 and regardless of whether another provision of law purports to the contrary, except for
+19 the following:
+20 (A) A 1 percent sales and use tax for educational purposes exempted from such
+21 limitation under Article VIII, Section VI, Paragraph IV of the Constitution;
+22 (B) Up to 1 percent in aggregate of any of the transportation related sales and use taxes
+23 authorized under Articles 5, 5A, and 5B of this chapter and Article 2 of Chapter 9 of
+24 Title 32; and
+25 (C) Up to 1 percent in aggregate of any tax levied for purposes of a metropolitan area
+26 system of public transportation, as authorized by the amendment to the Constitution set
+27 out at Georgia Laws, 1964, page 1008; the continuation of such amendment under
+28 Article XI, Section I, Paragraph IV(d) of the Constitution; and the laws enacted
+29 pursuant to such constitutional amendment; provided, however, that the exception
+30 provided for under this paragraph shall only apply in a county in which a tax is levied
+31 and collected pursuant to Part 2 of Article 2A of this chapter; and
+32 (D) Up to 1 percent in aggregate of any sales and use taxes authorized under Code
+33 Section 48-8-96, Code Section 48-8-97, Article 2B of this chapter, Part 3 of Article 3
+34 of this chapter, and Article 4 of this chapter.
+35 (2) Notwithstanding any provision of law to the contrary, any tax that does not comply
+36 with the limitations provided in paragraph (1) of this subsection as of July 1, 2025, but
+37 was initiated in compliance with the law in effect prior to January 1, 2025, shall be
+38 allowed to continue as authorized under laws that existed prior to July 1, 2025; provided,
+39 however, that, upon the expiration or termination of any such tax, such tax shall not be
+40 renewed and the jurisdiction that levied such tax shall be fully subject to the limitations
+41 imposed by this subsection.
+42 (3) This subsection shall not limit the imposition of any local excise tax, which is
+43 separately authorized under Chapter 13 of this title.
+H. B. 537
+- 2 -
+25 LC 50 1140
+44 (4) Except as provided in paragraph (2) of this subsection, if If the imposition of any
+45 otherwise authorized local sales tax, local use tax, or local sales and use tax would result
+46 in a tax rate in excess of that authorized by this subsection, then such otherwise
+47 authorized tax shall not be imposed."
+48 SECTION 2.
+49 Said chapter is further amended by revising Code Section 48-8-109.31, relating to imposition
+50 of special sales and use tax within special district and limited time and purpose, as follows:
+51 "48-8-109.31.
+52 (a) Subject to the requirement of approval by local referendum and the other requirements
+53 of this article, to impose there may be imposed within any given special district a special
+54 sales and use tax for a limited period of time for the limited purpose of property tax relief.
+55 (b) Except as to rate, a tax imposed under this part shall correspond to the tax imposed by
+56 Article 1 of this chapter. No item or transaction which is not subject to taxation under
+57 Article 1 of this chapter shall be subject to a tax imposed under this article, except that a
+58 tax imposed under this article shall apply to sales of motor fuels as prepaid local tax as
+59 defined in Code Section 48-8-2 and shall be applicable to the sale of food and food
+60 ingredients and alcoholic beverages as provided for in Code Section 48-8-3.
+61 (c) The special sales and use tax provided for in subsection (a) of this Code section may
+62 be imposed by a special district in 0.05 percent increments, but in no event shall such tax
+63 exceed 1 percent in total. The levy of such tax upon sales of motor fuels as defined in
+64 Code Section 48-9-2 shall only be imposed on the retail sales price of the motor fuel which
+65 is not more than $3.00 per gallon.
+66 (d)(1) As a condition precedent to the issuance of the call for the referendum:
+67 (A)(1) The governing authority of the county whose geographical boundary is
+68 conterminous with that of the special district and the governing authority or authorities
+69 of all municipalities that levy an ad valorem tax on property, other than those
+H. B. 537
+- 3 -
+25 LC 50 1140
+70 municipalities that are excluded from the special district pursuant to paragraph (3)
+71 subsection (f) of this subsection Code section, shall have in effect a base year value
+72 homestead exemption or adjusted base year value homestead exemption; and
+73 (B)(2) The governing authority of the county whose geographical boundary is
+74 conterminous with that of the special district and the governing authority or authorities,
+75 if any, that represent at least 50 percent of the special district's residents of municipalities
+76 that levy an ad valorem tax on property, other than those municipalities that are excluded
+77 from the special district pursuant to paragraph (3) of this subsection (f) of this Code
+78 section, shall enter into an intergovernmental agreement calling for the tax authorized
+79 under this article and specifying the proposed rate of the tax, the proposed maximum
+80 period of time that the tax is to be levied, and the proposed distribution of the tax.
+81 (e)(1) As used in this subsection, the term 'absent municipality' means any municipality
+82 that levies an ad valorem tax on property, other than those municipalities that are
+83 excluded from the special district pursuant to subsection (f) of this Code section, and that
+84 did not enter into the intergovernmental agreement provided for in paragraph (2) of
+85 subsection (d) of this Code section.
+86 (2) If the combined total of the populations of all such absent municipalities is less than
+87 one-half of the aggregate population of all municipalities located within the special
+88 district that levy an ad valorem tax on property, the political subdivisions governing
+89 authorities entering into the such intergovernmental agreement shall, on in behalf of such
+90 absent municipalities, specify a percentage of that portion of the remaining proceeds
+91 which each municipality that levies an ad valorem tax on property shall receive, which
+92 percentage shall not be less than that proportion which each such absent municipality's
+93 population bears to the total population of all municipalities that levy ad valorem taxes
+94 on property within the special district multiplied by that portion of the remaining
+95 proceeds which are received by all such municipalities within the special district. No
+96 portion of the tax shall be apportioned to counties and or municipalities that do not levy
+H. B. 537
+- 4 -
+25 LC 50 1140
+97 an ad valorem tax on property or do not have a base year value homestead exemption or
+98 adjusted base year value homestead exemption in effect.
+99 (f)(3) Subject to the limitation provided for in Code Section 48-8-6, any special district
+100 which wholly or partially contains a jurisdiction levying the tax provided for under
+101 Article 4 of this chapter is authorized to levy the tax authorized under this article. Such tax
+102 authorized under this article may only be levied in the areas of the special district outside
+103 of the jurisdiction levying the tax provided for under Article 4 of this chapter. Any
+104 jurisdiction levying the tax provided for under Article 4 of this chapter shall not be
+105 considered within the procedure necessary to levy the tax under this article and shall not
+106 be entitled to any portion of said tax."
+107 SECTION 3.
+108 Said chapter is further amended in Code Section 48-8-109.32, relating to maximum period
+109 of time of the tax, submission to voters to determine imposition of tax, ballot language, and
+110 expenses of election, by adding a new subsection to read as follows:
+111 "(e) If no intergovernmental agreement is required pursuant to this article, the governing
+112 authority of the county or consolidated government whose geographical boundary is
+113 conterminous with that of the special district shall adopt a resolution which meets the
+114 requirements provided for in this Code section for intergovernmental agreements."
+115 SECTION 4.
+116 Said chapter is further amended in Code Section 48-8-109.33, relating to timing for
+117 imposition of tax following approval and termination of tax, by revising paragraph (2) of
+118 subsection (a) and subsection (c) as follows:
+119 "(2) With respect to services that are regularly billed on a monthly basis, however, the
+120 resolution or ordinance imposing the tax shall become effective and the tax shall apply
+121 to the first regular billing period coinciding with or following the effective date specified
+H. B. 537
+- 5 -
+25 LC 50 1140
+122 in paragraph (1) of this subsection. A certified copy of the ordinance intergovernmental
+123 agreement or resolution imposing required to impose the tax authorized by this article
+124 shall be forwarded to the commissioner to ensure it is received within five business days
+125 after certification of the election results."
+126 "(c) For any special district in which a tax authorized by this article is in effect may, while
+127 such tax is in effect, the General Assembly may pass a local Act calling for a reimposition
+128 of a tax as authorized by this article upon the termination of the tax then in effect, and a
+129 referendum may be held for this purpose while the tax is in effect. Proceedings for such
+130 reimposition shall be in the same manner as proceedings for the initial imposition of the
+131 tax as provided for in Code Section Sections 48-8-109.31 and 48-8-109.32. Such newly
+132 authorized tax shall not be imposed until the expiration of the tax then in effect."
+133 SECTION 5.
+134 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 537
+- 6 -
+[DELETED: 5L6 i]
+[DELETED: 5L X S I P I o t C a t l e]
+[DELETED: 5L a t r i e o t a b t s t s o  T g a o t c w g b i a m t l a a v t o p o t t]
+[DELETED: 5L t a e f t s d p t p (  T g a o t c w g b i l a a v t o p o t t m t a p w t s d m b t p o t r]
+[DELETED: 5L w o p c a j l t t p f u o t c o c g w g b i c i f a i C S 4 r t t f]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 1140
+House Bill 537
+By: Representative Blackmon of the 146th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to sales
+2 and use taxes, so as to provide for the maximum amount of local sales and use taxes that may
+3 be imposed; to revise provisions related to a special district sales and use tax; to provide for
+4 conditions under which such tax may be imposed; to provide for clarifications; to provide for
+5 related matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 8 of Title 48 of the Official Code of Georgia Annotated, relating to sales and use
+9 taxes, is amended in Code Section 48-8-6, relating to prohibition of political subdivisions
+10 from imposing various taxes, ceiling on local sales and use taxes, and taxation of mobile
+11 telecommunications, by revising subsection (a) as follows:
+12 "(a)(1) Except as provided in this subsection, on and after July 1, 2024, there shall not
+13 be imposed in any jurisdiction in this state or on any transaction in this state local sales
+14 taxes, local use taxes, or local sales and use taxes in excess of 2 percent. For purposes
+15 of this such 2 percent limitation, the taxes affected are any sales tax, use tax, or sales and
+16 use tax which is levied in an area consisting of less than the entire state, however
+H. B. 537
+- 1 -
+
+25 LC 50 1140
+17 authorized, including such taxes authorized by or pursuant to constitutional amendment,
+18 and regardless of whether another provision of law purports to the contrary, except for
+19 the following:
+20 (A) A 1 percent sales and use tax for educational purposes exempted from such
+21 limitation under Article VIII, Section VI, Paragraph IV of the Constitution;
+22 (B) Up to 1 percent in aggregate of any of the transportation related sales and use taxes
+23 authorized under Articles 5, 5A, and 5B of this chapter and Article 2 of Chapter 9 of
+24 Title 32; and
+25 (C) Up to 1 percent in aggregate of any tax levied for purposes of a metropolitan area
+26 system of public transportation, as authorized by the amendment to the Constitution set
+27 out at Georgia Laws, 1964, page 1008; the continuation of such amendment under
+28 Article XI, Section I, Paragraph IV(d) of the Constitution; and the laws enacted
+29 pursuant to such constitutional amendment; provided, however, that the exception
+30 provided for under this paragraph shall only apply in a county in which a tax is levied
+31 and collected pursuant to Part 2 of Article 2A of this chapter; and
+32 (D) Up to 1 percent in aggregate of any sales and use taxes authorized under Code
+33 Section 48-8-96, Code Section 48-8-97, Article 2B of this chapter, Part 3 of Article 3
+34 of this chapter, and Article 4 of this chapter.
+35 (2) Notwithstanding any provision of law to the contrary, any tax that does not comply
+36 with the limitations provided in paragraph (1) of this subsection as of July 1, 2025, but
+37 was initiated in compliance with the law in effect prior to January 1, 2025, shall be
+38 allowed to continue as authorized under laws that existed prior to July 1, 2025; provided,
+39 however, that, upon the expiration or termination of any such tax, such tax shall not be
+40 renewed and the jurisdiction that levied such tax shall be fully subject to the limitations
+41 imposed by this subsection.
+42 (3) This subsection shall not limit the imposition of any local excise tax, which is
+43 separately authorized under Chapter 13 of this title.
+H. B. 537
+- 2 -
+
+25 LC 50 1140
+44 (4) Except as provided in paragraph (2) of this subsection, if If the imposition of any
+45 otherwise authorized local sales tax, local use tax, or local sales and use tax would result
+46 in a tax rate in excess of that authorized by this subsection, then such otherwise
+47 authorized tax shall not be imposed."
+48 SECTION 2.
+49 Said chapter is further amended by revising Code Section 48-8-109.31, relating to imposition
+50 of special sales and use tax within special district and limited time and purpose, as follows:
+51 "48-8-109.31.
+52 (a) Subject to the requirement of approval by local referendum and the other requirements
+53 of this article, to impose there may be imposed within any given special district a special
+54 sales and use tax for a limited period of time for the limited purpose of property tax relief.
+55 (b) Except as to rate, a tax imposed under this part shall correspond to the tax imposed by
+56 Article 1 of this chapter. No item or transaction which is not subject to taxation under
+57 Article 1 of this chapter shall be subject to a tax imposed under this article, except that a
+58 tax imposed under this article shall apply to sales of motor fuels as prepaid local tax as
+59 defined in Code Section 48-8-2 and shall be applicable to the sale of food and food
+60 ingredients and alcoholic beverages as provided for in Code Section 48-8-3.
+61 (c) The special sales and use tax provided for in subsection (a) of this Code section may
+62 be imposed by a special district in 0.05 percent increments, but in no event shall such tax
+63 exceed 1 percent in total. The levy of such tax upon sales of motor fuels as defined in
+64 Code Section 48-9-2 shall only be imposed on the retail sales price of the motor fuel which
+65 is not more than $3.00 per gallon.
+66 (d)(1) As a condition precedent to the issuance of the call for the referendum:
+67 (A)(1) The governing authority of the county whose geographical boundary is
+68 conterminous with that of the special district and the governing authority or authorities
+69 of all municipalities that levy an ad valorem tax on property, other than those
+H. B. 537
+- 3 -
+
+25 LC 50 1140
+70 municipalities that are excluded from the special district pursuant to paragraph (3)
+71 subsection (f) of this subsection Code section, shall have in effect a base year value
+72 homestead exemption or adjusted base year value homestead exemption; and
+73 (B)(2) The governing authority of the county whose geographical boundary is
+74 conterminous with that of the special district and the governing authority or authorities,
+75 if any, that represent at least 50 percent of the special district's residents of municipalities
+76 that levy an ad valorem tax on property, other than those municipalities that are excluded
+77 from the special district pursuant to paragraph (3) of this subsection (f) of this Code
+78 section, shall enter into an intergovernmental agreement calling for the tax authorized
+79 under this article and specifying the proposed rate of the tax, the proposed maximum
+80 period of time that the tax is to be levied, and the proposed distribution of the tax.
+81 (e)(1) As used in this subsection, the term 'absent municipality' means any municipality
+82 that levies an ad valorem tax on property, other than those municipalities that are
+83 excluded from the special district pursuant to subsection (f) of this Code section, and that
+84 did not enter into the intergovernmental agreement provided for in paragraph (2) of
+85 subsection (d) of this Code section.
+86 (2) If the combined total of the populations of all such absent municipalities is less than
+87 one-half of the aggregate population of all municipalities located within the special
+88 district that levy an ad valorem tax on property, the political subdivisions governing
+89 authorities entering into the such intergovernmental agreement shall, on in behalf of such
+90 absent municipalities, specify a percentage of that portion of the remaining proceeds
+91 which each municipality that levies an ad valorem tax on property shall receive, which
+92 percentage shall not be less than that proportion which each such absent municipality's
+93 population bears to the total population of all municipalities that levy ad valorem taxes
+94 on property within the special district multiplied by that portion of the remaining
+95 proceeds which are received by all such municipalities within the special district. No
+96 portion of the tax shall be apportioned to counties and or municipalities that do not levy
+H. B. 537
+- 4 -
+
+25 LC 50 1140
+97 an ad valorem tax on property or do not have a base year value homestead exemption or
+98 adjusted base year value homestead exemption in effect.
+99 (f)(3) Subject to the limitation provided for in Code Section 48-8-6, any special district
+100 which wholly or partially contains a jurisdiction levying the tax provided for under
+101 Article 4 of this chapter is authorized to levy the tax authorized under this article. Such tax
+102 authorized under this article may only be levied in the areas of the special district outside
+103 of the jurisdiction levying the tax provided for under Article 4 of this chapter. Any
+104 jurisdiction levying the tax provided for under Article 4 of this chapter shall not be
+105 considered within the procedure necessary to levy the tax under this article and shall not
+106 be entitled to any portion of said tax."
+107 SECTION 3.
+108 Said chapter is further amended in Code Section 48-8-109.32, relating to maximum period
+109 of time of the tax, submission to voters to determine imposition of tax, ballot language, and
+110 expenses of election, by adding a new subsection to read as follows:
+111 "(e) If no intergovernmental agreement is required pursuant to this article, the governing
+112 authority of the county or consolidated government whose geographical boundary is
+113 conterminous with that of the special district shall adopt a resolution which meets the
+114 requirements provided for in this Code section for intergovernmental agreements."
+115 SECTION 4.
+116 Said chapter is further amended in Code Section 48-8-109.33, relating to timing for
+117 imposition of tax following approval and termination of tax, by revising paragraph (2) of
+118 subsection (a) and subsection (c) as follows:
+119 "(2) With respect to services that are regularly billed on a monthly basis, however, the
+120 resolution or ordinance imposing the tax shall become effective and the tax shall apply
+121 to the first regular billing period coinciding with or following the effective date specified
+H. B. 537
+- 5 -
+
+25 LC 50 1140
+122 in paragraph (1) of this subsection. A certified copy of the ordinance intergovernmental
+123 agreement or resolution imposing required to impose the tax authorized by this article
+124 shall be forwarded to the commissioner to ensure it is received within five business days
+125 after certification of the election results."
+126 "(c) For any special district in which a tax authorized by this article is in effect may, while
+127 such tax is in effect, the General Assembly may pass a local Act calling for a reimposition
+128 of a tax as authorized by this article upon the termination of the tax then in effect, and a
+129 referendum may be held for this purpose while the tax is in effect. Proceedings for such
+130 reimposition shall be in the same manner as proceedings for the initial imposition of the
+131 tax as provided for in Code Section Sections 48-8-109.31 and 48-8-109.32. Such newly
+132 authorized tax shall not be imposed until the expiration of the tax then in effect."
+133 SECTION 5.
+134 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 537
+- 6 -
+
+[DELETED: 5L6 i]
+[DELETED: 5L X S I P I o t C a t l e]
+[DELETED: 5L a t r i e o t a b t s t s o  T g a o t c w g b i a m t l a a v t o p o t t]
+[DELETED: 5L t a e f t s d p t p (  T g a o t c w g b i l a a v t o p o t t m t a p w t s d m b t p o t r]
+[DELETED: 5L w o p c a j l t t p f u o t c o c g w g b i c i f a i C S 4 r t t f]
+[DELETED: 5L]

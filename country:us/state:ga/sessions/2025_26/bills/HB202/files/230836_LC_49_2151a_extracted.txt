@@ -1,0 +1,507 @@
+Title: House Bill 202
+Official Title: House Bill 202
+Number of Sections: 1
+Source: versions - LC 49 2151/a
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25 LC 49 2151
+By: Representatives Hilton of the 48th, Jones of the 47th, Dubnik of the 29th, Jones of the 25th,
+Rice of the 139th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 31 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, the
+2 "Charter Schools Act of 1998," so as to enact the "Local Charter School Authorization and
+3 Support Act of 2025"; to provide for the State Charter Schools Commission to establish a
+4 program for the purposes of promoting and supporting the approval of new local charter
+5 school petitions by local boards of education and to provide incentive grants to local boards
+6 of education that approve new local charter school petitions; to provide for the award and use
+7 of such incentive grants; to provide for the Office of Charter School Compliance to
+8 implement and administer such incentive programs and to provide technical assistance to
+9 local school systems; to require local boards of education to provide certain written
+10 statements to the State Board of Education and the Office of Charter School Compliance
+11 upon denying a local charter school petition whereupon the corresponding state charter
+12 school petition is approved by the State Charter Schools Commission, subject to an
+13 exception; to provide for accountability for local boards of education that deny two or more
+14 local charter school petitions whereupon the corresponding state charter school petition is
+15 approved by the State Charter Schools Commission during a certain period; to provide for
+16 local boards of education to reconsider the denial of local charter school petitions; to require
+17 the Office of Charter School Compliance to prepare guidelines for local boards of education
+18 for the evaluation of charter school petitions; to revise reporting; to provide for related
+H. B. 202
+- 1 -
+25 LC 49 2151
+19 matters; to provide for legislative findings and intent; to provide for an effective date; to
+20 repeal conflicting laws; and for other purposes.
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+22 SECTION 1.
+23 (a) The General Assembly finds that charter schools, including locally authorized charter
+24 schools, provide innovative and effective educational opportunities for students in Georgia.
+25 (b) It is the intent of the General Assembly to:
+26 (1) Encourage local school systems to serve as local authorizers of charter schools;
+27 (2) Provide financial incentives to local school systems that authorize and oversee charter
+28 schools; and
+29 (3) Ensure accountability for local school systems that consistently deny charter petitions
+30 that are subsequently approved by the State Charter Schools Commission.
+31 SECTION 2.
+32 This Act shall be known and may be cited as the "Local Charter School Authorization and
+33 Support Act of 2025."
+34 SECTION 3.
+35 Article 31 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, the "Charter
+36 Schools Act of 1998," is amended by revising Code Section 20-2-2064, relating to approval
+37 or denial of petition, as follows:
+38 "20-2-2064.
+39 (a) A charter petitioner seeking to create a conversion charter school must shall submit a
+40 petition to the local board of the local school system in which the proposed charter school
+41 will be located. The local board must shall by a majority vote approve or deny a petition
+H. B. 202
+- 2 -
+25 LC 49 2151
+42 no later than 90 days after its submission unless the petitioner requests an extension;
+43 provided, however, that a denial of a petition by a local board shall not preclude the
+44 submission to the local board of a revised petition that addresses deficiencies cited in the
+45 denial; and provided, further, that the local board shall not act upon a petition for a
+46 conversion charter school, including, but not limited to, a conversion charter for a high
+47 school cluster, until such petition:
+48 (1)(A) Has been freely agreed to, by secret ballot, by a majority of the faculty and
+49 instructional staff members of the petitioning local school at a public meeting called
+50 with two weeks' advance notice for the purpose of deciding whether to submit the
+51 petition to the local board for its approval; and
+52 (B) Has been freely agreed to, by secret ballot, by a majority of the parents or
+53 guardians of students enrolled in the petitioning local school present at a public meeting
+54 called with two weeks' advance notice for the purpose of deciding whether to submit
+55 the petition to the local board for its approval; or
+56 (2) If for a high school cluster, has been approved by a majority of the school councils
+57 in the high school cluster and has been freely agreed to, by secret ballot, by at least 60
+58 percent of the combined vote of the faculty and instructional staff members of the high
+59 school cluster and the parents or guardians of students who reside in the attendance zone
+60 of such high school cluster present at a public meeting called with two weeks' advance
+61 notice for the purpose of deciding whether to submit the petition to the local board for its
+62 approval. Each school council within the high school cluster shall appoint two
+63 representatives to a committee that shall conduct the vote.
+64 The provisions of this This subsection shall not apply to a system charter school petitioning
+65 to be a conversion charter school.
+66 (b) A charter petitioner seeking to create a start-up charter school must shall submit a
+67 petition to the local board of the local school system in which the proposed charter school
+68 will be located. The local board must shall by a majority vote approve or deny a petition
+H. B. 202
+- 3 -
+25 LC 49 2151
+69 no later than 90 days after its submission unless the petitioner requests an extension. A
+70 denial of a petition by a local board shall not preclude the submission to the local board of
+71 a revised petition to the local board that addresses deficiencies cited in the denial.
+72 (c) A system charter school's school council or governing council, as applicable, may
+73 petition to become a conversion charter school. The petition shall be submitted to the local
+74 board of the charter system in which the school is located. The local board must shall by
+75 a majority vote approve or deny a petition no later than 90 days after its submission unless
+76 the petitioner requests an extension; provided, however, that a denial of a petition by a local
+77 board shall not preclude the submission to the local board of a revised petition to the local
+78 board that addresses deficiencies cited in the denial.
+79 (d)(1) A local board shall approve a petition that complies with the rules, regulations,
+80 policies, and procedures promulgated in accordance with Code Section 20-2-2063 and
+81 the provisions of this title and is in the public interest.
+82 (2) If a local board denies a petition, it must shall within 60 ten days provide a written
+83 statement of denial to the charter petitioner, the state board, and the Office of Charter
+84 School Compliance specifically state stating the reasons for the denial, list and listing all
+85 deficiencies with respect to Code Section 20-2-2063, detailing existing access to school
+86 choice options for students in the local school system, and assessing the academic
+87 performance of existing local schools in the area the charter school proposed to serve.
+88 Within three days of such written statement being received by the Office of Charter
+89 School Compliance, such written statement shall be published on the public website of
+90 the Office of Charter School Compliance and provide a written statement of the denial
+91 to the charter petitioner and the state board.
+92 (3) If a local board denies a local charter school petition and the corresponding state
+93 charter school petition is subsequently approved by the State Charter Schools
+94 Commission as provided in Code Section 20-2-2084:
+H. B. 202
+- 4 -
+25 LC 49 2151
+95 (A) The Office of Charter School Compliance shall notify the local board of such
+96 approval; and
+97 (B) The state board and the Office of Charter School Compliance shall, upon review
+98 of the local school system's written statement of denial provided for in paragraph (2)
+99 of this subsection and the State Charter Schools Commission's rationale for approving
+100 the charter petition, provide guidance to or recommend authorizer training for the local
+101 school system, as appropriate.
+102 (4)(A) Except as provided for in subparagraph (B) of this paragraph, if the local board
+103 of a local school system with enrollment of more than 10,000 students, based on such
+104 local school system's full-time equivalent program count calculated as provided for in
+105 subsection (b) of Code Section 20-2-160, denies two or more local charter school
+106 petitions, and the corresponding state charter school petitions are subsequently
+107 approved by the State Charter Schools Commission as provided in Code Section
+108 20-2-2084 during the same term of such local school system's charter system contract
+109 or strategic waivers school system contract, such local school system shall not be
+110 eligible or authorized to renew its charter system status granted under Code Section
+111 20-2-2063.2 or any strategic waivers granted under Article 4 of this chapter for up to
+112 three years following the termination or expiration of its current charter system contract
+113 or strategic waivers school systems contract, or until the state board determines the
+114 local school system has demonstrated its commitment to increasing student
+115 performance and encouraging innovation through high quality local charter petition
+116 authorizations.
+117 (B) The provisions of subparagraph (A) of this paragraph shall not apply to a local
+118 school system with a charter system contract or strategic waivers school system
+119 contract that, according to the terms of such contract in place on January 1, 2025, will
+120 expire on or before July 1, 2025, until the term of such local school system's new or
+121 renewed charter system contract or strategic waivers school system contract begins.
+H. B. 202
+- 5 -
+25 LC 49 2151
+122 (e) The state board or the Charter Advisory Committee, if directed by the state board to
+123 do so, may mediate between the local board and a charter petitioner whose petition was
+124 denied to assist in resolving issues which led to denial of the petition by the local board."
+125 SECTION 4.
+126 Said article is further amended by adding a new Code section to read as follows:
+127 "20-2-2064.2.
+128 (a) The State Charter Schools Commission shall establish a program for the purposes of
+129 promoting and supporting the approval of new local charter school petitions by local boards
+130 of education and to provide incentive grants to local boards of education that approve new
+131 local charter school petitions. The State Charter Schools Commission shall promulgate
+132 such rules and regulations as it deems necessary to carry out the provisions and intent of
+133 this Code section.
+134 (b)(1) Subject to appropriations, for each new local charter school petition approved by
+135 a local board of education after June 30, 2025, such local board of education shall receive
+136 an incentive grant of $100,000.00 by August 1 of each of the three years following such
+137 approval, provided that such local charter school remains authorized by such local board
+138 of education. In the event that available appropriations are not sufficient to cover the
+139 total amount of such incentive grants provided for in this subsection, the amount of each
+140 such grant shall be reduced proportionally, providing incentive grants in equal amounts
+141 to each such local board of education.
+142 (2) Incentive grants provided for in paragraph (1) of this subsection shall be provided
+143 only for the approval of new local charter school petitions and not for the approval or
+144 renewal of an existing local charter school.
+145 (c) Incentive grants awarded pursuant to subsection (b) of this Code section may be used
+146 by the receiving local board of education for expenses incurred by the local board of
+147 education in its role as a local charter school authorizer, which may include, but shall not
+H. B. 202
+- 6 -
+25 LC 49 2151
+148 be limited to, hiring qualified personnel and providing for oversight, compliance
+149 monitoring, and professional development related to local charter school authorization.
+150 (d) The Office of Charter School Compliance shall implement and administer the incentive
+151 grant program provided for in subsection (b) of this Code section and shall provide
+152 technical assistance necessary to local school systems in support of compliance with the
+153 requirements of this Code section."
+154 SECTION 5.
+155 Said article is further amended in Code Section 20-2-2069, relating to the Office of Charter
+156 School Compliance and the Office of District Flexibility, by revising subsection (a) as
+157 follows:
+158 "(a) There is established within the State Charter Schools Commission an Office of Charter
+159 School Compliance, which shall be staffed with personnel as provided for in subsection
+160 (d.1) of Code Section 20-2-2082, who shall report directly to the State Board of Education
+161 for purposes of this subsection. The responsibilities of such office shall be to:
+162 (1) Prepare charter school guidelines to be approved by the state board;
+163 (2) Distribute charter school petition information to inquiring parties;
+164 (3) Process all charter school petitions and coordinate with the Charter Advisory
+165 Committee established pursuant to Code Section 20-2-2063.1 to facilitate its review and
+166 recommendations to the state board;
+167 (4) Administer any state or federal charter school implementation grant program;
+168 (5) Contract with an independent party to evaluate the performance of charter schools,
+169 as such performance relates to fulfilling the terms of their charters;
+170 (6) Compile information necessary to produce the annual report required by Code
+171 Section 20-2-2070, which shall include, but shall not be limited to, information regarding
+172 the effectiveness of the incentives and the adherence of local school systems to the
+173 requirements provided for in Code Sections 20-2-2064 and 20-2-2064.2; and
+H. B. 202
+- 7 -
+25 LC 49 2151
+174 (7) Prepare guidelines for local boards of education for the evaluation of charter school
+175 petitions. Such guidelines shall be published on the public website of the Department of
+176 Education and shall include:
+177 (A) Criteria for evaluating the academic, operational, and financial plans of the charter
+178 petitioner;
+179 (B) Best practices for conducting a thorough and objective review of charter petitions;
+180 (C) Procedures for public hearings and community input on charter petitions; and
+181 (D) A standardized evaluation rubric for use by local boards of education during the
+182 evaluation of charter petitions; and
+183 (8) Provide technical assistance to Assist local school systems as charter school
+184 authorizers as challenges arise, support local school systems as needed to implement best
+185 practices in charter school authorization, and regularly engage with local school systems
+186 to promote charter school authorization at the local level."
+187 SECTION 6.
+188 Said article is further amended by revising Code Section 20-2-2070, relating to annual report
+189 to General Assembly, as follows:
+190 "20-2-2070.
+191 No The state board shall report to the General Assembly no later than December 31 of each
+192 year, the state board shall submit a report on the status of the charter school program to the
+193 Speaker of the House of Representatives; the President of the Senate; the chairpersons of
+194 the House Committee on Education, the Senate Education and Youth Committee, the
+195 House Committee on Appropriations, and the Senate Appropriations Committee; and the
+196 Office of Planning and Budget."
+H. B. 202
+- 8 -
+25 LC 49 2151
+197 SECTION 7.
+198 This Act shall become effective upon its approval by the Governor or upon its becoming law
+199 without such approval.
+200 SECTION 8.
+201 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 202
+- 9 -
+[DELETED: 5L8,7,9,5hththt9, s i g t p f t O o C S C t s s t r l b o e t p c w p i a b t S C S C s t a]
+[DELETED: 5L]
+[DELETED: 5L p  H b f a t b s b b a m o t p o  E s c w t h s c s a t]
+[DELETED: 5L o f s i t l s s a a t a s p i s a b t S C S]
+[DELETED: 5L a t c s c s p a s b t S C S C a p i C S s s h d i c t i s s w a c s c o s w s s]
+[DELETED: 5L]
+[DELETED: 5L l t h q p a p f o c p p f i s ( o t C s a s p  P a c s p a c w t C A]
+[DELETED: 5L  P t a t A l s s a c s]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 49 2151
+House Bill 202
+By: Representatives Hilton of the 48th, Jones of the 47th, Dubnik of the 29th, Jones of the 25th,
+Rice of the 139th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 31 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, the
+2 "Charter Schools Act of 1998," so as to enact the "Local Charter School Authorization and
+3 Support Act of 2025"; to provide for the State Charter Schools Commission to establish a
+4 program for the purposes of promoting and supporting the approval of new local charter
+5 school petitions by local boards of education and to provide incentive grants to local boards
+6 of education that approve new local charter school petitions; to provide for the award and use
+7 of such incentive grants; to provide for the Office of Charter School Compliance to
+8 implement and administer such incentive programs and to provide technical assistance to
+9 local school systems; to require local boards of education to provide certain written
+10 statements to the State Board of Education and the Office of Charter School Compliance
+11 upon denying a local charter school petition whereupon the corresponding state charter
+12 school petition is approved by the State Charter Schools Commission, subject to an
+13 exception; to provide for accountability for local boards of education that deny two or more
+14 local charter school petitions whereupon the corresponding state charter school petition is
+15 approved by the State Charter Schools Commission during a certain period; to provide for
+16 local boards of education to reconsider the denial of local charter school petitions; to require
+17 the Office of Charter School Compliance to prepare guidelines for local boards of education
+18 for the evaluation of charter school petitions; to revise reporting; to provide for related
+H. B. 202
+- 1 -
+
+25 LC 49 2151
+19 matters; to provide for legislative findings and intent; to provide for an effective date; to
+20 repeal conflicting laws; and for other purposes.
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+22 SECTION 1.
+23 (a) The General Assembly finds that charter schools, including locally authorized charter
+24 schools, provide innovative and effective educational opportunities for students in Georgia.
+25 (b) It is the intent of the General Assembly to:
+26 (1) Encourage local school systems to serve as local authorizers of charter schools;
+27 (2) Provide financial incentives to local school systems that authorize and oversee charter
+28 schools; and
+29 (3) Ensure accountability for local school systems that consistently deny charter petitions
+30 that are subsequently approved by the State Charter Schools Commission.
+31 SECTION 2.
+32 This Act shall be known and may be cited as the "Local Charter School Authorization and
+33 Support Act of 2025."
+34 SECTION 3.
+35 Article 31 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, the "Charter
+36 Schools Act of 1998," is amended by revising Code Section 20-2-2064, relating to approval
+37 or denial of petition, as follows:
+38 "20-2-2064.
+39 (a) A charter petitioner seeking to create a conversion charter school must shall submit a
+40 petition to the local board of the local school system in which the proposed charter school
+41 will be located. The local board must shall by a majority vote approve or deny a petition
+H. B. 202
+- 2 -
+
+25 LC 49 2151
+42 no later than 90 days after its submission unless the petitioner requests an extension;
+43 provided, however, that a denial of a petition by a local board shall not preclude the
+44 submission to the local board of a revised petition that addresses deficiencies cited in the
+45 denial; and provided, further, that the local board shall not act upon a petition for a
+46 conversion charter school, including, but not limited to, a conversion charter for a high
+47 school cluster, until such petition:
+48 (1)(A) Has been freely agreed to, by secret ballot, by a majority of the faculty and
+49 instructional staff members of the petitioning local school at a public meeting called
+50 with two weeks' advance notice for the purpose of deciding whether to submit the
+51 petition to the local board for its approval; and
+52 (B) Has been freely agreed to, by secret ballot, by a majority of the parents or
+53 guardians of students enrolled in the petitioning local school present at a public meeting
+54 called with two weeks' advance notice for the purpose of deciding whether to submit
+55 the petition to the local board for its approval; or
+56 (2) If for a high school cluster, has been approved by a majority of the school councils
+57 in the high school cluster and has been freely agreed to, by secret ballot, by at least 60
+58 percent of the combined vote of the faculty and instructional staff members of the high
+59 school cluster and the parents or guardians of students who reside in the attendance zone
+60 of such high school cluster present at a public meeting called with two weeks' advance
+61 notice for the purpose of deciding whether to submit the petition to the local board for its
+62 approval. Each school council within the high school cluster shall appoint two
+63 representatives to a committee that shall conduct the vote.
+64 The provisions of this This subsection shall not apply to a system charter school petitioning
+65 to be a conversion charter school.
+66 (b) A charter petitioner seeking to create a start-up charter school must shall submit a
+67 petition to the local board of the local school system in which the proposed charter school
+68 will be located. The local board must shall by a majority vote approve or deny a petition
+H. B. 202
+- 3 -
+
+25 LC 49 2151
+69 no later than 90 days after its submission unless the petitioner requests an extension. A
+70 denial of a petition by a local board shall not preclude the submission to the local board of
+71 a revised petition to the local board that addresses deficiencies cited in the denial.
+72 (c) A system charter school's school council or governing council, as applicable, may
+73 petition to become a conversion charter school. The petition shall be submitted to the local
+74 board of the charter system in which the school is located. The local board must shall by
+75 a majority vote approve or deny a petition no later than 90 days after its submission unless
+76 the petitioner requests an extension; provided, however, that a denial of a petition by a local
+77 board shall not preclude the submission to the local board of a revised petition to the local
+78 board that addresses deficiencies cited in the denial.
+79 (d)(1) A local board shall approve a petition that complies with the rules, regulations,
+80 policies, and procedures promulgated in accordance with Code Section 20-2-2063 and
+81 the provisions of this title and is in the public interest.
+82 (2) If a local board denies a petition, it must shall within 60 ten days provide a written
+83 statement of denial to the charter petitioner, the state board, and the Office of Charter
+84 School Compliance specifically state stating the reasons for the denial, list and listing all
+85 deficiencies with respect to Code Section 20-2-2063, detailing existing access to school
+86 choice options for students in the local school system, and assessing the academic
+87 performance of existing local schools in the area the charter school proposed to serve.
+88 Within three days of such written statement being received by the Office of Charter
+89 School Compliance, such written statement shall be published on the public website of
+90 the Office of Charter School Compliance and provide a written statement of the denial
+91 to the charter petitioner and the state board.
+92 (3) If a local board denies a local charter school petition and the corresponding state
+93 charter school petition is subsequently approved by the State Charter Schools
+94 Commission as provided in Code Section 20-2-2084:
+H. B. 202
+- 4 -
+
+25 LC 49 2151
+95 (A) The Office of Charter School Compliance shall notify the local board of such
+96 approval; and
+97 (B) The state board and the Office of Charter School Compliance shall, upon review
+98 of the local school system's written statement of denial provided for in paragraph (2)
+99 of this subsection and the State Charter Schools Commission's rationale for approving
+100 the charter petition, provide guidance to or recommend authorizer training for the local
+101 school system, as appropriate.
+102 (4)(A) Except as provided for in subparagraph (B) of this paragraph, if the local board
+103 of a local school system with enrollment of more than 10,000 students, based on such
+104 local school system's full-time equivalent program count calculated as provided for in
+105 subsection (b) of Code Section 20-2-160, denies two or more local charter school
+106 petitions, and the corresponding state charter school petitions are subsequently
+107 approved by the State Charter Schools Commission as provided in Code Section
+108 20-2-2084 during the same term of such local school system's charter system contract
+109 or strategic waivers school system contract, such local school system shall not be
+110 eligible or authorized to renew its charter system status granted under Code Section
+111 20-2-2063.2 or any strategic waivers granted under Article 4 of this chapter for up to
+112 three years following the termination or expiration of its current charter system contract
+113 or strategic waivers school systems contract, or until the state board determines the
+114 local school system has demonstrated its commitment to increasing student
+115 performance and encouraging innovation through high quality local charter petition
+116 authorizations.
+117 (B) The provisions of subparagraph (A) of this paragraph shall not apply to a local
+118 school system with a charter system contract or strategic waivers school system
+119 contract that, according to the terms of such contract in place on January 1, 2025, will
+120 expire on or before July 1, 2025, until the term of such local school system's new or
+121 renewed charter system contract or strategic waivers school system contract begins.
+H. B. 202
+- 5 -
+
+25 LC 49 2151
+122 (e) The state board or the Charter Advisory Committee, if directed by the state board to
+123 do so, may mediate between the local board and a charter petitioner whose petition was
+124 denied to assist in resolving issues which led to denial of the petition by the local board."
+125 SECTION 4.
+126 Said article is further amended by adding a new Code section to read as follows:
+127 "20-2-2064.2.
+128 (a) The State Charter Schools Commission shall establish a program for the purposes of
+129 promoting and supporting the approval of new local charter school petitions by local boards
+130 of education and to provide incentive grants to local boards of education that approve new
+131 local charter school petitions. The State Charter Schools Commission shall promulgate
+132 such rules and regulations as it deems necessary to carry out the provisions and intent of
+133 this Code section.
+134 (b)(1) Subject to appropriations, for each new local charter school petition approved by
+135 a local board of education after June 30, 2025, such local board of education shall receive
+136 an incentive grant of $100,000.00 by August 1 of each of the three years following such
+137 approval, provided that such local charter school remains authorized by such local board
+138 of education. In the event that available appropriations are not sufficient to cover the
+139 total amount of such incentive grants provided for in this subsection, the amount of each
+140 such grant shall be reduced proportionally, providing incentive grants in equal amounts
+141 to each such local board of education.
+142 (2) Incentive grants provided for in paragraph (1) of this subsection shall be provided
+143 only for the approval of new local charter school petitions and not for the approval or
+144 renewal of an existing local charter school.
+145 (c) Incentive grants awarded pursuant to subsection (b) of this Code section may be used
+146 by the receiving local board of education for expenses incurred by the local board of
+147 education in its role as a local charter school authorizer, which may include, but shall not
+H. B. 202
+- 6 -
+
+25 LC 49 2151
+148 be limited to, hiring qualified personnel and providing for oversight, compliance
+149 monitoring, and professional development related to local charter school authorization.
+150 (d) The Office of Charter School Compliance shall implement and administer the incentive
+151 grant program provided for in subsection (b) of this Code section and shall provide
+152 technical assistance necessary to local school systems in support of compliance with the
+153 requirements of this Code section."
+154 SECTION 5.
+155 Said article is further amended in Code Section 20-2-2069, relating to the Office of Charter
+156 School Compliance and the Office of District Flexibility, by revising subsection (a) as
+157 follows:
+158 "(a) There is established within the State Charter Schools Commission an Office of Charter
+159 School Compliance, which shall be staffed with personnel as provided for in subsection
+160 (d.1) of Code Section 20-2-2082, who shall report directly to the State Board of Education
+161 for purposes of this subsection. The responsibilities of such office shall be to:
+162 (1) Prepare charter school guidelines to be approved by the state board;
+163 (2) Distribute charter school petition information to inquiring parties;
+164 (3) Process all charter school petitions and coordinate with the Charter Advisory
+165 Committee established pursuant to Code Section 20-2-2063.1 to facilitate its review and
+166 recommendations to the state board;
+167 (4) Administer any state or federal charter school implementation grant program;
+168 (5) Contract with an independent party to evaluate the performance of charter schools,
+169 as such performance relates to fulfilling the terms of their charters;
+170 (6) Compile information necessary to produce the annual report required by Code
+171 Section 20-2-2070, which shall include, but shall not be limited to, information regarding
+172 the effectiveness of the incentives and the adherence of local school systems to the
+173 requirements provided for in Code Sections 20-2-2064 and 20-2-2064.2; and
+H. B. 202
+- 7 -
+
+25 LC 49 2151
+174 (7) Prepare guidelines for local boards of education for the evaluation of charter school
+175 petitions. Such guidelines shall be published on the public website of the Department of
+176 Education and shall include:
+177 (A) Criteria for evaluating the academic, operational, and financial plans of the charter
+178 petitioner;
+179 (B) Best practices for conducting a thorough and objective review of charter petitions;
+180 (C) Procedures for public hearings and community input on charter petitions; and
+181 (D) A standardized evaluation rubric for use by local boards of education during the
+182 evaluation of charter petitions; and
+183 (8) Provide technical assistance to Assist local school systems as charter school
+184 authorizers as challenges arise, support local school systems as needed to implement best
+185 practices in charter school authorization, and regularly engage with local school systems
+186 to promote charter school authorization at the local level."
+187 SECTION 6.
+188 Said article is further amended by revising Code Section 20-2-2070, relating to annual report
+189 to General Assembly, as follows:
+190 "20-2-2070.
+191 No The state board shall report to the General Assembly no later than December 31 of each
+192 year, the state board shall submit a report on the status of the charter school program to the
+193 Speaker of the House of Representatives; the President of the Senate; the chairpersons of
+194 the House Committee on Education, the Senate Education and Youth Committee, the
+195 House Committee on Appropriations, and the Senate Appropriations Committee; and the
+196 Office of Planning and Budget."
+H. B. 202
+- 8 -
+
+25 LC 49 2151
+197 SECTION 7.
+198 This Act shall become effective upon its approval by the Governor or upon its becoming law
+199 without such approval.
+200 SECTION 8.
+201 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 202
+- 9 -
+
+[DELETED: 5L8,7,9,5hththt9, s i g t p f t O o C S C t s s t r l b o e t p c w p i a b t S C S C s t a]
+[DELETED: 5L]
+[DELETED: 5L p  H b f a t b s b b a m o t p o  E s c w t h s c s a t]
+[DELETED: 5L o f s i t l s s a a t a s p i s a b t S C S]
+[DELETED: 5L a t c s c s p a s b t S C S C a p i C S s s h d i c t i s s w a c s c o s w s s]
+[DELETED: 5L]
+[DELETED: 5L l t h q p a p f o c p p f i s ( o t C s a s p  P a c s p a c w t C A]
+[DELETED: 5L  P t a t A l s s a c s]
+[DELETED: 5L]

@@ -1,0 +1,120 @@
+Title: Senate Bill 311
+Official Title: Senate Bill 311
+Number of Sections: 1
+Source: versions - As introduced LC 39 4691
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4691
+By: Senators Mangham of the 55th, Jones II of the 22nd, Orrock of the 36th, Kemp of the
+38th, Harrell of the 40th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 4 of Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia
+2 Annotated, relating to ride share network services and transportation referral services, so as
+3 to provide for additional requirements upon transportation referral service providers and ride
+4 share network services relative to driver safety and hiring and the privacy of personal
+5 information for drivers and passengers; to provide for related matters; to repeal conflicting
+6 laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Part 4 of Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated,
+10 relating to ride share network services and transportation referral services, is amended in
+11 Code Section 40-1-192, relating to transportation referral service provider registration
+12 requirement, licensure, exemptions, and additional requirements, by revising subsection (d)
+13 to delete "and" at the end of paragraph (9), replace the period with "; and" at the end of
+14 paragraph (10), and add three new paragraphs to read as follows:
+15 "(11) Provide a manner for informing a driver utilized by such transportation referral
+16 service provider whether the location where such driver is to provide services has a violent
+S. B. 311
+- 1 -
+25 LC 39 4691
+17 crime rate greater than the current national average based upon statistics compiled by the
+18 Federal Bureau of Investigation's Uniform Crime Reporting Program;
+19 (12) Ensure security and privacy of personal information collected for drivers and
+20 passengers; and
+21 (13) Provide for a grievance process for any driver utilized by such transportation referral
+22 service provider."
+23 SECTION 2.
+24 Said part is further amended in Code Section 40-1-193, relating to ride share network service
+25 registration requirement, licensure, required list of all ride share drivers, additional
+26 requirements for ride share network service businesses and drivers, and law enforcement
+27 access to digital information in smart phone of driver, by revising subsection (c) to delete
+28 "and" at the end of paragraph (4), replace the period with "; and" at the end of paragraph (5),
+29 and add three new paragraphs to read as follows:
+30 "(6) Provide a manner for informing a driver utilized by such ride share network service
+31 whether the location where such driver is to provide services has a violent crime rate
+32 greater than the current national average based upon statistics compiled by the Federal
+33 Bureau of Investigation's Uniform Crime Reporting Program;
+34 (7) Ensure security and privacy of personal information collected for drivers and
+35 passengers; and
+36 (8) Provide for a grievance process for any driver utilized by such ride share network
+37 service."
+38 SECTION 3.
+39 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 311
+- 2 -
+[DELETED: 5L S 4 r t t r s p r]
+[DELETED: 5L  E s a p o p i c f d a r l r l o a r s d a  E s a p o p i c f d a]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4691
+Senate Bill 311
+By: Senators Mangham of the 55th, Jones II of the 22nd, Orrock of the 36th, Kemp of the
+38th, Harrell of the 40th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 4 of Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia
+2 Annotated, relating to ride share network services and transportation referral services, so as
+3 to provide for additional requirements upon transportation referral service providers and ride
+4 share network services relative to driver safety and hiring and the privacy of personal
+5 information for drivers and passengers; to provide for related matters; to repeal conflicting
+6 laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Part 4 of Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated,
+10 relating to ride share network services and transportation referral services, is amended in
+11 Code Section 40-1-192, relating to transportation referral service provider registration
+12 requirement, licensure, exemptions, and additional requirements, by revising subsection (d)
+13 to delete "and" at the end of paragraph (9), replace the period with "; and" at the end of
+14 paragraph (10), and add three new paragraphs to read as follows:
+15 "(11) Provide a manner for informing a driver utilized by such transportation referral
+16 service provider whether the location where such driver is to provide services has a violent
+S. B. 311
+- 1 -
+
+25 LC 39 4691
+17 crime rate greater than the current national average based upon statistics compiled by the
+18 Federal Bureau of Investigation's Uniform Crime Reporting Program;
+19 (12) Ensure security and privacy of personal information collected for drivers and
+20 passengers; and
+21 (13) Provide for a grievance process for any driver utilized by such transportation referral
+22 service provider."
+23 SECTION 2.
+24 Said part is further amended in Code Section 40-1-193, relating to ride share network service
+25 registration requirement, licensure, required list of all ride share drivers, additional
+26 requirements for ride share network service businesses and drivers, and law enforcement
+27 access to digital information in smart phone of driver, by revising subsection (c) to delete
+28 "and" at the end of paragraph (4), replace the period with "; and" at the end of paragraph (5),
+29 and add three new paragraphs to read as follows:
+30 "(6) Provide a manner for informing a driver utilized by such ride share network service
+31 whether the location where such driver is to provide services has a violent crime rate
+32 greater than the current national average based upon statistics compiled by the Federal
+33 Bureau of Investigation's Uniform Crime Reporting Program;
+34 (7) Ensure security and privacy of personal information collected for drivers and
+35 passengers; and
+36 (8) Provide for a grievance process for any driver utilized by such ride share network
+37 service."
+38 SECTION 3.
+39 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 311
+- 2 -
+
+[DELETED: 5L S 4 r t t r s p r]
+[DELETED: 5L  E s a p o p i c f d a r l r l o a r s d a  E s a p o p i c f d a]

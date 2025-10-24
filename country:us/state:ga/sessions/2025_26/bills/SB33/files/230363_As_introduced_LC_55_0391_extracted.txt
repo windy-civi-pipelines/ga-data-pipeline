@@ -1,0 +1,446 @@
+Title: Senate Bill 33
+Official Title: Senate Bill 33
+Number of Sections: 1
+Source: versions - As introduced LC 55 0391
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0391
+By: Senators Kirkpatrick of the 32nd, Watson of the 1st, Cowsert of the 46th, Watson of the
+11th, Parent of the 44th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 23 of Title 2 of the Official Code of Georgia Annotated, the "Georgia
+2 Hemp Farming Act," so as to provide limits on the total THC concentration of consumable
+3 hemp products; to revise provisions concerning the certificate of analysis applicable to
+4 consumable hemp products; to revise and provide for definitions; to provide for related
+5 matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 23 of Title 2 of the Official Code of Georgia Annotated, the "Georgia Hemp
+9 Farming Act," is amended by revising Code Section 2-23-3, relating to definitions, as
+10 follows:
+11 "2-23-3.
+12 As used in this chapter, the term:
+13 (1) 'Attractive to children' means the use of any characters or symbols designed to
+14 appeal, or would likely appeal, primarily to individuals under 21 years of age, including
+15 but not limited to anthropomorphized animals, creatures, promotional characters, licensed
+16 characters, or inanimate objects; depictions of children; or depictions of candy.
+S. B. 33
+- 1 -
+25 LC 55 0391
+17 (2) 'Commercial sale' means the sale of products in the stream of commerce at retail, at
+18 wholesale, and online.
+19 (3) 'Consumable hemp product' means a hemp product intended to be ingested, absorbed,
+20 or inhaled by humans or animals.
+21 (4) 'Contaminant' means a foreign substance or compound that may, if ingested,
+22 absorbed, or inhaled, have an adverse effect on the health of a human or animal. Such
+23 term shall include, without limitation, heavy metals, pesticide residues, residual solvents
+24 or processing chemicals, and any other substance or compound that the department
+25 determines could, if ingested, absorbed, or inhaled, have an adverse effect on the health
+26 of a human or animal.
+27 (5) 'Cultivate' means to plant, water, grow, and harvest a plant or crop.
+28 (6) 'Delta-9-THC' means delta-9-tetrahydrocannabinol.
+29 (7) 'Delta-9-THCA' means delta-9-tetrahydrocannabinolic acid.
+30 (8) Reserved.
+31 (9) 'Full panel certificate of analysis' means a report, produced by a laboratory which is
+32 unaffiliated with the processor or manufacturer and which has been accredited pursuant
+33 to the standards of the International Organization for Standardization for the competence,
+34 impartiality, and consistent operation of laboratories, attesting to the composition of a
+35 product.
+36 (10) 'Handle' means to possess or store hemp plants for any period of time other than
+37 during the actual transport of such plants from the premises of a person licensed to
+38 cultivate or permitted to process hemp or a college or university authorized to conduct
+39 research pursuant to Code Section 2-23-4 to the premises of another licensed or permitted
+40 person or to a college or university authorized to conduct research pursuant to Code
+41 Section 2-23-4; provided, however, that such term shall not include possessing or storing
+42 finished hemp products.
+S. B. 33
+- 2 -
+25 LC 55 0391
+43 (11) 'Hemp' means the Cannabis sativa L. plant and any part of such plant, including the
+44 seeds thereof and all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts
+45 of isomers, whether growing or not, with a total delta-9-THC concentration that does not
+46 exceed the legal limit.
+47 (12) 'Hemp grower licensee' means an individual or business entity possessing a hemp
+48 grower license issued by the department under the authority of this chapter to handle and
+49 cultivate hemp in the State of Georgia.
+50 (13) 'Hemp products' means all products with a total delta-9-THC concentration that does
+51 not exceed the legal limit that are derived from, or made by, processing hemp plants or
+52 plant parts and that are prepared in a form available for commercial sale.
+53 (14) 'Industrial hemp product' means any hemp product that is not a consumable hemp
+54 product.
+55 (15) 'Key participant' means a sole proprietor, a partner in a partnership, or a person with
+56 executive managerial control in a corporation when such sole proprietor, partnership, or
+57 corporation is an applicant to be a hemp grower licensee or a permittee. A person with
+58 executive managerial control in a corporation includes persons serving as a chief
+59 executive officer, chief operating officer, chief financial officer, or any other individual
+60 identified in regulations promulgated by the department. Such term shall not include
+61 nonexecutive managers, such as farm, field, or shift managers.
+62 (16) 'Legal limit' means a total delta-9-THC concentration that is the lesser of:
+63 (A) 0.3 percent; or
+64 (B) The percentage limit set forth in 7 U.S.C. Section 1639o.
+65 (17) 'Licensee' means an individual or business entity possessing a license issued by the
+66 department under the authority of this chapter.
+67 (18) 'Manufacture' means to create, produce, manipulate, combine, or package.
+S. B. 33
+- 3 -
+25 LC 55 0391
+68 (19) 'Manufacturer license' means a license issued by the department under the authority
+69 of this chapter to an individual or business entity that manufactures consumable hemp
+70 products or industrial hemp products in this state.
+71 (20) 'Measurement of uncertainty' means the parameter, associated with the result of a
+72 measurement, that characterizes the dispersion of the values that could reasonably be
+73 attributed to the particular quantity subject to measurement.
+74 (21) 'Permittee' means an individual or business entity possessing a hemp processor
+75 permit issued by the department under the authority of this chapter to handle and process
+76 hemp in the State of Georgia.
+77 (22)(A) 'Process' or 'processing,' except as otherwise provided in subparagraph (B) of
+78 this paragraph, means converting an agricultural commodity into a legally marketable
+79 form.
+80 (B) Such term shall not include:
+81 (i) Merely placing raw or dried material into another container or packaging raw or
+82 dried material for resale; or
+83 (ii) Traditional farming practices such as those commonly known as drying, shucking
+84 and bucking, storing, trimming, and curing.
+85 (23) 'QR code' means a quick response code that is a type of machine-readable,
+86 two-dimensional barcode that stores information about a product.
+87 (24) 'Registered laboratory' means an individual or business entity that tests or analyzes
+88 any plant within the genus Cannabis, including but not limited to hemp, and products
+89 made from or derived from such plant, including but not limited to hemp products and
+90 consumable hemp products, and that has registered with the department under this
+91 chapter.
+92 (25) 'Research' or 'researching' means experimental field, greenhouse, or laboratory
+93 activity for the ultimate purpose of developing new hemp varieties and products,
+S. B. 33
+- 4 -
+25 LC 55 0391
+94 improving existing hemp products, developing new uses for existing hemp products, or
+95 developing or improving methods for producing hemp products.
+96 (26) 'Retail consumable hemp establishment license' means a license issued by the
+97 department under the authority of this chapter to an individual or business entity that
+98 prepares or sells prepackaged consumable hemp products to consumers.
+99 (27) 'THC' means tetrahydrocannabinol, tetrahydrocannabinolic acid, or a combination
+100 of tetrahydrocannabinol and tetrahydrocannabinolic acid and its derivatives, salts,
+101 isomers, salts of isomers, halogen analogues, or homologues. Such term shall include,
+102 without limitation, delta-8-tetrahydrocannabinol (delta-8-TCH),
+103 delta-9-tetrahydrocannabinol (delta-9-THC), delta-10-tetrahydrocannabinol
+104 (delta-10-THC), delta-11-tetrahydrocannabinol (delta-11-THC),
+105 exo-tetrahydrocannabinol (exo-THC), and any other substance or compound that the
+106 department determines is a derivative, salt, isomer, salt of an isomer, halogen analogue,
+107 or homologue of tetrahydrocannabinol.
+108 (28) 'Total delta-9-THC concentration' means a concentration of delta-9-THC as
+109 determined by Code Section 2-23-3.1.
+110 (29) 'Total THC concentration' means the concentration of all forms of THC within a
+111 sample.
+112 (30) 'Wholesale consumable hemp license' means a license issued by the department
+113 under the authority of this chapter to an individual or business entity that sells, in bulk,
+114 prepackaged consumable hemp products to retail consumable hemp establishment
+115 licensees or to other retail establishments located outside of the State of Georgia that are
+116 authorized to sell consumable hemp products to consumers in the jurisdiction where such
+117 establishments are located."
+S. B. 33
+- 5 -
+25 LC 55 0391
+118 SECTION 2.
+119 Said chapter is further amended by revising Code Section 2-23-9.1, relating to consumable
+120 hemp products, certificate of analysis, THC warning, and inspections, as follows:
+121 "2-23-9.1.
+122 (a) No consumable hemp product shall be sold or otherwise distributed in this state if such
+123 product has a total THC concentration that exceeds 0.3 percent, determined on a dry weight
+124 basis where applicable.
+125 (a)(b) No consumable hemp product shall be sold or otherwise distributed in this state
+126 unless the processor or manufacturer has, within the last 12 months, contracted for a full
+127 panel certificate of analysis to be conducted on such product and such analysis has been
+128 conducted and made available to the public. Such full panel certificate of analysis shall,
+129 at a minimum:
+130 (1) Attest to the presence and amount, in such product's final packaged form, of the
+131 following compounds or groups of compounds:
+132 (A) THC in all forms;
+133 (B) Cannabidiol (CBD);
+134 (C) Cannabidiolic acid (CBDA);
+135 (D) Cannabigerol (CBG);
+136 (E) Cannabigerolic acid (CBGA);
+137 (F) Cannabinol (CBN);
+138 (G) Hexahydrocannabinol (HHC); and
+139 (H) Any other compound that the department determines is necessary to protect the
+140 health and safety of consumers; and
+141 (2) Attest that the product, in its final packaged form, does not contain any contaminants
+142 in excess of the maximum levels established by the department. In establishing such
+143 maximum levels, the department shall consider the American Herbal Pharmacopoeia
+S. B. 33
+- 6 -
+25 LC 55 0391
+144 monographs or such other scientific resources that the department determines is accurate,
+145 reliable, and relevant.
+146 (b)(c) Any consumable hemp product sold or otherwise distributed in this state shall bear:
+147 (1) A sticker, approved by the department, warning potential consumers that such
+148 product contains THC; and
+149 (2) A conspicuous label providing the information from the full panel certificate of
+150 analysis conducted on such product within the last 12 months pursuant to subsection (a)
+151 (b) of this Code section or allowing a consumer to access such information using a QR
+152 code.
+153 (c)(d) The department shall randomly inspect and test consumable hemp products
+154 available for purchase at retail establishments to ensure compliance with this Code section.
+155 Such investigations and testing shall be conducted in compliance with this chapter and with
+156 the rules and regulations promulgated by the department.
+157 (d)(e) In the event that an inspection or test of a consumable hemp product conducted by
+158 the department pursuant to subsection (c) (d) of this Code section reveals that such product:
+159 (1) Does not bear:
+160 (A) The sticker required under paragraph (1) of subsection (b) (c) of this Code section;
+161 or
+162 (B) The label required under paragraph (2) of subsection (b) (c) of this Code section;
+163 (2) Has a total delta-9-THC concentration that exceeds the legal limit;
+164 (3) Has a total THC concentration that exceeds 0.3 percent;
+165 (3)(4) Contains one or more contaminants in excess of the maximum levels established
+166 by the department; or
+167 (4)(5) Has a composition that is materially different from what is shown on the full panel
+168 certificate of analysis conducted on such product within the last 12 months pursuant to
+169 subsection (a) (b) of this Code section,
+S. B. 33
+- 7 -
+25 LC 55 0391
+170 such product and all related consumable hemp products shall be disposed of in compliance
+171 with this chapter and with the rules and regulations promulgated by the department.
+172 (e)(f) Any person who violates the provisions of subsection (a) (b) or (b) (c) of this Code
+173 section shall be guilty of a misdemeanor."
+174 SECTION 3.
+175 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 33
+- 8 -
+[DELETED: 5L 2 o t A i a b r C S 2 r t d a]
+[DELETED: 5L  ' m a f s o c t m i i]
+[DELETED: 5L m c i a c i p s a a c]
+[DELETED: 5L  ' c m a q r c t i a t o m h p a t h r w t d u t f t u p o d n h v a p]
+[DELETED: 5L t a t a a i d s l d ( ( d d (  ' d c m a c o d a c h p t r c h e]
+[DELETED: 5L]
+[DELETED: 5L s  T d s r i a t c h p]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0391
+Senate Bill 33
+By: Senators Kirkpatrick of the 32nd, Watson of the 1st, Cowsert of the 46th, Watson of the
+11th, Parent of the 44th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 23 of Title 2 of the Official Code of Georgia Annotated, the "Georgia
+2 Hemp Farming Act," so as to provide limits on the total THC concentration of consumable
+3 hemp products; to revise provisions concerning the certificate of analysis applicable to
+4 consumable hemp products; to revise and provide for definitions; to provide for related
+5 matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 23 of Title 2 of the Official Code of Georgia Annotated, the "Georgia Hemp
+9 Farming Act," is amended by revising Code Section 2-23-3, relating to definitions, as
+10 follows:
+11 "2-23-3.
+12 As used in this chapter, the term:
+13 (1) 'Attractive to children' means the use of any characters or symbols designed to
+14 appeal, or would likely appeal, primarily to individuals under 21 years of age, including
+15 but not limited to anthropomorphized animals, creatures, promotional characters, licensed
+16 characters, or inanimate objects; depictions of children; or depictions of candy.
+S. B. 33
+- 1 -
+
+25 LC 55 0391
+17 (2) 'Commercial sale' means the sale of products in the stream of commerce at retail, at
+18 wholesale, and online.
+19 (3) 'Consumable hemp product' means a hemp product intended to be ingested, absorbed,
+20 or inhaled by humans or animals.
+21 (4) 'Contaminant' means a foreign substance or compound that may, if ingested,
+22 absorbed, or inhaled, have an adverse effect on the health of a human or animal. Such
+23 term shall include, without limitation, heavy metals, pesticide residues, residual solvents
+24 or processing chemicals, and any other substance or compound that the department
+25 determines could, if ingested, absorbed, or inhaled, have an adverse effect on the health
+26 of a human or animal.
+27 (5) 'Cultivate' means to plant, water, grow, and harvest a plant or crop.
+28 (6) 'Delta-9-THC' means delta-9-tetrahydrocannabinol.
+29 (7) 'Delta-9-THCA' means delta-9-tetrahydrocannabinolic acid.
+30 (8) Reserved.
+31 (9) 'Full panel certificate of analysis' means a report, produced by a laboratory which is
+32 unaffiliated with the processor or manufacturer and which has been accredited pursuant
+33 to the standards of the International Organization for Standardization for the competence,
+34 impartiality, and consistent operation of laboratories, attesting to the composition of a
+35 product.
+36 (10) 'Handle' means to possess or store hemp plants for any period of time other than
+37 during the actual transport of such plants from the premises of a person licensed to
+38 cultivate or permitted to process hemp or a college or university authorized to conduct
+39 research pursuant to Code Section 2-23-4 to the premises of another licensed or permitted
+40 person or to a college or university authorized to conduct research pursuant to Code
+41 Section 2-23-4; provided, however, that such term shall not include possessing or storing
+42 finished hemp products.
+S. B. 33
+- 2 -
+
+25 LC 55 0391
+43 (11) 'Hemp' means the Cannabis sativa L. plant and any part of such plant, including the
+44 seeds thereof and all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts
+45 of isomers, whether growing or not, with a total delta-9-THC concentration that does not
+46 exceed the legal limit.
+47 (12) 'Hemp grower licensee' means an individual or business entity possessing a hemp
+48 grower license issued by the department under the authority of this chapter to handle and
+49 cultivate hemp in the State of Georgia.
+50 (13) 'Hemp products' means all products with a total delta-9-THC concentration that does
+51 not exceed the legal limit that are derived from, or made by, processing hemp plants or
+52 plant parts and that are prepared in a form available for commercial sale.
+53 (14) 'Industrial hemp product' means any hemp product that is not a consumable hemp
+54 product.
+55 (15) 'Key participant' means a sole proprietor, a partner in a partnership, or a person with
+56 executive managerial control in a corporation when such sole proprietor, partnership, or
+57 corporation is an applicant to be a hemp grower licensee or a permittee. A person with
+58 executive managerial control in a corporation includes persons serving as a chief
+59 executive officer, chief operating officer, chief financial officer, or any other individual
+60 identified in regulations promulgated by the department. Such term shall not include
+61 nonexecutive managers, such as farm, field, or shift managers.
+62 (16) 'Legal limit' means a total delta-9-THC concentration that is the lesser of:
+63 (A) 0.3 percent; or
+64 (B) The percentage limit set forth in 7 U.S.C. Section 1639o.
+65 (17) 'Licensee' means an individual or business entity possessing a license issued by the
+66 department under the authority of this chapter.
+67 (18) 'Manufacture' means to create, produce, manipulate, combine, or package.
+S. B. 33
+- 3 -
+
+25 LC 55 0391
+68 (19) 'Manufacturer license' means a license issued by the department under the authority
+69 of this chapter to an individual or business entity that manufactures consumable hemp
+70 products or industrial hemp products in this state.
+71 (20) 'Measurement of uncertainty' means the parameter, associated with the result of a
+72 measurement, that characterizes the dispersion of the values that could reasonably be
+73 attributed to the particular quantity subject to measurement.
+74 (21) 'Permittee' means an individual or business entity possessing a hemp processor
+75 permit issued by the department under the authority of this chapter to handle and process
+76 hemp in the State of Georgia.
+77 (22)(A) 'Process' or 'processing,' except as otherwise provided in subparagraph (B) of
+78 this paragraph, means converting an agricultural commodity into a legally marketable
+79 form.
+80 (B) Such term shall not include:
+81 (i) Merely placing raw or dried material into another container or packaging raw or
+82 dried material for resale; or
+83 (ii) Traditional farming practices such as those commonly known as drying, shucking
+84 and bucking, storing, trimming, and curing.
+85 (23) 'QR code' means a quick response code that is a type of machine-readable,
+86 two-dimensional barcode that stores information about a product.
+87 (24) 'Registered laboratory' means an individual or business entity that tests or analyzes
+88 any plant within the genus Cannabis, including but not limited to hemp, and products
+89 made from or derived from such plant, including but not limited to hemp products and
+90 consumable hemp products, and that has registered with the department under this
+91 chapter.
+92 (25) 'Research' or 'researching' means experimental field, greenhouse, or laboratory
+93 activity for the ultimate purpose of developing new hemp varieties and products,
+S. B. 33
+- 4 -
+
+25 LC 55 0391
+94 improving existing hemp products, developing new uses for existing hemp products, or
+95 developing or improving methods for producing hemp products.
+96 (26) 'Retail consumable hemp establishment license' means a license issued by the
+97 department under the authority of this chapter to an individual or business entity that
+98 prepares or sells prepackaged consumable hemp products to consumers.
+99 (27) 'THC' means tetrahydrocannabinol, tetrahydrocannabinolic acid, or a combination
+100 of tetrahydrocannabinol and tetrahydrocannabinolic acid and its derivatives, salts,
+101 isomers, salts of isomers, halogen analogues, or homologues. Such term shall include,
+102 without limitation, delta-8-tetrahydrocannabinol (delta-8-TCH),
+103 delta-9-tetrahydrocannabinol (delta-9-THC), delta-10-tetrahydrocannabinol
+104 (delta-10-THC), delta-11-tetrahydrocannabinol (delta-11-THC),
+105 exo-tetrahydrocannabinol (exo-THC), and any other substance or compound that the
+106 department determines is a derivative, salt, isomer, salt of an isomer, halogen analogue,
+107 or homologue of tetrahydrocannabinol.
+108 (28) 'Total delta-9-THC concentration' means a concentration of delta-9-THC as
+109 determined by Code Section 2-23-3.1.
+110 (29) 'Total THC concentration' means the concentration of all forms of THC within a
+111 sample.
+112 (30) 'Wholesale consumable hemp license' means a license issued by the department
+113 under the authority of this chapter to an individual or business entity that sells, in bulk,
+114 prepackaged consumable hemp products to retail consumable hemp establishment
+115 licensees or to other retail establishments located outside of the State of Georgia that are
+116 authorized to sell consumable hemp products to consumers in the jurisdiction where such
+117 establishments are located."
+S. B. 33
+- 5 -
+
+25 LC 55 0391
+118 SECTION 2.
+119 Said chapter is further amended by revising Code Section 2-23-9.1, relating to consumable
+120 hemp products, certificate of analysis, THC warning, and inspections, as follows:
+121 "2-23-9.1.
+122 (a) No consumable hemp product shall be sold or otherwise distributed in this state if such
+123 product has a total THC concentration that exceeds 0.3 percent, determined on a dry weight
+124 basis where applicable.
+125 (a)(b) No consumable hemp product shall be sold or otherwise distributed in this state
+126 unless the processor or manufacturer has, within the last 12 months, contracted for a full
+127 panel certificate of analysis to be conducted on such product and such analysis has been
+128 conducted and made available to the public. Such full panel certificate of analysis shall,
+129 at a minimum:
+130 (1) Attest to the presence and amount, in such product's final packaged form, of the
+131 following compounds or groups of compounds:
+132 (A) THC in all forms;
+133 (B) Cannabidiol (CBD);
+134 (C) Cannabidiolic acid (CBDA);
+135 (D) Cannabigerol (CBG);
+136 (E) Cannabigerolic acid (CBGA);
+137 (F) Cannabinol (CBN);
+138 (G) Hexahydrocannabinol (HHC); and
+139 (H) Any other compound that the department determines is necessary to protect the
+140 health and safety of consumers; and
+141 (2) Attest that the product, in its final packaged form, does not contain any contaminants
+142 in excess of the maximum levels established by the department. In establishing such
+143 maximum levels, the department shall consider the American Herbal Pharmacopoeia
+S. B. 33
+- 6 -
+
+25 LC 55 0391
+144 monographs or such other scientific resources that the department determines is accurate,
+145 reliable, and relevant.
+146 (b)(c) Any consumable hemp product sold or otherwise distributed in this state shall bear:
+147 (1) A sticker, approved by the department, warning potential consumers that such
+148 product contains THC; and
+149 (2) A conspicuous label providing the information from the full panel certificate of
+150 analysis conducted on such product within the last 12 months pursuant to subsection (a)
+151 (b) of this Code section or allowing a consumer to access such information using a QR
+152 code.
+153 (c)(d) The department shall randomly inspect and test consumable hemp products
+154 available for purchase at retail establishments to ensure compliance with this Code section.
+155 Such investigations and testing shall be conducted in compliance with this chapter and with
+156 the rules and regulations promulgated by the department.
+157 (d)(e) In the event that an inspection or test of a consumable hemp product conducted by
+158 the department pursuant to subsection (c) (d) of this Code section reveals that such product:
+159 (1) Does not bear:
+160 (A) The sticker required under paragraph (1) of subsection (b) (c) of this Code section;
+161 or
+162 (B) The label required under paragraph (2) of subsection (b) (c) of this Code section;
+163 (2) Has a total delta-9-THC concentration that exceeds the legal limit;
+164 (3) Has a total THC concentration that exceeds 0.3 percent;
+165 (3)(4) Contains one or more contaminants in excess of the maximum levels established
+166 by the department; or
+167 (4)(5) Has a composition that is materially different from what is shown on the full panel
+168 certificate of analysis conducted on such product within the last 12 months pursuant to
+169 subsection (a) (b) of this Code section,
+S. B. 33
+- 7 -
+
+25 LC 55 0391
+170 such product and all related consumable hemp products shall be disposed of in compliance
+171 with this chapter and with the rules and regulations promulgated by the department.
+172 (e)(f) Any person who violates the provisions of subsection (a) (b) or (b) (c) of this Code
+173 section shall be guilty of a misdemeanor."
+174 SECTION 3.
+175 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 33
+- 8 -
+
+[DELETED: 5L 2 o t A i a b r C S 2 r t d a]
+[DELETED: 5L  ' m a f s o c t m i i]
+[DELETED: 5L m c i a c i p s a a c]
+[DELETED: 5L  ' c m a q r c t i a t o m h p a t h r w t d u t f t u p o d n h v a p]
+[DELETED: 5L t a t a a i d s l d ( ( d d (  ' d c m a c o d a c h p t r c h e]
+[DELETED: 5L]
+[DELETED: 5L s  T d s r i a t c h p]
+[DELETED: 5L]

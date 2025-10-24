@@ -1,0 +1,169 @@
+Title: Senate Bill 157
+Official Title: Senate Bill 157
+Number of Sections: 1
+Source: versions - As introduced LC 56 0306
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 56 0306
+By: Senators Williams of the 25th, Burns of the 23rd, Harbin of the 16th, Walker III of the
+20th and Strickland of the 42nd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 47-6-40 of the Official Code of Georgia Annotated, relating to
+2 qualifications for membership, irrevocable election for certain members of General
+3 Assembly, membership of persons who cease to become members before age 60, termination
+4 of membership, and application for additional creditable service, so as to provide for certain
+5 members or former members of the General Assembly to buy into the Georgia Legislative
+6 Retirement System; to provide for creditable service and the payment of the full actuarial
+7 value of such; to provide for procedures; to provide for notice to members and former
+8 members of the opportunity to buy into the system; to provide conditions for an effective
+9 date and automatic repeal; to provide for related matters; to repeal conflicting laws; and for
+10 other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Code Section 47-6-40 of the Official Code of Georgia Annotated, relating to qualifications
+14 for membership, irrevocable election for certain members of General Assembly, membership
+15 of persons who cease to become members before age 60, termination of membership, and
+S. B. 157
+- 1 -
+25 LC 56 0306
+16 application for additional creditable service, is amended by redesignating subsection (e) as
+17 subsection (f) and adding a new subsection (e) to read as follows:
+18 "(e)(1) A member or former member of the General Assembly may make an irrevocable
+19 election to become a member of this retirement system and may obtain creditable service
+20 for prior service as a member of the General Assembly as provided in this Code section.
+21 In order to obtain such additional creditable service, the member or former member must:
+22 (A) Have served, at the time of the application, at least four years or two full terms as
+23 a member of the General Assembly;
+24 (B) Have never been a member of the Georgia Legislative Retirement System;
+25 (C) Submit an application to the board of trustees in such manner as the board deems
+26 appropriate; and
+27 (D) Pay to the board of trustees an amount determined by the board of trustees to be
+28 sufficient to cover the full actuarial cost of granting the creditable service as provided
+29 in this Code section. Such payment shall be made in conjunction with the member's
+30 application for membership;
+31 (2) Notwithstanding paragraph (1) of this subsection, no creditable service shall be
+32 granted or obtained pursuant to this subsection if such service may be used to calculate
+33 creditable service under any other public retirement system created by this title.
+34 (3) By September 1, 2026, the Employees' Retirement System shall send a onetime
+35 notice to all members or former members of the General Assembly who meet the above
+36 criteria. Such notice shall:
+37 (A) Be in writing;
+38 (B) Be sent via United States mail to the member's last known mailing address;
+39 (C) Advise the member that he or she is eligible to retroactively become a member of
+40 the Georgia Legislative Retirement System for past years or past terms served; and
+S. B. 157
+- 2 -
+25 LC 56 0306
+41 (D) Communicate the exact amount required to be paid pursuant to subparagraph (D)
+42 of paragraph (1) of this subsection, in order for a member or former member to receive
+43 creditable service in the Georgia Legislative Retirement System.
+44 (4) Any member of the General Assembly who obtains creditable service for prior
+45 service as a member of the General Assembly pursuant to paragraph (1) of this
+46 subsection, whose service concluded before January 1, 2022, shall receive the monthly
+47 pension amount provided in subsection (d) of Code Section 47-6-80.
+48 (5) Any member of the General Assembly who obtains creditable service for prior
+49 service as a member of the General Assembly pursuant to paragraph (1) of this
+50 subsection, whose service concluded on or after January 1, 2022, shall receive the
+51 monthly pension amount provided in subsection (c.1) of Code Section 47-6-80."
+52 SECTION 2.
+53 This Act shall become effective on July 1, 2026, only if it is determined to have been
+54 concurrently funded as provided in Chapter 20 of Title 47 of the Official Code of Georgia
+55 Annotated, the "Public Retirement Systems Standards Law"; otherwise, this Act shall not
+56 become effective and shall be automatically repealed in its entirety on July 1, 2026, as
+57 required by subsection (a) of Code Section 47-20-50.
+58 SECTION 3.
+59 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 157
+- 3 -
+[DELETED: 5L f m i e f c m o G]
+[DELETED: 5L]
+[DELETED: 5L a a m o t G A p t p ( o t a a m o t G A p t p ( o t w s c o o a J 1 2 s r t]
+
+
+================================================================================
+
+Raw Text:
+25 LC 56 0306
+Senate Bill 157
+By: Senators Williams of the 25th, Burns of the 23rd, Harbin of the 16th, Walker III of the
+20th and Strickland of the 42nd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 47-6-40 of the Official Code of Georgia Annotated, relating to
+2 qualifications for membership, irrevocable election for certain members of General
+3 Assembly, membership of persons who cease to become members before age 60, termination
+4 of membership, and application for additional creditable service, so as to provide for certain
+5 members or former members of the General Assembly to buy into the Georgia Legislative
+6 Retirement System; to provide for creditable service and the payment of the full actuarial
+7 value of such; to provide for procedures; to provide for notice to members and former
+8 members of the opportunity to buy into the system; to provide conditions for an effective
+9 date and automatic repeal; to provide for related matters; to repeal conflicting laws; and for
+10 other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Code Section 47-6-40 of the Official Code of Georgia Annotated, relating to qualifications
+14 for membership, irrevocable election for certain members of General Assembly, membership
+15 of persons who cease to become members before age 60, termination of membership, and
+S. B. 157
+- 1 -
+
+25 LC 56 0306
+16 application for additional creditable service, is amended by redesignating subsection (e) as
+17 subsection (f) and adding a new subsection (e) to read as follows:
+18 "(e)(1) A member or former member of the General Assembly may make an irrevocable
+19 election to become a member of this retirement system and may obtain creditable service
+20 for prior service as a member of the General Assembly as provided in this Code section.
+21 In order to obtain such additional creditable service, the member or former member must:
+22 (A) Have served, at the time of the application, at least four years or two full terms as
+23 a member of the General Assembly;
+24 (B) Have never been a member of the Georgia Legislative Retirement System;
+25 (C) Submit an application to the board of trustees in such manner as the board deems
+26 appropriate; and
+27 (D) Pay to the board of trustees an amount determined by the board of trustees to be
+28 sufficient to cover the full actuarial cost of granting the creditable service as provided
+29 in this Code section. Such payment shall be made in conjunction with the member's
+30 application for membership;
+31 (2) Notwithstanding paragraph (1) of this subsection, no creditable service shall be
+32 granted or obtained pursuant to this subsection if such service may be used to calculate
+33 creditable service under any other public retirement system created by this title.
+34 (3) By September 1, 2026, the Employees' Retirement System shall send a onetime
+35 notice to all members or former members of the General Assembly who meet the above
+36 criteria. Such notice shall:
+37 (A) Be in writing;
+38 (B) Be sent via United States mail to the member's last known mailing address;
+39 (C) Advise the member that he or she is eligible to retroactively become a member of
+40 the Georgia Legislative Retirement System for past years or past terms served; and
+S. B. 157
+- 2 -
+
+25 LC 56 0306
+41 (D) Communicate the exact amount required to be paid pursuant to subparagraph (D)
+42 of paragraph (1) of this subsection, in order for a member or former member to receive
+43 creditable service in the Georgia Legislative Retirement System.
+44 (4) Any member of the General Assembly who obtains creditable service for prior
+45 service as a member of the General Assembly pursuant to paragraph (1) of this
+46 subsection, whose service concluded before January 1, 2022, shall receive the monthly
+47 pension amount provided in subsection (d) of Code Section 47-6-80.
+48 (5) Any member of the General Assembly who obtains creditable service for prior
+49 service as a member of the General Assembly pursuant to paragraph (1) of this
+50 subsection, whose service concluded on or after January 1, 2022, shall receive the
+51 monthly pension amount provided in subsection (c.1) of Code Section 47-6-80."
+52 SECTION 2.
+53 This Act shall become effective on July 1, 2026, only if it is determined to have been
+54 concurrently funded as provided in Chapter 20 of Title 47 of the Official Code of Georgia
+55 Annotated, the "Public Retirement Systems Standards Law"; otherwise, this Act shall not
+56 become effective and shall be automatically repealed in its entirety on July 1, 2026, as
+57 required by subsection (a) of Code Section 47-20-50.
+58 SECTION 3.
+59 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 157
+- 3 -
+
+[DELETED: 5L f m i e f c m o G]
+[DELETED: 5L]
+[DELETED: 5L a a m o t G A p t p ( o t a a m o t G A p t p ( o t w s c o o a J 1 2 s r t]

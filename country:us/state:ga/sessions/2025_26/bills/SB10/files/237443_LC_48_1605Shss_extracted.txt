@@ -1,0 +1,338 @@
+Title: The House Committee on Judiciary offers the following substitute to SB 10:
+Official Title: The House Committee on Judiciary offers the following substitute to SB 10:
+Number of Sections: 1
+Source: versions - LC 48 1605S/hss
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 48 1605S
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 15 of the Official Code of Georgia Annotated, relating to courts, so as to
+2 modify provisions related to protection of personally identifiable information of judges and
+3 their spouses; to abolish the requirement for the Administrative Office of the Courts to
+4 maintain a data base of protected persons and information; to provide for a state-wide form
+5 to be used by protected persons seeking to have information restricted from public
+6 disclosure; to require state and local governments to restrict from public disclosure
+7 personally identifiable information when requested by a protected person; to provide
+8 procedures for such requests; to revise definitions; to provide for superior court judicial
+9 officers in certain judicial circuits; to provide for the appointment, qualifications, terms,
+10 duties, and employment status of such judicial officers; to provide for related matters; to
+11 repeal conflicting laws; and for other purposes.
+12 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+13 SECTION 1.
+14 Title 15 of the Official Code of Georgia Annotated, relating to courts, is amended by revising
+15 Article 8 of Chapter 5, relating to protection of personally identifiable data of judges and
+16 spouses, as follows:
+S. B. 10 (SUB)
+- 1 -
+25 LC 48 1605S
+17 "ARTICLE 8
+18 15-5-110.
+19 As used in this article, the term:
+20 (1) 'Personally identifiable information' means any phone number or address
+21 affirmatively identified by a protected person for inclusion in the data base established
+22 and maintained pursuant to Code Section 15-5-111 personal phone number, home
+23 address, or property or tax records of a protected person.
+24 (2) 'Protected person' means any current or former:
+25 (A) Judge Elected or appointed judge or justice of this state and his or her spouse;
+26 (B) Judge Elected or appointed judge of any county or municipality of this state and
+27 his or her spouse; and
+28 (C) Judge Appointed judge or justice of the United States and his or her spouse.
+29 (3) 'Public posting or display' means to communicate information or otherwise make
+30 information available to the general public.
+31 (4)(3) 'Publicly available content' means any written or electronic document or record
+32 that provides information or that serves as a document or record maintained, controlled,
+33 or in the possession of a state or local government entity that may be obtained by any
+34 person from the internet state or local government entity's public website or from such
+35 state or local government agency upon request whether free of charge or for a fee.
+36 (5)(4) 'State or local government entity' means any:
+37 (A) Agency of the executive branch of this state; or
+38 (B) Any local governing authority of a county or municipality of this state, including,
+39 but not limited to, any county or municipal court clerk's office, board of elections, board
+40 of tax assessors, or board of ethics.
+S. B. 10 (SUB)
+- 2 -
+25 LC 48 1605S
+41 15-5-111.
+42 The Administrative Office of the Courts shall:
+43 (1) Establish a method for obtaining information from the Administrative Office of the
+44 United States Courts as necessary for purposes of this article;
+45 (2) Develop a form for a protected person to use when requesting the restriction from
+46 public disclosure of personally identifiable information pursuant to this article. Such
+47 form may include a process for verification of the election or appointment of such person
+48 as a judge or justice of this state or the United States or verification of such person's
+49 status as the spouse of a person serving as a judge or justice of this state or the United
+50 States Establish and maintain a data base of protected persons and personally identifiable
+51 information;
+52 (3) Make the form provided for in paragraph (2) of this Code section available to
+53 protected persons on its public website Develop and manage a process to regularly
+54 identify each state or local government entity that possesses personally identifiable
+55 information; and
+56 (4) Establish a procedure for protected persons to submit phone numbers and addresses
+57 for inclusion in a data base as personally identifiable information to be restricted from
+58 publicly available content and public posting or display; and
+59 (5)(4) Coordinate statewide state-wide training and information sharing related to
+60 security procedure and practices relative to the judicial branch of government.
+61 15-5-112.
+62 (a) Notwithstanding any provision of Article 4 of Chapter 18 of Title 50 to the contrary,
+63 a state or local government entity shall restrict from public disclosure any personally
+64 identifiable information that specifically identifies a protected person as a judge, justice,
+65 or spouse thereof. The provisions of this subsection shall include, but shall not be limited
+66 to, records or filings in the office of the Secretary of State and the State Ethics
+S. B. 10 (SUB)
+- 3 -
+25 LC 48 1605S
+67 Commission. Within 30 days of receipt of written notice that a judge or justice of the
+68 United States, this state, or any county or municipality of this state has been elected or
+69 appointed, the Administrative Office of the Courts shall provide written notice to each state
+70 or local government entity determined by the Administrative Office of the Courts to
+71 possess personally identifiable information that directs such entity to restrict access to such
+72 personally identifiable information pursuant to subsection (c) of this Code section.
+73 (b) Notwithstanding any provision of Article 4 of Chapter 18 of Title 50 to the contrary,
+74 a state or local government entity that possesses records, filings, or other publicly available
+75 content that does not specifically identify a person as a judge, justice, or spouse thereof but
+76 that includes personally identifiable information of such a protected person shall, upon
+77 request of the protected person, restrict from public disclosure any personally identifiable
+78 information. A protected person may request that his or her personally identifiable
+79 information be restricted from public disclosure pursuant to this subsection by submitting
+80 a request in writing to the state or local government entity on the form provided for in Code
+81 Section 15-5-111. A state or local government entity receiving such request shall restrict
+82 from public disclosure the personally identifiable information within 30 days of receiving
+83 a valid request. Within 30 days of receipt of written notice that a judge or justice of the
+84 United States, this state, or any county or municipality of this state has resigned, retired,
+85 or been removed, the Administrative Office of the Courts shall provide written notice to
+86 each state or local government entity determined by the Administrative Office of the Courts
+87 to possess personally identifiable information that informs such entity that the restriction
+88 required pursuant to subsection (c) of this Code section is no longer applicable.
+89 (c) Notwithstanding Article 4 of Chapter 18 of Title 50 to the contrary, within 30 days of
+90 receipt of written notice from the Administrative Office of the Courts pursuant to
+91 subsection (a) of this Code section, a state or local government entity that has received such
+92 notice shall restrict personally identifiable information from publicly available content and
+93 public posting or display unless such entity has:
+S. B. 10 (SUB)
+- 4 -
+25 LC 48 1605S
+94 (1) Obtained written consent from the protected person that his or her phone number and
+95 address may be made available to the general public; or
+96 (2) Received notice pursuant to subsection (b) of this Code section that a judge or justice
+97 of the United States, this state, or any county or municipality thereof has resigned, retired,
+98 or been removed.
+99 (d)(c) Any protected person may bring an action in a court of competent jurisdiction
+100 against any officer or employee of the state or local government entity in his or her
+101 individual capacity for failure to comply with subsection (c) (a) or (b) of this Code section.
+102 Any relief granted by such action shall be limited to injunctive relief."
+103 SECTION 2.
+104 Said title is further amended by adding a new Code section to Article 1 of Chapter 6, relating
+105 to general provisions regarding superior courts, to read as follows:
+106 "15-6-37.
+107 (a) Notwithstanding any other provision of law, in any judicial circuit of this state with 15
+108 or more judges of the superior court, as provided for in Code Section 15-6-2, the governing
+109 authorities of the counties that make up such circuit are authorized to provide funding for
+110 up to five judicial officers to serve in the superior courts of such circuit.
+111 (b) In the event that a county or counties provide funding for judicial officers as provided
+112 for in subsection (a) of this Code section, the chief judge of the circuit, after consulting
+113 with a majority of the superior court judges in such circuit, may appoint qualified
+114 individuals as judicial officers in the superior courts of such circuit. Judicial officers shall
+115 have all of the qualifications provided for in Code Section 15-6-4 for superior court judges;
+116 provided, however, that such judicial officers shall not be elected.
+117 (c) Judicial officers appointed pursuant to this Code section shall have all powers and
+118 duties of a judge of the superior court; provided, however, that judicial officers shall not
+119 preside over any case or matter related to a serious violent felony as such term is defined
+S. B. 10 (SUB)
+- 5 -
+25 LC 48 1605S
+120 in Code Section 17-10-6.1, and provided, further, that the chief judge of a circuit, after
+121 consulting with a majority of the superior court judges in such circuit, may place such
+122 additional limitations on the use of such judicial officers in the circuit.
+123 (d) Judicial officers appointed pursuant to this Code section shall be appointed to terms
+124 not to exceed two years; provided, however, that a judicial officer may be reappointed to
+125 succeed himself or herself.
+126 (e) Judicial officers appointed pursuant to this Code section shall be employees of the
+127 county or counties that make up the judicial circuit in which they are appointed. Such
+128 judicial officers shall not be considered state employees for any reason, and the counties
+129 that make up such circuit shall be responsible for the compensation, benefits, travel, and
+130 other expenses for such judicial officers."
+131 SECTION 3.
+132 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 10 (SUB)
+- 6 -
+[DELETED: 5LTmtmt b u b p p s t h i r f pd t r s a l g t r f p dp i i w r b a p p t ppo0d1r2B3S4T5A6s]
+[DELETED: 5L7A819A0(  ' i i m a p n o a1a2a m p t C S 1 p p n h3a4(5(6(7h8(9(0i1(2t3o4p5s6(7(8(9b0o]
+[DELETED: 5L112T3(4U5(6p7f8a9s0S1i2(3p4i e5i6(7f8p9(  C s s t a i s r t0s112(3a4i5o6t r o f i t o o t S o S a t S E]
+[DELETED: 5L7C8U9a0o1p2p3(4a5c6t7r8i  A p p m r t h o h p i9i0a1S2f3a4U5o6e7t8r9(0r o w n f t A O o t C p t1s2n3p]
+[DELETED: 5L4(5a6(7o8o9(0a1i2A3S4S5t617(8o9a0u1(2f3w a m o t s c j i s c m a q4i5h6p7(8d9p]
+[DELETED: 5L0i1c2a3(4n5s6(7c8j9t0o1S2A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 48 1605S
+The House Committee on Judiciary offers the following substitute to SB 10:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 15 of the Official Code of Georgia Annotated, relating to courts, so as to
+2 modify provisions related to protection of personally identifiable information of judges and
+3 their spouses; to abolish the requirement for the Administrative Office of the Courts to
+4 maintain a data base of protected persons and information; to provide for a state-wide form
+5 to be used by protected persons seeking to have information restricted from public
+6 disclosure; to require state and local governments to restrict from public disclosure
+7 personally identifiable information when requested by a protected person; to provide
+8 procedures for such requests; to revise definitions; to provide for superior court judicial
+9 officers in certain judicial circuits; to provide for the appointment, qualifications, terms,
+10 duties, and employment status of such judicial officers; to provide for related matters; to
+11 repeal conflicting laws; and for other purposes.
+12 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+13 SECTION 1.
+14 Title 15 of the Official Code of Georgia Annotated, relating to courts, is amended by revising
+15 Article 8 of Chapter 5, relating to protection of personally identifiable data of judges and
+16 spouses, as follows:
+S. B. 10 (SUB)
+- 1 -
+
+25 LC 48 1605S
+17 "ARTICLE 8
+18 15-5-110.
+19 As used in this article, the term:
+20 (1) 'Personally identifiable information' means any phone number or address
+21 affirmatively identified by a protected person for inclusion in the data base established
+22 and maintained pursuant to Code Section 15-5-111 personal phone number, home
+23 address, or property or tax records of a protected person.
+24 (2) 'Protected person' means any current or former:
+25 (A) Judge Elected or appointed judge or justice of this state and his or her spouse;
+26 (B) Judge Elected or appointed judge of any county or municipality of this state and
+27 his or her spouse; and
+28 (C) Judge Appointed judge or justice of the United States and his or her spouse.
+29 (3) 'Public posting or display' means to communicate information or otherwise make
+30 information available to the general public.
+31 (4)(3) 'Publicly available content' means any written or electronic document or record
+32 that provides information or that serves as a document or record maintained, controlled,
+33 or in the possession of a state or local government entity that may be obtained by any
+34 person from the internet state or local government entity's public website or from such
+35 state or local government agency upon request whether free of charge or for a fee.
+36 (5)(4) 'State or local government entity' means any:
+37 (A) Agency of the executive branch of this state; or
+38 (B) Any local governing authority of a county or municipality of this state, including,
+39 but not limited to, any county or municipal court clerk's office, board of elections, board
+40 of tax assessors, or board of ethics.
+S. B. 10 (SUB)
+- 2 -
+
+25 LC 48 1605S
+41 15-5-111.
+42 The Administrative Office of the Courts shall:
+43 (1) Establish a method for obtaining information from the Administrative Office of the
+44 United States Courts as necessary for purposes of this article;
+45 (2) Develop a form for a protected person to use when requesting the restriction from
+46 public disclosure of personally identifiable information pursuant to this article. Such
+47 form may include a process for verification of the election or appointment of such person
+48 as a judge or justice of this state or the United States or verification of such person's
+49 status as the spouse of a person serving as a judge or justice of this state or the United
+50 States Establish and maintain a data base of protected persons and personally identifiable
+51 information;
+52 (3) Make the form provided for in paragraph (2) of this Code section available to
+53 protected persons on its public website Develop and manage a process to regularly
+54 identify each state or local government entity that possesses personally identifiable
+55 information; and
+56 (4) Establish a procedure for protected persons to submit phone numbers and addresses
+57 for inclusion in a data base as personally identifiable information to be restricted from
+58 publicly available content and public posting or display; and
+59 (5)(4) Coordinate statewide state-wide training and information sharing related to
+60 security procedure and practices relative to the judicial branch of government.
+61 15-5-112.
+62 (a) Notwithstanding any provision of Article 4 of Chapter 18 of Title 50 to the contrary,
+63 a state or local government entity shall restrict from public disclosure any personally
+64 identifiable information that specifically identifies a protected person as a judge, justice,
+65 or spouse thereof. The provisions of this subsection shall include, but shall not be limited
+66 to, records or filings in the office of the Secretary of State and the State Ethics
+S. B. 10 (SUB)
+- 3 -
+
+25 LC 48 1605S
+67 Commission. Within 30 days of receipt of written notice that a judge or justice of the
+68 United States, this state, or any county or municipality of this state has been elected or
+69 appointed, the Administrative Office of the Courts shall provide written notice to each state
+70 or local government entity determined by the Administrative Office of the Courts to
+71 possess personally identifiable information that directs such entity to restrict access to such
+72 personally identifiable information pursuant to subsection (c) of this Code section.
+73 (b) Notwithstanding any provision of Article 4 of Chapter 18 of Title 50 to the contrary,
+74 a state or local government entity that possesses records, filings, or other publicly available
+75 content that does not specifically identify a person as a judge, justice, or spouse thereof but
+76 that includes personally identifiable information of such a protected person shall, upon
+77 request of the protected person, restrict from public disclosure any personally identifiable
+78 information. A protected person may request that his or her personally identifiable
+79 information be restricted from public disclosure pursuant to this subsection by submitting
+80 a request in writing to the state or local government entity on the form provided for in Code
+81 Section 15-5-111. A state or local government entity receiving such request shall restrict
+82 from public disclosure the personally identifiable information within 30 days of receiving
+83 a valid request. Within 30 days of receipt of written notice that a judge or justice of the
+84 United States, this state, or any county or municipality of this state has resigned, retired,
+85 or been removed, the Administrative Office of the Courts shall provide written notice to
+86 each state or local government entity determined by the Administrative Office of the Courts
+87 to possess personally identifiable information that informs such entity that the restriction
+88 required pursuant to subsection (c) of this Code section is no longer applicable.
+89 (c) Notwithstanding Article 4 of Chapter 18 of Title 50 to the contrary, within 30 days of
+90 receipt of written notice from the Administrative Office of the Courts pursuant to
+91 subsection (a) of this Code section, a state or local government entity that has received such
+92 notice shall restrict personally identifiable information from publicly available content and
+93 public posting or display unless such entity has:
+S. B. 10 (SUB)
+- 4 -
+
+25 LC 48 1605S
+94 (1) Obtained written consent from the protected person that his or her phone number and
+95 address may be made available to the general public; or
+96 (2) Received notice pursuant to subsection (b) of this Code section that a judge or justice
+97 of the United States, this state, or any county or municipality thereof has resigned, retired,
+98 or been removed.
+99 (d)(c) Any protected person may bring an action in a court of competent jurisdiction
+100 against any officer or employee of the state or local government entity in his or her
+101 individual capacity for failure to comply with subsection (c) (a) or (b) of this Code section.
+102 Any relief granted by such action shall be limited to injunctive relief."
+103 SECTION 2.
+104 Said title is further amended by adding a new Code section to Article 1 of Chapter 6, relating
+105 to general provisions regarding superior courts, to read as follows:
+106 "15-6-37.
+107 (a) Notwithstanding any other provision of law, in any judicial circuit of this state with 15
+108 or more judges of the superior court, as provided for in Code Section 15-6-2, the governing
+109 authorities of the counties that make up such circuit are authorized to provide funding for
+110 up to five judicial officers to serve in the superior courts of such circuit.
+111 (b) In the event that a county or counties provide funding for judicial officers as provided
+112 for in subsection (a) of this Code section, the chief judge of the circuit, after consulting
+113 with a majority of the superior court judges in such circuit, may appoint qualified
+114 individuals as judicial officers in the superior courts of such circuit. Judicial officers shall
+115 have all of the qualifications provided for in Code Section 15-6-4 for superior court judges;
+116 provided, however, that such judicial officers shall not be elected.
+117 (c) Judicial officers appointed pursuant to this Code section shall have all powers and
+118 duties of a judge of the superior court; provided, however, that judicial officers shall not
+119 preside over any case or matter related to a serious violent felony as such term is defined
+S. B. 10 (SUB)
+- 5 -
+
+25 LC 48 1605S
+120 in Code Section 17-10-6.1, and provided, further, that the chief judge of a circuit, after
+121 consulting with a majority of the superior court judges in such circuit, may place such
+122 additional limitations on the use of such judicial officers in the circuit.
+123 (d) Judicial officers appointed pursuant to this Code section shall be appointed to terms
+124 not to exceed two years; provided, however, that a judicial officer may be reappointed to
+125 succeed himself or herself.
+126 (e) Judicial officers appointed pursuant to this Code section shall be employees of the
+127 county or counties that make up the judicial circuit in which they are appointed. Such
+128 judicial officers shall not be considered state employees for any reason, and the counties
+129 that make up such circuit shall be responsible for the compensation, benefits, travel, and
+130 other expenses for such judicial officers."
+131 SECTION 3.
+132 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 10 (SUB)
+- 6 -
+
+[DELETED: 5LTmtmt b u b p p s t h i r f pd t r s a l g t r f p dp i i w r b a p p t ppo0d1r2B3S4T5A6s]
+[DELETED: 5L7A819A0(  ' i i m a p n o a1a2a m p t C S 1 p p n h3a4(5(6(7h8(9(0i1(2t3o4p5s6(7(8(9b0o]
+[DELETED: 5L112T3(4U5(6p7f8a9s0S1i2(3p4i e5i6(7f8p9(  C s s t a i s r t0s112(3a4i5o6t r o f i t o o t S o S a t S E]
+[DELETED: 5L7C8U9a0o1p2p3(4a5c6t7r8i  A p p m r t h o h p i9i0a1S2f3a4U5o6e7t8r9(0r o w n f t A O o t C p t1s2n3p]
+[DELETED: 5L4(5a6(7o8o9(0a1i2A3S4S5t617(8o9a0u1(2f3w a m o t s c j i s c m a q4i5h6p7(8d9p]
+[DELETED: 5L0i1c2a3(4n5s6(7c8j9t0o1S2A]

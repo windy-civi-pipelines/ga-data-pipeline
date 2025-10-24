@@ -1,0 +1,1093 @@
+Title: The House Committee on Rules offers the following substitute to SB 68:
+Official Title: The House Committee on Rules offers the following substitute to SB 68:
+Number of Sections: 1
+Source: versions - LC 49 2362S/hss
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+25 LC 49 2362S
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 9, 40, and 51 of the Official Code of Georgia Annotated, relating to civil
+2 practice, motor vehicles, and torts, respectively, so as to provide for substantive and
+3 comprehensive revision of provisions regarding civil practice, evidentiary matters, damages,
+4 and liability in tort actions; to provide limitations relative to evidence of noneconomic
+5 damages; to provide for timing of answers and discovery; to provide for dismissals of civil
+6 actions; to provide for attorney's fees, court costs, and litigation expenses; to provide for
+7 admissibility of evidence related to seat safety belts; to provide for trial procedures; to
+8 provide for a negligent security cause of action; to provide for exclusive remedies for
+9 negligent security actions subject to exceptions; to provide for apportionment of damages in
+10 negligent security actions; to provide for the recovery of special damages for medical and
+11 healthcare expenses in personal injury and wrongful death cases; to provide for construction;
+12 to provide for definitions; to provide for related matters; to provide for an effective date and
+13 applicability; to repeal conflicting laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 68 (SUB)
+- 1 -
+25 LC 49 2362S
+15 SECTION 1.
+16 Title 9 of the Official Code of Georgia Annotated, relating to civil practice, is amended by
+17 revising Code Section 9-10-184, relating to value of pain and suffering may be argued, as
+18 follows:
+19 "9-10-184.
+20 (a) As used in this Code section, the term:
+21 (1) 'Economic damages' means pecuniary damages recoverable in tort for bodily injury
+22 or wrongful death, including, but not limited to, damages for past and future medical
+23 expenses; costs of rehabilitation; costs of therapy; loss of wages; loss of income; loss of
+24 earning capacity; loss of services performed by the injured or deceased person as a result
+25 of the injury or death, including domestic and other necessary services performed without
+26 compensation; and funeral or burial expenses.
+27 (2) 'Noneconomic damages' means all damages recoverable in tort for bodily injury or
+28 wrongful death other than economic damages, including, but not limited to, damages for
+29 physical or emotional pain, discomfort, anxiety, hardship, distress, suffering,
+30 inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment
+31 of life, loss of society and companionship, loss of consortium, injury to reputation, and
+32 in wrongful death cases, the nonpecuniary elements of the full value of life.
+33 (b) Except as otherwise provided in subsection (c) of this Code section, in the trial of any
+34 action to recover damages for bodily injury or wrongful death, counsel shall not argue the
+35 worth or monetary value of noneconomic damages, and counsel shall not, in the hearing
+36 of the jury or any prospective juror, elicit any testimony regarding, or make any reference
+37 to, any specific amount or range of amounts of noneconomic damages, the measure of such
+38 damages being the enlightened conscience of an impartial jury.
+39 (c)(1) In the trial of any action to recover damages for bodily injury or wrongful death,
+40 counsel for any party shall be allowed to argue the worth or monetary value of
+41 noneconomic damages only after the close of evidence and at the time of such party's
+S. B. 68 (SUB)
+- 2 -
+25 LC 49 2362S
+42 first opportunity to argue the issue of damages, provided that such argument shall be
+43 rationally related to the evidence of noneconomic damages and shall not make reference
+44 to objects or values having no rational connection to the facts proved by the evidence.
+45 (2) If counsel is entitled to the opening and concluding arguments, then counsel shall not
+46 be allowed to argue the worth or monetary value of noneconomic damages during such
+47 counsel's concluding argument unless counsel has argued the worth or monetary value
+48 of noneconomic damages during such counsel's opening argument, and such counsel shall
+49 not argue a different worth or monetary value of noneconomic damages in concluding
+50 arguments than was argued in such counsel's opening argument.
+51 (d) If counsel elicits any testimony, or makes any argument or reference, prohibited by this
+52 Code section in the hearing of the jury or one or more prospective jurors, the court shall
+53 take remedial measures as provided in Code Section 9-10-185 or shall, with respect to
+54 prospective jurors, excuse the prospective jurors.
+55 (e) Nothing in this Code section shall be construed to prohibit counsel from asking
+56 prospective jurors during voir dire whether they could return a verdict that does not award
+57 any damages or a verdict in excess of some unspecified amount, provided that such
+58 question is supported by the evidence. In the trial of a civil action for personal injuries,
+59 counsel shall be allowed to argue the worth or monetary value of pain and suffering to the
+60 jury; provided, however, that any such argument shall conform to the evidence or
+61 reasonable deductions from the evidence in the case."
+62 SECTION 2.
+63 Said title is further amended in Code Section 9-11-12, relating to answer, defenses, and
+64 objections, when and how presented and heard, when defenses waived, and stay of discovery,
+65 by revising subsections (a), (e), and (j) as follows:
+66 "(a) When answer presented.
+S. B. 68 (SUB)
+- 3 -
+25 LC 49 2362S
+67 (1) Except as provided in paragraph (2) of this subsection, a A defendant shall serve his
+68 an answer within 30 days after the service of the summons and complaint upon him the
+69 defendant, unless otherwise provided by statute. A cross-claim or counterclaim shall not
+70 require an answer, unless one is required by order of the court, and shall automatically
+71 stand denied.
+72 (2) Unless the court sets a different time, serving a motion under this Code section alters
+73 the time for serving an answer pursuant to paragraph (1) of this subsection as follows:
+74 (A) If the court denies the motion or postpones its disposition until trial, the answer
+75 shall be served within 15 days after notice of the court's action; or
+76 (B) If the court grants a motion for a more definite statement, the answer shall be
+77 served within 15 days after the more definite statement is served."
+78 "(e) Motion for more definite statement. If a pleading to which a responsive pleading
+79 is permitted is so vague or ambiguous that a party cannot reasonably be required to frame
+80 a proper responsive pleading, he shall nevertheless answer or respond to the best of his
+81 ability, and he such party may move for a more definite statement. The motion shall point
+82 out the defects complained of and the details desired. If the motion is granted and the order
+83 of the court is not obeyed within 15 days after notice of the order, or within such other time
+84 as the court may fix, the court may strike the pleading to which the motion was directed or
+85 make such order as it deems just."
+86 "(j) Stay of discovery.
+87 (1) If a party files a motion to dismiss before or at the time of filing an answer and
+88 pursuant to the provisions of this Code section, discovery shall be stayed for 90 days after
+89 the filing of such motion or until the ruling of the court on such motion; provided,
+90 however, that, if a defendant files an answer before the ruling of the court on such
+91 motion, the stay imposed by this subsection shall immediately terminate with respect to
+92 such defendant, whichever is sooner. The court shall decide the motion to dismiss within
+S. B. 68 (SUB)
+- 4 -
+25 LC 49 2362S
+93 the 90 days provided in this paragraph following the conclusion of briefing on such
+94 motion.
+95 (2) The discovery period and all discovery deadlines shall be extended for a period equal
+96 to the duration of the stay imposed by this subsection.
+97 (3) If the court has not ruled on the motion to dismiss within 90 days following the
+98 conclusion of briefing on such motion, the The court may upon its own motion or upon
+99 motion of a party, and for good cause shown, terminate or modify the stay imposed by
+100 this subsection but shall not extend such stay; provided, however, that such remedy shall
+101 not preclude any other remedy available for the failure to timely rule on such motion,
+102 including, but not limited to, a writ of mandamus.
+103 (4) If a motion to dismiss raises defenses set forth in paragraph (2), (3), (5), or (7) of
+104 subsection (b) of this Code section; or if any party needs discovery in order to identify
+105 persons who may be joined or substituted as proper parties; or if any party needs
+106 discovery in order to establish the jurisdiction of the court, limited discovery needed to
+107 respond to such defenses, to or identify such persons, or to establish such jurisdiction
+108 shall be permitted until the court rules on such motion notwithstanding the stay imposed
+109 by this subsection.
+110 (5) The provisions of this subsection shall not modify or affect the provisions of
+111 paragraph (2) of subsection (f) of Code Section 9-11-23 or any other power of the court
+112 to stay discovery."
+113 SECTION 3.
+114 Said title is further amended in Code Section 9-11-41, relating to dismissal of actions and
+115 recommencement within six months, by revising subsection (a) as follows:
+116 "(a) Voluntary dismissal; effect.:
+S. B. 68 (SUB)
+- 5 -
+25 LC 49 2362S
+117 (1) By plaintiff; by stipulation. Subject to the provisions of subsection (e) of Code
+118 Section 9-11-23, Code Section 9-11-66, and any statute, an action may be dismissed by
+119 the plaintiff, without order or permission of court:
+120 (A) By filing a written notice of dismissal at any time before the first witness is sworn
+121 the sixtieth day following the date the opposing party serves an answer; or
+122 (B) By filing a stipulation of dismissal signed by all parties who have appeared in the
+123 action.
+124 (2) Effect. A dismissal under paragraph (1) of this subsection is without prejudice,
+125 except that if the plaintiff previously dismissed any federal or state court action based on
+126 or including the same claim, such notice or stipulation operates as an adjudication upon
+127 the merits.
+128 (2)(3) By order of court. Except as provided in paragraph (1) of this subsection, an
+129 action shall not be dismissed upon the plaintiff's motion except upon order of the court
+130 and upon the terms and conditions as the court deems proper. If a counterclaim has been
+131 pleaded by a defendant prior to the service upon him or her of the plaintiff's motion to
+132 dismiss, the action shall not be dismissed against the defendant's objection unless the
+133 counterclaim can remain pending for independent adjudication by the court. Unless the
+134 court order states otherwise, a dismissal under this paragraph is without prejudice.
+135 (3) Effect. A dismissal under this subsection is without prejudice, except that the filing
+136 of a second notice of dismissal operates as an adjudication upon the merits."
+137 SECTION 4.
+138 Said title is further amended in Chapter 15, relating to court and litigation costs, by adding
+139 a new Code section to read as follows:
+140 "9-15-16.
+141 (a) In any civil action, no party shall recover the same attorney's fees, court costs, or
+142 expenses of litigation more than once pursuant to one or more statutes authorizing awards
+S. B. 68 (SUB)
+- 6 -
+25 LC 49 2362S
+143 of attorney's fees, court costs, or expenses of litigation, whether such statute or statutes
+144 authorize such awards for compensatory or punitive purposes, unless the statute or statutes
+145 specifically authorize the recovery of duplicate attorney's fees, court costs, or expenses of
+146 litigation.
+147 (b) In any civil action, if a party seeks to recover attorney's fees pursuant to any statute
+148 authorizing an award of reasonable attorney's fees, a contingent fee agreement between
+149 such party and such party's attorney shall not be admissible as proof of the reasonableness
+150 of the fees.
+151 (c) Nothing in this Code section shall limit or diminish any contractual right to recover
+152 attorney's fees, court costs, or expenses of litigation."
+153 SECTION 5.
+154 Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles, is amended
+155 in Code Section 40-8-76.1, relating to use of safety belts in passenger vehicles, by revising
+156 subsection (d) as follows:
+157 "(d)(1) The failure of an occupant of a motor vehicle to wear a seat safety belt in any seat
+158 of a motor vehicle which has a seat safety belt or belts shall not be considered evidence
+159 of negligence or causation, shall not otherwise be considered by the finder of fact on any
+160 question of liability of any person, corporation, or insurer, shall not be any basis for
+161 cancellation of coverage or increase in insurance rates, and shall not may be considered
+162 in any civil action as evidence admissible on the issues of negligence, comparative
+163 negligence, causation, assumption of risk, or apportionment of fault or for any other
+164 purpose and may be evidence used to diminish any recovery for damages arising out of
+165 the ownership, maintenance, occupancy, or operation of a motor vehicle; provided,
+166 however, that this paragraph shall not prevent a court from determining the admissibility
+167 of such evidence pursuant to Code Section 24-4-403 or any other statutory or common
+168 law rule of evidence.
+S. B. 68 (SUB)
+- 7 -
+25 LC 49 2362S
+169 (2) The failure of an occupant of a motor vehicle to wear a seat safety belt in any seat of
+170 a motor vehicle which has a seat safety belt or belts shall not be any basis for a
+171 cancellation of insurance coverage or an increase in insurance rate."
+172 SECTION 6.
+173 Title 51 of the Official Code of Georgia Annotated, relating to torts, is amended in Chapter 3,
+174 relating to liability of owners and occupiers of land, by adding a new article to read as
+175 follows:
+176 "ARTICLE 5
+177 51-3-50.
+178 As used in this article, the term:
+179 (1) 'Negligent security' means any claim against an owner or occupier, or against a
+180 security contractor, that:
+181 (A) Sounds in tort or nuisance, including, but not limited to, any claim under Article 1
+182 of this chapter;
+183 (B) Seeks to recover damages for bodily injury or wrongful death; and
+184 (C) Arises from an alleged failure to keep the premises and approaches safe from the
+185 wrongful conduct of third persons.
+186 (2) 'Owner or occupier' means any person that owns, leases, occupies, operates,
+187 maintains, or manages real property of any kind or any director, officer, employee, or
+188 agent of such person.
+189 (3) 'Particularized warning of imminent wrongful conduct by a third person' means
+190 information actually known to an owner or occupier and deemed credible by the owner
+191 or occupier, which causes the owner or occupier to consciously understand that a third
+192 person is likely to imminently engage in wrongful conduct on the premises that poses a
+S. B. 68 (SUB)
+- 8 -
+25 LC 49 2362S
+193 clear danger to the safety of persons upon the premises, such information being specific
+194 as to the identity of the third person, the nature and character of the wrongful conduct, the
+195 degree of dangerousness of the wrongful conduct, and the location, time, and
+196 circumstances of the wrongful conduct.
+197 (4) 'Premises' means the real property that is owned, leased, occupied, operated,
+198 maintained, or managed by an owner or occupier.
+199 (5) 'Prior occurrences of substantially similar wrongful conduct' means prior occurrences
+200 of wrongful conduct which are sufficiently similar in nature and character, degree of
+201 dangerousness, proximity, location, time, and circumstances to the wrongful conduct
+202 from which a claim of negligent security arises to lead a reasonable person in the position
+203 of the owner or occupier to apprehend that such wrongful conduct is reasonably likely to
+204 occur upon the premises, to understand the risk of injury to persons upon the premises
+205 presented by such wrongful conduct, and to understand that a specific and known
+206 physical condition of the premises has created a risk of such wrongful conduct on the
+207 premises that is substantially greater than the general risk of such wrongful conduct in the
+208 vicinity of the premises.
+209 (6) 'Security contractor' means any person that contracts with an owner or occupier to
+210 provide protective or security services upon any premises or any director, officer,
+211 employee, or agent of such person.
+212 (7) 'Third person' means any person other than an owner or occupier or a security
+213 contractor or a person under the direction, control, or supervision of an owner or occupier
+214 or security contractor.
+215 (8) 'Wrongful conduct' means:
+216 (A) Any violation of a law of this state or an ordinance of any political subdivision
+217 thereof that is punishable as a felony or misdemeanor, regardless of whether such
+218 violation results in an arrest, citation, accusation, indictment, or conviction; or
+219 (B) Any other conduct that amounts to an intentional, or willful and wanton, tort.
+S. B. 68 (SUB)
+- 9 -
+25 LC 49 2362S
+220 51-3-51.
+221 Except as provided in Code Section 51-3-54, an owner or occupier shall be liable for
+222 negligent security arising from any injury sustained by any person upon the premises of the
+223 owner or occupier as an invitee if the plaintiff proves that:
+224 (1) The wrongful conduct by a third person that caused the injury sustained by the invitee
+225 was reasonably foreseeable because the owner or occupier:
+226 (A) Had particularized warning of imminent wrongful conduct by a third person; or
+227 (B) Reasonably should have known that a third person was reasonably likely to engage
+228 in such wrongful conduct upon the premises, based on:
+229 (i) Prior occurrences of substantially similar wrongful conduct upon the premises of
+230 which the owner or occupier had actual knowledge;
+231 (ii) Prior occurrences of substantially similar wrongful conduct upon the property
+232 adjoining the premises, or otherwise occurring within 500 yards of the premises, of
+233 which the owner or occupier had actual knowledge; or
+234 (iii) Prior occurrences of substantially similar wrongful conduct by the third person
+235 whose wrongful conduct caused the injury, if the owner or occupier knew or should
+236 have known, by clear and convincing evidence, that such third person was or would
+237 be upon the premises and if the owner or occupier had actual knowledge of such prior
+238 occurrences of substantially similar wrongful conduct;
+239 (2) The injury sustained by the invitee was a reasonably foreseeable consequence of such
+240 wrongful conduct by a third person;
+241 (3) Such wrongful conduct by a third person was a reasonably foreseeable consequence
+242 of such third person exploiting a specific physical condition of the premises known to the
+243 owner or occupier, which created a reasonably foreseeable risk of wrongful conduct on
+244 the premises that was substantially greater than the general risk of wrongful conduct in
+245 the vicinity of the premises;
+S. B. 68 (SUB)
+- 10 -
+25 LC 49 2362S
+246 (4) The owner or occupier failed to exercise ordinary care to remedy or mitigate such
+247 specific and known physical condition of the premises and to otherwise keep the premises
+248 safe from such wrongful conduct by a third person; and
+249 (5) Such failure of the owner or occupier to exercise ordinary care was a proximate cause
+250 of the injury sustained by the invitee.
+251 51-3-52.
+252 Except as provided in Code Section 51-3-54, an owner or occupier shall be liable for
+253 negligent security arising from any injury sustained by any person upon the premises of the
+254 owner or occupier as a licensee if the plaintiff proves that:
+255 (1) The wrongful conduct by a third person that caused the injury sustained by the
+256 licensee was reasonably foreseeable because the owner or occupier had particularized
+257 warning of imminent wrongful conduct by a third person;
+258 (2) The injury sustained by the licensee was a reasonably foreseeable consequence of
+259 such wrongful conduct by a third person;
+260 (3) Such wrongful conduct by a third person was a reasonably foreseeable consequence
+261 of such third person exploiting a specific physical condition of the premises known to the
+262 owner or occupier, which created a reasonably foreseeable risk of wrongful conduct on
+263 the premises that was substantially greater than the general risk of wrongful conduct in
+264 the vicinity of the premises;
+265 (4) The owner or occupier willfully and wantonly failed to exercise any care to remedy
+266 or mitigate the specific and known physical condition of the premises and to otherwise
+267 keep the premises safe from such wrongful conduct by a third person; and
+268 (5) Such failure of the owner or occupier to exercise any care was a proximate cause of
+269 the injury sustained by the licensee.
+S. B. 68 (SUB)
+- 11 -
+25 LC 49 2362S
+270 51-3-53.
+271 (a) Except as otherwise provided in subsections (b) and (c) of this Code section, the
+272 provisions of this article shall be the sole and exclusive remedy for negligent security
+273 against owners or occupiers, and no owner or occupier shall be liable for negligent security
+274 except as provided in this article.
+275 (b) Nothing in this article shall be construed to limit or otherwise affect any cause of action
+276 brought pursuant to Code Section 51-1-56 or any other applicable law or theory of recovery
+277 otherwise recognized by law, including, but not limited to, negligence and nuisance, in
+278 connection with an alleged violation of Code Section 16-5-46.
+279 (c) Nothing in this article shall be construed to limit or otherwise affect any claim or
+280 remedy for breach of contract or any other claim, remedy, or cause of action not arising
+281 under Article 1 of this chapter.
+282 51-3-54.
+283 Notwithstanding Code Sections 51-3-51 and 51-3-52, no owner or occupier shall be liable
+284 for negligent security:
+285 (1) Arising from an injury sustained by a person upon the premises of the owner or
+286 occupier as a trespasser;
+287 (2) Arising from an injury sustained by a person not upon the premises of the owner or
+288 occupier;
+289 (3) Arising from the wrongful conduct of a third person, if such wrongful conduct did
+290 not occur upon the premises and in a place from which the owner or occupier had the
+291 legal right and authority to exclude such third person;
+292 (4) Arising from the wrongful conduct of a third person, if such third person was upon
+293 the premises as a tenant or as a guest of a tenant, if the owner or occupier had
+294 commenced eviction proceedings against such tenant at the time of the wrongful conduct;
+S. B. 68 (SUB)
+- 12 -
+25 LC 49 2362S
+295 (5) Arising from an injury sustained by a third person upon the premises of the owner
+296 or occupier as an invitee or a licensee, if such person:
+297 (A) Came upon the premises for the purpose of committing any violation of a law of
+298 this state that is punishable as a felony or any violation of Chapter 8 of Title 16 that is
+299 punishable as a misdemeanor; or
+300 (B) Was engaged at the time of the injury in the commission of any violation of a law
+301 of this state that is punishable as a felony or any violation of Chapter 8 of Title 16 that
+302 is punishable as a misdemeanor, provided that this subparagraph shall not apply to a
+303 victim of a violation of Code Section 16-5-46;
+304 (6) Arising from an injury sustained upon premises that is used as a single-family
+305 residence; or
+306 (7) Based on a particularized warning of imminent wrongful conduct by a third person,
+307 if the owner or occupier made any reasonable effort to provide such information to law
+308 enforcement personnel, provided that calling 9-1-1 or otherwise making a report about
+309 such information to law enforcement personnel shall be deemed a reasonable effort.
+310 51-3-55.
+311 (a) No owner or occupier shall be required to exercise extraordinary care to keep persons
+312 on or around any premises safe from wrongful conduct by a third person, and no owner or
+313 occupier shall be required to assume the responsibilities and obligations of government for
+314 law enforcement and public safety.
+315 (b) In any action for negligent security, in assessing whether an owner or occupier has
+316 breached a duty to exercise ordinary care to keep persons on or around any premises safe
+317 from wrongful conduct by a third person, the trier of fact shall consider the security
+318 measures employed by the owner or occupier at the time of the injury from which the claim
+319 of negligent security arises, the need for additional or other security measures, the
+320 practicality of additional or other security measures, whether additional or other security
+S. B. 68 (SUB)
+- 13 -
+25 LC 49 2362S
+321 measures would have prevented the injury, the respective responsibilities of owners or
+322 occupiers with respect to the premises and government with respect to law enforcement and
+323 public safety, and any other relevant circumstances.
+324 51-3-56.
+325 In any action for negligent security:
+326 (1) If the trier of fact finds that any defendant is liable to the plaintiff, the trier of fact
+327 shall make an apportionment of fault under Code Section 51-12-33, and in making such
+328 an apportionment, the trier of fact shall reasonably apportion fault to:
+329 (A) The owner or occupier;
+330 (B) Any third person whose wrongful conduct was a cause of the injury from which
+331 the claim of negligent security arises; and
+332 (C) Any other persons to whom fault otherwise should be apportioned under Code
+333 Section 51-12-33;
+334 (2) In connection with an apportionment of fault under Code Section 51-12-33, no party
+335 shall offer evidence, or make an argument or other comment in the hearing of any juror
+336 or prospective juror, concerning:
+337 (A) Any sentence of imprisonment or probation, fine, or other punishment that has
+338 been, or could be, imposed in a criminal prosecution of any third person for the
+339 wrongful conduct from which the claim of negligent security arises;
+340 (B) The financial resources of any party or nonparty; or
+341 (C) The effect of an apportionment of fault upon any award of damages to the plaintiff;
+342 and
+343 (3) If a jury fails as the trier of fact to apportion a reasonable degree of fault to the third
+344 person whose wrongful conduct was a cause of the injury from which the claim of
+345 negligent security arises, the trial court shall set aside the verdict of the jury and order a
+346 retrial of liability and damages. There shall be a rebuttable presumption that an
+S. B. 68 (SUB)
+- 14 -
+25 LC 49 2362S
+347 apportionment of fault is unreasonable if the total percentage of fault apportioned to all
+348 third persons for their wrongful conduct is less than the total percentage of fault
+349 apportioned to all owners or occupiers, security contractors, and other persons and
+350 entities that did not engage in wrongful conduct.
+351 51-3-57.
+352 (a) If a security contractor assumes and undertakes a duty to invitees and licensees to keep
+353 all or part of a premises of an owner or occupier safe from the wrongful conduct of a third
+354 person, the security contractor may be liable for negligent security only in the same
+355 manner, to the same extent, and subject to the same limitations and provisions applicable
+356 to an owner or occupier contained in this article. In no event shall a security contractor be
+357 subject to liability for negligent security to an extent greater than the liability for negligent
+358 security of an owner or occupier.
+359 (b) No security contractor shall be liable for negligent security except as provided in this
+360 Code section.
+361 (c) Nothing in this Code section shall limit or otherwise affect any claim or remedy of an
+362 owner or occupier for breach of contract."
+363 SECTION 7.
+364 Said title is further amended in Article 1 of Chapter 12, relating to general provisions relative
+365 to damages, by adding a new Code section to read as follows:
+366 "51-12-1.1.
+367 (a) In any civil action to recover damages resulting from injury or death to a person,
+368 special damages for medical and healthcare expenses shall be recoverable only as provided
+369 in this Code section.
+S. B. 68 (SUB)
+- 15 -
+25 LC 49 2362S
+370 (b) Special damages for medical and healthcare expenses shall be limited to the reasonable
+371 value of medically necessary care, treatment, or services, and the amount of such special
+372 damages shall be determined by the trier of fact.
+373 (c) If the plaintiff in any such civil action has any form of public or private health
+374 insurance, including benefits under a governmental workers' compensation program,
+375 evidence relevant to the determination of the reasonable value of medically necessary care,
+376 treatment, or services pursuant to subsection (b) of this Code section shall include both the
+377 amounts charged for past, present, or future medical and healthcare expenses and the
+378 amounts actually necessary to satisfy such charges pursuant to the insurance contract or the
+379 applicable governmental workers' compensation program, regardless of whether the health
+380 insurance has been used, is used, or will be used to satisfy such charges.
+381 (d) In any claim for medical and healthcare expenses rendered under a letter of protection
+382 or any other arrangement by which a healthcare provider renders treatment in exchange for
+383 a promise of payment for the plaintiff's medical and healthcare expenses from any
+384 judgment or settlement of a civil action to recover damages resulting from injury or death
+385 to a person, regardless of how such arrangement is referred to, the following shall be
+386 relevant and discoverable:
+387 (1) A copy of the letter of protection;
+388 (2) All charges for the plaintiff's medical and healthcare expenses, which shall be
+389 itemized and, to the extent applicable, coded according to generally accepted medical
+390 billing practices;
+391 (3) If the healthcare provider sells the accounts receivable for the plaintiff's medical and
+392 healthcare expenses to a third party at less than the invoice price:
+393 (A) The name of the third party; and
+394 (B) The dollar amount for which the third party purchased such accounts receivable;
+395 and
+S. B. 68 (SUB)
+- 16 -
+25 LC 49 2362S
+396 (4) Whether the claimant was referred for treatment under a letter of protection or other
+397 similar arrangement and, if so, the identity of the person who made the referral.
+398 (e) It is the intent of the General Assembly that this Code section abrogates the common
+399 law collateral source rule to the extent necessary to introduce the evidence described in this
+400 Code section; provided, however, that nothing in this Code section shall be construed or
+401 applied to prevent the court from issuing appropriate jury instructions to clarify the role of
+402 collateral source payments and to prevent potential jury confusion regarding the effect of
+403 collateral source payments on the plaintiff's recovery.
+404 (f) Nothing in this Code section shall be construed or applied to limit the right of a plaintiff
+405 or defendant to present evidence or testimony, or both, challenging the reasonableness of
+406 medical and healthcare expenses, whether incurred or projected future expenses, or the
+407 medical necessity of any treatment."
+408 SECTION 8.
+409 Said title is further amended in said article by adding a new Code section to read as follows:
+410 "51-12-15.
+411 (a) In any action to recover damages for bodily injury or wrongful death, any party may
+412 elect, by written demand prior to the entry of the pretrial order, to have fault and any award
+413 of damages determined at trial in the following manner:
+414 (1) In the first phase of the trial, the trier of fact shall determine the fault of each
+415 defendant, and if the trier of fact finds that any defendant is at fault for the plaintiff's
+416 injuries or wrongful death, the trier of fact shall further determine through an appropriate
+417 form of the verdict the percentages of fault of all persons or entities that contributed to
+418 such injuries or wrongful death as provided in Code Section 51-12-33, prior to any
+419 determination of the total amount of damages to be awarded, if any such findings are
+420 required. The evidence and arguments of counsel in the first phase of the trial shall be
+421 limited to the issues provided for in this paragraph;
+S. B. 68 (SUB)
+- 17 -
+25 LC 49 2362S
+422 (2) If the trier of fact finds in the first phase of the trial that any defendant is at fault for
+423 the plaintiff's injuries or wrongful death, the trial shall be recommenced immediately with
+424 the same judge and the same jury. In the second phase of the trial, the trier of fact shall
+425 determine all compensatory damages to be awarded to the plaintiff, if any, and the
+426 evidence and arguments of counsel shall be limited to this issue; and
+427 (3) If the trier of fact finds in the second phase of the trial that any compensatory
+428 damages are to be awarded to the plaintiff, the trial may be recommenced immediately
+429 with the same judge and the same jury for such further proceedings as may be required,
+430 including, but not limited to, proceedings provided for in subsection (d) of Code Section
+431 51-12-5.1 concerning punitive damages and proceedings to determine liability for, and
+432 the amount of, any attorney's fees, court costs, or expenses of litigation that may be
+433 awarded by the trier of fact as provided by law.
+434 (b) The court may reject an election by any party made pursuant to subsection (a) of this
+435 Code section and order the concurrent trial of fault and damages only upon motion by any
+436 party in opposition to such election and upon the court's determination that:
+437 (1) The plaintiff, or if the plaintiff is the legal guardian of a minor, the minor, was
+438 injured by an alleged sexual offense and would be likely to suffer serious psychological
+439 or emotional distress as a result of testifying more than once in a bifurcated proceeding;
+440 or
+441 (2) The amount in controversy is less than $150,000.00."
+442 SECTION 9.
+443 (a) This Act shall become effective upon its approval by the Governor or upon its becoming
+444 law without such approval.
+445 (b) Sections 6 and 7 of this Act shall apply only with respect to causes of action arising on
+446 or after the effective date of this Act, and any prior causes of action shall be governed by
+447 prior law. It is the intention of the General Assembly that all other provisions of this Act
+S. B. 68 (SUB)
+- 18 -
+25 LC 49 2362S
+448 shall apply to causes of action pending on the effective date of this Act, unless such
+449 application would be unconstitutional.
+450 SECTION 10.
+451 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 68 (SUB)
+- 19 -
+[DELETED: 5LTp m v a t r s a t p f s acadaapn0n1h2t3a4B]
+[DELETED: 5L5S6T7r8f990(1(2o3e4e5o6c7(8w9p o e p d a h d s0i1o2i3(4a5w6o7t8d9(0c f a p s b a t a t w o m v o1n]
+[DELETED: 5L2f3r4t5(6b7c8o9n0a1(2C3t4p5(6p7a d o a v i e o s u a p t s8q9c0j p h t a s a s c t t e o1r2S3S4o5b6(]
+[DELETED: 5L7(8a9d0r1s2(3t4(5s6(7s8(9i0a1a2o3o4a5m6(7(8p9t0h1m2s]
+[DELETED: 5L3t4m5(6t7(8c9m0t1n2i3(4s5p w m b j o s a p p o i a p n6d7r8s9b0(  T p o t s s n m o a t p o1p2t3S4S5r6(]
+[DELETED: 5L7(8S9t0(1t2(3a4(5e6o7t8(9a0a1p2d3c4c5(6o7S8S9a091(2e]
+[DELETED: 5L3o4a5s6l7(8a9s0o1(2a3S4T5i6s7(8o9o0q1c2i3n4p5t6h7o8l]
+[DELETED: 5L9(0a m v w h a s s b o b s n b a b f 1c2S3T4r5f6A758A9(0s1(2o3(4(5w6(  ' o o m a p t o l o o7m8a9(0i1o2p]
+[DELETED: 5L3c4a5d o d o t w c a t l t a6c7(  ' m t r p t i o l o o8m9(0o1d2f3o4o5p b s w c a t u t a s a k6p7p8v9(0p p o s s u a p o a d o1e2(3c4o5(6(7t8v9(]
+[DELETED: 5L051E2n3o4(5w6(7(8i9(0w1(2a3w4(5w6h7b8o9(0w1(2o3o4t5t]
+[DELETED: 5L6(7s8s9(0o152E3n4o5(6l7w8(9s0(1o2o3t4t5(6o7k8(9t]
+[DELETED: 5L051(2p3a4e5(6b7o8c9(0r1u253N4f5(6o7(8o9(0n1l2(3t p a a t o a a g o a t i t o o o h4c]
+[DELETED: 5L5(6o7(8t9p0(1o2i3v4(5r6(7i8e9s051(2o3o4l5(6b7f8m9o n s a t n f a o o s m t0p]
+[DELETED: 5L1m2o3p455I6(7s8a9(0(1t2(3S4(5s6o7(8b o c b i i a c p o a t p f t9w0(1(2a3(4p5n6r o l a d T s b a r p t a]
+[DELETED: 5L7a8t p f t w c i l t t t p o f9a t a o o o s c a o p a0e152(3a4p o5m6t7s8s9(0C1(2o3S4S5t657(8s9i]
+[DELETED: 5L0(1v2d3(4i i b u a g w c p5e6t7a8a9a0i1(2o3a p o p f t p m a h e f a4j5t6r7(8(9i0b1(2h3(4(5a]
+[DELETED: 5L6(7s8(9l0C1a2c3c4(5o6m7m.8S9S051(2e3o4(5d6i7f8s9d0r1l]
+[DELETED: 5L2(3t4t5d6e7(8d9w0i152t3a4(5C6p7(8i9o0o1(2S3(4l5(6o7p]
+[DELETED: 5L8s a t c o a p o t e d o t A u s9a0S1A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 49 2362S
+The House Committee on Rules offers the following substitute to SB 68:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 9, 40, and 51 of the Official Code of Georgia Annotated, relating to civil
+2 practice, motor vehicles, and torts, respectively, so as to provide for substantive and
+3 comprehensive revision of provisions regarding civil practice, evidentiary matters, damages,
+4 and liability in tort actions; to provide limitations relative to evidence of noneconomic
+5 damages; to provide for timing of answers and discovery; to provide for dismissals of civil
+6 actions; to provide for attorney's fees, court costs, and litigation expenses; to provide for
+7 admissibility of evidence related to seat safety belts; to provide for trial procedures; to
+8 provide for a negligent security cause of action; to provide for exclusive remedies for
+9 negligent security actions subject to exceptions; to provide for apportionment of damages in
+10 negligent security actions; to provide for the recovery of special damages for medical and
+11 healthcare expenses in personal injury and wrongful death cases; to provide for construction;
+12 to provide for definitions; to provide for related matters; to provide for an effective date and
+13 applicability; to repeal conflicting laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 68 (SUB)
+- 1 -
+
+25 LC 49 2362S
+15 SECTION 1.
+16 Title 9 of the Official Code of Georgia Annotated, relating to civil practice, is amended by
+17 revising Code Section 9-10-184, relating to value of pain and suffering may be argued, as
+18 follows:
+19 "9-10-184.
+20 (a) As used in this Code section, the term:
+21 (1) 'Economic damages' means pecuniary damages recoverable in tort for bodily injury
+22 or wrongful death, including, but not limited to, damages for past and future medical
+23 expenses; costs of rehabilitation; costs of therapy; loss of wages; loss of income; loss of
+24 earning capacity; loss of services performed by the injured or deceased person as a result
+25 of the injury or death, including domestic and other necessary services performed without
+26 compensation; and funeral or burial expenses.
+27 (2) 'Noneconomic damages' means all damages recoverable in tort for bodily injury or
+28 wrongful death other than economic damages, including, but not limited to, damages for
+29 physical or emotional pain, discomfort, anxiety, hardship, distress, suffering,
+30 inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment
+31 of life, loss of society and companionship, loss of consortium, injury to reputation, and
+32 in wrongful death cases, the nonpecuniary elements of the full value of life.
+33 (b) Except as otherwise provided in subsection (c) of this Code section, in the trial of any
+34 action to recover damages for bodily injury or wrongful death, counsel shall not argue the
+35 worth or monetary value of noneconomic damages, and counsel shall not, in the hearing
+36 of the jury or any prospective juror, elicit any testimony regarding, or make any reference
+37 to, any specific amount or range of amounts of noneconomic damages, the measure of such
+38 damages being the enlightened conscience of an impartial jury.
+39 (c)(1) In the trial of any action to recover damages for bodily injury or wrongful death,
+40 counsel for any party shall be allowed to argue the worth or monetary value of
+41 noneconomic damages only after the close of evidence and at the time of such party's
+S. B. 68 (SUB)
+- 2 -
+
+25 LC 49 2362S
+42 first opportunity to argue the issue of damages, provided that such argument shall be
+43 rationally related to the evidence of noneconomic damages and shall not make reference
+44 to objects or values having no rational connection to the facts proved by the evidence.
+45 (2) If counsel is entitled to the opening and concluding arguments, then counsel shall not
+46 be allowed to argue the worth or monetary value of noneconomic damages during such
+47 counsel's concluding argument unless counsel has argued the worth or monetary value
+48 of noneconomic damages during such counsel's opening argument, and such counsel shall
+49 not argue a different worth or monetary value of noneconomic damages in concluding
+50 arguments than was argued in such counsel's opening argument.
+51 (d) If counsel elicits any testimony, or makes any argument or reference, prohibited by this
+52 Code section in the hearing of the jury or one or more prospective jurors, the court shall
+53 take remedial measures as provided in Code Section 9-10-185 or shall, with respect to
+54 prospective jurors, excuse the prospective jurors.
+55 (e) Nothing in this Code section shall be construed to prohibit counsel from asking
+56 prospective jurors during voir dire whether they could return a verdict that does not award
+57 any damages or a verdict in excess of some unspecified amount, provided that such
+58 question is supported by the evidence. In the trial of a civil action for personal injuries,
+59 counsel shall be allowed to argue the worth or monetary value of pain and suffering to the
+60 jury; provided, however, that any such argument shall conform to the evidence or
+61 reasonable deductions from the evidence in the case."
+62 SECTION 2.
+63 Said title is further amended in Code Section 9-11-12, relating to answer, defenses, and
+64 objections, when and how presented and heard, when defenses waived, and stay of discovery,
+65 by revising subsections (a), (e), and (j) as follows:
+66 "(a) When answer presented.
+S. B. 68 (SUB)
+- 3 -
+
+25 LC 49 2362S
+67 (1) Except as provided in paragraph (2) of this subsection, a A defendant shall serve his
+68 an answer within 30 days after the service of the summons and complaint upon him the
+69 defendant, unless otherwise provided by statute. A cross-claim or counterclaim shall not
+70 require an answer, unless one is required by order of the court, and shall automatically
+71 stand denied.
+72 (2) Unless the court sets a different time, serving a motion under this Code section alters
+73 the time for serving an answer pursuant to paragraph (1) of this subsection as follows:
+74 (A) If the court denies the motion or postpones its disposition until trial, the answer
+75 shall be served within 15 days after notice of the court's action; or
+76 (B) If the court grants a motion for a more definite statement, the answer shall be
+77 served within 15 days after the more definite statement is served."
+78 "(e) Motion for more definite statement. If a pleading to which a responsive pleading
+79 is permitted is so vague or ambiguous that a party cannot reasonably be required to frame
+80 a proper responsive pleading, he shall nevertheless answer or respond to the best of his
+81 ability, and he such party may move for a more definite statement. The motion shall point
+82 out the defects complained of and the details desired. If the motion is granted and the order
+83 of the court is not obeyed within 15 days after notice of the order, or within such other time
+84 as the court may fix, the court may strike the pleading to which the motion was directed or
+85 make such order as it deems just."
+86 "(j) Stay of discovery.
+87 (1) If a party files a motion to dismiss before or at the time of filing an answer and
+88 pursuant to the provisions of this Code section, discovery shall be stayed for 90 days after
+89 the filing of such motion or until the ruling of the court on such motion; provided,
+90 however, that, if a defendant files an answer before the ruling of the court on such
+91 motion, the stay imposed by this subsection shall immediately terminate with respect to
+92 such defendant, whichever is sooner. The court shall decide the motion to dismiss within
+S. B. 68 (SUB)
+- 4 -
+
+25 LC 49 2362S
+93 the 90 days provided in this paragraph following the conclusion of briefing on such
+94 motion.
+95 (2) The discovery period and all discovery deadlines shall be extended for a period equal
+96 to the duration of the stay imposed by this subsection.
+97 (3) If the court has not ruled on the motion to dismiss within 90 days following the
+98 conclusion of briefing on such motion, the The court may upon its own motion or upon
+99 motion of a party, and for good cause shown, terminate or modify the stay imposed by
+100 this subsection but shall not extend such stay; provided, however, that such remedy shall
+101 not preclude any other remedy available for the failure to timely rule on such motion,
+102 including, but not limited to, a writ of mandamus.
+103 (4) If a motion to dismiss raises defenses set forth in paragraph (2), (3), (5), or (7) of
+104 subsection (b) of this Code section; or if any party needs discovery in order to identify
+105 persons who may be joined or substituted as proper parties; or if any party needs
+106 discovery in order to establish the jurisdiction of the court, limited discovery needed to
+107 respond to such defenses, to or identify such persons, or to establish such jurisdiction
+108 shall be permitted until the court rules on such motion notwithstanding the stay imposed
+109 by this subsection.
+110 (5) The provisions of this subsection shall not modify or affect the provisions of
+111 paragraph (2) of subsection (f) of Code Section 9-11-23 or any other power of the court
+112 to stay discovery."
+113 SECTION 3.
+114 Said title is further amended in Code Section 9-11-41, relating to dismissal of actions and
+115 recommencement within six months, by revising subsection (a) as follows:
+116 "(a) Voluntary dismissal; effect.:
+S. B. 68 (SUB)
+- 5 -
+
+25 LC 49 2362S
+117 (1) By plaintiff; by stipulation. Subject to the provisions of subsection (e) of Code
+118 Section 9-11-23, Code Section 9-11-66, and any statute, an action may be dismissed by
+119 the plaintiff, without order or permission of court:
+120 (A) By filing a written notice of dismissal at any time before the first witness is sworn
+121 the sixtieth day following the date the opposing party serves an answer; or
+122 (B) By filing a stipulation of dismissal signed by all parties who have appeared in the
+123 action.
+124 (2) Effect. A dismissal under paragraph (1) of this subsection is without prejudice,
+125 except that if the plaintiff previously dismissed any federal or state court action based on
+126 or including the same claim, such notice or stipulation operates as an adjudication upon
+127 the merits.
+128 (2)(3) By order of court. Except as provided in paragraph (1) of this subsection, an
+129 action shall not be dismissed upon the plaintiff's motion except upon order of the court
+130 and upon the terms and conditions as the court deems proper. If a counterclaim has been
+131 pleaded by a defendant prior to the service upon him or her of the plaintiff's motion to
+132 dismiss, the action shall not be dismissed against the defendant's objection unless the
+133 counterclaim can remain pending for independent adjudication by the court. Unless the
+134 court order states otherwise, a dismissal under this paragraph is without prejudice.
+135 (3) Effect. A dismissal under this subsection is without prejudice, except that the filing
+136 of a second notice of dismissal operates as an adjudication upon the merits."
+137 SECTION 4.
+138 Said title is further amended in Chapter 15, relating to court and litigation costs, by adding
+139 a new Code section to read as follows:
+140 "9-15-16.
+141 (a) In any civil action, no party shall recover the same attorney's fees, court costs, or
+142 expenses of litigation more than once pursuant to one or more statutes authorizing awards
+S. B. 68 (SUB)
+- 6 -
+
+25 LC 49 2362S
+143 of attorney's fees, court costs, or expenses of litigation, whether such statute or statutes
+144 authorize such awards for compensatory or punitive purposes, unless the statute or statutes
+145 specifically authorize the recovery of duplicate attorney's fees, court costs, or expenses of
+146 litigation.
+147 (b) In any civil action, if a party seeks to recover attorney's fees pursuant to any statute
+148 authorizing an award of reasonable attorney's fees, a contingent fee agreement between
+149 such party and such party's attorney shall not be admissible as proof of the reasonableness
+150 of the fees.
+151 (c) Nothing in this Code section shall limit or diminish any contractual right to recover
+152 attorney's fees, court costs, or expenses of litigation."
+153 SECTION 5.
+154 Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles, is amended
+155 in Code Section 40-8-76.1, relating to use of safety belts in passenger vehicles, by revising
+156 subsection (d) as follows:
+157 "(d)(1) The failure of an occupant of a motor vehicle to wear a seat safety belt in any seat
+158 of a motor vehicle which has a seat safety belt or belts shall not be considered evidence
+159 of negligence or causation, shall not otherwise be considered by the finder of fact on any
+160 question of liability of any person, corporation, or insurer, shall not be any basis for
+161 cancellation of coverage or increase in insurance rates, and shall not may be considered
+162 in any civil action as evidence admissible on the issues of negligence, comparative
+163 negligence, causation, assumption of risk, or apportionment of fault or for any other
+164 purpose and may be evidence used to diminish any recovery for damages arising out of
+165 the ownership, maintenance, occupancy, or operation of a motor vehicle; provided,
+166 however, that this paragraph shall not prevent a court from determining the admissibility
+167 of such evidence pursuant to Code Section 24-4-403 or any other statutory or common
+168 law rule of evidence.
+S. B. 68 (SUB)
+- 7 -
+
+25 LC 49 2362S
+169 (2) The failure of an occupant of a motor vehicle to wear a seat safety belt in any seat of
+170 a motor vehicle which has a seat safety belt or belts shall not be any basis for a
+171 cancellation of insurance coverage or an increase in insurance rate."
+172 SECTION 6.
+173 Title 51 of the Official Code of Georgia Annotated, relating to torts, is amended in Chapter 3,
+174 relating to liability of owners and occupiers of land, by adding a new article to read as
+175 follows:
+176 "ARTICLE 5
+177 51-3-50.
+178 As used in this article, the term:
+179 (1) 'Negligent security' means any claim against an owner or occupier, or against a
+180 security contractor, that:
+181 (A) Sounds in tort or nuisance, including, but not limited to, any claim under Article 1
+182 of this chapter;
+183 (B) Seeks to recover damages for bodily injury or wrongful death; and
+184 (C) Arises from an alleged failure to keep the premises and approaches safe from the
+185 wrongful conduct of third persons.
+186 (2) 'Owner or occupier' means any person that owns, leases, occupies, operates,
+187 maintains, or manages real property of any kind or any director, officer, employee, or
+188 agent of such person.
+189 (3) 'Particularized warning of imminent wrongful conduct by a third person' means
+190 information actually known to an owner or occupier and deemed credible by the owner
+191 or occupier, which causes the owner or occupier to consciously understand that a third
+192 person is likely to imminently engage in wrongful conduct on the premises that poses a
+S. B. 68 (SUB)
+- 8 -
+
+25 LC 49 2362S
+193 clear danger to the safety of persons upon the premises, such information being specific
+194 as to the identity of the third person, the nature and character of the wrongful conduct, the
+195 degree of dangerousness of the wrongful conduct, and the location, time, and
+196 circumstances of the wrongful conduct.
+197 (4) 'Premises' means the real property that is owned, leased, occupied, operated,
+198 maintained, or managed by an owner or occupier.
+199 (5) 'Prior occurrences of substantially similar wrongful conduct' means prior occurrences
+200 of wrongful conduct which are sufficiently similar in nature and character, degree of
+201 dangerousness, proximity, location, time, and circumstances to the wrongful conduct
+202 from which a claim of negligent security arises to lead a reasonable person in the position
+203 of the owner or occupier to apprehend that such wrongful conduct is reasonably likely to
+204 occur upon the premises, to understand the risk of injury to persons upon the premises
+205 presented by such wrongful conduct, and to understand that a specific and known
+206 physical condition of the premises has created a risk of such wrongful conduct on the
+207 premises that is substantially greater than the general risk of such wrongful conduct in the
+208 vicinity of the premises.
+209 (6) 'Security contractor' means any person that contracts with an owner or occupier to
+210 provide protective or security services upon any premises or any director, officer,
+211 employee, or agent of such person.
+212 (7) 'Third person' means any person other than an owner or occupier or a security
+213 contractor or a person under the direction, control, or supervision of an owner or occupier
+214 or security contractor.
+215 (8) 'Wrongful conduct' means:
+216 (A) Any violation of a law of this state or an ordinance of any political subdivision
+217 thereof that is punishable as a felony or misdemeanor, regardless of whether such
+218 violation results in an arrest, citation, accusation, indictment, or conviction; or
+219 (B) Any other conduct that amounts to an intentional, or willful and wanton, tort.
+S. B. 68 (SUB)
+- 9 -
+
+25 LC 49 2362S
+220 51-3-51.
+221 Except as provided in Code Section 51-3-54, an owner or occupier shall be liable for
+222 negligent security arising from any injury sustained by any person upon the premises of the
+223 owner or occupier as an invitee if the plaintiff proves that:
+224 (1) The wrongful conduct by a third person that caused the injury sustained by the invitee
+225 was reasonably foreseeable because the owner or occupier:
+226 (A) Had particularized warning of imminent wrongful conduct by a third person; or
+227 (B) Reasonably should have known that a third person was reasonably likely to engage
+228 in such wrongful conduct upon the premises, based on:
+229 (i) Prior occurrences of substantially similar wrongful conduct upon the premises of
+230 which the owner or occupier had actual knowledge;
+231 (ii) Prior occurrences of substantially similar wrongful conduct upon the property
+232 adjoining the premises, or otherwise occurring within 500 yards of the premises, of
+233 which the owner or occupier had actual knowledge; or
+234 (iii) Prior occurrences of substantially similar wrongful conduct by the third person
+235 whose wrongful conduct caused the injury, if the owner or occupier knew or should
+236 have known, by clear and convincing evidence, that such third person was or would
+237 be upon the premises and if the owner or occupier had actual knowledge of such prior
+238 occurrences of substantially similar wrongful conduct;
+239 (2) The injury sustained by the invitee was a reasonably foreseeable consequence of such
+240 wrongful conduct by a third person;
+241 (3) Such wrongful conduct by a third person was a reasonably foreseeable consequence
+242 of such third person exploiting a specific physical condition of the premises known to the
+243 owner or occupier, which created a reasonably foreseeable risk of wrongful conduct on
+244 the premises that was substantially greater than the general risk of wrongful conduct in
+245 the vicinity of the premises;
+S. B. 68 (SUB)
+- 10 -
+
+25 LC 49 2362S
+246 (4) The owner or occupier failed to exercise ordinary care to remedy or mitigate such
+247 specific and known physical condition of the premises and to otherwise keep the premises
+248 safe from such wrongful conduct by a third person; and
+249 (5) Such failure of the owner or occupier to exercise ordinary care was a proximate cause
+250 of the injury sustained by the invitee.
+251 51-3-52.
+252 Except as provided in Code Section 51-3-54, an owner or occupier shall be liable for
+253 negligent security arising from any injury sustained by any person upon the premises of the
+254 owner or occupier as a licensee if the plaintiff proves that:
+255 (1) The wrongful conduct by a third person that caused the injury sustained by the
+256 licensee was reasonably foreseeable because the owner or occupier had particularized
+257 warning of imminent wrongful conduct by a third person;
+258 (2) The injury sustained by the licensee was a reasonably foreseeable consequence of
+259 such wrongful conduct by a third person;
+260 (3) Such wrongful conduct by a third person was a reasonably foreseeable consequence
+261 of such third person exploiting a specific physical condition of the premises known to the
+262 owner or occupier, which created a reasonably foreseeable risk of wrongful conduct on
+263 the premises that was substantially greater than the general risk of wrongful conduct in
+264 the vicinity of the premises;
+265 (4) The owner or occupier willfully and wantonly failed to exercise any care to remedy
+266 or mitigate the specific and known physical condition of the premises and to otherwise
+267 keep the premises safe from such wrongful conduct by a third person; and
+268 (5) Such failure of the owner or occupier to exercise any care was a proximate cause of
+269 the injury sustained by the licensee.
+S. B. 68 (SUB)
+- 11 -
+
+25 LC 49 2362S
+270 51-3-53.
+271 (a) Except as otherwise provided in subsections (b) and (c) of this Code section, the
+272 provisions of this article shall be the sole and exclusive remedy for negligent security
+273 against owners or occupiers, and no owner or occupier shall be liable for negligent security
+274 except as provided in this article.
+275 (b) Nothing in this article shall be construed to limit or otherwise affect any cause of action
+276 brought pursuant to Code Section 51-1-56 or any other applicable law or theory of recovery
+277 otherwise recognized by law, including, but not limited to, negligence and nuisance, in
+278 connection with an alleged violation of Code Section 16-5-46.
+279 (c) Nothing in this article shall be construed to limit or otherwise affect any claim or
+280 remedy for breach of contract or any other claim, remedy, or cause of action not arising
+281 under Article 1 of this chapter.
+282 51-3-54.
+283 Notwithstanding Code Sections 51-3-51 and 51-3-52, no owner or occupier shall be liable
+284 for negligent security:
+285 (1) Arising from an injury sustained by a person upon the premises of the owner or
+286 occupier as a trespasser;
+287 (2) Arising from an injury sustained by a person not upon the premises of the owner or
+288 occupier;
+289 (3) Arising from the wrongful conduct of a third person, if such wrongful conduct did
+290 not occur upon the premises and in a place from which the owner or occupier had the
+291 legal right and authority to exclude such third person;
+292 (4) Arising from the wrongful conduct of a third person, if such third person was upon
+293 the premises as a tenant or as a guest of a tenant, if the owner or occupier had
+294 commenced eviction proceedings against such tenant at the time of the wrongful conduct;
+S. B. 68 (SUB)
+- 12 -
+
+25 LC 49 2362S
+295 (5) Arising from an injury sustained by a third person upon the premises of the owner
+296 or occupier as an invitee or a licensee, if such person:
+297 (A) Came upon the premises for the purpose of committing any violation of a law of
+298 this state that is punishable as a felony or any violation of Chapter 8 of Title 16 that is
+299 punishable as a misdemeanor; or
+300 (B) Was engaged at the time of the injury in the commission of any violation of a law
+301 of this state that is punishable as a felony or any violation of Chapter 8 of Title 16 that
+302 is punishable as a misdemeanor, provided that this subparagraph shall not apply to a
+303 victim of a violation of Code Section 16-5-46;
+304 (6) Arising from an injury sustained upon premises that is used as a single-family
+305 residence; or
+306 (7) Based on a particularized warning of imminent wrongful conduct by a third person,
+307 if the owner or occupier made any reasonable effort to provide such information to law
+308 enforcement personnel, provided that calling 9-1-1 or otherwise making a report about
+309 such information to law enforcement personnel shall be deemed a reasonable effort.
+310 51-3-55.
+311 (a) No owner or occupier shall be required to exercise extraordinary care to keep persons
+312 on or around any premises safe from wrongful conduct by a third person, and no owner or
+313 occupier shall be required to assume the responsibilities and obligations of government for
+314 law enforcement and public safety.
+315 (b) In any action for negligent security, in assessing whether an owner or occupier has
+316 breached a duty to exercise ordinary care to keep persons on or around any premises safe
+317 from wrongful conduct by a third person, the trier of fact shall consider the security
+318 measures employed by the owner or occupier at the time of the injury from which the claim
+319 of negligent security arises, the need for additional or other security measures, the
+320 practicality of additional or other security measures, whether additional or other security
+S. B. 68 (SUB)
+- 13 -
+
+25 LC 49 2362S
+321 measures would have prevented the injury, the respective responsibilities of owners or
+322 occupiers with respect to the premises and government with respect to law enforcement and
+323 public safety, and any other relevant circumstances.
+324 51-3-56.
+325 In any action for negligent security:
+326 (1) If the trier of fact finds that any defendant is liable to the plaintiff, the trier of fact
+327 shall make an apportionment of fault under Code Section 51-12-33, and in making such
+328 an apportionment, the trier of fact shall reasonably apportion fault to:
+329 (A) The owner or occupier;
+330 (B) Any third person whose wrongful conduct was a cause of the injury from which
+331 the claim of negligent security arises; and
+332 (C) Any other persons to whom fault otherwise should be apportioned under Code
+333 Section 51-12-33;
+334 (2) In connection with an apportionment of fault under Code Section 51-12-33, no party
+335 shall offer evidence, or make an argument or other comment in the hearing of any juror
+336 or prospective juror, concerning:
+337 (A) Any sentence of imprisonment or probation, fine, or other punishment that has
+338 been, or could be, imposed in a criminal prosecution of any third person for the
+339 wrongful conduct from which the claim of negligent security arises;
+340 (B) The financial resources of any party or nonparty; or
+341 (C) The effect of an apportionment of fault upon any award of damages to the plaintiff;
+342 and
+343 (3) If a jury fails as the trier of fact to apportion a reasonable degree of fault to the third
+344 person whose wrongful conduct was a cause of the injury from which the claim of
+345 negligent security arises, the trial court shall set aside the verdict of the jury and order a
+346 retrial of liability and damages. There shall be a rebuttable presumption that an
+S. B. 68 (SUB)
+- 14 -
+
+25 LC 49 2362S
+347 apportionment of fault is unreasonable if the total percentage of fault apportioned to all
+348 third persons for their wrongful conduct is less than the total percentage of fault
+349 apportioned to all owners or occupiers, security contractors, and other persons and
+350 entities that did not engage in wrongful conduct.
+351 51-3-57.
+352 (a) If a security contractor assumes and undertakes a duty to invitees and licensees to keep
+353 all or part of a premises of an owner or occupier safe from the wrongful conduct of a third
+354 person, the security contractor may be liable for negligent security only in the same
+355 manner, to the same extent, and subject to the same limitations and provisions applicable
+356 to an owner or occupier contained in this article. In no event shall a security contractor be
+357 subject to liability for negligent security to an extent greater than the liability for negligent
+358 security of an owner or occupier.
+359 (b) No security contractor shall be liable for negligent security except as provided in this
+360 Code section.
+361 (c) Nothing in this Code section shall limit or otherwise affect any claim or remedy of an
+362 owner or occupier for breach of contract."
+363 SECTION 7.
+364 Said title is further amended in Article 1 of Chapter 12, relating to general provisions relative
+365 to damages, by adding a new Code section to read as follows:
+366 "51-12-1.1.
+367 (a) In any civil action to recover damages resulting from injury or death to a person,
+368 special damages for medical and healthcare expenses shall be recoverable only as provided
+369 in this Code section.
+S. B. 68 (SUB)
+- 15 -
+
+25 LC 49 2362S
+370 (b) Special damages for medical and healthcare expenses shall be limited to the reasonable
+371 value of medically necessary care, treatment, or services, and the amount of such special
+372 damages shall be determined by the trier of fact.
+373 (c) If the plaintiff in any such civil action has any form of public or private health
+374 insurance, including benefits under a governmental workers' compensation program,
+375 evidence relevant to the determination of the reasonable value of medically necessary care,
+376 treatment, or services pursuant to subsection (b) of this Code section shall include both the
+377 amounts charged for past, present, or future medical and healthcare expenses and the
+378 amounts actually necessary to satisfy such charges pursuant to the insurance contract or the
+379 applicable governmental workers' compensation program, regardless of whether the health
+380 insurance has been used, is used, or will be used to satisfy such charges.
+381 (d) In any claim for medical and healthcare expenses rendered under a letter of protection
+382 or any other arrangement by which a healthcare provider renders treatment in exchange for
+383 a promise of payment for the plaintiff's medical and healthcare expenses from any
+384 judgment or settlement of a civil action to recover damages resulting from injury or death
+385 to a person, regardless of how such arrangement is referred to, the following shall be
+386 relevant and discoverable:
+387 (1) A copy of the letter of protection;
+388 (2) All charges for the plaintiff's medical and healthcare expenses, which shall be
+389 itemized and, to the extent applicable, coded according to generally accepted medical
+390 billing practices;
+391 (3) If the healthcare provider sells the accounts receivable for the plaintiff's medical and
+392 healthcare expenses to a third party at less than the invoice price:
+393 (A) The name of the third party; and
+394 (B) The dollar amount for which the third party purchased such accounts receivable;
+395 and
+S. B. 68 (SUB)
+- 16 -
+
+25 LC 49 2362S
+396 (4) Whether the claimant was referred for treatment under a letter of protection or other
+397 similar arrangement and, if so, the identity of the person who made the referral.
+398 (e) It is the intent of the General Assembly that this Code section abrogates the common
+399 law collateral source rule to the extent necessary to introduce the evidence described in this
+400 Code section; provided, however, that nothing in this Code section shall be construed or
+401 applied to prevent the court from issuing appropriate jury instructions to clarify the role of
+402 collateral source payments and to prevent potential jury confusion regarding the effect of
+403 collateral source payments on the plaintiff's recovery.
+404 (f) Nothing in this Code section shall be construed or applied to limit the right of a plaintiff
+405 or defendant to present evidence or testimony, or both, challenging the reasonableness of
+406 medical and healthcare expenses, whether incurred or projected future expenses, or the
+407 medical necessity of any treatment."
+408 SECTION 8.
+409 Said title is further amended in said article by adding a new Code section to read as follows:
+410 "51-12-15.
+411 (a) In any action to recover damages for bodily injury or wrongful death, any party may
+412 elect, by written demand prior to the entry of the pretrial order, to have fault and any award
+413 of damages determined at trial in the following manner:
+414 (1) In the first phase of the trial, the trier of fact shall determine the fault of each
+415 defendant, and if the trier of fact finds that any defendant is at fault for the plaintiff's
+416 injuries or wrongful death, the trier of fact shall further determine through an appropriate
+417 form of the verdict the percentages of fault of all persons or entities that contributed to
+418 such injuries or wrongful death as provided in Code Section 51-12-33, prior to any
+419 determination of the total amount of damages to be awarded, if any such findings are
+420 required. The evidence and arguments of counsel in the first phase of the trial shall be
+421 limited to the issues provided for in this paragraph;
+S. B. 68 (SUB)
+- 17 -
+
+25 LC 49 2362S
+422 (2) If the trier of fact finds in the first phase of the trial that any defendant is at fault for
+423 the plaintiff's injuries or wrongful death, the trial shall be recommenced immediately with
+424 the same judge and the same jury. In the second phase of the trial, the trier of fact shall
+425 determine all compensatory damages to be awarded to the plaintiff, if any, and the
+426 evidence and arguments of counsel shall be limited to this issue; and
+427 (3) If the trier of fact finds in the second phase of the trial that any compensatory
+428 damages are to be awarded to the plaintiff, the trial may be recommenced immediately
+429 with the same judge and the same jury for such further proceedings as may be required,
+430 including, but not limited to, proceedings provided for in subsection (d) of Code Section
+431 51-12-5.1 concerning punitive damages and proceedings to determine liability for, and
+432 the amount of, any attorney's fees, court costs, or expenses of litigation that may be
+433 awarded by the trier of fact as provided by law.
+434 (b) The court may reject an election by any party made pursuant to subsection (a) of this
+435 Code section and order the concurrent trial of fault and damages only upon motion by any
+436 party in opposition to such election and upon the court's determination that:
+437 (1) The plaintiff, or if the plaintiff is the legal guardian of a minor, the minor, was
+438 injured by an alleged sexual offense and would be likely to suffer serious psychological
+439 or emotional distress as a result of testifying more than once in a bifurcated proceeding;
+440 or
+441 (2) The amount in controversy is less than $150,000.00."
+442 SECTION 9.
+443 (a) This Act shall become effective upon its approval by the Governor or upon its becoming
+444 law without such approval.
+445 (b) Sections 6 and 7 of this Act shall apply only with respect to causes of action arising on
+446 or after the effective date of this Act, and any prior causes of action shall be governed by
+447 prior law. It is the intention of the General Assembly that all other provisions of this Act
+S. B. 68 (SUB)
+- 18 -
+
+25 LC 49 2362S
+448 shall apply to causes of action pending on the effective date of this Act, unless such
+449 application would be unconstitutional.
+450 SECTION 10.
+451 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 68 (SUB)
+- 19 -
+
+[DELETED: 5LTp m v a t r s a t p f s acadaapn0n1h2t3a4B]
+[DELETED: 5L5S6T7r8f990(1(2o3e4e5o6c7(8w9p o e p d a h d s0i1o2i3(4a5w6o7t8d9(0c f a p s b a t a t w o m v o1n]
+[DELETED: 5L2f3r4t5(6b7c8o9n0a1(2C3t4p5(6p7a d o a v i e o s u a p t s8q9c0j p h t a s a s c t t e o1r2S3S4o5b6(]
+[DELETED: 5L7(8a9d0r1s2(3t4(5s6(7s8(9i0a1a2o3o4a5m6(7(8p9t0h1m2s]
+[DELETED: 5L3t4m5(6t7(8c9m0t1n2i3(4s5p w m b j o s a p p o i a p n6d7r8s9b0(  T p o t s s n m o a t p o1p2t3S4S5r6(]
+[DELETED: 5L7(8S9t0(1t2(3a4(5e6o7t8(9a0a1p2d3c4c5(6o7S8S9a091(2e]
+[DELETED: 5L3o4a5s6l7(8a9s0o1(2a3S4T5i6s7(8o9o0q1c2i3n4p5t6h7o8l]
+[DELETED: 5L9(0a m v w h a s s b o b s n b a b f 1c2S3T4r5f6A758A9(0s1(2o3(4(5w6(  ' o o m a p t o l o o7m8a9(0i1o2p]
+[DELETED: 5L3c4a5d o d o t w c a t l t a6c7(  ' m t r p t i o l o o8m9(0o1d2f3o4o5p b s w c a t u t a s a k6p7p8v9(0p p o s s u a p o a d o1e2(3c4o5(6(7t8v9(]
+[DELETED: 5L051E2n3o4(5w6(7(8i9(0w1(2a3w4(5w6h7b8o9(0w1(2o3o4t5t]
+[DELETED: 5L6(7s8s9(0o152E3n4o5(6l7w8(9s0(1o2o3t4t5(6o7k8(9t]
+[DELETED: 5L051(2p3a4e5(6b7o8c9(0r1u253N4f5(6o7(8o9(0n1l2(3t p a a t o a a g o a t i t o o o h4c]
+[DELETED: 5L5(6o7(8t9p0(1o2i3v4(5r6(7i8e9s051(2o3o4l5(6b7f8m9o n s a t n f a o o s m t0p]
+[DELETED: 5L1m2o3p455I6(7s8a9(0(1t2(3S4(5s6o7(8b o c b i i a c p o a t p f t9w0(1(2a3(4p5n6r o l a d T s b a r p t a]
+[DELETED: 5L7a8t p f t w c i l t t t p o f9a t a o o o s c a o p a0e152(3a4p o5m6t7s8s9(0C1(2o3S4S5t657(8s9i]
+[DELETED: 5L0(1v2d3(4i i b u a g w c p5e6t7a8a9a0i1(2o3a p o p f t p m a h e f a4j5t6r7(8(9i0b1(2h3(4(5a]
+[DELETED: 5L6(7s8(9l0C1a2c3c4(5o6m7m.8S9S051(2e3o4(5d6i7f8s9d0r1l]
+[DELETED: 5L2(3t4t5d6e7(8d9w0i152t3a4(5C6p7(8i9o0o1(2S3(4l5(6o7p]
+[DELETED: 5L8s a t c o a p o t e d o t A u s9a0S1A]

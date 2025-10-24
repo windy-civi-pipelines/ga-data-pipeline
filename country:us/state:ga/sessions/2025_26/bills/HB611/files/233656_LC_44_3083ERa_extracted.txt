@@ -1,0 +1,330 @@
+Title: House Bill 611
+Official Title: House Bill 611
+Number of Sections: 1
+Source: versions - LC 44 3083ER/a
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 44 3083ER
+By: Representatives Lumsden of the 12th, Hitchens of the 161st, Carpenter of the 4th,
+Anderson of the 10th, and DeLoach of the 167th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 5 of Title 12 of the Official Code of Georgia Annotated,
+2 relating to control of water pollution and surface-water use, so as to require publicly owned
+3 treatment works to seek information from industrial users relating to the manufacture or use
+4 of PFAS; to provide for definitions; to provide for legislative findings; to provide for a short
+5 title; to provide for related matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 This Act shall be known and may be cited as the "Forever Chemicals Transparency Act."
+9 SECTION 2.
+10 Article 2 of Chapter 5 of Title 12 of the Official Code of Georgia Annotated, relating to
+11 control of water pollution and surface-water use, is amended by adding a new Code section
+12 to read as follows:
+13 "12-5-30.5.
+14 (a)(1) The General Assembly finds that perfluoroalkyl and polyfluoroalkyl substances,
+15 a type of 'forever chemicals' known as PFAS, are widely used, persist in the environment,
+H. B. 611
+- 1 -
+25 LC 44 3083ER
+16 and are found in water, soil, air, fish, and wildlife. Studies have shown that many PFAS
+17 are found in the blood of people all over the world and that exposure to certain levels of
+18 PFAS may lead to an increased risk of some cancers, reduced ability of the body's
+19 immune system to fight infections, decreased fertility, and developmental effects such as
+20 low birth weight.
+21 (2) The General Assembly further finds that the division has found PFAS in surface
+22 waters and in public drinking water systems, including systems that use surface waters
+23 and ground water as source water, throughout this state. In addition, PFAS are difficult
+24 and expensive to remove from water, and ratepayers ultimately may bear the costs of
+25 removing PFAS from public drinking water and waste-water systems. Therefore, the
+26 General Assembly finds that the public has a right to know whether private industrial
+27 users may be discharging PFAS into publicly owned treatment works. To that end, the
+28 General Assembly finds that each publicly owned treatment works should determine
+29 whether any industrial dischargers to the publicly owned treatment works may be a
+30 source of PFAS.
+31 (b) As used in this Code section, the term:
+32 (1) 'Approved pretreatment program' means a program administered by a publicly owned
+33 treatment works that meets criteria established by the division and which has been
+34 approved by the division that establishes the procedures and practices to be followed
+35 relating to the application for and the issuance or revocation of pretreatment permits for
+36 the discharge of any pollutant into a publicly owned treatment works and then into the
+37 waters of this state.
+38 (2) 'Indirect discharge' means the introduction of pollutants into a publicly owned
+39 treatment works from any nondomestic source regulated under Section 307(b), (c), or (d)
+40 of the Federal Water Pollution Control Act, known as the Clean Water Act, as amended,
+41 33 U.S.C. 1251, et seq.
+H. B. 611
+- 2 -
+25 LC 44 3083ER
+42 (3) 'Industrial user' means any person that is a source of an indirect discharge or
+43 proposed indirect discharge.
+44 (4) 'PFAS' means perfluoroalkyl and polyfluoroalkyl substances, which is a group of
+45 man-made fluorinated compounds, many of which are hydrophobic and lipophobic, that
+46 are manufactured and used in a variety of industries globally. These compounds are
+47 persistent in the environment as well as in the human body. Such term includes any
+48 fluorinated substance that contains at least one fully fluorinated methyl or methylene
+49 carbon atom, including any precursors of such substances. Examples of PFAS include,
+50 but are not limited to, PFOA, PFOS, PFHxS, PFNA, HFPO-DA ,commonly known as
+51 GenX chemicals, and other chemicals identified in United States Environmental
+52 Protection Agency Method 1633.
+53 (5) 'Pretreatment' means the reduction of the amount of pollutants, the elimination of
+54 pollutants, or the alteration of the nature of pollutant properties in waste water prior to or
+55 in lieu of discharging or otherwise introducing such pollutants into a publicly owned
+56 treatment works.
+57 (6) 'Pretreatment permit' means any permit issued by a publicly owned treatment works
+58 with an approved pretreatment program to regulate the discharge of pollutants from any
+59 industrial user into a publicly owned treatment works and the waters of this state.
+60 (7) 'Publicly owned treatment works' means a treatment works as defined by Section 212
+61 of the federal Clean Water Act, which is owned by this state or a municipality. Such term
+62 includes any devices and systems used in the storage, treatment, recycling, and
+63 reclamation of municipal sewage or industrial wastes of a liquid nature. Such term also
+64 includes sewers, pipes, and other conveyances only if they convey waste water to a
+65 publicly owned treatment works. Such term also means the municipality, as defined in
+66 Section 502(4) of the federal Clean Water Act, which has jurisdiction over the indirect
+67 discharges to, and the discharges from, such a treatment works.
+68 (8) 'Significant industrial user' means:
+H. B. 611
+- 3 -
+25 LC 44 3083ER
+69 (A) All industrial users subject to categorical pretreatment standards under 40 C.F.R.
+70 Section 403.6 and 40 C.F.R. Chapter I, Subchapter N; and
+71 (B) Any other industrial user that:
+72 (i) Discharges an average of 25,000 gallons or more per day of process waste water
+73 to a publicly owned treatment works, excluding sanitary, noncontact cooling, and
+74 boiler blowdown waste water;
+75 (ii) Contributes a process waste stream which makes up 5 percent or more of the
+76 average dry weather hydraulic or organic capacity of the publicly owned treatment
+77 works; or
+78 (iii) Is designated as such by a control authority on the basis that the industrial user
+79 has a reasonable potential for adversely affecting the publicly owned treatment works'
+80 operation or for violating any pretreatment standard or requirement in accordance
+81 with 40 C.F.R. Section 403.8(f)(6).
+82 (c) Any industrial user or significant industrial user discharging or proposing to discharge
+83 PFAS into a publicly owned treatment works shall have a duty to disclose the discharge or
+84 proposed discharge of PFAS in accordance with this Code section.
+85 (d) No later than December 31, 2025, each publicly owned treatment works shall request
+86 the following information from each of its industrial users and significant industrial users:
+87 (1) Whether the industrial user or significant industrial user:
+88 (A) Manufactures one or more PFAS;
+89 (B) Produces any products, by-products, wastes, or other materials known or
+90 reasonably suspected to contain PFAS; and
+91 (C) Uses in its industrial processes any raw materials, commercial products, or other
+92 substances or materials known or reasonably suspected to contain PFAS; and
+93 (2) If the industrial user or significant industrial user responds affirmatively to any
+94 question posed in paragraph (1) of this subsection, then the industrial user or significant
+95 industrial user shall:
+H. B. 611
+- 4 -
+25 LC 44 3083ER
+96 (A) Identify the known or suspected PFAS and the products, by-products, wastes, raw
+97 materials, commercial products, or other substances or materials known or suspected
+98 to contain PFAS; and
+99 (B) State whether the industrial user or significant industrial user has implemented or
+100 proposes to implement best management practices to reduce or eliminate the discharge
+101 of PFAS to the publicly owned treatment works and, if so, explain those best
+102 management practices and how they will reduce or eliminate those discharges to the
+103 publicly owned treatment works.
+104 (e) No later than April 1, 2026, and on an annual basis thereafter, each industrial user and
+105 significant industrial user shall provide the information requested in subsection (d) of this
+106 Code section to the publicly owned treatment works to which it discharges and shall send
+107 a copy of such information to the division.
+108 (f) Beginning April 1, 2026, any industrial user seeking a pretreatment permit, or the
+109 reissuance of a pretreatment permit, from a publicly owned treatment works with an
+110 approved pretreatment program shall provide the information requested in subsection (d)
+111 of this Code section in its pretreatment permit application and shall send a copy of such
+112 information to the division.
+113 (g) All information submitted to a publicly owned treatment works under this Code
+114 section shall be certified in writing by a responsible corporate officer, general partner, or
+115 sole proprietor, as applicable, or a representative of the applicable industrial user or
+116 significant industrial user who is responsible for the overall operation of the facility from
+117 which the discharge originates, such as a plant manager or superintendent. The person so
+118 certifying the information shall state the following: 'I certify under penalty of law that the
+119 information submitted with this certification is, to the best of my knowledge and belief,
+120 true, accurate, and complete. I am aware that I may be subject to significant penalties for
+121 submitting false information, including the possibility of fine and imprisonment for
+122 knowing violations.'
+H. B. 611
+- 5 -
+25 LC 44 3083ER
+123 (h) The Board of Natural Resources is authorized to adopt and enforce rules and
+124 regulations as may be necessary to implement this Code section."
+125 SECTION 3.
+126 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 611
+- 6 -
+[DELETED: 5L R L o t 12, H o t 11, C o t 4hstt0,7ht]
+[DELETED: 5L h  ' d m t i o p i a p o]
+[DELETED: 5L  ' u m a p t i a s o a i d o c a o c i i U S E a d a s u i t s t r a]
+[DELETED: 5L  P a p b w o o m k o]
+[DELETED: 5L P t t p o t w a i s e t b p a a o a r o t a i u o f i i t p o f a i f]
+[DELETED: 5L  T B o N R i a t a a e r a]
+
+
+================================================================================
+
+Raw Text:
+25 LC 44 3083ER
+House Bill 611
+By: Representatives Lumsden of the 12th, Hitchens of the 161st, Carpenter of the 4th,
+Anderson of the 10th, and DeLoach of the 167th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 5 of Title 12 of the Official Code of Georgia Annotated,
+2 relating to control of water pollution and surface-water use, so as to require publicly owned
+3 treatment works to seek information from industrial users relating to the manufacture or use
+4 of PFAS; to provide for definitions; to provide for legislative findings; to provide for a short
+5 title; to provide for related matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 This Act shall be known and may be cited as the "Forever Chemicals Transparency Act."
+9 SECTION 2.
+10 Article 2 of Chapter 5 of Title 12 of the Official Code of Georgia Annotated, relating to
+11 control of water pollution and surface-water use, is amended by adding a new Code section
+12 to read as follows:
+13 "12-5-30.5.
+14 (a)(1) The General Assembly finds that perfluoroalkyl and polyfluoroalkyl substances,
+15 a type of 'forever chemicals' known as PFAS, are widely used, persist in the environment,
+H. B. 611
+- 1 -
+
+25 LC 44 3083ER
+16 and are found in water, soil, air, fish, and wildlife. Studies have shown that many PFAS
+17 are found in the blood of people all over the world and that exposure to certain levels of
+18 PFAS may lead to an increased risk of some cancers, reduced ability of the body's
+19 immune system to fight infections, decreased fertility, and developmental effects such as
+20 low birth weight.
+21 (2) The General Assembly further finds that the division has found PFAS in surface
+22 waters and in public drinking water systems, including systems that use surface waters
+23 and ground water as source water, throughout this state. In addition, PFAS are difficult
+24 and expensive to remove from water, and ratepayers ultimately may bear the costs of
+25 removing PFAS from public drinking water and waste-water systems. Therefore, the
+26 General Assembly finds that the public has a right to know whether private industrial
+27 users may be discharging PFAS into publicly owned treatment works. To that end, the
+28 General Assembly finds that each publicly owned treatment works should determine
+29 whether any industrial dischargers to the publicly owned treatment works may be a
+30 source of PFAS.
+31 (b) As used in this Code section, the term:
+32 (1) 'Approved pretreatment program' means a program administered by a publicly owned
+33 treatment works that meets criteria established by the division and which has been
+34 approved by the division that establishes the procedures and practices to be followed
+35 relating to the application for and the issuance or revocation of pretreatment permits for
+36 the discharge of any pollutant into a publicly owned treatment works and then into the
+37 waters of this state.
+38 (2) 'Indirect discharge' means the introduction of pollutants into a publicly owned
+39 treatment works from any nondomestic source regulated under Section 307(b), (c), or (d)
+40 of the Federal Water Pollution Control Act, known as the Clean Water Act, as amended,
+41 33 U.S.C. 1251, et seq.
+H. B. 611
+- 2 -
+
+25 LC 44 3083ER
+42 (3) 'Industrial user' means any person that is a source of an indirect discharge or
+43 proposed indirect discharge.
+44 (4) 'PFAS' means perfluoroalkyl and polyfluoroalkyl substances, which is a group of
+45 man-made fluorinated compounds, many of which are hydrophobic and lipophobic, that
+46 are manufactured and used in a variety of industries globally. These compounds are
+47 persistent in the environment as well as in the human body. Such term includes any
+48 fluorinated substance that contains at least one fully fluorinated methyl or methylene
+49 carbon atom, including any precursors of such substances. Examples of PFAS include,
+50 but are not limited to, PFOA, PFOS, PFHxS, PFNA, HFPO-DA ,commonly known as
+51 GenX chemicals, and other chemicals identified in United States Environmental
+52 Protection Agency Method 1633.
+53 (5) 'Pretreatment' means the reduction of the amount of pollutants, the elimination of
+54 pollutants, or the alteration of the nature of pollutant properties in waste water prior to or
+55 in lieu of discharging or otherwise introducing such pollutants into a publicly owned
+56 treatment works.
+57 (6) 'Pretreatment permit' means any permit issued by a publicly owned treatment works
+58 with an approved pretreatment program to regulate the discharge of pollutants from any
+59 industrial user into a publicly owned treatment works and the waters of this state.
+60 (7) 'Publicly owned treatment works' means a treatment works as defined by Section 212
+61 of the federal Clean Water Act, which is owned by this state or a municipality. Such term
+62 includes any devices and systems used in the storage, treatment, recycling, and
+63 reclamation of municipal sewage or industrial wastes of a liquid nature. Such term also
+64 includes sewers, pipes, and other conveyances only if they convey waste water to a
+65 publicly owned treatment works. Such term also means the municipality, as defined in
+66 Section 502(4) of the federal Clean Water Act, which has jurisdiction over the indirect
+67 discharges to, and the discharges from, such a treatment works.
+68 (8) 'Significant industrial user' means:
+H. B. 611
+- 3 -
+
+25 LC 44 3083ER
+69 (A) All industrial users subject to categorical pretreatment standards under 40 C.F.R.
+70 Section 403.6 and 40 C.F.R. Chapter I, Subchapter N; and
+71 (B) Any other industrial user that:
+72 (i) Discharges an average of 25,000 gallons or more per day of process waste water
+73 to a publicly owned treatment works, excluding sanitary, noncontact cooling, and
+74 boiler blowdown waste water;
+75 (ii) Contributes a process waste stream which makes up 5 percent or more of the
+76 average dry weather hydraulic or organic capacity of the publicly owned treatment
+77 works; or
+78 (iii) Is designated as such by a control authority on the basis that the industrial user
+79 has a reasonable potential for adversely affecting the publicly owned treatment works'
+80 operation or for violating any pretreatment standard or requirement in accordance
+81 with 40 C.F.R. Section 403.8(f)(6).
+82 (c) Any industrial user or significant industrial user discharging or proposing to discharge
+83 PFAS into a publicly owned treatment works shall have a duty to disclose the discharge or
+84 proposed discharge of PFAS in accordance with this Code section.
+85 (d) No later than December 31, 2025, each publicly owned treatment works shall request
+86 the following information from each of its industrial users and significant industrial users:
+87 (1) Whether the industrial user or significant industrial user:
+88 (A) Manufactures one or more PFAS;
+89 (B) Produces any products, by-products, wastes, or other materials known or
+90 reasonably suspected to contain PFAS; and
+91 (C) Uses in its industrial processes any raw materials, commercial products, or other
+92 substances or materials known or reasonably suspected to contain PFAS; and
+93 (2) If the industrial user or significant industrial user responds affirmatively to any
+94 question posed in paragraph (1) of this subsection, then the industrial user or significant
+95 industrial user shall:
+H. B. 611
+- 4 -
+
+25 LC 44 3083ER
+96 (A) Identify the known or suspected PFAS and the products, by-products, wastes, raw
+97 materials, commercial products, or other substances or materials known or suspected
+98 to contain PFAS; and
+99 (B) State whether the industrial user or significant industrial user has implemented or
+100 proposes to implement best management practices to reduce or eliminate the discharge
+101 of PFAS to the publicly owned treatment works and, if so, explain those best
+102 management practices and how they will reduce or eliminate those discharges to the
+103 publicly owned treatment works.
+104 (e) No later than April 1, 2026, and on an annual basis thereafter, each industrial user and
+105 significant industrial user shall provide the information requested in subsection (d) of this
+106 Code section to the publicly owned treatment works to which it discharges and shall send
+107 a copy of such information to the division.
+108 (f) Beginning April 1, 2026, any industrial user seeking a pretreatment permit, or the
+109 reissuance of a pretreatment permit, from a publicly owned treatment works with an
+110 approved pretreatment program shall provide the information requested in subsection (d)
+111 of this Code section in its pretreatment permit application and shall send a copy of such
+112 information to the division.
+113 (g) All information submitted to a publicly owned treatment works under this Code
+114 section shall be certified in writing by a responsible corporate officer, general partner, or
+115 sole proprietor, as applicable, or a representative of the applicable industrial user or
+116 significant industrial user who is responsible for the overall operation of the facility from
+117 which the discharge originates, such as a plant manager or superintendent. The person so
+118 certifying the information shall state the following: 'I certify under penalty of law that the
+119 information submitted with this certification is, to the best of my knowledge and belief,
+120 true, accurate, and complete. I am aware that I may be subject to significant penalties for
+121 submitting false information, including the possibility of fine and imprisonment for
+122 knowing violations.'
+H. B. 611
+- 5 -
+
+25 LC 44 3083ER
+123 (h) The Board of Natural Resources is authorized to adopt and enforce rules and
+124 regulations as may be necessary to implement this Code section."
+125 SECTION 3.
+126 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 611
+- 6 -
+
+[DELETED: 5L R L o t 12, H o t 11, C o t 4hstt0,7ht]
+[DELETED: 5L h  ' d m t i o p i a p o]
+[DELETED: 5L  ' u m a p t i a s o a i d o c a o c i i U S E a d a s u i t s t r a]
+[DELETED: 5L  P a p b w o o m k o]
+[DELETED: 5L P t t p o t w a i s e t b p a a o a r o t a i u o f i i t p o f a i f]
+[DELETED: 5L  T B o N R i a t a a e r a]

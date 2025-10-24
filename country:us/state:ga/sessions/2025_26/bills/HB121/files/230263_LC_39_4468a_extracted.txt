@@ -1,0 +1,430 @@
+Title: House Bill 121
+Official Title: House Bill 121
+Number of Sections: 1
+Source: versions - LC 39 4468/a
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4468
+By: Representatives Byrd of the 20th and Kahaian of the 81st
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated,
+2 relating to dangerous instrumentalities and practices, so as to provide for protections against
+3 the infringements on the right to keep and bear arms; to provide for a short title; to provide
+4 for legislative findings and intent; to provide for definitions; to prohibit public officers or
+5 employees from enforcing or providing assistance for the enforcement of federal laws or
+6 actions relative to firearms, firearm accessories, and ammunition; to provide for causes of
+7 action; to provide for hearings; to provide for civil penalties; to provide for attorney's fees
+8 and costs; to waive sovereign immunity; to provide for applicability; to provide for related
+9 matters; to provide for an effective date and applicability; to repeal conflicting laws; and for
+10 other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to
+14 dangerous instrumentalities and practices, is amended by adding a new part to read as
+15 follows:
+H. B. 121
+- 1 -
+25 LC 39 4468
+16 "Part 6
+17 16-11-180.
+18 This part shall be known and may be cited as the 'Second Amendment Preservation Act.'
+19 16-11-181.
+20 The General Assembly finds and declares that:
+21 (1) The General Assembly is firmly resolved to support and defend the Constitution of
+22 the United States against every aggression, whether foreign or domestic, and is duty
+23 bound to oppose every infraction of those foundational principles that constitute the basis
+24 of the union of the states because only a faithful observance of those principles can secure
+25 the union's existence and public happiness;
+26 (2) Acting through the Constitution of the United States, the people of the several states
+27 created the federal government to be their agent in the exercise of a few defined powers,
+28 while reserving for the state governments the power to legislate on matters concerning
+29 the lives, liberties, and properties of citizens in the ordinary course of affairs;
+30 (3) The limitation of the federal government's power is affirmed under the
+31 Tenth Amendment to the Constitution of the United States, which defines the total scope
+32 of federal power as being that which has been delegated by the people of the several
+33 states to the federal government, and all power not delegated to the federal government
+34 in the Constitution of the United States is reserved to the states respectively or to the
+35 people themselves;
+36 (4) If the federal government assumes powers that the people did not grant it in the
+37 Constitution of the United States, its acts are authoritative and of no force;
+38 (5) The several states of the United States respect the proper role of the federal
+39 government but reject the proposition that such respect requires unlimited submission.
+40 If the government, created by a compact among the states, was the exclusive or final
+H. B. 121
+- 2 -
+25 LC 39 4468
+41 judge of the extent of the powers granted to it by the states through the Constitution of
+42 the United States, the federal government's discretion, and not the Constitution of the
+43 United States, would necessarily become the measure of those powers. To the contrary,
+44 as in all other cases of compacts among powers having no common judge, each party has
+45 an equal right to judge for itself as to whether infractions of the compact have occurred,
+46 as well as to determine the mode and measure of redress. Although the several states
+47 have granted supremacy to laws and treaties made under the powers granted in the
+48 Constitution of the United States, such supremacy does not extend to various federal
+49 statutes, executive orders, administrative orders, court orders, rules, regulations, or other
+50 actions which collect data or restrict or prohibit the manufacture, ownership, and use of
+51 firearms, firearm accessories, or ammunition exclusively within the borders of this state;
+52 such statutes, executive orders, administrative orders, court orders, rules, regulations, and
+53 other actions exceed the powers granted to the federal government, except to the extent
+54 that they are necessary and proper for governing and regulating the United States armed
+55 forces or for organizing, arming, and disciplining militia forces actively employed in the
+56 service of the United States armed forces;
+57 (6) The people of the several states have given Congress the power 'to regulate
+58 commerce with foreign nations, and among the several states,' but 'regulating commerce'
+59 does not include the power to limit citizens' right to keep and bear arms in defense of
+60 their families, neighbors, persons, or property, or to dictate what sort of arms and
+61 accessories law-abiding citizens may buy, sell, exchange, or otherwise possess within the
+62 borders of this state;
+63 (7) The people of the several states have also granted Congress the power 'to lay and
+64 collect taxes, duties, imports, and excises, to pay the debts, and provide for the common
+65 defense and general welfare of the United States' and 'to make all laws which shall be
+66 necessary and proper for carrying into execution the powers vested by the Constitution
+67 of the United States in the government of the United States, or in any department or
+H. B. 121
+- 3 -
+25 LC 39 4468
+68 office thereof.' These constitutional provisions merely identify the means by which the
+69 federal government may execute its limited powers and shall not be construed to grant
+70 unlimited power, because to do so would be to destroy the carefully constructed
+71 equilibrium between the federal and state governments. Consequently, the General
+72 Assembly rejects any claim that the taxing and spending powers of Congress may be used
+73 to diminish in any way the right of the people to keep and bear arms;
+74 (8) The General Assembly finds that the federal excise tax rate on arms and ammunition
+75 in effect prior to January 1, 2025, which funds programs under the federal Wildlife
+76 Restoration Act, does not have a chilling effect on the purchase or ownership of such
+77 arms and ammunition;
+78 (9) The people of this state have vested the General Assembly with the authority to
+79 regulate the manufacture, possession, exchange, and use of firearms within the borders
+80 of this state, subject only to the limits imposed by the Second Amendment to the
+81 Constitution of the United States and Article I, Section I, Paragraph 8 of the Constitution
+82 of Georgia; and
+83 (10) The General Assembly strongly promotes responsible gun ownership, including
+84 parental supervision of minors in the proper use, storage, and ownership of all firearms;
+85 the prompt reporting of stolen firearms; and the proper enforcement of all state gun laws.
+86 The General Assembly hereby condemns any unlawful transfer of firearms and the use
+87 of any firearm in any criminal or unlawful activity.
+88 16-11-182.
+89 As used in this part, the term:
+90 (1) 'Law-abiding citizen' means an individual who is not otherwise precluded under state
+91 law from possessing a firearm and shall not be construed to include anyone who is not
+92 legally present in the United States or the State of Georgia.
+H. B. 121
+- 4 -
+25 LC 39 4468
+93 (2) 'Material aid' means and includes voluntarily giving or allowing others to make use
+94 of lodging; communications equipment or services, including social media accounts;
+95 facilities; weapons; personnel; transportation; clothing; or other physical assets. Material
+96 aid shall not include giving or allowing the use of medicine or other materials necessary
+97 to treat physical injuries or assistance provided to help persons escape a serious, present
+98 risk of life-threatening injury.
+99 16-11-183.
+100 (a) No public officer or employee of this state or any political subdivision thereof shall
+101 have the authority to enforce, attempt to enforce, or participate in any way in the
+102 enforcement of any federal acts, executive orders, administrative orders, rules, regulations,
+103 statutes, or ordinances regarding firearms, firearm accessories, or ammunition.
+104 (b) No public office, public officer, or employee of this state or any political subdivision
+105 thereof shall accede to a request to give material aid or support to the efforts of the other
+106 in the enforcement of or implementation of any federal acts, executive orders,
+107 administrative orders, rules, regulations, statutes, or ordinances regarding firearms, firearm
+108 accessories, or ammunition.
+109 16-11-184.
+110 (a) Any political subdivision or law enforcement agency that employs a law enforcement
+111 officer who knowingly violates Code Section 16-11-183 while acting under the color of
+112 any state or federal law, shall be liable to the injured party in an action at law, suit in
+113 equity, or other proper proceeding for redress and subject to a civil penalty of $50,000.00
+114 per occurrence.
+115 (b) Any person injured under this Code section shall have standing to bring an action for
+116 injunctive relief in the superior court of the county where the political subdivision or law
+117 enforcement agency is located. The superior court shall hold a hearing upon the motion
+H. B. 121
+- 5 -
+25 LC 39 4468
+118 for a temporary restraining order and preliminary injunction within 30 days of service of
+119 the petition.
+120 (c) In any action brought pursuant to this Code section, the court may award the prevailing
+121 party, other than the State of Georgia or any political subdivision thereof, reasonable
+122 attorney's fees and costs.
+123 (d) Sovereign, official, or qualified immunity shall not be an affirmative defense in any
+124 action brought pursuant to this Code section and is hereby waived.
+125 16-11-185.
+126 (a) Any political subdivision or law enforcement agency that knowingly employs an
+127 individual acting or who previously acted as an official, agent, employee, or deputy of the
+128 government of the United States, or otherwise acted under the color of federal law within
+129 this state, who knowingly commits any of the following acts on or after July 1, 2025, shall
+130 be subject to a civil penalty of $50,000.00 per employee hired by the political subdivision
+131 or law enforcement agency:
+132 (1) Enforces, attempts to enforce, or participates in any manner in the enforcement or
+133 implementation of any federal acts, executive orders, administrative orders, rules,
+134 regulations, statutes, or ordinances regarding firearms, firearm accessories, or
+135 ammunition; or
+136 (2) Gives material aid or support to the efforts of another in the enforcement or
+137 implementation of any federal acts, executive orders, administrative orders, rules,
+138 regulations, statutes, or ordinances regarding firearms, firearm accessories, or
+139 ammunition.
+140 (b) Any person residing in a political subdivision of this state who believes that an
+141 individual has taken action that would violate the provisions of this Code section shall have
+142 standing to bring an action for such civil damages.
+H. B. 121
+- 6 -
+25 LC 39 4468
+143 (c) Any person residing or conducting business in a jurisdiction in this state who believes
+144 that an individual has taken action that would violate the provisions of this Code section
+145 shall have standing to bring an action for injunctive relief in the superior court of the
+146 county where the political subdivision or law enforcement agency is located.
+147 (d) The court shall hold a hearing upon the motion for a temporary restraining order and
+148 preliminary injunction within 30 days of service of the petition.
+149 (e) In any action brought pursuant to this Code section, the court may award the prevailing
+150 party, other than the State of Georgia or any political subdivision thereof, reasonable
+151 attorney's fees and costs.
+152 (f) Sovereign, official, or qualified immunity shall not be an affirmative defense in such
+153 actions and is hereby waived.
+154 16-11-186.
+155 (a) Nothing in this part shall prohibit officials of this state from accepting aid from federal
+156 officials for the enforcement of the laws of this state.
+157 (b) Nothing in this part shall prohibit the aid to federal officials who are in pursuit of a
+158 suspect when there is a demonstrable criminal nexus with another state or country and such
+159 suspect is neither a citizen of this state nor is present in this state.
+160 (c) Nothing in this part shall apply to the provision of material aid for a federal prosecution
+161 for any violations comparable to felony violations of Chapter 5 of this title or felony
+162 violations of Chapter 13 of this title relating to Schedule I and Schedule II controlled
+163 substances, so long as such weapons violations are ancillary to such prosecution."
+164 SECTION 2.
+165 This Act shall become effective on July 1, 2025, and shall be applicable to offenses
+166 committed on and after such date.
+H. B. 121
+- 7 -
+25 LC 39 4468
+167 SECTION 3.
+168 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 121
+- 8 -
+[DELETED: 5L0 1hs]
+[DELETED: 5L  T l o t f g p i a u t  T s s o t U S r t p r o t f]
+[DELETED: 5L  T p o t s s h g C t p ' r f n p o p o t d w s o a a]
+[DELETED: 5L p b t d s w b t d t c c t s s o t t l i b t S A t t]
+[DELETED: 5L t a t e a t e o p i a w i t t e o o i o a f a e o]
+[DELETED: 5L o a f a e o a o r s o o r f f a o  G m a o s t t e o a i t e o o a f a e o a o r s o o r f f a o]
+[DELETED: 5L A s b e o J 1 2 a s b a t o]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4468
+House Bill 121
+By: Representatives Byrd of the 20th and Kahaian of the 81st
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated,
+2 relating to dangerous instrumentalities and practices, so as to provide for protections against
+3 the infringements on the right to keep and bear arms; to provide for a short title; to provide
+4 for legislative findings and intent; to provide for definitions; to prohibit public officers or
+5 employees from enforcing or providing assistance for the enforcement of federal laws or
+6 actions relative to firearms, firearm accessories, and ammunition; to provide for causes of
+7 action; to provide for hearings; to provide for civil penalties; to provide for attorney's fees
+8 and costs; to waive sovereign immunity; to provide for applicability; to provide for related
+9 matters; to provide for an effective date and applicability; to repeal conflicting laws; and for
+10 other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to
+14 dangerous instrumentalities and practices, is amended by adding a new part to read as
+15 follows:
+H. B. 121
+- 1 -
+
+25 LC 39 4468
+16 "Part 6
+17 16-11-180.
+18 This part shall be known and may be cited as the 'Second Amendment Preservation Act.'
+19 16-11-181.
+20 The General Assembly finds and declares that:
+21 (1) The General Assembly is firmly resolved to support and defend the Constitution of
+22 the United States against every aggression, whether foreign or domestic, and is duty
+23 bound to oppose every infraction of those foundational principles that constitute the basis
+24 of the union of the states because only a faithful observance of those principles can secure
+25 the union's existence and public happiness;
+26 (2) Acting through the Constitution of the United States, the people of the several states
+27 created the federal government to be their agent in the exercise of a few defined powers,
+28 while reserving for the state governments the power to legislate on matters concerning
+29 the lives, liberties, and properties of citizens in the ordinary course of affairs;
+30 (3) The limitation of the federal government's power is affirmed under the
+31 Tenth Amendment to the Constitution of the United States, which defines the total scope
+32 of federal power as being that which has been delegated by the people of the several
+33 states to the federal government, and all power not delegated to the federal government
+34 in the Constitution of the United States is reserved to the states respectively or to the
+35 people themselves;
+36 (4) If the federal government assumes powers that the people did not grant it in the
+37 Constitution of the United States, its acts are authoritative and of no force;
+38 (5) The several states of the United States respect the proper role of the federal
+39 government but reject the proposition that such respect requires unlimited submission.
+40 If the government, created by a compact among the states, was the exclusive or final
+H. B. 121
+- 2 -
+
+25 LC 39 4468
+41 judge of the extent of the powers granted to it by the states through the Constitution of
+42 the United States, the federal government's discretion, and not the Constitution of the
+43 United States, would necessarily become the measure of those powers. To the contrary,
+44 as in all other cases of compacts among powers having no common judge, each party has
+45 an equal right to judge for itself as to whether infractions of the compact have occurred,
+46 as well as to determine the mode and measure of redress. Although the several states
+47 have granted supremacy to laws and treaties made under the powers granted in the
+48 Constitution of the United States, such supremacy does not extend to various federal
+49 statutes, executive orders, administrative orders, court orders, rules, regulations, or other
+50 actions which collect data or restrict or prohibit the manufacture, ownership, and use of
+51 firearms, firearm accessories, or ammunition exclusively within the borders of this state;
+52 such statutes, executive orders, administrative orders, court orders, rules, regulations, and
+53 other actions exceed the powers granted to the federal government, except to the extent
+54 that they are necessary and proper for governing and regulating the United States armed
+55 forces or for organizing, arming, and disciplining militia forces actively employed in the
+56 service of the United States armed forces;
+57 (6) The people of the several states have given Congress the power 'to regulate
+58 commerce with foreign nations, and among the several states,' but 'regulating commerce'
+59 does not include the power to limit citizens' right to keep and bear arms in defense of
+60 their families, neighbors, persons, or property, or to dictate what sort of arms and
+61 accessories law-abiding citizens may buy, sell, exchange, or otherwise possess within the
+62 borders of this state;
+63 (7) The people of the several states have also granted Congress the power 'to lay and
+64 collect taxes, duties, imports, and excises, to pay the debts, and provide for the common
+65 defense and general welfare of the United States' and 'to make all laws which shall be
+66 necessary and proper for carrying into execution the powers vested by the Constitution
+67 of the United States in the government of the United States, or in any department or
+H. B. 121
+- 3 -
+
+25 LC 39 4468
+68 office thereof.' These constitutional provisions merely identify the means by which the
+69 federal government may execute its limited powers and shall not be construed to grant
+70 unlimited power, because to do so would be to destroy the carefully constructed
+71 equilibrium between the federal and state governments. Consequently, the General
+72 Assembly rejects any claim that the taxing and spending powers of Congress may be used
+73 to diminish in any way the right of the people to keep and bear arms;
+74 (8) The General Assembly finds that the federal excise tax rate on arms and ammunition
+75 in effect prior to January 1, 2025, which funds programs under the federal Wildlife
+76 Restoration Act, does not have a chilling effect on the purchase or ownership of such
+77 arms and ammunition;
+78 (9) The people of this state have vested the General Assembly with the authority to
+79 regulate the manufacture, possession, exchange, and use of firearms within the borders
+80 of this state, subject only to the limits imposed by the Second Amendment to the
+81 Constitution of the United States and Article I, Section I, Paragraph 8 of the Constitution
+82 of Georgia; and
+83 (10) The General Assembly strongly promotes responsible gun ownership, including
+84 parental supervision of minors in the proper use, storage, and ownership of all firearms;
+85 the prompt reporting of stolen firearms; and the proper enforcement of all state gun laws.
+86 The General Assembly hereby condemns any unlawful transfer of firearms and the use
+87 of any firearm in any criminal or unlawful activity.
+88 16-11-182.
+89 As used in this part, the term:
+90 (1) 'Law-abiding citizen' means an individual who is not otherwise precluded under state
+91 law from possessing a firearm and shall not be construed to include anyone who is not
+92 legally present in the United States or the State of Georgia.
+H. B. 121
+- 4 -
+
+25 LC 39 4468
+93 (2) 'Material aid' means and includes voluntarily giving or allowing others to make use
+94 of lodging; communications equipment or services, including social media accounts;
+95 facilities; weapons; personnel; transportation; clothing; or other physical assets. Material
+96 aid shall not include giving or allowing the use of medicine or other materials necessary
+97 to treat physical injuries or assistance provided to help persons escape a serious, present
+98 risk of life-threatening injury.
+99 16-11-183.
+100 (a) No public officer or employee of this state or any political subdivision thereof shall
+101 have the authority to enforce, attempt to enforce, or participate in any way in the
+102 enforcement of any federal acts, executive orders, administrative orders, rules, regulations,
+103 statutes, or ordinances regarding firearms, firearm accessories, or ammunition.
+104 (b) No public office, public officer, or employee of this state or any political subdivision
+105 thereof shall accede to a request to give material aid or support to the efforts of the other
+106 in the enforcement of or implementation of any federal acts, executive orders,
+107 administrative orders, rules, regulations, statutes, or ordinances regarding firearms, firearm
+108 accessories, or ammunition.
+109 16-11-184.
+110 (a) Any political subdivision or law enforcement agency that employs a law enforcement
+111 officer who knowingly violates Code Section 16-11-183 while acting under the color of
+112 any state or federal law, shall be liable to the injured party in an action at law, suit in
+113 equity, or other proper proceeding for redress and subject to a civil penalty of $50,000.00
+114 per occurrence.
+115 (b) Any person injured under this Code section shall have standing to bring an action for
+116 injunctive relief in the superior court of the county where the political subdivision or law
+117 enforcement agency is located. The superior court shall hold a hearing upon the motion
+H. B. 121
+- 5 -
+
+25 LC 39 4468
+118 for a temporary restraining order and preliminary injunction within 30 days of service of
+119 the petition.
+120 (c) In any action brought pursuant to this Code section, the court may award the prevailing
+121 party, other than the State of Georgia or any political subdivision thereof, reasonable
+122 attorney's fees and costs.
+123 (d) Sovereign, official, or qualified immunity shall not be an affirmative defense in any
+124 action brought pursuant to this Code section and is hereby waived.
+125 16-11-185.
+126 (a) Any political subdivision or law enforcement agency that knowingly employs an
+127 individual acting or who previously acted as an official, agent, employee, or deputy of the
+128 government of the United States, or otherwise acted under the color of federal law within
+129 this state, who knowingly commits any of the following acts on or after July 1, 2025, shall
+130 be subject to a civil penalty of $50,000.00 per employee hired by the political subdivision
+131 or law enforcement agency:
+132 (1) Enforces, attempts to enforce, or participates in any manner in the enforcement or
+133 implementation of any federal acts, executive orders, administrative orders, rules,
+134 regulations, statutes, or ordinances regarding firearms, firearm accessories, or
+135 ammunition; or
+136 (2) Gives material aid or support to the efforts of another in the enforcement or
+137 implementation of any federal acts, executive orders, administrative orders, rules,
+138 regulations, statutes, or ordinances regarding firearms, firearm accessories, or
+139 ammunition.
+140 (b) Any person residing in a political subdivision of this state who believes that an
+141 individual has taken action that would violate the provisions of this Code section shall have
+142 standing to bring an action for such civil damages.
+H. B. 121
+- 6 -
+
+25 LC 39 4468
+143 (c) Any person residing or conducting business in a jurisdiction in this state who believes
+144 that an individual has taken action that would violate the provisions of this Code section
+145 shall have standing to bring an action for injunctive relief in the superior court of the
+146 county where the political subdivision or law enforcement agency is located.
+147 (d) The court shall hold a hearing upon the motion for a temporary restraining order and
+148 preliminary injunction within 30 days of service of the petition.
+149 (e) In any action brought pursuant to this Code section, the court may award the prevailing
+150 party, other than the State of Georgia or any political subdivision thereof, reasonable
+151 attorney's fees and costs.
+152 (f) Sovereign, official, or qualified immunity shall not be an affirmative defense in such
+153 actions and is hereby waived.
+154 16-11-186.
+155 (a) Nothing in this part shall prohibit officials of this state from accepting aid from federal
+156 officials for the enforcement of the laws of this state.
+157 (b) Nothing in this part shall prohibit the aid to federal officials who are in pursuit of a
+158 suspect when there is a demonstrable criminal nexus with another state or country and such
+159 suspect is neither a citizen of this state nor is present in this state.
+160 (c) Nothing in this part shall apply to the provision of material aid for a federal prosecution
+161 for any violations comparable to felony violations of Chapter 5 of this title or felony
+162 violations of Chapter 13 of this title relating to Schedule I and Schedule II controlled
+163 substances, so long as such weapons violations are ancillary to such prosecution."
+164 SECTION 2.
+165 This Act shall become effective on July 1, 2025, and shall be applicable to offenses
+166 committed on and after such date.
+H. B. 121
+- 7 -
+
+25 LC 39 4468
+167 SECTION 3.
+168 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 121
+- 8 -
+
+[DELETED: 5L0 1hs]
+[DELETED: 5L  T l o t f g p i a u t  T s s o t U S r t p r o t f]
+[DELETED: 5L  T p o t s s h g C t p ' r f n p o p o t d w s o a a]
+[DELETED: 5L p b t d s w b t d t c c t s s o t t l i b t S A t t]
+[DELETED: 5L t a t e a t e o p i a w i t t e o o i o a f a e o]
+[DELETED: 5L o a f a e o a o r s o o r f f a o  G m a o s t t e o a i t e o o a f a e o a o r s o o r f f a o]
+[DELETED: 5L A s b e o J 1 2 a s b a t o]
+[DELETED: 5L]

@@ -1,0 +1,2638 @@
+Title: House Bill 15 (AS PASSED HOUSE AND SENATE)
+Official Title: House Bill 15 (AS PASSED HOUSE AND SENATE)
+Number of Sections: 1
+Source: versions - HB 15/AP*
+Media Type: application/pdf
+Strikethrough Detection: 44 sections found
+
+================================================================================
+
+Section 1:
+25 LC 62 0051/AP
+By: Representatives Williamson of the 112th, Williams of the 148th, Douglas of the 78th,
+Dickey of the 134th, Ridley of the 6th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 7 of the Official Code of Georgia Annotated, relating to banking and finance,
+2 so as to update terminology; to revise procedures concerning incorporators of credit unions;
+3 to revise requirements of articles of incorporation of credit unions; to revise licensure
+4 requirements for money transmissions, cashing payment instruments, mortgage lenders and
+5 mortgage brokers, foreign banking institutions, and installment loans; to provide for revised
+6 auditing procedures for mortgage lenders and mortgage brokers; to provide for corporate
+7 governance requirements for mortgage lenders and mortgage brokers; to provide for liquidity
+8 requirements for mortgage lenders and mortgage brokers; to revise requirements for
+9 applications to relocate for foreign banking institutions; to revise background check
+10 procedures for merchant acquirer limited purpose banks; to provide for regulation by the
+11 Department of Banking and Finance of installment loans and merchant acquirer limited
+12 purpose banks; to revise deposit requirements for merchant acquirer limited purpose banks;
+13 to provide for definitions; to revise cross-references; to provide for related matters; to repeal
+14 conflicting laws; and for other purposes.
+15 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 15
+- 1 -
+25 LC 62 0051/AP
+16 SECTION 1.
+17 Title 7 of the Official Code of Georgia Annotated, relating to banking and finance, is
+18 amended in Article 1 of Chapter 1, relating to department of banking and finance and
+19 financial institutions generally, by revising Code Section 7-1-235, relating to part
+20 inapplicable to bank holding company transactions, as follows:
+21 "7-1-235.
+22 Except for the provisions of Code Sections 7-1-231 and 7-1-232, this This part shall not
+23 apply to a transaction subject to Code Sections 7-1-605 through 7-1-608, relating to bank
+24 holding companies."
+25 SECTION 2.
+26 Said title is further amended in Article 2 of Chapter 1, relating to banks and trust companies,
+27 by revising subsection (c) of Code Section 7-1-392, relating to articles of incorporation,
+28 advertisement of articles or notice of application, and naming registered agent, as follows:
+29 "(c) The incorporators shall file with the department the articles, together with the fee
+30 required by Code Section 7-1-862. Such filing shall constitute an application for a
+31 certificate of incorporation. Immediately upon the filing of the articles, the department
+32 shall certify a copy thereof and return it to the applicants, who shall, in conformity with
+33 Code Section 7-1-7 and on no later than the next business day following the filing of the
+34 articles, transmit for publication a copy of the articles or, in lieu thereof, a statement in
+35 substantially the following form:
+36 'An application for a certificate of incorporation of a (bank, trust company, or bank
+37 and trust company) to be known as the _______________________ and to be located
+38 at _______________________ in __________ County, Georgia, will be made to the
+39 Secretary of State of Georgia by (names and addresses counties of residence of
+40 incorporators) in accordance with Chapter 1 of Title 7 of the Official Code of Georgia
+41 Annotated, the "Financial Institutions Code of Georgia." A copy of the articles of
+H. B. 15
+- 2 -
+25 LC 62 0051/AP
+42 incorporation of such proposed (bank, trust company, or bank and trust company) and
+43 the application have been filed with the Department of Banking and Finance. The
+44 following persons have been proposed as the initial directors: (names and addresses
+45 counties of residence of proposed directors).'
+46 to the newspaper which is the official organ of the county where the main office will be
+47 located. The articles or statement must be published once a week for two consecutive
+48 weeks with the first publication occurring within ten days of receipt by the newspaper of
+49 the articles or statement."
+50 SECTION 3.
+51 Said title is further amended by revising paragraph (2) of subsection (b) of Code Section
+52 7-1-606, relating to prohibited activities of bank holding company or subsidiary and
+53 exceptions, as follows:
+54 "(2) In every case, the department shall take into consideration the financial and
+55 managerial resources, including the competence, character, and experience of
+56 management, and future prospects of the company or companies and the banks
+57 concerned."
+58 SECTION 4.
+59 Said title is further amended in Article 3 of Chapter 1, relating to credit unions, by revising
+60 Code Section 7-1-630, relating to subscribers, articles, filings, fee, and directors, as follows:
+61 "7-1-630.
+62 (a) Any number of persons, not less than eight, having a common bond, as defined in
+63 subsection (b) of this Code section, may incorporate for the purpose of organizing a credit
+64 union in accordance with this article. The persons so desiring to become incorporated shall
+65 execute articles which shall set forth the following:
+66 (1) The name of the proposed credit union;
+H. B. 15
+- 3 -
+25 LC 62 0051/AP
+67 (2) The territory in which it will operate;
+68 (3) The location where its initial registered office will be located;
+69 (4) The names and addresses counties of residence of the subscribers, their occupation,
+70 length of service, and that each has subscribed to one share and paid for same;
+71 (5) The names and addresses counties of residence of the original directors;
+72 (6) The proposed field of membership specified in detail and having the same common
+73 bond as the subscribers;
+74 (7) That the purpose and nature of the business are to conduct a credit union with the
+75 rights and powers granted by this article; and
+76 (8) The term of the existence of the credit union, which shall be perpetual unless
+77 otherwise limited.
+78 (b) For purposes of this article, 'common bond' means that specific relationship of
+79 occupation, association, or interest; residence or employment within a well-defined
+80 neighborhood, community, or rural district; employees of a common employer; or members
+81 of a bona fide cooperative, educational, fraternal, professional, religious, rural, or similar
+82 organization which tends to create a mutual interest between persons sharing the
+83 relationship. Persons related by blood, adoption, or marriage to or living in the same
+84 household with a person within such common bond and the surviving spouses of deceased
+85 members shall also be considered within the common bond.
+86 (c) The subscribers shall file the articles with the department together with the fee
+87 specified in Code Section 7-1-862. The department shall certify a copy of the articles and
+88 return it to the subscribers. Such filing shall constitute an application for a certificate of
+89 incorporation. Immediately upon the filing of the articles, the department shall certify a
+90 copy of the articles and return it to the subscribers, who shall, in conformity with Code
+91 Section 7-1-7 and no later than the next business day following the filing of the articles,
+92 transmit for publication a copy of the articles or, in lieu thereof, a statement in substantially
+93 the following form:
+H. B. 15
+- 4 -
+25 LC 62 0051/AP
+94 'An application for a certificate of incorporation of a credit union to be known as the
+95 _______________________ and to be located at _______________________ in
+96 __________ County, Georgia, will be made to the Secretary of State of Georgia by
+97 (names and counties of residence of subscribers) in accordance with Chapter 1 of
+98 Title 7 of the Official Code of Georgia Annotated, the "Financial Institutions Code
+99 of Georgia." A copy of the articles of incorporation of such proposed credit union and
+100 the application have been filed with the Department of Banking and Finance. The
+101 following persons have been proposed as the initial directors: (names and counties of
+102 residence of proposed directors).'
+103 to the newspaper which is the official organ of the county where the main office will be
+104 located. The articles or statement must be published once a week for two consecutive
+105 weeks with the first publication occurring within ten days of receipt by the newspaper of
+106 the articles or statement.
+107 (d) The subscriber shall file with the department a certificate from the Secretary of State
+108 attesting that the name of the proposed credit union has been reserved as authorized by
+109 Code Section 7-1-131.
+110 (e) The subscriber shall file with the department a copy of the proposed bylaws setting
+111 forth the following:
+112 (1) The date of the annual meeting, the manner of conducting the same, the number of
+113 members constituting a quorum and regulations as to voting, and the manner of
+114 notification of the meeting, which shall comply with Code Section 7-1-6;
+115 (2) The number of directors, which shall be not less than five nor more than 25, all of
+116 whom shall be members, and their powers and duties, together with the duties of the
+117 executive officers elected by the board of directors;
+118 (3) The qualifications for membership of those coming within the initial common bond
+119 as required by this article;
+120 (4) The conditions under which deposits are received and withdrawn; and
+H. B. 15
+- 5 -
+25 LC 62 0051/AP
+121 (5) The charges which shall be made, if any, for failure to meet obligations punctually;
+122 whether or not the credit union shall have the power to borrow; and such other matters
+123 consistent with this article as may be requisite to the organization and operation of the
+124 proposed credit union.
+125 (f) The subscriber shall pay such fee as shall be established by regulation of the
+126 department to defray the cost of the investigation required by Code Section 7-1-632,
+127 provided that the department shall not be required to set such fee if in its judgment the fee
+128 would discourage the organization of credit unions under this article.
+129 (g) The subscriber shall select at least five qualified persons who agree to serve on the
+130 board of directors. A signed agreement to serve in these capacities until the first annual
+131 meeting or until the election of their successors, whichever is later, shall be executed by
+132 those who so agree and filed with the department along with the proposed bylaws.
+133 (h) For the purposes of this article, the term 'executive officer' means an individual who
+134 performs significant managerial, supervisory, or policy-making functions on behalf of a
+135 credit union, including, but not limited to, the chief executive officer, president, chief
+136 financial officer, chief operating officer, and other individuals who perform such
+137 functions."
+138 SECTION 5.
+139 Said title is further amended in said article by revising Code Section 7-1-632, relating to
+140 approval or disapproval by department and certificate of incorporation, as follows:
+141 "7-1-632.
+142 (a) The department shall make an appropriate investigation of the articles and bylaws for
+143 the purpose of determining:
+144 (1) Whether the articles and bylaws conform to this article;
+H. B. 15
+- 6 -
+25 LC 62 0051/AP
+145 (2) The general character and qualifications of the subscribers, the proposed directors,
+146 and the executive officers and the financial stability and future prospects of the
+147 sponsoring company, if any;
+148 (3) The economic advisability of establishing the proposed credit union and such other
+149 facts and circumstances bearing on the proposed credit union as in the opinion of the
+150 department may be relevant;
+151 (4) That a common bond exists in accordance with Code Section 7-1-630; and
+152 (5) That the subscribers and person or corporation sponsoring the credit union are in
+153 agreement as to the services, if any, that the sponsor will provide;
+154 (6) Whether the convenience and needs of the public will be served by the proposed
+155 credit union; and
+156 (7) Whether the capital structure of the proposed credit union is adequate in relation to
+157 the amount and character of the anticipated business of the credit union and the safety of
+158 prospective members.
+159 (b) If the department determines to its satisfaction that the proposed credit union meets the
+160 criteria set forth above, it shall, within 90 days from receipt of the articles and in
+161 compliance with Code Section 7-1-630, send a copy of the articles and written approval of
+162 the articles to the Secretary of State after making such changes in the articles or bylaws
+163 consistent with this article and with the consent of the subscribers that it deems appropriate;
+164 provided, however, that, if the approval of a federal public body is also required with
+165 respect to the proposed credit union, then the department may elect to not act on the
+166 application until after such approval is given. Such approval shall indicate any changes
+167 made to the articles including changes from the proposed field of membership. If the
+168 department shall disapprove the articles, the procedures of subsection (b) of Code Section
+169 7-1-635 shall be followed.
+H. B. 15
+- 7 -
+25 LC 62 0051/AP
+170 (c) Upon receipt of the approval of the department, the Secretary of State shall thereupon
+171 issue a certificate attesting to the incorporation of the credit union. The credit union shall,
+172 however, confine itself to organizational activities until it receives a permit to do business."
+173 SECTION 6.
+174 Said title is further amended in said article by revising paragraph (3) of subsection (b) of
+175 Code Section 7-1-658, relating to loans, as follows:
+176 "(3) In lieu of a credit committee, the board of directors may appoint one or more loan
+177 officers and delegate to such persons the power to approve or disapprove loans to a
+178 borrower that do not in the aggregate exceed 5 percent of the net worth of the credit union
+179 subject to such limitations or conditions set forth in this Code section for loans generally
+180 and such further limitations and conditions as the board may prescribe. All other duties
+181 of the credit committee as described in this article shall become the duties of the board
+182 of directors. Records of loans approved shall be maintained by the loan officers in such
+183 form as the board shall prescribe and a listing of all loans made, including the name of
+184 the borrower and the amount of the loan, shall be submitted to the board at each meeting
+185 shall be made available to the board upon request; and"
+186 SECTION 7.
+187 Said title is further amended in Article 4 of Chapter 1, relating to money transmission, by
+188 adding a new paragraph to Code Section 7-1-680, relating to definitions, to read as follows:
+189 "(8.1) 'Disqualifying crime' means any felony, as defined in Code Section 16-1-3,
+190 involving conversion, theft, money laundering, bribery, dishonesty, false statements or
+191 omissions, perjury, extortion, breach of trust, forgery, counterfeiting, embezzlement,
+192 insider trading, tax evasion, kickbacks, identity theft, cyber attacks, social engineering,
+193 fraud, including but not limited to check fraud, credit card fraud, mortgage fraud, medical
+194 fraud, corporate fraud, bank account fraud, payment (point of sale) fraud, currency fraud,
+H. B. 15
+- 8 -
+25 LC 62 0051/AP
+195 bank fraud, and securities fraud or a felony directly related to the financial services
+196 business."
+197 SECTION 8.
+198 Said title is further amended in said article by adding a new subsection to Code Section
+199 7-1-683, relating to requirements for licensure, fees, and rules and regulations, to read as
+200 follows:
+201 "(e) The department may issue a notice of intent to administratively withdraw an
+202 application for a license under this article if an applicant submits a deficient license
+203 application by failing to provide any information required by the department. If the
+204 applicant fails to provide the requested information within 30 days of the date of issuance
+205 of such notice, the application may be administratively withdrawn. The notice shall be
+206 deemed provided to the applicant when:
+207 (1) Sent via email to the applicant's email address, as provided on the application; or
+208 (2) Posted by the department on the Nationwide Multistate Licensing System and
+209 Registry."
+210 SECTION 9.
+211 Said title is further amended in said article by revising subsection (c) of Code Section
+212 7-1-684, relating to investigation of applicants for licensure and background checks on
+213 employees and others, as follows:
+214 "(c) The department shall not issue a license or may revoke a license if it finds that the
+215 applicant, licensee, or authorized agent; any person who is a director, officer, partner,
+216 covered employee, or ultimate equitable owner of the applicant, licensee, or authorized
+217 agent; or any individual who directs the affairs of or controls or establishes policy for the
+218 applicant, licensee, or authorized agent has been convicted of a felony in any jurisdiction
+H. B. 15
+- 9 -
+25 LC 62 0051/AP
+219 or of a crime which, if committed within this state, would constitute a felony under the
+220 laws of this state:
+221 (1) Within the previous seven years; or
+222 (2) At any time, if such felony is a disqualifying crime.
+223 For the purposes of this article, a person shall be deemed to have been convicted of a crime
+224 if such person shall have pleaded guilty or nolo contendere to a charge thereof before a
+225 court or federal magistrate or shall have been found guilty thereof by the decision or
+226 judgment of a court or federal magistrate or by the verdict of a jury, irrespective of the
+227 pronouncement of sentence or the suspension thereof and regardless of whether first
+228 offender treatment without adjudication of guilt pursuant to the charge was entered or an
+229 adjudication or sentence was otherwise withheld or not entered on that charge, unless and
+230 until such plea of guilty or such decision, judgment, or verdict shall have been set aside,
+231 reversed, or otherwise abrogated by lawful judicial process or until probation, sentence, or
+232 both probation and sentence of a first offender without adjudication of guilt have been
+233 successfully completed and documented or unless the person convicted of the crime shall
+234 have received a pardon therefor from the President of the United States or the governor or
+235 other pardoning authority in the jurisdiction where the conviction occurred."
+236 SECTION 10.
+237 Said title is further amended in Article 4A of Chapter 1, relating to cashing of payment
+238 instruments, by adding a new paragraph to Code Section 7-1-700, relating to definitions, to
+239 read as follows:
+240 "(8.1) 'Disqualifying crime' means any felony, as defined in Code Section 16-1-3,
+241 involving conversion, theft, money laundering, bribery, dishonesty, false statements or
+242 omissions, perjury, extortion, breach of trust, forgery, counterfeiting, embezzlement,
+243 insider trading, tax evasion, kickbacks, identity theft, cyber attacks, social engineering,
+244 fraud, including but not limited to check fraud, credit card fraud, mortgage fraud, medical
+H. B. 15
+- 10 -
+25 LC 62 0051/AP
+245 fraud, corporate fraud, bank account fraud, currency fraud, bank fraud, and securities
+246 fraud or a felony directly related to the financial services business."
+247 SECTION 11.
+248 Said title is further amended in said article by adding a new subsection to Code Section
+249 7-1-702, relating to requirements for licensure, to read as follows:
+250 "(e) The department may issue a notice of intent to administratively withdraw an
+251 application for a license under this article if an applicant submits a deficient license
+252 application by failing to provide any information required by the department. If the
+253 applicant fails to provide the requested information within 30 days of the date of issuance
+254 of such notice, the application may be administratively withdrawn. The notice shall be
+255 deemed provided to the applicant when:
+256 (1) Sent via email to the applicant's email address, as provided on the application; or
+257 (2) Posted by the department on the Nationwide Multistage Licensing System and
+258 Registry."
+259 SECTION 12.
+260 Said title is further amended in said article by revising subsection (c) of Code Section
+261 7-1-703, relating to investigation of applicants and background checks of employees and
+262 others, as follows:
+263 "(c) The department shall not issue a license or may revoke a license if it finds that the
+264 applicant or licensee; any person who is a director, officer, partner, covered employee, or
+265 ultimate equitable owner of the applicant or licensee; or any individual who directs the
+266 affairs of or controls or establishes policy for the applicant or licensee has been convicted
+267 of a felony in any jurisdiction or of a crime which, if committed within this state, would
+268 constitute a felony under the laws of this state:
+269 (1) Within the previous seven years; or
+H. B. 15
+- 11 -
+25 LC 62 0051/AP
+270 (2) At any time, if such felony is a disqualifying crime.
+271 For the purposes of this article, a person shall be deemed to have been convicted of a crime
+272 if such person shall have pleaded guilty or nolo contendere to a charge thereof before a
+273 court or federal magistrate or shall have been found guilty thereof by the decision or
+274 judgment of a court or federal magistrate or by the verdict of a jury, irrespective of the
+275 pronouncement of sentence or the suspension thereof and regardless of whether first
+276 offender treatment without adjudication of guilt pursuant to the charge was entered or an
+277 adjudication or sentence was otherwise withheld or not entered on that charge, unless and
+278 until such plea of guilty or such decision, judgment, or verdict shall have been set aside,
+279 reversed, or otherwise abrogated by lawful judicial process or until probation, sentence, or
+280 both probation and sentence of a first offender without adjudication of guilt have been
+281 successfully completed and documented or unless the person convicted of the crime shall
+282 have received a pardon therefor from the President of the United States or the governor or
+283 other pardoning authority in the jurisdiction where the conviction occurred."
+284 SECTION 13.
+285 Said title is further amended in Article 13 of Chapter 1, relating to foreign banking
+286 institutions, by revising Code Section 7-1-1000, relating to definitions, as follows:
+287 "7-1-1000.
+288 As used in this article, the term:
+289 (1) 'Affiliate' or 'person affiliated with' means, when used with reference to a specified
+290 person, a person who directly, indirectly, or through one or more intermediaries controls,
+291 is controlled by, or is under common control with the person specified. Any beneficial
+292 owner of 10 percent or more of the securities of a person or any executive officer,
+293 director, trustee, joint venturer, or general partner of a person is an affiliate of such person
+294 unless the shareholder, executive officer, director, trustee, joint venturer, or general
+H. B. 15
+- 12 -
+25 LC 62 0051/AP
+295 partner shall prove that he or she in fact does not control, is not controlled by, or is not
+296 under common control with such person.
+297 (1.1) 'Allowable assets for liquidity' means:
+298 (A) Unrestricted cash and cash equivalents; and
+299 (B) Unencumbered investment grade assets held for sale or trade; mortgage-backed
+300 securities or other obligations of government sponsored entities and obligations of the
+301 United States Department of Treasury.
+302 (2) 'Audited financial statement' means the product of the examination of financial
+303 statements in accordance with generally accepted auditing standards by an independent
+304 certified public accountant, which product consists of an opinion on the financial
+305 statements indicating their conformity with generally accepted accounting principles.
+306 (2.1) 'Board of directors' means the formal body established by a licensee that is
+307 responsible for corporate governance and compliance with this article.
+308 (3) 'Commissioner' means the commissioner of banking and finance.
+309 (4) 'Commitment' or 'commitment agreement' means a statement by a lender required to
+310 be licensed under this article that sets forth the terms and conditions upon which the
+311 lender is willing to make a particular mortgage loan to a particular borrower.
+312 (5) 'Control,' including 'controlling,' 'controlled by,' and 'under common control with,'
+313 means the direct or indirect possession of the power to direct or cause the direction of the
+314 management and policies of a person, whether through the ownership of voting or
+315 nonvoting securities, by contract, or otherwise.
+316 (5.1) 'Corporate governance' means the structure of a licensee and how it is managed
+317 including the corporate rules, policies, processes, and practices used to oversee and
+318 manage the licensee.
+319 (5.2) 'Covered employee' means any employee of a mortgage lender or mortgage broker
+320 who is involved in residential mortgage loan related activities for property located in
+321 Georgia and includes, but is not limited to, a mortgage loan originator, processor, or
+H. B. 15
+- 13 -
+25 LC 62 0051/AP
+322 underwriter, or other employee who has access to residential mortgage loan origination,
+323 processing, or underwriting information.
+324 (5.3) 'Covered servicer' means a mortgage lender with a servicing portfolio of 2,000 or
+325 more residential mortgage serviced or subserviced loans as reported in the mortgage
+326 lender's Mortgage Call Report as of the most recent calendar year end, excluding whole
+327 loans owned, reverse mortgages that are serviced or subserviced for others, and loans
+328 being interim serviced prior to sale.
+329 (6) 'Department' means the Department of Banking and Finance.
+330 (7) 'Depository institution' has the same meaning as in Section 3 of the Federal Deposit
+331 Insurance Act, 12 U.S.C. Section 1813(c), and includes any credit union.
+332 (7.1) 'Disqualifying crime' means any felony, as defined in Code Section 16-1-3,
+333 involving conversion, theft, money laundering, bribery, dishonesty, false statements or
+334 omissions, perjury, extortion, breach of trust, forgery, counterfeiting, embezzlement,
+335 insider trading, tax evasion, kickbacks, identity theft, cyber attacks, social engineering,
+336 fraud, including but not limited to check fraud, credit card fraud, mortgage fraud, medical
+337 fraud, corporate fraud, bank account fraud, payment (point of sale) fraud, currency fraud,
+338 bank fraud, and securities fraud, or a felony directly related to the financial services
+339 business.
+340 (8) 'Dwelling' means a residential structure that contains one to four units, whether or not
+341 that structure is attached to real property pursuant to Regulation Z Section 226.2(a)(19).
+342 The term includes an individual condominium unit, cooperative unit, mobile home, and
+343 trailer if it is used as a residence.
+344 (9) 'Executive officer' means the chief executive officer, the president, the principal
+345 financial officer, the principal operating officer, each vice president with responsibility
+346 involving policy-making functions for a significant aspect of a person's business, the
+347 secretary, the treasurer, or any other person performing similar managerial or supervisory
+348 functions with respect to any organization whether incorporated or unincorporated.
+H. B. 15
+- 14 -
+25 LC 62 0051/AP
+349 (9.1) 'External audit' means a formal report prepared by an independent certified public
+350 accountant expressing an opinion on whether a licensee's financial statements are
+351 presented fairly, in all material aspects, in accordance with the applicable financial
+352 reporting framework, and is inclusive of an evaluation of the adequacy of a licensee's
+353 internal control structure.
+354 (10) 'Extortionate means' means the use or the threat of violence or other criminal means
+355 to cause harm to the person, reputation of the person, or property of the person.
+356 (11) 'Federal banking agencies' means the Comptroller of the Currency, the National
+357 Credit Union Administration, and the Federal Deposit Insurance Corporation. Such term
+358 shall also include the Board of Governors of the Federal Reserve System.
+359 (12) 'Georgia Residential Mortgage Act' means this article, which also includes certain
+360 provisions in order to implement the federal Secure and Fair Enforcement for Mortgage
+361 Licensing Act of 2008.
+362 (12.1) 'Government sponsored entity' means a quasi-public entity that facilitates credit
+363 access in the residential mortgage market, including but not limited to, the Federal
+364 National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the
+365 Government National Mortgage Association.
+366 (13) 'Individual' means a natural person.
+367 (13.1) 'Interim serviced prior to sale' means the activity of collecting a limited number
+368 of contractual mortgage payments immediately after origination on loans held for sale but
+369 prior to the loans being sold into the secondary market.
+370 (13.2) 'Internal audit' means a licensee's internal activity of performing independent,
+371 objective assurance and consulting to evaluate and improve the effectiveness of the
+372 licensee's processes related to operations, risk management, internal controls, and
+373 governance.
+374 (14) 'License' means a license issued by the department under this article to act as a
+375 mortgage loan originator, mortgage lender, or mortgage broker.
+H. B. 15
+- 15 -
+25 LC 62 0051/AP
+376 (14.1) 'Liquidity' means access to unrestricted cash and cash equivalents, capacity to
+377 obtain funds at a reasonable cost, and the ability to meet obligations as they become due.
+378 In the case of a licensee that services mortgage loans, such term encompasses the
+379 financial resources necessary to manage liquidity risk arising from servicing functions
+380 required in acquiring and financing mortgage servicing rights; hedging costs, including
+381 margin calls, associated with the mortgage servicing rights and financing facilities; and
+382 advances or costs of advance financing for principal, interest, taxes, insurance, and any
+383 other servicing related advances.
+384 (15) 'Loan processor or underwriter' means an individual who performs clerical or
+385 support duties as an employee at the direction of and subject to the supervision and
+386 instruction of a person licensed or exempt from licensing. For purposes of this paragraph,
+387 the term 'clerical or support duties' may include, subsequent to the receipt of an
+388 application, the receipt, collection, distribution, and analysis of information common for
+389 the processing or underwriting of a residential mortgage loan; and communicating with
+390 a consumer to obtain the information necessary for the processing or underwriting of a
+391 loan, to the extent that such communication does not include offering or negotiating loan
+392 rates or terms or counseling consumers about residential mortgage loan rates or terms.
+393 An individual engaging solely in loan processor or underwriter activities shall not
+394 represent to the public, through advertising or other means of communicating or
+395 providing information, including the use of business cards, stationery, brochures, signs,
+396 rate lists, or other promotional items, that such individual can or will perform any of the
+397 activities of a mortgage loan originator.
+398 (16) 'Lock-in agreement' means a written agreement whereby a lender or a broker
+399 required to be licensed under this article guarantees for a specified number of days or
+400 until a specified date the availability of a specified rate of interest for a mortgage loan,
+401 a specified formula by which the rate of interest will be determined, or a specific number
+H. B. 15
+- 16 -
+25 LC 62 0051/AP
+402 of discount points if the mortgage loan is approved and closed within the stated period
+403 of time.
+404 (17) 'Makes a mortgage loan' means to advance funds, offer to advance funds, or make
+405 a commitment to advance funds to an applicant for a mortgage loan.
+406 (18) 'Misrepresent' means to make a false statement of a substantive fact. Misrepresent
+407 may also mean to intentionally engage in any conduct which leads to a false belief which
+408 is material to the transaction.
+409 (18.1) 'Mortgage-backed security' means a financial instrument, including, but not
+410 limited to, an asset backed security, that is secured by residential property.
+411 (19)(A) 'Mortgage broker' means any person who directly or indirectly solicits,
+412 processes, places, or negotiates mortgage loans for others; offers to solicit, process,
+413 place, or negotiate mortgage loans for others; or closes mortgage loans which may be
+414 in the mortgage broker's own name with funds provided by others, and which loans are
+415 assigned to the mortgage lenders providing the funding of such loans within 24 hours
+416 of the funding.
+417 (B) The term does not include a retailer or retail broker of a manufactured or mobile
+418 home as defined in Code Section 8-2-131 or a residential industrialized building as
+419 defined in Code Section 8-2-111:
+420 (i) Whose residential mortgage loan activities are limited to compiling and
+421 transmitting residential mortgage loan applications along with related supporting
+422 documentation to mortgage lenders who are licensed or exempt from the licensing
+423 provisions of this article or communicating with residential mortgage loan applicants
+424 as necessary to obtain additional documents that complete the residential mortgage
+425 loan application to those licensed or exempt mortgage lenders; and
+426 (ii) Who does not receive any payment or fee from any person for assisting the
+427 applicant to apply for or obtain financing to purchase the manufactured home, mobile
+428 home, or residential industrialized building.
+H. B. 15
+- 17 -
+25 LC 62 0051/AP
+429 (C) The term does not include an employee of a retailer or retail broker of a
+430 manufactured or mobile home as defined in Code Section 8-2-131 or a residential
+431 industrialized building as defined in Code Section 8-2-111 who:
+432 (i) Satisfies the requirements set forth in paragraph (B) of this paragraph;
+433 (ii) Is acting within the scope of employment and under the supervision of the retailer
+434 or retail broker as an employee and not as an independent contractor;
+435 (iii) Is employed by only one such retailer or retail broker and shall be at all times
+436 eligible for employment in compliance with the provisions and prohibitions of Code
+437 Section 7-1-1004;
+438 (iv) Has not been issued a cease and desist order in the past five years if such order
+439 was based on a violation of Code Section 7-1-1002 or 7-1-1013; and
+440 (v) Has not had a mortgage lender, mortgage broker, or mortgage loan originator
+441 license revoked within the past five years.
+442 (19.1) 'Mortgage Call Report' means the quarterly or annual report of residential
+443 mortgage loan origination, servicing, and financial information completed by licensees
+444 pursuant to subsection (b) of Code Section 7-1-1004.1.
+445 (20) 'Mortgage lender' means any person who directly or indirectly makes, originates,
+446 underwrites, holds, or purchases mortgage loans or who services mortgage loans.
+447 (21) 'Mortgage loan' means a loan or agreement to extend credit made to a natural
+448 person, which loan is secured by a deed to secure debt, security deed, mortgage, security
+449 instrument, deed of trust, or other document representing a security interest or lien upon
+450 any interest in one-to-four family residential property located in Georgia, regardless of
+451 where made, including the renewal or refinancing of any such loan.
+452 (22) 'Mortgage loan originator' means an individual who for compensation or gain or in
+453 the expectation of compensation or gain takes a residential mortgage loan application or
+454 offers or negotiates terms of a residential mortgage loan. Generally, this does not include
+455 an individual engaged solely as a loan processor or underwriter except as otherwise
+H. B. 15
+- 18 -
+25 LC 62 0051/AP
+456 provided in subsection (a.1) of Code Section 7-1-1002; a person or entity that only
+457 performs real estate brokerage activities and is licensed in accordance with Georgia law
+458 unless the person or entity is compensated by a mortgage lender, mortgage broker, or
+459 other mortgage loan originator or by any agent of such mortgage lender, mortgage broker,
+460 or other mortgage loan originator; and does not include a person or entity solely involved
+461 in extensions of credit relating to time-share plans, as that term is defined in 11 U.S.C.
+462 Section 101(53D).
+463 (22.1) 'Mortgage servicing rights' means the contractual right to service mortgage loans
+464 on behalf of the owner of the associated mortgage in exchange for specified
+465 compensation in accordance with the servicing contract.
+466 (22.2) 'Mortgage servicing rights investor' or 'master servicer' means a person that invests
+467 in and owns mortgage servicing rights and relies on subservicers to administer the loans
+468 on such person's behalf.
+469 (23) 'Nationwide Multistate Licensing System and Registry' means a mortgage licensing
+470 system developed and maintained by the Conference of State Bank Supervisors and the
+471 American Association of Residential Mortgage Regulators for the licensing and
+472 registration of licensed mortgage loan originators, mortgage loan brokers, and mortgage
+473 loan lenders, or its successor.
+474 (23.1) 'Net worth' means:
+475 (A) With respect to a mortgage broker or a mortgage lender that is not a covered
+476 servicer, the total equity less receivables due from related entities less goodwill and
+477 other intangibles less pledged assets; and
+478 (B) With respect to a mortgage lender that is a covered servicer, shall have the same
+479 meaning as provided in Federal Housing Finance Agency's Eligibility Requirements for
+480 Enterprise Single-Family Seller/Servicer.
+481 (24) 'Nontraditional mortgage product' means any mortgage product other than a 30 year
+482 fixed rate mortgage.
+H. B. 15
+- 19 -
+25 LC 62 0051/AP
+483 (25) 'Person' means any individual, sole proprietorship, corporation, limited liability
+484 company, partnership, trust, or any other group of individuals, however organized.
+485 (26) 'Real estate brokerage activity' means any activity that involves offering or
+486 providing real estate brokerage services to the public, including acting as a real estate
+487 agent or real estate broker for a buyer, seller, lessor, or lessee of real property; bringing
+488 together parties interested in the sale, purchase, lease, rental, or exchange of real
+489 property; negotiating, on behalf of any party, any portion of a contract relating to the sale,
+490 purchase, lease, rental, or exchange of real property, other than in connection with
+491 providing financing with respect to any such transaction; engaging in any activity for
+492 which a person engaged in the activity is required to be registered or licensed as a real
+493 estate agent or real estate broker under any applicable law; and offering to engage in any
+494 activity or act in any capacity described herein.
+495 (27) 'Registered mortgage loan originator' means any individual who meets the definition
+496 of mortgage loan originator, is registered with and maintains a unique identifier through
+497 the Nationwide Multistate Licensing System and Registry, and is an employee of:
+498 (A) A depository institution;
+499 (B) A subsidiary that is:
+500 (i) Owned and controlled by a depository institution; and
+501 (ii) Regulated by a federal banking agency; or
+502 (C) An institution regulated by the Farm Credit Administration.
+503 (28) Reserved.
+504 (29) 'Residential property' means improved real property used or occupied, or intended
+505 to be used or occupied, as the primary residence of a natural person. Such term does not
+506 include rental property or second homes. A natural person can have only one primary
+507 residence.
+508 (30) 'Residential mortgage loan' means any loan primarily for personal, family, or
+509 household use that is secured by a mortgage, deed of trust, or other equivalent consensual
+H. B. 15
+- 20 -
+25 LC 62 0051/AP
+510 security interest on a dwelling, as defined in 15 U.S.C. Section 1602 of the Truth in
+511 Lending Act, or residential real estate upon which is constructed or intended to be
+512 constructed a dwelling.
+513 (31) 'Residential real estate' means any real property located in Georgia upon which is
+514 constructed or intended to be constructed a dwelling.
+515 (31.1) 'Reverse mortgage' means a loan collateralized by residential real estate, typically
+516 made to borrowers over 55 years of age, that does not require contractual monthly
+517 payments and is typically repaid upon the death of the borrower through the sale of the
+518 real estate or through refinancing of the loan by the borrower's heirs.
+519 (31.2) 'Risk management assessment' means the functional evaluations of a licensee
+520 performed under a risk management program and the corresponding reports provided to
+521 the licensee's board of directors under the relevant governance framework.
+522 (31.3) 'Risk management program' means the policies and procedures of a licensee that
+523 are designed to identify, measure, monitor, and mitigate risk and that are sufficient for
+524 the level of sophistication of the licensee.
+525 (32) 'Service a mortgage loan' means the collection or remittance or the right to collect
+526 or remit payments of principal, interest, trust items such as insurance and taxes, and any
+527 other payments pursuant to a mortgage loan.
+528 (32.1) 'Servicer' means a person that services a mortgage loan.
+529 (32.2) 'Servicing portfolio' means the specific portfolio or portfolios of mortgage loans
+530 for which a licensee is contractually responsible to the owner or owners of the mortgage
+531 loans for the defined servicing activities.
+532 (32.3) 'Subserviced for others' means the contractual activities performed by subservicers
+533 on behalf of a servicer or a mortgage servicing rights investor.
+534 (32.4) 'Subservicer' means a person performing routine administration of mortgage loans
+535 as an agent of a servicer or mortgage serving rights investor under the terms of a
+536 subservicing contract.
+H. B. 15
+- 21 -
+25 LC 62 0051/AP
+537 (33) 'Ultimate equitable owner' means a natural person who, directly or indirectly, owns
+538 or controls an ownership interest in a corporation or any other form of business
+539 organization, regardless of whether such natural person owns or controls such ownership
+540 interest through one or more natural persons or one or more proxies, powers of attorney,
+541 nominees, corporations, associations, limited liability companies, partnerships, trusts,
+542 joint-stock companies, other entities or devices, or any combination thereof.
+543 (34) 'Unique identifier' means a number or other identifier assigned by protocols
+544 established by the Nationwide Multistate Licensing System and Registry.
+545 (35) 'Whole loans' mean those loans where a mortgage and the underlying credit risk is
+546 owned and held on the balance sheet of the person with all ownership rights associated
+547 with the loans."
+548 SECTION 14.
+549 Said title is further amended in said article by adding a new subsection to Code Section
+550 7-1-1003, relating to applications for licenses, to read as follows:
+551 "(d) The department may issue a notice of intent to administratively withdraw an
+552 application for a license under this article if an applicant submits a deficient license
+553 application by failing to provide any information required by the department. If the
+554 applicant fails to provide the requested information within 30 days of the date of issuance
+555 of such notice, the application may be administratively withdrawn. The notice shall be
+556 deemed provided to the applicant when:
+557 (1) Sent via email to the applicant's email address, as provided on the application; or
+558 (2) Posted by the department on the Nationwide Multistage Licensing System and
+559 registry."
+H. B. 15
+- 22 -
+25 LC 62 0051/AP
+560 SECTION 15.
+561 Said title is further amended in said article by revising subsections (e) and (i) of Code Section
+562 7-1-1004, relating to investigation of applicant, requirements for applicant, and denial and
+563 revocation of license, as follows:
+564 "(e) Upon receipt of an application for a mortgage loan originator license, the department
+565 shall conduct such investigation as it deems necessary to determine that the mortgage loan
+566 originator applicant:
+567 (1) Has never had a mortgage loan originator license revoked in any governmental
+568 jurisdiction, except that a subsequent formal vacation of such revocation shall not be
+569 deemed a revocation;
+570 (2) Has not been convicted of, or pleaded guilty or nolo contendere to, a felony in a
+571 domestic, foreign, or military court, regardless of whether first offender treatment without
+572 adjudication of guilt was entered:
+573 (A) Within the previous seven years; or
+574 (B) At any time, if such felony is a disqualifying crime;
+575 provided, however, that any pardon of a conviction shall not be a conviction for purposes
+576 of this subsection;
+577 (3) Has demonstrated financial responsibility, character, and general fitness such as to
+578 command the confidence of the community and to warrant a determination that the
+579 mortgage loan originator will operate honestly, fairly, and efficiently within the purposes
+580 of this article;
+581 (4) Has completed the prelicensing education requirement described in subsection (f) of
+582 this Code section; and
+583 (5) Has passed a written test that meets the test requirement described in subsection (h)
+584 of this Code section."
+585 "(i) The department shall not issue or may revoke a license if it finds that the mortgage
+586 loan originator, mortgage broker, or mortgage lender applicant or licensee, or any person
+H. B. 15
+- 23 -
+25 LC 62 0051/AP
+587 who is a director, officer, partner, covered employee, or ultimate equitable owner of 10
+588 percent or more of the mortgage broker or mortgage lender applicant or licensee or any
+589 individual who directs the affairs or establishes policy for the mortgage broker or mortgage
+590 lender applicant or licensee, has been convicted of a felony in any jurisdiction or of a crime
+591 which, if committed within this state, would constitute a felony under the laws of this state.
+592 Other than a mortgage loan originator, for the purposes of this article, a person shall be
+593 deemed to have been convicted of a crime if such person shall have pleaded guilty or nolo
+594 contendere to a charge thereof before a court or federal magistrate or shall have been found
+595 guilty thereof by the decision or judgment of a court or federal magistrate or by the verdict
+596 of a jury, within the previous seven years or at any time, if such felony is a disqualifying
+597 crime, irrespective of the pronouncement of sentence or the suspension thereof, and
+598 regardless of whether first offender treatment without adjudication of guilt pursuant to the
+599 charge was entered, or an adjudication or sentence was otherwise withheld or not entered
+600 on the charge, unless and until such plea of guilty, or such decision, judgment, or verdict,
+601 shall have been set aside, reversed, or otherwise abrogated by lawful judicial process or
+602 until probation, sentence, or both probation and sentence of a first offender without
+603 adjudication of guilt have been successfully completed and documented, or unless the
+604 person convicted of the crime shall have received a pardon therefor from the President of
+605 the United States or the governor or other pardoning authority in the jurisdiction where the
+606 conviction occurred. For purposes of this article subsection (e) of this Code section, a
+607 mortgage loan originator shall be deemed to have been convicted of a crime if he or she has
+608 pleaded guilty to, been found guilty of, or entered a first offender or nolo contendere plea
+609 to a felony in a domestic, foreign, or military court; provided, however, that any pardon of
+610 a conviction shall not be a conviction."
+H. B. 15
+- 24 -
+25 LC 62 0051/AP
+611 SECTION 16.
+612 Said title is further amended in said article by revising Code Section 7-1-1004.1, relating to
+613 reports of condition, as follows:
+614 "7-1-1004.1.
+615 Each mortgage broker and mortgage lender shall submit to the Nationwide Multistate
+616 Licensing System and Registry:
+617 (1) Reports reports of condition, which shall be in such form and shall contain such
+618 information as the department and the Nationwide Multistate Licensing System and
+619 Registry may require; and
+620 (2) Quarterly and annual reports of residential mortgage loan origination, servicing, and
+621 financial information in such form as required by the department and the Nationwide
+622 Multistate Licensing System and Registry."
+623 SECTION 17.
+624 Said title is further amended in said article by revising Code Section 7-1-1010, relating to
+625 annual financial statements, as follows:
+626 "7-1-1010.
+627 (a) If a mortgage broker is a United States Department of Housing and Urban
+628 Development loan correspondent, such broker shall also submit to the department the audit
+629 that is required for the United States Department of Housing and Urban Development.
+630 Mortgage brokers shall, at least once each year, submit to the department a financial
+631 statement that is unaudited and prepared in accordance with generally accepted accounting
+632 principles and certified by the licensee; provided, however, that mortgage brokers may
+633 elect to submit to the department an audited financial statement to satisfy this requirement.
+634 In the event that the mortgage broker submits to the department an unaudited financial
+635 statement prepared in accordance with generally accepted accounting principles in lieu of
+636 an audited financial statement, the The department may require the mortgage broker to
+H. B. 15
+- 25 -
+25 LC 62 0051/AP
+637 have made an audit of the books and affairs of the licensed business and submit to the
+638 department an audited financial statement if the department finds that such an audit is
+639 necessary to determine whether the mortgage broker is complying with the provisions of
+640 this article and the rules and regulations adopted in furtherance of this article.
+641 (b)(1) Each mortgage lender licensed under this article shall, at least once each year,
+642 have made an external audit of the books and affairs of the licensed business, including
+643 and submit to the department at renewal an audited financial statement, except that a
+644 mortgage lender licensed under this article which is a subsidiary shall comply with this
+645 provision by annually providing a consolidated audited financial statement of its parent
+646 company and a financial statement, which may be unaudited, of the licensee which that
+647 is prepared in accordance with generally accepted accounting principles. The external
+648 audit and audited financial statement shall be made available to the department as
+649 required by the department except as provided in paragraph (2) of this subsection. A
+650 lender who utilizes a bond in lieu of an audit need not supply such audit, unless specially
+651 required by the department. An audit shall be less than 15 months old to be acceptable.
+652 (2) Based on the total assets of the mortgage lender, the complexity of the mortgage
+653 lender, the number of loans made by the mortgage lender, or other factors, the department
+654 may enact rules and regulations authorizing certain mortgage lenders to provide financial
+655 statements under paragraph (1) of this subsection that are unaudited.
+656 (c) The department may by regulation establish additional minimum standards for audits
+657 and reports under this Code section."
+658 SECTION 18.
+659 Said title is further amended in said article by revising subparagraph (1)(B) of Code Section
+660 7-1-1016, relating to regulations relative to advertising, as follows:
+661 "(B) An advertisement shall not include an individual's loan number, loan amount, or
+662 other publicly available information unless it is clearly and conspicuously stated in
+H. B. 15
+- 26 -
+25 LC 62 0051/AP
+663 boldface type at the beginning of the advertisement that the person disseminating it is
+664 not authorized by, in sponsorship with, or otherwise affiliated with the individual's
+665 lender, which shall be identified by name. Such an advertisement shall also state that
+666 the loan information contained therein was not provided by the recipient's lender; and"
+667 SECTION 19.
+668 Said title is further amended in said article by adding a new Code section to read as follows:
+669 "7-1-1022.
+670 (a) Mortgage lenders and mortgage brokers must maintain capital, net worth, and liquidity
+671 in compliance with this Code section. For entities within a holding company or affiliated
+672 group of companies, compliance with these requirements shall be measured solely at the
+673 licensee level.
+674 (b) For the purposes of complying with the capital, net worth, and liquidity requirements
+675 of this Code section, all financial data must be reported in accordance with generally
+676 accepted accounting principles.
+677 (c) Capital, minimum net worth, and liquidity, to the extent applicable, shall be
+678 continuously maintained by licensees in the following amounts:
+679 (1) If the licensee is a mortgage broker, then it shall maintain a net worth of at least
+680 $50,000.00;
+681 (2) If the licensee is a mortgage lender that is not a covered servicer, then it shall
+682 maintain a net worth of at least $100,000.00 and evidence of liquidity of $1 million which
+683 may include a warehouse line of credit; and
+684 (3) If the licensee is a mortgage lender that is a covered servicer, then it shall maintain
+685 capital, net worth, and liquidity that meets the Federal Housing Finance Agency
+686 Eligibility Requirements for Enterprise Single-Family Seller/Servicer, regardless of
+687 whether the covered servicer is approved for government sponsored enterprise servicing.
+H. B. 15
+- 27 -
+25 LC 62 0051/AP
+688 (d) Mortgage lenders and mortgage brokers shall maintain written policies and procedures
+689 implementing the applicable capital, net worth, and liquidity requirements of this Code
+690 section. Such policies and procedures shall include a sustainable written methodology for
+691 satisfying the requirements of subsection (c) of this Code section and be made available to
+692 the department upon request.
+693 (e) In addition to the amounts required for liquidity under subsection (c) of this Code
+694 section, covered servicers shall maintain sufficient liquidity to cover normal business
+695 operations.
+696 (f) Mortgage lenders shall have in place sound cash management and business operating
+697 plans that match the size and sophistication of the mortgage lender to ensure normal
+698 business operations. Management shall develop, establish, and implement plans, policies,
+699 and procedures for maintaining liquidity sufficient for the ongoing operational needs of the
+700 mortgage lender. Such plans, policies, and procedures shall contain sustainable, written
+701 methodologies for maintaining sufficient liquidity for operations of the licensee and be
+702 made available to the department upon request."
+703 SECTION 20.
+704 Said title is further amended in said article by adding a new Code section to read as follows:
+705 "7-1-1023.
+706 (a) Mortgage brokers and mortgage lenders shall establish and maintain a board of
+707 directors.
+708 (b) Except for covered servicers that are approved to service loans by government
+709 sponsored entities and that have not been granted approval by such federal agencies for the
+710 creation of an alternative body to that of a board of directors, mortgage lenders and
+711 mortgage brokers may establish a similar body to that of the board of directors for the
+712 purpose of exercising oversight and fulfilling the board of directors' responsibilities set
+713 forth in subsection (c) of this Code section.
+H. B. 15
+- 28 -
+25 LC 62 0051/AP
+714 (c) The board of directors shall be responsible for:
+715 (1) Establishing a written corporate governance framework appropriate for the size,
+716 complexity, and risk profile of the mortgage lender or mortgage broker, including internal
+717 controls designed to monitor corporate governance and assess compliance with the
+718 corporate governance framework, and making such framework available to the
+719 department upon request;
+720 (2) Monitoring and ensuring licensee's compliance with the corporate governance
+721 framework and with the provisions of this article; and
+722 (3) Accurate and timely regulatory reporting, including the requirements for filing the
+723 Mortgage Call Report.
+724 (d) The board of directors shall establish internal audit requirements that are appropriate
+725 for the size, complexity, and risk profile of the mortgage lender or mortgage broker, with
+726 appropriate independence to provide a reliable evaluation of the licensee's internal control
+727 structure, risk management, and corporate governance. Such internal audit requirements
+728 and the results of internal audits shall be made available to the department upon request.
+729 (e) Mortgage lenders and mortgage brokers shall establish a risk management program
+730 appropriate for the size, complexity, and risk profile of the licensee that identifies,
+731 measures, monitors, and controls risk sufficient for the level of sophistication of the
+732 licensee. Such risk management program shall have appropriate processes and models in
+733 place to measure, monitor, and mitigate financial risks and changes to the risk profile of
+734 the licensee; be under the oversight of the board of directors; and be available to the
+735 department upon request.
+736 (f) Mortgage lenders and mortgage brokers shall conduct a risk management assessment
+737 on an annual basis concluding with a formal report to the board of directors, which shall
+738 be made available to the department upon request. Evidence of risk management activities
+739 throughout the year must be maintained and made part of the report, including findings of
+740 issues and the response to address such findings.
+H. B. 15
+- 29 -
+25 LC 62 0051/AP
+741 (g) The department shall have the following authority to address risk in mortgage lenders
+742 and mortgage brokers as necessary:
+743 (1) Where risk is determined by a formal review of a specific mortgage lender or
+744 mortgage broker to be extremely high, the department may order or direct the mortgage
+745 lender or mortgage broker to satisfy additional conditions necessary to ensure that the
+746 mortgage lender or mortgage broker will continue to operate in a safe and sound manner
+747 and remain in compliance with state and federal law, including applicable state and
+748 federal regulations;
+749 (2) Where risk is determined by a formal review of a particular or multiple mortgage
+750 lenders or mortgage brokers to be extremely low, the department may provide notice that
+751 all or part of this Code section and related rules are not applicable to those mortgage
+752 lenders or mortgage brokers; and
+753 (3) Where economic, environmental, or societal events are determined to be of such
+754 severity to warrant a temporary suspension of all or certain sections of this Code section
+755 and related rules, the department may provide public notice of such temporary
+756 suspension.
+757 (h) Mortgage brokers and mortgage lenders may utilize a third party to assist with
+758 satisfying some or all of the requirements of this Code section."
+759 SECTION 21.
+760 Said title is further amended in Article 14, relating to foreign banking institutions, by revising
+761 paragraph (28) of Code Section 7-1-1100, relating to definitions, as follows:
+762 "(28) 'State' means a state of the United States or the District of Columbia."
+763 SECTION 22.
+764 Said title is further amended in said article by revising Code Section 7-1-1110, relating to
+765 service of process, as follows:
+H. B. 15
+- 30 -
+25 LC 62 0051/AP
+766 "7-1-1110.
+767 Except as provided in Code Sections 7-1-1109 7-1-1108, 7-1-1112, 7-1-1127, and
+768 7-1-1135, a foreign bank operating in this state at a branch, agency, or representative office
+769 shall be subject to service of process at such location."
+770 SECTION 23.
+771 Said title is further amended in said article by revising subsection (b) of Code Section
+772 7-1-1111, relating to application procedures, as follows:
+773 "(b) The department may adopt rules and regulations prescribing abbreviated application
+774 or notice procedures and standards applicable to applications by foreign banks to establish
+775 additional Georgia state branches or Georgia state agencies that have already established
+776 an initial Georgia state branch or Georgia state agency."
+777 SECTION 24.
+778 Said title is further amended in said article by revising subsection (b) of Code Section
+779 7-1-1118, relating to amending license and requirements, as follows:
+780 "(b) The requirements with respect to the form and contents of an application or notice
+781 under subsection (a) of this Code section, the manner of its execution, the issuance of an
+782 amended license, and the effect of the amended license shall be the same as in the case of
+783 an initial application for a license to establish and maintain a Georgia state branch or
+784 Georgia state agency in the form and manner as required by the department."
+785 SECTION 25.
+786 Said title is further amended in said article by revising subsection (b) of Code Section
+787 7-1-1119, relating to act of relocating and notice, as follows:
+788 "(b) A foreign bank may shall submit a letter form application notification to the
+789 department of its intent to relocate an existing Georgia state branch or Georgia state agency
+H. B. 15
+- 31 -
+25 LC 62 0051/AP
+790 no less than 30 days in advance of such relocation. The department may require an
+791 application for such relocation if the notification raises supervisory concerns. Unless the
+792 department denies the application, the approval to relocate an existing Georgia state branch
+793 or Georgia state agency under this Code section shall be effective at the earlier of:
+794 (1) The date of an approval letter from the department; or
+795 (2) Ten business days following the date of the department's acknowledged receipt of the
+796 application."
+797 SECTION 26.
+798 Said title is further amended in said article by revising Code Section 7-1-1121, relating to
+799 notice of uninsured deposits, as follows:
+800 "7-1-1121.
+801 Each foreign bank licensed to establish and maintain a Georgia state branch or Georgia
+802 state agency shall give clear and conspicuous notice consistent with 12 C.F.R. 347.207 that
+803 deposits and credit balances in the Georgia state branch or Georgia state agency are not
+804 insured by the Federal Deposit Insurance Corporation."
+805 SECTION 27.
+806 Said title is further amended in said article by revising Code Section 7-1-1123, relating to
+807 value of assets and deposits, minimum requirements, and reporting, as follows:
+808 "7-1-1123.
+809 (a) A foreign bank licensed to establish and maintain a Georgia state branch or Georgia
+810 state agency shall be required to keep dollar deposits or investment securities, with pledge
+811 assets that are held by unaffiliated banks in this state that the foreign bank designates and
+812 the department approves, or money and securities pledged to the department in an
+813 aggregate amount to be determined by the department, valued at the lower of principal
+814 amount or market value, consisting of:
+H. B. 15
+- 32 -
+25 LC 62 0051/AP
+815 (1) United States dollar deposits;
+816 (2) Bonds, notes, debentures, or other legally created, general obligations of a state, an
+817 agency or political subdivision of a state, the United States, or an instrumentality of the
+818 United States;
+819 (3) Securities that this state, an agency or political subdivision of this state, the United
+820 States, or an instrumentality of the United States has unconditionally agreed to purchase,
+821 insure, or guarantee;
+822 (4) Certificates of deposit, payable in the United States, and bankers' acceptances,
+823 provided that, in either case, the issuer has an adequate capacity to meet financial
+824 commitments, meaning the risk of default by the obligor is low and the full and timely
+825 repayment of principal and interest is expected, for the projected life of the asset or
+826 exposure expected;
+827 (5) Repurchase agreements; or
+828 (6) Other assets as may be permitted by rule.
+829 (b) The aggregate amount of deposited investment securities and dollar deposits pledged
+830 assets for each Georgia state branch or Georgia state agency established and operating
+831 under this Code section shall be not less than the greater of:
+832 (1) That amount of capital which would be required of a Georgia state bank under Code
+833 Section 7-1-410; or
+834 (2) One percent of the total liabilities of such Georgia state branch or Georgia state
+835 agency, including acceptances, but excluding accrued expenses and amounts due and
+836 other liabilities to offices, branches, agencies, affiliates, and subsidiaries of such foreign
+837 bank.
+838 Notwithstanding the above deposit requirement subsection (b) of this Code section, the
+839 department is authorized to enact rules and regulations pursuant to this article to establish
+840 a maximum dollar amount of deposited investment securities and dollar deposits pledged
+841 assets for certain highly rated foreign banks. For prudential or supervisory reasons, the
+H. B. 15
+- 33 -
+25 LC 62 0051/AP
+842 department may require that a foreign bank has deposited investment securities and dollar
+843 deposits pledged assets above the minimum amount.
+844 (c) The assets deposited pledged and the amount of the assets to be maintained under
+845 subsection (a) of this Code section are subject to the conditions and limitations the
+846 department considers necessary or desirable for the maintenance of a sound financial
+847 condition; the protection of depositors, creditors, and the public interest in this state; and
+848 the support of public confidence in the business of the Georgia state branch or Georgia
+849 state agency.
+850 (d) A foreign bank shall require its depository bank to segregate its dollar deposits and
+851 deposited investment securities pledged assets on the depository bank's books and records.
+852 The funds deposited pledged and obligations referred to in subsection (a) of this Code
+853 section that are placed in safekeeping at a depository bank:
+854 (1) Shall not be reduced in value below the minimum required for that Georgia state
+855 branch or Georgia state agency without the prior approval of the department, but in no
+856 event below the minimum amount required under Code Section 7-1-410;
+857 (2) Shall be maintained pursuant to an agreement prescribed by the department that shall
+858 be a written agreement entered into with the department; and
+859 (3) Shall be free from any lien, charge, right of setoff, credit, or preference in connection
+860 with any claim of the depository bank against the foreign bank.
+861 (e) Each Georgia state branch or Georgia state agency shall file with the department such
+862 reports as required by rule or regulation to determine compliance with this Code section."
+863 SECTION 28.
+864 Said title is further amended in said article by revising Code Section 7-1-1132, relating to
+865 location and authority of offices and relocation, as follows:
+H. B. 15
+- 34 -
+25 LC 62 0051/AP
+866 "7-1-1132.
+867 A Georgia state representative office may engage in the activities authorized by this article
+868 at each location registered with the department as a representative office. A Georgia state
+869 representative office may change its location in this state by filing a letter form application
+870 notification with the department containing the street address and mailing address of the
+871 new location no less than 30 days in advance of relocation. The department may require
+872 an application for such relocation if the notification raises supervisor concerns. Unless the
+873 department denies the application, the approval to relocate an existing Georgia state
+874 representative office under this Code section will be effective at the earlier of:
+875 (1) The date of an approval letter from the department; or
+876 (2) Ten business days following the date of the department's acknowledged receipt of the
+877 application.
+878 All relocations shall include a notice to customers posted in a conspicuous place of the
+879 affected location as well as on the bank's website at least 30 days before relocating."
+880 SECTION 29.
+881 Said title is further amended in said article by revising Code Section 7-1-1138, relating to
+882 continuing registration, as follows:
+883 "7-1-1138.
+884 Every Georgia state representative office registered with the department under the
+885 provisions of Code Section 7-1-721 as of June 30, 2023, shall remain registered and be
+886 allowed to conduct business in Georgia. Such Georgia state representative offices shall
+887 comply with this part and Part 1 of this article. Reserved."
+888 SECTION 30.
+889 Said title is further amended in Article 1 of Chapter 3, relating to general provisions, by
+890 adding a new paragraph to Code Section 7-3-3, relating to definitions, as follows:
+H. B. 15
+- 35 -
+25 LC 62 0051/AP
+891 "(3.1) 'Disqualifying crime' means any felony, as defined in Code Section 16-1-3,
+892 involving conversion, theft, money laundering, bribery, dishonesty, false statements or
+893 omissions, perjury, extortion, breach of trust, forgery, counterfeiting, embezzlement,
+894 insider trading, tax evasion, kickbacks, identity theft, cyber attacks, social engineering,
+895 fraud, including but not limited to check fraud, credit, card fraud, mortgage fraud, medical
+896 fraud, corporate fraud, bank account fraud, payment (point of sale) fraud, currency fraud,
+897 bank fraud, and securities fraud or a felony directly related to the financial services
+898 business."
+899 SECTION 31.
+900 Said title is further amended in Article 3 of Chapter 3, relating to licensing, by adding a new
+901 subsection to Code Section 7-3-20, relating to licensing application and fee, to read as
+902 follows:
+903 "(c) The department may issue a notice of intent to administratively withdraw an
+904 application for a license under this article if an applicant submits a deficient license
+905 application by failing to provide any information required by the department. If the
+906 applicant fails to provide the requested information within 30 days of the date of issuance
+907 of such notice, the application may be administratively withdrawn. The notice shall be
+908 deemed provided to the applicant when:
+909 (1) Sent via email to the applicant's email address, as provided on the application; or
+910 (2) Posted by the department on the Nationwide Multistate Licensing System and
+911 Registry."
+912 SECTION 32.
+913 Said title is further amended in Article 5 of Chapter 3, relating to regulation by department,
+914 by revising subsection (a) of Code Section 7-3-42, relating to felony convictions and criminal
+915 background checks, as follows:
+H. B. 15
+- 36 -
+25 LC 62 0051/AP
+916 "7-3-42.
+917 (a) The department shall not issue a license and may revoke a license if it finds that the
+918 applicant or licensee or any director, trustee, owner, executive officer, or covered employee
+919 of the applicant or licensee has been convicted of a felony in any jurisdiction or of a crime
+920 which, if committed within this state, would constitute a felony under the laws of this state:
+921 (1) Within the previous seven years; or
+922 (2) At any time, if such felony is a disqualifying crime.
+923 For the purposes of this article, a person shall be deemed to have been convicted of a crime
+924 if such person shall have pleaded guilty or nolo contendere to a charge thereof before a
+925 court or federal magistrate or shall have been found guilty thereof by the decision or
+926 judgment of a court or federal magistrate or by the verdict of a jury, irrespective of the
+927 pronouncement of sentence or the suspension thereof and regardless of whether first
+928 offender treatment without adjudication of guilt pursuant to the charge was entered or an
+929 adjudication or sentence was otherwise withheld or not entered on that charge, unless and
+930 until such plea of guilty or nolo contendere or such decision, judgment, or verdict shall
+931 have been set aside, reversed, or otherwise abrogated by lawful judicial process or until
+932 probation, sentence, or both probation and sentence of a first offender without adjudication
+933 of guilt have been successfully completed and documented or unless the person convicted
+934 of the crime shall have received a pardon therefor from the President of the United States
+935 or the governor or other pardoning authority in the jurisdiction where the conviction
+936 occurred."
+937 SECTION 33.
+938 Said title is further amended in Chapter 9, relating to Georgia merchant acquirer limited
+939 purpose bank, by revising Code Section 7-9-7, relating to investigation and requirements and
+940 procedure for background checks, as follows:
+H. B. 15
+- 37 -
+25 LC 62 0051/AP
+941 "7-9-7.
+942 (a)(1) Upon receipt of the articles of incorporation and the filings and fees from the
+943 applicant as required under this chapter, the department shall conduct such investigation
+944 as it may deem necessary to ascertain whether it should approve the proposed merchant
+945 acquirer limited purpose bank. The department shall approve the charter of a merchant
+946 acquirer limited purpose bank if it determines in its discretion that:
+947 (A) The articles of incorporation and supporting items satisfy the requirements of this
+948 chapter;
+949 (B) The character and fitness of the applicant, directors, and proposed officers are such
+950 as to warrant the belief that the business of the proposed merchant acquirer limited
+951 purpose bank will be honestly and efficiently conducted; and
+952 (C) The capital structure of the merchant acquirer limited purpose bank is adequate in
+953 relation to the amount and character of the anticipated business of the merchant acquirer
+954 limited purpose bank.
+955 (2) Within 90 days after receipt of the articles of incorporation and the filings and fees
+956 from the applicant as required by this chapter, the department shall approve or disapprove
+957 the charter of the proposed merchant acquirer limited purpose bank. The department may
+958 impose conditions to be satisfied prior to the issuance of its approval of the charter of a
+959 merchant acquirer limited purpose bank. If the department, in its discretion, approves the
+960 charter of the proposed merchant acquirer limited purpose bank with or without
+961 conditions, it shall deliver its written approval of the articles of incorporation and charter
+962 to the Secretary of State and notify the applicant of its action. If the department, in its
+963 discretion, disapproves the charter of the proposed merchant acquirer limited purpose
+964 bank, it shall notify the applicant of its disapproval of the charter and state generally the
+965 unfavorable factors influencing its decision. The decision of the department shall be
+966 conclusive, except that it may be subject to judicial review as provided in Code Section
+967 7-1-90.
+H. B. 15
+- 38 -
+25 LC 62 0051/AP
+968 (b) No charter shall be issued if the department finds that the applicant, or any holding
+969 company, control person, director, officer, partner, or employee of the applicant, has been
+970 convicted of a felony in any jurisdiction or of a crime which, if committed within this state,
+971 would constitute a felony under the laws of this state. No control person, director, officer,
+972 partner, or employee of a merchant acquirer limited purpose bank shall have been
+973 convicted of a felony in any jurisdiction or of a crime which, if committed within this state,
+974 would constitute a felony under the laws of this state. For any merchant acquirer limited
+975 purpose bank that is transacting business under a charter approved by the department, the
+976 department shall have the suspension and removal powers provided for in Code Section
+977 7-1-71 with respect to any control person, director, officer, partner, or employee of the
+978 merchant acquirer limited purpose bank who has been convicted of a felony in any
+979 jurisdiction or of a crime which, if committed within this state, would constitute a felony
+980 under the laws of this state. For the purposes of this article, a person shall be deemed to
+981 have been convicted of a crime if such person shall have pleaded guilty or nolo contendere
+982 to a charge thereof before a court or federal magistrate or shall have been found guilty
+983 thereof by the decision or judgment of a court or federal magistrate or by the verdict of a
+984 jury, irrespective of the pronouncement of sentence or the suspension thereof, and
+985 regardless of whether first offender treatment without adjudication of guilt pursuant to the
+986 charge was entered, or an adjudication or sentence was otherwise withheld or not entered
+987 on that charge, unless and until such plea of guilty or such decision, judgment, or verdict
+988 shall have been set aside, reversed, or otherwise abrogated by lawful judicial process or
+989 until probation, sentence, or both probation and sentence of a first offender have been
+990 successfully completed and documented, or unless the person convicted of the crime shall
+991 have received a pardon thereon from the President of the United States or the governor or
+992 other pardoning authority in the jurisdiction where the conviction occurred, or shall have
+993 received an official certification of pardon granted by the state's pardoning body where the
+H. B. 15
+- 39 -
+25 LC 62 0051/AP
+994 conviction occurred which removes the legal disabilities resulting from such conviction and
+995 restores civil and political rights.
+996 (c) As used in this Code section, the term 'conviction data' means a record of a finding,
+997 verdict, or plea of guilty or plea of nolo contendere with regard to any crime, regardless of
+998 whether an appeal of the conviction has been sought. The department shall be authorized
+999 to obtain conviction data with respect to any applicant, holding company, merchant
+1000 acquirer limited purpose bank, or person who is a control person, director, officer, partner,
+1001 or employee of the applicant or merchant acquirer limited purpose bank. The department
+1002 may directly submit to the Georgia Crime Information Center two complete sets of
+1003 fingerprints of such person, together with the required records search fees and such other
+1004 information as may be required. Fees for background checks that the department
+1005 administers shall be sent to the department by applicants and merchant acquirer limited
+1006 purpose banks together with such fingerprints. Criminal history checks may be requested
+1007 by the department through the Georgia Crime Information Center and the Federal Bureau
+1008 of Investigation. The department shall have the authority to receive the results of such
+1009 checks. Fees required for a criminal history record check by the Georgia Crime
+1010 Information Center or the Federal Bureau of Investigation shall be paid by the applicant or
+1011 the merchant acquirer limited purpose bank.
+1012 (d) Upon request by the department, each applicant, holding company, or merchant
+1013 acquirer limited purpose bank or any person who is a control person, director, officer,
+1014 partner, or employee of the applicant or merchant acquirer limited purpose bank shall
+1015 submit to the department two complete sets of fingerprints, the required records search
+1016 fees, and such other information as may be required. Fees for background checks that the
+1017 department administers shall be submitted to the department by applicants and merchant
+1018 acquirer limited purpose banks together with two complete sets of fingerprints, and the
+1019 department is authorized to net such fees to recover any costs incurred by the department
+1020 related to running the background checks. Upon receipt of fingerprints, fees, and other
+H. B. 15
+- 40 -
+25 LC 62 0051/AP
+1021 required information from the department, the Georgia Crime Information Center shall
+1022 promptly transmit one set of fingerprints to the Federal Bureau of Investigation for a search
+1023 of bureau records and an appropriate report and shall retain the other set and promptly
+1024 conduct a search of its own records and records to which it has access. The Georgia Crime
+1025 Information Center shall notify the department in writing of any derogatory finding,
+1026 including, but not limited to, any conviction data regarding the fingerprint records check,
+1027 or if there is no such finding. All conviction data received by the department or by the
+1028 applicant or merchant acquirer limited purpose bank shall be used by the party requesting
+1029 such data department for the exclusive purpose of carrying out the responsibilities of this
+1030 article, shall not be a public record, shall be confidential, and shall not be disclosed to any
+1031 other person or agency except to any person or agency which otherwise has a legal right
+1032 to inspect the file. All such records shall be maintained by the department and the
+1033 applicant or merchant acquirer limited purpose bank pursuant to laws regarding such
+1034 records and the rules and regulations of the Federal Bureau of Investigation and the
+1035 Georgia Crime Information Center, as applicable.
+1036 (e) Every applicant and merchant acquirer limited purpose bank shall be authorized and
+1037 required to obtain and maintain the results of criminal background checks on employees.
+1038 Such criminal background checks shall be handled by the Georgia Crime Information
+1039 Center pursuant to Code Section 35-3-34 and the rules and regulations of the Georgia
+1040 Crime Information Center commercial background checks. Applicants and merchant
+1041 acquirer limited purpose banks shall be responsible for any applicable fees charged by the
+1042 Georgia Crime Information Center company performing the background check. An
+1043 applicant or merchant acquirer limited purpose bank may only employ a person whose
+1044 background data has been checked and been found to be in compliance with all lawful
+1045 requirements prior to the initial date of hire. This provision does not apply to control
+1046 persons, directors, officers, or partners, whose backgrounds have been investigated through
+1047 the department before taking office, beginning employment, or securing ownership. Upon
+H. B. 15
+- 41 -
+25 LC 62 0051/AP
+1048 receipt of information from the Georgia Crime Information Center that is incomplete or
+1049 that indicates an employee has a criminal record in any state other than Georgia, the
+1050 employer shall submit to the department two complete sets of fingerprints for such person,
+1051 together with the applicable fees and any other required information. The department shall
+1052 submit such fingerprints as provided in subsection (d) of this Code section. The
+1053 department shall be entitled to review the files of any applicant or merchant acquirer
+1054 limited purpose bank to determine whether the required commercial background checks
+1055 have been conducted and whether all employees are qualified. Notwithstanding the
+1056 requirement that applicants and merchant acquirer limited purpose banks conduct such
+1057 commercial background checks, the department shall retain the right to obtain conviction
+1058 data of employees of applicants and merchant acquirer limited purpose banks.
+1059 (f) Upon request by the department, an applicant or merchant acquirer limited purpose
+1060 bank must take all steps necessary to have an international criminal history background
+1061 check performed on any control person, director, officer, partner, or employee. The results
+1062 of such international criminal history background check must be provided to the
+1063 department.
+1064 (g) Applicants and merchant acquirer limited purpose banks shall have the primary
+1065 responsibility for obtaining background checks on employees. The department shall be
+1066 entitled to review the files of any applicant or merchant acquirer limited purpose bank to
+1067 determine whether the required background checks have been run and whether all
+1068 employees are qualified. The department shall be authorized to discuss the status of
+1069 employee background checks with applicants or merchant acquirer limited purpose banks.
+1070 Notwithstanding any other provisions in this article, the department shall retain the right
+1071 to obtain conviction data on employees of applicants and merchant acquirer limited
+1072 purpose banks Reserved.
+1073 (h) In the event the department denies an application to charter a merchant acquirer limited
+1074 purpose bank or an application to own or control a merchant acquirer limited purpose bank,
+H. B. 15
+- 42 -
+25 LC 62 0051/AP
+1075 the applicant may submit a new application at any time following notice of final denial.
+1076 The applicant shall not be prejudiced by any prior denials by the department."
+1077 SECTION 34.
+1078 Said title is further amended in said chapter by revising subsection (b) of and adding a new
+1079 subsection to Code Section 7-9-12.1, relating to treatment of merchant funds, to read as
+1080 follows:
+1081 "(b) All merchant funds shall be deposited immediately by the merchant acquirer limited
+1082 purpose bank and shall remain in an account at a financial institution that is federally
+1083 insured and authorized to do business in this state until paid over to the individual
+1084 merchant; provided, however, that nothing in this Code section shall preclude a merchant
+1085 acquirer limited purpose bank from making appropriate deductions for chargebacks, fees,
+1086 reserves, and other costs related to providing authorized merchant acquiring services owed
+1087 by the individual merchant prior to remitting the net amount to the individual merchant.
+1088 At the time of deposit into the account, the funds of the individual merchant in the account
+1089 shall be deemed to be the property of the individual merchant. The merchant acquirer
+1090 limited purpose bank shall maintain or cause to be maintained account records that identify
+1091 individual merchants and the total amount held for each individual merchant. Such records
+1092 shall be maintained in good faith and in the ordinary course of business and in a manner
+1093 that can be readily ascertained.
+1094 (c) Notwithstanding subsection (b) of this Code section, the department may, by regulation
+1095 or otherwise, authorize the merchant acquirer limited purpose bank to receive and hold
+1096 merchant funds in accordance with alternative safeguarding arrangements designed to
+1097 protect merchant funds."
+H. B. 15
+- 43 -
+25 LC 62 0051/AP
+1098 SECTION 35.
+1099 Said title is further amended in said chapter by revising subsection (a) of Code Section
+1100 7-9-13, relating to regulation and enforcement by department and rules and regulations, as
+1101 follows:
+1102 "(a) All merchant acquirer limited purpose banks chartered by the department shall be
+1103 subject to supervision, regulation, and examination by the department, including, but not
+1104 limited to, the examination powers as provided in Code Sections 7-1-64 through 7-1-73,
+1105 and the department shall have all enforcement powers provided in this title, including, but
+1106 not limited to, the enforcement powers provided in Code Section 7-1-92 and Part 7 of
+1107 Article 1 of Chapter 1 of this title."
+1108 SECTION 36.
+1109 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 15
+- 44 -
+[DELETED: 5L2,8,8htht4,6,ht r r o a o i o c u t r l f m l a m b t r r f t r f f b i t r b c]
+[DELETED: 5L i g b r C S 7 r t p b C S 7  S f s c a a f ]
+[DELETED: 5L r t p a o b h c o s a  I e c t d s t i c t f a r i t c c a e o a f p o t c o c a t b]
+[DELETED: 5L  F p o t a ' b m t s r o a o i r o e w a w w t t c a m i b p s t  T s s f t a w t d t w t f]
+[DELETED: 5L c a q a r a t v a t m o]
+[DELETED: 5L  T s s p s f a s b e b r o t o c o o a o i w p s]
+[DELETED: 5L t e o a t f s a f p o t s f a i s w 9 d f r o t a a i]
+[DELETED: 5L  ' c m a f a d i C S 1]
+[DELETED: 5L  T d m i a n o i t a w a a a  P b t d o t N M L S a]
+[DELETED: 5L s  ' c m a f a d i C S 1]
+[DELETED: 5L  T d m i a n o i t a w a t a]
+[DELETED: 5L f t i f a i A 1 o C 1 r t f b]
+[DELETED: 5L p a w p c o a o o t f  ' o d m t f b e b a l t i a p o a p w t t o o v o]
+[DELETED: 5L  ' c m a f a d i C S 1]
+[DELETED: 5L e a o o w a l f s a p r t o r m i c a]
+[DELETED: 5L t c o a l t s m l s t e t t ' o s d m i s t t r o a i e s i l p o u a s n t t p t a o o m o c o]
+[DELETED: 5L  ' s m a f i i b n  ' b m a p w d o i s  W r m l a a l t c a]
+[DELETED: 5L  T t d n i a e o a r o r b o   ' C R m t q o a r o r]
+[DELETED: 5L b o t o o t a m i e f s A o R M R f t l a]
+[DELETED: 5L  ' e b a m a a t i o o p i i t s p l r o e o r]
+[DELETED: 5L a a o a s o m s r i u t t o ]
+[DELETED: 5L c a o i i a c o a o f o b  ' i m a n o o i a b p  T d m i a n o i t a w a i a]
+[DELETED: 5L]
+[DELETED: 5L i o t p o s o t s t a p s o b p a s o a f o w]
+[DELETED: 5L  I a m b i a U S D o H a U]
+[DELETED: 5L a a f s s b m a t t d a]
+[DELETED: 5L  C m n w a l t t e a s b n w a l t m t F H F A R f E S S r o]
+[DELETED: 5L  M b a m l s e a m a b o  E f c s t a a t s l b g]
+[DELETED: 5L d t m c g a a c w t g f a m s f a t t  M a e l c w t c g f t s c a r p o t l t i m a c r s f t l o s o t]
+[DELETED: 5L r r t d m p p n o s t  M b a m l m u a t p t a w]
+[DELETED: 5L a p i C S 7 7 7 7 a  A f b m s s a l f a n t t]
+[DELETED: 5L d a o m a s p t t d i a]
+[DELETED: 5L t i e c t i h a a c t m f]
+[DELETED: 5L ( o t C s a s t t c a l t]
+[DELETED: 5L d t a t a t r a e G s G s r o r w t d u t]
+[DELETED: 5L  ' c m a f a d i C S 1 p e b o t f c e f a s f o a f d r t t f s  T d m i a n o i t a w a  P b t d o t N M L S a]
+[DELETED: 5L]
+[DELETED: 5L o t p m a l p b w o w]
+[DELETED: 5L o e o a m a l p b s h b a l p b w h b c o a f i a i o t p o s o t s t a]
+[DELETED: 5L o c d w r t a a h c m d s t t G C I C t c s o a m b r  F f b c t t d  F r f a c h r c b t G C  U r b t d e a h c o m]
+[DELETED: 5L C s n t d i w o a d f i t f  A s r s b m b t d a t C I C c p t b c  A]
+[DELETED: 5L s f a p i s ( o t C s  T b c a w a e a q  N t s i c h b c m b p t t  A a m a l p b s h t p w t r b c h b r a w a o c d o e o a a m a l]
+[DELETED: 5L a a t d b i t s u p o t t i]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 62 0051/AP
+House Bill 15 (AS PASSED HOUSE AND SENATE)
+By: Representatives Williamson of the 112th, Williams of the 148th, Douglas of the 78th,
+Dickey of the 134th, Ridley of the 6th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 7 of the Official Code of Georgia Annotated, relating to banking and finance,
+2 so as to update terminology; to revise procedures concerning incorporators of credit unions;
+3 to revise requirements of articles of incorporation of credit unions; to revise licensure
+4 requirements for money transmissions, cashing payment instruments, mortgage lenders and
+5 mortgage brokers, foreign banking institutions, and installment loans; to provide for revised
+6 auditing procedures for mortgage lenders and mortgage brokers; to provide for corporate
+7 governance requirements for mortgage lenders and mortgage brokers; to provide for liquidity
+8 requirements for mortgage lenders and mortgage brokers; to revise requirements for
+9 applications to relocate for foreign banking institutions; to revise background check
+10 procedures for merchant acquirer limited purpose banks; to provide for regulation by the
+11 Department of Banking and Finance of installment loans and merchant acquirer limited
+12 purpose banks; to revise deposit requirements for merchant acquirer limited purpose banks;
+13 to provide for definitions; to revise cross-references; to provide for related matters; to repeal
+14 conflicting laws; and for other purposes.
+15 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 15
+- 1 -
+
+25 LC 62 0051/AP
+16 SECTION 1.
+17 Title 7 of the Official Code of Georgia Annotated, relating to banking and finance, is
+18 amended in Article 1 of Chapter 1, relating to department of banking and finance and
+19 financial institutions generally, by revising Code Section 7-1-235, relating to part
+20 inapplicable to bank holding company transactions, as follows:
+21 "7-1-235.
+22 Except for the provisions of Code Sections 7-1-231 and 7-1-232, this This part shall not
+23 apply to a transaction subject to Code Sections 7-1-605 through 7-1-608, relating to bank
+24 holding companies."
+25 SECTION 2.
+26 Said title is further amended in Article 2 of Chapter 1, relating to banks and trust companies,
+27 by revising subsection (c) of Code Section 7-1-392, relating to articles of incorporation,
+28 advertisement of articles or notice of application, and naming registered agent, as follows:
+29 "(c) The incorporators shall file with the department the articles, together with the fee
+30 required by Code Section 7-1-862. Such filing shall constitute an application for a
+31 certificate of incorporation. Immediately upon the filing of the articles, the department
+32 shall certify a copy thereof and return it to the applicants, who shall, in conformity with
+33 Code Section 7-1-7 and on no later than the next business day following the filing of the
+34 articles, transmit for publication a copy of the articles or, in lieu thereof, a statement in
+35 substantially the following form:
+36 'An application for a certificate of incorporation of a (bank, trust company, or bank
+37 and trust company) to be known as the _______________________ and to be located
+38 at _______________________ in __________ County, Georgia, will be made to the
+39 Secretary of State of Georgia by (names and addresses counties of residence of
+40 incorporators) in accordance with Chapter 1 of Title 7 of the Official Code of Georgia
+41 Annotated, the "Financial Institutions Code of Georgia." A copy of the articles of
+H. B. 15
+- 2 -
+
+25 LC 62 0051/AP
+42 incorporation of such proposed (bank, trust company, or bank and trust company) and
+43 the application have been filed with the Department of Banking and Finance. The
+44 following persons have been proposed as the initial directors: (names and addresses
+45 counties of residence of proposed directors).'
+46 to the newspaper which is the official organ of the county where the main office will be
+47 located. The articles or statement must be published once a week for two consecutive
+48 weeks with the first publication occurring within ten days of receipt by the newspaper of
+49 the articles or statement."
+50 SECTION 3.
+51 Said title is further amended by revising paragraph (2) of subsection (b) of Code Section
+52 7-1-606, relating to prohibited activities of bank holding company or subsidiary and
+53 exceptions, as follows:
+54 "(2) In every case, the department shall take into consideration the financial and
+55 managerial resources, including the competence, character, and experience of
+56 management, and future prospects of the company or companies and the banks
+57 concerned."
+58 SECTION 4.
+59 Said title is further amended in Article 3 of Chapter 1, relating to credit unions, by revising
+60 Code Section 7-1-630, relating to subscribers, articles, filings, fee, and directors, as follows:
+61 "7-1-630.
+62 (a) Any number of persons, not less than eight, having a common bond, as defined in
+63 subsection (b) of this Code section, may incorporate for the purpose of organizing a credit
+64 union in accordance with this article. The persons so desiring to become incorporated shall
+65 execute articles which shall set forth the following:
+66 (1) The name of the proposed credit union;
+H. B. 15
+- 3 -
+
+25 LC 62 0051/AP
+67 (2) The territory in which it will operate;
+68 (3) The location where its initial registered office will be located;
+69 (4) The names and addresses counties of residence of the subscribers, their occupation,
+70 length of service, and that each has subscribed to one share and paid for same;
+71 (5) The names and addresses counties of residence of the original directors;
+72 (6) The proposed field of membership specified in detail and having the same common
+73 bond as the subscribers;
+74 (7) That the purpose and nature of the business are to conduct a credit union with the
+75 rights and powers granted by this article; and
+76 (8) The term of the existence of the credit union, which shall be perpetual unless
+77 otherwise limited.
+78 (b) For purposes of this article, 'common bond' means that specific relationship of
+79 occupation, association, or interest; residence or employment within a well-defined
+80 neighborhood, community, or rural district; employees of a common employer; or members
+81 of a bona fide cooperative, educational, fraternal, professional, religious, rural, or similar
+82 organization which tends to create a mutual interest between persons sharing the
+83 relationship. Persons related by blood, adoption, or marriage to or living in the same
+84 household with a person within such common bond and the surviving spouses of deceased
+85 members shall also be considered within the common bond.
+86 (c) The subscribers shall file the articles with the department together with the fee
+87 specified in Code Section 7-1-862. The department shall certify a copy of the articles and
+88 return it to the subscribers. Such filing shall constitute an application for a certificate of
+89 incorporation. Immediately upon the filing of the articles, the department shall certify a
+90 copy of the articles and return it to the subscribers, who shall, in conformity with Code
+91 Section 7-1-7 and no later than the next business day following the filing of the articles,
+92 transmit for publication a copy of the articles or, in lieu thereof, a statement in substantially
+93 the following form:
+H. B. 15
+- 4 -
+
+25 LC 62 0051/AP
+94 'An application for a certificate of incorporation of a credit union to be known as the
+95 _______________________ and to be located at _______________________ in
+96 __________ County, Georgia, will be made to the Secretary of State of Georgia by
+97 (names and counties of residence of subscribers) in accordance with Chapter 1 of
+98 Title 7 of the Official Code of Georgia Annotated, the "Financial Institutions Code
+99 of Georgia." A copy of the articles of incorporation of such proposed credit union and
+100 the application have been filed with the Department of Banking and Finance. The
+101 following persons have been proposed as the initial directors: (names and counties of
+102 residence of proposed directors).'
+103 to the newspaper which is the official organ of the county where the main office will be
+104 located. The articles or statement must be published once a week for two consecutive
+105 weeks with the first publication occurring within ten days of receipt by the newspaper of
+106 the articles or statement.
+107 (d) The subscriber shall file with the department a certificate from the Secretary of State
+108 attesting that the name of the proposed credit union has been reserved as authorized by
+109 Code Section 7-1-131.
+110 (e) The subscriber shall file with the department a copy of the proposed bylaws setting
+111 forth the following:
+112 (1) The date of the annual meeting, the manner of conducting the same, the number of
+113 members constituting a quorum and regulations as to voting, and the manner of
+114 notification of the meeting, which shall comply with Code Section 7-1-6;
+115 (2) The number of directors, which shall be not less than five nor more than 25, all of
+116 whom shall be members, and their powers and duties, together with the duties of the
+117 executive officers elected by the board of directors;
+118 (3) The qualifications for membership of those coming within the initial common bond
+119 as required by this article;
+120 (4) The conditions under which deposits are received and withdrawn; and
+H. B. 15
+- 5 -
+
+25 LC 62 0051/AP
+121 (5) The charges which shall be made, if any, for failure to meet obligations punctually;
+122 whether or not the credit union shall have the power to borrow; and such other matters
+123 consistent with this article as may be requisite to the organization and operation of the
+124 proposed credit union.
+125 (f) The subscriber shall pay such fee as shall be established by regulation of the
+126 department to defray the cost of the investigation required by Code Section 7-1-632,
+127 provided that the department shall not be required to set such fee if in its judgment the fee
+128 would discourage the organization of credit unions under this article.
+129 (g) The subscriber shall select at least five qualified persons who agree to serve on the
+130 board of directors. A signed agreement to serve in these capacities until the first annual
+131 meeting or until the election of their successors, whichever is later, shall be executed by
+132 those who so agree and filed with the department along with the proposed bylaws.
+133 (h) For the purposes of this article, the term 'executive officer' means an individual who
+134 performs significant managerial, supervisory, or policy-making functions on behalf of a
+135 credit union, including, but not limited to, the chief executive officer, president, chief
+136 financial officer, chief operating officer, and other individuals who perform such
+137 functions."
+138 SECTION 5.
+139 Said title is further amended in said article by revising Code Section 7-1-632, relating to
+140 approval or disapproval by department and certificate of incorporation, as follows:
+141 "7-1-632.
+142 (a) The department shall make an appropriate investigation of the articles and bylaws for
+143 the purpose of determining:
+144 (1) Whether the articles and bylaws conform to this article;
+H. B. 15
+- 6 -
+
+25 LC 62 0051/AP
+145 (2) The general character and qualifications of the subscribers, the proposed directors,
+146 and the executive officers and the financial stability and future prospects of the
+147 sponsoring company, if any;
+148 (3) The economic advisability of establishing the proposed credit union and such other
+149 facts and circumstances bearing on the proposed credit union as in the opinion of the
+150 department may be relevant;
+151 (4) That a common bond exists in accordance with Code Section 7-1-630; and
+152 (5) That the subscribers and person or corporation sponsoring the credit union are in
+153 agreement as to the services, if any, that the sponsor will provide;
+154 (6) Whether the convenience and needs of the public will be served by the proposed
+155 credit union; and
+156 (7) Whether the capital structure of the proposed credit union is adequate in relation to
+157 the amount and character of the anticipated business of the credit union and the safety of
+158 prospective members.
+159 (b) If the department determines to its satisfaction that the proposed credit union meets the
+160 criteria set forth above, it shall, within 90 days from receipt of the articles and in
+161 compliance with Code Section 7-1-630, send a copy of the articles and written approval of
+162 the articles to the Secretary of State after making such changes in the articles or bylaws
+163 consistent with this article and with the consent of the subscribers that it deems appropriate;
+164 provided, however, that, if the approval of a federal public body is also required with
+165 respect to the proposed credit union, then the department may elect to not act on the
+166 application until after such approval is given. Such approval shall indicate any changes
+167 made to the articles including changes from the proposed field of membership. If the
+168 department shall disapprove the articles, the procedures of subsection (b) of Code Section
+169 7-1-635 shall be followed.
+H. B. 15
+- 7 -
+
+25 LC 62 0051/AP
+170 (c) Upon receipt of the approval of the department, the Secretary of State shall thereupon
+171 issue a certificate attesting to the incorporation of the credit union. The credit union shall,
+172 however, confine itself to organizational activities until it receives a permit to do business."
+173 SECTION 6.
+174 Said title is further amended in said article by revising paragraph (3) of subsection (b) of
+175 Code Section 7-1-658, relating to loans, as follows:
+176 "(3) In lieu of a credit committee, the board of directors may appoint one or more loan
+177 officers and delegate to such persons the power to approve or disapprove loans to a
+178 borrower that do not in the aggregate exceed 5 percent of the net worth of the credit union
+179 subject to such limitations or conditions set forth in this Code section for loans generally
+180 and such further limitations and conditions as the board may prescribe. All other duties
+181 of the credit committee as described in this article shall become the duties of the board
+182 of directors. Records of loans approved shall be maintained by the loan officers in such
+183 form as the board shall prescribe and a listing of all loans made, including the name of
+184 the borrower and the amount of the loan, shall be submitted to the board at each meeting
+185 shall be made available to the board upon request; and"
+186 SECTION 7.
+187 Said title is further amended in Article 4 of Chapter 1, relating to money transmission, by
+188 adding a new paragraph to Code Section 7-1-680, relating to definitions, to read as follows:
+189 "(8.1) 'Disqualifying crime' means any felony, as defined in Code Section 16-1-3,
+190 involving conversion, theft, money laundering, bribery, dishonesty, false statements or
+191 omissions, perjury, extortion, breach of trust, forgery, counterfeiting, embezzlement,
+192 insider trading, tax evasion, kickbacks, identity theft, cyber attacks, social engineering,
+193 fraud, including but not limited to check fraud, credit card fraud, mortgage fraud, medical
+194 fraud, corporate fraud, bank account fraud, payment (point of sale) fraud, currency fraud,
+H. B. 15
+- 8 -
+
+25 LC 62 0051/AP
+195 bank fraud, and securities fraud or a felony directly related to the financial services
+196 business."
+197 SECTION 8.
+198 Said title is further amended in said article by adding a new subsection to Code Section
+199 7-1-683, relating to requirements for licensure, fees, and rules and regulations, to read as
+200 follows:
+201 "(e) The department may issue a notice of intent to administratively withdraw an
+202 application for a license under this article if an applicant submits a deficient license
+203 application by failing to provide any information required by the department. If the
+204 applicant fails to provide the requested information within 30 days of the date of issuance
+205 of such notice, the application may be administratively withdrawn. The notice shall be
+206 deemed provided to the applicant when:
+207 (1) Sent via email to the applicant's email address, as provided on the application; or
+208 (2) Posted by the department on the Nationwide Multistate Licensing System and
+209 Registry."
+210 SECTION 9.
+211 Said title is further amended in said article by revising subsection (c) of Code Section
+212 7-1-684, relating to investigation of applicants for licensure and background checks on
+213 employees and others, as follows:
+214 "(c) The department shall not issue a license or may revoke a license if it finds that the
+215 applicant, licensee, or authorized agent; any person who is a director, officer, partner,
+216 covered employee, or ultimate equitable owner of the applicant, licensee, or authorized
+217 agent; or any individual who directs the affairs of or controls or establishes policy for the
+218 applicant, licensee, or authorized agent has been convicted of a felony in any jurisdiction
+H. B. 15
+- 9 -
+
+25 LC 62 0051/AP
+219 or of a crime which, if committed within this state, would constitute a felony under the
+220 laws of this state:
+221 (1) Within the previous seven years; or
+222 (2) At any time, if such felony is a disqualifying crime.
+223 For the purposes of this article, a person shall be deemed to have been convicted of a crime
+224 if such person shall have pleaded guilty or nolo contendere to a charge thereof before a
+225 court or federal magistrate or shall have been found guilty thereof by the decision or
+226 judgment of a court or federal magistrate or by the verdict of a jury, irrespective of the
+227 pronouncement of sentence or the suspension thereof and regardless of whether first
+228 offender treatment without adjudication of guilt pursuant to the charge was entered or an
+229 adjudication or sentence was otherwise withheld or not entered on that charge, unless and
+230 until such plea of guilty or such decision, judgment, or verdict shall have been set aside,
+231 reversed, or otherwise abrogated by lawful judicial process or until probation, sentence, or
+232 both probation and sentence of a first offender without adjudication of guilt have been
+233 successfully completed and documented or unless the person convicted of the crime shall
+234 have received a pardon therefor from the President of the United States or the governor or
+235 other pardoning authority in the jurisdiction where the conviction occurred."
+236 SECTION 10.
+237 Said title is further amended in Article 4A of Chapter 1, relating to cashing of payment
+238 instruments, by adding a new paragraph to Code Section 7-1-700, relating to definitions, to
+239 read as follows:
+240 "(8.1) 'Disqualifying crime' means any felony, as defined in Code Section 16-1-3,
+241 involving conversion, theft, money laundering, bribery, dishonesty, false statements or
+242 omissions, perjury, extortion, breach of trust, forgery, counterfeiting, embezzlement,
+243 insider trading, tax evasion, kickbacks, identity theft, cyber attacks, social engineering,
+244 fraud, including but not limited to check fraud, credit card fraud, mortgage fraud, medical
+H. B. 15
+- 10 -
+
+25 LC 62 0051/AP
+245 fraud, corporate fraud, bank account fraud, currency fraud, bank fraud, and securities
+246 fraud or a felony directly related to the financial services business."
+247 SECTION 11.
+248 Said title is further amended in said article by adding a new subsection to Code Section
+249 7-1-702, relating to requirements for licensure, to read as follows:
+250 "(e) The department may issue a notice of intent to administratively withdraw an
+251 application for a license under this article if an applicant submits a deficient license
+252 application by failing to provide any information required by the department. If the
+253 applicant fails to provide the requested information within 30 days of the date of issuance
+254 of such notice, the application may be administratively withdrawn. The notice shall be
+255 deemed provided to the applicant when:
+256 (1) Sent via email to the applicant's email address, as provided on the application; or
+257 (2) Posted by the department on the Nationwide Multistage Licensing System and
+258 Registry."
+259 SECTION 12.
+260 Said title is further amended in said article by revising subsection (c) of Code Section
+261 7-1-703, relating to investigation of applicants and background checks of employees and
+262 others, as follows:
+263 "(c) The department shall not issue a license or may revoke a license if it finds that the
+264 applicant or licensee; any person who is a director, officer, partner, covered employee, or
+265 ultimate equitable owner of the applicant or licensee; or any individual who directs the
+266 affairs of or controls or establishes policy for the applicant or licensee has been convicted
+267 of a felony in any jurisdiction or of a crime which, if committed within this state, would
+268 constitute a felony under the laws of this state:
+269 (1) Within the previous seven years; or
+H. B. 15
+- 11 -
+
+25 LC 62 0051/AP
+270 (2) At any time, if such felony is a disqualifying crime.
+271 For the purposes of this article, a person shall be deemed to have been convicted of a crime
+272 if such person shall have pleaded guilty or nolo contendere to a charge thereof before a
+273 court or federal magistrate or shall have been found guilty thereof by the decision or
+274 judgment of a court or federal magistrate or by the verdict of a jury, irrespective of the
+275 pronouncement of sentence or the suspension thereof and regardless of whether first
+276 offender treatment without adjudication of guilt pursuant to the charge was entered or an
+277 adjudication or sentence was otherwise withheld or not entered on that charge, unless and
+278 until such plea of guilty or such decision, judgment, or verdict shall have been set aside,
+279 reversed, or otherwise abrogated by lawful judicial process or until probation, sentence, or
+280 both probation and sentence of a first offender without adjudication of guilt have been
+281 successfully completed and documented or unless the person convicted of the crime shall
+282 have received a pardon therefor from the President of the United States or the governor or
+283 other pardoning authority in the jurisdiction where the conviction occurred."
+284 SECTION 13.
+285 Said title is further amended in Article 13 of Chapter 1, relating to foreign banking
+286 institutions, by revising Code Section 7-1-1000, relating to definitions, as follows:
+287 "7-1-1000.
+288 As used in this article, the term:
+289 (1) 'Affiliate' or 'person affiliated with' means, when used with reference to a specified
+290 person, a person who directly, indirectly, or through one or more intermediaries controls,
+291 is controlled by, or is under common control with the person specified. Any beneficial
+292 owner of 10 percent or more of the securities of a person or any executive officer,
+293 director, trustee, joint venturer, or general partner of a person is an affiliate of such person
+294 unless the shareholder, executive officer, director, trustee, joint venturer, or general
+H. B. 15
+- 12 -
+
+25 LC 62 0051/AP
+295 partner shall prove that he or she in fact does not control, is not controlled by, or is not
+296 under common control with such person.
+297 (1.1) 'Allowable assets for liquidity' means:
+298 (A) Unrestricted cash and cash equivalents; and
+299 (B) Unencumbered investment grade assets held for sale or trade; mortgage-backed
+300 securities or other obligations of government sponsored entities and obligations of the
+301 United States Department of Treasury.
+302 (2) 'Audited financial statement' means the product of the examination of financial
+303 statements in accordance with generally accepted auditing standards by an independent
+304 certified public accountant, which product consists of an opinion on the financial
+305 statements indicating their conformity with generally accepted accounting principles.
+306 (2.1) 'Board of directors' means the formal body established by a licensee that is
+307 responsible for corporate governance and compliance with this article.
+308 (3) 'Commissioner' means the commissioner of banking and finance.
+309 (4) 'Commitment' or 'commitment agreement' means a statement by a lender required to
+310 be licensed under this article that sets forth the terms and conditions upon which the
+311 lender is willing to make a particular mortgage loan to a particular borrower.
+312 (5) 'Control,' including 'controlling,' 'controlled by,' and 'under common control with,'
+313 means the direct or indirect possession of the power to direct or cause the direction of the
+314 management and policies of a person, whether through the ownership of voting or
+315 nonvoting securities, by contract, or otherwise.
+316 (5.1) 'Corporate governance' means the structure of a licensee and how it is managed
+317 including the corporate rules, policies, processes, and practices used to oversee and
+318 manage the licensee.
+319 (5.2) 'Covered employee' means any employee of a mortgage lender or mortgage broker
+320 who is involved in residential mortgage loan related activities for property located in
+321 Georgia and includes, but is not limited to, a mortgage loan originator, processor, or
+H. B. 15
+- 13 -
+
+25 LC 62 0051/AP
+322 underwriter, or other employee who has access to residential mortgage loan origination,
+323 processing, or underwriting information.
+324 (5.3) 'Covered servicer' means a mortgage lender with a servicing portfolio of 2,000 or
+325 more residential mortgage serviced or subserviced loans as reported in the mortgage
+326 lender's Mortgage Call Report as of the most recent calendar year end, excluding whole
+327 loans owned, reverse mortgages that are serviced or subserviced for others, and loans
+328 being interim serviced prior to sale.
+329 (6) 'Department' means the Department of Banking and Finance.
+330 (7) 'Depository institution' has the same meaning as in Section 3 of the Federal Deposit
+331 Insurance Act, 12 U.S.C. Section 1813(c), and includes any credit union.
+332 (7.1) 'Disqualifying crime' means any felony, as defined in Code Section 16-1-3,
+333 involving conversion, theft, money laundering, bribery, dishonesty, false statements or
+334 omissions, perjury, extortion, breach of trust, forgery, counterfeiting, embezzlement,
+335 insider trading, tax evasion, kickbacks, identity theft, cyber attacks, social engineering,
+336 fraud, including but not limited to check fraud, credit card fraud, mortgage fraud, medical
+337 fraud, corporate fraud, bank account fraud, payment (point of sale) fraud, currency fraud,
+338 bank fraud, and securities fraud, or a felony directly related to the financial services
+339 business.
+340 (8) 'Dwelling' means a residential structure that contains one to four units, whether or not
+341 that structure is attached to real property pursuant to Regulation Z Section 226.2(a)(19).
+342 The term includes an individual condominium unit, cooperative unit, mobile home, and
+343 trailer if it is used as a residence.
+344 (9) 'Executive officer' means the chief executive officer, the president, the principal
+345 financial officer, the principal operating officer, each vice president with responsibility
+346 involving policy-making functions for a significant aspect of a person's business, the
+347 secretary, the treasurer, or any other person performing similar managerial or supervisory
+348 functions with respect to any organization whether incorporated or unincorporated.
+H. B. 15
+- 14 -
+
+25 LC 62 0051/AP
+349 (9.1) 'External audit' means a formal report prepared by an independent certified public
+350 accountant expressing an opinion on whether a licensee's financial statements are
+351 presented fairly, in all material aspects, in accordance with the applicable financial
+352 reporting framework, and is inclusive of an evaluation of the adequacy of a licensee's
+353 internal control structure.
+354 (10) 'Extortionate means' means the use or the threat of violence or other criminal means
+355 to cause harm to the person, reputation of the person, or property of the person.
+356 (11) 'Federal banking agencies' means the Comptroller of the Currency, the National
+357 Credit Union Administration, and the Federal Deposit Insurance Corporation. Such term
+358 shall also include the Board of Governors of the Federal Reserve System.
+359 (12) 'Georgia Residential Mortgage Act' means this article, which also includes certain
+360 provisions in order to implement the federal Secure and Fair Enforcement for Mortgage
+361 Licensing Act of 2008.
+362 (12.1) 'Government sponsored entity' means a quasi-public entity that facilitates credit
+363 access in the residential mortgage market, including but not limited to, the Federal
+364 National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the
+365 Government National Mortgage Association.
+366 (13) 'Individual' means a natural person.
+367 (13.1) 'Interim serviced prior to sale' means the activity of collecting a limited number
+368 of contractual mortgage payments immediately after origination on loans held for sale but
+369 prior to the loans being sold into the secondary market.
+370 (13.2) 'Internal audit' means a licensee's internal activity of performing independent,
+371 objective assurance and consulting to evaluate and improve the effectiveness of the
+372 licensee's processes related to operations, risk management, internal controls, and
+373 governance.
+374 (14) 'License' means a license issued by the department under this article to act as a
+375 mortgage loan originator, mortgage lender, or mortgage broker.
+H. B. 15
+- 15 -
+
+25 LC 62 0051/AP
+376 (14.1) 'Liquidity' means access to unrestricted cash and cash equivalents, capacity to
+377 obtain funds at a reasonable cost, and the ability to meet obligations as they become due.
+378 In the case of a licensee that services mortgage loans, such term encompasses the
+379 financial resources necessary to manage liquidity risk arising from servicing functions
+380 required in acquiring and financing mortgage servicing rights; hedging costs, including
+381 margin calls, associated with the mortgage servicing rights and financing facilities; and
+382 advances or costs of advance financing for principal, interest, taxes, insurance, and any
+383 other servicing related advances.
+384 (15) 'Loan processor or underwriter' means an individual who performs clerical or
+385 support duties as an employee at the direction of and subject to the supervision and
+386 instruction of a person licensed or exempt from licensing. For purposes of this paragraph,
+387 the term 'clerical or support duties' may include, subsequent to the receipt of an
+388 application, the receipt, collection, distribution, and analysis of information common for
+389 the processing or underwriting of a residential mortgage loan; and communicating with
+390 a consumer to obtain the information necessary for the processing or underwriting of a
+391 loan, to the extent that such communication does not include offering or negotiating loan
+392 rates or terms or counseling consumers about residential mortgage loan rates or terms.
+393 An individual engaging solely in loan processor or underwriter activities shall not
+394 represent to the public, through advertising or other means of communicating or
+395 providing information, including the use of business cards, stationery, brochures, signs,
+396 rate lists, or other promotional items, that such individual can or will perform any of the
+397 activities of a mortgage loan originator.
+398 (16) 'Lock-in agreement' means a written agreement whereby a lender or a broker
+399 required to be licensed under this article guarantees for a specified number of days or
+400 until a specified date the availability of a specified rate of interest for a mortgage loan,
+401 a specified formula by which the rate of interest will be determined, or a specific number
+H. B. 15
+- 16 -
+
+25 LC 62 0051/AP
+402 of discount points if the mortgage loan is approved and closed within the stated period
+403 of time.
+404 (17) 'Makes a mortgage loan' means to advance funds, offer to advance funds, or make
+405 a commitment to advance funds to an applicant for a mortgage loan.
+406 (18) 'Misrepresent' means to make a false statement of a substantive fact. Misrepresent
+407 may also mean to intentionally engage in any conduct which leads to a false belief which
+408 is material to the transaction.
+409 (18.1) 'Mortgage-backed security' means a financial instrument, including, but not
+410 limited to, an asset backed security, that is secured by residential property.
+411 (19)(A) 'Mortgage broker' means any person who directly or indirectly solicits,
+412 processes, places, or negotiates mortgage loans for others; offers to solicit, process,
+413 place, or negotiate mortgage loans for others; or closes mortgage loans which may be
+414 in the mortgage broker's own name with funds provided by others, and which loans are
+415 assigned to the mortgage lenders providing the funding of such loans within 24 hours
+416 of the funding.
+417 (B) The term does not include a retailer or retail broker of a manufactured or mobile
+418 home as defined in Code Section 8-2-131 or a residential industrialized building as
+419 defined in Code Section 8-2-111:
+420 (i) Whose residential mortgage loan activities are limited to compiling and
+421 transmitting residential mortgage loan applications along with related supporting
+422 documentation to mortgage lenders who are licensed or exempt from the licensing
+423 provisions of this article or communicating with residential mortgage loan applicants
+424 as necessary to obtain additional documents that complete the residential mortgage
+425 loan application to those licensed or exempt mortgage lenders; and
+426 (ii) Who does not receive any payment or fee from any person for assisting the
+427 applicant to apply for or obtain financing to purchase the manufactured home, mobile
+428 home, or residential industrialized building.
+H. B. 15
+- 17 -
+
+25 LC 62 0051/AP
+429 (C) The term does not include an employee of a retailer or retail broker of a
+430 manufactured or mobile home as defined in Code Section 8-2-131 or a residential
+431 industrialized building as defined in Code Section 8-2-111 who:
+432 (i) Satisfies the requirements set forth in paragraph (B) of this paragraph;
+433 (ii) Is acting within the scope of employment and under the supervision of the retailer
+434 or retail broker as an employee and not as an independent contractor;
+435 (iii) Is employed by only one such retailer or retail broker and shall be at all times
+436 eligible for employment in compliance with the provisions and prohibitions of Code
+437 Section 7-1-1004;
+438 (iv) Has not been issued a cease and desist order in the past five years if such order
+439 was based on a violation of Code Section 7-1-1002 or 7-1-1013; and
+440 (v) Has not had a mortgage lender, mortgage broker, or mortgage loan originator
+441 license revoked within the past five years.
+442 (19.1) 'Mortgage Call Report' means the quarterly or annual report of residential
+443 mortgage loan origination, servicing, and financial information completed by licensees
+444 pursuant to subsection (b) of Code Section 7-1-1004.1.
+445 (20) 'Mortgage lender' means any person who directly or indirectly makes, originates,
+446 underwrites, holds, or purchases mortgage loans or who services mortgage loans.
+447 (21) 'Mortgage loan' means a loan or agreement to extend credit made to a natural
+448 person, which loan is secured by a deed to secure debt, security deed, mortgage, security
+449 instrument, deed of trust, or other document representing a security interest or lien upon
+450 any interest in one-to-four family residential property located in Georgia, regardless of
+451 where made, including the renewal or refinancing of any such loan.
+452 (22) 'Mortgage loan originator' means an individual who for compensation or gain or in
+453 the expectation of compensation or gain takes a residential mortgage loan application or
+454 offers or negotiates terms of a residential mortgage loan. Generally, this does not include
+455 an individual engaged solely as a loan processor or underwriter except as otherwise
+H. B. 15
+- 18 -
+
+25 LC 62 0051/AP
+456 provided in subsection (a.1) of Code Section 7-1-1002; a person or entity that only
+457 performs real estate brokerage activities and is licensed in accordance with Georgia law
+458 unless the person or entity is compensated by a mortgage lender, mortgage broker, or
+459 other mortgage loan originator or by any agent of such mortgage lender, mortgage broker,
+460 or other mortgage loan originator; and does not include a person or entity solely involved
+461 in extensions of credit relating to time-share plans, as that term is defined in 11 U.S.C.
+462 Section 101(53D).
+463 (22.1) 'Mortgage servicing rights' means the contractual right to service mortgage loans
+464 on behalf of the owner of the associated mortgage in exchange for specified
+465 compensation in accordance with the servicing contract.
+466 (22.2) 'Mortgage servicing rights investor' or 'master servicer' means a person that invests
+467 in and owns mortgage servicing rights and relies on subservicers to administer the loans
+468 on such person's behalf.
+469 (23) 'Nationwide Multistate Licensing System and Registry' means a mortgage licensing
+470 system developed and maintained by the Conference of State Bank Supervisors and the
+471 American Association of Residential Mortgage Regulators for the licensing and
+472 registration of licensed mortgage loan originators, mortgage loan brokers, and mortgage
+473 loan lenders, or its successor.
+474 (23.1) 'Net worth' means:
+475 (A) With respect to a mortgage broker or a mortgage lender that is not a covered
+476 servicer, the total equity less receivables due from related entities less goodwill and
+477 other intangibles less pledged assets; and
+478 (B) With respect to a mortgage lender that is a covered servicer, shall have the same
+479 meaning as provided in Federal Housing Finance Agency's Eligibility Requirements for
+480 Enterprise Single-Family Seller/Servicer.
+481 (24) 'Nontraditional mortgage product' means any mortgage product other than a 30 year
+482 fixed rate mortgage.
+H. B. 15
+- 19 -
+
+25 LC 62 0051/AP
+483 (25) 'Person' means any individual, sole proprietorship, corporation, limited liability
+484 company, partnership, trust, or any other group of individuals, however organized.
+485 (26) 'Real estate brokerage activity' means any activity that involves offering or
+486 providing real estate brokerage services to the public, including acting as a real estate
+487 agent or real estate broker for a buyer, seller, lessor, or lessee of real property; bringing
+488 together parties interested in the sale, purchase, lease, rental, or exchange of real
+489 property; negotiating, on behalf of any party, any portion of a contract relating to the sale,
+490 purchase, lease, rental, or exchange of real property, other than in connection with
+491 providing financing with respect to any such transaction; engaging in any activity for
+492 which a person engaged in the activity is required to be registered or licensed as a real
+493 estate agent or real estate broker under any applicable law; and offering to engage in any
+494 activity or act in any capacity described herein.
+495 (27) 'Registered mortgage loan originator' means any individual who meets the definition
+496 of mortgage loan originator, is registered with and maintains a unique identifier through
+497 the Nationwide Multistate Licensing System and Registry, and is an employee of:
+498 (A) A depository institution;
+499 (B) A subsidiary that is:
+500 (i) Owned and controlled by a depository institution; and
+501 (ii) Regulated by a federal banking agency; or
+502 (C) An institution regulated by the Farm Credit Administration.
+503 (28) Reserved.
+504 (29) 'Residential property' means improved real property used or occupied, or intended
+505 to be used or occupied, as the primary residence of a natural person. Such term does not
+506 include rental property or second homes. A natural person can have only one primary
+507 residence.
+508 (30) 'Residential mortgage loan' means any loan primarily for personal, family, or
+509 household use that is secured by a mortgage, deed of trust, or other equivalent consensual
+H. B. 15
+- 20 -
+
+25 LC 62 0051/AP
+510 security interest on a dwelling, as defined in 15 U.S.C. Section 1602 of the Truth in
+511 Lending Act, or residential real estate upon which is constructed or intended to be
+512 constructed a dwelling.
+513 (31) 'Residential real estate' means any real property located in Georgia upon which is
+514 constructed or intended to be constructed a dwelling.
+515 (31.1) 'Reverse mortgage' means a loan collateralized by residential real estate, typically
+516 made to borrowers over 55 years of age, that does not require contractual monthly
+517 payments and is typically repaid upon the death of the borrower through the sale of the
+518 real estate or through refinancing of the loan by the borrower's heirs.
+519 (31.2) 'Risk management assessment' means the functional evaluations of a licensee
+520 performed under a risk management program and the corresponding reports provided to
+521 the licensee's board of directors under the relevant governance framework.
+522 (31.3) 'Risk management program' means the policies and procedures of a licensee that
+523 are designed to identify, measure, monitor, and mitigate risk and that are sufficient for
+524 the level of sophistication of the licensee.
+525 (32) 'Service a mortgage loan' means the collection or remittance or the right to collect
+526 or remit payments of principal, interest, trust items such as insurance and taxes, and any
+527 other payments pursuant to a mortgage loan.
+528 (32.1) 'Servicer' means a person that services a mortgage loan.
+529 (32.2) 'Servicing portfolio' means the specific portfolio or portfolios of mortgage loans
+530 for which a licensee is contractually responsible to the owner or owners of the mortgage
+531 loans for the defined servicing activities.
+532 (32.3) 'Subserviced for others' means the contractual activities performed by subservicers
+533 on behalf of a servicer or a mortgage servicing rights investor.
+534 (32.4) 'Subservicer' means a person performing routine administration of mortgage loans
+535 as an agent of a servicer or mortgage serving rights investor under the terms of a
+536 subservicing contract.
+H. B. 15
+- 21 -
+
+25 LC 62 0051/AP
+537 (33) 'Ultimate equitable owner' means a natural person who, directly or indirectly, owns
+538 or controls an ownership interest in a corporation or any other form of business
+539 organization, regardless of whether such natural person owns or controls such ownership
+540 interest through one or more natural persons or one or more proxies, powers of attorney,
+541 nominees, corporations, associations, limited liability companies, partnerships, trusts,
+542 joint-stock companies, other entities or devices, or any combination thereof.
+543 (34) 'Unique identifier' means a number or other identifier assigned by protocols
+544 established by the Nationwide Multistate Licensing System and Registry.
+545 (35) 'Whole loans' mean those loans where a mortgage and the underlying credit risk is
+546 owned and held on the balance sheet of the person with all ownership rights associated
+547 with the loans."
+548 SECTION 14.
+549 Said title is further amended in said article by adding a new subsection to Code Section
+550 7-1-1003, relating to applications for licenses, to read as follows:
+551 "(d) The department may issue a notice of intent to administratively withdraw an
+552 application for a license under this article if an applicant submits a deficient license
+553 application by failing to provide any information required by the department. If the
+554 applicant fails to provide the requested information within 30 days of the date of issuance
+555 of such notice, the application may be administratively withdrawn. The notice shall be
+556 deemed provided to the applicant when:
+557 (1) Sent via email to the applicant's email address, as provided on the application; or
+558 (2) Posted by the department on the Nationwide Multistage Licensing System and
+559 registry."
+H. B. 15
+- 22 -
+
+25 LC 62 0051/AP
+560 SECTION 15.
+561 Said title is further amended in said article by revising subsections (e) and (i) of Code Section
+562 7-1-1004, relating to investigation of applicant, requirements for applicant, and denial and
+563 revocation of license, as follows:
+564 "(e) Upon receipt of an application for a mortgage loan originator license, the department
+565 shall conduct such investigation as it deems necessary to determine that the mortgage loan
+566 originator applicant:
+567 (1) Has never had a mortgage loan originator license revoked in any governmental
+568 jurisdiction, except that a subsequent formal vacation of such revocation shall not be
+569 deemed a revocation;
+570 (2) Has not been convicted of, or pleaded guilty or nolo contendere to, a felony in a
+571 domestic, foreign, or military court, regardless of whether first offender treatment without
+572 adjudication of guilt was entered:
+573 (A) Within the previous seven years; or
+574 (B) At any time, if such felony is a disqualifying crime;
+575 provided, however, that any pardon of a conviction shall not be a conviction for purposes
+576 of this subsection;
+577 (3) Has demonstrated financial responsibility, character, and general fitness such as to
+578 command the confidence of the community and to warrant a determination that the
+579 mortgage loan originator will operate honestly, fairly, and efficiently within the purposes
+580 of this article;
+581 (4) Has completed the prelicensing education requirement described in subsection (f) of
+582 this Code section; and
+583 (5) Has passed a written test that meets the test requirement described in subsection (h)
+584 of this Code section."
+585 "(i) The department shall not issue or may revoke a license if it finds that the mortgage
+586 loan originator, mortgage broker, or mortgage lender applicant or licensee, or any person
+H. B. 15
+- 23 -
+
+25 LC 62 0051/AP
+587 who is a director, officer, partner, covered employee, or ultimate equitable owner of 10
+588 percent or more of the mortgage broker or mortgage lender applicant or licensee or any
+589 individual who directs the affairs or establishes policy for the mortgage broker or mortgage
+590 lender applicant or licensee, has been convicted of a felony in any jurisdiction or of a crime
+591 which, if committed within this state, would constitute a felony under the laws of this state.
+592 Other than a mortgage loan originator, for the purposes of this article, a person shall be
+593 deemed to have been convicted of a crime if such person shall have pleaded guilty or nolo
+594 contendere to a charge thereof before a court or federal magistrate or shall have been found
+595 guilty thereof by the decision or judgment of a court or federal magistrate or by the verdict
+596 of a jury, within the previous seven years or at any time, if such felony is a disqualifying
+597 crime, irrespective of the pronouncement of sentence or the suspension thereof, and
+598 regardless of whether first offender treatment without adjudication of guilt pursuant to the
+599 charge was entered, or an adjudication or sentence was otherwise withheld or not entered
+600 on the charge, unless and until such plea of guilty, or such decision, judgment, or verdict,
+601 shall have been set aside, reversed, or otherwise abrogated by lawful judicial process or
+602 until probation, sentence, or both probation and sentence of a first offender without
+603 adjudication of guilt have been successfully completed and documented, or unless the
+604 person convicted of the crime shall have received a pardon therefor from the President of
+605 the United States or the governor or other pardoning authority in the jurisdiction where the
+606 conviction occurred. For purposes of this article subsection (e) of this Code section, a
+607 mortgage loan originator shall be deemed to have been convicted of a crime if he or she has
+608 pleaded guilty to, been found guilty of, or entered a first offender or nolo contendere plea
+609 to a felony in a domestic, foreign, or military court; provided, however, that any pardon of
+610 a conviction shall not be a conviction."
+H. B. 15
+- 24 -
+
+25 LC 62 0051/AP
+611 SECTION 16.
+612 Said title is further amended in said article by revising Code Section 7-1-1004.1, relating to
+613 reports of condition, as follows:
+614 "7-1-1004.1.
+615 Each mortgage broker and mortgage lender shall submit to the Nationwide Multistate
+616 Licensing System and Registry:
+617 (1) Reports reports of condition, which shall be in such form and shall contain such
+618 information as the department and the Nationwide Multistate Licensing System and
+619 Registry may require; and
+620 (2) Quarterly and annual reports of residential mortgage loan origination, servicing, and
+621 financial information in such form as required by the department and the Nationwide
+622 Multistate Licensing System and Registry."
+623 SECTION 17.
+624 Said title is further amended in said article by revising Code Section 7-1-1010, relating to
+625 annual financial statements, as follows:
+626 "7-1-1010.
+627 (a) If a mortgage broker is a United States Department of Housing and Urban
+628 Development loan correspondent, such broker shall also submit to the department the audit
+629 that is required for the United States Department of Housing and Urban Development.
+630 Mortgage brokers shall, at least once each year, submit to the department a financial
+631 statement that is unaudited and prepared in accordance with generally accepted accounting
+632 principles and certified by the licensee; provided, however, that mortgage brokers may
+633 elect to submit to the department an audited financial statement to satisfy this requirement.
+634 In the event that the mortgage broker submits to the department an unaudited financial
+635 statement prepared in accordance with generally accepted accounting principles in lieu of
+636 an audited financial statement, the The department may require the mortgage broker to
+H. B. 15
+- 25 -
+
+25 LC 62 0051/AP
+637 have made an audit of the books and affairs of the licensed business and submit to the
+638 department an audited financial statement if the department finds that such an audit is
+639 necessary to determine whether the mortgage broker is complying with the provisions of
+640 this article and the rules and regulations adopted in furtherance of this article.
+641 (b)(1) Each mortgage lender licensed under this article shall, at least once each year,
+642 have made an external audit of the books and affairs of the licensed business, including
+643 and submit to the department at renewal an audited financial statement, except that a
+644 mortgage lender licensed under this article which is a subsidiary shall comply with this
+645 provision by annually providing a consolidated audited financial statement of its parent
+646 company and a financial statement, which may be unaudited, of the licensee which that
+647 is prepared in accordance with generally accepted accounting principles. The external
+648 audit and audited financial statement shall be made available to the department as
+649 required by the department except as provided in paragraph (2) of this subsection. A
+650 lender who utilizes a bond in lieu of an audit need not supply such audit, unless specially
+651 required by the department. An audit shall be less than 15 months old to be acceptable.
+652 (2) Based on the total assets of the mortgage lender, the complexity of the mortgage
+653 lender, the number of loans made by the mortgage lender, or other factors, the department
+654 may enact rules and regulations authorizing certain mortgage lenders to provide financial
+655 statements under paragraph (1) of this subsection that are unaudited.
+656 (c) The department may by regulation establish additional minimum standards for audits
+657 and reports under this Code section."
+658 SECTION 18.
+659 Said title is further amended in said article by revising subparagraph (1)(B) of Code Section
+660 7-1-1016, relating to regulations relative to advertising, as follows:
+661 "(B) An advertisement shall not include an individual's loan number, loan amount, or
+662 other publicly available information unless it is clearly and conspicuously stated in
+H. B. 15
+- 26 -
+
+25 LC 62 0051/AP
+663 boldface type at the beginning of the advertisement that the person disseminating it is
+664 not authorized by, in sponsorship with, or otherwise affiliated with the individual's
+665 lender, which shall be identified by name. Such an advertisement shall also state that
+666 the loan information contained therein was not provided by the recipient's lender; and"
+667 SECTION 19.
+668 Said title is further amended in said article by adding a new Code section to read as follows:
+669 "7-1-1022.
+670 (a) Mortgage lenders and mortgage brokers must maintain capital, net worth, and liquidity
+671 in compliance with this Code section. For entities within a holding company or affiliated
+672 group of companies, compliance with these requirements shall be measured solely at the
+673 licensee level.
+674 (b) For the purposes of complying with the capital, net worth, and liquidity requirements
+675 of this Code section, all financial data must be reported in accordance with generally
+676 accepted accounting principles.
+677 (c) Capital, minimum net worth, and liquidity, to the extent applicable, shall be
+678 continuously maintained by licensees in the following amounts:
+679 (1) If the licensee is a mortgage broker, then it shall maintain a net worth of at least
+680 $50,000.00;
+681 (2) If the licensee is a mortgage lender that is not a covered servicer, then it shall
+682 maintain a net worth of at least $100,000.00 and evidence of liquidity of $1 million which
+683 may include a warehouse line of credit; and
+684 (3) If the licensee is a mortgage lender that is a covered servicer, then it shall maintain
+685 capital, net worth, and liquidity that meets the Federal Housing Finance Agency
+686 Eligibility Requirements for Enterprise Single-Family Seller/Servicer, regardless of
+687 whether the covered servicer is approved for government sponsored enterprise servicing.
+H. B. 15
+- 27 -
+
+25 LC 62 0051/AP
+688 (d) Mortgage lenders and mortgage brokers shall maintain written policies and procedures
+689 implementing the applicable capital, net worth, and liquidity requirements of this Code
+690 section. Such policies and procedures shall include a sustainable written methodology for
+691 satisfying the requirements of subsection (c) of this Code section and be made available to
+692 the department upon request.
+693 (e) In addition to the amounts required for liquidity under subsection (c) of this Code
+694 section, covered servicers shall maintain sufficient liquidity to cover normal business
+695 operations.
+696 (f) Mortgage lenders shall have in place sound cash management and business operating
+697 plans that match the size and sophistication of the mortgage lender to ensure normal
+698 business operations. Management shall develop, establish, and implement plans, policies,
+699 and procedures for maintaining liquidity sufficient for the ongoing operational needs of the
+700 mortgage lender. Such plans, policies, and procedures shall contain sustainable, written
+701 methodologies for maintaining sufficient liquidity for operations of the licensee and be
+702 made available to the department upon request."
+703 SECTION 20.
+704 Said title is further amended in said article by adding a new Code section to read as follows:
+705 "7-1-1023.
+706 (a) Mortgage brokers and mortgage lenders shall establish and maintain a board of
+707 directors.
+708 (b) Except for covered servicers that are approved to service loans by government
+709 sponsored entities and that have not been granted approval by such federal agencies for the
+710 creation of an alternative body to that of a board of directors, mortgage lenders and
+711 mortgage brokers may establish a similar body to that of the board of directors for the
+712 purpose of exercising oversight and fulfilling the board of directors' responsibilities set
+713 forth in subsection (c) of this Code section.
+H. B. 15
+- 28 -
+
+25 LC 62 0051/AP
+714 (c) The board of directors shall be responsible for:
+715 (1) Establishing a written corporate governance framework appropriate for the size,
+716 complexity, and risk profile of the mortgage lender or mortgage broker, including internal
+717 controls designed to monitor corporate governance and assess compliance with the
+718 corporate governance framework, and making such framework available to the
+719 department upon request;
+720 (2) Monitoring and ensuring licensee's compliance with the corporate governance
+721 framework and with the provisions of this article; and
+722 (3) Accurate and timely regulatory reporting, including the requirements for filing the
+723 Mortgage Call Report.
+724 (d) The board of directors shall establish internal audit requirements that are appropriate
+725 for the size, complexity, and risk profile of the mortgage lender or mortgage broker, with
+726 appropriate independence to provide a reliable evaluation of the licensee's internal control
+727 structure, risk management, and corporate governance. Such internal audit requirements
+728 and the results of internal audits shall be made available to the department upon request.
+729 (e) Mortgage lenders and mortgage brokers shall establish a risk management program
+730 appropriate for the size, complexity, and risk profile of the licensee that identifies,
+731 measures, monitors, and controls risk sufficient for the level of sophistication of the
+732 licensee. Such risk management program shall have appropriate processes and models in
+733 place to measure, monitor, and mitigate financial risks and changes to the risk profile of
+734 the licensee; be under the oversight of the board of directors; and be available to the
+735 department upon request.
+736 (f) Mortgage lenders and mortgage brokers shall conduct a risk management assessment
+737 on an annual basis concluding with a formal report to the board of directors, which shall
+738 be made available to the department upon request. Evidence of risk management activities
+739 throughout the year must be maintained and made part of the report, including findings of
+740 issues and the response to address such findings.
+H. B. 15
+- 29 -
+
+25 LC 62 0051/AP
+741 (g) The department shall have the following authority to address risk in mortgage lenders
+742 and mortgage brokers as necessary:
+743 (1) Where risk is determined by a formal review of a specific mortgage lender or
+744 mortgage broker to be extremely high, the department may order or direct the mortgage
+745 lender or mortgage broker to satisfy additional conditions necessary to ensure that the
+746 mortgage lender or mortgage broker will continue to operate in a safe and sound manner
+747 and remain in compliance with state and federal law, including applicable state and
+748 federal regulations;
+749 (2) Where risk is determined by a formal review of a particular or multiple mortgage
+750 lenders or mortgage brokers to be extremely low, the department may provide notice that
+751 all or part of this Code section and related rules are not applicable to those mortgage
+752 lenders or mortgage brokers; and
+753 (3) Where economic, environmental, or societal events are determined to be of such
+754 severity to warrant a temporary suspension of all or certain sections of this Code section
+755 and related rules, the department may provide public notice of such temporary
+756 suspension.
+757 (h) Mortgage brokers and mortgage lenders may utilize a third party to assist with
+758 satisfying some or all of the requirements of this Code section."
+759 SECTION 21.
+760 Said title is further amended in Article 14, relating to foreign banking institutions, by revising
+761 paragraph (28) of Code Section 7-1-1100, relating to definitions, as follows:
+762 "(28) 'State' means a state of the United States or the District of Columbia."
+763 SECTION 22.
+764 Said title is further amended in said article by revising Code Section 7-1-1110, relating to
+765 service of process, as follows:
+H. B. 15
+- 30 -
+
+25 LC 62 0051/AP
+766 "7-1-1110.
+767 Except as provided in Code Sections 7-1-1109 7-1-1108, 7-1-1112, 7-1-1127, and
+768 7-1-1135, a foreign bank operating in this state at a branch, agency, or representative office
+769 shall be subject to service of process at such location."
+770 SECTION 23.
+771 Said title is further amended in said article by revising subsection (b) of Code Section
+772 7-1-1111, relating to application procedures, as follows:
+773 "(b) The department may adopt rules and regulations prescribing abbreviated application
+774 or notice procedures and standards applicable to applications by foreign banks to establish
+775 additional Georgia state branches or Georgia state agencies that have already established
+776 an initial Georgia state branch or Georgia state agency."
+777 SECTION 24.
+778 Said title is further amended in said article by revising subsection (b) of Code Section
+779 7-1-1118, relating to amending license and requirements, as follows:
+780 "(b) The requirements with respect to the form and contents of an application or notice
+781 under subsection (a) of this Code section, the manner of its execution, the issuance of an
+782 amended license, and the effect of the amended license shall be the same as in the case of
+783 an initial application for a license to establish and maintain a Georgia state branch or
+784 Georgia state agency in the form and manner as required by the department."
+785 SECTION 25.
+786 Said title is further amended in said article by revising subsection (b) of Code Section
+787 7-1-1119, relating to act of relocating and notice, as follows:
+788 "(b) A foreign bank may shall submit a letter form application notification to the
+789 department of its intent to relocate an existing Georgia state branch or Georgia state agency
+H. B. 15
+- 31 -
+
+25 LC 62 0051/AP
+790 no less than 30 days in advance of such relocation. The department may require an
+791 application for such relocation if the notification raises supervisory concerns. Unless the
+792 department denies the application, the approval to relocate an existing Georgia state branch
+793 or Georgia state agency under this Code section shall be effective at the earlier of:
+794 (1) The date of an approval letter from the department; or
+795 (2) Ten business days following the date of the department's acknowledged receipt of the
+796 application."
+797 SECTION 26.
+798 Said title is further amended in said article by revising Code Section 7-1-1121, relating to
+799 notice of uninsured deposits, as follows:
+800 "7-1-1121.
+801 Each foreign bank licensed to establish and maintain a Georgia state branch or Georgia
+802 state agency shall give clear and conspicuous notice consistent with 12 C.F.R. 347.207 that
+803 deposits and credit balances in the Georgia state branch or Georgia state agency are not
+804 insured by the Federal Deposit Insurance Corporation."
+805 SECTION 27.
+806 Said title is further amended in said article by revising Code Section 7-1-1123, relating to
+807 value of assets and deposits, minimum requirements, and reporting, as follows:
+808 "7-1-1123.
+809 (a) A foreign bank licensed to establish and maintain a Georgia state branch or Georgia
+810 state agency shall be required to keep dollar deposits or investment securities, with pledge
+811 assets that are held by unaffiliated banks in this state that the foreign bank designates and
+812 the department approves, or money and securities pledged to the department in an
+813 aggregate amount to be determined by the department, valued at the lower of principal
+814 amount or market value, consisting of:
+H. B. 15
+- 32 -
+
+25 LC 62 0051/AP
+815 (1) United States dollar deposits;
+816 (2) Bonds, notes, debentures, or other legally created, general obligations of a state, an
+817 agency or political subdivision of a state, the United States, or an instrumentality of the
+818 United States;
+819 (3) Securities that this state, an agency or political subdivision of this state, the United
+820 States, or an instrumentality of the United States has unconditionally agreed to purchase,
+821 insure, or guarantee;
+822 (4) Certificates of deposit, payable in the United States, and bankers' acceptances,
+823 provided that, in either case, the issuer has an adequate capacity to meet financial
+824 commitments, meaning the risk of default by the obligor is low and the full and timely
+825 repayment of principal and interest is expected, for the projected life of the asset or
+826 exposure expected;
+827 (5) Repurchase agreements; or
+828 (6) Other assets as may be permitted by rule.
+829 (b) The aggregate amount of deposited investment securities and dollar deposits pledged
+830 assets for each Georgia state branch or Georgia state agency established and operating
+831 under this Code section shall be not less than the greater of:
+832 (1) That amount of capital which would be required of a Georgia state bank under Code
+833 Section 7-1-410; or
+834 (2) One percent of the total liabilities of such Georgia state branch or Georgia state
+835 agency, including acceptances, but excluding accrued expenses and amounts due and
+836 other liabilities to offices, branches, agencies, affiliates, and subsidiaries of such foreign
+837 bank.
+838 Notwithstanding the above deposit requirement subsection (b) of this Code section, the
+839 department is authorized to enact rules and regulations pursuant to this article to establish
+840 a maximum dollar amount of deposited investment securities and dollar deposits pledged
+841 assets for certain highly rated foreign banks. For prudential or supervisory reasons, the
+H. B. 15
+- 33 -
+
+25 LC 62 0051/AP
+842 department may require that a foreign bank has deposited investment securities and dollar
+843 deposits pledged assets above the minimum amount.
+844 (c) The assets deposited pledged and the amount of the assets to be maintained under
+845 subsection (a) of this Code section are subject to the conditions and limitations the
+846 department considers necessary or desirable for the maintenance of a sound financial
+847 condition; the protection of depositors, creditors, and the public interest in this state; and
+848 the support of public confidence in the business of the Georgia state branch or Georgia
+849 state agency.
+850 (d) A foreign bank shall require its depository bank to segregate its dollar deposits and
+851 deposited investment securities pledged assets on the depository bank's books and records.
+852 The funds deposited pledged and obligations referred to in subsection (a) of this Code
+853 section that are placed in safekeeping at a depository bank:
+854 (1) Shall not be reduced in value below the minimum required for that Georgia state
+855 branch or Georgia state agency without the prior approval of the department, but in no
+856 event below the minimum amount required under Code Section 7-1-410;
+857 (2) Shall be maintained pursuant to an agreement prescribed by the department that shall
+858 be a written agreement entered into with the department; and
+859 (3) Shall be free from any lien, charge, right of setoff, credit, or preference in connection
+860 with any claim of the depository bank against the foreign bank.
+861 (e) Each Georgia state branch or Georgia state agency shall file with the department such
+862 reports as required by rule or regulation to determine compliance with this Code section."
+863 SECTION 28.
+864 Said title is further amended in said article by revising Code Section 7-1-1132, relating to
+865 location and authority of offices and relocation, as follows:
+H. B. 15
+- 34 -
+
+25 LC 62 0051/AP
+866 "7-1-1132.
+867 A Georgia state representative office may engage in the activities authorized by this article
+868 at each location registered with the department as a representative office. A Georgia state
+869 representative office may change its location in this state by filing a letter form application
+870 notification with the department containing the street address and mailing address of the
+871 new location no less than 30 days in advance of relocation. The department may require
+872 an application for such relocation if the notification raises supervisor concerns. Unless the
+873 department denies the application, the approval to relocate an existing Georgia state
+874 representative office under this Code section will be effective at the earlier of:
+875 (1) The date of an approval letter from the department; or
+876 (2) Ten business days following the date of the department's acknowledged receipt of the
+877 application.
+878 All relocations shall include a notice to customers posted in a conspicuous place of the
+879 affected location as well as on the bank's website at least 30 days before relocating."
+880 SECTION 29.
+881 Said title is further amended in said article by revising Code Section 7-1-1138, relating to
+882 continuing registration, as follows:
+883 "7-1-1138.
+884 Every Georgia state representative office registered with the department under the
+885 provisions of Code Section 7-1-721 as of June 30, 2023, shall remain registered and be
+886 allowed to conduct business in Georgia. Such Georgia state representative offices shall
+887 comply with this part and Part 1 of this article. Reserved."
+888 SECTION 30.
+889 Said title is further amended in Article 1 of Chapter 3, relating to general provisions, by
+890 adding a new paragraph to Code Section 7-3-3, relating to definitions, as follows:
+H. B. 15
+- 35 -
+
+25 LC 62 0051/AP
+891 "(3.1) 'Disqualifying crime' means any felony, as defined in Code Section 16-1-3,
+892 involving conversion, theft, money laundering, bribery, dishonesty, false statements or
+893 omissions, perjury, extortion, breach of trust, forgery, counterfeiting, embezzlement,
+894 insider trading, tax evasion, kickbacks, identity theft, cyber attacks, social engineering,
+895 fraud, including but not limited to check fraud, credit, card fraud, mortgage fraud, medical
+896 fraud, corporate fraud, bank account fraud, payment (point of sale) fraud, currency fraud,
+897 bank fraud, and securities fraud or a felony directly related to the financial services
+898 business."
+899 SECTION 31.
+900 Said title is further amended in Article 3 of Chapter 3, relating to licensing, by adding a new
+901 subsection to Code Section 7-3-20, relating to licensing application and fee, to read as
+902 follows:
+903 "(c) The department may issue a notice of intent to administratively withdraw an
+904 application for a license under this article if an applicant submits a deficient license
+905 application by failing to provide any information required by the department. If the
+906 applicant fails to provide the requested information within 30 days of the date of issuance
+907 of such notice, the application may be administratively withdrawn. The notice shall be
+908 deemed provided to the applicant when:
+909 (1) Sent via email to the applicant's email address, as provided on the application; or
+910 (2) Posted by the department on the Nationwide Multistate Licensing System and
+911 Registry."
+912 SECTION 32.
+913 Said title is further amended in Article 5 of Chapter 3, relating to regulation by department,
+914 by revising subsection (a) of Code Section 7-3-42, relating to felony convictions and criminal
+915 background checks, as follows:
+H. B. 15
+- 36 -
+
+25 LC 62 0051/AP
+916 "7-3-42.
+917 (a) The department shall not issue a license and may revoke a license if it finds that the
+918 applicant or licensee or any director, trustee, owner, executive officer, or covered employee
+919 of the applicant or licensee has been convicted of a felony in any jurisdiction or of a crime
+920 which, if committed within this state, would constitute a felony under the laws of this state:
+921 (1) Within the previous seven years; or
+922 (2) At any time, if such felony is a disqualifying crime.
+923 For the purposes of this article, a person shall be deemed to have been convicted of a crime
+924 if such person shall have pleaded guilty or nolo contendere to a charge thereof before a
+925 court or federal magistrate or shall have been found guilty thereof by the decision or
+926 judgment of a court or federal magistrate or by the verdict of a jury, irrespective of the
+927 pronouncement of sentence or the suspension thereof and regardless of whether first
+928 offender treatment without adjudication of guilt pursuant to the charge was entered or an
+929 adjudication or sentence was otherwise withheld or not entered on that charge, unless and
+930 until such plea of guilty or nolo contendere or such decision, judgment, or verdict shall
+931 have been set aside, reversed, or otherwise abrogated by lawful judicial process or until
+932 probation, sentence, or both probation and sentence of a first offender without adjudication
+933 of guilt have been successfully completed and documented or unless the person convicted
+934 of the crime shall have received a pardon therefor from the President of the United States
+935 or the governor or other pardoning authority in the jurisdiction where the conviction
+936 occurred."
+937 SECTION 33.
+938 Said title is further amended in Chapter 9, relating to Georgia merchant acquirer limited
+939 purpose bank, by revising Code Section 7-9-7, relating to investigation and requirements and
+940 procedure for background checks, as follows:
+H. B. 15
+- 37 -
+
+25 LC 62 0051/AP
+941 "7-9-7.
+942 (a)(1) Upon receipt of the articles of incorporation and the filings and fees from the
+943 applicant as required under this chapter, the department shall conduct such investigation
+944 as it may deem necessary to ascertain whether it should approve the proposed merchant
+945 acquirer limited purpose bank. The department shall approve the charter of a merchant
+946 acquirer limited purpose bank if it determines in its discretion that:
+947 (A) The articles of incorporation and supporting items satisfy the requirements of this
+948 chapter;
+949 (B) The character and fitness of the applicant, directors, and proposed officers are such
+950 as to warrant the belief that the business of the proposed merchant acquirer limited
+951 purpose bank will be honestly and efficiently conducted; and
+952 (C) The capital structure of the merchant acquirer limited purpose bank is adequate in
+953 relation to the amount and character of the anticipated business of the merchant acquirer
+954 limited purpose bank.
+955 (2) Within 90 days after receipt of the articles of incorporation and the filings and fees
+956 from the applicant as required by this chapter, the department shall approve or disapprove
+957 the charter of the proposed merchant acquirer limited purpose bank. The department may
+958 impose conditions to be satisfied prior to the issuance of its approval of the charter of a
+959 merchant acquirer limited purpose bank. If the department, in its discretion, approves the
+960 charter of the proposed merchant acquirer limited purpose bank with or without
+961 conditions, it shall deliver its written approval of the articles of incorporation and charter
+962 to the Secretary of State and notify the applicant of its action. If the department, in its
+963 discretion, disapproves the charter of the proposed merchant acquirer limited purpose
+964 bank, it shall notify the applicant of its disapproval of the charter and state generally the
+965 unfavorable factors influencing its decision. The decision of the department shall be
+966 conclusive, except that it may be subject to judicial review as provided in Code Section
+967 7-1-90.
+H. B. 15
+- 38 -
+
+25 LC 62 0051/AP
+968 (b) No charter shall be issued if the department finds that the applicant, or any holding
+969 company, control person, director, officer, partner, or employee of the applicant, has been
+970 convicted of a felony in any jurisdiction or of a crime which, if committed within this state,
+971 would constitute a felony under the laws of this state. No control person, director, officer,
+972 partner, or employee of a merchant acquirer limited purpose bank shall have been
+973 convicted of a felony in any jurisdiction or of a crime which, if committed within this state,
+974 would constitute a felony under the laws of this state. For any merchant acquirer limited
+975 purpose bank that is transacting business under a charter approved by the department, the
+976 department shall have the suspension and removal powers provided for in Code Section
+977 7-1-71 with respect to any control person, director, officer, partner, or employee of the
+978 merchant acquirer limited purpose bank who has been convicted of a felony in any
+979 jurisdiction or of a crime which, if committed within this state, would constitute a felony
+980 under the laws of this state. For the purposes of this article, a person shall be deemed to
+981 have been convicted of a crime if such person shall have pleaded guilty or nolo contendere
+982 to a charge thereof before a court or federal magistrate or shall have been found guilty
+983 thereof by the decision or judgment of a court or federal magistrate or by the verdict of a
+984 jury, irrespective of the pronouncement of sentence or the suspension thereof, and
+985 regardless of whether first offender treatment without adjudication of guilt pursuant to the
+986 charge was entered, or an adjudication or sentence was otherwise withheld or not entered
+987 on that charge, unless and until such plea of guilty or such decision, judgment, or verdict
+988 shall have been set aside, reversed, or otherwise abrogated by lawful judicial process or
+989 until probation, sentence, or both probation and sentence of a first offender have been
+990 successfully completed and documented, or unless the person convicted of the crime shall
+991 have received a pardon thereon from the President of the United States or the governor or
+992 other pardoning authority in the jurisdiction where the conviction occurred, or shall have
+993 received an official certification of pardon granted by the state's pardoning body where the
+H. B. 15
+- 39 -
+
+25 LC 62 0051/AP
+994 conviction occurred which removes the legal disabilities resulting from such conviction and
+995 restores civil and political rights.
+996 (c) As used in this Code section, the term 'conviction data' means a record of a finding,
+997 verdict, or plea of guilty or plea of nolo contendere with regard to any crime, regardless of
+998 whether an appeal of the conviction has been sought. The department shall be authorized
+999 to obtain conviction data with respect to any applicant, holding company, merchant
+1000 acquirer limited purpose bank, or person who is a control person, director, officer, partner,
+1001 or employee of the applicant or merchant acquirer limited purpose bank. The department
+1002 may directly submit to the Georgia Crime Information Center two complete sets of
+1003 fingerprints of such person, together with the required records search fees and such other
+1004 information as may be required. Fees for background checks that the department
+1005 administers shall be sent to the department by applicants and merchant acquirer limited
+1006 purpose banks together with such fingerprints. Criminal history checks may be requested
+1007 by the department through the Georgia Crime Information Center and the Federal Bureau
+1008 of Investigation. The department shall have the authority to receive the results of such
+1009 checks. Fees required for a criminal history record check by the Georgia Crime
+1010 Information Center or the Federal Bureau of Investigation shall be paid by the applicant or
+1011 the merchant acquirer limited purpose bank.
+1012 (d) Upon request by the department, each applicant, holding company, or merchant
+1013 acquirer limited purpose bank or any person who is a control person, director, officer,
+1014 partner, or employee of the applicant or merchant acquirer limited purpose bank shall
+1015 submit to the department two complete sets of fingerprints, the required records search
+1016 fees, and such other information as may be required. Fees for background checks that the
+1017 department administers shall be submitted to the department by applicants and merchant
+1018 acquirer limited purpose banks together with two complete sets of fingerprints, and the
+1019 department is authorized to net such fees to recover any costs incurred by the department
+1020 related to running the background checks. Upon receipt of fingerprints, fees, and other
+H. B. 15
+- 40 -
+
+25 LC 62 0051/AP
+1021 required information from the department, the Georgia Crime Information Center shall
+1022 promptly transmit one set of fingerprints to the Federal Bureau of Investigation for a search
+1023 of bureau records and an appropriate report and shall retain the other set and promptly
+1024 conduct a search of its own records and records to which it has access. The Georgia Crime
+1025 Information Center shall notify the department in writing of any derogatory finding,
+1026 including, but not limited to, any conviction data regarding the fingerprint records check,
+1027 or if there is no such finding. All conviction data received by the department or by the
+1028 applicant or merchant acquirer limited purpose bank shall be used by the party requesting
+1029 such data department for the exclusive purpose of carrying out the responsibilities of this
+1030 article, shall not be a public record, shall be confidential, and shall not be disclosed to any
+1031 other person or agency except to any person or agency which otherwise has a legal right
+1032 to inspect the file. All such records shall be maintained by the department and the
+1033 applicant or merchant acquirer limited purpose bank pursuant to laws regarding such
+1034 records and the rules and regulations of the Federal Bureau of Investigation and the
+1035 Georgia Crime Information Center, as applicable.
+1036 (e) Every applicant and merchant acquirer limited purpose bank shall be authorized and
+1037 required to obtain and maintain the results of criminal background checks on employees.
+1038 Such criminal background checks shall be handled by the Georgia Crime Information
+1039 Center pursuant to Code Section 35-3-34 and the rules and regulations of the Georgia
+1040 Crime Information Center commercial background checks. Applicants and merchant
+1041 acquirer limited purpose banks shall be responsible for any applicable fees charged by the
+1042 Georgia Crime Information Center company performing the background check. An
+1043 applicant or merchant acquirer limited purpose bank may only employ a person whose
+1044 background data has been checked and been found to be in compliance with all lawful
+1045 requirements prior to the initial date of hire. This provision does not apply to control
+1046 persons, directors, officers, or partners, whose backgrounds have been investigated through
+1047 the department before taking office, beginning employment, or securing ownership. Upon
+H. B. 15
+- 41 -
+
+25 LC 62 0051/AP
+1048 receipt of information from the Georgia Crime Information Center that is incomplete or
+1049 that indicates an employee has a criminal record in any state other than Georgia, the
+1050 employer shall submit to the department two complete sets of fingerprints for such person,
+1051 together with the applicable fees and any other required information. The department shall
+1052 submit such fingerprints as provided in subsection (d) of this Code section. The
+1053 department shall be entitled to review the files of any applicant or merchant acquirer
+1054 limited purpose bank to determine whether the required commercial background checks
+1055 have been conducted and whether all employees are qualified. Notwithstanding the
+1056 requirement that applicants and merchant acquirer limited purpose banks conduct such
+1057 commercial background checks, the department shall retain the right to obtain conviction
+1058 data of employees of applicants and merchant acquirer limited purpose banks.
+1059 (f) Upon request by the department, an applicant or merchant acquirer limited purpose
+1060 bank must take all steps necessary to have an international criminal history background
+1061 check performed on any control person, director, officer, partner, or employee. The results
+1062 of such international criminal history background check must be provided to the
+1063 department.
+1064 (g) Applicants and merchant acquirer limited purpose banks shall have the primary
+1065 responsibility for obtaining background checks on employees. The department shall be
+1066 entitled to review the files of any applicant or merchant acquirer limited purpose bank to
+1067 determine whether the required background checks have been run and whether all
+1068 employees are qualified. The department shall be authorized to discuss the status of
+1069 employee background checks with applicants or merchant acquirer limited purpose banks.
+1070 Notwithstanding any other provisions in this article, the department shall retain the right
+1071 to obtain conviction data on employees of applicants and merchant acquirer limited
+1072 purpose banks Reserved.
+1073 (h) In the event the department denies an application to charter a merchant acquirer limited
+1074 purpose bank or an application to own or control a merchant acquirer limited purpose bank,
+H. B. 15
+- 42 -
+
+25 LC 62 0051/AP
+1075 the applicant may submit a new application at any time following notice of final denial.
+1076 The applicant shall not be prejudiced by any prior denials by the department."
+1077 SECTION 34.
+1078 Said title is further amended in said chapter by revising subsection (b) of and adding a new
+1079 subsection to Code Section 7-9-12.1, relating to treatment of merchant funds, to read as
+1080 follows:
+1081 "(b) All merchant funds shall be deposited immediately by the merchant acquirer limited
+1082 purpose bank and shall remain in an account at a financial institution that is federally
+1083 insured and authorized to do business in this state until paid over to the individual
+1084 merchant; provided, however, that nothing in this Code section shall preclude a merchant
+1085 acquirer limited purpose bank from making appropriate deductions for chargebacks, fees,
+1086 reserves, and other costs related to providing authorized merchant acquiring services owed
+1087 by the individual merchant prior to remitting the net amount to the individual merchant.
+1088 At the time of deposit into the account, the funds of the individual merchant in the account
+1089 shall be deemed to be the property of the individual merchant. The merchant acquirer
+1090 limited purpose bank shall maintain or cause to be maintained account records that identify
+1091 individual merchants and the total amount held for each individual merchant. Such records
+1092 shall be maintained in good faith and in the ordinary course of business and in a manner
+1093 that can be readily ascertained.
+1094 (c) Notwithstanding subsection (b) of this Code section, the department may, by regulation
+1095 or otherwise, authorize the merchant acquirer limited purpose bank to receive and hold
+1096 merchant funds in accordance with alternative safeguarding arrangements designed to
+1097 protect merchant funds."
+H. B. 15
+- 43 -
+
+25 LC 62 0051/AP
+1098 SECTION 35.
+1099 Said title is further amended in said chapter by revising subsection (a) of Code Section
+1100 7-9-13, relating to regulation and enforcement by department and rules and regulations, as
+1101 follows:
+1102 "(a) All merchant acquirer limited purpose banks chartered by the department shall be
+1103 subject to supervision, regulation, and examination by the department, including, but not
+1104 limited to, the examination powers as provided in Code Sections 7-1-64 through 7-1-73,
+1105 and the department shall have all enforcement powers provided in this title, including, but
+1106 not limited to, the enforcement powers provided in Code Section 7-1-92 and Part 7 of
+1107 Article 1 of Chapter 1 of this title."
+1108 SECTION 36.
+1109 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 15
+- 44 -
+
+[DELETED: 5L2,8,8htht4,6,ht r r o a o i o c u t r l f m l a m b t r r f t r f f b i t r b c]
+[DELETED: 5L i g b r C S 7 r t p b C S 7  S f s c a a f ]
+[DELETED: 5L r t p a o b h c o s a  I e c t d s t i c t f a r i t c c a e o a f p o t c o c a t b]
+[DELETED: 5L  F p o t a ' b m t s r o a o i r o e w a w w t t c a m i b p s t  T s s f t a w t d t w t f]
+[DELETED: 5L c a q a r a t v a t m o]
+[DELETED: 5L  T s s p s f a s b e b r o t o c o o a o i w p s]
+[DELETED: 5L t e o a t f s a f p o t s f a i s w 9 d f r o t a a i]
+[DELETED: 5L  ' c m a f a d i C S 1]
+[DELETED: 5L  T d m i a n o i t a w a a a  P b t d o t N M L S a]
+[DELETED: 5L s  ' c m a f a d i C S 1]
+[DELETED: 5L  T d m i a n o i t a w a t a]
+[DELETED: 5L f t i f a i A 1 o C 1 r t f b]
+[DELETED: 5L p a w p c o a o o t f  ' o d m t f b e b a l t i a p o a p w t t o o v o]
+[DELETED: 5L  ' c m a f a d i C S 1]
+[DELETED: 5L e a o o w a l f s a p r t o r m i c a]
+[DELETED: 5L t c o a l t s m l s t e t t ' o s d m i s t t r o a i e s i l p o u a s n t t p t a o o m o c o]
+[DELETED: 5L  ' s m a f i i b n  ' b m a p w d o i s  W r m l a a l t c a]
+[DELETED: 5L  T t d n i a e o a r o r b o   ' C R m t q o a r o r]
+[DELETED: 5L b o t o o t a m i e f s A o R M R f t l a]
+[DELETED: 5L  ' e b a m a a t i o o p i i t s p l r o e o r]
+[DELETED: 5L a a o a s o m s r i u t t o ]
+[DELETED: 5L c a o i i a c o a o f o b  ' i m a n o o i a b p  T d m i a n o i t a w a i a]
+[DELETED: 5L]
+[DELETED: 5L i o t p o s o t s t a p s o b p a s o a f o w]
+[DELETED: 5L  I a m b i a U S D o H a U]
+[DELETED: 5L a a f s s b m a t t d a]
+[DELETED: 5L  C m n w a l t t e a s b n w a l t m t F H F A R f E S S r o]
+[DELETED: 5L  M b a m l s e a m a b o  E f c s t a a t s l b g]
+[DELETED: 5L d t m c g a a c w t g f a m s f a t t  M a e l c w t c g f t s c a r p o t l t i m a c r s f t l o s o t]
+[DELETED: 5L r r t d m p p n o s t  M b a m l m u a t p t a w]
+[DELETED: 5L a p i C S 7 7 7 7 a  A f b m s s a l f a n t t]
+[DELETED: 5L d a o m a s p t t d i a]
+[DELETED: 5L t i e c t i h a a c t m f]
+[DELETED: 5L ( o t C s a s t t c a l t]
+[DELETED: 5L d t a t a t r a e G s G s r o r w t d u t]
+[DELETED: 5L  ' c m a f a d i C S 1 p e b o t f c e f a s f o a f d r t t f s  T d m i a n o i t a w a  P b t d o t N M L S a]
+[DELETED: 5L]
+[DELETED: 5L o t p m a l p b w o w]
+[DELETED: 5L o e o a m a l p b s h b a l p b w h b c o a f i a i o t p o s o t s t a]
+[DELETED: 5L o c d w r t a a h c m d s t t G C I C t c s o a m b r  F f b c t t d  F r f a c h r c b t G C  U r b t d e a h c o m]
+[DELETED: 5L C s n t d i w o a d f i t f  A s r s b m b t d a t C I C c p t b c  A]
+[DELETED: 5L s f a p i s ( o t C s  T b c a w a e a q  N t s i c h b c m b p t t  A a m a l p b s h t p w t r b c h b r a w a o c d o e o a a m a l]
+[DELETED: 5L a a t d b i t s u p o t t i]
+[DELETED: 5L]

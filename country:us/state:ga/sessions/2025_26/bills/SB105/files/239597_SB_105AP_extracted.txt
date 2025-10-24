@@ -1,0 +1,604 @@
+Title: Senate Bill 105
+Official Title: Senate Bill 105
+Number of Sections: 1
+Source: versions - SB 105/AP*
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+25 LC 57 0273S
+By: Senators Anavitarte of the 31st, Watson of the 11th, Goodman of the 8th, Echols of the
+49th, Hatchett of the 50th and others
+AS PASSED
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 50 of Title 43 of the Official Code of Georgia Annotated, relating to
+2 veterinarians and veterinary technicians, so as to authorize licensed veterinarians and
+3 veterinary technicians to practice veterinary teleadvice; to authorize licensed veterinarians
+4 and veterinary technicians to practice veterinary teletriage under certain circumstances; to
+5 authorize licensed veterinarians to practice veterinary telemedicine under certain
+6 circumstances; to provide for the regulation of the practice of veterinary telemedicine,
+7 veterinary teletriage, and veterinary teleadvice by the State Board of Veterinary Medicine;
+8 to provide for licensure for graduates of foreign colleges or schools of veterinary medicine
+9 who are board certified in a specialty; to provide for an exemption; to revise and provide for
+10 definitions; to provide for related matters; to provide for effective dates; to repeal conflicting
+11 laws; and for other purposes.
+12 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+13 SECTION 1.
+14 Chapter 50 of Title 43 of the Official Code of Georgia Annotated, relating to veterinarians
+15 and veterinary technicians, is amended by revising paragraphs (26) and (29) of and adding
+16 new paragraphs to Code Section 43-50-3, relating to definitions, as follows:
+S. B. 105
+- 1 -
+25 LC 57 0273S
+17 "(26) 'Practice veterinary technology' or 'veterinary technology' means:
+18 (A) To perform animal patient care or other services that require a technical
+19 understanding of veterinary medicine by a licensed veterinary technician on the basis
+20 of written or oral instruction of a licensed veterinarian, excluding diagnosing,
+21 prognosing, performing surgery, prescribing, or dispensing;
+22 (B) To represent, directly or indirectly, publicly or privately, an ability and willingness
+23 to engage in any act described in subparagraph (A) of this paragraph; or
+24 (C) To use any title, words, abbreviation, or letters, while engaged in the practice of
+25 licensed veterinary technology, in a manner or under circumstances that induce the
+26 belief that the person using them is qualified to engage in an act included in
+27 subparagraph (A) of this paragraph."
+28 "(29) 'Veterinarian-client-patient relationship' means that:
+29 (A)(i) The A licensed veterinarian has assumed the responsibility for making medical
+30 judgments regarding the health of the animal and the need for medical treatment, and
+31 the client has given informed consent for services provided by the licensed
+32 veterinarian;
+33 (B)(ii) There is sufficient knowledge of the animal by the licensed veterinarian to
+34 initiate at least a general or preliminary diagnosis of the medical condition of the
+35 animal. This means that the licensed veterinarian has recently seen and is personally
+36 acquainted with the keeping and care of the animal by the virtue of examination of the
+37 animal or by medically appropriate and timely visits to the premises where the animal
+38 is kept or by medically appropriate and timely visits by the licensed veterinarian to
+39 premises within an operation or production system where the animal or groups of
+40 animals are kept;
+41 (C)(iii) A The licensed veterinarian is readily available for follow up care or
+42 consultation or has arranged for:
+43 (i)(I) Veterinary emergency coverage; and
+S. B. 105
+- 2 -
+25 LC 57 0273S
+44 (ii)(II) Continuing care and treatment by another licensed veterinarian, including
+45 providing a copy of associated records during normal business hours; and
+46 (D)(iv) The licensed veterinarian develops and maintains appropriate medical
+47 records.; or
+48 (B) All licensed veterinarians employed at the same veterinary facility as any licensed
+49 veterinarian for which a veterinarian-client-patient relationship has been established
+50 pursuant to subparagraph (A) of this paragraph."
+51 "(35) 'Veterinary teleadvice' means the use of synchronous or asynchronous
+52 telecommunications technology to provide general advice to a client that is not specific
+53 to a particular animal, diagnosis, or treatment.
+54 (36) 'Veterinary telemedicine' or 'practice of veterinary telemedicine' means the use of
+55 synchronous or asynchronous telecommunications technology to facilitate the practice
+56 of veterinary medicine.
+57 (37) 'Veterinary teletriage' means the use of synchronous or asynchronous
+58 telecommunications technology to assess and manage an animal, including determining
+59 whether immediate referral to a licensed veterinarian is necessary, under conditions of
+60 reasonable urgency or uncertainty. Such phrase shall not include diagnosis, prognosis,
+61 surgery, or the prescribing, administering, or dispensing of any prescription drug or any
+62 other medication or treatment specified by the board."
+63 SECTION 2.
+64 Said chapter is further amended by revising Code Section 43-50-21, relating to general
+65 powers of board and liberal construction of powers, as follows:
+66 "43-50-21.
+67 (a) The board shall have the power to:
+S. B. 105
+- 3 -
+25 LC 57 0273S
+68 (1) Examine and determine the qualifications and fitness of applicants for licenses to
+69 practice veterinary medicine, veterinary telemedicine, veterinary teletriage, veterinary
+70 teleadvice, and veterinary technology in this state;
+71 (2) Issue, renew, refuse to renew, deny, suspend, or revoke licenses to practice veterinary
+72 medicine, veterinary telemedicine, veterinary teletriage, veterinary teleadvice, or
+73 veterinary technology in this state or otherwise discipline licensed veterinarians and
+74 licensed veterinary technicians; and to issue, renew, deny, suspend, or revoke veterinary
+75 faculty licenses, consistent with this chapter and the rules and regulations adopted under
+76 this chapter;
+77 (3) Conduct investigations for the purpose of discovering violations of this chapter or
+78 grounds for disciplining persons licensed under this chapter;
+79 (4) Inspect veterinary premises and equipment, including mobile veterinary clinics, at
+80 any time in accordance with protocols established by rule of the board;
+81 (5) Hold hearings on all matters properly brought before the board; and, in connection
+82 therewith, to administer oaths, receive evidence, make the necessary determinations, and
+83 enter orders consistent with the findings. The board may designate one or more of its
+84 members to serve as its hearing officer;
+85 (6) Appoint from its own membership one member to act as a representative of the board
+86 at any meeting within or outside the state where such representative is deemed desirable;
+87 (7) Bring proceedings in the courts for the enforcement of this chapter or any regulations
+88 made pursuant to this chapter;
+89 (8) Adopt, amend, or repeal all rules necessary for its government and all regulations
+90 necessary to carry this chapter into effect, including without limitation the establishment
+91 and print or electronic publication of standards of professional conduct for the practice
+92 of veterinary medicine, veterinary telemedicine, veterinary teletriage, veterinary
+93 teleadvice, and veterinary technology; and
+94 (9) Establish and publish annually a schedule of fees for licensing.
+S. B. 105
+- 4 -
+25 LC 57 0273S
+95 (b) The powers enumerated in subsection (a) of this Code section are granted for the
+96 purpose of enabling the board to supervise effectively the practice of veterinary medicine,
+97 veterinary telemedicine, veterinary teletriage, veterinary teleadvice, and veterinary
+98 technology and are to be construed liberally to accomplish these objectives."
+99 SECTION 3.
+100 Said chapter is further amended by revising Code Section 43-50-30, relating to license
+101 requirement for practice of veterinary medicine and practice by business employee, as
+102 follows:
+103 "43-50-30.
+104 (a) No person may practice veterinary medicine, veterinary telemedicine, or veterinary
+105 teletriage in this state who is not a licensed veterinarian or the holder of a valid temporary
+106 license issued by the division director pursuant to this article.
+107 (b) No person may practice veterinary teleadvice in this state who is not a licensed
+108 veterinarian or veterinary technician or the holder of a valid temporary license issued by
+109 the division director pursuant to this article.
+110 (c) A licensed veterinarian may practice veterinary medicine, veterinary telemedicine,
+111 veterinary teletriage, or veterinary teleadvice as an employee of a corporation, partnership,
+112 or other business organization, provided that the licensed veterinarian is not subject to the
+113 direction of anyone not licensed to practice veterinary medicine in Georgia in making
+114 veterinary medical decisions or judgments."
+115 SECTION 4.
+116 Said chapter is further amended by revising Code Section 43-50-31, relating to application
+117 for license, qualifications, and recordation of license, as follows:
+S. B. 105
+- 5 -
+25 LC 57 0273S
+118 "43-50-31.
+119 (a) Any person desiring a license to practice veterinary medicine in this state shall make
+120 application to the board. The application shall include evidence, satisfactory to the board,
+121 that:
+122 (1) The applicant has attained the age of 18;
+123 (2) The applicant is of good moral character;
+124 (3)(A) The applicant:
+125 (i) Is is a graduate of an accredited college or a school of veterinary medicine
+126 accredited by the American Veterinary Medical Association Council on Education or
+127 possesses an ECFVG or PAVE certificate or substantial equivalent; and
+128 (4)(ii) Has The applicant has passed a board approved examination; provided,
+129 however, that the board may provide by rule or regulation for a waiver of any part of
+130 such examination for veterinarians who are licensed as such by another state and who
+131 are in good standing therewith; or
+132 (B) The applicant:
+133 (i) Is a graduate of a foreign college or school of veterinary medicine and has
+134 submitted a transcript certifying completion of his or her education in veterinary
+135 medicine. In support of such certification of completion, such graduate may submit:
+136 (I) An ECFVG certificate or its substantial equivalent;
+137 (II) A PAVE certificate or its substantial equivalent; or
+138 (III) Any other document as authorized by the board; and
+139 (ii) Has completed a residency program or similar training duration program of two
+140 or more years and has received board certification from a veterinary medicine
+141 specialty organization recognized by the American Veterinary Medical Association,
+142 the American Board of Veterinary Specialties, or other American Veterinary Medical
+143 Association board approved organization; provided, however, that such applicant
+144 upon licensure shall only be authorized to practice veterinary medicine in the area of
+S. B. 105
+- 6 -
+25 LC 57 0273S
+145 his or her certified veterinary medicine specialty; and provided, further, that any other
+146 practice of veterinary medicine shall be deemed a violation of subsection (a) of Code
+147 Section 43-50-30 and subsection (a) of Code Section 43-50-45; and
+148 (5)(4) The applicant meets such other qualifications or provides such other information
+149 as the board may require by rule.
+150 (b) The application shall be accompanied by a fee in the amount established by the board.
+151 (c) The division director shall record the new licenses and issue such licenses to the new
+152 licensees.
+153 (d) If an applicant is found not qualified for licensure, the board shall notify the applicant
+154 in writing of such finding and the grounds therefor. Such applicant may request a hearing
+155 before the board on the questions of his or her qualifications."
+156 SECTION 5.
+157 Said chapter is further amended in Code Section 43-50-44, relating to exemptions from
+158 article, by adding a new subparagraph to paragraph (2) to read as follows:
+159 "(2)(A) A person who is a regular student in a veterinary school or school of veterinary
+160 technology performing duties or actions assigned by his or her instructors or working
+161 under the supervision of a licensed veterinarian;
+162 (B) A member of the faculty, a resident, an intern, or a graduate student of an
+163 accredited college or school of veterinary medicine or school of veterinary technology
+164 performing his or her regular clinical or nonclinical functions or a person lecturing or
+165 giving instructions or demonstrations at an accredited college or school of veterinary
+166 medicine or school of veterinary technology in connection with a continuing education
+167 course or seminar;
+168 (B.1) A person licensed pursuant to subparagraph (a)(2)(B) of Code Section 43-50-31
+169 from lecturing or giving instructions or demonstrations in an area within such person's
+170 certified veterinary medicine specialty at an accredited college or school of veterinary
+S. B. 105
+- 7 -
+25 LC 57 0273S
+171 medicine or school of veterinary technology and in connection with a continuing
+172 education course or seminar; or
+173 (C) A graduate of a foreign college or school of veterinary medicine who is in the
+174 process of obtaining the ECFVG or PAVE certificate or substantial equivalent
+175 performing duties or actions under the direct supervision of a licensed veterinarian;"
+176 SECTION 6.
+177 Said chapter is further amended by adding a new article to read as follows:
+178 "ARTICLE 7
+179 43-50-120.
+180 (a) A licensed veterinarian may practice veterinary telemedicine in this state if:
+181 (1) Such individual is in good standing and primarily practices veterinary medicine in
+182 this state through in-person visits with clients and animal patients;
+183 (2) Such individual has notified the board of his or her intent to practice veterinary
+184 telemedicine and satisfied any additional requirements set forth by the board;
+185 (3) Such individual has an existing veterinarian-client-patient relationship with any client
+186 and animal patient;
+187 (4) The animal patient resides within this state at the time the individual practices
+188 veterinary telemedicine;
+189 (5) Such individual practices veterinary telemedicine in a manner consistent with his or
+190 her scope of practice, all federal and state laws, and prevailing professional standards of
+191 practice for a veterinarian who provides in-person veterinary services in this state and
+192 employs sound, professional judgment to determine whether using veterinary
+193 telemedicine is an appropriate method for delivering medical advice or treatment to the
+194 animal patient;
+S. B. 105
+- 8 -
+25 LC 57 0273S
+195 (6) Such individual takes appropriate precautions to preserve the confidentiality of any
+196 client or animal patient's records; and
+197 (7) Such individual informs the client, in writing, of his or her full name, location,
+198 license number, licensure status, and limitations involved in accessing veterinary
+199 telemedicine and obtains a signed and dated statement from the client indicating receipt
+200 of such required information.
+201 (b) Any prescription, administration, or dispensing of prescription drugs pursuant to this
+202 Code section shall be in accordance with all federal and state laws.
+203 (c) Nothing in this article shall be construed to authorize any licensed veterinarian to
+204 prescribe, administer, or otherwise dispense any prescription drug or any other medication
+205 or treatment specified by the board, unless such licensed veterinarian or another licensed
+206 veterinarian employed at the same veterinary facility has recently seen and is personally
+207 acquainted with the keeping and care of the animal by virtue of a physical examination of
+208 the animal at the veterinary facility or during a medically appropriate and timely visit to
+209 the premises where the animal is located.
+210 43-50-121.
+211 (a) Notwithstanding anything to the contrary in this chapter, a licensed veterinarian or a
+212 veterinary technician supervised by a licensed veterinarian may practice veterinary
+213 teletriage, regardless of whether a veterinarian-client-patient relationship exists, if the
+214 following conditions are met:
+215 (1) No licensed veterinarian or veterinary technician is available within a 50 mile radius
+216 of the animal's location to perform a physical examination at a veterinary facility or the
+217 premises where the animal is located within 24 hours of the client's request for services;
+218 (2) The licensed veterinarian or veterinary technician requests that, as soon as reasonably
+219 practical, the client present the animal patient for a physical examination at the veterinary
+220 facility or at the premises where such animal is located; and
+S. B. 105
+- 9 -
+25 LC 57 0273S
+221 (3) The licensed veterinarian or veterinary technician informs the client, in writing, of
+222 the veterinarian or supervising veterinarian's full name, location, license number,
+223 licensure status, and limitations involved in accessing veterinary teletriage, and obtains
+224 a signed and dated statement from the client indicating receipt of such required
+225 information.
+226 (b) Notwithstanding anything to the contrary in this chapter, a licensed veterinarian may
+227 practice veterinary telemedicine, regardless of whether a veterinarian-client-patient
+228 relationship exists, if the licensed veterinarian satisfies the conditions set forth in
+229 paragraphs (1) and (2) of subsection (a) of this Code section and paragraphs (1) and (2) and
+230 paragraphs (4) through (7) of subsection (a) of Code Section 43-50-120.
+231 (c) Nothing in this Code section shall be construed to require or impose a duty upon any
+232 licensed veterinarian or veterinary technician to identify or refer any client to a licensed
+233 veterinarian located within the radius imposed under paragraph (1) of subsection (a) of this
+234 Code section before practicing veterinary teletriage or veterinary telemedicine.
+235 43-50-122.
+236 Nothing in this chapter shall be construed to prohibit a licensed veterinarian or a veterinary
+237 technician supervised by a licensed veterinarian from providing veterinary teleadvice,
+238 regardless of whether a veterinary-client-patient relationship exists."
+239 SECTION 7.
+240 Sections 4 and 5 of this Act shall become effective upon the approval of this Act by the
+241 Governor or upon its becoming law without such approval. All other sections of this Act
+242 shall become effective on July 1, 2025.
+243 SECTION 8.
+244 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 105
+- 10 -
+[DELETED: 5L a v t s a t a l v a l v t p v t u c p]
+[DELETED: 5L  T p a p c o o s t r a t w o o i o a l v e d t t p u t i q t e i a a i i c h g i c f s p b t l  A T l v i r a f f u c o]
+[DELETED: 5L  T l v d a m a m  ' t m t u o s o a  ' t m t u o s o a]
+[DELETED: 5L v t v t v t o v m v t v t v]
+[DELETED: 5L t v t v t a v a]
+[DELETED: 5L  H T a h p a b a e p m y a h r b c f a v m]
+[DELETED: 5L  A m o t f a r a i o a g s o a]
+[DELETED: 5L a o o t E o P c o s e s p j t d w u v]
+[DELETED: 5L n l s a l i i a v t s b a l v m p v]
+[DELETED: 5L v o s v f n l l n s a d s f t c i r o s r v t r o w a v e i t l v s t c s f i]
+
+
+================================================================================
+
+Raw Text:
+25 LC 57 0273S
+Senate Bill 105
+By: Senators Anavitarte of the 31st, Watson of the 11th, Goodman of the 8th, Echols of the
+49th, Hatchett of the 50th and others
+AS PASSED
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 50 of Title 43 of the Official Code of Georgia Annotated, relating to
+2 veterinarians and veterinary technicians, so as to authorize licensed veterinarians and
+3 veterinary technicians to practice veterinary teleadvice; to authorize licensed veterinarians
+4 and veterinary technicians to practice veterinary teletriage under certain circumstances; to
+5 authorize licensed veterinarians to practice veterinary telemedicine under certain
+6 circumstances; to provide for the regulation of the practice of veterinary telemedicine,
+7 veterinary teletriage, and veterinary teleadvice by the State Board of Veterinary Medicine;
+8 to provide for licensure for graduates of foreign colleges or schools of veterinary medicine
+9 who are board certified in a specialty; to provide for an exemption; to revise and provide for
+10 definitions; to provide for related matters; to provide for effective dates; to repeal conflicting
+11 laws; and for other purposes.
+12 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+13 SECTION 1.
+14 Chapter 50 of Title 43 of the Official Code of Georgia Annotated, relating to veterinarians
+15 and veterinary technicians, is amended by revising paragraphs (26) and (29) of and adding
+16 new paragraphs to Code Section 43-50-3, relating to definitions, as follows:
+S. B. 105
+- 1 -
+
+25 LC 57 0273S
+17 "(26) 'Practice veterinary technology' or 'veterinary technology' means:
+18 (A) To perform animal patient care or other services that require a technical
+19 understanding of veterinary medicine by a licensed veterinary technician on the basis
+20 of written or oral instruction of a licensed veterinarian, excluding diagnosing,
+21 prognosing, performing surgery, prescribing, or dispensing;
+22 (B) To represent, directly or indirectly, publicly or privately, an ability and willingness
+23 to engage in any act described in subparagraph (A) of this paragraph; or
+24 (C) To use any title, words, abbreviation, or letters, while engaged in the practice of
+25 licensed veterinary technology, in a manner or under circumstances that induce the
+26 belief that the person using them is qualified to engage in an act included in
+27 subparagraph (A) of this paragraph."
+28 "(29) 'Veterinarian-client-patient relationship' means that:
+29 (A)(i) The A licensed veterinarian has assumed the responsibility for making medical
+30 judgments regarding the health of the animal and the need for medical treatment, and
+31 the client has given informed consent for services provided by the licensed
+32 veterinarian;
+33 (B)(ii) There is sufficient knowledge of the animal by the licensed veterinarian to
+34 initiate at least a general or preliminary diagnosis of the medical condition of the
+35 animal. This means that the licensed veterinarian has recently seen and is personally
+36 acquainted with the keeping and care of the animal by the virtue of examination of the
+37 animal or by medically appropriate and timely visits to the premises where the animal
+38 is kept or by medically appropriate and timely visits by the licensed veterinarian to
+39 premises within an operation or production system where the animal or groups of
+40 animals are kept;
+41 (C)(iii) A The licensed veterinarian is readily available for follow up care or
+42 consultation or has arranged for:
+43 (i)(I) Veterinary emergency coverage; and
+S. B. 105
+- 2 -
+
+25 LC 57 0273S
+44 (ii)(II) Continuing care and treatment by another licensed veterinarian, including
+45 providing a copy of associated records during normal business hours; and
+46 (D)(iv) The licensed veterinarian develops and maintains appropriate medical
+47 records.; or
+48 (B) All licensed veterinarians employed at the same veterinary facility as any licensed
+49 veterinarian for which a veterinarian-client-patient relationship has been established
+50 pursuant to subparagraph (A) of this paragraph."
+51 "(35) 'Veterinary teleadvice' means the use of synchronous or asynchronous
+52 telecommunications technology to provide general advice to a client that is not specific
+53 to a particular animal, diagnosis, or treatment.
+54 (36) 'Veterinary telemedicine' or 'practice of veterinary telemedicine' means the use of
+55 synchronous or asynchronous telecommunications technology to facilitate the practice
+56 of veterinary medicine.
+57 (37) 'Veterinary teletriage' means the use of synchronous or asynchronous
+58 telecommunications technology to assess and manage an animal, including determining
+59 whether immediate referral to a licensed veterinarian is necessary, under conditions of
+60 reasonable urgency or uncertainty. Such phrase shall not include diagnosis, prognosis,
+61 surgery, or the prescribing, administering, or dispensing of any prescription drug or any
+62 other medication or treatment specified by the board."
+63 SECTION 2.
+64 Said chapter is further amended by revising Code Section 43-50-21, relating to general
+65 powers of board and liberal construction of powers, as follows:
+66 "43-50-21.
+67 (a) The board shall have the power to:
+S. B. 105
+- 3 -
+
+25 LC 57 0273S
+68 (1) Examine and determine the qualifications and fitness of applicants for licenses to
+69 practice veterinary medicine, veterinary telemedicine, veterinary teletriage, veterinary
+70 teleadvice, and veterinary technology in this state;
+71 (2) Issue, renew, refuse to renew, deny, suspend, or revoke licenses to practice veterinary
+72 medicine, veterinary telemedicine, veterinary teletriage, veterinary teleadvice, or
+73 veterinary technology in this state or otherwise discipline licensed veterinarians and
+74 licensed veterinary technicians; and to issue, renew, deny, suspend, or revoke veterinary
+75 faculty licenses, consistent with this chapter and the rules and regulations adopted under
+76 this chapter;
+77 (3) Conduct investigations for the purpose of discovering violations of this chapter or
+78 grounds for disciplining persons licensed under this chapter;
+79 (4) Inspect veterinary premises and equipment, including mobile veterinary clinics, at
+80 any time in accordance with protocols established by rule of the board;
+81 (5) Hold hearings on all matters properly brought before the board; and, in connection
+82 therewith, to administer oaths, receive evidence, make the necessary determinations, and
+83 enter orders consistent with the findings. The board may designate one or more of its
+84 members to serve as its hearing officer;
+85 (6) Appoint from its own membership one member to act as a representative of the board
+86 at any meeting within or outside the state where such representative is deemed desirable;
+87 (7) Bring proceedings in the courts for the enforcement of this chapter or any regulations
+88 made pursuant to this chapter;
+89 (8) Adopt, amend, or repeal all rules necessary for its government and all regulations
+90 necessary to carry this chapter into effect, including without limitation the establishment
+91 and print or electronic publication of standards of professional conduct for the practice
+92 of veterinary medicine, veterinary telemedicine, veterinary teletriage, veterinary
+93 teleadvice, and veterinary technology; and
+94 (9) Establish and publish annually a schedule of fees for licensing.
+S. B. 105
+- 4 -
+
+25 LC 57 0273S
+95 (b) The powers enumerated in subsection (a) of this Code section are granted for the
+96 purpose of enabling the board to supervise effectively the practice of veterinary medicine,
+97 veterinary telemedicine, veterinary teletriage, veterinary teleadvice, and veterinary
+98 technology and are to be construed liberally to accomplish these objectives."
+99 SECTION 3.
+100 Said chapter is further amended by revising Code Section 43-50-30, relating to license
+101 requirement for practice of veterinary medicine and practice by business employee, as
+102 follows:
+103 "43-50-30.
+104 (a) No person may practice veterinary medicine, veterinary telemedicine, or veterinary
+105 teletriage in this state who is not a licensed veterinarian or the holder of a valid temporary
+106 license issued by the division director pursuant to this article.
+107 (b) No person may practice veterinary teleadvice in this state who is not a licensed
+108 veterinarian or veterinary technician or the holder of a valid temporary license issued by
+109 the division director pursuant to this article.
+110 (c) A licensed veterinarian may practice veterinary medicine, veterinary telemedicine,
+111 veterinary teletriage, or veterinary teleadvice as an employee of a corporation, partnership,
+112 or other business organization, provided that the licensed veterinarian is not subject to the
+113 direction of anyone not licensed to practice veterinary medicine in Georgia in making
+114 veterinary medical decisions or judgments."
+115 SECTION 4.
+116 Said chapter is further amended by revising Code Section 43-50-31, relating to application
+117 for license, qualifications, and recordation of license, as follows:
+S. B. 105
+- 5 -
+
+25 LC 57 0273S
+118 "43-50-31.
+119 (a) Any person desiring a license to practice veterinary medicine in this state shall make
+120 application to the board. The application shall include evidence, satisfactory to the board,
+121 that:
+122 (1) The applicant has attained the age of 18;
+123 (2) The applicant is of good moral character;
+124 (3)(A) The applicant:
+125 (i) Is is a graduate of an accredited college or a school of veterinary medicine
+126 accredited by the American Veterinary Medical Association Council on Education or
+127 possesses an ECFVG or PAVE certificate or substantial equivalent; and
+128 (4)(ii) Has The applicant has passed a board approved examination; provided,
+129 however, that the board may provide by rule or regulation for a waiver of any part of
+130 such examination for veterinarians who are licensed as such by another state and who
+131 are in good standing therewith; or
+132 (B) The applicant:
+133 (i) Is a graduate of a foreign college or school of veterinary medicine and has
+134 submitted a transcript certifying completion of his or her education in veterinary
+135 medicine. In support of such certification of completion, such graduate may submit:
+136 (I) An ECFVG certificate or its substantial equivalent;
+137 (II) A PAVE certificate or its substantial equivalent; or
+138 (III) Any other document as authorized by the board; and
+139 (ii) Has completed a residency program or similar training duration program of two
+140 or more years and has received board certification from a veterinary medicine
+141 specialty organization recognized by the American Veterinary Medical Association,
+142 the American Board of Veterinary Specialties, or other American Veterinary Medical
+143 Association board approved organization; provided, however, that such applicant
+144 upon licensure shall only be authorized to practice veterinary medicine in the area of
+S. B. 105
+- 6 -
+
+25 LC 57 0273S
+145 his or her certified veterinary medicine specialty; and provided, further, that any other
+146 practice of veterinary medicine shall be deemed a violation of subsection (a) of Code
+147 Section 43-50-30 and subsection (a) of Code Section 43-50-45; and
+148 (5)(4) The applicant meets such other qualifications or provides such other information
+149 as the board may require by rule.
+150 (b) The application shall be accompanied by a fee in the amount established by the board.
+151 (c) The division director shall record the new licenses and issue such licenses to the new
+152 licensees.
+153 (d) If an applicant is found not qualified for licensure, the board shall notify the applicant
+154 in writing of such finding and the grounds therefor. Such applicant may request a hearing
+155 before the board on the questions of his or her qualifications."
+156 SECTION 5.
+157 Said chapter is further amended in Code Section 43-50-44, relating to exemptions from
+158 article, by adding a new subparagraph to paragraph (2) to read as follows:
+159 "(2)(A) A person who is a regular student in a veterinary school or school of veterinary
+160 technology performing duties or actions assigned by his or her instructors or working
+161 under the supervision of a licensed veterinarian;
+162 (B) A member of the faculty, a resident, an intern, or a graduate student of an
+163 accredited college or school of veterinary medicine or school of veterinary technology
+164 performing his or her regular clinical or nonclinical functions or a person lecturing or
+165 giving instructions or demonstrations at an accredited college or school of veterinary
+166 medicine or school of veterinary technology in connection with a continuing education
+167 course or seminar;
+168 (B.1) A person licensed pursuant to subparagraph (a)(2)(B) of Code Section 43-50-31
+169 from lecturing or giving instructions or demonstrations in an area within such person's
+170 certified veterinary medicine specialty at an accredited college or school of veterinary
+S. B. 105
+- 7 -
+
+25 LC 57 0273S
+171 medicine or school of veterinary technology and in connection with a continuing
+172 education course or seminar; or
+173 (C) A graduate of a foreign college or school of veterinary medicine who is in the
+174 process of obtaining the ECFVG or PAVE certificate or substantial equivalent
+175 performing duties or actions under the direct supervision of a licensed veterinarian;"
+176 SECTION 6.
+177 Said chapter is further amended by adding a new article to read as follows:
+178 "ARTICLE 7
+179 43-50-120.
+180 (a) A licensed veterinarian may practice veterinary telemedicine in this state if:
+181 (1) Such individual is in good standing and primarily practices veterinary medicine in
+182 this state through in-person visits with clients and animal patients;
+183 (2) Such individual has notified the board of his or her intent to practice veterinary
+184 telemedicine and satisfied any additional requirements set forth by the board;
+185 (3) Such individual has an existing veterinarian-client-patient relationship with any client
+186 and animal patient;
+187 (4) The animal patient resides within this state at the time the individual practices
+188 veterinary telemedicine;
+189 (5) Such individual practices veterinary telemedicine in a manner consistent with his or
+190 her scope of practice, all federal and state laws, and prevailing professional standards of
+191 practice for a veterinarian who provides in-person veterinary services in this state and
+192 employs sound, professional judgment to determine whether using veterinary
+193 telemedicine is an appropriate method for delivering medical advice or treatment to the
+194 animal patient;
+S. B. 105
+- 8 -
+
+25 LC 57 0273S
+195 (6) Such individual takes appropriate precautions to preserve the confidentiality of any
+196 client or animal patient's records; and
+197 (7) Such individual informs the client, in writing, of his or her full name, location,
+198 license number, licensure status, and limitations involved in accessing veterinary
+199 telemedicine and obtains a signed and dated statement from the client indicating receipt
+200 of such required information.
+201 (b) Any prescription, administration, or dispensing of prescription drugs pursuant to this
+202 Code section shall be in accordance with all federal and state laws.
+203 (c) Nothing in this article shall be construed to authorize any licensed veterinarian to
+204 prescribe, administer, or otherwise dispense any prescription drug or any other medication
+205 or treatment specified by the board, unless such licensed veterinarian or another licensed
+206 veterinarian employed at the same veterinary facility has recently seen and is personally
+207 acquainted with the keeping and care of the animal by virtue of a physical examination of
+208 the animal at the veterinary facility or during a medically appropriate and timely visit to
+209 the premises where the animal is located.
+210 43-50-121.
+211 (a) Notwithstanding anything to the contrary in this chapter, a licensed veterinarian or a
+212 veterinary technician supervised by a licensed veterinarian may practice veterinary
+213 teletriage, regardless of whether a veterinarian-client-patient relationship exists, if the
+214 following conditions are met:
+215 (1) No licensed veterinarian or veterinary technician is available within a 50 mile radius
+216 of the animal's location to perform a physical examination at a veterinary facility or the
+217 premises where the animal is located within 24 hours of the client's request for services;
+218 (2) The licensed veterinarian or veterinary technician requests that, as soon as reasonably
+219 practical, the client present the animal patient for a physical examination at the veterinary
+220 facility or at the premises where such animal is located; and
+S. B. 105
+- 9 -
+
+25 LC 57 0273S
+221 (3) The licensed veterinarian or veterinary technician informs the client, in writing, of
+222 the veterinarian or supervising veterinarian's full name, location, license number,
+223 licensure status, and limitations involved in accessing veterinary teletriage, and obtains
+224 a signed and dated statement from the client indicating receipt of such required
+225 information.
+226 (b) Notwithstanding anything to the contrary in this chapter, a licensed veterinarian may
+227 practice veterinary telemedicine, regardless of whether a veterinarian-client-patient
+228 relationship exists, if the licensed veterinarian satisfies the conditions set forth in
+229 paragraphs (1) and (2) of subsection (a) of this Code section and paragraphs (1) and (2) and
+230 paragraphs (4) through (7) of subsection (a) of Code Section 43-50-120.
+231 (c) Nothing in this Code section shall be construed to require or impose a duty upon any
+232 licensed veterinarian or veterinary technician to identify or refer any client to a licensed
+233 veterinarian located within the radius imposed under paragraph (1) of subsection (a) of this
+234 Code section before practicing veterinary teletriage or veterinary telemedicine.
+235 43-50-122.
+236 Nothing in this chapter shall be construed to prohibit a licensed veterinarian or a veterinary
+237 technician supervised by a licensed veterinarian from providing veterinary teleadvice,
+238 regardless of whether a veterinary-client-patient relationship exists."
+239 SECTION 7.
+240 Sections 4 and 5 of this Act shall become effective upon the approval of this Act by the
+241 Governor or upon its becoming law without such approval. All other sections of this Act
+242 shall become effective on July 1, 2025.
+243 SECTION 8.
+244 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 105
+- 10 -
+
+[DELETED: 5L a v t s a t a l v a l v t p v t u c p]
+[DELETED: 5L  T p a p c o o s t r a t w o o i o a l v e d t t p u t i q t e i a a i i c h g i c f s p b t l  A T l v i r a f f u c o]
+[DELETED: 5L  T l v d a m a m  ' t m t u o s o a  ' t m t u o s o a]
+[DELETED: 5L v t v t v t o v m v t v t v]
+[DELETED: 5L t v t v t a v a]
+[DELETED: 5L  H T a h p a b a e p m y a h r b c f a v m]
+[DELETED: 5L  A m o t f a r a i o a g s o a]
+[DELETED: 5L a o o t E o P c o s e s p j t d w u v]
+[DELETED: 5L n l s a l i i a v t s b a l v m p v]
+[DELETED: 5L v o s v f n l l n s a d s f t c i r o s r v t r o w a v e i t l v s t c s f i]

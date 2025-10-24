@@ -1,0 +1,281 @@
+Title: House Bill 672
+Official Title: House Bill 672
+Number of Sections: 1
+Source: versions - LC 46 1065/a
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 46 1065
+By: Representatives Cannon of the 58th, Bazemore of the 69th, Miller of the 62nd, and Bennett
+of the 94th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the
+2 Department of Public Health, so as to enact the "Georgia Dignity in Pregnancy and
+3 Childbirth Act"; to provide for definitions; to require perinatal facilities in this state to
+4 implement evidence based implicit bias programs for its healthcare professionals; to require
+5 certain components in such programs; to provide for initial and refresher training; to provide
+6 for the compilation and tracking of data on severe maternal morbidity and pregnancy related
+7 deaths; to provide for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the Department
+11 of Public Health, is amended by adding a new article to read as follows:
+H. B. 672
+- 1 -
+25 LC 46 1065
+12 "ARTICLE 4
+13 31-2A-60.
+14 This article shall be known and may be cited as the 'Georgia Dignity in Pregnancy and
+15 Childbirth Act.'
+16 31-2A-61.
+17 As used in this article, the term:
+18 (1) 'Healthcare professional' means a physician or other healthcare practitioner licensed,
+19 accredited, or certified to perform specified physical, mental, or behavioral health care
+20 services consistent with his or her scope of practice under the laws of this state.
+21 (2) 'Implicit bias' means a bias in judgment or behavior that results from subtle cognitive
+22 processes, including implicit prejudice and implicit stereotypes that often operate at a
+23 level below conscious awareness and without intentional control.
+24 (3) 'Implicit prejudice' means prejudicial negative feelings or beliefs about a group that
+25 a person holds without being aware of them.
+26 (4) 'Implicit stereotypes' means the unconscious attributions of particular qualities to a
+27 member of a certain social group. Implicit stereotypes are influenced by experience and
+28 are based on learned associations between various qualities and social categories,
+29 including race or gender.
+30 (5) 'Perinatal care' means the provision of care during pregnancy, labor, delivery, and
+31 postpartum and neonatal periods.
+32 (6) 'Perinatal facility' means a hospital, clinic, or birthing center that provides perinatal
+33 care.
+34 (7) 'Pregnancy related death' means the death of a person while pregnant or within 365
+35 days of the end of a pregnancy, irrespective of the duration or site of the pregnancy, from
+H. B. 672
+- 2 -
+25 LC 46 1065
+36 any cause related to, or aggravated by, the pregnancy or its management, but not from
+37 accidental or incidental causes.
+38 31-2A-62.
+39 (a) Every perinatal facility in this state shall implement an evidence based implicit bias
+40 program for all healthcare professionals involved in the perinatal care of patients within
+41 such facility.
+42 (b) An implicit bias program implemented pursuant to subsection (a) of this Code section
+43 shall include the following:
+44 (1) Identification of previous or current unconscious biases and misinformation;
+45 (2) Identification of personal, interpersonal, institutional, structural, and cultural barriers
+46 to inclusion;
+47 (3) Corrective measures to decrease implicit bias at the interpersonal and institutional
+48 levels, including ongoing policies and practices for that purpose;
+49 (4) Information on the effects, including, but not limited to, ongoing personal effects, of
+50 historical and contemporary exclusion and oppression of minority communities;
+51 (5) Information about cultural identity across racial or ethnic groups;
+52 (6) Information about communicating more effectively across identities, including race,
+53 ethnicity, religion, and gender;
+54 (7) Discussion on power dynamics and organizational decision making;
+55 (8) Discussion on health inequities within the perinatal care field, including information
+56 on how implicit bias impacts maternal and infant health outcomes;
+57 (9) Perspectives of diverse, local constituency groups and experts on particular racial,
+58 identity, cultural, and provider-community relations issues in the community; and
+59 (10) Information on reproductive justice.
+60 (c)(1) A healthcare professional shall complete initial basic training through the implicit
+61 bias program based on the components described in subsection (b) of this Code section.
+H. B. 672
+- 3 -
+25 LC 46 1065
+62 (2) Upon completion of the initial basic training, a healthcare professional shall complete
+63 a refresher course under the implicit bias program every two years thereafter, or on a
+64 more frequent basis if deemed necessary by the perinatal facility, in order to keep current
+65 with changing racial, identity, and cultural trends and best practices in decreasing
+66 interpersonal and institutional implicit bias.
+67 (d) Each perinatal facility in this state shall provide a certificate of training completion to
+68 another perinatal facility or a training attendee upon request. A perinatal facility may
+69 accept a certificate of completion from another perinatal facility to satisfy the training
+70 requirement contained in this Code section from a healthcare professional who works in
+71 more than one perinatal facility.
+72 (e) If a healthcare professional involved in the perinatal care of patients is not directly
+73 employed by a perinatal facility, the facility shall offer the training to such healthcare
+74 professional.
+75 31-2A-63.
+76 (a)(1) The department shall collect and track data on severe maternal morbidity,
+77 including, but not limited to, all of the following health conditions:
+78 (A) Obstetric hemorrhage;
+79 (B) Hypertension;
+80 (C) Preeclampsia and eclampsia;
+81 (D) Venous thromboembolism;
+82 (E) Sepsis;
+83 (F) Cerebrovascular accident; and
+84 (G) Amniotic fluid embolism.
+85 (2) The data on severe maternal morbidity collected pursuant to this subsection shall be
+86 published at least once every three years after all of the following have occurred:
+H. B. 672
+- 4 -
+25 LC 46 1065
+87 (A) The data have been aggregated by state regions, as defined by the department, to
+88 ensure the data reflect how regionalized care systems are or should be collaborating to
+89 improve maternal health outcomes, or other smaller regional sorting based on standard
+90 statistical methods for accurate dissemination of public health data without risking a
+91 confidentiality or other disclosure breach; and
+92 (B) The data have been disaggregated by racial and ethnic identity.
+93 (b)(1) The department shall collect and track data on pregnancy related deaths, including,
+94 but not limited to, all of the conditions listed in subsection (a) of this Code section,
+95 indirect obstetric deaths, and other maternal disorders predominantly related to pregnancy
+96 and complications predominantly related to the postpartum period.
+97 (2) The data on pregnancy related deaths collected pursuant to this subsection shall be
+98 published at least once every three years after all of the following have occurred:
+99 (A) The data have been aggregated by state regions, as defined by the department, to
+100 ensure the data reflect how regionalized care systems are or should be collaborating to
+101 improve maternal health outcomes, or other smaller regional sorting based on standard
+102 statistical methods for accurate dissemination of public health data without risking a
+103 confidentiality or other disclosure breach; and
+104 (B) The data have been disaggregated by racial and ethnic identity."
+105 SECTION 2.
+106 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 672
+- 5 -
+[DELETED: 5L8,9,2,hthn4 o P H s a t e t " D i P a]
+[DELETED: 5L b o l a b v q a s c]
+[DELETED: 5L]
+[DELETED: 5L c r i a c t a b p i d  T d s c a t d o s m m]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 46 1065
+House Bill 672
+By: Representatives Cannon of the 58th, Bazemore of the 69th, Miller of the 62nd, and Bennett
+of the 94th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the
+2 Department of Public Health, so as to enact the "Georgia Dignity in Pregnancy and
+3 Childbirth Act"; to provide for definitions; to require perinatal facilities in this state to
+4 implement evidence based implicit bias programs for its healthcare professionals; to require
+5 certain components in such programs; to provide for initial and refresher training; to provide
+6 for the compilation and tracking of data on severe maternal morbidity and pregnancy related
+7 deaths; to provide for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the Department
+11 of Public Health, is amended by adding a new article to read as follows:
+H. B. 672
+- 1 -
+
+25 LC 46 1065
+12 "ARTICLE 4
+13 31-2A-60.
+14 This article shall be known and may be cited as the 'Georgia Dignity in Pregnancy and
+15 Childbirth Act.'
+16 31-2A-61.
+17 As used in this article, the term:
+18 (1) 'Healthcare professional' means a physician or other healthcare practitioner licensed,
+19 accredited, or certified to perform specified physical, mental, or behavioral health care
+20 services consistent with his or her scope of practice under the laws of this state.
+21 (2) 'Implicit bias' means a bias in judgment or behavior that results from subtle cognitive
+22 processes, including implicit prejudice and implicit stereotypes that often operate at a
+23 level below conscious awareness and without intentional control.
+24 (3) 'Implicit prejudice' means prejudicial negative feelings or beliefs about a group that
+25 a person holds without being aware of them.
+26 (4) 'Implicit stereotypes' means the unconscious attributions of particular qualities to a
+27 member of a certain social group. Implicit stereotypes are influenced by experience and
+28 are based on learned associations between various qualities and social categories,
+29 including race or gender.
+30 (5) 'Perinatal care' means the provision of care during pregnancy, labor, delivery, and
+31 postpartum and neonatal periods.
+32 (6) 'Perinatal facility' means a hospital, clinic, or birthing center that provides perinatal
+33 care.
+34 (7) 'Pregnancy related death' means the death of a person while pregnant or within 365
+35 days of the end of a pregnancy, irrespective of the duration or site of the pregnancy, from
+H. B. 672
+- 2 -
+
+25 LC 46 1065
+36 any cause related to, or aggravated by, the pregnancy or its management, but not from
+37 accidental or incidental causes.
+38 31-2A-62.
+39 (a) Every perinatal facility in this state shall implement an evidence based implicit bias
+40 program for all healthcare professionals involved in the perinatal care of patients within
+41 such facility.
+42 (b) An implicit bias program implemented pursuant to subsection (a) of this Code section
+43 shall include the following:
+44 (1) Identification of previous or current unconscious biases and misinformation;
+45 (2) Identification of personal, interpersonal, institutional, structural, and cultural barriers
+46 to inclusion;
+47 (3) Corrective measures to decrease implicit bias at the interpersonal and institutional
+48 levels, including ongoing policies and practices for that purpose;
+49 (4) Information on the effects, including, but not limited to, ongoing personal effects, of
+50 historical and contemporary exclusion and oppression of minority communities;
+51 (5) Information about cultural identity across racial or ethnic groups;
+52 (6) Information about communicating more effectively across identities, including race,
+53 ethnicity, religion, and gender;
+54 (7) Discussion on power dynamics and organizational decision making;
+55 (8) Discussion on health inequities within the perinatal care field, including information
+56 on how implicit bias impacts maternal and infant health outcomes;
+57 (9) Perspectives of diverse, local constituency groups and experts on particular racial,
+58 identity, cultural, and provider-community relations issues in the community; and
+59 (10) Information on reproductive justice.
+60 (c)(1) A healthcare professional shall complete initial basic training through the implicit
+61 bias program based on the components described in subsection (b) of this Code section.
+H. B. 672
+- 3 -
+
+25 LC 46 1065
+62 (2) Upon completion of the initial basic training, a healthcare professional shall complete
+63 a refresher course under the implicit bias program every two years thereafter, or on a
+64 more frequent basis if deemed necessary by the perinatal facility, in order to keep current
+65 with changing racial, identity, and cultural trends and best practices in decreasing
+66 interpersonal and institutional implicit bias.
+67 (d) Each perinatal facility in this state shall provide a certificate of training completion to
+68 another perinatal facility or a training attendee upon request. A perinatal facility may
+69 accept a certificate of completion from another perinatal facility to satisfy the training
+70 requirement contained in this Code section from a healthcare professional who works in
+71 more than one perinatal facility.
+72 (e) If a healthcare professional involved in the perinatal care of patients is not directly
+73 employed by a perinatal facility, the facility shall offer the training to such healthcare
+74 professional.
+75 31-2A-63.
+76 (a)(1) The department shall collect and track data on severe maternal morbidity,
+77 including, but not limited to, all of the following health conditions:
+78 (A) Obstetric hemorrhage;
+79 (B) Hypertension;
+80 (C) Preeclampsia and eclampsia;
+81 (D) Venous thromboembolism;
+82 (E) Sepsis;
+83 (F) Cerebrovascular accident; and
+84 (G) Amniotic fluid embolism.
+85 (2) The data on severe maternal morbidity collected pursuant to this subsection shall be
+86 published at least once every three years after all of the following have occurred:
+H. B. 672
+- 4 -
+
+25 LC 46 1065
+87 (A) The data have been aggregated by state regions, as defined by the department, to
+88 ensure the data reflect how regionalized care systems are or should be collaborating to
+89 improve maternal health outcomes, or other smaller regional sorting based on standard
+90 statistical methods for accurate dissemination of public health data without risking a
+91 confidentiality or other disclosure breach; and
+92 (B) The data have been disaggregated by racial and ethnic identity.
+93 (b)(1) The department shall collect and track data on pregnancy related deaths, including,
+94 but not limited to, all of the conditions listed in subsection (a) of this Code section,
+95 indirect obstetric deaths, and other maternal disorders predominantly related to pregnancy
+96 and complications predominantly related to the postpartum period.
+97 (2) The data on pregnancy related deaths collected pursuant to this subsection shall be
+98 published at least once every three years after all of the following have occurred:
+99 (A) The data have been aggregated by state regions, as defined by the department, to
+100 ensure the data reflect how regionalized care systems are or should be collaborating to
+101 improve maternal health outcomes, or other smaller regional sorting based on standard
+102 statistical methods for accurate dissemination of public health data without risking a
+103 confidentiality or other disclosure breach; and
+104 (B) The data have been disaggregated by racial and ethnic identity."
+105 SECTION 2.
+106 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 672
+- 5 -
+
+[DELETED: 5L8,9,2,hthn4 o P H s a t e t " D i P a]
+[DELETED: 5L b o l a b v q a s c]
+[DELETED: 5L]
+[DELETED: 5L c r i a c t a b p i d  T d s c a t d o s m m]
+[DELETED: 5L]
