@@ -1,0 +1,114 @@
+Title: Senator Hufstetler of the 52nd offered the following amendment #1:
+Official Title: Senator Hufstetler of the 52nd offered the following amendment #1:
+Number of Sections: 1
+Source: versions - Sen Floor Amend 1 AM 52 0082
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 Sen Floor Amend 1 AM 52 0082
+1 Amend HB 185 (LC 52 0820S) by replacing line 2 with the following:
+2 businesses, so as to provide for improvements and clarity in licensing certain healthcare
+3 providers; to repeal and reenact Chapter 11A, the "Dietetics Practice Act"; to provide
+4 By replacing line 17 with the following:
+5 respectively, so as to provide for conforming cross-references; to amend Title 43 of the
+6 Official Code of Georgia Annotated, relating to professions and businesses, so as to provide
+7 for the Georgia Composite Medical Board to implement an automated licensing system for
+8 certain healthcare providers in this state; to provide for requirements; to provide for related
+9 matters;
+10 By inserting between lines 1500 and 1501 the following:
+11 Licensing credentialing system
+12 SECTION 3-1.
+13 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+14 is amended in Code Section 43-34-6, relating to Georgia Composite Medical Board as an
+15 independent agency, by adding new subsections to read as follows:
+16 "(k) No later than October 1, 2025, the board shall implement a data management software
+17 system to streamline and automate the licensing process for physicians, physician
+18 assistants, and anesthesiologist assistants. No later than January 1, 2026, such system shall
+19 be fully operational for other healthcare providers licensed by the board.
+20 (l) The system provided for in subsection (k) of this Code section may:
+- 1 -
+25 Sen Floor Amend 1 AM 52 0082
+21 (1) Organize, verify, and store the licenses of healthcare providers, allowing for a single
+22 verification process that results in authorization state wide, provided that a healthcare
+23 facility, licensee, or applicant inputs the credentialing information and agrees to such
+24 authorization;
+25 (2) If available, be customizable so that a healthcare facility can add requirements to
+26 meet such facility's rules, regulations, or bylaws;
+27 (3) Provide a public facing page that is easily and securely accessible by other state
+28 medical boards, healthcare providers, and healthcare facilities;
+29 (4) Notify any individual submitting credentials into such system when his or her
+30 application is deficient, what such deficiency is, and when such application is complete;
+31 (5) Process complete applications within 30 days and process reappointments within two
+32 weeks;
+33 (6) Provide for the registration of nurse protocol agreements for advanced practice
+34 registered nurses and job descriptions for licensed physician assistants and
+35 anesthesiologist assistants;
+36 (7) Allow any healthcare facility to accept the information for licensing as acceptance
+37 for credentialing and any healthcare provider to add additional requirements for
+38 credentialing in their facility; and
+39 (8) Perform any other functions the board deems necessary to improve licensing
+40 processes under this chapter."
+41 PART IV
+42 By redesignating Sections 3-1 and 3-2 as Sections 4-1 and 4-2, respectively.
+- 2 -
+[DELETED: 5SAbpBrOfcm0B1L2S3T4i5i7s t s a a t l p f p p8a9b0(]
+[DELETED: 5S1(2v3f4a5(6m7(8m9(0a1(2w3(4r n a j d f l p a a5a6(7f c a a h p t a a r f8c9(  P a o f t b d n t i l0p1P2B]
+
+
+================================================================================
+
+Raw Text:
+25 Sen Floor Amend 1 AM 52 0082
+Senator Hufstetler of the 52nd offered the following amendment #1:
+1 Amend HB 185 (LC 52 0820S) by replacing line 2 with the following:
+2 businesses, so as to provide for improvements and clarity in licensing certain healthcare
+3 providers; to repeal and reenact Chapter 11A, the "Dietetics Practice Act"; to provide
+4 By replacing line 17 with the following:
+5 respectively, so as to provide for conforming cross-references; to amend Title 43 of the
+6 Official Code of Georgia Annotated, relating to professions and businesses, so as to provide
+7 for the Georgia Composite Medical Board to implement an automated licensing system for
+8 certain healthcare providers in this state; to provide for requirements; to provide for related
+9 matters;
+10 By inserting between lines 1500 and 1501 the following:
+11 Licensing credentialing system
+12 SECTION 3-1.
+13 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+14 is amended in Code Section 43-34-6, relating to Georgia Composite Medical Board as an
+15 independent agency, by adding new subsections to read as follows:
+16 "(k) No later than October 1, 2025, the board shall implement a data management software
+17 system to streamline and automate the licensing process for physicians, physician
+18 assistants, and anesthesiologist assistants. No later than January 1, 2026, such system shall
+19 be fully operational for other healthcare providers licensed by the board.
+20 (l) The system provided for in subsection (k) of this Code section may:
+- 1 -
+
+25 Sen Floor Amend 1 AM 52 0082
+21 (1) Organize, verify, and store the licenses of healthcare providers, allowing for a single
+22 verification process that results in authorization state wide, provided that a healthcare
+23 facility, licensee, or applicant inputs the credentialing information and agrees to such
+24 authorization;
+25 (2) If available, be customizable so that a healthcare facility can add requirements to
+26 meet such facility's rules, regulations, or bylaws;
+27 (3) Provide a public facing page that is easily and securely accessible by other state
+28 medical boards, healthcare providers, and healthcare facilities;
+29 (4) Notify any individual submitting credentials into such system when his or her
+30 application is deficient, what such deficiency is, and when such application is complete;
+31 (5) Process complete applications within 30 days and process reappointments within two
+32 weeks;
+33 (6) Provide for the registration of nurse protocol agreements for advanced practice
+34 registered nurses and job descriptions for licensed physician assistants and
+35 anesthesiologist assistants;
+36 (7) Allow any healthcare facility to accept the information for licensing as acceptance
+37 for credentialing and any healthcare provider to add additional requirements for
+38 credentialing in their facility; and
+39 (8) Perform any other functions the board deems necessary to improve licensing
+40 processes under this chapter."
+41 PART IV
+42 By redesignating Sections 3-1 and 3-2 as Sections 4-1 and 4-2, respectively.
+- 2 -
+
+[DELETED: 5SAbpBrOfcm0B1L2S3T4i5i7s t s a a t l p f p p8a9b0(]
+[DELETED: 5S1(2v3f4a5(6m7(8m9(0a1(2w3(4r n a j d f l p a a5a6(7f c a a h p t a a r f8c9(  P a o f t b d n t i l0p1P2B]

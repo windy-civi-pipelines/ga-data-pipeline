@@ -1,0 +1,885 @@
+Title: House Bill 92 (AS PASSED HOUSE AND SENATE)
+Official Title: House Bill 92 (AS PASSED HOUSE AND SENATE)
+Number of Sections: 1
+Source: versions - HB 92/AP*
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+25 HB 92/AP
+By: Representatives Blackmon of the 146th, Kelley of the 16th, Williams of the 148th, Erwin
+of the 32nd, Washburn of the 144th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 48 of the Official Code of Georgia Annotated, relating to revenue and
+2 taxation, so as to provide for the contents of property tax bills; to revise a state-wide base
+3 year homestead exemption; to clarify that a surviving spouse does not need to reapply for
+4 such exemption; to provide for procedures to elect to opt out and rescind an election to opt
+5 out of such exemption; to provide for an additional period to apply for a homestead
+6 exemption in certain circumstances; to provide for the contents of annual notices of
+7 assessment; to provide for forms for such notices; to provide for requirements for calculating
+8 and certifying estimated roll-back rates; to revise definitions; to exempt from local taxes the
+9 sale or use of construction materials used in certain capital outlay projects for educational
+10 purposes; to provide that such exemption only applies to projects for local school systems
+11 that have in effect certain homestead exemptions from property taxation; to provide for
+12 conditions and limitations; to provide for payment, collection, and refunds; to provide for an
+13 automatic repeal; to provide for the maximum amount of local sales and use taxes that may
+14 be imposed; to revise provisions related to a special district sales and use tax; to provide for
+15 conditions under which such tax may be imposed; to provide for clarifications; to provide for
+16 related matters; to provide for an effective date and applicability; to repeal conflicting laws;
+17 and for other purposes.
+H. B. 92
+- 1 -
+25 HB 92/AP
+18 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+19 PART I
+20 SECTION 1-1.
+21 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+22 amended in Code Section 48-5-2, relating to definitions relative to ad valorem taxation of
+23 property, by revising paragraph (2.1) as follows:
+24 "(2.1) 'Estimated roll-back rate' means, for any given levying or recommending authority,
+25 the current year's estimated millage rate for general maintenance and operations minus
+26 the millage equivalent of the total net assessed value added by reassessments:
+27 (A) As as calculated and certified to the tax commissioner by the levying or
+28 recommending authority pursuant to Code Section 48-5-306.2 for county and
+29 educational tax purposes; and
+30 (B) As calculated and certified to the collecting officer of the municipality by the
+31 levying authority for municipal tax purposes."
+32 SECTION 1-2.
+33 Said title is further amended in Code Section 48-5-34, relating to ad valorem property tax bill
+34 form, by revising subsection (b) and adding a new subsection to read as follows:
+35 "(b) In addition to the requirements of subsection (a) of this Code section, regarding any
+36 ad valorem property tax bill where if the millage rate adopted by a tax taxing authority
+37 exceeds the estimated roll-back rate and such estimated roll-back rate was provided in the
+38 annual notice of assessment, such tax bill shall include a notice containing the name of
+39 such taxing authority and the following statement in bold print:
+H. B. 92
+- 2 -
+25 HB 92/AP
+40 'The adopted millage rate exceeds the estimated roll-back rate as stated in the annual
+41 notice of assessment that you previously received for this taxable year, which will
+42 result in an increase in the amount of property tax that you will owe.'
+43 (c)(1) If the governing authority of a county, consolidated government, municipality, or
+44 school district elected to opt out of the homestead exemption provided for in Code
+45 Section 48-5-44.2 and there is not in effect for such political subdivision a base year
+46 value homestead exemption or adjusted base year value homestead exemption that is
+47 generally applicable for homestead residents, each ad valorem property tax bill issued by
+48 such political subdivision for homestead properties shall contain a notice in bold print
+49 that corresponds with the following statement:
+50 '[Name of the political subdivision] chose to opt out of property tax relief for
+51 homeowners related to HB 581 (2024). If you have concerns about that decision,
+52 please call [the main telephone number for the levying or recommending authority of
+53 the political subdivision].'
+54 (2) The provisions of paragraph (1) of this subsection shall not apply for any taxable year
+55 beginning after December 31, 2029."
+56 SECTION 1-3.
+57 Said title is further amended in Code Section 48-5-44.2, relating to base year homestead
+58 exemption, by revising paragraph (4) of subsection (a) and subsections (e) and (i) as follows:
+59 "(4) 'Homestead' means homestead as defined and qualified in Code Section 48-5-40,
+60 with the additional limitation that it shall include:
+61 (A) Only the primary residence and not more than five contiguous acres of land
+62 immediately surrounding such residence; or
+63 (B) If the property is assessed pursuant to Code Section 48-5-7.4 or 48-5-7.7, only the
+64 primary residence and the portion of the underlying property that is excluded from the
+H. B. 92
+- 3 -
+25 HB 92/AP
+65 benefit of such assessment pursuant to subparagraph (a)(1)(B) of Code Section 48-5-7.4
+66 or subparagraph (b)(2)(B) of Code Section 48-5-7.7."
+67 "(e) The exemption granted by subsection (b) or (c) of this Code section shall be claimed
+68 and returned as provided in Code Section 48-5-50.1. Such exemption shall be
+69 automatically renewed from year to year so long as the owner occupies the residence as a
+70 homestead. After a person or a person's agent has filed the proper application or is
+71 automatically granted the homestead exemption as provided in subsection (d) of this Code
+72 section, it shall not be necessary for such person or such person's surviving spouse to make
+73 application thereafter for any year, and the exemption shall continue to be allowed to such
+74 person or such person's surviving spouse. It shall be the duty of any person granted the
+75 homestead exemption under subsection (b) or (c) of this Code section to notify the tax
+76 receiver or tax commissioner of the local government or governments in the event such
+77 person for any reason becomes ineligible for such exemption."
+78 "(i)(1) The governing authority of any county, consolidated government, municipality,
+79 or school district may elect to opt out of the homestead exemption otherwise granted by
+80 subsection (b) of this Code section with respect to such political subdivision through the
+81 adoption of a resolution to do the same by March 1, 2025, after completing the following
+82 steps:
+83 (1)(A) The governing authority shall advertise its intent to do so and shall conduct at
+84 least three public hearings thereon, at least one of which shall commence between the
+85 hours of 6:00 P.M. and 7:00 P.M., inclusive, on a business weekday. The governing
+86 authority shall place an advertisement in a newspaper of general circulation serving the
+87 residents of the political subdivision and post such advertisement on its website, which
+88 shall read as follows:
+89 'INTENT TO OPT OUT OF HOMESTEAD EXEMPTION
+90 The (name of governing authority) intends to opt out of the statewide adjusted
+91 base year ad valorem homestead exemption for (name of the political subdivision).
+H. B. 92
+- 4 -
+25 HB 92/AP
+92 All concerned citizens are invited to the public hearing on this matter to be held
+93 at (place of meeting) on (date and time).
+94 Times and places of additional public hearings on this matter are at (place of
+95 meeting) on (date and time).'
+96 Simultaneously with this notice the governing authority shall provide a press release to
+97 the local media.; and
+98 (2)(B) The advertisement required by subparagraph (A) of this paragraph (1) of this
+99 subsection shall appear at least one week prior to each hearing, be prominently
+100 displayed, be not less than 30 square inches, and not be placed in that section of the
+101 newspaper where legal notices appear and shall be posted on the appropriate website
+102 at least one week prior to each hearing. In addition to the advertisement specified under
+103 this paragraph, the levying or recommending authority may include in the notice
+104 reasons or explanations for its intention to opt out of the homestead exemption.
+105 (3)(2) No resolution election to opt out of the homestead exemption pursuant to this
+106 Code section shall become effective with respect to a political subdivision unless the
+107 procedures and hearings required by paragraph (1) of this subsection are completed and
+108 a copy of such resolution is filed with the Secretary of State by March 1, 2025.
+109 (3) For an election to opt out of the homestead exemption pursuant to this subsection to
+110 remain effective for tax years 2027 and after with respect to a political subdivision that
+111 does not have in effect a base year value homestead exemption or an adjusted base year
+112 value homestead exemption that is generally applicable to homestead residents, the
+113 governing authority of such political subdivision shall complete the same procedures and
+114 hearings required by paragraph (1) of this subsection, except that a copy of the required
+115 resolution shall be filed with the Secretary of State by March 1, 2027.
+116 (4) The governing authority of any county, consolidated government, municipality, or
+117 school district that has elected to opt out of the homestead exemption pursuant to this
+118 subsection may rescind such election at any time by adopting a resolution to do so and
+H. B. 92
+- 5 -
+25 HB 92/AP
+119 filing a copy of such resolution with the Secretary of State; provided, however, that such
+120 resolution to rescind the election to opt out shall only be effective for:
+121 (A) Tax year 2025 if a copy of the resolution is filed with the Secretary of State by
+122 April 30, 2025; and
+123 (B) Any other tax year from 2026 through 2029 if a copy of the resolution is filed with
+124 the Secretary of State by March 1 of such year."
+125 SECTION 1-4.
+126 Said title is further amended in Code Section 48-5-45, relating to application for homestead
+127 exemption and unlawful to solicit fee to file application for homestead for another, by
+128 revising subsection (a) as follows:
+129 "(a)(1) An applicant seeking a homestead exemption as provided in Code
+130 Section 48-5-44 and qualifying under the provisions of Code Section 48-5-40 shall file
+131 a written application and schedule with the tax receiver or tax commissioner charged with
+132 the duty of receiving returns of property for taxation at any time during the calendar year
+133 subsequent to the property becoming the primary residence of the applicant up to and
+134 including the date for the closing of the books for the return of taxes for the calendar year,
+135 except that, in the case of a property which is subject to a reassessment by the board of
+136 tax assessors, such application and schedule may be filed in conjunction with or in lieu
+137 of an appeal of the reassessment.
+138 (2) The failure to file properly the application and schedule on or before the date for the
+139 closing of the books for the return of taxes of a calendar year in which the taxes are due
+140 shall constitute a waiver of the homestead exemption on the part of the applicant failing
+141 to make the application for such exemption for that year."
+H. B. 92
+- 6 -
+25 HB 92/AP
+142 SECTION 1-5.
+143 Said title is further amended in Code Section 48-5-306, relating to annual notice of current
+144 assessment, contents, posting notice, and new assessment description, by revising
+145 paragraph (1) of subsection (b) as follows:
+146 "(1) The annual notice of current assessment required to be given by the county board
+147 of tax assessors under subsection (a) of this Code section shall be dated and shall contain
+148 the name and last known address of the taxpayer. The annual notice shall conform with
+149 be given on the applicable state-wide uniform assessment notice form which shall be
+150 established by the commissioner by rule and regulation and shall contain:
+151 (A) The amount of the previous assessment;
+152 (B) The amount of the current assessment;
+153 (C) The year for which the new assessment is applicable;
+154 (D) A brief description of the assessed property broken down into real and personal
+155 property classifications;
+156 (E) The fair market value of property of the taxpayer subject to taxation and the
+157 assessed value of the taxpayer's property subject to taxation after being reduced;
+158 (F) The name, phone number, and contact information of the person in the assessors'
+159 office who is administratively responsible for the handling of the appeal and who the
+160 taxpayer may contact if the taxpayer has questions about the reasons for the assessment
+161 change or the appeals process;
+162 (G) If available, the public internet website address of the office of the county board
+163 of tax assessors;
+164 (H) A statement that all documents and records used to determine the current value are
+165 available upon request; and
+166 (I)(i) The current year's estimated roll-back rate for each levying or recommending
+167 authority that certified its estimated roll-back rate for the current year to the county
+H. B. 92
+- 7 -
+25 HB 92/AP
+168 board of tax assessors and county tax commissioner by the date specified under Code
+169 Section 48-5-306.2; or
+170 (ii) For each levying or recommending authority that did not certify its estimated
+171 roll-back rate to the county board of tax assessors and county tax commissioner by the
+172 date specified in Code Section 48-5-306.2, the millage rate that was actually levied
+173 by or on behalf of such authority for the previous tax year, and an estimate of the
+174 amount of ad valorem taxes due for the assessed property based on such millage rate
+175 and the amount of the current assessment."
+176 SECTION 1-6.
+177 Said title is further amended by adding a new Code section to read as follows:
+178 "48-5-306.2.
+179 Each levying and recommending authority shall annually calculate its estimated roll-back
+180 rate for the current year and shall certify such rate to the county board of tax assessors and
+181 county tax commissioner no less than 15 days prior to the postmark of the annual notice
+182 of assessment."
+183 PART II
+184 SECTION 2-1.
+185 Said title is further amended in Code Section 48-8-3, relating to exemptions from sales and
+186 use taxes, by adding a new paragraph to read as follows:
+187 "(10.1)(A) Notwithstanding any provision of Code Section 48-8-63 to the contrary, the
+188 sale or use of qualifying construction materials used in capital outlay projects for
+189 educational purposes.
+190 (B) The exemption provided for in this paragraph shall only apply to local sales and
+191 use taxes.
+H. B. 92
+- 8 -
+25 HB 92/AP
+192 (C)(i) Notwithstanding the exemption provided for in subparagraph (A) of this
+193 paragraph, all sales and use taxes imposed on the sale or use of qualifying
+194 construction materials shall be paid and collected pursuant to the requirements of this
+195 chapter.
+196 (ii) The benefit of the exemption allowed by this paragraph may be claimed by the
+197 local school system for which the qualifying construction materials were used. To
+198 claim the exemption, the local school system shall file a request for refund in the
+199 manner prescribed by the department. The department shall refund to the local school
+200 system the amount of taxes paid on qualifying construction materials used in the
+201 capital outlay project for educational purposes. No refund made pursuant to this
+202 paragraph shall include interest.
+203 (iii) Any refund received by a local school system pursuant to this paragraph shall be
+204 allocated to a fund or account for capital outlay projects and used in accordance with
+205 the requirements for sales taxes for educational purposes authorized pursuant to
+206 Article VIII, Section VI, Paragraph IV of the Constitution of Georgia.
+207 (D) As used in this paragraph, the term:
+208 (i) 'Capital outlay project for educational purposes' means a project that:
+209 (I) Was approved and funded through a sales tax for educational purposes
+210 authorized pursuant to Article VIII, Section VI, Paragraph IV of the Constitution of
+211 Georgia; and
+212 (II) Is for a local school system which has in effect a base year value homestead
+213 exemption or adjusted base year value homestead exemption from ad valorem
+214 taxation for educational purposes for all residents of the local school system.
+215 (ii) 'Local sales and use taxes' mean sales taxes, use taxes, or local sales and use taxes
+216 levied or imposed at any time in any area consisting of less than the entire state,
+217 however authorized, including, but not limited to, such taxes authorized by or
+218 pursuant to a constitutional amendment; by or pursuant to Section 25 of an Act
+H. B. 92
+- 9 -
+25 HB 92/AP
+219 approved March 10, 1965 (Ga. L. 1965, p. 2243), as amended, the 'Metropolitan
+220 Atlanta Rapid Transit Authority Act of 1965'; and by or pursuant to Articles 2, 2A,
+221 2B, 3, 4, 5, 5A, and 5B of this chapter.
+222 (iii) 'Qualifying construction materials' means any materials used in the construction
+223 of a capital outlay project for educational purposes that will remain as part of such
+224 project after completion of construction or that become incorporated into such
+225 project's real property. Such term shall not include any materials that remain in the
+226 possession of a contractor after the completion of construction.
+227 (E) This paragraph shall stand repealed on December 31, 2033;"
+228 PART III
+229 SECTION 3-1.
+230 Said title is further amended in Code Section 48-8-6, relating to prohibition of political
+231 subdivisions from imposing various taxes, ceiling on local sales and use taxes, and taxation
+232 of mobile telecommunications, by revising subsection (a) as follows:
+233 "(a)(1) Except as provided in this subsection, on and after July 1, 2024, there shall not
+234 be imposed in any jurisdiction in this state or on any transaction in this state local sales
+235 taxes, local use taxes, or local sales and use taxes in excess of 2 percent. For purposes
+236 of this such 2 percent limitation, the taxes affected are any sales tax, use tax, or sales and
+237 use tax which is levied in an area consisting of less than the entire state, however
+238 authorized, including such taxes authorized by or pursuant to constitutional amendment,
+239 and regardless of whether another provision of law purports to the contrary, except for
+240 the following:
+241 (A) A 1 percent sales and use tax for educational purposes exempted from such
+242 limitation under Article VIII, Section VI, Paragraph IV of the Constitution;
+H. B. 92
+- 10 -
+25 HB 92/AP
+243 (B) Up to 1 percent in aggregate of any of the transportation related sales and use taxes
+244 authorized under Articles 5, 5A, and 5B of this chapter and Article 2 of Chapter 9 of
+245 Title 32, and in a county in which a tax is levied and collected pursuant to Part 2 of
+246 Article 2A of this chapter, any tax levied for purposes of a metropolitan area system of
+247 public transportation, as authorized by the amendment to the Constitution set out at
+248 Georgia Laws, 1964, page 1008, the continuation of such amendment under Article XI,
+249 Section I, Paragraph IV(d) of the Constitution, and the laws enacted pursuant to such
+250 constitutional amendment; and
+251 (C) Up to 1 percent in aggregate of any sales and use taxes authorized under Code
+252 Section 48-8-96, Code Section 48-8-97, Article 2B of this chapter, Part 3 of Article 3
+253 of this chapter, and Article 4 of this chapter.
+254 (2) Notwithstanding any provision of law to the contrary, any tax that does not comply
+255 with the limitations provided in paragraph (1) of this subsection as of July 1, 2025, but
+256 was initiated in compliance with the law in effect prior to January 1, 2025, shall be
+257 allowed to continue as authorized under laws that existed prior to July 1, 2025; provided,
+258 however, that, upon the expiration or termination of any such tax, such tax shall not be
+259 renewed and the jurisdiction that levied such tax shall be fully subject to the limitations
+260 imposed by this subsection.
+261 (3) This subsection shall not limit the imposition of any local excise tax, which is
+262 separately authorized under Chapter 13 of this title.
+263 (4) Except as provided in paragraph (2) of this subsection, if If the imposition of any
+264 otherwise authorized local sales tax, local use tax, or local sales and use tax would result
+265 in a tax rate in excess of that authorized by this subsection, then such otherwise
+266 authorized tax shall not be imposed."
+H. B. 92
+- 11 -
+25 HB 92/AP
+267 SECTION 3-2.
+268 Said title is further amended by revising Code Section 48-8-109.31, relating to imposition
+269 of special sales and use tax within special district and limited time and purpose, as follows:
+270 "48-8-109.31.
+271 (a) Subject to the requirement of approval by local referendum and the other requirements
+272 of this article, to impose there may be imposed within any given special district a special
+273 sales and use tax for a limited period of time for the limited purpose of property tax relief.
+274 (b) Except as to rate, a tax imposed under this part shall correspond to the tax imposed by
+275 Article 1 of this chapter. No item or transaction which is not subject to taxation under
+276 Article 1 of this chapter shall be subject to a tax imposed under this article, except that a
+277 tax imposed under this article shall apply to sales of motor fuels as prepaid local tax as
+278 defined in Code Section 48-8-2 and shall be applicable to the sale of food and food
+279 ingredients and alcoholic beverages as provided for in Code Section 48-8-3.
+280 (c) The special sales and use tax provided for in subsection (a) of this Code section may
+281 be imposed by a special district in 0.05 percent increments, but in no event shall such tax
+282 exceed 1 percent in total. The levy of such tax upon sales of motor fuels as defined in
+283 Code Section 48-9-2 shall only be imposed on the retail sales price of the motor fuel which
+284 is not more than $3.00 per gallon.
+285 (d)(1) As a condition conditions precedent to the issuance of the call for the referendum:
+286 (1)(A) The governing authority of the county whose geographical boundary is
+287 conterminous with that of the special district and the governing authority or authorities
+288 of all municipalities in such county that levy an ad valorem tax on property, other than
+289 those municipalities that are excluded from the special district pursuant to paragraph (3)
+290 subsection (f) of this subsection Code section, shall have in effect a base year value
+291 homestead exemption or adjusted base year value homestead exemption, except that such
+292 condition precedent shall not apply with respect to any municipality that levies an ad
+H. B. 92
+- 12 -
+25 HB 92/AP
+293 valorem tax on property and that represents no more than 5 percent of the special district's
+294 residents of municipalities that levy an ad valorem tax on property; and
+295 (B)(2) The governing authority of the county whose geographical boundary is
+296 conterminous with that of the special district and the governing authority or authorities,
+297 if any, that represent at least 50 percent of the special district's residents of municipalities
+298 that levy an ad valorem tax on property, other than those municipalities that are excluded
+299 from the special district pursuant to paragraph (3) of this subsection (f) of this Code
+300 section, shall enter into an intergovernmental agreement calling for the tax authorized
+301 under this article and specifying the proposed rate of the tax, the proposed maximum
+302 period of time that the tax is to be levied, and the proposed distribution of the tax.
+303 (e)(1) As used in this subsection, the term 'absent municipality' means any municipality
+304 that levies an ad valorem tax on property, other than those municipalities that are
+305 excluded from the special district pursuant to subsection (f) of this Code section, and that
+306 did not enter into the intergovernmental agreement provided for in paragraph (2) of
+307 subsection (d) of this Code section.
+308 (2) If the combined total of the populations of all such absent municipalities is less than
+309 one-half of the aggregate population of all municipalities located within the special
+310 district that levy an ad valorem tax on property, the political subdivisions governing
+311 authorities entering into the such intergovernmental agreement shall, on in behalf of such
+312 absent municipalities, specify a percentage of that portion of the remaining proceeds
+313 which each municipality that levies an ad valorem tax on property shall receive, which
+314 percentage shall not be less than that proportion which each such absent municipality's
+315 population bears to the total population of all municipalities that levy ad valorem taxes
+316 on property within the special district multiplied by that portion of the remaining
+317 proceeds which are received by all such municipalities within the special district. No
+318 portion of the tax shall be apportioned to counties and or municipalities that do not levy
+H. B. 92
+- 13 -
+25 HB 92/AP
+319 an ad valorem tax on property or do not have a base year value homestead exemption or
+320 adjusted base year value homestead exemption in effect.
+321 (3)(f) Subject to the limitation provided for in Code Section 48-8-6, any special district
+322 which wholly or partially contains a jurisdiction levying the tax provided for under
+323 Article 4 of this chapter is authorized to levy the tax authorized under this article. Such tax
+324 authorized under this article may only be levied in the areas of the special district outside
+325 of the jurisdiction levying the tax provided for under Article 4 of this chapter. Any
+326 jurisdiction levying the tax provided for under Article 4 of this chapter shall not be
+327 considered within the procedure necessary to levy the tax under this article and shall not
+328 be entitled to any portion of said tax."
+329 SECTION 3-3.
+330 Said title is further amended in Code Section 48-8-109.32, relating to maximum period of
+331 time of the tax, submission to voters to determine imposition of tax, ballot language, and
+332 expenses of election, by adding a new subsection to read as follows:
+333 "(e) If no intergovernmental agreement is required pursuant to this article, the governing
+334 authority of the county or consolidated government whose geographical boundary is
+335 conterminous with that of the special district shall adopt a resolution which meets the
+336 requirements provided for in this Code section for intergovernmental agreements."
+337 SECTION 3-4.
+338 Said title is further amended in Code Section 48-8-109.33, relating to timing for imposition
+339 of tax following approval and termination of tax, by revising paragraph (2) of subsection (a)
+340 and subsection (c) as follows:
+341 "(2) With respect to services that are regularly billed on a monthly basis, however, the
+342 resolution or ordinance imposing the tax shall become effective and the tax shall apply
+343 to the first regular billing period coinciding with or following the effective date specified
+H. B. 92
+- 14 -
+25 HB 92/AP
+344 in paragraph (1) of this subsection. A certified copy of the ordinance intergovernmental
+345 agreement or resolution imposing required to impose the tax authorized by this article
+346 shall be forwarded to the commissioner to ensure it is received within five business days
+347 after certification of the election results."
+348 "(c) For any special district in which a tax authorized by this article is in effect may, while
+349 such tax is in effect, the General Assembly may pass a local Act calling for a reimposition
+350 of a tax as authorized by this article upon the termination of the tax then in effect, and a
+351 referendum may be held for this purpose while the tax is in effect. Proceedings for such
+352 reimposition shall be in the same manner as proceedings for the initial imposition of the
+353 tax as provided for in Code Section Sections 48-8-109.31 and 48-8-109.32. Such newly
+354 authorized tax shall not be imposed until the expiration of the tax then in effect."
+355 PART IV
+356 SECTION 4-1.
+357 (a) This Act shall become effective upon its approval by the Governor or upon its becoming
+358 law without such approval and, except as provided in subsection (b) of this section, shall be
+359 applicable on and after such date.
+360 (b) Part I of this Act shall be applicable to taxable years beginning on or after
+361 January 1, 2025.
+362 SECTION 4-2.
+363 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 92
+- 15 -
+[DELETED: 5H6,6,8,htht2,4,dt o s e t p f a a p t a f a h i c c t p f t c o a n o]
+[DELETED: 5H  A a c a c t t t c b t l o a p t C S 4 f c a]
+[DELETED: 5H o t p s c t o o o p t r f]
+[DELETED: 5H r a p i C S 4  S e s b]
+[DELETED: 5H s a a l o w p t e h b p p t l o r a m i i t n]
+[DELETED: 5H  A a s a h e a p i C]
+[DELETED: 5H c p n a n a d b r]
+[DELETED: 5H]
+[DELETED: 5H a s a u t i o t s o u o q  W a a f t a s t f e p a i b n l t s t a b o]
+[DELETED: 5H a c o c o t b i i s l t]
+[DELETED: 5H a t r i e o t a b t s t s o]
+[DELETED: 5H  T g a o t c w g b i]
+[DELETED: 5H  T g a o t c w g b i l a a v t o p o t t m t a p w t s d m b t p o t r]
+[DELETED: 5H w o p c a j l t t p f u l t t p f u A 4 o t c s n b o t c o c g w g b i]
+[DELETED: 5H  P I o t A s b a t t y b o o a]
+
+
+================================================================================
+
+Raw Text:
+25 HB 92/AP
+House Bill 92 (AS PASSED HOUSE AND SENATE)
+By: Representatives Blackmon of the 146th, Kelley of the 16th, Williams of the 148th, Erwin
+of the 32nd, Washburn of the 144th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 48 of the Official Code of Georgia Annotated, relating to revenue and
+2 taxation, so as to provide for the contents of property tax bills; to revise a state-wide base
+3 year homestead exemption; to clarify that a surviving spouse does not need to reapply for
+4 such exemption; to provide for procedures to elect to opt out and rescind an election to opt
+5 out of such exemption; to provide for an additional period to apply for a homestead
+6 exemption in certain circumstances; to provide for the contents of annual notices of
+7 assessment; to provide for forms for such notices; to provide for requirements for calculating
+8 and certifying estimated roll-back rates; to revise definitions; to exempt from local taxes the
+9 sale or use of construction materials used in certain capital outlay projects for educational
+10 purposes; to provide that such exemption only applies to projects for local school systems
+11 that have in effect certain homestead exemptions from property taxation; to provide for
+12 conditions and limitations; to provide for payment, collection, and refunds; to provide for an
+13 automatic repeal; to provide for the maximum amount of local sales and use taxes that may
+14 be imposed; to revise provisions related to a special district sales and use tax; to provide for
+15 conditions under which such tax may be imposed; to provide for clarifications; to provide for
+16 related matters; to provide for an effective date and applicability; to repeal conflicting laws;
+17 and for other purposes.
+H. B. 92
+- 1 -
+
+25 HB 92/AP
+18 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+19 PART I
+20 SECTION 1-1.
+21 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+22 amended in Code Section 48-5-2, relating to definitions relative to ad valorem taxation of
+23 property, by revising paragraph (2.1) as follows:
+24 "(2.1) 'Estimated roll-back rate' means, for any given levying or recommending authority,
+25 the current year's estimated millage rate for general maintenance and operations minus
+26 the millage equivalent of the total net assessed value added by reassessments:
+27 (A) As as calculated and certified to the tax commissioner by the levying or
+28 recommending authority pursuant to Code Section 48-5-306.2 for county and
+29 educational tax purposes; and
+30 (B) As calculated and certified to the collecting officer of the municipality by the
+31 levying authority for municipal tax purposes."
+32 SECTION 1-2.
+33 Said title is further amended in Code Section 48-5-34, relating to ad valorem property tax bill
+34 form, by revising subsection (b) and adding a new subsection to read as follows:
+35 "(b) In addition to the requirements of subsection (a) of this Code section, regarding any
+36 ad valorem property tax bill where if the millage rate adopted by a tax taxing authority
+37 exceeds the estimated roll-back rate and such estimated roll-back rate was provided in the
+38 annual notice of assessment, such tax bill shall include a notice containing the name of
+39 such taxing authority and the following statement in bold print:
+H. B. 92
+- 2 -
+
+25 HB 92/AP
+40 'The adopted millage rate exceeds the estimated roll-back rate as stated in the annual
+41 notice of assessment that you previously received for this taxable year, which will
+42 result in an increase in the amount of property tax that you will owe.'
+43 (c)(1) If the governing authority of a county, consolidated government, municipality, or
+44 school district elected to opt out of the homestead exemption provided for in Code
+45 Section 48-5-44.2 and there is not in effect for such political subdivision a base year
+46 value homestead exemption or adjusted base year value homestead exemption that is
+47 generally applicable for homestead residents, each ad valorem property tax bill issued by
+48 such political subdivision for homestead properties shall contain a notice in bold print
+49 that corresponds with the following statement:
+50 '[Name of the political subdivision] chose to opt out of property tax relief for
+51 homeowners related to HB 581 (2024). If you have concerns about that decision,
+52 please call [the main telephone number for the levying or recommending authority of
+53 the political subdivision].'
+54 (2) The provisions of paragraph (1) of this subsection shall not apply for any taxable year
+55 beginning after December 31, 2029."
+56 SECTION 1-3.
+57 Said title is further amended in Code Section 48-5-44.2, relating to base year homestead
+58 exemption, by revising paragraph (4) of subsection (a) and subsections (e) and (i) as follows:
+59 "(4) 'Homestead' means homestead as defined and qualified in Code Section 48-5-40,
+60 with the additional limitation that it shall include:
+61 (A) Only the primary residence and not more than five contiguous acres of land
+62 immediately surrounding such residence; or
+63 (B) If the property is assessed pursuant to Code Section 48-5-7.4 or 48-5-7.7, only the
+64 primary residence and the portion of the underlying property that is excluded from the
+H. B. 92
+- 3 -
+
+25 HB 92/AP
+65 benefit of such assessment pursuant to subparagraph (a)(1)(B) of Code Section 48-5-7.4
+66 or subparagraph (b)(2)(B) of Code Section 48-5-7.7."
+67 "(e) The exemption granted by subsection (b) or (c) of this Code section shall be claimed
+68 and returned as provided in Code Section 48-5-50.1. Such exemption shall be
+69 automatically renewed from year to year so long as the owner occupies the residence as a
+70 homestead. After a person or a person's agent has filed the proper application or is
+71 automatically granted the homestead exemption as provided in subsection (d) of this Code
+72 section, it shall not be necessary for such person or such person's surviving spouse to make
+73 application thereafter for any year, and the exemption shall continue to be allowed to such
+74 person or such person's surviving spouse. It shall be the duty of any person granted the
+75 homestead exemption under subsection (b) or (c) of this Code section to notify the tax
+76 receiver or tax commissioner of the local government or governments in the event such
+77 person for any reason becomes ineligible for such exemption."
+78 "(i)(1) The governing authority of any county, consolidated government, municipality,
+79 or school district may elect to opt out of the homestead exemption otherwise granted by
+80 subsection (b) of this Code section with respect to such political subdivision through the
+81 adoption of a resolution to do the same by March 1, 2025, after completing the following
+82 steps:
+83 (1)(A) The governing authority shall advertise its intent to do so and shall conduct at
+84 least three public hearings thereon, at least one of which shall commence between the
+85 hours of 6:00 P.M. and 7:00 P.M., inclusive, on a business weekday. The governing
+86 authority shall place an advertisement in a newspaper of general circulation serving the
+87 residents of the political subdivision and post such advertisement on its website, which
+88 shall read as follows:
+89 'INTENT TO OPT OUT OF HOMESTEAD EXEMPTION
+90 The (name of governing authority) intends to opt out of the statewide adjusted
+91 base year ad valorem homestead exemption for (name of the political subdivision).
+H. B. 92
+- 4 -
+
+25 HB 92/AP
+92 All concerned citizens are invited to the public hearing on this matter to be held
+93 at (place of meeting) on (date and time).
+94 Times and places of additional public hearings on this matter are at (place of
+95 meeting) on (date and time).'
+96 Simultaneously with this notice the governing authority shall provide a press release to
+97 the local media.; and
+98 (2)(B) The advertisement required by subparagraph (A) of this paragraph (1) of this
+99 subsection shall appear at least one week prior to each hearing, be prominently
+100 displayed, be not less than 30 square inches, and not be placed in that section of the
+101 newspaper where legal notices appear and shall be posted on the appropriate website
+102 at least one week prior to each hearing. In addition to the advertisement specified under
+103 this paragraph, the levying or recommending authority may include in the notice
+104 reasons or explanations for its intention to opt out of the homestead exemption.
+105 (3)(2) No resolution election to opt out of the homestead exemption pursuant to this
+106 Code section shall become effective with respect to a political subdivision unless the
+107 procedures and hearings required by paragraph (1) of this subsection are completed and
+108 a copy of such resolution is filed with the Secretary of State by March 1, 2025.
+109 (3) For an election to opt out of the homestead exemption pursuant to this subsection to
+110 remain effective for tax years 2027 and after with respect to a political subdivision that
+111 does not have in effect a base year value homestead exemption or an adjusted base year
+112 value homestead exemption that is generally applicable to homestead residents, the
+113 governing authority of such political subdivision shall complete the same procedures and
+114 hearings required by paragraph (1) of this subsection, except that a copy of the required
+115 resolution shall be filed with the Secretary of State by March 1, 2027.
+116 (4) The governing authority of any county, consolidated government, municipality, or
+117 school district that has elected to opt out of the homestead exemption pursuant to this
+118 subsection may rescind such election at any time by adopting a resolution to do so and
+H. B. 92
+- 5 -
+
+25 HB 92/AP
+119 filing a copy of such resolution with the Secretary of State; provided, however, that such
+120 resolution to rescind the election to opt out shall only be effective for:
+121 (A) Tax year 2025 if a copy of the resolution is filed with the Secretary of State by
+122 April 30, 2025; and
+123 (B) Any other tax year from 2026 through 2029 if a copy of the resolution is filed with
+124 the Secretary of State by March 1 of such year."
+125 SECTION 1-4.
+126 Said title is further amended in Code Section 48-5-45, relating to application for homestead
+127 exemption and unlawful to solicit fee to file application for homestead for another, by
+128 revising subsection (a) as follows:
+129 "(a)(1) An applicant seeking a homestead exemption as provided in Code
+130 Section 48-5-44 and qualifying under the provisions of Code Section 48-5-40 shall file
+131 a written application and schedule with the tax receiver or tax commissioner charged with
+132 the duty of receiving returns of property for taxation at any time during the calendar year
+133 subsequent to the property becoming the primary residence of the applicant up to and
+134 including the date for the closing of the books for the return of taxes for the calendar year,
+135 except that, in the case of a property which is subject to a reassessment by the board of
+136 tax assessors, such application and schedule may be filed in conjunction with or in lieu
+137 of an appeal of the reassessment.
+138 (2) The failure to file properly the application and schedule on or before the date for the
+139 closing of the books for the return of taxes of a calendar year in which the taxes are due
+140 shall constitute a waiver of the homestead exemption on the part of the applicant failing
+141 to make the application for such exemption for that year."
+H. B. 92
+- 6 -
+
+25 HB 92/AP
+142 SECTION 1-5.
+143 Said title is further amended in Code Section 48-5-306, relating to annual notice of current
+144 assessment, contents, posting notice, and new assessment description, by revising
+145 paragraph (1) of subsection (b) as follows:
+146 "(1) The annual notice of current assessment required to be given by the county board
+147 of tax assessors under subsection (a) of this Code section shall be dated and shall contain
+148 the name and last known address of the taxpayer. The annual notice shall conform with
+149 be given on the applicable state-wide uniform assessment notice form which shall be
+150 established by the commissioner by rule and regulation and shall contain:
+151 (A) The amount of the previous assessment;
+152 (B) The amount of the current assessment;
+153 (C) The year for which the new assessment is applicable;
+154 (D) A brief description of the assessed property broken down into real and personal
+155 property classifications;
+156 (E) The fair market value of property of the taxpayer subject to taxation and the
+157 assessed value of the taxpayer's property subject to taxation after being reduced;
+158 (F) The name, phone number, and contact information of the person in the assessors'
+159 office who is administratively responsible for the handling of the appeal and who the
+160 taxpayer may contact if the taxpayer has questions about the reasons for the assessment
+161 change or the appeals process;
+162 (G) If available, the public internet website address of the office of the county board
+163 of tax assessors;
+164 (H) A statement that all documents and records used to determine the current value are
+165 available upon request; and
+166 (I)(i) The current year's estimated roll-back rate for each levying or recommending
+167 authority that certified its estimated roll-back rate for the current year to the county
+H. B. 92
+- 7 -
+
+25 HB 92/AP
+168 board of tax assessors and county tax commissioner by the date specified under Code
+169 Section 48-5-306.2; or
+170 (ii) For each levying or recommending authority that did not certify its estimated
+171 roll-back rate to the county board of tax assessors and county tax commissioner by the
+172 date specified in Code Section 48-5-306.2, the millage rate that was actually levied
+173 by or on behalf of such authority for the previous tax year, and an estimate of the
+174 amount of ad valorem taxes due for the assessed property based on such millage rate
+175 and the amount of the current assessment."
+176 SECTION 1-6.
+177 Said title is further amended by adding a new Code section to read as follows:
+178 "48-5-306.2.
+179 Each levying and recommending authority shall annually calculate its estimated roll-back
+180 rate for the current year and shall certify such rate to the county board of tax assessors and
+181 county tax commissioner no less than 15 days prior to the postmark of the annual notice
+182 of assessment."
+183 PART II
+184 SECTION 2-1.
+185 Said title is further amended in Code Section 48-8-3, relating to exemptions from sales and
+186 use taxes, by adding a new paragraph to read as follows:
+187 "(10.1)(A) Notwithstanding any provision of Code Section 48-8-63 to the contrary, the
+188 sale or use of qualifying construction materials used in capital outlay projects for
+189 educational purposes.
+190 (B) The exemption provided for in this paragraph shall only apply to local sales and
+191 use taxes.
+H. B. 92
+- 8 -
+
+25 HB 92/AP
+192 (C)(i) Notwithstanding the exemption provided for in subparagraph (A) of this
+193 paragraph, all sales and use taxes imposed on the sale or use of qualifying
+194 construction materials shall be paid and collected pursuant to the requirements of this
+195 chapter.
+196 (ii) The benefit of the exemption allowed by this paragraph may be claimed by the
+197 local school system for which the qualifying construction materials were used. To
+198 claim the exemption, the local school system shall file a request for refund in the
+199 manner prescribed by the department. The department shall refund to the local school
+200 system the amount of taxes paid on qualifying construction materials used in the
+201 capital outlay project for educational purposes. No refund made pursuant to this
+202 paragraph shall include interest.
+203 (iii) Any refund received by a local school system pursuant to this paragraph shall be
+204 allocated to a fund or account for capital outlay projects and used in accordance with
+205 the requirements for sales taxes for educational purposes authorized pursuant to
+206 Article VIII, Section VI, Paragraph IV of the Constitution of Georgia.
+207 (D) As used in this paragraph, the term:
+208 (i) 'Capital outlay project for educational purposes' means a project that:
+209 (I) Was approved and funded through a sales tax for educational purposes
+210 authorized pursuant to Article VIII, Section VI, Paragraph IV of the Constitution of
+211 Georgia; and
+212 (II) Is for a local school system which has in effect a base year value homestead
+213 exemption or adjusted base year value homestead exemption from ad valorem
+214 taxation for educational purposes for all residents of the local school system.
+215 (ii) 'Local sales and use taxes' mean sales taxes, use taxes, or local sales and use taxes
+216 levied or imposed at any time in any area consisting of less than the entire state,
+217 however authorized, including, but not limited to, such taxes authorized by or
+218 pursuant to a constitutional amendment; by or pursuant to Section 25 of an Act
+H. B. 92
+- 9 -
+
+25 HB 92/AP
+219 approved March 10, 1965 (Ga. L. 1965, p. 2243), as amended, the 'Metropolitan
+220 Atlanta Rapid Transit Authority Act of 1965'; and by or pursuant to Articles 2, 2A,
+221 2B, 3, 4, 5, 5A, and 5B of this chapter.
+222 (iii) 'Qualifying construction materials' means any materials used in the construction
+223 of a capital outlay project for educational purposes that will remain as part of such
+224 project after completion of construction or that become incorporated into such
+225 project's real property. Such term shall not include any materials that remain in the
+226 possession of a contractor after the completion of construction.
+227 (E) This paragraph shall stand repealed on December 31, 2033;"
+228 PART III
+229 SECTION 3-1.
+230 Said title is further amended in Code Section 48-8-6, relating to prohibition of political
+231 subdivisions from imposing various taxes, ceiling on local sales and use taxes, and taxation
+232 of mobile telecommunications, by revising subsection (a) as follows:
+233 "(a)(1) Except as provided in this subsection, on and after July 1, 2024, there shall not
+234 be imposed in any jurisdiction in this state or on any transaction in this state local sales
+235 taxes, local use taxes, or local sales and use taxes in excess of 2 percent. For purposes
+236 of this such 2 percent limitation, the taxes affected are any sales tax, use tax, or sales and
+237 use tax which is levied in an area consisting of less than the entire state, however
+238 authorized, including such taxes authorized by or pursuant to constitutional amendment,
+239 and regardless of whether another provision of law purports to the contrary, except for
+240 the following:
+241 (A) A 1 percent sales and use tax for educational purposes exempted from such
+242 limitation under Article VIII, Section VI, Paragraph IV of the Constitution;
+H. B. 92
+- 10 -
+
+25 HB 92/AP
+243 (B) Up to 1 percent in aggregate of any of the transportation related sales and use taxes
+244 authorized under Articles 5, 5A, and 5B of this chapter and Article 2 of Chapter 9 of
+245 Title 32, and in a county in which a tax is levied and collected pursuant to Part 2 of
+246 Article 2A of this chapter, any tax levied for purposes of a metropolitan area system of
+247 public transportation, as authorized by the amendment to the Constitution set out at
+248 Georgia Laws, 1964, page 1008, the continuation of such amendment under Article XI,
+249 Section I, Paragraph IV(d) of the Constitution, and the laws enacted pursuant to such
+250 constitutional amendment; and
+251 (C) Up to 1 percent in aggregate of any sales and use taxes authorized under Code
+252 Section 48-8-96, Code Section 48-8-97, Article 2B of this chapter, Part 3 of Article 3
+253 of this chapter, and Article 4 of this chapter.
+254 (2) Notwithstanding any provision of law to the contrary, any tax that does not comply
+255 with the limitations provided in paragraph (1) of this subsection as of July 1, 2025, but
+256 was initiated in compliance with the law in effect prior to January 1, 2025, shall be
+257 allowed to continue as authorized under laws that existed prior to July 1, 2025; provided,
+258 however, that, upon the expiration or termination of any such tax, such tax shall not be
+259 renewed and the jurisdiction that levied such tax shall be fully subject to the limitations
+260 imposed by this subsection.
+261 (3) This subsection shall not limit the imposition of any local excise tax, which is
+262 separately authorized under Chapter 13 of this title.
+263 (4) Except as provided in paragraph (2) of this subsection, if If the imposition of any
+264 otherwise authorized local sales tax, local use tax, or local sales and use tax would result
+265 in a tax rate in excess of that authorized by this subsection, then such otherwise
+266 authorized tax shall not be imposed."
+H. B. 92
+- 11 -
+
+25 HB 92/AP
+267 SECTION 3-2.
+268 Said title is further amended by revising Code Section 48-8-109.31, relating to imposition
+269 of special sales and use tax within special district and limited time and purpose, as follows:
+270 "48-8-109.31.
+271 (a) Subject to the requirement of approval by local referendum and the other requirements
+272 of this article, to impose there may be imposed within any given special district a special
+273 sales and use tax for a limited period of time for the limited purpose of property tax relief.
+274 (b) Except as to rate, a tax imposed under this part shall correspond to the tax imposed by
+275 Article 1 of this chapter. No item or transaction which is not subject to taxation under
+276 Article 1 of this chapter shall be subject to a tax imposed under this article, except that a
+277 tax imposed under this article shall apply to sales of motor fuels as prepaid local tax as
+278 defined in Code Section 48-8-2 and shall be applicable to the sale of food and food
+279 ingredients and alcoholic beverages as provided for in Code Section 48-8-3.
+280 (c) The special sales and use tax provided for in subsection (a) of this Code section may
+281 be imposed by a special district in 0.05 percent increments, but in no event shall such tax
+282 exceed 1 percent in total. The levy of such tax upon sales of motor fuels as defined in
+283 Code Section 48-9-2 shall only be imposed on the retail sales price of the motor fuel which
+284 is not more than $3.00 per gallon.
+285 (d)(1) As a condition conditions precedent to the issuance of the call for the referendum:
+286 (1)(A) The governing authority of the county whose geographical boundary is
+287 conterminous with that of the special district and the governing authority or authorities
+288 of all municipalities in such county that levy an ad valorem tax on property, other than
+289 those municipalities that are excluded from the special district pursuant to paragraph (3)
+290 subsection (f) of this subsection Code section, shall have in effect a base year value
+291 homestead exemption or adjusted base year value homestead exemption, except that such
+292 condition precedent shall not apply with respect to any municipality that levies an ad
+H. B. 92
+- 12 -
+
+25 HB 92/AP
+293 valorem tax on property and that represents no more than 5 percent of the special district's
+294 residents of municipalities that levy an ad valorem tax on property; and
+295 (B)(2) The governing authority of the county whose geographical boundary is
+296 conterminous with that of the special district and the governing authority or authorities,
+297 if any, that represent at least 50 percent of the special district's residents of municipalities
+298 that levy an ad valorem tax on property, other than those municipalities that are excluded
+299 from the special district pursuant to paragraph (3) of this subsection (f) of this Code
+300 section, shall enter into an intergovernmental agreement calling for the tax authorized
+301 under this article and specifying the proposed rate of the tax, the proposed maximum
+302 period of time that the tax is to be levied, and the proposed distribution of the tax.
+303 (e)(1) As used in this subsection, the term 'absent municipality' means any municipality
+304 that levies an ad valorem tax on property, other than those municipalities that are
+305 excluded from the special district pursuant to subsection (f) of this Code section, and that
+306 did not enter into the intergovernmental agreement provided for in paragraph (2) of
+307 subsection (d) of this Code section.
+308 (2) If the combined total of the populations of all such absent municipalities is less than
+309 one-half of the aggregate population of all municipalities located within the special
+310 district that levy an ad valorem tax on property, the political subdivisions governing
+311 authorities entering into the such intergovernmental agreement shall, on in behalf of such
+312 absent municipalities, specify a percentage of that portion of the remaining proceeds
+313 which each municipality that levies an ad valorem tax on property shall receive, which
+314 percentage shall not be less than that proportion which each such absent municipality's
+315 population bears to the total population of all municipalities that levy ad valorem taxes
+316 on property within the special district multiplied by that portion of the remaining
+317 proceeds which are received by all such municipalities within the special district. No
+318 portion of the tax shall be apportioned to counties and or municipalities that do not levy
+H. B. 92
+- 13 -
+
+25 HB 92/AP
+319 an ad valorem tax on property or do not have a base year value homestead exemption or
+320 adjusted base year value homestead exemption in effect.
+321 (3)(f) Subject to the limitation provided for in Code Section 48-8-6, any special district
+322 which wholly or partially contains a jurisdiction levying the tax provided for under
+323 Article 4 of this chapter is authorized to levy the tax authorized under this article. Such tax
+324 authorized under this article may only be levied in the areas of the special district outside
+325 of the jurisdiction levying the tax provided for under Article 4 of this chapter. Any
+326 jurisdiction levying the tax provided for under Article 4 of this chapter shall not be
+327 considered within the procedure necessary to levy the tax under this article and shall not
+328 be entitled to any portion of said tax."
+329 SECTION 3-3.
+330 Said title is further amended in Code Section 48-8-109.32, relating to maximum period of
+331 time of the tax, submission to voters to determine imposition of tax, ballot language, and
+332 expenses of election, by adding a new subsection to read as follows:
+333 "(e) If no intergovernmental agreement is required pursuant to this article, the governing
+334 authority of the county or consolidated government whose geographical boundary is
+335 conterminous with that of the special district shall adopt a resolution which meets the
+336 requirements provided for in this Code section for intergovernmental agreements."
+337 SECTION 3-4.
+338 Said title is further amended in Code Section 48-8-109.33, relating to timing for imposition
+339 of tax following approval and termination of tax, by revising paragraph (2) of subsection (a)
+340 and subsection (c) as follows:
+341 "(2) With respect to services that are regularly billed on a monthly basis, however, the
+342 resolution or ordinance imposing the tax shall become effective and the tax shall apply
+343 to the first regular billing period coinciding with or following the effective date specified
+H. B. 92
+- 14 -
+
+25 HB 92/AP
+344 in paragraph (1) of this subsection. A certified copy of the ordinance intergovernmental
+345 agreement or resolution imposing required to impose the tax authorized by this article
+346 shall be forwarded to the commissioner to ensure it is received within five business days
+347 after certification of the election results."
+348 "(c) For any special district in which a tax authorized by this article is in effect may, while
+349 such tax is in effect, the General Assembly may pass a local Act calling for a reimposition
+350 of a tax as authorized by this article upon the termination of the tax then in effect, and a
+351 referendum may be held for this purpose while the tax is in effect. Proceedings for such
+352 reimposition shall be in the same manner as proceedings for the initial imposition of the
+353 tax as provided for in Code Section Sections 48-8-109.31 and 48-8-109.32. Such newly
+354 authorized tax shall not be imposed until the expiration of the tax then in effect."
+355 PART IV
+356 SECTION 4-1.
+357 (a) This Act shall become effective upon its approval by the Governor or upon its becoming
+358 law without such approval and, except as provided in subsection (b) of this section, shall be
+359 applicable on and after such date.
+360 (b) Part I of this Act shall be applicable to taxable years beginning on or after
+361 January 1, 2025.
+362 SECTION 4-2.
+363 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 92
+- 15 -
+
+[DELETED: 5H6,6,8,htht2,4,dt o s e t p f a a p t a f a h i c c t p f t c o a n o]
+[DELETED: 5H  A a c a c t t t c b t l o a p t C S 4 f c a]
+[DELETED: 5H o t p s c t o o o p t r f]
+[DELETED: 5H r a p i C S 4  S e s b]
+[DELETED: 5H s a a l o w p t e h b p p t l o r a m i i t n]
+[DELETED: 5H  A a s a h e a p i C]
+[DELETED: 5H c p n a n a d b r]
+[DELETED: 5H]
+[DELETED: 5H a s a u t i o t s o u o q  W a a f t a s t f e p a i b n l t s t a b o]
+[DELETED: 5H a c o c o t b i i s l t]
+[DELETED: 5H a t r i e o t a b t s t s o]
+[DELETED: 5H  T g a o t c w g b i]
+[DELETED: 5H  T g a o t c w g b i l a a v t o p o t t m t a p w t s d m b t p o t r]
+[DELETED: 5H w o p c a j l t t p f u l t t p f u A 4 o t c s n b o t c o c g w g b i]
+[DELETED: 5H  P I o t A s b a t t y b o o a]

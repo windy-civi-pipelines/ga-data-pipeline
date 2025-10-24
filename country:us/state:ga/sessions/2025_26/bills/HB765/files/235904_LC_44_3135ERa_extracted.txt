@@ -1,0 +1,582 @@
+Title: House Bill 765
+Official Title: House Bill 765
+Number of Sections: 1
+Source: versions - LC 44 3135ER/a
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+25 LC 44 3135ER
+By: Representatives Campbell of the 35th, Roberts of the 52nd, Cummings of the 39th, Panitch
+of the 51st, Hugley of the 141st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia
+2 Annotated, the "Fair Business Practices Act of 1975," so as to provide for information on
+3 medical assistance; to provide for interest, fees, and payment plans; to provide for billing and
+4 collection rules; to provide for liability for medical debt; to provide for consumer reporting
+5 agencies; to prohibit collection of medical debt during health insurance appeals; to provide
+6 for accessibility; to provide for remedies; to provide for agreements; to provide for
+7 definitions; to provide for a short title; to provide for related matters; to repeal conflicting
+8 laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Medical Debt Protection Act."
+12 SECTION 2.
+13 Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, the
+14 "Fair Business Practices Act of 1975," is amended by adding a new Code section to read as
+15 follows:
+H. B. 765
+- 1 -
+25 LC 44 3135ER
+16 "10-1-393.20.
+17 (a) As used in this Code section, the term:
+18 (1) 'Consumer' means an individual and excludes nonhuman entities.
+19 (2) 'Consumer reporting agency' means any person, which, for monetary fees, dues, or
+20 on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of
+21 assembling or evaluating consumer credit information or other information on consumers
+22 for the purpose of furnishing consumer reports to third parties.
+23 (3) 'External review' means a review of an adverse benefit determination, including a
+24 final internal adverse benefit determination, conducted pursuant to any applicable state
+25 external review process, a federal external review process as described at 42 U.S.C.
+26 Section 300gg-19, a review pursuant to 29 U.S.C. Section 1133, a Medicare appeals
+27 process, a Medicaid appeals process, or another applicable appeals process.
+28 (4) 'Extraordinary collection action' means:
+29 (A) Selling an individual's debt to another party, except if, prior to the sale, the medical
+30 creditor has entered into a legally binding written agreement with the medical debt
+31 buyer of the debt under which:
+32 (i) The medical debt buyer or collector is prohibited from engaging in any
+33 extraordinary collection actions to obtain payment for the care;
+34 (ii) The medical debt buyer is prohibited from charging interest on the debt;
+35 (iii) The debt is returnable or recallable by the medical creditor upon a determination
+36 by the medical creditor or medical debt buyer that the individual is eligible for
+37 financial assistance; and
+38 (iv) The medical debt buyer shall adhere to procedures which shall be specified in the
+39 agreement that ensure that the individual does not pay, and has no obligation to pay,
+40 the medical debt buyer and the medical creditor together more than they are
+41 personally responsible for paying in compliance with this Code section;
+H. B. 765
+- 2 -
+25 LC 44 3135ER
+42 (B) Reporting adverse information about the consumer to a consumer reporting
+43 agency; or
+44 (C) Actions that require a legal or judicial process, including:
+45 (i) Placing a lien on an individual's property;
+46 (ii) Attaching or seizing an individual's bank account or any other personal property;
+47 (iii) Commencing a civil action against an individual; or
+48 (iv) Garnishing an individual's wages.
+49 (5) 'Financial assistance policy' means a written policy made pursuant to 26 U.S.C.
+50 Section 501(r)(4) or its implementing regulations, including 26 CFR Section 1.501(r)-1.
+51 (6) 'Healthcare services' means services for the diagnosis, prevention, treatment, cure,
+52 or relief of a physical, dental, behavioral, substance use disorder, or mental health
+53 condition, illness, injury, or disease. Such term includes any procedures, products,
+54 devices, or medications.
+55 (7) 'Internal review' means review by a health insurance plan or other insurer of an
+56 adverse benefit determination.
+57 (8) 'Large healthcare facility' means any of the following entities:
+58 (A) A licensed hospital, whether a not for profit entity or a for profit entity;
+59 (B) A licensed nursing home, whether a not for profit entity or a for profit entity;
+60 (C) An outpatient clinic or facility affiliated with a hospital or operating under the
+61 license of a hospital;
+62 (D) A licensed freestanding emergency department; and
+63 (E) A licensed outpatient surgery center.
+64 (9) 'Medical assistance' means any public assistance program that assists consumers with
+65 healthcare costs.
+66 (10) 'Medical creditor' means any large healthcare facility that provides healthcare
+67 services and to whom the consumer owes money for healthcare services, or the large
+68 healthcare facility that provided healthcare services and to whom the consumer owes
+H. B. 765
+- 3 -
+25 LC 44 3135ER
+69 money for healthcare services, or the large healthcare facility that provided healthcare
+70 services and to whom the consumer previously owed money if the medical debt has been
+71 purchased by one or more medical debt buyers.
+72 (11) 'Medical debt buyer' means an individual or entity that is engaged in the business
+73 of purchasing medical debts for collection purposes, whether it collects the debt itself or
+74 hires a third party for collection or an attorney for litigation in order to collect such debt.
+75 (12) 'Medical debt collector' means any person that regularly collects or attempts to
+76 collect, directly or indirectly, medical debts originally owed or due or asserted to be owed
+77 or due to another. A medical debt buyer is a medical debt collector. Such term does not
+78 include the Department of Human Services or an individual filing a child support action
+79 under Title 19. Medical debt collector does not include anyone collecting debt charged
+80 to a credit card.
+81 (13) 'Patient' means the individual who received healthcare services or is discharged
+82 from a large healthcare facility, or within ten days of discharge if the patient receives
+83 emergency care.
+84 (14) 'Time of service' means before a patient leaves or is discharged from a large
+85 healthcare facility, or within ten days of discharge if the patient receives emergency care.
+86 (b)(1) All large healthcare facilities shall provide uninsured patients with a written notice
+87 containing information regarding eligibility and the application process for medical
+88 assistance at the time of service.
+89 (2) Each billing statement that a large healthcare facility sends to an uninsured patient
+90 shall include a written notice containing information regarding medical assistance and the
+91 application process for medical assistance.
+92 (3) The written notice required by paragraphs (1) and (2) of this subsection shall include:
+93 (A) A statement that the consumer may qualify for medical assistance;
+H. B. 765
+- 4 -
+25 LC 44 3135ER
+94 (B) A statement describing how consumers may apply for medical assistance,
+95 including a website and telephone number where information on applying for such
+96 assistance may be obtained;
+97 (C) A list of local organizations or public or private agencies that may provide
+98 assistance with an application for medical assistance; and
+99 (D) A contact number for the consumer to call a large healthcare facility to reach
+100 someone who can assist the consumer with an application for medical assistance.
+101 (4) The notice required under this subsection shall only be sent to patients who received
+102 services in an emergency department, admitted to a hospital, or receiving surgery in a
+103 large healthcare facility.
+104 (c)(1) Large healthcare facilities and medical debt collectors may not charge any interest
+105 or late fees to consumers.
+106 (2) Large healthcare facilities and medical debt collectors shall offer to any consumer
+107 with outstanding debt totaling $500.00 or more a payment plan and may not require the
+108 consumer to make monthly payments that exceed 5 percent of the consumer's gross
+109 monthly income. Failure to provide proof of income may not be used as a basis to deny
+110 any consumer a payment plan.
+111 (3) No initial payment on a monthly payment plan may be due under any of the
+112 following circumstances:
+113 (A) Within the first 30 days after the healthcare services were provided;
+114 (B) Within 30 days after the first bill is sent; or
+115 (C) During any period in which a medical creditor or medical debt collector has
+116 requested any form of documentation from a consumer.
+117 (4) Prepayment or early payment penalties or fees, service or administrative charges or
+118 fees, or any other fees or charges unrelated to the care provided shall be prohibited,
+119 including on any prepayment plans.
+H. B. 765
+- 5 -
+25 LC 44 3135ER
+120 (5) Notwithstanding any other provisions in this Code section, a consumer shall not be
+121 prohibited from voluntarily making any additional or early payments on any medical debt
+122 at any time.
+123 (d)(1) The following extraordinary collections actions may not be used by any medical
+124 creditor or debt collector to collect debts owed for healthcare services:
+125 (A) Causing an individual's arrest;
+126 (B) Causing an individual to be subject to a writ of body attachment or capias;
+127 (C) Foreclosing on an individual's real property;
+128 (D) Garnishing the wages, disability insurance payments or any other disability
+129 benefits, workers' compensation payments or unemployment benefits of a consumer;
+130 or
+131 (E) Garnishing or attaching a bank account, pension, annuity, or retirement account of
+132 a consumer.
+133 (2) A large healthcare facility or medical creditor that sells medical debt to a medical
+134 debt buyer or medical debt collector under a contract remains liable for any actions taken
+135 by the medical debt buyer or medical debt collector, including any violations of any
+136 provisions of this Code section.
+137 (3) No medical creditor or medical debt collector may engage in any permissible
+138 extraordinary collection actions until 120 days after the first bill for a medical debt has
+139 been sent.
+140 (4) At least 30 days before taking any extraordinary collection actions, a medical creditor
+141 or medical debt collector shall provide to the consumer a notice containing:
+142 (A) In the case of large healthcare facilities and medical debt collectors collecting debt
+143 for healthcare services provided by such facilities, stating whether financial assistance
+144 is available for eligible individuals and providing a plain-language summary of any
+145 such financial assistance policy;
+H. B. 765
+- 6 -
+25 LC 44 3135ER
+146 (B) Identifying the extraordinary collection actions that will be initiated in order to
+147 obtain payment; and
+148 (C) Providing a deadline after which such extraordinary collection actions shall be
+149 initiated; provided, however, that such date may be no earlier than 30 days after the date
+150 of the notice.
+151 (5) A large healthcare facility or a medical debt collector collecting the debt for
+152 healthcare services provided by such a facility may not use any extraordinary collection
+153 actions unless such actions are described in the large healthcare facility's billing and
+154 collections policy.
+155 (6) If the consumer has paid any part of the medical debt in excess of the amount the
+156 consumer owes after any financial assistance or charity care offered by the large
+157 healthcare facility, the large healthcare facility or medical debt collector shall refund any
+158 excess amount to the consumer within 60 days. If a change in the financial circumstances
+159 of the consumer makes the consumer eligible for any financial assistance or charity care,
+160 any payments made prior to the change in circumstances that make the patient eligible
+161 for such financial assistance or charity care shall not be required to be refunded.
+162 (7) A large healthcare facility or medical creditor that sells medical debt to a medical
+163 debt buyer or medical debt collector under a contract remains liable for any actions taken
+164 by the medical debt buyer or medical debt collector, including any violations of any
+165 provisions of this Code section.
+166 (e)(1) Parents shall be jointly liable for any medical debts incurred by children under the
+167 age of 18.
+168 (2) No spouse or other person may be liable for the medical debt or nursing home debt
+169 of any other person age 18 or older. A spouse may voluntarily consent to assume
+170 liability, but such consent:
+171 (A) Shall be on a separate stand-alone document signed by the spouse;
+172 (B) May not be solicited in an emergency room or during an emergency situation; and
+H. B. 765
+- 7 -
+25 LC 44 3135ER
+173 (C) May not be required as a condition of providing any emergency or nonemergency
+174 healthcare services.
+175 (f)(1) For a period of one year following the date when the consumer was first given a
+176 bill for medical debt or three months following the date of the most recent payment made
+177 toward a payment plan on medical debt, whichever is later, no medical creditor or
+178 medical debt collector may communicate with or report any information to any consumer
+179 reporting agency regarding such medical debt.
+180 (2) After the time period described in paragraph (1) of this subsection, medical creditors
+181 and medical debt collectors shall give consumers at least one additional bill before
+182 reporting a medical debt to any consumer reporting agency. The amount reported to the
+183 consumer reporting agency shall be the same amount stated in this bill, and such bill shall
+184 state that the debt is being reported to a consumer reporting agency. Medical debt
+185 collectors shall also provide the notice required by 15 U.S.C. Section 1692g before
+186 reporting a debt to a consumer reporting agency.
+187 (g)(1) No medical creditor or medical debt collector that knows or should know about
+188 an internal review, external review, or other appeal of a health insurance decision that is
+189 pending or was pending within the previous 60 days may do any of the following:
+190 (A) Provide information relative to unpaid charges for healthcare services to a
+191 consumer reporting agency;
+192 (B) Communicate with the consumer regarding the unpaid charges for healthcare
+193 services for the purpose of seeking to collect the charges; or
+194 (C) Initiate a lawsuit or arbitration proceeding against the consumer relative to unpaid
+195 charges for healthcare services.
+196 (2) If a medical debt has previously been reported to a consumer reporting agency and
+197 the medical creditor or medical debt collector that reported the information learns of an
+198 internal review, external review, or other appeal of a health insurance decision that is
+199 pending or was pending within the previous 60 days, such medical creditor or medical
+H. B. 765
+- 8 -
+25 LC 44 3135ER
+200 debt collector shall instruct the consumer reporting agency to delete the information about
+201 the debt.
+202 (3) No medical creditor that knows or should have known about an internal review,
+203 external review, or other appeal of a health insurance decision that is pending or was
+204 pending within the previous 60 days may refer, place, or send the unpaid charges for
+205 healthcare services to a medical debt collector including by selling the debt to a medical
+206 debt buyer.
+207 (h)(1) Consumers may not be charged interest or late fees on medical debt, regardless of
+208 any agreements to the contrary.
+209 (2) Paragraph (1) of this subsection shall apply to any judgments resulting from medical
+210 debt, regardless of any agreements to the contrary.
+211 (i) A large healthcare facility shall provide a contact number with which a consumer may
+212 request oral interpretation services, at no cost to the consumer, for any information or
+213 document that is provided to the consumer under this Code section.
+214 (j)(1) In addition to any remedies a consumer may have at law or in equity, any violation
+215 of this Code section is an unlawful practice under this part.
+216 (2) Any consumer may sue for injunctive or other appropriate equitable relief to enforce
+217 this Code section.
+218 (3) The remedies provided in this subsection are not intended to be the exclusive
+219 remedies available to a consumer nor shall the consumer exhaust any administrative
+220 remedies provided under this subsection or any other applicable law.
+221 (4) No agreement between the consumer and a large healthcare provider or medical debt
+222 collector may contain a provision that, prior to a dispute arising, waives or inhibits or has
+223 the practical effect of waiving or inhibiting any rights under this Code section or the
+224 rights of a consumer to resolve that dispute by obtaining any of the following:
+225 (A) Injunctive, declaratory, or other equitable relief;
+226 (B) Multiple or minimum damages as specified by statute;
+H. B. 765
+- 9 -
+25 LC 44 3135ER
+227 (C) Attorney's fees and costs as specified by statute or as available at common law;
+228 (D) A hearing at which that party can present evidence; or
+229 (E) Requiring any form of alternative dispute resolution, including arbitration.
+230 (5) Any provision in a written agreement violating any provision of this Code section
+231 shall be void and unenforceable. A court may refuse to enforce any written agreement
+232 as equity may require.
+233 SECTION 3.
+234 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 765
+- 10 -
+[DELETED: 5L5,2,9,hndt1,1,ts a t p f r t p f a t p f]
+[DELETED: 5L  T m d b o c i p f e i a m d b a t m c t m t t a]
+[DELETED: 5L  R a i a t c t a c r r o a p d b s u d o m h]
+[DELETED: 5L]
+[DELETED: 5L  A s d h c m a f m a  A l o l o o p o p a t m p  N i p o a m p p m b d u a o t]
+[DELETED: 5L  G t w d i p o a o d  N m c o m d c m e i a p]
+[DELETED: 5L  A l h f o a m d c c t d f o a a f a o c c o b t l]
+[DELETED: 5L d  P i r t u c f h s t ]
+[DELETED: 5L  T r p i t s a n i t b t e]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 44 3135ER
+House Bill 765
+By: Representatives Campbell of the 35th, Roberts of the 52nd, Cummings of the 39th, Panitch
+of the 51st, Hugley of the 141st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia
+2 Annotated, the "Fair Business Practices Act of 1975," so as to provide for information on
+3 medical assistance; to provide for interest, fees, and payment plans; to provide for billing and
+4 collection rules; to provide for liability for medical debt; to provide for consumer reporting
+5 agencies; to prohibit collection of medical debt during health insurance appeals; to provide
+6 for accessibility; to provide for remedies; to provide for agreements; to provide for
+7 definitions; to provide for a short title; to provide for related matters; to repeal conflicting
+8 laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Medical Debt Protection Act."
+12 SECTION 2.
+13 Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, the
+14 "Fair Business Practices Act of 1975," is amended by adding a new Code section to read as
+15 follows:
+H. B. 765
+- 1 -
+
+25 LC 44 3135ER
+16 "10-1-393.20.
+17 (a) As used in this Code section, the term:
+18 (1) 'Consumer' means an individual and excludes nonhuman entities.
+19 (2) 'Consumer reporting agency' means any person, which, for monetary fees, dues, or
+20 on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of
+21 assembling or evaluating consumer credit information or other information on consumers
+22 for the purpose of furnishing consumer reports to third parties.
+23 (3) 'External review' means a review of an adverse benefit determination, including a
+24 final internal adverse benefit determination, conducted pursuant to any applicable state
+25 external review process, a federal external review process as described at 42 U.S.C.
+26 Section 300gg-19, a review pursuant to 29 U.S.C. Section 1133, a Medicare appeals
+27 process, a Medicaid appeals process, or another applicable appeals process.
+28 (4) 'Extraordinary collection action' means:
+29 (A) Selling an individual's debt to another party, except if, prior to the sale, the medical
+30 creditor has entered into a legally binding written agreement with the medical debt
+31 buyer of the debt under which:
+32 (i) The medical debt buyer or collector is prohibited from engaging in any
+33 extraordinary collection actions to obtain payment for the care;
+34 (ii) The medical debt buyer is prohibited from charging interest on the debt;
+35 (iii) The debt is returnable or recallable by the medical creditor upon a determination
+36 by the medical creditor or medical debt buyer that the individual is eligible for
+37 financial assistance; and
+38 (iv) The medical debt buyer shall adhere to procedures which shall be specified in the
+39 agreement that ensure that the individual does not pay, and has no obligation to pay,
+40 the medical debt buyer and the medical creditor together more than they are
+41 personally responsible for paying in compliance with this Code section;
+H. B. 765
+- 2 -
+
+25 LC 44 3135ER
+42 (B) Reporting adverse information about the consumer to a consumer reporting
+43 agency; or
+44 (C) Actions that require a legal or judicial process, including:
+45 (i) Placing a lien on an individual's property;
+46 (ii) Attaching or seizing an individual's bank account or any other personal property;
+47 (iii) Commencing a civil action against an individual; or
+48 (iv) Garnishing an individual's wages.
+49 (5) 'Financial assistance policy' means a written policy made pursuant to 26 U.S.C.
+50 Section 501(r)(4) or its implementing regulations, including 26 CFR Section 1.501(r)-1.
+51 (6) 'Healthcare services' means services for the diagnosis, prevention, treatment, cure,
+52 or relief of a physical, dental, behavioral, substance use disorder, or mental health
+53 condition, illness, injury, or disease. Such term includes any procedures, products,
+54 devices, or medications.
+55 (7) 'Internal review' means review by a health insurance plan or other insurer of an
+56 adverse benefit determination.
+57 (8) 'Large healthcare facility' means any of the following entities:
+58 (A) A licensed hospital, whether a not for profit entity or a for profit entity;
+59 (B) A licensed nursing home, whether a not for profit entity or a for profit entity;
+60 (C) An outpatient clinic or facility affiliated with a hospital or operating under the
+61 license of a hospital;
+62 (D) A licensed freestanding emergency department; and
+63 (E) A licensed outpatient surgery center.
+64 (9) 'Medical assistance' means any public assistance program that assists consumers with
+65 healthcare costs.
+66 (10) 'Medical creditor' means any large healthcare facility that provides healthcare
+67 services and to whom the consumer owes money for healthcare services, or the large
+68 healthcare facility that provided healthcare services and to whom the consumer owes
+H. B. 765
+- 3 -
+
+25 LC 44 3135ER
+69 money for healthcare services, or the large healthcare facility that provided healthcare
+70 services and to whom the consumer previously owed money if the medical debt has been
+71 purchased by one or more medical debt buyers.
+72 (11) 'Medical debt buyer' means an individual or entity that is engaged in the business
+73 of purchasing medical debts for collection purposes, whether it collects the debt itself or
+74 hires a third party for collection or an attorney for litigation in order to collect such debt.
+75 (12) 'Medical debt collector' means any person that regularly collects or attempts to
+76 collect, directly or indirectly, medical debts originally owed or due or asserted to be owed
+77 or due to another. A medical debt buyer is a medical debt collector. Such term does not
+78 include the Department of Human Services or an individual filing a child support action
+79 under Title 19. Medical debt collector does not include anyone collecting debt charged
+80 to a credit card.
+81 (13) 'Patient' means the individual who received healthcare services or is discharged
+82 from a large healthcare facility, or within ten days of discharge if the patient receives
+83 emergency care.
+84 (14) 'Time of service' means before a patient leaves or is discharged from a large
+85 healthcare facility, or within ten days of discharge if the patient receives emergency care.
+86 (b)(1) All large healthcare facilities shall provide uninsured patients with a written notice
+87 containing information regarding eligibility and the application process for medical
+88 assistance at the time of service.
+89 (2) Each billing statement that a large healthcare facility sends to an uninsured patient
+90 shall include a written notice containing information regarding medical assistance and the
+91 application process for medical assistance.
+92 (3) The written notice required by paragraphs (1) and (2) of this subsection shall include:
+93 (A) A statement that the consumer may qualify for medical assistance;
+H. B. 765
+- 4 -
+
+25 LC 44 3135ER
+94 (B) A statement describing how consumers may apply for medical assistance,
+95 including a website and telephone number where information on applying for such
+96 assistance may be obtained;
+97 (C) A list of local organizations or public or private agencies that may provide
+98 assistance with an application for medical assistance; and
+99 (D) A contact number for the consumer to call a large healthcare facility to reach
+100 someone who can assist the consumer with an application for medical assistance.
+101 (4) The notice required under this subsection shall only be sent to patients who received
+102 services in an emergency department, admitted to a hospital, or receiving surgery in a
+103 large healthcare facility.
+104 (c)(1) Large healthcare facilities and medical debt collectors may not charge any interest
+105 or late fees to consumers.
+106 (2) Large healthcare facilities and medical debt collectors shall offer to any consumer
+107 with outstanding debt totaling $500.00 or more a payment plan and may not require the
+108 consumer to make monthly payments that exceed 5 percent of the consumer's gross
+109 monthly income. Failure to provide proof of income may not be used as a basis to deny
+110 any consumer a payment plan.
+111 (3) No initial payment on a monthly payment plan may be due under any of the
+112 following circumstances:
+113 (A) Within the first 30 days after the healthcare services were provided;
+114 (B) Within 30 days after the first bill is sent; or
+115 (C) During any period in which a medical creditor or medical debt collector has
+116 requested any form of documentation from a consumer.
+117 (4) Prepayment or early payment penalties or fees, service or administrative charges or
+118 fees, or any other fees or charges unrelated to the care provided shall be prohibited,
+119 including on any prepayment plans.
+H. B. 765
+- 5 -
+
+25 LC 44 3135ER
+120 (5) Notwithstanding any other provisions in this Code section, a consumer shall not be
+121 prohibited from voluntarily making any additional or early payments on any medical debt
+122 at any time.
+123 (d)(1) The following extraordinary collections actions may not be used by any medical
+124 creditor or debt collector to collect debts owed for healthcare services:
+125 (A) Causing an individual's arrest;
+126 (B) Causing an individual to be subject to a writ of body attachment or capias;
+127 (C) Foreclosing on an individual's real property;
+128 (D) Garnishing the wages, disability insurance payments or any other disability
+129 benefits, workers' compensation payments or unemployment benefits of a consumer;
+130 or
+131 (E) Garnishing or attaching a bank account, pension, annuity, or retirement account of
+132 a consumer.
+133 (2) A large healthcare facility or medical creditor that sells medical debt to a medical
+134 debt buyer or medical debt collector under a contract remains liable for any actions taken
+135 by the medical debt buyer or medical debt collector, including any violations of any
+136 provisions of this Code section.
+137 (3) No medical creditor or medical debt collector may engage in any permissible
+138 extraordinary collection actions until 120 days after the first bill for a medical debt has
+139 been sent.
+140 (4) At least 30 days before taking any extraordinary collection actions, a medical creditor
+141 or medical debt collector shall provide to the consumer a notice containing:
+142 (A) In the case of large healthcare facilities and medical debt collectors collecting debt
+143 for healthcare services provided by such facilities, stating whether financial assistance
+144 is available for eligible individuals and providing a plain-language summary of any
+145 such financial assistance policy;
+H. B. 765
+- 6 -
+
+25 LC 44 3135ER
+146 (B) Identifying the extraordinary collection actions that will be initiated in order to
+147 obtain payment; and
+148 (C) Providing a deadline after which such extraordinary collection actions shall be
+149 initiated; provided, however, that such date may be no earlier than 30 days after the date
+150 of the notice.
+151 (5) A large healthcare facility or a medical debt collector collecting the debt for
+152 healthcare services provided by such a facility may not use any extraordinary collection
+153 actions unless such actions are described in the large healthcare facility's billing and
+154 collections policy.
+155 (6) If the consumer has paid any part of the medical debt in excess of the amount the
+156 consumer owes after any financial assistance or charity care offered by the large
+157 healthcare facility, the large healthcare facility or medical debt collector shall refund any
+158 excess amount to the consumer within 60 days. If a change in the financial circumstances
+159 of the consumer makes the consumer eligible for any financial assistance or charity care,
+160 any payments made prior to the change in circumstances that make the patient eligible
+161 for such financial assistance or charity care shall not be required to be refunded.
+162 (7) A large healthcare facility or medical creditor that sells medical debt to a medical
+163 debt buyer or medical debt collector under a contract remains liable for any actions taken
+164 by the medical debt buyer or medical debt collector, including any violations of any
+165 provisions of this Code section.
+166 (e)(1) Parents shall be jointly liable for any medical debts incurred by children under the
+167 age of 18.
+168 (2) No spouse or other person may be liable for the medical debt or nursing home debt
+169 of any other person age 18 or older. A spouse may voluntarily consent to assume
+170 liability, but such consent:
+171 (A) Shall be on a separate stand-alone document signed by the spouse;
+172 (B) May not be solicited in an emergency room or during an emergency situation; and
+H. B. 765
+- 7 -
+
+25 LC 44 3135ER
+173 (C) May not be required as a condition of providing any emergency or nonemergency
+174 healthcare services.
+175 (f)(1) For a period of one year following the date when the consumer was first given a
+176 bill for medical debt or three months following the date of the most recent payment made
+177 toward a payment plan on medical debt, whichever is later, no medical creditor or
+178 medical debt collector may communicate with or report any information to any consumer
+179 reporting agency regarding such medical debt.
+180 (2) After the time period described in paragraph (1) of this subsection, medical creditors
+181 and medical debt collectors shall give consumers at least one additional bill before
+182 reporting a medical debt to any consumer reporting agency. The amount reported to the
+183 consumer reporting agency shall be the same amount stated in this bill, and such bill shall
+184 state that the debt is being reported to a consumer reporting agency. Medical debt
+185 collectors shall also provide the notice required by 15 U.S.C. Section 1692g before
+186 reporting a debt to a consumer reporting agency.
+187 (g)(1) No medical creditor or medical debt collector that knows or should know about
+188 an internal review, external review, or other appeal of a health insurance decision that is
+189 pending or was pending within the previous 60 days may do any of the following:
+190 (A) Provide information relative to unpaid charges for healthcare services to a
+191 consumer reporting agency;
+192 (B) Communicate with the consumer regarding the unpaid charges for healthcare
+193 services for the purpose of seeking to collect the charges; or
+194 (C) Initiate a lawsuit or arbitration proceeding against the consumer relative to unpaid
+195 charges for healthcare services.
+196 (2) If a medical debt has previously been reported to a consumer reporting agency and
+197 the medical creditor or medical debt collector that reported the information learns of an
+198 internal review, external review, or other appeal of a health insurance decision that is
+199 pending or was pending within the previous 60 days, such medical creditor or medical
+H. B. 765
+- 8 -
+
+25 LC 44 3135ER
+200 debt collector shall instruct the consumer reporting agency to delete the information about
+201 the debt.
+202 (3) No medical creditor that knows or should have known about an internal review,
+203 external review, or other appeal of a health insurance decision that is pending or was
+204 pending within the previous 60 days may refer, place, or send the unpaid charges for
+205 healthcare services to a medical debt collector including by selling the debt to a medical
+206 debt buyer.
+207 (h)(1) Consumers may not be charged interest or late fees on medical debt, regardless of
+208 any agreements to the contrary.
+209 (2) Paragraph (1) of this subsection shall apply to any judgments resulting from medical
+210 debt, regardless of any agreements to the contrary.
+211 (i) A large healthcare facility shall provide a contact number with which a consumer may
+212 request oral interpretation services, at no cost to the consumer, for any information or
+213 document that is provided to the consumer under this Code section.
+214 (j)(1) In addition to any remedies a consumer may have at law or in equity, any violation
+215 of this Code section is an unlawful practice under this part.
+216 (2) Any consumer may sue for injunctive or other appropriate equitable relief to enforce
+217 this Code section.
+218 (3) The remedies provided in this subsection are not intended to be the exclusive
+219 remedies available to a consumer nor shall the consumer exhaust any administrative
+220 remedies provided under this subsection or any other applicable law.
+221 (4) No agreement between the consumer and a large healthcare provider or medical debt
+222 collector may contain a provision that, prior to a dispute arising, waives or inhibits or has
+223 the practical effect of waiving or inhibiting any rights under this Code section or the
+224 rights of a consumer to resolve that dispute by obtaining any of the following:
+225 (A) Injunctive, declaratory, or other equitable relief;
+226 (B) Multiple or minimum damages as specified by statute;
+H. B. 765
+- 9 -
+
+25 LC 44 3135ER
+227 (C) Attorney's fees and costs as specified by statute or as available at common law;
+228 (D) A hearing at which that party can present evidence; or
+229 (E) Requiring any form of alternative dispute resolution, including arbitration.
+230 (5) Any provision in a written agreement violating any provision of this Code section
+231 shall be void and unenforceable. A court may refuse to enforce any written agreement
+232 as equity may require.
+233 SECTION 3.
+234 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 765
+- 10 -
+
+[DELETED: 5L5,2,9,hndt1,1,ts a t p f r t p f a t p f]
+[DELETED: 5L  T m d b o c i p f e i a m d b a t m c t m t t a]
+[DELETED: 5L  R a i a t c t a c r r o a p d b s u d o m h]
+[DELETED: 5L]
+[DELETED: 5L  A s d h c m a f m a  A l o l o o p o p a t m p  N i p o a m p p m b d u a o t]
+[DELETED: 5L  G t w d i p o a o d  N m c o m d c m e i a p]
+[DELETED: 5L  A l h f o a m d c c t d f o a a f a o c c o b t l]
+[DELETED: 5L d  P i r t u c f h s t ]
+[DELETED: 5L  T r p i t s a n i t b t e]
+[DELETED: 5L]

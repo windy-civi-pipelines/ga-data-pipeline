@@ -1,0 +1,320 @@
+Title: House Bill 213
+Official Title: House Bill 213
+Number of Sections: 1
+Source: versions - LC 50 0989/a
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 0989
+By: Representatives Park of the 107th, Miller of the 62nd, Drenner of the 85th, Romman of the
+97th, Herring of the 145th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to imposition, rate, computation, exemption, and credits from income taxes, so as to
+3 create a tax credit for investment in clean energy; to provide for the calculation of credit
+4 amounts; to provide for definitions; to provide for terms and conditions; to provide for
+5 transferability; to require the Environmental Protection Division to annually publish
+6 greenhouse gas emission rates for purposes of such tax credit; to provide for rules and
+7 regulations; to provide for a short title; to provide for related matters; to provide for an
+8 effective date and applicability; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Clean Energy Investment Tax Credit Act."
+12 SECTION 2.
+13 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+14 imposition, rate, computation, exemption, and credits from income taxes, is amended by
+15 revising Code Section 48-7-40.10, which is reserved, as follows:
+H. B. 213
+- 1 -
+25 LC 50 0989
+16 "48-7-40.10.
+17 (a) As used in this Code section, the term:
+18 (1) 'CO2e per KWh,' 'energy storage technology,' 'greenhouse gas,' and 'qualified
+19 interconnection property' shall have the same meaning as provided for such terms in 26
+20 U.S.C. Section 48E, as effective on January 1, 2025.
+21 (2) 'Eligible person' means any person that demonstrates eligibility for the tax credit
+22 allowed pursuant to this Code section in accordance with the requirements of this Code
+23 section and rules and regulations of the department. Such term shall not include any
+24 person or any form of business owned, affiliated, or controlled, in whole or in part, by
+25 any company or person which is in default on any tax obligation to the state, any loan
+26 made by the state, or any loan guaranteed by the state.
+27 (3) 'Greenhouse gas emissions rate' means the amount of greenhouse gases emitted into
+28 the atmosphere by a facility in the production of electricity, expressed as grams of CO2e
+29 per KWh, as provided by the Environmental Protection Division pursuant to
+30 subsection (e) of this Code section. In the case of a facility which produces electricity
+31 through combustion or gasification, the greenhouse gas emissions rate for such facility
+32 shall be equal to the net rate of greenhouse gases emitted into the atmosphere by such
+33 facility, taking into account lifecycle greenhouse gas emissions in the production of
+34 electricity, expressed as grams of CO2e per KWh. The amount of greenhouse gases
+35 emitted into the atmosphere by a facility in the production of electricity shall not include
+36 any qualified carbon dioxide that is captured by the qualified person and disposed of by
+37 the eligible person in secure geological storage or utilized by the qualified person.
+38 (4) 'Qualified facility' means a facility located in this state which is used for the
+39 generation of electricity, is placed in service after July 1, 2025, and for which the
+40 greenhouse gas emissions rate is not greater than zero. Such term shall not include any
+41 facility for which a state income tax credit for clean energy production is allowed for the
+42 taxable year.
+H. B. 213
+- 2 -
+25 LC 50 0989
+43 (5) 'Qualified investment' means:
+44 (A) With respect to any qualified facility for any taxable year, the sum of:
+45 (i) The basis of any qualified property placed in service by the eligible person during
+46 such taxable year which is part of a qualified facility; and
+47 (ii) The amount of any expenditures which are:
+48 (I) Paid or incurred by the eligible person for qualified interconnection property in
+49 connection with a qualified facility which has a maximum net output of not greater
+50 than 5 megawatts, as measured in alternating current, and placed in service during
+51 the taxable year; and
+52 (II) Properly chargeable to the capital account of the taxpayer; and
+53 (B) With respect to energy storage technology for any taxable year, the basis of any
+54 energy storage technology placed in service by the eligible person during such taxable
+55 year.
+56 (6) 'Qualified property' means property:
+57 (A) Which is tangible personal property, or other tangible property, not including a
+58 building or its structural components, but only if such property is used as an integral
+59 part of the qualified facility:
+60 (B) With respect to which depreciation, or amortization in lieu of depreciation, is
+61 allowable; and
+62 (C)(i) The construction, reconstruction, or erection of which is completed by the
+63 eligible person; or
+64 (ii) Which is acquired by the eligible person if the original use of such property
+65 commences with the eligible person.
+66 (b) For taxable years beginning on or after January 1, 2026, a tax credit is allowed against
+67 the tax imposed under this article to any eligible person in an amount equal to 6 percent of
+68 the qualified investment for such taxable year with respect to any qualified facility and any
+69 energy storage technology located in this state.
+H. B. 213
+- 3 -
+25 LC 50 0989
+70 (c) The tax credit allowed by this Code section shall be subject to the following conditions
+71 and limitations:
+72 (1) If used by the eligible person, in no event shall the amount of the tax credit used in
+73 a taxable year exceed the taxpayer's income tax liability. No such credit shall be used
+74 against the eligible person's prior years' tax liability;
+75 (2) If transferred or sold to a Georgia taxpayer as provided for in subsection (d) of this
+76 Code section, in no event shall the amount of the tax credit used in a taxable year exceed
+77 the taxpayer's income tax liability. No such credit shall be used against the taxpayer's
+78 prior years' tax liability;
+79 (3) Any unused credit amount shall be allowed to be carried forward for three years from
+80 the taxable year for which it was claimed; and
+81 (4) To claim a credit allowed by this Code section, the eligible person shall provide any
+82 information required by the department. Every eligible person claiming a credit under
+83 this Code section shall maintain and make available for inspection by the department any
+84 records that either entity considers necessary to determine and verify the amount of the
+85 credit to which the eligible person is entitled. The burden of proving eligibility for a
+86 credit and the amount of the credit rests upon the eligible person, and no credit shall be
+87 allowed to an eligible person that fails to maintain adequate records or to make them
+88 available for inspection.
+89 (d) Any tax credits allowed to an eligible person pursuant to this Code section and
+90 previously claimed but not used by such person against its income tax liability may be
+91 transferred or sold in whole or in part by such eligible person to any Georgia taxpayer,
+92 subject to the following conditions:
+93 (1) Such eligible person shall make only a single transfer or sale of tax credits earned in
+94 a taxable year; provided, however, that the transfer or sale may involve one or more
+95 transferees;
+H. B. 213
+- 4 -
+25 LC 50 0989
+96 (2) Such eligible person shall submit to the department a written notification of any
+97 transfer or sale of tax credits within 30 days after the transfer or sale of such tax credits.
+98 Such notification shall include the tax credit balance prior to transfer, the credit certificate
+99 number, the remaining balance after transfer, all tax identification numbers for each
+100 transferee, the date of transfer, the amount transferred, and any other information required
+101 by the department;
+102 (3) The transfer or sale of such tax credit shall not extend the time in which such tax
+103 credit can be used. The carry-forward period for a tax credit that is transferred or sold
+104 shall begin on the date on which the tax credit was originally earned;
+105 (4) A transferee shall have only such rights to claim and use the tax credit that were
+106 available to such eligible person at the time of the transfer. To the extent that such
+107 eligible person did not have rights to claim or use the tax credit at the time of the transfer,
+108 the department shall either disallow the tax credit claimed by the transferee or recapture
+109 the tax credit from the transferee; and
+110 (5) The transferee shall acquire such tax credits for a minimum of 60 percent of the
+111 amount of the tax credits so transferred.
+112 (e) The Environmental Protection Division shall annually publish a table that sets forth the
+113 greenhouse gas emissions rates for types or categories of facilities, which an eligible person
+114 and the department shall use for purposes of this Code section.
+115 (f) The department shall promulgate any rules and regulations necessary to implement and
+116 administer the provisions of this Code section. Reserved."
+117 SECTION 3.
+118 This Act shall become effective on July 1, 2025, and shall be applicable to taxable years
+119 beginning on or after January 1, 2026.
+H. B. 213
+- 5 -
+25 LC 50 0989
+120 SECTION 4.
+121 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 213
+- 6 -
+[DELETED: 5L7,2,5,hndt7,5,ht t r t E P D t a p]
+[DELETED: 5L  ' p K ' s t ' g a ' K a p b t E P D p t  ' f m a f l i t s w i u f t o e i p i s a J 1 2 a f w t]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 0989
+House Bill 213
+By: Representatives Park of the 107th, Miller of the 62nd, Drenner of the 85th, Romman of the
+97th, Herring of the 145th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to imposition, rate, computation, exemption, and credits from income taxes, so as to
+3 create a tax credit for investment in clean energy; to provide for the calculation of credit
+4 amounts; to provide for definitions; to provide for terms and conditions; to provide for
+5 transferability; to require the Environmental Protection Division to annually publish
+6 greenhouse gas emission rates for purposes of such tax credit; to provide for rules and
+7 regulations; to provide for a short title; to provide for related matters; to provide for an
+8 effective date and applicability; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Clean Energy Investment Tax Credit Act."
+12 SECTION 2.
+13 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+14 imposition, rate, computation, exemption, and credits from income taxes, is amended by
+15 revising Code Section 48-7-40.10, which is reserved, as follows:
+H. B. 213
+- 1 -
+
+25 LC 50 0989
+16 "48-7-40.10.
+17 (a) As used in this Code section, the term:
+18 (1) 'CO2e per KWh,' 'energy storage technology,' 'greenhouse gas,' and 'qualified
+19 interconnection property' shall have the same meaning as provided for such terms in 26
+20 U.S.C. Section 48E, as effective on January 1, 2025.
+21 (2) 'Eligible person' means any person that demonstrates eligibility for the tax credit
+22 allowed pursuant to this Code section in accordance with the requirements of this Code
+23 section and rules and regulations of the department. Such term shall not include any
+24 person or any form of business owned, affiliated, or controlled, in whole or in part, by
+25 any company or person which is in default on any tax obligation to the state, any loan
+26 made by the state, or any loan guaranteed by the state.
+27 (3) 'Greenhouse gas emissions rate' means the amount of greenhouse gases emitted into
+28 the atmosphere by a facility in the production of electricity, expressed as grams of CO2e
+29 per KWh, as provided by the Environmental Protection Division pursuant to
+30 subsection (e) of this Code section. In the case of a facility which produces electricity
+31 through combustion or gasification, the greenhouse gas emissions rate for such facility
+32 shall be equal to the net rate of greenhouse gases emitted into the atmosphere by such
+33 facility, taking into account lifecycle greenhouse gas emissions in the production of
+34 electricity, expressed as grams of CO2e per KWh. The amount of greenhouse gases
+35 emitted into the atmosphere by a facility in the production of electricity shall not include
+36 any qualified carbon dioxide that is captured by the qualified person and disposed of by
+37 the eligible person in secure geological storage or utilized by the qualified person.
+38 (4) 'Qualified facility' means a facility located in this state which is used for the
+39 generation of electricity, is placed in service after July 1, 2025, and for which the
+40 greenhouse gas emissions rate is not greater than zero. Such term shall not include any
+41 facility for which a state income tax credit for clean energy production is allowed for the
+42 taxable year.
+H. B. 213
+- 2 -
+
+25 LC 50 0989
+43 (5) 'Qualified investment' means:
+44 (A) With respect to any qualified facility for any taxable year, the sum of:
+45 (i) The basis of any qualified property placed in service by the eligible person during
+46 such taxable year which is part of a qualified facility; and
+47 (ii) The amount of any expenditures which are:
+48 (I) Paid or incurred by the eligible person for qualified interconnection property in
+49 connection with a qualified facility which has a maximum net output of not greater
+50 than 5 megawatts, as measured in alternating current, and placed in service during
+51 the taxable year; and
+52 (II) Properly chargeable to the capital account of the taxpayer; and
+53 (B) With respect to energy storage technology for any taxable year, the basis of any
+54 energy storage technology placed in service by the eligible person during such taxable
+55 year.
+56 (6) 'Qualified property' means property:
+57 (A) Which is tangible personal property, or other tangible property, not including a
+58 building or its structural components, but only if such property is used as an integral
+59 part of the qualified facility:
+60 (B) With respect to which depreciation, or amortization in lieu of depreciation, is
+61 allowable; and
+62 (C)(i) The construction, reconstruction, or erection of which is completed by the
+63 eligible person; or
+64 (ii) Which is acquired by the eligible person if the original use of such property
+65 commences with the eligible person.
+66 (b) For taxable years beginning on or after January 1, 2026, a tax credit is allowed against
+67 the tax imposed under this article to any eligible person in an amount equal to 6 percent of
+68 the qualified investment for such taxable year with respect to any qualified facility and any
+69 energy storage technology located in this state.
+H. B. 213
+- 3 -
+
+25 LC 50 0989
+70 (c) The tax credit allowed by this Code section shall be subject to the following conditions
+71 and limitations:
+72 (1) If used by the eligible person, in no event shall the amount of the tax credit used in
+73 a taxable year exceed the taxpayer's income tax liability. No such credit shall be used
+74 against the eligible person's prior years' tax liability;
+75 (2) If transferred or sold to a Georgia taxpayer as provided for in subsection (d) of this
+76 Code section, in no event shall the amount of the tax credit used in a taxable year exceed
+77 the taxpayer's income tax liability. No such credit shall be used against the taxpayer's
+78 prior years' tax liability;
+79 (3) Any unused credit amount shall be allowed to be carried forward for three years from
+80 the taxable year for which it was claimed; and
+81 (4) To claim a credit allowed by this Code section, the eligible person shall provide any
+82 information required by the department. Every eligible person claiming a credit under
+83 this Code section shall maintain and make available for inspection by the department any
+84 records that either entity considers necessary to determine and verify the amount of the
+85 credit to which the eligible person is entitled. The burden of proving eligibility for a
+86 credit and the amount of the credit rests upon the eligible person, and no credit shall be
+87 allowed to an eligible person that fails to maintain adequate records or to make them
+88 available for inspection.
+89 (d) Any tax credits allowed to an eligible person pursuant to this Code section and
+90 previously claimed but not used by such person against its income tax liability may be
+91 transferred or sold in whole or in part by such eligible person to any Georgia taxpayer,
+92 subject to the following conditions:
+93 (1) Such eligible person shall make only a single transfer or sale of tax credits earned in
+94 a taxable year; provided, however, that the transfer or sale may involve one or more
+95 transferees;
+H. B. 213
+- 4 -
+
+25 LC 50 0989
+96 (2) Such eligible person shall submit to the department a written notification of any
+97 transfer or sale of tax credits within 30 days after the transfer or sale of such tax credits.
+98 Such notification shall include the tax credit balance prior to transfer, the credit certificate
+99 number, the remaining balance after transfer, all tax identification numbers for each
+100 transferee, the date of transfer, the amount transferred, and any other information required
+101 by the department;
+102 (3) The transfer or sale of such tax credit shall not extend the time in which such tax
+103 credit can be used. The carry-forward period for a tax credit that is transferred or sold
+104 shall begin on the date on which the tax credit was originally earned;
+105 (4) A transferee shall have only such rights to claim and use the tax credit that were
+106 available to such eligible person at the time of the transfer. To the extent that such
+107 eligible person did not have rights to claim or use the tax credit at the time of the transfer,
+108 the department shall either disallow the tax credit claimed by the transferee or recapture
+109 the tax credit from the transferee; and
+110 (5) The transferee shall acquire such tax credits for a minimum of 60 percent of the
+111 amount of the tax credits so transferred.
+112 (e) The Environmental Protection Division shall annually publish a table that sets forth the
+113 greenhouse gas emissions rates for types or categories of facilities, which an eligible person
+114 and the department shall use for purposes of this Code section.
+115 (f) The department shall promulgate any rules and regulations necessary to implement and
+116 administer the provisions of this Code section. Reserved."
+117 SECTION 3.
+118 This Act shall become effective on July 1, 2025, and shall be applicable to taxable years
+119 beginning on or after January 1, 2026.
+H. B. 213
+- 5 -
+
+25 LC 50 0989
+120 SECTION 4.
+121 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 213
+- 6 -
+
+[DELETED: 5L7,2,5,hndt7,5,ht t r t E P D t a p]
+[DELETED: 5L  ' p K ' s t ' g a ' K a p b t E P D p t  ' f m a f l i t s w i u f t o e i p i s a J 1 2 a f w t]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]

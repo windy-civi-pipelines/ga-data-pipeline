@@ -1,0 +1,484 @@
+Title: House Bill 597
+Official Title: House Bill 597
+Number of Sections: 1
+Source: versions - LC 59 0034/a
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25 LC 59 0034
+By: Representatives Donatucci of the 105th, McCollum of the 30th, Schofield of the 63rd,
+Seabaugh of the 34th, and Scott of the 76th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to imposition, rate, computation, exemptions, and credits relative to income taxes,
+3 so as to enact the "Fire and Emergency Services Support Act"; to provide for tax credits for
+4 certain contributions made by taxpayers to certain local fire rescue foundations; to provide
+5 for an aggregate annual limit; to provide for terms and conditions; to provide for applications
+6 and certifications; to provide for the revocation of qualified status; to provide for certain
+7 penalties; to provide for confidentiality; to require annual reporting; to provide for rules and
+8 regulations; to provide definitions; to provide for construction; to provide for a short title;
+9 to provide for related matters; to provide for an effective date and applicability; to repeal
+10 conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 This Act shall be known and may be cited as the "Fire and Emergency Services Support
+14 Act."
+H. B. 597
+- 1 -
+25 LC 59 0034
+15 SECTION 2.
+16 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+17 imposition, rate, computation, exemptions, and credits relative to income taxes, is amended
+18 by adding a new Code section to read as follows:
+19 "48-7-29.27.
+20 (a) As used in this Code section, the term:
+21 (1) 'Fire rescue foundation' means any domestic nonprofit corporation with the sole
+22 function of supporting one local fire rescue unit through a formal relationship recognized
+23 by such local fire rescue unit and which maintains nonprofit status under
+24 Section 501(c)(3) of the Internal Revenue Code and tax exempt status under Code
+25 Section 48-7-25.
+26 (2) 'Local fire rescue unit' means any agency, office, or department of a county,
+27 municipality, or consolidated government of this state whose primary functions include
+28 the protection of life and property against fire, explosions, hazardous materials, and other
+29 hazards.
+30 (3) 'Qualified contributions' means the preapproved contribution of funds by a taxpayer
+31 to a qualified fire rescue foundation under the terms and conditions of this Code section.
+32 (4) 'Qualified expenditures' means expenditures made by a qualified fire rescue
+33 foundation:
+34 (A)(i) For salary supplements or training provided directly to fire rescue personnel
+35 employed by the local fire rescue unit affiliated with such qualified fire rescue
+36 foundation; or
+37 (ii) For the purchase, lease, maintenance, or improvement of equipment to be used
+38 by such personnel; or
+39 (B) To cover any costs incurred by the local fire rescue unit in collaborating with other
+40 agencies to address emergency situations, provided that such costs shall not include
+41 salaries or other regular compensation.
+H. B. 597
+- 2 -
+25 LC 59 0034
+42 (5) 'Qualified fire rescue foundation' means any fire rescue foundation that has been
+43 designated as the sole local fire rescue foundation for a single local fire rescue unit and
+44 has been certified and listed by the commissioner pursuant to subsection (d) of this Code
+45 section.
+46 (b)(1) The aggregate amount of tax credits allowed under this Code section shall not
+47 exceed $75 million per calendar year. Each qualified fire rescue foundation shall be
+48 limited to accepting $3 million per year of contributions made under this Code section.
+49 (2) Subject to the aggregate limit provided in paragraph (1) of this subsection, each
+50 taxpayer shall be allowed a credit against the tax imposed by this chapter for qualified
+51 contributions made by the taxpayer as follows:
+52 (A) In the case of a single individual or a head of household, the actual amount of
+53 qualified contributions made or $5,000.00 per tax year, whichever is less;
+54 (B) In the case of a married couple filing a joint return, the actual amount of qualified
+55 contributions made or $10,000.00 per tax year, whichever is less;
+56 (C) Anything to the contrary contained in subparagraph (A) or (B) of this paragraph
+57 notwithstanding, in the case of an individual taxpayer who is a member of a limited
+58 liability company duly formed under state law, a shareholder of a Subchapter 'S'
+59 corporation, or a partner in a partnership, the actual amount of qualified contributions
+60 it made or $10,000.00 per tax year, whichever is less; provided, however, that tax
+61 credits pursuant to this paragraph shall only be allowed for the portion of the income
+62 on which such tax was actually paid by such member of the limited liability company,
+63 shareholder of a Subchapter 'S' corporation, or partner in a partnership; or
+64 (D) A corporation or other entity not provided for in subparagraphs (A) through (C)
+65 of this paragraph shall be allowed a credit against the tax imposed by this chapter, for
+66 qualified contributions in an amount not to exceed the actual amount of qualified
+67 contributions made or 75 percent of such corporation's or other entity's income tax
+68 liability, whichever is less.
+H. B. 597
+- 3 -
+25 LC 59 0034
+69 (3) Nothing in this Code section shall be construed to limit the ability of a local fire
+70 rescue unit to receive gifts, grants, and other benefits from any source allowed by law;
+71 provided, however, that no local fire rescue unit shall, under this Code section, accept or
+72 receive more than $3 million in contributions in any calendar year.
+73 (c) The commissioner shall establish a web page on the department's public website for
+74 the purpose of implementing this Code section. Such web page shall contain, at a
+75 minimum:
+76 (1) The application and requirements to be certified as a qualified fire rescue foundation;
+77 (2) The current list of all qualified fire rescue foundations and their affiliate fire rescue
+78 units;
+79 (3) The total amount of tax credits remaining and available for preapproval for each year;
+80 (4) A web based method for taxpayers seeking the preapproval status for contributions;
+81 and
+82 (5) The information received by the department from each qualified fire rescue
+83 foundation pursuant to paragraph (1) of subsection (g), except for division (g)(1)(B)(iv)
+84 of this Code section.
+85 (d) Any qualified fire rescue foundation shall be certified by the commissioner following
+86 the commissioner's receipt of a properly completed application and after the commissioner
+87 has confirmed that a single local fire rescue unit has validly designated the applicant as its
+88 sole fire rescue foundation. Such application shall be prescribed by the commissioner and
+89 shall include an agreement by the applicant to fully comply with the terms and conditions
+90 of this Code section.
+91 (e)(1) Prior to making a contribution to any qualified fire rescue foundation, the taxpayer
+92 shall electronically notify the department, in a manner specified by the commissioner, of
+93 the total amount of contribution that such taxpayer intends to make to such qualified fire
+94 rescue foundation.
+H. B. 597
+- 4 -
+25 LC 59 0034
+95 (2) Within 30 days after receiving a request for preapproval of contributions, the
+96 commissioner shall preapprove, deny, or prorate requested amounts on a first come, first
+97 served basis and shall provide notice to such taxpayer and the qualified fire rescue
+98 foundation of such preapproval, denial, or proration. Such notices shall not require any
+99 signed release or notarized approval by the taxpayer. The preapproval of contributions
+100 by the commissioner shall be based solely on the availability of tax credits subject to the
+101 limits established under paragraph (1) of subsection (b) of this Code section.
+102 (3) Within 60 days after receiving the preapproval notice issued by the commissioner
+103 pursuant to paragraph (2) of this subsection, the taxpayer shall contribute the preapproved
+104 amount to the qualified fire rescue foundation or such preapproved contribution amount
+105 shall expire. The commissioner shall not include such expired amounts in determining
+106 the remaining amount available under the aggregate limit for the respective calendar year.
+107 (f)(1) Each qualified fire rescue foundation shall issue to each contributor a letter of
+108 confirmation of contribution, which shall include the taxpayer's name, address, tax
+109 identification number, the amount of the qualified contribution, the date of the qualified
+110 contribution, and the total amount of the credit allowed to the taxpayer.
+111 (2) In order for a taxpayer to claim the tax credit allowed under this Code section, all
+112 such applicable letters as provided for in paragraph (1) of this subsection shall be attached
+113 to the taxpayer's tax return. When the taxpayer files an electronic return such
+114 confirmation shall only be required to be electronically attached to the return if the
+115 Internal Revenue Service allows such attachments to be affixed and transmitted to the
+116 department. In any such event, the taxpayer shall maintain such confirmation and such
+117 confirmation shall only be made available to the commissioner upon request.
+118 (3) The commissioner shall allow tax credits for any preapproved contributions made to
+119 a local fire rescue foundation at the time the contributions were made if such foundation
+120 was a qualified fire rescue foundation at the time of the commissioner's preapproval of
+121 the contributions and the taxpayer has otherwise complied with this Code section.
+H. B. 597
+- 5 -
+25 LC 59 0034
+122 (g)(1) Each qualified fire rescue foundation shall annually submit to the department:
+123 (A) A complete copy of its IRS Form 990 and other applicable attachments, or for any
+124 qualified fire rescue foundation that is not required by federal law to file an IRS
+125 Form 990, such foundation shall submit to the commissioner equivalent information on
+126 a form prescribed by the commissioner; and
+127 (B) A report detailing the contributions received during the calendar year pursuant to
+128 this Code section on a date determined by, and on a form provided by, the
+129 commissioner which shall include:
+130 (i) The total number and dollar value of individual contributions and tax credits
+131 approved. Individual contributions shall include contributions made by those filing
+132 income tax returns as a single individual or head of household and those filing joint
+133 returns;
+134 (ii) The total number and dollar value of corporate contributions and tax credits
+135 approved;
+136 (iii) The total number and dollar value of all qualified expenditures made; and
+137 (iv) A list of contributors, including the dollar value of each contribution and the
+138 dollar value of each approved tax credit.
+139 (2) Except for the information published in accordance with paragraph (c) or (h) of this
+140 Code section, all information or reports relative to this Code section that were provided
+141 by qualified fire rescue foundations to the department shall be confidential taxpayer
+142 information, governed by Code Sections 48-2-15, 48-7-60, and 48-7-61, whether such
+143 information relates to the contributor or the qualified fire rescue foundation.
+144 (h) Each qualified fire rescue foundation shall publish on its public website a copy of its
+145 affiliated local fire rescue unit's prior year's annual budget containing the total amount of
+146 funds received from its local governing body. If a qualified fire rescue foundation does not
+147 maintain a public website, such information shall be otherwise made available by the
+148 qualified fire rescue foundation to the public upon request.
+H. B. 597
+- 6 -
+25 LC 59 0034
+149 (i)(1) A taxpayer shall not be allowed to designate or direct the taxpayer's qualified
+150 contributions to any particular purpose or for the direct benefit of any particular
+151 individual.
+152 (2) A taxpayer that operates, owns, is affiliated with, or is a subsidiary of an association,
+153 organization, or other entity that contracts directly with a qualified fire rescue foundation
+154 or the local fire rescue unit that is affiliated with a qualified fire rescue foundation shall
+155 not be eligible for tax credits allowed under this Code section for contributions made to
+156 such qualified fire rescue foundation.
+157 (3) In soliciting contributions, no person shall represent or direct that, in exchange for
+158 making qualified contributions to any qualified fire rescue foundation, a taxpayer shall
+159 receive any direct or particular benefit. The status as a qualified fire rescue foundation
+160 shall be revoked for any fire rescue foundation determined to be in violation of this
+161 paragraph and shall not be renewed for at least two years.
+162 (j)(1) Qualified contributions shall only be used for qualified expenditures. Each
+163 qualified fire rescue foundation shall maintain accurate and current records of all
+164 expenditures of qualified contributions and provide such records to the commissioner
+165 upon his or her request.
+166 (2) A qualified fire rescue foundation that fails to comply with any of the requirements
+167 under this Code section shall be given written notice by the department of such failure
+168 to comply by certified mail and shall have 90 days from the receipt of such notice to
+169 correct all deficiencies.
+170 (3) Upon failure to correct all deficiencies within 90 days, the department shall revoke
+171 the fire rescue foundation's status as a qualified fire rescue foundation and such entity
+172 shall be immediately removed from the department's list of qualified fire rescue
+173 foundations. All applications for preapproval of tax credits for contributions to such fire
+174 rescue foundation under this Code section made on or after the date of such removal shall
+175 be rejected.
+H. B. 597
+- 7 -
+25 LC 59 0034
+176 (4) Each fire rescue foundation that has had its status revoked and has been delisted
+177 pursuant to this Code section, shall immediately cease all expenditures of funds received
+178 relative to this Code section, and shall transfer all of such funds that are not yet expended,
+179 to a properly operating qualified fire rescue foundation within 30 calendar days of its
+180 removal from the department's list of qualified fire rescue foundations.
+181 (k)(1) No credit shall be allowed under this Code section to a taxpayer for any amount
+182 of qualified contributions that were utilized as deductions or exemptions from taxable
+183 income.
+184 (2) In no event shall the total amount of the tax credit under this Code section for a
+185 taxable year exceed the taxpayer's income tax liability. Any unused tax credit shall be
+186 allowed the taxpayer against the succeeding three years' tax liability. No such credit shall
+187 be allowed the taxpayer against prior years' tax liability.
+188 (l) The commissioner shall promulgate rules and regulations necessary to implement and
+189 administer the provisions of this Code section."
+190 SECTION 3.
+191 This Act shall become effective on July 1, 2025, and shall be applicable to all taxable years
+192 beginning on or after January 1, 2026.
+193 SECTION 4.
+194 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 597
+- 8 -
+[DELETED: 5L5,0,3hthr4,6ht]
+[DELETED: 5L s l f r u a w m n s u 5 o t I R C a t e s u C  ' f r u m a a o o d o a c  ' e m e m b a q f r b t l f r u a w s q f r]
+[DELETED: 5L c d f u s l a s o a S ']
+[DELETED: 5L p o i t C s  S w p s c a   T i r b t d f e q f r]
+[DELETED: 5L  W 3 d a r a r f p o c t o c w s i t t n a t t t t r  W t t f a e r s]
+[DELETED: 5L C s o a d d b a o a f p b t]
+[DELETED: 5L t a p p o f t d b o a p  Q c s o b u f q e  E f r f s m a a c r o a b i r f t d l o q f r]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 59 0034
+House Bill 597
+By: Representatives Donatucci of the 105th, McCollum of the 30th, Schofield of the 63rd,
+Seabaugh of the 34th, and Scott of the 76th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to imposition, rate, computation, exemptions, and credits relative to income taxes,
+3 so as to enact the "Fire and Emergency Services Support Act"; to provide for tax credits for
+4 certain contributions made by taxpayers to certain local fire rescue foundations; to provide
+5 for an aggregate annual limit; to provide for terms and conditions; to provide for applications
+6 and certifications; to provide for the revocation of qualified status; to provide for certain
+7 penalties; to provide for confidentiality; to require annual reporting; to provide for rules and
+8 regulations; to provide definitions; to provide for construction; to provide for a short title;
+9 to provide for related matters; to provide for an effective date and applicability; to repeal
+10 conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 This Act shall be known and may be cited as the "Fire and Emergency Services Support
+14 Act."
+H. B. 597
+- 1 -
+
+25 LC 59 0034
+15 SECTION 2.
+16 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+17 imposition, rate, computation, exemptions, and credits relative to income taxes, is amended
+18 by adding a new Code section to read as follows:
+19 "48-7-29.27.
+20 (a) As used in this Code section, the term:
+21 (1) 'Fire rescue foundation' means any domestic nonprofit corporation with the sole
+22 function of supporting one local fire rescue unit through a formal relationship recognized
+23 by such local fire rescue unit and which maintains nonprofit status under
+24 Section 501(c)(3) of the Internal Revenue Code and tax exempt status under Code
+25 Section 48-7-25.
+26 (2) 'Local fire rescue unit' means any agency, office, or department of a county,
+27 municipality, or consolidated government of this state whose primary functions include
+28 the protection of life and property against fire, explosions, hazardous materials, and other
+29 hazards.
+30 (3) 'Qualified contributions' means the preapproved contribution of funds by a taxpayer
+31 to a qualified fire rescue foundation under the terms and conditions of this Code section.
+32 (4) 'Qualified expenditures' means expenditures made by a qualified fire rescue
+33 foundation:
+34 (A)(i) For salary supplements or training provided directly to fire rescue personnel
+35 employed by the local fire rescue unit affiliated with such qualified fire rescue
+36 foundation; or
+37 (ii) For the purchase, lease, maintenance, or improvement of equipment to be used
+38 by such personnel; or
+39 (B) To cover any costs incurred by the local fire rescue unit in collaborating with other
+40 agencies to address emergency situations, provided that such costs shall not include
+41 salaries or other regular compensation.
+H. B. 597
+- 2 -
+
+25 LC 59 0034
+42 (5) 'Qualified fire rescue foundation' means any fire rescue foundation that has been
+43 designated as the sole local fire rescue foundation for a single local fire rescue unit and
+44 has been certified and listed by the commissioner pursuant to subsection (d) of this Code
+45 section.
+46 (b)(1) The aggregate amount of tax credits allowed under this Code section shall not
+47 exceed $75 million per calendar year. Each qualified fire rescue foundation shall be
+48 limited to accepting $3 million per year of contributions made under this Code section.
+49 (2) Subject to the aggregate limit provided in paragraph (1) of this subsection, each
+50 taxpayer shall be allowed a credit against the tax imposed by this chapter for qualified
+51 contributions made by the taxpayer as follows:
+52 (A) In the case of a single individual or a head of household, the actual amount of
+53 qualified contributions made or $5,000.00 per tax year, whichever is less;
+54 (B) In the case of a married couple filing a joint return, the actual amount of qualified
+55 contributions made or $10,000.00 per tax year, whichever is less;
+56 (C) Anything to the contrary contained in subparagraph (A) or (B) of this paragraph
+57 notwithstanding, in the case of an individual taxpayer who is a member of a limited
+58 liability company duly formed under state law, a shareholder of a Subchapter 'S'
+59 corporation, or a partner in a partnership, the actual amount of qualified contributions
+60 it made or $10,000.00 per tax year, whichever is less; provided, however, that tax
+61 credits pursuant to this paragraph shall only be allowed for the portion of the income
+62 on which such tax was actually paid by such member of the limited liability company,
+63 shareholder of a Subchapter 'S' corporation, or partner in a partnership; or
+64 (D) A corporation or other entity not provided for in subparagraphs (A) through (C)
+65 of this paragraph shall be allowed a credit against the tax imposed by this chapter, for
+66 qualified contributions in an amount not to exceed the actual amount of qualified
+67 contributions made or 75 percent of such corporation's or other entity's income tax
+68 liability, whichever is less.
+H. B. 597
+- 3 -
+
+25 LC 59 0034
+69 (3) Nothing in this Code section shall be construed to limit the ability of a local fire
+70 rescue unit to receive gifts, grants, and other benefits from any source allowed by law;
+71 provided, however, that no local fire rescue unit shall, under this Code section, accept or
+72 receive more than $3 million in contributions in any calendar year.
+73 (c) The commissioner shall establish a web page on the department's public website for
+74 the purpose of implementing this Code section. Such web page shall contain, at a
+75 minimum:
+76 (1) The application and requirements to be certified as a qualified fire rescue foundation;
+77 (2) The current list of all qualified fire rescue foundations and their affiliate fire rescue
+78 units;
+79 (3) The total amount of tax credits remaining and available for preapproval for each year;
+80 (4) A web based method for taxpayers seeking the preapproval status for contributions;
+81 and
+82 (5) The information received by the department from each qualified fire rescue
+83 foundation pursuant to paragraph (1) of subsection (g), except for division (g)(1)(B)(iv)
+84 of this Code section.
+85 (d) Any qualified fire rescue foundation shall be certified by the commissioner following
+86 the commissioner's receipt of a properly completed application and after the commissioner
+87 has confirmed that a single local fire rescue unit has validly designated the applicant as its
+88 sole fire rescue foundation. Such application shall be prescribed by the commissioner and
+89 shall include an agreement by the applicant to fully comply with the terms and conditions
+90 of this Code section.
+91 (e)(1) Prior to making a contribution to any qualified fire rescue foundation, the taxpayer
+92 shall electronically notify the department, in a manner specified by the commissioner, of
+93 the total amount of contribution that such taxpayer intends to make to such qualified fire
+94 rescue foundation.
+H. B. 597
+- 4 -
+
+25 LC 59 0034
+95 (2) Within 30 days after receiving a request for preapproval of contributions, the
+96 commissioner shall preapprove, deny, or prorate requested amounts on a first come, first
+97 served basis and shall provide notice to such taxpayer and the qualified fire rescue
+98 foundation of such preapproval, denial, or proration. Such notices shall not require any
+99 signed release or notarized approval by the taxpayer. The preapproval of contributions
+100 by the commissioner shall be based solely on the availability of tax credits subject to the
+101 limits established under paragraph (1) of subsection (b) of this Code section.
+102 (3) Within 60 days after receiving the preapproval notice issued by the commissioner
+103 pursuant to paragraph (2) of this subsection, the taxpayer shall contribute the preapproved
+104 amount to the qualified fire rescue foundation or such preapproved contribution amount
+105 shall expire. The commissioner shall not include such expired amounts in determining
+106 the remaining amount available under the aggregate limit for the respective calendar year.
+107 (f)(1) Each qualified fire rescue foundation shall issue to each contributor a letter of
+108 confirmation of contribution, which shall include the taxpayer's name, address, tax
+109 identification number, the amount of the qualified contribution, the date of the qualified
+110 contribution, and the total amount of the credit allowed to the taxpayer.
+111 (2) In order for a taxpayer to claim the tax credit allowed under this Code section, all
+112 such applicable letters as provided for in paragraph (1) of this subsection shall be attached
+113 to the taxpayer's tax return. When the taxpayer files an electronic return such
+114 confirmation shall only be required to be electronically attached to the return if the
+115 Internal Revenue Service allows such attachments to be affixed and transmitted to the
+116 department. In any such event, the taxpayer shall maintain such confirmation and such
+117 confirmation shall only be made available to the commissioner upon request.
+118 (3) The commissioner shall allow tax credits for any preapproved contributions made to
+119 a local fire rescue foundation at the time the contributions were made if such foundation
+120 was a qualified fire rescue foundation at the time of the commissioner's preapproval of
+121 the contributions and the taxpayer has otherwise complied with this Code section.
+H. B. 597
+- 5 -
+
+25 LC 59 0034
+122 (g)(1) Each qualified fire rescue foundation shall annually submit to the department:
+123 (A) A complete copy of its IRS Form 990 and other applicable attachments, or for any
+124 qualified fire rescue foundation that is not required by federal law to file an IRS
+125 Form 990, such foundation shall submit to the commissioner equivalent information on
+126 a form prescribed by the commissioner; and
+127 (B) A report detailing the contributions received during the calendar year pursuant to
+128 this Code section on a date determined by, and on a form provided by, the
+129 commissioner which shall include:
+130 (i) The total number and dollar value of individual contributions and tax credits
+131 approved. Individual contributions shall include contributions made by those filing
+132 income tax returns as a single individual or head of household and those filing joint
+133 returns;
+134 (ii) The total number and dollar value of corporate contributions and tax credits
+135 approved;
+136 (iii) The total number and dollar value of all qualified expenditures made; and
+137 (iv) A list of contributors, including the dollar value of each contribution and the
+138 dollar value of each approved tax credit.
+139 (2) Except for the information published in accordance with paragraph (c) or (h) of this
+140 Code section, all information or reports relative to this Code section that were provided
+141 by qualified fire rescue foundations to the department shall be confidential taxpayer
+142 information, governed by Code Sections 48-2-15, 48-7-60, and 48-7-61, whether such
+143 information relates to the contributor or the qualified fire rescue foundation.
+144 (h) Each qualified fire rescue foundation shall publish on its public website a copy of its
+145 affiliated local fire rescue unit's prior year's annual budget containing the total amount of
+146 funds received from its local governing body. If a qualified fire rescue foundation does not
+147 maintain a public website, such information shall be otherwise made available by the
+148 qualified fire rescue foundation to the public upon request.
+H. B. 597
+- 6 -
+
+25 LC 59 0034
+149 (i)(1) A taxpayer shall not be allowed to designate or direct the taxpayer's qualified
+150 contributions to any particular purpose or for the direct benefit of any particular
+151 individual.
+152 (2) A taxpayer that operates, owns, is affiliated with, or is a subsidiary of an association,
+153 organization, or other entity that contracts directly with a qualified fire rescue foundation
+154 or the local fire rescue unit that is affiliated with a qualified fire rescue foundation shall
+155 not be eligible for tax credits allowed under this Code section for contributions made to
+156 such qualified fire rescue foundation.
+157 (3) In soliciting contributions, no person shall represent or direct that, in exchange for
+158 making qualified contributions to any qualified fire rescue foundation, a taxpayer shall
+159 receive any direct or particular benefit. The status as a qualified fire rescue foundation
+160 shall be revoked for any fire rescue foundation determined to be in violation of this
+161 paragraph and shall not be renewed for at least two years.
+162 (j)(1) Qualified contributions shall only be used for qualified expenditures. Each
+163 qualified fire rescue foundation shall maintain accurate and current records of all
+164 expenditures of qualified contributions and provide such records to the commissioner
+165 upon his or her request.
+166 (2) A qualified fire rescue foundation that fails to comply with any of the requirements
+167 under this Code section shall be given written notice by the department of such failure
+168 to comply by certified mail and shall have 90 days from the receipt of such notice to
+169 correct all deficiencies.
+170 (3) Upon failure to correct all deficiencies within 90 days, the department shall revoke
+171 the fire rescue foundation's status as a qualified fire rescue foundation and such entity
+172 shall be immediately removed from the department's list of qualified fire rescue
+173 foundations. All applications for preapproval of tax credits for contributions to such fire
+174 rescue foundation under this Code section made on or after the date of such removal shall
+175 be rejected.
+H. B. 597
+- 7 -
+
+25 LC 59 0034
+176 (4) Each fire rescue foundation that has had its status revoked and has been delisted
+177 pursuant to this Code section, shall immediately cease all expenditures of funds received
+178 relative to this Code section, and shall transfer all of such funds that are not yet expended,
+179 to a properly operating qualified fire rescue foundation within 30 calendar days of its
+180 removal from the department's list of qualified fire rescue foundations.
+181 (k)(1) No credit shall be allowed under this Code section to a taxpayer for any amount
+182 of qualified contributions that were utilized as deductions or exemptions from taxable
+183 income.
+184 (2) In no event shall the total amount of the tax credit under this Code section for a
+185 taxable year exceed the taxpayer's income tax liability. Any unused tax credit shall be
+186 allowed the taxpayer against the succeeding three years' tax liability. No such credit shall
+187 be allowed the taxpayer against prior years' tax liability.
+188 (l) The commissioner shall promulgate rules and regulations necessary to implement and
+189 administer the provisions of this Code section."
+190 SECTION 3.
+191 This Act shall become effective on July 1, 2025, and shall be applicable to all taxable years
+192 beginning on or after January 1, 2026.
+193 SECTION 4.
+194 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 597
+- 8 -
+
+[DELETED: 5L5,0,3hthr4,6ht]
+[DELETED: 5L s l f r u a w m n s u 5 o t I R C a t e s u C  ' f r u m a a o o d o a c  ' e m e m b a q f r b t l f r u a w s q f r]
+[DELETED: 5L c d f u s l a s o a S ']
+[DELETED: 5L p o i t C s  S w p s c a   T i r b t d f e q f r]
+[DELETED: 5L  W 3 d a r a r f p o c t o c w s i t t n a t t t t r  W t t f a e r s]
+[DELETED: 5L C s o a d d b a o a f p b t]
+[DELETED: 5L t a p p o f t d b o a p  Q c s o b u f q e  E f r f s m a a c r o a b i r f t d l o q f r]
+[DELETED: 5L]

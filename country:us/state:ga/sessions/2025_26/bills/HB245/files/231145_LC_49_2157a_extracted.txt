@@ -1,0 +1,120 @@
+Title: House Bill 245
+Official Title: House Bill 245
+Number of Sections: 1
+Source: versions - LC 49 2157/a
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 49 2157
+By: Representatives Olaleye of the 59th, Smith of the 18th, Glaize of the 67th, Howard of the
+129th, Greene of the 154th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated,
+2 relating to the "Quality Basic Education Act," so as to add a program for students living in
+3 poverty to the table of quality basic education instructional programs with weights and
+4 student-teacher ratios; to provide for definitions; to provide for a short title; to provide for
+5 related matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 This Act shall be known and may be cited as the "Georgia Educational Opportunity Act."
+9 SECTION 2.
+10 Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to the
+11 "Quality Basic Education Act," is amended by revising Code Section 20-2-130, relating to
+12 short title, as follows:
+13 "20-2-130.
+14 (a) This article shall be known and may be cited as the 'Quality Basic Education Act.'
+15 (b) As used in this article:
+H. B. 245
+- 1 -
+25 LC 49 2157
+16 (1) 'Student in foster care' means a student enrolled in a public school who is placed in
+17 a foster family home, child care institution, or another substitute care setting approved
+18 by the Department of Human Services or Division of Family and Children Services.
+19 (2) 'Student living in poverty' means a student enrolled in a public school who meets one
+20 or more of the following criteria:
+21 (A) Lives in a family unit directly certified to be receiving Supplemental Nutrition
+22 Assistance Program (SNAP) benefits;
+23 (B) Lives in a family unit directly certified to be receiving Temporary Assistance for
+24 Needy Families (TANF) benefits;
+25 (C) Is a student in foster care; or
+26 (D) Is a student without stable housing.
+27 (3) 'Student without stable housing' means a student enrolled in a public school who
+28 meets the definition of the term 'homeless children and youths' under the federal
+29 McKinney-Vento Homeless Assistance Act, codified at 42 U.S.C. Section 11301, et seq.,
+30 in force and effect on January 1, 2025."
+31 SECTION 3.
+32 Said article is further amended by adding a new paragraph to subsection (b) of Code Section
+33 20-2-161, relating to quality basic education formula, to read as follows:
+34 "(19) Students living in poverty program . . . . . . . . . . . . . . . . . . . . . . . . . . 1.7500
+35 weight and
+36 1 to 15
+37 ratio"
+38 SECTION 4.
+39 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 245
+- 2 -
+[DELETED: 5L9,8,7,htht9,4,ht]
+[DELETED: 5L t d o t t ' c a y u t f .......................... w1r]
+
+
+================================================================================
+
+Raw Text:
+25 LC 49 2157
+House Bill 245
+By: Representatives Olaleye of the 59th, Smith of the 18th, Glaize of the 67th, Howard of the
+129th, Greene of the 154th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated,
+2 relating to the "Quality Basic Education Act," so as to add a program for students living in
+3 poverty to the table of quality basic education instructional programs with weights and
+4 student-teacher ratios; to provide for definitions; to provide for a short title; to provide for
+5 related matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 This Act shall be known and may be cited as the "Georgia Educational Opportunity Act."
+9 SECTION 2.
+10 Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to the
+11 "Quality Basic Education Act," is amended by revising Code Section 20-2-130, relating to
+12 short title, as follows:
+13 "20-2-130.
+14 (a) This article shall be known and may be cited as the 'Quality Basic Education Act.'
+15 (b) As used in this article:
+H. B. 245
+- 1 -
+
+25 LC 49 2157
+16 (1) 'Student in foster care' means a student enrolled in a public school who is placed in
+17 a foster family home, child care institution, or another substitute care setting approved
+18 by the Department of Human Services or Division of Family and Children Services.
+19 (2) 'Student living in poverty' means a student enrolled in a public school who meets one
+20 or more of the following criteria:
+21 (A) Lives in a family unit directly certified to be receiving Supplemental Nutrition
+22 Assistance Program (SNAP) benefits;
+23 (B) Lives in a family unit directly certified to be receiving Temporary Assistance for
+24 Needy Families (TANF) benefits;
+25 (C) Is a student in foster care; or
+26 (D) Is a student without stable housing.
+27 (3) 'Student without stable housing' means a student enrolled in a public school who
+28 meets the definition of the term 'homeless children and youths' under the federal
+29 McKinney-Vento Homeless Assistance Act, codified at 42 U.S.C. Section 11301, et seq.,
+30 in force and effect on January 1, 2025."
+31 SECTION 3.
+32 Said article is further amended by adding a new paragraph to subsection (b) of Code Section
+33 20-2-161, relating to quality basic education formula, to read as follows:
+34 "(19) Students living in poverty program . . . . . . . . . . . . . . . . . . . . . . . . . . 1.7500
+35 weight and
+36 1 to 15
+37 ratio"
+38 SECTION 4.
+39 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 245
+- 2 -
+
+[DELETED: 5L9,8,7,htht9,4,ht]
+[DELETED: 5L t d o t t ' c a y u t f .......................... w1r]

@@ -1,0 +1,16 @@
+Title: [PDF content from http://www.legis.ga.gov/Legislation/20252026/234240.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+Official Title: [PDF content from http://www.legis.ga.gov/Legislation/20252026/234240.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+Number of Sections: 1
+Source: versions - Fiscal Note
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+[PDF content from http://www.legis.ga.gov/Legislation/20252026/234240.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+
+
+================================================================================
+
+Raw Text:
+[PDF content from http://www.legis.ga.gov/Legislation/20252026/234240.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]

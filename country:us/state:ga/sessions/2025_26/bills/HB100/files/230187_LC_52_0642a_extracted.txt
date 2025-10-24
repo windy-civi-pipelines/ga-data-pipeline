@@ -1,0 +1,281 @@
+Title: House Bill 100
+Official Title: House Bill 100
+Number of Sections: 1
+Source: versions - LC 52 0642/a
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0642
+By: Representatives Douglas of the 78th, Hawkins of the 27th, Au of the 50th, Prince of the
+132nd, Bennett of the 94th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+2 insurance generally, so as to require all health insurers to pass along no less than 80 percent
+3 of all prescription drug rebates to enrollees that such insurer receives from third parties with
+4 regard to such enrollee's prescription drugs; to provide for definitions; to provide for related
+5 matters; to provide for a short title; to provide for legislative findings; to provide for an
+6 effective date and applicability; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "Prescription Drug Consumer Financial
+10 Protection Act."
+11 SECTION 2.
+12 The General Assembly finds:
+13 (1) The citizens of this state frequently rely on state-regulated commercial insurers to
+14 secure access to the prescription medicines needed to protect their health;
+H. B. 100
+- 1 -
+25 LC 52 0642
+15 (2) Commercial insurance plans increasingly require enrollees to bear significant
+16 out-of-pocket costs for their prescription medicines;
+17 (3) High out-of-pocket costs of prescription medicines impact the ability of enrollees to
+18 start new and necessary medicines and to stay adherent to their prescriptions;
+19 (4) High or unpredictable cost sharing requirements are a main driver of unaffordable
+20 enrollee out-of-pocket costs;
+21 (5) The burdens of high or unpredictable cost sharing requirements are borne
+22 disproportionately by enrollees with chronic or debilitating conditions;
+23 (6) Pharmaceutical manufacturers may offer sizeable rebates, discounts, and price
+24 concessions in connection with the dispensing or administration of a therapy, but
+25 enrollees do not necessarily financially benefit from these amounts at the point of sale,
+26 and, instead, insurers or other intermediaries may retain the value of rebates, discounts,
+27 and price concessions;
+28 (7) Restrictions are needed on the ability of insurers and their intermediaries to retain
+29 rebates, discounts, and price concessions that instead should be directly passed on to
+30 enrollees as cost savings;
+31 (8) Enrollees need equitable and accessible health coverage that does not impose unfair
+32 cost sharing burdens upon them; and
+33 (9) The legislature intends that enrollees receive the benefit of meaningful and durable
+34 cost savings from rebates and other price concessions that would otherwise accrue to
+35 insurers in connection with the dispensing or administration of a particular drug therapy.
+36 SECTION 3.
+37 Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to insurance
+38 generally, is amended by adding a new Code section to read as follows:
+39 "33-24-59.34.
+40 (a) As used in this Code section, the term:
+H. B. 100
+- 2 -
+25 LC 52 0642
+41 (1) 'Cost sharing requirement' means a deductible, coinsurance, copayment, or any other
+42 amount or limitation imposed on an enrollee for a covered prescription drug under the
+43 enrollee's health benefit plan.
+44 (2) 'Health benefit plan' means any hospital, health, or medical expense insurance policy;
+45 hospital or medical service contract; employee welfare benefit plan; contract or
+46 agreement with a health maintenance organization; subscriber contract or agreement;
+47 contract or agreement with a preferred provider organization; accident and sickness
+48 insurance benefit plan; state healthcare plan; or other insurance contract under any other
+49 name. Such term shall not include self-funded, employer sponsored health benefit plans
+50 subject to the exclusive jurisdiction of the Employee Retirement Income Security Act
+51 of 1974, 29 U.S.C. Section 1001, et seq.
+52 (3) 'Insurer' means an accident and sickness insurer, fraternal benefit society, hospital
+53 service corporation, medical service corporation, healthcare corporation, health
+54 maintenance organization, preferred provider organization, provider sponsored health
+55 care corporation, managed care entity, or any similar entity authorized to issue contracts
+56 under this title or to provide health benefit policies.
+57 (4) 'Price protection rebate' means a negotiated price concession that accrues directly or
+58 indirectly to the insurer, or other party on behalf of the insurer, in the event of an increase
+59 in the wholesale acquisition cost of a drug above a specified threshold.
+60 (5) 'Rebate' means:
+61 (A) Negotiated price concessions, including, but not limited to, base price concessions
+62 whether described as a rebate or otherwise and reasonable estimates of any price
+63 protection rebates and performance based price concessions that may accrue directly
+64 or indirectly to the insurer during the coverage year from a manufacturer, dispensing
+65 pharmacy, or other party in connection with the dispensing or administration of a
+66 prescription drug; and
+H. B. 100
+- 3 -
+25 LC 52 0642
+67 (B) Reasonable estimates of any negotiated price concessions, fees, and other
+68 administrative costs that are passed through, or are reasonably anticipated to be passed
+69 through, to the insurer and serve to reduce the insurer's costs for acquiring a
+70 prescription drug.
+71 (6) 'State healthcare plan' means:
+72 (A) The state employees' health insurance plan established pursuant to Article 1 of
+73 Chapter 18 of Title 45;
+74 (B) The health insurance plan for public school teachers established pursuant to
+75 Subpart 2 of Part 6 of Article 17 of Chapter 2 of Title 20;
+76 (C) The health insurance plan for public school employees established pursuant to
+77 Subpart 3 of Part 6 of Article 17 of Chapter 2 of Title 20; and
+78 (D) The Regents Health Plan established pursuant to authority granted to the board
+79 pursuant to Code Sections 20-3-31, 20-3-51, and 31-2-4.
+80 (b) An insurer shall calculate the cost sharing requirement of an enrollee for each
+81 prescription drug provided through a health benefit plan at the point of sale to the enrollee
+82 based on a price that is reduced by an amount equal to at least 80 percent of all rebates
+83 received or to be received by such insurer in connection with the dispensing or
+84 administration of the prescription drug and shall describe such calculation in such plans.
+85 (c) Noncompliance with this Code section by an insurer may result in the imposition of
+86 penalties set forth in Code Section 33-2-24 or other state laws, including the imposition of
+87 civil penalties and the suspension or revocation of an insurer's license.
+88 (d) Nothing in this Code section shall preclude an insurer from decreasing an enrollee's
+89 cost sharing requirement.
+90 (e) Except as described in subsection (f) of this Code section, neither an insurer nor its
+91 agents shall publish or otherwise disclose information regarding the actual amount of
+92 rebates that an insurer receives on a product, manufacturer, or pharmacy-specific basis.
+93 Such information qualifies as a trade secret pursuant to Code Section 10-1-761 and shall
+H. B. 100
+- 4 -
+25 LC 52 0642
+94 not be a public record for purposes of Article 4 of Chapter 18 of Title 50 and shall not be
+95 disclosed directly or indirectly to any nongovernmental party.
+96 (f) Notwithstanding subsection (e) of this Code section, an insurer may disclose the
+97 information described therein in accord with a department request, an appropriate court
+98 order, or to a third party that needs such information to perform healthcare or
+99 administrative services for such insurer. Any nongovernmental party receiving such
+100 information shall maintain the confidentiality of such information in accord with this Code
+101 section and other applicable law."
+102 SECTION 4.
+103 This Act shall become effective on January 1, 2026, and shall apply to all policies issued,
+104 delivered, issued for delivery, or renewed in this state on or after such date.
+105 SECTION 5.
+106 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 100
+- 5 -
+[DELETED: 5L8,7,0,htht2,4,dt]
+[DELETED: 5L  C i p i r e t b s  T b o h o u c s r a b  P m m o s r d a p i c w t d o a o a t b]
+[DELETED: 5L o m s c e w b p c o c m s c h c h]
+[DELETED: 5L  R e o a n p c f a o t t i a s t r t i c f a   T h i p f p s t e p t  A i s c t c s r o a e f e o t b r b s i i c w t d o]
+[DELETED: 5L o t a t p t n s i t p h o s f s i  A n p r s]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0642
+House Bill 100
+By: Representatives Douglas of the 78th, Hawkins of the 27th, Au of the 50th, Prince of the
+132nd, Bennett of the 94th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+2 insurance generally, so as to require all health insurers to pass along no less than 80 percent
+3 of all prescription drug rebates to enrollees that such insurer receives from third parties with
+4 regard to such enrollee's prescription drugs; to provide for definitions; to provide for related
+5 matters; to provide for a short title; to provide for legislative findings; to provide for an
+6 effective date and applicability; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "Prescription Drug Consumer Financial
+10 Protection Act."
+11 SECTION 2.
+12 The General Assembly finds:
+13 (1) The citizens of this state frequently rely on state-regulated commercial insurers to
+14 secure access to the prescription medicines needed to protect their health;
+H. B. 100
+- 1 -
+
+25 LC 52 0642
+15 (2) Commercial insurance plans increasingly require enrollees to bear significant
+16 out-of-pocket costs for their prescription medicines;
+17 (3) High out-of-pocket costs of prescription medicines impact the ability of enrollees to
+18 start new and necessary medicines and to stay adherent to their prescriptions;
+19 (4) High or unpredictable cost sharing requirements are a main driver of unaffordable
+20 enrollee out-of-pocket costs;
+21 (5) The burdens of high or unpredictable cost sharing requirements are borne
+22 disproportionately by enrollees with chronic or debilitating conditions;
+23 (6) Pharmaceutical manufacturers may offer sizeable rebates, discounts, and price
+24 concessions in connection with the dispensing or administration of a therapy, but
+25 enrollees do not necessarily financially benefit from these amounts at the point of sale,
+26 and, instead, insurers or other intermediaries may retain the value of rebates, discounts,
+27 and price concessions;
+28 (7) Restrictions are needed on the ability of insurers and their intermediaries to retain
+29 rebates, discounts, and price concessions that instead should be directly passed on to
+30 enrollees as cost savings;
+31 (8) Enrollees need equitable and accessible health coverage that does not impose unfair
+32 cost sharing burdens upon them; and
+33 (9) The legislature intends that enrollees receive the benefit of meaningful and durable
+34 cost savings from rebates and other price concessions that would otherwise accrue to
+35 insurers in connection with the dispensing or administration of a particular drug therapy.
+36 SECTION 3.
+37 Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to insurance
+38 generally, is amended by adding a new Code section to read as follows:
+39 "33-24-59.34.
+40 (a) As used in this Code section, the term:
+H. B. 100
+- 2 -
+
+25 LC 52 0642
+41 (1) 'Cost sharing requirement' means a deductible, coinsurance, copayment, or any other
+42 amount or limitation imposed on an enrollee for a covered prescription drug under the
+43 enrollee's health benefit plan.
+44 (2) 'Health benefit plan' means any hospital, health, or medical expense insurance policy;
+45 hospital or medical service contract; employee welfare benefit plan; contract or
+46 agreement with a health maintenance organization; subscriber contract or agreement;
+47 contract or agreement with a preferred provider organization; accident and sickness
+48 insurance benefit plan; state healthcare plan; or other insurance contract under any other
+49 name. Such term shall not include self-funded, employer sponsored health benefit plans
+50 subject to the exclusive jurisdiction of the Employee Retirement Income Security Act
+51 of 1974, 29 U.S.C. Section 1001, et seq.
+52 (3) 'Insurer' means an accident and sickness insurer, fraternal benefit society, hospital
+53 service corporation, medical service corporation, healthcare corporation, health
+54 maintenance organization, preferred provider organization, provider sponsored health
+55 care corporation, managed care entity, or any similar entity authorized to issue contracts
+56 under this title or to provide health benefit policies.
+57 (4) 'Price protection rebate' means a negotiated price concession that accrues directly or
+58 indirectly to the insurer, or other party on behalf of the insurer, in the event of an increase
+59 in the wholesale acquisition cost of a drug above a specified threshold.
+60 (5) 'Rebate' means:
+61 (A) Negotiated price concessions, including, but not limited to, base price concessions
+62 whether described as a rebate or otherwise and reasonable estimates of any price
+63 protection rebates and performance based price concessions that may accrue directly
+64 or indirectly to the insurer during the coverage year from a manufacturer, dispensing
+65 pharmacy, or other party in connection with the dispensing or administration of a
+66 prescription drug; and
+H. B. 100
+- 3 -
+
+25 LC 52 0642
+67 (B) Reasonable estimates of any negotiated price concessions, fees, and other
+68 administrative costs that are passed through, or are reasonably anticipated to be passed
+69 through, to the insurer and serve to reduce the insurer's costs for acquiring a
+70 prescription drug.
+71 (6) 'State healthcare plan' means:
+72 (A) The state employees' health insurance plan established pursuant to Article 1 of
+73 Chapter 18 of Title 45;
+74 (B) The health insurance plan for public school teachers established pursuant to
+75 Subpart 2 of Part 6 of Article 17 of Chapter 2 of Title 20;
+76 (C) The health insurance plan for public school employees established pursuant to
+77 Subpart 3 of Part 6 of Article 17 of Chapter 2 of Title 20; and
+78 (D) The Regents Health Plan established pursuant to authority granted to the board
+79 pursuant to Code Sections 20-3-31, 20-3-51, and 31-2-4.
+80 (b) An insurer shall calculate the cost sharing requirement of an enrollee for each
+81 prescription drug provided through a health benefit plan at the point of sale to the enrollee
+82 based on a price that is reduced by an amount equal to at least 80 percent of all rebates
+83 received or to be received by such insurer in connection with the dispensing or
+84 administration of the prescription drug and shall describe such calculation in such plans.
+85 (c) Noncompliance with this Code section by an insurer may result in the imposition of
+86 penalties set forth in Code Section 33-2-24 or other state laws, including the imposition of
+87 civil penalties and the suspension or revocation of an insurer's license.
+88 (d) Nothing in this Code section shall preclude an insurer from decreasing an enrollee's
+89 cost sharing requirement.
+90 (e) Except as described in subsection (f) of this Code section, neither an insurer nor its
+91 agents shall publish or otherwise disclose information regarding the actual amount of
+92 rebates that an insurer receives on a product, manufacturer, or pharmacy-specific basis.
+93 Such information qualifies as a trade secret pursuant to Code Section 10-1-761 and shall
+H. B. 100
+- 4 -
+
+25 LC 52 0642
+94 not be a public record for purposes of Article 4 of Chapter 18 of Title 50 and shall not be
+95 disclosed directly or indirectly to any nongovernmental party.
+96 (f) Notwithstanding subsection (e) of this Code section, an insurer may disclose the
+97 information described therein in accord with a department request, an appropriate court
+98 order, or to a third party that needs such information to perform healthcare or
+99 administrative services for such insurer. Any nongovernmental party receiving such
+100 information shall maintain the confidentiality of such information in accord with this Code
+101 section and other applicable law."
+102 SECTION 4.
+103 This Act shall become effective on January 1, 2026, and shall apply to all policies issued,
+104 delivered, issued for delivery, or renewed in this state on or after such date.
+105 SECTION 5.
+106 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 100
+- 5 -
+
+[DELETED: 5L8,7,0,htht2,4,dt]
+[DELETED: 5L  C i p i r e t b s  T b o h o u c s r a b  P m m o s r d a p i c w t d o a o a t b]
+[DELETED: 5L o m s c e w b p c o c m s c h c h]
+[DELETED: 5L  R e o a n p c f a o t t i a s t r t i c f a   T h i p f p s t e p t  A i s c t c s r o a e f e o t b r b s i i c w t d o]
+[DELETED: 5L o t a t p t n s i t p h o s f s i  A n p r s]

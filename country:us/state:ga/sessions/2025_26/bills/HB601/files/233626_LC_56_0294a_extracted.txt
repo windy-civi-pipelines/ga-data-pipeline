@@ -1,0 +1,1831 @@
+Title: House Bill 601
+Official Title: House Bill 601
+Number of Sections: 1
+Source: versions - LC 56 0294/a
+Media Type: application/pdf
+Strikethrough Detection: 31 sections found
+
+================================================================================
+
+Section 1:
+25 LC 56 0294
+By: Representatives Jackson of the 68th, Au of the 50th, Mitchell of the 88th, Draper of the
+90th, and Sanchez of the 42nd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 4 of Chapter 11 of Title 16, Chapter 8 of Title 35, and Article 2 of Chapter
+2 3 of Title 38 of the Official Code of Georgia Annotated, relating to dangerous
+3 instrumentalities and practices, the employment and training of peace officers, and
+4 organization and administration relative to emergency management, respectively, so as to
+5 broadly increase the regulation surrounding gun sales and ownership; to provide for the
+6 offense of selling or furnishing handguns or long guns to minors; to prohibit parents or legal
+7 guardians from permitting the possession of handguns or long guns by a minor in certain
+8 circumstances; to provide for exceptions; to provide for the offense of the possession of a
+9 large capacity magazine or a firearm produced by means of 3D printing; to provide for
+10 circumstances under which individuals who are not licensed to carry a weapon may transport
+11 such weapon; to provide a time frame for new residents of the state to obtain a weapons carry
+12 license; to provide for school safety zones to extend 500 yards from school premises; to
+13 require weapons carry licenses to be renewed each year; to reduce the fee for weapons carry
+14 licenses; to provide for certain conditions to obtain or renew a weapons carry license,
+15 including for active service members; to prohibit anyone under the age of 16 years from
+16 possessing or controlling a handgun or long gun; to provide for anyone under the age of 18
+17 years from possessing or controlling a handgun or long gun without parental or guardian
+18 supervision or in certain circumstances; to require individuals who are carrying a weapon to
+H. B. 601
+- 1 -
+25 LC 56 0294
+19 have a weapons carry license on their person; to provide for the establishment of the Georgia
+20 Firearms Registry; to require the registration of all firearms sales and transfers in this state
+21 after a certain date; to require certain information to be entered into the Georgia Firearms
+22 Registry; to provide for requirements for safe storage of a firearm in a vehicle; to provide for
+23 requirements for safe storage of firearms when the owner is not present on the premises; to
+24 provide for exceptions; to provide for safe storage of firearms when access by a child is
+25 reasonably likely; to require ammunition be stored separately from firearms; to subject all
+26 transfers or purchases of firearms at gun shows to the National Instant Criminal Background
+27 Check System; to provide for facilitation by licensed dealers; to prohibit sales of firearms to
+28 individuals under the age of 21; to require a five-day waiting period to complete transactions
+29 for firearms to individuals under the age of 27; to prohibit the sale or transfer by certain
+30 dealers of assault weapons in this state until a certain date; to prohibit the certification or
+31 hiring of any individual as a peace officer who has been terminated for misconduct related
+32 to any previous employment as a peace officer; to provide for exceptions; to provide for
+33 violations, penalties, and fines; to provide for definitions; to provide for conforming changes;
+34 to provide for related matters; to provide for a short title; to repeal conflicting laws; and for
+35 other purposes.
+36 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+37 SECTION 1.
+38 This Act shall be known and may be cited as the "Georgia Gun Safe Act of 2025."
+39 SECTION 2.
+40 Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to
+41 dangerous instrumentalities and practices, is amended in Part 1, relating to general
+H. B. 601
+- 2 -
+25 LC 56 0294
+42 provisions, by revising Code Section 16-11-101.1, relating to furnishing pistol or revolver
+43 to person under the age of 18 years, as follows:
+44 "16-11-101.1.
+45 (a) For the purposes of As used in this Code section, the term:
+46 (1) 'Handgun' shall have the same meaning as set forth in Code Section 16-11-125.1.
+47 (2) 'Long gun' shall have the same meaning as set forth in Code Section 16-11-125.1.
+48 (3) 'Minor' means any person under the age of 18 years.
+49 (2) 'Pistol or revolver' means a handgun as defined in Code Section 16-11-125.1.
+50 (b) It shall be unlawful for a person to intentionally, knowingly, or recklessly to sell or
+51 furnish a pistol or revolver handgun or long gun to a minor, except that it shall be lawful
+52 for a parent or legal guardian to permit possession of a pistol or revolver handgun or long
+53 gun by a minor for the purposes specified in subsection (c) (d) of Code Section 16-11-132
+54 unless otherwise expressly limited by subsection (c) of this Code section.
+55 (c)(1) It shall be unlawful for a parent or legal guardian to permit possession of a pistol
+56 or revolver handgun or long gun by a minor if the parent or legal guardian knows of a
+57 minor's conduct which violates the provisions of Code Section 16-11-132 and fails to
+58 make reasonable efforts to prevent any such violation of Code Section 16-11-132.
+59 (2) Notwithstanding any provisions of subsection (c) (d) of Code Section 16-11-132 or
+60 any other law to the contrary, it shall be unlawful for any parent or legal guardian to
+61 intentionally, knowingly, or recklessly to furnish to or permit a minor to possess a pistol
+62 or revolver handgun or long gun if such parent or legal guardian is aware of a substantial
+63 risk that such minor will use a pistol or revolver to commit a felony offense or if such
+64 parent or legal guardian who is aware of such substantial risk fails to make reasonable
+65 efforts to prevent commission of the offense by the minor.
+66 (3) In addition to any other act which violates this subsection, a parent or legal guardian
+67 shall be deemed to have violated this subsection if such parent or legal guardian furnishes
+68 to or permits possession of a pistol or revolver handgun or long gun by any minor who
+H. B. 601
+- 3 -
+25 LC 56 0294
+69 has been convicted of a forcible felony or forcible misdemeanor, as defined in Code
+70 Section 16-1-3, or who has been adjudicated for committing a delinquent act under the
+71 provisions of Article 6 of Chapter 11 of Title 15 for an offense which would constitute
+72 a forcible felony or forcible misdemeanor, as defined in Code Section 16-1-3, if such
+73 minor were an adult.
+74 (d) Upon conviction of a violation of subsection (b) or (c) of this Code section, a person
+75 shall be guilty of a felony and punished by a fine not to exceed $5,000.00 or by
+76 imprisonment for not less than three nor more than five years, or both."
+77 SECTION 3.
+78 Said article is further amended in said part by adding a new Code section to read as follows:
+79 "16-11-114.
+80 (a) As used in this Code section, the term '3D printed firearm' means any weapon produced
+81 by means of three-dimensional printing from computer-aided design files which is designed
+82 or intended to propel a missile of any kind and which is not produced subject to a license
+83 from the Bureau of Alcohol, Tobacco, Firearms and Explosives of the United States
+84 Department of Justice for the manufacture of firearms.
+85 (b) It shall be unlawful to print or to produce a 3D printed firearm in this state.
+86 (c) Any person that violates this Code section shall commit the offense of possessing a 3D
+87 printed firearm and upon conviction thereof, shall be punished by imprisonment for a
+88 period of five years."
+89 SECTION 4.
+90 Said article is further amended by revising Part 2, relating to possession of dangerous
+91 weapons, as follows:
+H. B. 601
+- 4 -
+25 LC 56 0294
+92 "Part 2
+93 16-11-120.
+94 This part shall be known and may be cited as the 'Georgia Firearms and Weapons Act.'
+95 16-11-121.
+96 As used in this part, the term:
+97 (1) '3D printed firearm' means any weapon produced by means of three-dimensional
+98 printing from computer-aided design files which is designed or intended to propel a
+99 missile of any kind and which is not produced subject to a license from the Bureau of
+100 Alcohol, Tobacco, Firearms and Explosives of the United States Department of Justice
+101 for the manufacture of firearms.
+102 (2) 'Dangerous weapon' means any weapon commonly known as a 'rocket launcher,'
+103 'bazooka,' or 'recoilless rifle' rocket launcher, bazooka, or recoilless rifle which fires
+104 explosive or nonexplosive rockets designed to injure or kill personnel or destroy heavy
+105 armor, or similar weapon used for such purpose. The Such term shall also mean a
+106 weapon commonly known as a 'mortar' mortar which fires high explosive from a metallic
+107 cylinder and which is commonly used by the armed forces as an antipersonnel weapon
+108 or similar weapon used for such purpose. The Such term shall also mean a weapon
+109 commonly known as a 'hand grenade' hand grenade or other similar weapon which is
+110 designed to explode and injure personnel or similar weapon used for such purpose.
+111 (3) 'Large capacity magazine' means any ammunition feeding device with the capacity
+112 to accept more than sixteen rounds of ammunition; provided, however, that such term
+113 shall not include:
+114 (A) A feeding device that has been permanently altered so that it cannot accommodate
+115 more than ten rounds; or
+116 (B) A tubular magazine that is contained in a lever-action firearm.
+H. B. 601
+- 5 -
+25 LC 56 0294
+117 (2)(4) 'Machine gun' means any weapon which shoots or is designed to shoot,
+118 automatically, more than six shots, without manual reloading, by a single function of the
+119 trigger.
+120 (3)(5) 'Person' means any individual, partnership, company, association, or corporation.
+121 (4)(6) 'Sawed-off rifle' means a weapon designed or redesigned, made or remade, and
+122 intended to be fired from the shoulder; and designed or redesigned, made or remade, to
+123 use the energy of the explosive in a fixed metallic cartridge to fire only a single projectile
+124 through a rifle bore for each single pull of the trigger; and which has a barrel or barrels
+125 of less than 16 inches in length or has an overall length of less than 26 inches.
+126 (5)(7) 'Sawed-off shotgun' means a shotgun or any weapon made from a shotgun whether
+127 by alteration, modification, or otherwise having one or more barrels less than 18 inches
+128 in length or if such weapon as modified has an overall length of less than 26 inches.
+129 (6)(8) 'Shotgun' means a weapon designed or redesigned, made or remade, and intended
+130 to be fired from the shoulder; and designed or redesigned, and made or remade, to use the
+131 energy of the explosive in a fixed shotgun shell to fire through a smooth bore either a
+132 number of ball shot or a single projectile for each single pull of the trigger.
+133 (7)(9) 'Silencer' means any device for silencing or diminishing the report of any portable
+134 weapon such as a rifle, carbine, pistol, revolver, machine gun, shotgun, fowling piece, or
+135 other device from which a shot, bullet, or projectile may be discharged by an explosive.
+136 16-11-122.
+137 No person shall have in his or her possession any 3D printed firearm, sawed-off shotgun,
+138 sawed-off rifle, machine gun, large capacity magazine, dangerous weapon, or silencer
+139 except as provided in Code Section 16-11-124.
+H. B. 601
+- 6 -
+25 LC 56 0294
+140 16-11-123.
+141 A person commits the offense of unlawful possession of firearms or weapons when he or
+142 she knowingly has in his or her possession any 3D printed firearm, sawed-off shotgun,
+143 sawed-off rifle, machine gun, large capacity magazine, dangerous weapon, or silencer, and,
+144 upon conviction thereof, he or she shall be punished by imprisonment for a period of five
+145 years.
+146 16-11-124.
+147 This part shall not apply to:
+148 (1) A peace officer of any duly authorized police agency of this state or of any political
+149 subdivision thereof, or a law enforcement officer of any department or agency of the
+150 United States who is regularly employed and paid by the United States, this state, or any
+151 such political subdivision, or an employee of the Department of Corrections of this state
+152 who is authorized in writing by the commissioner of corrections to transfer or possess
+153 such firearms while in the official performance of his or her duties;
+154 (2) A member of the National Guard or of the armed forces of the United States,
+155 including to wit: the army, navy, marine corps, air force, space force, or coast guard who,
+156 while serving therein, possesses such firearm in the line of duty;
+157 (3) Any 3D printed firearm, sawed-off shotgun, sawed-off rifle, machine gun, large
+158 capacity magazine, dangerous weapon, or silencer which has been modified or changed
+159 to the extent that it is inoperative. Examples of the requisite modification include
+160 weapons with their barrel or barrels filled with lead, hand grenades filled with sand, or
+161 other nonexplosive materials;
+162 (4) Possession of a sawed-off shotgun, sawed-off rifle, machine gun, dangerous weapon,
+163 or silencer by a person who is authorized to possess the same because he or she has
+164 registered the 3D printed firearm, sawed-off shotgun, sawed-off rifle, machine gun, large
+H. B. 601
+- 7 -
+25 LC 56 0294
+165 capacity magazine, dangerous weapon, or silencer in accordance with the dictates of the
+166 National Firearms Act, 68A Stat. 725 (26 U.S.C. Sections 5841-5862); and
+167 (5) A security officer employed by a federally licensed nuclear power facility or a
+168 licensee of such facility, including a contract security officer, who is trained and qualified
+169 under a security plan approved by the United States Nuclear Regulatory Commission or
+170 other federal agency authorized to regulate nuclear facility security; provided, however,
+171 that this exemption shall apply only while such security officer is acting in connection
+172 with his or her official duties on the premises of such nuclear power facility or on
+173 properties outside the facility property pursuant to a written agreement entered into with
+174 the local law enforcement agency having jurisdiction over the facility. The exemption
+175 under this paragraph does not include the possession of silencers.
+176 16-11-125.
+177 In any complaint, accusation, or indictment and in any action or proceeding brought for the
+178 enforcement of this part it shall not be necessary to negative any exception, excuse,
+179 proviso, or exemption contained in this part, and the burden of proof of any such exception,
+180 excuse, proviso, or exemption shall be upon the defendant."
+181 SECTION 5.
+182 Said article is further amended in Part 3, relating to carrying and possession of firearms, by
+183 revising Code Section 16-11-125.1, relating to definitions, as follows:
+184 "16-11-125.1.
+185 As used in this part, the term:
+186 (1) 'Handgun' means a firearm of any description, loaded or unloaded, from which any
+187 shot, bullet, or other missile can be discharged by an action of an explosive where the
+188 length of the barrel, not including any revolving, detachable, or magazine breech, does
+H. B. 601
+- 8 -
+25 LC 56 0294
+189 not exceed 12 inches; provided, however, that the term 'handgun' such term shall not
+190 include a gun which discharges a single shot of 0.46 centimeter or less in diameter.
+191 (2) 'Knife' means a cutting instrument designed for the purpose of offense and defense
+192 consisting of a blade that is greater than 12 inches in length which is fastened to a handle.
+193 (2.1) 'Lawful weapons carrier' means any person who is licensed or eligible for a license
+194 pursuant to Code Section 16-11-129 and who is not otherwise prohibited by law from
+195 possessing a weapon or long gun, any resident of any other state who would otherwise
+196 be eligible to obtain a license pursuant to such Code section but for the residency
+197 requirement, and any person licensed to carry a weapon in any other state.
+198 (3) 'License holder' means a person who holds a valid weapons carry license.
+199 (4) 'Long gun' means a firearm with a barrel length of at least 18 inches and overall
+200 length of at least 26 inches designed or made and intended to be fired from the shoulder
+201 and designed or made to use the energy of the explosive in a fixed:
+202 (A) Shotgun shell to fire through a smooth bore either a number of ball shot or a single
+203 projectile for each single pull of the trigger or from which any shot, bullet, or other
+204 missile can be discharged; or
+205 (B) Metallic cartridge to fire only a single projectile through a rifle bore for each single
+206 pull of the trigger;
+207 provided, however, that the term 'long gun' such term shall not include a gun which
+208 discharges a single shot of 0.46 centimeter or less in diameter.
+209 (5) 'Weapon' means a knife or handgun.
+210 (6) 'Weapons carry license' or 'license' means a license issued pursuant to Code Section
+211 16-11-129."
+212 SECTION 6.
+213 Said article is further amended in said part by revising Code Section 16-11-126, relating to
+214 having or carrying handguns, long guns, or other weapons, exceptions for homes, motor
+H. B. 601
+- 9 -
+25 LC 56 0294
+215 vehicles, private property, and other locations and conditions and unlawful carrying of a
+216 weapon, as follows:
+217 "16-11-126.
+218 (a) Any person who is not prohibited by law from possessing a handgun or long gun may
+219 have or carry on his or her person a weapon or long gun on his or her property or inside his
+220 or her home, motor vehicle, or place of business.
+221 (b) Any person who is not prohibited by law from possessing a handgun or long gun may
+222 have or carry on his or her person a long gun.
+223 (c) Any person who is not prohibited by law from possessing a handgun or long gun may
+224 have or carry any handgun, provided that it is enclosed in a case and unloaded.
+225 (d) Any person who is not prohibited by law from possessing a handgun or long gun who
+226 is eligible for a weapons carry license a lawful weapons carrier may transport a handgun
+227 or long gun in any private passenger motor vehicle; provided, however, that private
+228 property owners or persons in legal control of private property through a lease, rental
+229 agreement, licensing agreement, contract, or any other agreement to control access to such
+230 private property shall have the right to exclude or eject a person who is in possession of a
+231 weapon or long gun on their private property in accordance with paragraph (3) of
+232 subsection (b) of Code Section 16-7-21, except as provided in Code Section 16-11-135.
+233 (d)(e)(1) Any person licensed to carry a weapon in any other state shall be authorized to
+234 carry a weapon in this state while the licensee is not a resident of this state; provided,
+235 however, that:
+236 (A) Such licensee person licensed to carry a weapon in any other state shall carry the
+237 weapon in compliance with the laws of this state; and
+238 (B) No other state shall be required to recognize and give effect to a license issued
+239 pursuant to this part that is held by a person who is younger than 21 years of age.
+H. B. 601
+- 10 -
+25 LC 56 0294
+240 (2)(A) The Attorney General shall create and maintain on the Department of Law's
+241 website a list of states whose laws recognize and give effect to a license issued pursuant
+242 to this part.
+243 (B) The Attorney General shall enter into an agreement with any state that requires an
+244 agreement to recognize and give effect to a license issued pursuant to this part.
+245 (C) Any person who is not a weapons carry license holder in this state and who is
+246 licensed to carry a weapon in any other state whose laws recognize and give effect to
+247 a license issued pursuant to this part shall be authorized to carry a weapon in this state
+248 for 90 days after he or she becomes a resident of this state; provided, however, that such
+249 person shall carry the weapon in compliance with the laws of this state, shall as soon
+250 as practicable submit a weapons carry license application as provided for under Code
+251 Section 16-11-129, and shall remain licensed in such other state for the duration of time
+252 that he or she is a resident of this state but not a weapons carry license holder in this
+253 state.
+254 (e)(f)(1) Any person with a valid hunting or fishing license on his or her person, or any
+255 person not required by law to have a hunting or fishing license, who is engaged in legal
+256 hunting, fishing, or sport shooting when the person has the permission of the owner of
+257 the land on which the activities are being conducted may have or carry on his or her
+258 person a weapon or long gun while hunting, fishing, or engaging in sport shooting.
+259 (2) Any person with a valid hunting or fishing license on his or her person, or any person
+260 not required by law to have a hunting or fishing license, who is otherwise engaged in
+261 legal hunting, fishing, or sport shooting on recreational or wildlife management areas
+262 owned by this state may have or carry on his or her person a knife while engaging in such
+263 hunting, fishing, or sport shooting.
+264 (f)(g) Notwithstanding Code Sections 12-3-10, 27-3-1.1, 27-3-6, and 16-12-122 through
+265 16-12-127, any lawful weapons carrier may carry a weapon in all parks, historic sites, or
+266 recreational areas, as such term is defined in Code Section 12-3-10, including all publicly
+H. B. 601
+- 11 -
+25 LC 56 0294
+267 owned buildings located in such parks, historic sites, and recreational areas, in wildlife
+268 management areas, and on public transportation; provided, however, that a person shall not
+269 carry a handgun into a place where it is prohibited by federal law.
+270 (g)(h)(1) Except as otherwise provided in subsections (a) through (f) (g) of this Code
+271 section, no person shall carry a weapon unless he or she is a lawful weapons carrier.
+272 (2) A person commits the offense of unlawful carrying of a weapon when he or she
+273 violates the provisions of paragraph (1) of this subsection.
+274 (h)(i) Upon conviction of the offense of unlawful carrying of a weapon, a person shall be
+275 punished as follows:
+276 (1) For the first offense, he or she shall be guilty of a misdemeanor; and
+277 (2) For the second offense within five years, as measured from the dates of previous
+278 arrests for which convictions were obtained to the date of the current arrest for which a
+279 conviction is obtained, and for any subsequent offense, he or she shall be guilty of a
+280 felony and, upon conviction thereof, shall be imprisoned for not less than two years and
+281 not more than five years.
+282 (i)(j) Nothing in this Code section shall in any way operate or be construed to affect, repeal,
+283 or limit the exemptions provided for under Code Section 16-11-130."
+284 SECTION 7.
+285 Said article is further amended in said part in Code Section 16-11-127.1, relating to carrying
+286 weapons within school safety zones, at school functions, or on a bus or other transportation
+287 furnished by a school, by revising subsection (a), by reserving paragraph (6) of subsection
+288 (c), and by revising paragraph (20) of subsection (c) as follows:
+289 "(a) As used in this Code section, the term:
+290 (1) 'Bus or other transportation furnished by a school' means a bus or other transportation
+291 furnished by a public or private elementary or secondary school.
+H. B. 601
+- 12 -
+25 LC 56 0294
+292 (2) 'School function' means a school function or related activity that occurs outside of a
+293 school safety zone and is for a public or private elementary or secondary school.
+294 (3) 'School safety zone' means in or on within 500 yards of any real property or building
+295 owned by or leased to:
+296 (A) Any public or private elementary school, secondary school, or local board of
+297 education and used for elementary or secondary education; and
+298 (B) Any public or private technical school, vocational school, college, university, or
+299 other institution of postsecondary education.
+300 (4) 'Weapon' means and includes any pistol, revolver, or any weapon designed or
+301 intended to propel a missile of any kind, or any dirk, bowie knife, switchblade knife,
+302 ballistic knife, any other knife having a blade of two or more inches, straight-edge razor,
+303 razor blade, spring stick, knuckles, whether made from metal, thermoplastic, wood, or
+304 other similar material, blackjack, any bat, club, or other bludgeon-type weapon, or any
+305 flailing instrument consisting of two or more rigid parts connected in such a manner as
+306 to allow them to swing freely, which may be known as a nun chahka, nun chuck,
+307 nunchaku, shuriken, or fighting chain, or any disc, of whatever configuration, having at
+308 least two points or pointed blades which is designed to be thrown or propelled and which
+309 may be known as a throwing star or oriental dart, or any weapon of like kind, and any
+310 stun gun or taser as defined in subsection (a) of Code Section 16-11-106. This paragraph
+311 excludes any of these instruments used for classroom work authorized by the teacher."
+312 "(20)(A) Any lawful weapons carrier when he or she is in any building or on real
+313 property owned by or leased to any public technical school, vocational school, college,
+314 or university, or other public institution of postsecondary education; provided, however,
+315 that such exception shall:
+316 (i) Not apply to buildings or property used for athletic sporting events or student
+317 housing, including, but not limited to, fraternity and sorority houses;
+H. B. 601
+- 13 -
+25 LC 56 0294
+318 (ii) Not apply to any preschool or childcare space located within such buildings or
+319 real property;
+320 (iii) Not apply to any room or space being used for classes related to a college and
+321 career academy or other specialized school as provided for under Code Section
+322 20-4-37;
+323 (iv) Not apply to any room or space being used for classes in which high school
+324 students are enrolled through a dual enrollment program, including, but not limited
+325 to, classes related to the 'Dual Enrollment Act' as provided for under Code Section
+326 20-2-161.3;
+327 (v) Not apply to faculty, staff, or administrative offices or rooms where disciplinary
+328 proceedings are conducted; and
+329 (vi) Only apply to the carrying of handguns which a person is licensed to carry
+330 pursuant to subsection (e) of Code Section 16-11-126 and pursuant to Code Section
+331 16-11-129; and
+332 (vi)(vii) Only apply to the carrying of handguns which are concealed.
+333 (B) Any lawful weapons carrier who carries a handgun in a manner or in a building,
+334 property, room, or space in violation of this paragraph shall be guilty of a misdemeanor;
+335 provided, however, that, for a conviction of a first offense, such lawful weapons carrier
+336 shall be punished by a fine of $25.00 and not be sentenced to serve any term of
+337 confinement.
+338 (C) As used in this paragraph, the term:
+339 (i) 'Concealed' means carried in such a fashion that does not actively solicit the
+340 attention of others and is not prominently, openly, and intentionally displayed except
+341 for purposes of defense of self or others. Such term shall include, but not be limited
+342 to, carrying on one's person while such handgun is substantially, but not necessarily
+343 completely, covered by an article of clothing which is worn by such person, carrying
+344 within a bag of a nondescript nature which is being carried about by such person, or
+H. B. 601
+- 14 -
+25 LC 56 0294
+345 carrying in any other fashion as to not be clearly discernible by the passive
+346 observation of others.
+347 (ii) 'Preschool or childcare space' means any room or continuous collection of rooms
+348 or any enclosed outdoor facilities which are separated from other spaces by an
+349 electronic mechanism or human-staffed point of controlled access and designated for
+350 the provision of preschool or childcare services, including, but not limited to,
+351 preschool or childcare services licensed or regulated under Article 1 of Chapter 1A
+352 of Title 20."
+353 SECTION 8.
+354 Said article is further amended in said part in Code Section 16-11-129, relating to weapons
+355 carry license, gun safety information, temporary renewal permit, mandamus, and verification
+356 of license, by revising subsection (a) and subparagraph (b)(2)(H) as follows:
+357 "(a) Application for weapons carry license or renewal license; term.
+358 (1) The judge of the probate court of each county shall, on application under oath, on
+359 payment of a fee of $30.00 $20.00, and on investigation of the applicant pursuant to
+360 subsections (b) and (d) of this Code section, issue a weapons carry license or renewal
+361 license valid for a period of five years one year to any person whose domicile is in that
+362 county or who is on active duty with the United States armed forces and who is not a
+363 domiciliary of this state but who either resides in that county or on a military reservation
+364 located in whole or in part in that county at the time of such application. Such license or
+365 renewal license shall authorize that person to carry any weapon in any county of this state
+366 notwithstanding any change in that person's county of residence or state of domicile.
+367 (2)(A) As used in this paragraph subsection, the term 'service member' means an active
+368 duty member of the regular or reserve component of the United States Army, United
+369 States Navy, United States Marine Corps, United States Coast Guard, United States Air
+H. B. 601
+- 15 -
+25 LC 56 0294
+370 Force, United States Space Force, United States National Guard, Georgia Army
+371 National Guard, or Georgia Air National Guard.
+372 (B) Any service member whose weapons carry license or renewal license expired while
+373 such service member was serving on active duty outside this state shall be authorized
+374 to carry any weapon in accordance with such expired license for a period of six months
+375 from the date of his or her discharge from active duty or reassignment to a location
+376 within this state. When carrying a weapon pursuant to Code Section 16-11-137, the
+377 service member shall also have in his or her immediate possession a copy of the official
+378 military orders or a written verification signed by such service member's commanding
+379 officer which shall evidence that such service member is authorized to carry any
+380 weapon in accordance with such expired license for a period of six months from the
+381 date of his or her discharge from active duty or reassignment to a location within this
+382 state.
+383 (3)(A)(B) Applicants shall submit the application for a weapons carry license or
+384 renewal license to the judge of the probate court on forms prescribed and furnished free
+385 of charge to persons wishing to apply for the license or renewal license.
+386 (C)(B)(i) An application shall be considered to be for a renewal license if the
+387 applicant has a weapons carry license or renewal license with 90 or fewer days
+388 remaining before the expiration of such weapons carry license or renewal license or
+389 30 or fewer days since the expiration of such weapons carry license or renewal license
+390 regardless of the county of issuance of the applicant's expired or expiring weapons
+391 carry license or renewal license.
+392 (ii) An application of any service member whose weapons carry license or renewal
+393 license expired while such service member was serving on active duty outside this
+394 state shall be considered to be for a renewal license if such service member applies
+395 within six months from the date of his or her discharge from active duty or
+396 reassignment to a location within this state as provided for in a copy of such service
+H. B. 601
+- 16 -
+25 LC 56 0294
+397 member's official military orders or a written verification signed by such service
+398 member's commanding officer as provided by the service member.
+399 (iii) An applicant who is not a United States citizen shall provide sufficient personal
+400 identifying data, including without limitation, his or her place of birth and United
+401 States issued alien or admission number, as the Georgia Bureau of Investigation may
+402 prescribe by rule or regulation. An applicant who is in nonimmigrant status shall
+403 provide proof of his or her qualifications for an exception to the federal firearm
+404 prohibition pursuant to 18 U.S.C. Section 922(y). Forms shall be designed to elicit
+405 information from the applicant pertinent to his or her eligibility under this Code
+406 section, including citizenship, but shall not require data which is nonpertinent or
+407 irrelevant, such as serial numbers or other identification capable of being used as a de
+408 facto registration of firearms owned by the applicant. The Department of Public
+409 Safety shall furnish application forms and license forms required by this Code section.
+410 The forms shall be furnished to each judge of each probate court within this state at
+411 no cost."
+412 "(H) Any person who has been convicted of any of the following:
+413 (i) Carrying a weapon without a weapons carry license in violation of Code
+414 Section 16-11-126; or
+415 (ii) Carrying carrying a weapon or long gun in an unauthorized location in violation
+416 of Code Section 16-11-127 and has not been free of all restraint or supervision in
+417 connection therewith and free of any other conviction for at least five years
+418 immediately preceding the date of the application;"
+419 SECTION 9.
+420 Said article is further amended in said part by repealing in its entirety Code Section
+421 16-11-130.1, relating to allowing personnel to carry weapons within certain school safety
+422 zones and at school functions, and designating said Code section as reserved.
+H. B. 601
+- 17 -
+25 LC 56 0294
+423 SECTION 10.
+424 Said article is further amended in said part by revising Code Section 16-11-132, relating to
+425 possession of handgun by person under the age of 18 years, as follows:
+426 "16-11-132.
+427 (a) For the purposes of this Code section, a handgun or long gun is considered loaded if
+428 there is a cartridge in the chamber or cylinder of the handgun.
+429 (b) Notwithstanding any other provisions of this part and except as otherwise provided in
+430 this Code section, it shall be unlawful for any person under the age of 18 16 years to
+431 possess or have under such person's control a handgun or long gun. A person convicted
+432 of a first violation of this subsection shall be guilty of a misdemeanor and shall be punished
+433 by a fine not to exceed $1,000.00 or by imprisonment confinement for not more than 12
+434 months, or both. A person convicted of a second or subsequent violation of this subsection
+435 shall be guilty of a felony and shall be punished by a fine of $5,000.00 or by imprisonment
+436 for a period of three years, or both.
+437 (c) Notwithstanding any other provisions of this part and except as otherwise provided in
+438 this Code section, it shall be unlawful for any person under the age of 18 years to possess
+439 or have under such person's control a handgun or long gun. A person convicted of a first
+440 violation of this subsection shall be guilty of a misdemeanor and shall be punished by a
+441 fine not to exceed $1,000.00 or by confinement for not more than 12 months, or both. A
+442 person convicted of a second or subsequent violation of this subsection shall be guilty of
+443 a felony and shall be punished by a fine of $5,000.00 or by imprisonment for a period of
+444 three years, or both.
+445 (c)(d) Except as otherwise provided in subsection (d) (e) of this Code section, the
+446 provisions of subsection (b) (c) of this Code section shall not apply to:
+447 (1) Any person under the age of 18 years who is:
+448 (A) Attending a hunter education course or a firearms safety course;
+H. B. 601
+- 18 -
+25 LC 56 0294
+449 (B) Engaging in practice in the use of a firearm or target shooting at an established
+450 range authorized by the governing body of the jurisdiction where such range is located;
+451 (C) Engaging in an organized competition involving the use of a firearm or
+452 participating in or practicing for a performance by an organized group under 26 U.S.C.
+453 Section 501(c)(3) which uses firearms as a part of such performance;
+454 (D) Hunting or fishing pursuant to a valid license if such person has in his or her
+455 possession such a valid hunting or fishing license if required; is engaged in legal
+456 hunting or fishing; has permission of the owner of the land on which the activities are
+457 being conducted; and the handgun or long gun, whenever loaded, is carried only in an
+458 open and fully exposed manner; or
+459 (E) Traveling to or from any activity described in subparagraphs (A) through (D) of
+460 this paragraph if the handgun or long gun in such person's possession is not loaded;
+461 (2) Any person under the age of 18 years who is on real property under the control of
+462 such person's parent, legal guardian, or grandparent and who has the permission of such
+463 person's parent or legal guardian to possess a handgun or long gun; or
+464 (3) Any person under the age of 18 years who is at such person's residence and who, with
+465 the permission of such person's parent or legal guardian, possesses a handgun or long gun
+466 for the purpose of exercising the rights authorized in Code Section 16-3-21 or 16-3-23.
+467 (d)(e) Subsection (c) (d) of this Code section shall not apply to any person under the age
+468 of 18 years who has been convicted of a forcible felony or forcible misdemeanor, as
+469 defined in Code Section 16-1-3, or who has been adjudicated for committing a delinquent
+470 act under the provisions of Article 6 of Chapter 11 of Title 15 for an offense which would
+471 constitute a forcible felony or forcible misdemeanor, as defined in Code Section 16-1-3,
+472 if such person were an adult."
+H. B. 601
+- 19 -
+25 LC 56 0294
+473 SECTION 11.
+474 Said article is further amended in said part by revising Code Section 16-11-137, relating to
+475 detention for investigation of license to carry prohibited, as follows:
+476 "16-11-137.
+477 (a) Each weapons carry license holder shall have his or her valid weapons carry license in
+478 his or her immediate possession at all times when carrying a weapon, or if such person is
+479 exempt from having a weapons carry license pursuant to Code Section 16-11-130 or
+480 subsection (c) of Code Section 16-11-127.1, he or she shall have proof of his or her
+481 exemption in his or her immediate possession at all times when carrying a weapon, and his
+482 or her failure to do so shall be prima-facie evidence of a violation of the applicable
+483 provision of Code Sections 16-11-126 through 16-11-127.2.
+484 (b) A person carrying a weapon shall not be subject to detention for the sole purpose of
+485 investigating whether such person has a weapons carry license, whether such person is
+486 exempt from having a weapons carry license pursuant to Code Section 16-11-130 or
+487 subsection (c) of Code Section 16-11-127.1, or whether such person is a lawful weapons
+488 carrier as defined in Code Section 16-11-125.1.
+489 (c) A person convicted of a violation of this Code section shall be fined not more than
+490 $10.00 if he or she produces in court his or her weapons carry license, provided that such
+491 license was valid at the time of his or her arrest, or produces proof of his or her exemption."
+492 SECTION 12.
+493 Said article is further amended in said part by adding new Code sections to read as follows:
+494 "16-11-139.
+495 (a) There is established the Georgia Firearms Registry, to be maintained by the Secretary
+496 of State. The Georgia Firearms Registry shall collect for each entry:
+497 (1) The name of the owner or owners of the firearm;
+H. B. 601
+- 20 -
+25 LC 56 0294
+498 (2) The name of the individual or entity from which the firearm was purchased or
+499 received;
+500 (3) The identification number of the firearm; and
+501 (4) The date of purchase or transfer.
+502 (b)(1) Except as provided in paragraph (2) of this subsection, any firearm purchased
+503 through private sale, purchased through a retailer, gifted, inherited, or otherwise acquired
+504 by a resident of this state after July 1, 2025, shall be registered by the purchaser or
+505 recipient with the Georgia Firearms Registry within 30 days of such purchase or receipt.
+506 (2) Any firearm purchased through private sale, purchased through a retailer, gifted,
+507 inherited, or otherwise acquired by a resident of this state outside of this state after July 1,
+508 2025, shall be registered by the purchaser or recipient with the Georgia Firearms Registry
+509 within 30 days of such person's return to the state.
+510 (c) A person convicted of a first violation of subsection (b) of this Code section shall be
+511 guilty of a misdemeanor and shall be punished by a fine not to exceed $1,000.00 or by
+512 confinement for not more than 12 months, or both. A person convicted of a second or
+513 subsequent violation of subsection (b) of this Code section shall be guilty of a felony and
+514 shall be punished by a fine of $5,000.00 or by imprisonment for a period of three years, or
+515 both.
+516 16-11-140.
+517 (a) A person shall not store a firearm in a motor vehicle unless the firearm is:
+518 (1) Unloaded and in a case expressly made to contain such firearm, and the case fully
+519 encloses the firearm by being zipped, snapped, buckled, tied, or otherwise fastened, and
+520 without any portion of the firearm exposed; or
+521 (2) Unloaded and in the closed trunk of a motor vehicle.
+H. B. 601
+- 21 -
+25 LC 56 0294
+522 (b) Subsection (a) of this Code section shall not apply to the following persons when
+523 acting in the performance of their official duties or when en route to or from their official
+524 duties:
+525 (1) A peace officer as defined by Code Section 35-8-2;
+526 (2) A law enforcement officer of the United States government;
+527 (3) A prosecuting attorney of this state or of the United States;
+528 (4) An employee of the Department of Corrections or a correctional facility operated by
+529 a political subdivision of this state or the United States who is authorized to carry a
+530 firearm by the head of such department or correctional agency or facility;
+531 (5) An employee of the Department of Community Supervision who is authorized by the
+532 commissioner of community supervision to carry a firearm;
+533 (6) A person employed as a campus police officer or school security officer who is
+534 authorized to carry a weapon in accordance with Chapter 8 of Title 20; or
+535 (7) Medical examiners, coroners, and their investigators who are employed by the state
+536 or any political subdivision thereof.
+537 (c) When the licensed owner of a firearm is not on the premises where such firearm is
+538 stored or when such owner knows, or should reasonably know, that a child is likely to gain
+539 access to such firearm unless reasonable action is taken to secure the firearm against access
+540 by the child, any such firearm shall be secured or stored by using one of the following
+541 methods appropriate to each firearm:
+542 (1) Secure the firearm with a hardened steel rod or cable at least one-eighth of an inch
+543 in diameter through the trigger guard of such firearm. The steel rod or cable shall be
+544 secured with a hardened steel lock that has a shackle. The lock and shackle shall be
+545 protected or shielded from the use of a bolt cutter, and the rod or cable shall be anchored
+546 in a manner that prevents the removal of such firearm from the premises; or
+547 (2) Store the firearm in a locked fireproof safe or vault.
+H. B. 601
+- 22 -
+25 LC 56 0294
+548 (d) When a firearm is required to be stored pursuant to this Code section, no ammunition
+549 for such firearm shall be stored in the same lock box, safe, or other container."
+550 SECTION 13.
+551 Said article is further amended in Part 5, relating to Brady Law regulations, by revising Code
+552 Section 16-11-171, relating to definitions, as follows:
+553 "16-11-171.
+554 As used in this part, the term:
+555 (1) 'Center' means the Georgia Crime Information Center within the Georgia Bureau of
+556 Investigation.
+557 (2) 'Dealer' means any person licensed as a dealer pursuant to 18 U.S.C. Section 921, et
+558 seq.
+559 (3) 'Firearm' means any weapon that is designed to or may readily be converted to expel
+560 a projectile by the action of an explosive or the frame or receiver of any such weapon,
+561 any firearm muffler or firearm silencer, or any destructive device as defined in 18 U.S.C.
+562 Section 921(a)(3).
+563 (4) 'Gun show' means any event, function, or marketplace at which 25 or more firearms
+564 are offered or exhibited for sale, transfer, or exchange.
+565 (5) 'Gun show vendor' means any person that offers for sale, exhibits, sells, transfers, or
+566 exchanges one or more firearms at a gun show.
+567 (6) 'Involuntarily hospitalized' means hospitalized as an inpatient in any mental health
+568 facility pursuant to Code Section 37-3-81 or hospitalized as an inpatient in any mental
+569 health facility as a result of being adjudicated mentally incompetent to stand trial or being
+570 adjudicated not guilty by reason of insanity at the time of the crime pursuant to Part 2 of
+571 Article 6 of Chapter 7 of Title 17.
+572 (5)(7) 'NICS' means the National Instant Criminal Background Check System created
+573 by the federal 'Brady Handgun Violence Prevention Act' (P. L. No. 103-159)."
+H. B. 601
+- 23 -
+25 LC 56 0294
+574 SECTION 14.
+575 Said article is further amended in said part by revising subsection (a) of Code Section
+576 16-11-172, relating to transfers or purchases of firearms subject to the NICS, information
+577 concerning persons who have been involuntarily hospitalized to be forwarded to the FBI,
+578 penalties for breach of confidentiality, and exceptions, as follows:
+579 "(a) All transfers or purchases of firearms conducted by a licensed importer, licensed
+580 manufacturer, gun show vendor, or licensed dealer shall be subject to the NICS. To the
+581 extent possible, the center shall provide to the NICS all necessary criminal history
+582 information and wanted person records in order to complete an NICS check. A gun show
+583 vendor may contract with a licensed dealer for purposes of facilitating transfers, purchases,
+584 or NICS checks."
+585 SECTION 15.
+586 Said article is further amended in said part by adding a new Code section to read as follows:
+587 "16-11-172.1.
+588 (a) No purchase or transfer of a firearm shall be conducted by a licensed importer, licensed
+589 manufacturer, licensed dealer, or gun show vendor to any individual under 21 years of age.
+590 (b) All purchases or transfers of firearms to individuals under 27 years of age and
+591 conducted by a licensed importer, licensed manufacturer, licensed dealer, or gun show
+592 vendor shall not be completed until the fifth day after the initiation of such purchase or
+593 transfer; provided, however, that the calculation of the five days shall not include
+594 Saturdays, Sundays, or state or federal holidays; and provided, further, that the NICS check
+595 provided for under Code Section 16-11-172 may be conducted within the five days.
+596 (c) Licensed importers, licensed manufacturers, licensed dealers, and gun show vendors
+597 shall, during normal business hours, make records available for inspection by any law
+598 enforcement agency for purposes of any criminal investigation.
+H. B. 601
+- 24 -
+25 LC 56 0294
+599 (d) Any licensed importer, licensed manufacturer, licensed dealer, or gun show vendor that
+600 violates this Code section, or any purchaser or transferee who uses fraud or false
+601 representation to circumvent the requirements of subsection (a) of this Code section, shall
+602 be guilty of a felony and, upon conviction, shall be punished by imprisonment for not less
+603 than one nor more than five years."
+604 SECTION 16.
+605 Said article is further amended in said part by adding a new Code section to read as follows:
+606 "16-11-174.
+607 (a) As used in this Code section, the term 'assault weapon' means:
+608 (1) A semiautomatic rifle that has an overall length of less than 30 inches;
+609 (2) A conversion kit, part, or combination of parts, from which an assault weapon can
+610 be assembled or from which a firearm can be converted into an assault weapon if such
+611 parts are in the possession or under the control of the same person;
+612 (3) A semiautomatic, center fire rifle that has the capacity to accept a detachable
+613 magazine and has one or more of the following:
+614 (A) A grip that is independent or detached from the stock that protrudes conspicuously
+615 beneath the action of the weapon. The addition of a fin attaching the grip to the stock
+616 does not exempt the grip if it otherwise resembles the grip found on a pistol;
+617 (B) Thumbhole stock;
+618 (C) Folding or telescoping stock;
+619 (D) Forward pistol, vertical, angled, or other grip designed for use by the nonfiring
+620 hand to improve control;
+621 (E) Flash suppressor, flash guard, flash eliminator, flash hider, sound suppressor,
+622 silencer, or any item designed to reduce the visual or audio signature of the firearm;
+623 (F) Muzzle brake, recoil compensator, or any item designed to be affixed to the barrel
+624 to reduce recoil or muzzle rise;
+H. B. 601
+- 25 -
+25 LC 56 0294
+625 (G) Threaded barrel designed to attach a flash suppressor, sound suppressor, muzzle
+626 break, or similar item;
+627 (H) Grenade launcher or flare launcher; or
+628 (I) A shroud that encircles either all or part of the barrel designed to shield the bearer's
+629 hand from heat, except a solid forearm of a stock that covers only the bottom of the
+630 barrel;
+631 (4) A semiautomatic, center fire rifle that has a fixed magazine with the capacity to
+632 accept more than ten rounds;
+633 (5) A semiautomatic pistol that has the capacity to accept a detachable magazine and has
+634 one or more of the following:
+635 (A) A threaded barrel, capable of accepting a flash suppressor, forward handgrip, or
+636 silencer;
+637 (B) A second hand grip;
+638 (C) A shroud that encircles either all or part of the barrel designed to shield the bearer's
+639 hand from heat, except a solid forearm of a stock that covers only the bottom of the
+640 barrel; or
+641 (D) The capacity to accept a detachable magazine at some location outside of the pistol
+642 grip; or
+643 (6) A semiautomatic shotgun that has any of the following:
+644 (A) A folding or telescoping stock;
+645 (B) A grip that is independent or detached from the stock that protrudes conspicuously
+646 beneath the action of the weapon. The addition of a fin attaching the grip to the stock
+647 does not exempt the grip if it otherwise resembles the grip found on a pistol;
+648 (C) A thumbhole stock;
+649 (D) A forward pistol, vertical, angled, or other grip designed for use by the nonfiring
+650 hand to improve control;
+651 (E) A fixed magazine in excess of seven rounds; or
+H. B. 601
+- 26 -
+25 LC 56 0294
+652 (F) A revolving cylinder shotgun.
+653 (b) No purchase or transfer of any assault weapon shall be conducted by a licensed
+654 importer, licensed manufacturer, licensed dealer, or gun show vendor in this state for the
+655 period beginning July 1, 2025, through January 1, 2036.
+656 (c) Any licensed importer, licensed manufacturer, licensed dealer, or gun show vendor that
+657 violates this Code section, or any purchaser or transferee who uses fraud or false
+658 representation to circumvent the requirements of subsection (b) of this Code section, shall
+659 be guilty of a felony and, upon conviction, shall be punished by imprisonment for not less
+660 than one nor more than five years."
+661 SECTION 17.
+662 Chapter 8 of Title 35 of the Official Code of Georgia Annotated, relating to the employment
+663 and training of peace officers, is amended by revising Code Section 35-8-8, relating to the
+664 requirements for appointment or certification of persons as peace officers and
+665 preemployment attendance at a basic training course, and "employment related information"
+666 defined, as follows:
+667 "35-8-8.
+668 (a) Any person employed or certified as a peace officer shall:
+669 (1) Be at least 18 years of age;
+670 (2) Be a citizen of the United States;
+671 (3) Have a high school diploma or its recognized equivalent;
+672 (4) Not have been convicted by any state or by the federal government of any crime the
+673 punishment for which could have been imprisonment in the federal or state prison or
+674 institution nor have been convicted of sufficient misdemeanors to establish a pattern of
+675 disregard for the law, provided that, for the purposes of this paragraph, violations of
+676 traffic laws and other offenses involving the operation of motor vehicles when the
+677 applicant has received a pardon shall not be considered;
+H. B. 601
+- 27 -
+25 LC 56 0294
+678 (5) Be fingerprinted for the purpose of conducting a fingerprint based search at the
+679 Georgia Bureau of Investigation and the Federal Bureau of Investigation to determine the
+680 existence of any criminal record;
+681 (6) Possess good moral character as determined by investigation under procedure
+682 established by the council and fully cooperate during the course of such investigation;
+683 (7) Be found, after examination by a licensed physician or surgeon, to be free from any
+684 physical, emotional, or mental conditions which might adversely affect his or her exercise
+685 of the powers or duties of a peace officer; and
+686 (8) Successfully complete a job related academy entrance examination provided for and
+687 administered by the council in conformity with state and federal law. Such examination
+688 shall be administered prior to entrance to the basic course provided for in Code Sections
+689 35-8-9 and 35-8-11. The council may change or modify such examination and shall
+690 establish the criteria for determining satisfactory performance on such examination. The
+691 provisions of this paragraph establish only the minimum requirements of academy
+692 entrance examinations for peace officer candidates in this state; each law enforcement
+693 unit is encouraged to provide such additional requirements and any preemployment
+694 examination as it deems necessary and appropriate. Any person with a degree from a
+695 postsecondary institution accredited by a regional accrediting agency recognized by the
+696 United States Department of Education shall be deemed to have met the requirements of
+697 this paragraph.
+698 (b) Any person authorized to attend the basic training course prior to employment as a
+699 peace officer shall meet the requirements of subsection (a) of this Code section.
+700 (c)(1) For purposes of As used in this subsection, the term 'employment related
+701 information' means written information contained in a prior employer's records or
+702 personnel files that relates to an applicant's, candidate's, or peace officer's performance
+703 or behavior while employed by such prior employer, including performance evaluations,
+704 records of disciplinary actions, and eligibility for rehire. Such term shall not include
+H. B. 601
+- 28 -
+25 LC 56 0294
+705 information prohibited from disclosure by federal law or any document not in the
+706 possession of the employer at the time a request for such information is received.
+707 (2) Where an investigation is conducted for the purpose of hiring, certifying, or
+708 continuing the certification of a peace officer, an employer shall disclose employment
+709 related information to the investigating law enforcement agency upon receiving a written
+710 request from such agency. Disclosure shall only be required under this subsection if the
+711 law enforcement agency's request is accompanied by a copy of a signed, notarized
+712 statement from the applicant, candidate, or peace officer releasing and holding harmless
+713 such employer from any and all liability for disclosing complete and accurate information
+714 to the law enforcement agency.
+715 (3) An employer may charge a reasonable fee to cover actual costs incurred in copying
+716 and furnishing documents to a requesting law enforcement agency, including retrieving
+717 and redacting costs, provided that such amount shall not exceed $25.00 or 25¢ per page,
+718 whichever is greater. No employer shall be required to prepare or create any document
+719 not already in the employer's possession at the time a request for employment related
+720 information is received. Any employment related information provided pursuant to this
+721 subsection that is not subject to public disclosure while in the possession of a prior
+722 employer shall continue to be privileged and protected from public disclosure as a record
+723 of the requesting law enforcement agency.
+724 (4) No employer or law enforcement agency shall be subject to any civil liability for any
+725 cause of action by virtue of disclosing complete and accurate information to a law
+726 enforcement agency in good faith and without malice pursuant to this subsection. In any
+727 such cause of action, malice or bad faith shall only be demonstrated by clear and
+728 convincing evidence. Nothing contained in this subsection shall be construed so as to
+729 affect or limit rights or remedies provided by federal law.
+730 (5) Before taking final action on an application for employment based, in whole or in
+731 part, on any unfavorable employment related information received from a previous
+H. B. 601
+- 29 -
+25 LC 56 0294
+732 employer, a law enforcement agency shall inform the applicant, candidate, or peace
+733 officer that it has received such employment related information and that the applicant,
+734 candidate, or peace officer may inspect and respond in writing to such information. Upon
+735 the applicant's, candidate's, or peace officer's request, the law enforcement agency shall
+736 allow him or her to inspect the employment related information and to submit a written
+737 response to such information. The request for inspection shall be made within five
+738 business days from the date that the applicant, candidate, or peace officer is notified of
+739 the law enforcement agency's receipt of such employment related information. The
+740 inspection shall occur not later than ten business days after said notification. Any
+741 response to the employment related information shall be made by the applicant,
+742 candidate, or peace officer not later than three business days after his or her inspection.
+743 (6) No person shall be certified, or allowed to continue in his or her certification, or hired
+744 as a peace officer if an investigation undertaken pursuant to this subsection determines
+745 that such individual has ever been terminated from a position as a peace officer based on
+746 misconduct related to such position.
+747 (7) Nothing contained in this Code section shall be construed so as to require any person
+748 to provide self-incriminating information or otherwise to compel any person to act in
+749 violation of his or her right guaranteed by the Fifth Amendment of the United States
+750 Constitution and Article I, Section I, Paragraph XVI of the Georgia Constitution. It shall
+751 not be a violation of this Code section for a person to fail to provide requested
+752 information based on a claim that such information is self-incriminating, provided that
+753 notice of such claim is served in lieu of the requested information. An action against
+754 such person to require disclosure on the grounds that the claim of self-incrimination is not
+755 substantiated may be brought in the superior court of the county of such party's residence
+756 or where such information is located."
+H. B. 601
+- 30 -
+25 LC 56 0294
+757 SECTION 18.
+758 Article 2 of Chapter 3 of Title 38 of the Official Code of Georgia Annotated, relating to
+759 organization and administration relative to emergency management, is amended in Code
+760 Section 38-3-37, relating to prohibited actions by government official or employee during
+761 declared state of emergency, by inserting "or" at the end of paragraph (2), replacing "; or"
+762 at the end of paragraph (3) with a period, and by repealing paragraph (4) of subsection (b).
+763 SECTION 19.
+764 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 601
+- 31 -
+[DELETED: 5L8,0,8,htht0,2hn o T 3 o t O C o G A r t d a p t e a t o p o a]
+[DELETED: 5L i a p i a i P 1 r t g]
+[DELETED: 5L]
+[DELETED: 5L b g o a f a p b a f n t e $ o b]
+[DELETED: 5L]
+[DELETED: 5L  ' g m a w w s o i d t s]
+[DELETED: 5L t e t i i i  E o t r m i]
+[DELETED: 5L o t p]
+[DELETED: 5L e t o a l p t s C s b f t r]
+[DELETED: 5L l g i a p p m v p h t p o l g o t p p i a w p ( o]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L  ' o a t t s f w m b k a a n c n c]
+[DELETED: 5L o]
+[DELETED: 5L i a o f a t n b c d b t p a e o f w a s f o s b a p o p o c s i b n l t]
+[DELETED: 5L U S S F U S N G G A  A a s b c t b f a r l i t s m f t d o h o h d f a d o]
+[DELETED: 5L  C a w w a w c l i v o C t a f o a o c f a l f y a i f a i s p b r i i e C S]
+[DELETED: 5L E a o p i s ( ( o t C s t]
+[DELETED: 5L  E i a o c i t u o a f o]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L p t c s p t t N a n c h  A p o t o f t i u 2 y o a a p h t t c o t f d s n i]
+[DELETED: 5L t C s o a p o t w u f o f  A s c f r t h t c t a a d]
+[DELETED: 5L]
+[DELETED: 5L t C s o a p o t w u f o f f a o c o p a p o a l a o o i t o o m v w t]
+[DELETED: 5L  P g m c a d b i u p o t p e o t m r o a  F p o A u i t s t t ' r m w i c i a p e r o]
+[DELETED: 5L p f d b f l o a d n i t  W a i i c f t p o h c o c o a m o b f s o b d b c a r]
+[DELETED: 5L b t t e r i s b m b t a b a v o t C s f a p t f t p r]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 56 0294
+House Bill 601
+By: Representatives Jackson of the 68th, Au of the 50th, Mitchell of the 88th, Draper of the
+90th, and Sanchez of the 42nd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 4 of Chapter 11 of Title 16, Chapter 8 of Title 35, and Article 2 of Chapter
+2 3 of Title 38 of the Official Code of Georgia Annotated, relating to dangerous
+3 instrumentalities and practices, the employment and training of peace officers, and
+4 organization and administration relative to emergency management, respectively, so as to
+5 broadly increase the regulation surrounding gun sales and ownership; to provide for the
+6 offense of selling or furnishing handguns or long guns to minors; to prohibit parents or legal
+7 guardians from permitting the possession of handguns or long guns by a minor in certain
+8 circumstances; to provide for exceptions; to provide for the offense of the possession of a
+9 large capacity magazine or a firearm produced by means of 3D printing; to provide for
+10 circumstances under which individuals who are not licensed to carry a weapon may transport
+11 such weapon; to provide a time frame for new residents of the state to obtain a weapons carry
+12 license; to provide for school safety zones to extend 500 yards from school premises; to
+13 require weapons carry licenses to be renewed each year; to reduce the fee for weapons carry
+14 licenses; to provide for certain conditions to obtain or renew a weapons carry license,
+15 including for active service members; to prohibit anyone under the age of 16 years from
+16 possessing or controlling a handgun or long gun; to provide for anyone under the age of 18
+17 years from possessing or controlling a handgun or long gun without parental or guardian
+18 supervision or in certain circumstances; to require individuals who are carrying a weapon to
+H. B. 601
+- 1 -
+
+25 LC 56 0294
+19 have a weapons carry license on their person; to provide for the establishment of the Georgia
+20 Firearms Registry; to require the registration of all firearms sales and transfers in this state
+21 after a certain date; to require certain information to be entered into the Georgia Firearms
+22 Registry; to provide for requirements for safe storage of a firearm in a vehicle; to provide for
+23 requirements for safe storage of firearms when the owner is not present on the premises; to
+24 provide for exceptions; to provide for safe storage of firearms when access by a child is
+25 reasonably likely; to require ammunition be stored separately from firearms; to subject all
+26 transfers or purchases of firearms at gun shows to the National Instant Criminal Background
+27 Check System; to provide for facilitation by licensed dealers; to prohibit sales of firearms to
+28 individuals under the age of 21; to require a five-day waiting period to complete transactions
+29 for firearms to individuals under the age of 27; to prohibit the sale or transfer by certain
+30 dealers of assault weapons in this state until a certain date; to prohibit the certification or
+31 hiring of any individual as a peace officer who has been terminated for misconduct related
+32 to any previous employment as a peace officer; to provide for exceptions; to provide for
+33 violations, penalties, and fines; to provide for definitions; to provide for conforming changes;
+34 to provide for related matters; to provide for a short title; to repeal conflicting laws; and for
+35 other purposes.
+36 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+37 SECTION 1.
+38 This Act shall be known and may be cited as the "Georgia Gun Safe Act of 2025."
+39 SECTION 2.
+40 Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to
+41 dangerous instrumentalities and practices, is amended in Part 1, relating to general
+H. B. 601
+- 2 -
+
+25 LC 56 0294
+42 provisions, by revising Code Section 16-11-101.1, relating to furnishing pistol or revolver
+43 to person under the age of 18 years, as follows:
+44 "16-11-101.1.
+45 (a) For the purposes of As used in this Code section, the term:
+46 (1) 'Handgun' shall have the same meaning as set forth in Code Section 16-11-125.1.
+47 (2) 'Long gun' shall have the same meaning as set forth in Code Section 16-11-125.1.
+48 (3) 'Minor' means any person under the age of 18 years.
+49 (2) 'Pistol or revolver' means a handgun as defined in Code Section 16-11-125.1.
+50 (b) It shall be unlawful for a person to intentionally, knowingly, or recklessly to sell or
+51 furnish a pistol or revolver handgun or long gun to a minor, except that it shall be lawful
+52 for a parent or legal guardian to permit possession of a pistol or revolver handgun or long
+53 gun by a minor for the purposes specified in subsection (c) (d) of Code Section 16-11-132
+54 unless otherwise expressly limited by subsection (c) of this Code section.
+55 (c)(1) It shall be unlawful for a parent or legal guardian to permit possession of a pistol
+56 or revolver handgun or long gun by a minor if the parent or legal guardian knows of a
+57 minor's conduct which violates the provisions of Code Section 16-11-132 and fails to
+58 make reasonable efforts to prevent any such violation of Code Section 16-11-132.
+59 (2) Notwithstanding any provisions of subsection (c) (d) of Code Section 16-11-132 or
+60 any other law to the contrary, it shall be unlawful for any parent or legal guardian to
+61 intentionally, knowingly, or recklessly to furnish to or permit a minor to possess a pistol
+62 or revolver handgun or long gun if such parent or legal guardian is aware of a substantial
+63 risk that such minor will use a pistol or revolver to commit a felony offense or if such
+64 parent or legal guardian who is aware of such substantial risk fails to make reasonable
+65 efforts to prevent commission of the offense by the minor.
+66 (3) In addition to any other act which violates this subsection, a parent or legal guardian
+67 shall be deemed to have violated this subsection if such parent or legal guardian furnishes
+68 to or permits possession of a pistol or revolver handgun or long gun by any minor who
+H. B. 601
+- 3 -
+
+25 LC 56 0294
+69 has been convicted of a forcible felony or forcible misdemeanor, as defined in Code
+70 Section 16-1-3, or who has been adjudicated for committing a delinquent act under the
+71 provisions of Article 6 of Chapter 11 of Title 15 for an offense which would constitute
+72 a forcible felony or forcible misdemeanor, as defined in Code Section 16-1-3, if such
+73 minor were an adult.
+74 (d) Upon conviction of a violation of subsection (b) or (c) of this Code section, a person
+75 shall be guilty of a felony and punished by a fine not to exceed $5,000.00 or by
+76 imprisonment for not less than three nor more than five years, or both."
+77 SECTION 3.
+78 Said article is further amended in said part by adding a new Code section to read as follows:
+79 "16-11-114.
+80 (a) As used in this Code section, the term '3D printed firearm' means any weapon produced
+81 by means of three-dimensional printing from computer-aided design files which is designed
+82 or intended to propel a missile of any kind and which is not produced subject to a license
+83 from the Bureau of Alcohol, Tobacco, Firearms and Explosives of the United States
+84 Department of Justice for the manufacture of firearms.
+85 (b) It shall be unlawful to print or to produce a 3D printed firearm in this state.
+86 (c) Any person that violates this Code section shall commit the offense of possessing a 3D
+87 printed firearm and upon conviction thereof, shall be punished by imprisonment for a
+88 period of five years."
+89 SECTION 4.
+90 Said article is further amended by revising Part 2, relating to possession of dangerous
+91 weapons, as follows:
+H. B. 601
+- 4 -
+
+25 LC 56 0294
+92 "Part 2
+93 16-11-120.
+94 This part shall be known and may be cited as the 'Georgia Firearms and Weapons Act.'
+95 16-11-121.
+96 As used in this part, the term:
+97 (1) '3D printed firearm' means any weapon produced by means of three-dimensional
+98 printing from computer-aided design files which is designed or intended to propel a
+99 missile of any kind and which is not produced subject to a license from the Bureau of
+100 Alcohol, Tobacco, Firearms and Explosives of the United States Department of Justice
+101 for the manufacture of firearms.
+102 (2) 'Dangerous weapon' means any weapon commonly known as a 'rocket launcher,'
+103 'bazooka,' or 'recoilless rifle' rocket launcher, bazooka, or recoilless rifle which fires
+104 explosive or nonexplosive rockets designed to injure or kill personnel or destroy heavy
+105 armor, or similar weapon used for such purpose. The Such term shall also mean a
+106 weapon commonly known as a 'mortar' mortar which fires high explosive from a metallic
+107 cylinder and which is commonly used by the armed forces as an antipersonnel weapon
+108 or similar weapon used for such purpose. The Such term shall also mean a weapon
+109 commonly known as a 'hand grenade' hand grenade or other similar weapon which is
+110 designed to explode and injure personnel or similar weapon used for such purpose.
+111 (3) 'Large capacity magazine' means any ammunition feeding device with the capacity
+112 to accept more than sixteen rounds of ammunition; provided, however, that such term
+113 shall not include:
+114 (A) A feeding device that has been permanently altered so that it cannot accommodate
+115 more than ten rounds; or
+116 (B) A tubular magazine that is contained in a lever-action firearm.
+H. B. 601
+- 5 -
+
+25 LC 56 0294
+117 (2)(4) 'Machine gun' means any weapon which shoots or is designed to shoot,
+118 automatically, more than six shots, without manual reloading, by a single function of the
+119 trigger.
+120 (3)(5) 'Person' means any individual, partnership, company, association, or corporation.
+121 (4)(6) 'Sawed-off rifle' means a weapon designed or redesigned, made or remade, and
+122 intended to be fired from the shoulder; and designed or redesigned, made or remade, to
+123 use the energy of the explosive in a fixed metallic cartridge to fire only a single projectile
+124 through a rifle bore for each single pull of the trigger; and which has a barrel or barrels
+125 of less than 16 inches in length or has an overall length of less than 26 inches.
+126 (5)(7) 'Sawed-off shotgun' means a shotgun or any weapon made from a shotgun whether
+127 by alteration, modification, or otherwise having one or more barrels less than 18 inches
+128 in length or if such weapon as modified has an overall length of less than 26 inches.
+129 (6)(8) 'Shotgun' means a weapon designed or redesigned, made or remade, and intended
+130 to be fired from the shoulder; and designed or redesigned, and made or remade, to use the
+131 energy of the explosive in a fixed shotgun shell to fire through a smooth bore either a
+132 number of ball shot or a single projectile for each single pull of the trigger.
+133 (7)(9) 'Silencer' means any device for silencing or diminishing the report of any portable
+134 weapon such as a rifle, carbine, pistol, revolver, machine gun, shotgun, fowling piece, or
+135 other device from which a shot, bullet, or projectile may be discharged by an explosive.
+136 16-11-122.
+137 No person shall have in his or her possession any 3D printed firearm, sawed-off shotgun,
+138 sawed-off rifle, machine gun, large capacity magazine, dangerous weapon, or silencer
+139 except as provided in Code Section 16-11-124.
+H. B. 601
+- 6 -
+
+25 LC 56 0294
+140 16-11-123.
+141 A person commits the offense of unlawful possession of firearms or weapons when he or
+142 she knowingly has in his or her possession any 3D printed firearm, sawed-off shotgun,
+143 sawed-off rifle, machine gun, large capacity magazine, dangerous weapon, or silencer, and,
+144 upon conviction thereof, he or she shall be punished by imprisonment for a period of five
+145 years.
+146 16-11-124.
+147 This part shall not apply to:
+148 (1) A peace officer of any duly authorized police agency of this state or of any political
+149 subdivision thereof, or a law enforcement officer of any department or agency of the
+150 United States who is regularly employed and paid by the United States, this state, or any
+151 such political subdivision, or an employee of the Department of Corrections of this state
+152 who is authorized in writing by the commissioner of corrections to transfer or possess
+153 such firearms while in the official performance of his or her duties;
+154 (2) A member of the National Guard or of the armed forces of the United States,
+155 including to wit: the army, navy, marine corps, air force, space force, or coast guard who,
+156 while serving therein, possesses such firearm in the line of duty;
+157 (3) Any 3D printed firearm, sawed-off shotgun, sawed-off rifle, machine gun, large
+158 capacity magazine, dangerous weapon, or silencer which has been modified or changed
+159 to the extent that it is inoperative. Examples of the requisite modification include
+160 weapons with their barrel or barrels filled with lead, hand grenades filled with sand, or
+161 other nonexplosive materials;
+162 (4) Possession of a sawed-off shotgun, sawed-off rifle, machine gun, dangerous weapon,
+163 or silencer by a person who is authorized to possess the same because he or she has
+164 registered the 3D printed firearm, sawed-off shotgun, sawed-off rifle, machine gun, large
+H. B. 601
+- 7 -
+
+25 LC 56 0294
+165 capacity magazine, dangerous weapon, or silencer in accordance with the dictates of the
+166 National Firearms Act, 68A Stat. 725 (26 U.S.C. Sections 5841-5862); and
+167 (5) A security officer employed by a federally licensed nuclear power facility or a
+168 licensee of such facility, including a contract security officer, who is trained and qualified
+169 under a security plan approved by the United States Nuclear Regulatory Commission or
+170 other federal agency authorized to regulate nuclear facility security; provided, however,
+171 that this exemption shall apply only while such security officer is acting in connection
+172 with his or her official duties on the premises of such nuclear power facility or on
+173 properties outside the facility property pursuant to a written agreement entered into with
+174 the local law enforcement agency having jurisdiction over the facility. The exemption
+175 under this paragraph does not include the possession of silencers.
+176 16-11-125.
+177 In any complaint, accusation, or indictment and in any action or proceeding brought for the
+178 enforcement of this part it shall not be necessary to negative any exception, excuse,
+179 proviso, or exemption contained in this part, and the burden of proof of any such exception,
+180 excuse, proviso, or exemption shall be upon the defendant."
+181 SECTION 5.
+182 Said article is further amended in Part 3, relating to carrying and possession of firearms, by
+183 revising Code Section 16-11-125.1, relating to definitions, as follows:
+184 "16-11-125.1.
+185 As used in this part, the term:
+186 (1) 'Handgun' means a firearm of any description, loaded or unloaded, from which any
+187 shot, bullet, or other missile can be discharged by an action of an explosive where the
+188 length of the barrel, not including any revolving, detachable, or magazine breech, does
+H. B. 601
+- 8 -
+
+25 LC 56 0294
+189 not exceed 12 inches; provided, however, that the term 'handgun' such term shall not
+190 include a gun which discharges a single shot of 0.46 centimeter or less in diameter.
+191 (2) 'Knife' means a cutting instrument designed for the purpose of offense and defense
+192 consisting of a blade that is greater than 12 inches in length which is fastened to a handle.
+193 (2.1) 'Lawful weapons carrier' means any person who is licensed or eligible for a license
+194 pursuant to Code Section 16-11-129 and who is not otherwise prohibited by law from
+195 possessing a weapon or long gun, any resident of any other state who would otherwise
+196 be eligible to obtain a license pursuant to such Code section but for the residency
+197 requirement, and any person licensed to carry a weapon in any other state.
+198 (3) 'License holder' means a person who holds a valid weapons carry license.
+199 (4) 'Long gun' means a firearm with a barrel length of at least 18 inches and overall
+200 length of at least 26 inches designed or made and intended to be fired from the shoulder
+201 and designed or made to use the energy of the explosive in a fixed:
+202 (A) Shotgun shell to fire through a smooth bore either a number of ball shot or a single
+203 projectile for each single pull of the trigger or from which any shot, bullet, or other
+204 missile can be discharged; or
+205 (B) Metallic cartridge to fire only a single projectile through a rifle bore for each single
+206 pull of the trigger;
+207 provided, however, that the term 'long gun' such term shall not include a gun which
+208 discharges a single shot of 0.46 centimeter or less in diameter.
+209 (5) 'Weapon' means a knife or handgun.
+210 (6) 'Weapons carry license' or 'license' means a license issued pursuant to Code Section
+211 16-11-129."
+212 SECTION 6.
+213 Said article is further amended in said part by revising Code Section 16-11-126, relating to
+214 having or carrying handguns, long guns, or other weapons, exceptions for homes, motor
+H. B. 601
+- 9 -
+
+25 LC 56 0294
+215 vehicles, private property, and other locations and conditions and unlawful carrying of a
+216 weapon, as follows:
+217 "16-11-126.
+218 (a) Any person who is not prohibited by law from possessing a handgun or long gun may
+219 have or carry on his or her person a weapon or long gun on his or her property or inside his
+220 or her home, motor vehicle, or place of business.
+221 (b) Any person who is not prohibited by law from possessing a handgun or long gun may
+222 have or carry on his or her person a long gun.
+223 (c) Any person who is not prohibited by law from possessing a handgun or long gun may
+224 have or carry any handgun, provided that it is enclosed in a case and unloaded.
+225 (d) Any person who is not prohibited by law from possessing a handgun or long gun who
+226 is eligible for a weapons carry license a lawful weapons carrier may transport a handgun
+227 or long gun in any private passenger motor vehicle; provided, however, that private
+228 property owners or persons in legal control of private property through a lease, rental
+229 agreement, licensing agreement, contract, or any other agreement to control access to such
+230 private property shall have the right to exclude or eject a person who is in possession of a
+231 weapon or long gun on their private property in accordance with paragraph (3) of
+232 subsection (b) of Code Section 16-7-21, except as provided in Code Section 16-11-135.
+233 (d)(e)(1) Any person licensed to carry a weapon in any other state shall be authorized to
+234 carry a weapon in this state while the licensee is not a resident of this state; provided,
+235 however, that:
+236 (A) Such licensee person licensed to carry a weapon in any other state shall carry the
+237 weapon in compliance with the laws of this state; and
+238 (B) No other state shall be required to recognize and give effect to a license issued
+239 pursuant to this part that is held by a person who is younger than 21 years of age.
+H. B. 601
+- 10 -
+
+25 LC 56 0294
+240 (2)(A) The Attorney General shall create and maintain on the Department of Law's
+241 website a list of states whose laws recognize and give effect to a license issued pursuant
+242 to this part.
+243 (B) The Attorney General shall enter into an agreement with any state that requires an
+244 agreement to recognize and give effect to a license issued pursuant to this part.
+245 (C) Any person who is not a weapons carry license holder in this state and who is
+246 licensed to carry a weapon in any other state whose laws recognize and give effect to
+247 a license issued pursuant to this part shall be authorized to carry a weapon in this state
+248 for 90 days after he or she becomes a resident of this state; provided, however, that such
+249 person shall carry the weapon in compliance with the laws of this state, shall as soon
+250 as practicable submit a weapons carry license application as provided for under Code
+251 Section 16-11-129, and shall remain licensed in such other state for the duration of time
+252 that he or she is a resident of this state but not a weapons carry license holder in this
+253 state.
+254 (e)(f)(1) Any person with a valid hunting or fishing license on his or her person, or any
+255 person not required by law to have a hunting or fishing license, who is engaged in legal
+256 hunting, fishing, or sport shooting when the person has the permission of the owner of
+257 the land on which the activities are being conducted may have or carry on his or her
+258 person a weapon or long gun while hunting, fishing, or engaging in sport shooting.
+259 (2) Any person with a valid hunting or fishing license on his or her person, or any person
+260 not required by law to have a hunting or fishing license, who is otherwise engaged in
+261 legal hunting, fishing, or sport shooting on recreational or wildlife management areas
+262 owned by this state may have or carry on his or her person a knife while engaging in such
+263 hunting, fishing, or sport shooting.
+264 (f)(g) Notwithstanding Code Sections 12-3-10, 27-3-1.1, 27-3-6, and 16-12-122 through
+265 16-12-127, any lawful weapons carrier may carry a weapon in all parks, historic sites, or
+266 recreational areas, as such term is defined in Code Section 12-3-10, including all publicly
+H. B. 601
+- 11 -
+
+25 LC 56 0294
+267 owned buildings located in such parks, historic sites, and recreational areas, in wildlife
+268 management areas, and on public transportation; provided, however, that a person shall not
+269 carry a handgun into a place where it is prohibited by federal law.
+270 (g)(h)(1) Except as otherwise provided in subsections (a) through (f) (g) of this Code
+271 section, no person shall carry a weapon unless he or she is a lawful weapons carrier.
+272 (2) A person commits the offense of unlawful carrying of a weapon when he or she
+273 violates the provisions of paragraph (1) of this subsection.
+274 (h)(i) Upon conviction of the offense of unlawful carrying of a weapon, a person shall be
+275 punished as follows:
+276 (1) For the first offense, he or she shall be guilty of a misdemeanor; and
+277 (2) For the second offense within five years, as measured from the dates of previous
+278 arrests for which convictions were obtained to the date of the current arrest for which a
+279 conviction is obtained, and for any subsequent offense, he or she shall be guilty of a
+280 felony and, upon conviction thereof, shall be imprisoned for not less than two years and
+281 not more than five years.
+282 (i)(j) Nothing in this Code section shall in any way operate or be construed to affect, repeal,
+283 or limit the exemptions provided for under Code Section 16-11-130."
+284 SECTION 7.
+285 Said article is further amended in said part in Code Section 16-11-127.1, relating to carrying
+286 weapons within school safety zones, at school functions, or on a bus or other transportation
+287 furnished by a school, by revising subsection (a), by reserving paragraph (6) of subsection
+288 (c), and by revising paragraph (20) of subsection (c) as follows:
+289 "(a) As used in this Code section, the term:
+290 (1) 'Bus or other transportation furnished by a school' means a bus or other transportation
+291 furnished by a public or private elementary or secondary school.
+H. B. 601
+- 12 -
+
+25 LC 56 0294
+292 (2) 'School function' means a school function or related activity that occurs outside of a
+293 school safety zone and is for a public or private elementary or secondary school.
+294 (3) 'School safety zone' means in or on within 500 yards of any real property or building
+295 owned by or leased to:
+296 (A) Any public or private elementary school, secondary school, or local board of
+297 education and used for elementary or secondary education; and
+298 (B) Any public or private technical school, vocational school, college, university, or
+299 other institution of postsecondary education.
+300 (4) 'Weapon' means and includes any pistol, revolver, or any weapon designed or
+301 intended to propel a missile of any kind, or any dirk, bowie knife, switchblade knife,
+302 ballistic knife, any other knife having a blade of two or more inches, straight-edge razor,
+303 razor blade, spring stick, knuckles, whether made from metal, thermoplastic, wood, or
+304 other similar material, blackjack, any bat, club, or other bludgeon-type weapon, or any
+305 flailing instrument consisting of two or more rigid parts connected in such a manner as
+306 to allow them to swing freely, which may be known as a nun chahka, nun chuck,
+307 nunchaku, shuriken, or fighting chain, or any disc, of whatever configuration, having at
+308 least two points or pointed blades which is designed to be thrown or propelled and which
+309 may be known as a throwing star or oriental dart, or any weapon of like kind, and any
+310 stun gun or taser as defined in subsection (a) of Code Section 16-11-106. This paragraph
+311 excludes any of these instruments used for classroom work authorized by the teacher."
+312 "(20)(A) Any lawful weapons carrier when he or she is in any building or on real
+313 property owned by or leased to any public technical school, vocational school, college,
+314 or university, or other public institution of postsecondary education; provided, however,
+315 that such exception shall:
+316 (i) Not apply to buildings or property used for athletic sporting events or student
+317 housing, including, but not limited to, fraternity and sorority houses;
+H. B. 601
+- 13 -
+
+25 LC 56 0294
+318 (ii) Not apply to any preschool or childcare space located within such buildings or
+319 real property;
+320 (iii) Not apply to any room or space being used for classes related to a college and
+321 career academy or other specialized school as provided for under Code Section
+322 20-4-37;
+323 (iv) Not apply to any room or space being used for classes in which high school
+324 students are enrolled through a dual enrollment program, including, but not limited
+325 to, classes related to the 'Dual Enrollment Act' as provided for under Code Section
+326 20-2-161.3;
+327 (v) Not apply to faculty, staff, or administrative offices or rooms where disciplinary
+328 proceedings are conducted; and
+329 (vi) Only apply to the carrying of handguns which a person is licensed to carry
+330 pursuant to subsection (e) of Code Section 16-11-126 and pursuant to Code Section
+331 16-11-129; and
+332 (vi)(vii) Only apply to the carrying of handguns which are concealed.
+333 (B) Any lawful weapons carrier who carries a handgun in a manner or in a building,
+334 property, room, or space in violation of this paragraph shall be guilty of a misdemeanor;
+335 provided, however, that, for a conviction of a first offense, such lawful weapons carrier
+336 shall be punished by a fine of $25.00 and not be sentenced to serve any term of
+337 confinement.
+338 (C) As used in this paragraph, the term:
+339 (i) 'Concealed' means carried in such a fashion that does not actively solicit the
+340 attention of others and is not prominently, openly, and intentionally displayed except
+341 for purposes of defense of self or others. Such term shall include, but not be limited
+342 to, carrying on one's person while such handgun is substantially, but not necessarily
+343 completely, covered by an article of clothing which is worn by such person, carrying
+344 within a bag of a nondescript nature which is being carried about by such person, or
+H. B. 601
+- 14 -
+
+25 LC 56 0294
+345 carrying in any other fashion as to not be clearly discernible by the passive
+346 observation of others.
+347 (ii) 'Preschool or childcare space' means any room or continuous collection of rooms
+348 or any enclosed outdoor facilities which are separated from other spaces by an
+349 electronic mechanism or human-staffed point of controlled access and designated for
+350 the provision of preschool or childcare services, including, but not limited to,
+351 preschool or childcare services licensed or regulated under Article 1 of Chapter 1A
+352 of Title 20."
+353 SECTION 8.
+354 Said article is further amended in said part in Code Section 16-11-129, relating to weapons
+355 carry license, gun safety information, temporary renewal permit, mandamus, and verification
+356 of license, by revising subsection (a) and subparagraph (b)(2)(H) as follows:
+357 "(a) Application for weapons carry license or renewal license; term.
+358 (1) The judge of the probate court of each county shall, on application under oath, on
+359 payment of a fee of $30.00 $20.00, and on investigation of the applicant pursuant to
+360 subsections (b) and (d) of this Code section, issue a weapons carry license or renewal
+361 license valid for a period of five years one year to any person whose domicile is in that
+362 county or who is on active duty with the United States armed forces and who is not a
+363 domiciliary of this state but who either resides in that county or on a military reservation
+364 located in whole or in part in that county at the time of such application. Such license or
+365 renewal license shall authorize that person to carry any weapon in any county of this state
+366 notwithstanding any change in that person's county of residence or state of domicile.
+367 (2)(A) As used in this paragraph subsection, the term 'service member' means an active
+368 duty member of the regular or reserve component of the United States Army, United
+369 States Navy, United States Marine Corps, United States Coast Guard, United States Air
+H. B. 601
+- 15 -
+
+25 LC 56 0294
+370 Force, United States Space Force, United States National Guard, Georgia Army
+371 National Guard, or Georgia Air National Guard.
+372 (B) Any service member whose weapons carry license or renewal license expired while
+373 such service member was serving on active duty outside this state shall be authorized
+374 to carry any weapon in accordance with such expired license for a period of six months
+375 from the date of his or her discharge from active duty or reassignment to a location
+376 within this state. When carrying a weapon pursuant to Code Section 16-11-137, the
+377 service member shall also have in his or her immediate possession a copy of the official
+378 military orders or a written verification signed by such service member's commanding
+379 officer which shall evidence that such service member is authorized to carry any
+380 weapon in accordance with such expired license for a period of six months from the
+381 date of his or her discharge from active duty or reassignment to a location within this
+382 state.
+383 (3)(A)(B) Applicants shall submit the application for a weapons carry license or
+384 renewal license to the judge of the probate court on forms prescribed and furnished free
+385 of charge to persons wishing to apply for the license or renewal license.
+386 (C)(B)(i) An application shall be considered to be for a renewal license if the
+387 applicant has a weapons carry license or renewal license with 90 or fewer days
+388 remaining before the expiration of such weapons carry license or renewal license or
+389 30 or fewer days since the expiration of such weapons carry license or renewal license
+390 regardless of the county of issuance of the applicant's expired or expiring weapons
+391 carry license or renewal license.
+392 (ii) An application of any service member whose weapons carry license or renewal
+393 license expired while such service member was serving on active duty outside this
+394 state shall be considered to be for a renewal license if such service member applies
+395 within six months from the date of his or her discharge from active duty or
+396 reassignment to a location within this state as provided for in a copy of such service
+H. B. 601
+- 16 -
+
+25 LC 56 0294
+397 member's official military orders or a written verification signed by such service
+398 member's commanding officer as provided by the service member.
+399 (iii) An applicant who is not a United States citizen shall provide sufficient personal
+400 identifying data, including without limitation, his or her place of birth and United
+401 States issued alien or admission number, as the Georgia Bureau of Investigation may
+402 prescribe by rule or regulation. An applicant who is in nonimmigrant status shall
+403 provide proof of his or her qualifications for an exception to the federal firearm
+404 prohibition pursuant to 18 U.S.C. Section 922(y). Forms shall be designed to elicit
+405 information from the applicant pertinent to his or her eligibility under this Code
+406 section, including citizenship, but shall not require data which is nonpertinent or
+407 irrelevant, such as serial numbers or other identification capable of being used as a de
+408 facto registration of firearms owned by the applicant. The Department of Public
+409 Safety shall furnish application forms and license forms required by this Code section.
+410 The forms shall be furnished to each judge of each probate court within this state at
+411 no cost."
+412 "(H) Any person who has been convicted of any of the following:
+413 (i) Carrying a weapon without a weapons carry license in violation of Code
+414 Section 16-11-126; or
+415 (ii) Carrying carrying a weapon or long gun in an unauthorized location in violation
+416 of Code Section 16-11-127 and has not been free of all restraint or supervision in
+417 connection therewith and free of any other conviction for at least five years
+418 immediately preceding the date of the application;"
+419 SECTION 9.
+420 Said article is further amended in said part by repealing in its entirety Code Section
+421 16-11-130.1, relating to allowing personnel to carry weapons within certain school safety
+422 zones and at school functions, and designating said Code section as reserved.
+H. B. 601
+- 17 -
+
+25 LC 56 0294
+423 SECTION 10.
+424 Said article is further amended in said part by revising Code Section 16-11-132, relating to
+425 possession of handgun by person under the age of 18 years, as follows:
+426 "16-11-132.
+427 (a) For the purposes of this Code section, a handgun or long gun is considered loaded if
+428 there is a cartridge in the chamber or cylinder of the handgun.
+429 (b) Notwithstanding any other provisions of this part and except as otherwise provided in
+430 this Code section, it shall be unlawful for any person under the age of 18 16 years to
+431 possess or have under such person's control a handgun or long gun. A person convicted
+432 of a first violation of this subsection shall be guilty of a misdemeanor and shall be punished
+433 by a fine not to exceed $1,000.00 or by imprisonment confinement for not more than 12
+434 months, or both. A person convicted of a second or subsequent violation of this subsection
+435 shall be guilty of a felony and shall be punished by a fine of $5,000.00 or by imprisonment
+436 for a period of three years, or both.
+437 (c) Notwithstanding any other provisions of this part and except as otherwise provided in
+438 this Code section, it shall be unlawful for any person under the age of 18 years to possess
+439 or have under such person's control a handgun or long gun. A person convicted of a first
+440 violation of this subsection shall be guilty of a misdemeanor and shall be punished by a
+441 fine not to exceed $1,000.00 or by confinement for not more than 12 months, or both. A
+442 person convicted of a second or subsequent violation of this subsection shall be guilty of
+443 a felony and shall be punished by a fine of $5,000.00 or by imprisonment for a period of
+444 three years, or both.
+445 (c)(d) Except as otherwise provided in subsection (d) (e) of this Code section, the
+446 provisions of subsection (b) (c) of this Code section shall not apply to:
+447 (1) Any person under the age of 18 years who is:
+448 (A) Attending a hunter education course or a firearms safety course;
+H. B. 601
+- 18 -
+
+25 LC 56 0294
+449 (B) Engaging in practice in the use of a firearm or target shooting at an established
+450 range authorized by the governing body of the jurisdiction where such range is located;
+451 (C) Engaging in an organized competition involving the use of a firearm or
+452 participating in or practicing for a performance by an organized group under 26 U.S.C.
+453 Section 501(c)(3) which uses firearms as a part of such performance;
+454 (D) Hunting or fishing pursuant to a valid license if such person has in his or her
+455 possession such a valid hunting or fishing license if required; is engaged in legal
+456 hunting or fishing; has permission of the owner of the land on which the activities are
+457 being conducted; and the handgun or long gun, whenever loaded, is carried only in an
+458 open and fully exposed manner; or
+459 (E) Traveling to or from any activity described in subparagraphs (A) through (D) of
+460 this paragraph if the handgun or long gun in such person's possession is not loaded;
+461 (2) Any person under the age of 18 years who is on real property under the control of
+462 such person's parent, legal guardian, or grandparent and who has the permission of such
+463 person's parent or legal guardian to possess a handgun or long gun; or
+464 (3) Any person under the age of 18 years who is at such person's residence and who, with
+465 the permission of such person's parent or legal guardian, possesses a handgun or long gun
+466 for the purpose of exercising the rights authorized in Code Section 16-3-21 or 16-3-23.
+467 (d)(e) Subsection (c) (d) of this Code section shall not apply to any person under the age
+468 of 18 years who has been convicted of a forcible felony or forcible misdemeanor, as
+469 defined in Code Section 16-1-3, or who has been adjudicated for committing a delinquent
+470 act under the provisions of Article 6 of Chapter 11 of Title 15 for an offense which would
+471 constitute a forcible felony or forcible misdemeanor, as defined in Code Section 16-1-3,
+472 if such person were an adult."
+H. B. 601
+- 19 -
+
+25 LC 56 0294
+473 SECTION 11.
+474 Said article is further amended in said part by revising Code Section 16-11-137, relating to
+475 detention for investigation of license to carry prohibited, as follows:
+476 "16-11-137.
+477 (a) Each weapons carry license holder shall have his or her valid weapons carry license in
+478 his or her immediate possession at all times when carrying a weapon, or if such person is
+479 exempt from having a weapons carry license pursuant to Code Section 16-11-130 or
+480 subsection (c) of Code Section 16-11-127.1, he or she shall have proof of his or her
+481 exemption in his or her immediate possession at all times when carrying a weapon, and his
+482 or her failure to do so shall be prima-facie evidence of a violation of the applicable
+483 provision of Code Sections 16-11-126 through 16-11-127.2.
+484 (b) A person carrying a weapon shall not be subject to detention for the sole purpose of
+485 investigating whether such person has a weapons carry license, whether such person is
+486 exempt from having a weapons carry license pursuant to Code Section 16-11-130 or
+487 subsection (c) of Code Section 16-11-127.1, or whether such person is a lawful weapons
+488 carrier as defined in Code Section 16-11-125.1.
+489 (c) A person convicted of a violation of this Code section shall be fined not more than
+490 $10.00 if he or she produces in court his or her weapons carry license, provided that such
+491 license was valid at the time of his or her arrest, or produces proof of his or her exemption."
+492 SECTION 12.
+493 Said article is further amended in said part by adding new Code sections to read as follows:
+494 "16-11-139.
+495 (a) There is established the Georgia Firearms Registry, to be maintained by the Secretary
+496 of State. The Georgia Firearms Registry shall collect for each entry:
+497 (1) The name of the owner or owners of the firearm;
+H. B. 601
+- 20 -
+
+25 LC 56 0294
+498 (2) The name of the individual or entity from which the firearm was purchased or
+499 received;
+500 (3) The identification number of the firearm; and
+501 (4) The date of purchase or transfer.
+502 (b)(1) Except as provided in paragraph (2) of this subsection, any firearm purchased
+503 through private sale, purchased through a retailer, gifted, inherited, or otherwise acquired
+504 by a resident of this state after July 1, 2025, shall be registered by the purchaser or
+505 recipient with the Georgia Firearms Registry within 30 days of such purchase or receipt.
+506 (2) Any firearm purchased through private sale, purchased through a retailer, gifted,
+507 inherited, or otherwise acquired by a resident of this state outside of this state after July 1,
+508 2025, shall be registered by the purchaser or recipient with the Georgia Firearms Registry
+509 within 30 days of such person's return to the state.
+510 (c) A person convicted of a first violation of subsection (b) of this Code section shall be
+511 guilty of a misdemeanor and shall be punished by a fine not to exceed $1,000.00 or by
+512 confinement for not more than 12 months, or both. A person convicted of a second or
+513 subsequent violation of subsection (b) of this Code section shall be guilty of a felony and
+514 shall be punished by a fine of $5,000.00 or by imprisonment for a period of three years, or
+515 both.
+516 16-11-140.
+517 (a) A person shall not store a firearm in a motor vehicle unless the firearm is:
+518 (1) Unloaded and in a case expressly made to contain such firearm, and the case fully
+519 encloses the firearm by being zipped, snapped, buckled, tied, or otherwise fastened, and
+520 without any portion of the firearm exposed; or
+521 (2) Unloaded and in the closed trunk of a motor vehicle.
+H. B. 601
+- 21 -
+
+25 LC 56 0294
+522 (b) Subsection (a) of this Code section shall not apply to the following persons when
+523 acting in the performance of their official duties or when en route to or from their official
+524 duties:
+525 (1) A peace officer as defined by Code Section 35-8-2;
+526 (2) A law enforcement officer of the United States government;
+527 (3) A prosecuting attorney of this state or of the United States;
+528 (4) An employee of the Department of Corrections or a correctional facility operated by
+529 a political subdivision of this state or the United States who is authorized to carry a
+530 firearm by the head of such department or correctional agency or facility;
+531 (5) An employee of the Department of Community Supervision who is authorized by the
+532 commissioner of community supervision to carry a firearm;
+533 (6) A person employed as a campus police officer or school security officer who is
+534 authorized to carry a weapon in accordance with Chapter 8 of Title 20; or
+535 (7) Medical examiners, coroners, and their investigators who are employed by the state
+536 or any political subdivision thereof.
+537 (c) When the licensed owner of a firearm is not on the premises where such firearm is
+538 stored or when such owner knows, or should reasonably know, that a child is likely to gain
+539 access to such firearm unless reasonable action is taken to secure the firearm against access
+540 by the child, any such firearm shall be secured or stored by using one of the following
+541 methods appropriate to each firearm:
+542 (1) Secure the firearm with a hardened steel rod or cable at least one-eighth of an inch
+543 in diameter through the trigger guard of such firearm. The steel rod or cable shall be
+544 secured with a hardened steel lock that has a shackle. The lock and shackle shall be
+545 protected or shielded from the use of a bolt cutter, and the rod or cable shall be anchored
+546 in a manner that prevents the removal of such firearm from the premises; or
+547 (2) Store the firearm in a locked fireproof safe or vault.
+H. B. 601
+- 22 -
+
+25 LC 56 0294
+548 (d) When a firearm is required to be stored pursuant to this Code section, no ammunition
+549 for such firearm shall be stored in the same lock box, safe, or other container."
+550 SECTION 13.
+551 Said article is further amended in Part 5, relating to Brady Law regulations, by revising Code
+552 Section 16-11-171, relating to definitions, as follows:
+553 "16-11-171.
+554 As used in this part, the term:
+555 (1) 'Center' means the Georgia Crime Information Center within the Georgia Bureau of
+556 Investigation.
+557 (2) 'Dealer' means any person licensed as a dealer pursuant to 18 U.S.C. Section 921, et
+558 seq.
+559 (3) 'Firearm' means any weapon that is designed to or may readily be converted to expel
+560 a projectile by the action of an explosive or the frame or receiver of any such weapon,
+561 any firearm muffler or firearm silencer, or any destructive device as defined in 18 U.S.C.
+562 Section 921(a)(3).
+563 (4) 'Gun show' means any event, function, or marketplace at which 25 or more firearms
+564 are offered or exhibited for sale, transfer, or exchange.
+565 (5) 'Gun show vendor' means any person that offers for sale, exhibits, sells, transfers, or
+566 exchanges one or more firearms at a gun show.
+567 (6) 'Involuntarily hospitalized' means hospitalized as an inpatient in any mental health
+568 facility pursuant to Code Section 37-3-81 or hospitalized as an inpatient in any mental
+569 health facility as a result of being adjudicated mentally incompetent to stand trial or being
+570 adjudicated not guilty by reason of insanity at the time of the crime pursuant to Part 2 of
+571 Article 6 of Chapter 7 of Title 17.
+572 (5)(7) 'NICS' means the National Instant Criminal Background Check System created
+573 by the federal 'Brady Handgun Violence Prevention Act' (P. L. No. 103-159)."
+H. B. 601
+- 23 -
+
+25 LC 56 0294
+574 SECTION 14.
+575 Said article is further amended in said part by revising subsection (a) of Code Section
+576 16-11-172, relating to transfers or purchases of firearms subject to the NICS, information
+577 concerning persons who have been involuntarily hospitalized to be forwarded to the FBI,
+578 penalties for breach of confidentiality, and exceptions, as follows:
+579 "(a) All transfers or purchases of firearms conducted by a licensed importer, licensed
+580 manufacturer, gun show vendor, or licensed dealer shall be subject to the NICS. To the
+581 extent possible, the center shall provide to the NICS all necessary criminal history
+582 information and wanted person records in order to complete an NICS check. A gun show
+583 vendor may contract with a licensed dealer for purposes of facilitating transfers, purchases,
+584 or NICS checks."
+585 SECTION 15.
+586 Said article is further amended in said part by adding a new Code section to read as follows:
+587 "16-11-172.1.
+588 (a) No purchase or transfer of a firearm shall be conducted by a licensed importer, licensed
+589 manufacturer, licensed dealer, or gun show vendor to any individual under 21 years of age.
+590 (b) All purchases or transfers of firearms to individuals under 27 years of age and
+591 conducted by a licensed importer, licensed manufacturer, licensed dealer, or gun show
+592 vendor shall not be completed until the fifth day after the initiation of such purchase or
+593 transfer; provided, however, that the calculation of the five days shall not include
+594 Saturdays, Sundays, or state or federal holidays; and provided, further, that the NICS check
+595 provided for under Code Section 16-11-172 may be conducted within the five days.
+596 (c) Licensed importers, licensed manufacturers, licensed dealers, and gun show vendors
+597 shall, during normal business hours, make records available for inspection by any law
+598 enforcement agency for purposes of any criminal investigation.
+H. B. 601
+- 24 -
+
+25 LC 56 0294
+599 (d) Any licensed importer, licensed manufacturer, licensed dealer, or gun show vendor that
+600 violates this Code section, or any purchaser or transferee who uses fraud or false
+601 representation to circumvent the requirements of subsection (a) of this Code section, shall
+602 be guilty of a felony and, upon conviction, shall be punished by imprisonment for not less
+603 than one nor more than five years."
+604 SECTION 16.
+605 Said article is further amended in said part by adding a new Code section to read as follows:
+606 "16-11-174.
+607 (a) As used in this Code section, the term 'assault weapon' means:
+608 (1) A semiautomatic rifle that has an overall length of less than 30 inches;
+609 (2) A conversion kit, part, or combination of parts, from which an assault weapon can
+610 be assembled or from which a firearm can be converted into an assault weapon if such
+611 parts are in the possession or under the control of the same person;
+612 (3) A semiautomatic, center fire rifle that has the capacity to accept a detachable
+613 magazine and has one or more of the following:
+614 (A) A grip that is independent or detached from the stock that protrudes conspicuously
+615 beneath the action of the weapon. The addition of a fin attaching the grip to the stock
+616 does not exempt the grip if it otherwise resembles the grip found on a pistol;
+617 (B) Thumbhole stock;
+618 (C) Folding or telescoping stock;
+619 (D) Forward pistol, vertical, angled, or other grip designed for use by the nonfiring
+620 hand to improve control;
+621 (E) Flash suppressor, flash guard, flash eliminator, flash hider, sound suppressor,
+622 silencer, or any item designed to reduce the visual or audio signature of the firearm;
+623 (F) Muzzle brake, recoil compensator, or any item designed to be affixed to the barrel
+624 to reduce recoil or muzzle rise;
+H. B. 601
+- 25 -
+
+25 LC 56 0294
+625 (G) Threaded barrel designed to attach a flash suppressor, sound suppressor, muzzle
+626 break, or similar item;
+627 (H) Grenade launcher or flare launcher; or
+628 (I) A shroud that encircles either all or part of the barrel designed to shield the bearer's
+629 hand from heat, except a solid forearm of a stock that covers only the bottom of the
+630 barrel;
+631 (4) A semiautomatic, center fire rifle that has a fixed magazine with the capacity to
+632 accept more than ten rounds;
+633 (5) A semiautomatic pistol that has the capacity to accept a detachable magazine and has
+634 one or more of the following:
+635 (A) A threaded barrel, capable of accepting a flash suppressor, forward handgrip, or
+636 silencer;
+637 (B) A second hand grip;
+638 (C) A shroud that encircles either all or part of the barrel designed to shield the bearer's
+639 hand from heat, except a solid forearm of a stock that covers only the bottom of the
+640 barrel; or
+641 (D) The capacity to accept a detachable magazine at some location outside of the pistol
+642 grip; or
+643 (6) A semiautomatic shotgun that has any of the following:
+644 (A) A folding or telescoping stock;
+645 (B) A grip that is independent or detached from the stock that protrudes conspicuously
+646 beneath the action of the weapon. The addition of a fin attaching the grip to the stock
+647 does not exempt the grip if it otherwise resembles the grip found on a pistol;
+648 (C) A thumbhole stock;
+649 (D) A forward pistol, vertical, angled, or other grip designed for use by the nonfiring
+650 hand to improve control;
+651 (E) A fixed magazine in excess of seven rounds; or
+H. B. 601
+- 26 -
+
+25 LC 56 0294
+652 (F) A revolving cylinder shotgun.
+653 (b) No purchase or transfer of any assault weapon shall be conducted by a licensed
+654 importer, licensed manufacturer, licensed dealer, or gun show vendor in this state for the
+655 period beginning July 1, 2025, through January 1, 2036.
+656 (c) Any licensed importer, licensed manufacturer, licensed dealer, or gun show vendor that
+657 violates this Code section, or any purchaser or transferee who uses fraud or false
+658 representation to circumvent the requirements of subsection (b) of this Code section, shall
+659 be guilty of a felony and, upon conviction, shall be punished by imprisonment for not less
+660 than one nor more than five years."
+661 SECTION 17.
+662 Chapter 8 of Title 35 of the Official Code of Georgia Annotated, relating to the employment
+663 and training of peace officers, is amended by revising Code Section 35-8-8, relating to the
+664 requirements for appointment or certification of persons as peace officers and
+665 preemployment attendance at a basic training course, and "employment related information"
+666 defined, as follows:
+667 "35-8-8.
+668 (a) Any person employed or certified as a peace officer shall:
+669 (1) Be at least 18 years of age;
+670 (2) Be a citizen of the United States;
+671 (3) Have a high school diploma or its recognized equivalent;
+672 (4) Not have been convicted by any state or by the federal government of any crime the
+673 punishment for which could have been imprisonment in the federal or state prison or
+674 institution nor have been convicted of sufficient misdemeanors to establish a pattern of
+675 disregard for the law, provided that, for the purposes of this paragraph, violations of
+676 traffic laws and other offenses involving the operation of motor vehicles when the
+677 applicant has received a pardon shall not be considered;
+H. B. 601
+- 27 -
+
+25 LC 56 0294
+678 (5) Be fingerprinted for the purpose of conducting a fingerprint based search at the
+679 Georgia Bureau of Investigation and the Federal Bureau of Investigation to determine the
+680 existence of any criminal record;
+681 (6) Possess good moral character as determined by investigation under procedure
+682 established by the council and fully cooperate during the course of such investigation;
+683 (7) Be found, after examination by a licensed physician or surgeon, to be free from any
+684 physical, emotional, or mental conditions which might adversely affect his or her exercise
+685 of the powers or duties of a peace officer; and
+686 (8) Successfully complete a job related academy entrance examination provided for and
+687 administered by the council in conformity with state and federal law. Such examination
+688 shall be administered prior to entrance to the basic course provided for in Code Sections
+689 35-8-9 and 35-8-11. The council may change or modify such examination and shall
+690 establish the criteria for determining satisfactory performance on such examination. The
+691 provisions of this paragraph establish only the minimum requirements of academy
+692 entrance examinations for peace officer candidates in this state; each law enforcement
+693 unit is encouraged to provide such additional requirements and any preemployment
+694 examination as it deems necessary and appropriate. Any person with a degree from a
+695 postsecondary institution accredited by a regional accrediting agency recognized by the
+696 United States Department of Education shall be deemed to have met the requirements of
+697 this paragraph.
+698 (b) Any person authorized to attend the basic training course prior to employment as a
+699 peace officer shall meet the requirements of subsection (a) of this Code section.
+700 (c)(1) For purposes of As used in this subsection, the term 'employment related
+701 information' means written information contained in a prior employer's records or
+702 personnel files that relates to an applicant's, candidate's, or peace officer's performance
+703 or behavior while employed by such prior employer, including performance evaluations,
+704 records of disciplinary actions, and eligibility for rehire. Such term shall not include
+H. B. 601
+- 28 -
+
+25 LC 56 0294
+705 information prohibited from disclosure by federal law or any document not in the
+706 possession of the employer at the time a request for such information is received.
+707 (2) Where an investigation is conducted for the purpose of hiring, certifying, or
+708 continuing the certification of a peace officer, an employer shall disclose employment
+709 related information to the investigating law enforcement agency upon receiving a written
+710 request from such agency. Disclosure shall only be required under this subsection if the
+711 law enforcement agency's request is accompanied by a copy of a signed, notarized
+712 statement from the applicant, candidate, or peace officer releasing and holding harmless
+713 such employer from any and all liability for disclosing complete and accurate information
+714 to the law enforcement agency.
+715 (3) An employer may charge a reasonable fee to cover actual costs incurred in copying
+716 and furnishing documents to a requesting law enforcement agency, including retrieving
+717 and redacting costs, provided that such amount shall not exceed $25.00 or 25¢ per page,
+718 whichever is greater. No employer shall be required to prepare or create any document
+719 not already in the employer's possession at the time a request for employment related
+720 information is received. Any employment related information provided pursuant to this
+721 subsection that is not subject to public disclosure while in the possession of a prior
+722 employer shall continue to be privileged and protected from public disclosure as a record
+723 of the requesting law enforcement agency.
+724 (4) No employer or law enforcement agency shall be subject to any civil liability for any
+725 cause of action by virtue of disclosing complete and accurate information to a law
+726 enforcement agency in good faith and without malice pursuant to this subsection. In any
+727 such cause of action, malice or bad faith shall only be demonstrated by clear and
+728 convincing evidence. Nothing contained in this subsection shall be construed so as to
+729 affect or limit rights or remedies provided by federal law.
+730 (5) Before taking final action on an application for employment based, in whole or in
+731 part, on any unfavorable employment related information received from a previous
+H. B. 601
+- 29 -
+
+25 LC 56 0294
+732 employer, a law enforcement agency shall inform the applicant, candidate, or peace
+733 officer that it has received such employment related information and that the applicant,
+734 candidate, or peace officer may inspect and respond in writing to such information. Upon
+735 the applicant's, candidate's, or peace officer's request, the law enforcement agency shall
+736 allow him or her to inspect the employment related information and to submit a written
+737 response to such information. The request for inspection shall be made within five
+738 business days from the date that the applicant, candidate, or peace officer is notified of
+739 the law enforcement agency's receipt of such employment related information. The
+740 inspection shall occur not later than ten business days after said notification. Any
+741 response to the employment related information shall be made by the applicant,
+742 candidate, or peace officer not later than three business days after his or her inspection.
+743 (6) No person shall be certified, or allowed to continue in his or her certification, or hired
+744 as a peace officer if an investigation undertaken pursuant to this subsection determines
+745 that such individual has ever been terminated from a position as a peace officer based on
+746 misconduct related to such position.
+747 (7) Nothing contained in this Code section shall be construed so as to require any person
+748 to provide self-incriminating information or otherwise to compel any person to act in
+749 violation of his or her right guaranteed by the Fifth Amendment of the United States
+750 Constitution and Article I, Section I, Paragraph XVI of the Georgia Constitution. It shall
+751 not be a violation of this Code section for a person to fail to provide requested
+752 information based on a claim that such information is self-incriminating, provided that
+753 notice of such claim is served in lieu of the requested information. An action against
+754 such person to require disclosure on the grounds that the claim of self-incrimination is not
+755 substantiated may be brought in the superior court of the county of such party's residence
+756 or where such information is located."
+H. B. 601
+- 30 -
+
+25 LC 56 0294
+757 SECTION 18.
+758 Article 2 of Chapter 3 of Title 38 of the Official Code of Georgia Annotated, relating to
+759 organization and administration relative to emergency management, is amended in Code
+760 Section 38-3-37, relating to prohibited actions by government official or employee during
+761 declared state of emergency, by inserting "or" at the end of paragraph (2), replacing "; or"
+762 at the end of paragraph (3) with a period, and by repealing paragraph (4) of subsection (b).
+763 SECTION 19.
+764 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 601
+- 31 -
+
+[DELETED: 5L8,0,8,htht0,2hn o T 3 o t O C o G A r t d a p t e a t o p o a]
+[DELETED: 5L i a p i a i P 1 r t g]
+[DELETED: 5L]
+[DELETED: 5L b g o a f a p b a f n t e $ o b]
+[DELETED: 5L]
+[DELETED: 5L  ' g m a w w s o i d t s]
+[DELETED: 5L t e t i i i  E o t r m i]
+[DELETED: 5L o t p]
+[DELETED: 5L e t o a l p t s C s b f t r]
+[DELETED: 5L l g i a p p m v p h t p o l g o t p p i a w p ( o]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L  ' o a t t s f w m b k a a n c n c]
+[DELETED: 5L o]
+[DELETED: 5L i a o f a t n b c d b t p a e o f w a s f o s b a p o p o c s i b n l t]
+[DELETED: 5L U S S F U S N G G A  A a s b c t b f a r l i t s m f t d o h o h d f a d o]
+[DELETED: 5L  C a w w a w c l i v o C t a f o a o c f a l f y a i f a i s p b r i i e C S]
+[DELETED: 5L E a o p i s ( ( o t C s t]
+[DELETED: 5L  E i a o c i t u o a f o]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L p t c s p t t N a n c h  A p o t o f t i u 2 y o a a p h t t c o t f d s n i]
+[DELETED: 5L t C s o a p o t w u f o f  A s c f r t h t c t a a d]
+[DELETED: 5L]
+[DELETED: 5L t C s o a p o t w u f o f f a o c o p a p o a l a o o i t o o m v w t]
+[DELETED: 5L  P g m c a d b i u p o t p e o t m r o a  F p o A u i t s t t ' r m w i c i a p e r o]
+[DELETED: 5L p f d b f l o a d n i t  W a i i c f t p o h c o c o a m o b f s o b d b c a r]
+[DELETED: 5L b t t e r i s b m b t a b a v o t C s f a p t f t p r]
+[DELETED: 5L]

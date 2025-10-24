@@ -1,0 +1,169 @@
+Title: Senate Bill 259
+Official Title: Senate Bill 259
+Number of Sections: 1
+Source: versions - As introduced LC 52 0801
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0801
+By: Senators Brass of the 6th, Dolezal of the 27th, Kirkpatrick of the 32nd, Williams of the
+25th, Hodges of the 3rd and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 11 of Title 15 of the Official Code of Georgia Annotated, relating to the
+2 Juvenile Code, so as to provide for certain procedures to be followed when there is a
+3 determination of suspected child abuse or neglect; to provide for a physician holding
+4 temporary physical custody of a child based on a suspicion of child abuse or neglect to
+5 provide certain information to a parent or legal guardian and to the Division of Family and
+6 Children Services; to provide for a definition; to provide for a parent or legal guardian to
+7 obtain an independent medical evaluation or specialty consultation; to provide for a court to
+8 consider the results of any independent medical evaluation or specialty consultation; to
+9 provide for related matters; to provide for an effective date and applicability; to repeal
+10 conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Chapter 11 of Title 15 of the Official Code of Georgia Annotated, relating to the Juvenile
+14 Code, is amended in Article 3, relating to dependency proceedings, by revising subsection (b)
+15 of Code Section 15-11-131, relating to temporary protective custody of child by physician
+16 without court order and without parental consent and immunity, as follows:
+S. B. 259
+- 1 -
+25 LC 52 0801
+17 "(b) A physician holding a child in temporary protective custody shall:
+18 (1) Make reasonable and diligent efforts to inform the child's parents, guardian, or legal
+19 custodian of the whereabouts of such child and the right to obtain an independent medical
+20 evaluation or specialty consultation as provided for under Code Section 15-11-131.1;
+21 (2) As soon as possible, make a report of the suspected abuse or neglect which caused
+22 him or her to take temporary custody of the child and inform DFCS of the basis of his or
+23 her determinations, including whether a physical examination was conducted and what
+24 medical records were reviewed, and that such child has been held in temporary custody;
+25 and
+26 (3) Not later than 24 hours after such child is held in temporary custody:
+27 (A) Contact a juvenile court intake officer, and inform such intake officer that such
+28 child is in imminent danger to his or her life or health as a result of suspected abuse or
+29 neglect; or
+30 (B) Contact a law enforcement officer who shall take such child and promptly bring
+31 such child before a juvenile court intake officer."
+32 SECTION 2.
+33 Said chapter is further amended in said article by adding a new Code section to read as
+34 follows:
+35 "15-11-131.1.
+36 (a) As used in this Code section, the term 'specialty consultation' means a consultation with
+37 a physician licensed to practice medicine in this state and board certified in the relevant
+38 field or specialty, including radiology, genetics, orthopedics, and endocrinology, to
+39 diagnose and treat certain unique health conditions, including rickets, Ehlers-Danlos
+40 syndrome, osteogenesis imperfecta, vitamin D deficiency, or other medical conditions that
+41 mimic the physical manifestations of child abuse or neglect or increase the risk of
+42 misdiagnosis of child abuse or neglect.
+S. B. 259
+- 2 -
+25 LC 52 0801
+43 (b) Any parent or legal guardian of a child who is taken into temporary protective custody
+44 pursuant to Code Section 15-11-131 shall have the right to obtain an independent medical
+45 evaluation and a specialty consultation of such child at his or her own expense unless
+46 prohibited by court order. Physicians and medical professionals, law enforcement officers,
+47 and DFCS shall cooperate as may reasonably be necessary to facilitate any independent
+48 medical evaluation or specialty consultation for such child.
+49 (c) At any hearing concerning a child before the court in a dependency proceeding
+50 pursuant to this article, the court shall consider the results from any independent medical
+51 evaluation or specialty consultation of such child.
+52 (d) No adjudication hearing scheduled in accordance with Part 8 of this article shall be
+53 continued solely because the results from an independent medical evaluation or specialty
+54 consultation of the child before the court are unavailable."
+55 SECTION 3.
+56 This Act shall become effective upon its approval by the Governor or upon its becoming law
+57 without such approval and shall apply to any legal action filed on or after such effective date.
+58 SECTION 4.
+59 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 259
+- 3 -
+[DELETED: 5L o s c a o n t p f a p h]
+[DELETED: 5L o s i r g o a e t a t c u h c i r E t p m o c a o n o i t r o]
+[DELETED: 5L c]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0801
+Senate Bill 259
+By: Senators Brass of the 6th, Dolezal of the 27th, Kirkpatrick of the 32nd, Williams of the
+25th, Hodges of the 3rd and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 11 of Title 15 of the Official Code of Georgia Annotated, relating to the
+2 Juvenile Code, so as to provide for certain procedures to be followed when there is a
+3 determination of suspected child abuse or neglect; to provide for a physician holding
+4 temporary physical custody of a child based on a suspicion of child abuse or neglect to
+5 provide certain information to a parent or legal guardian and to the Division of Family and
+6 Children Services; to provide for a definition; to provide for a parent or legal guardian to
+7 obtain an independent medical evaluation or specialty consultation; to provide for a court to
+8 consider the results of any independent medical evaluation or specialty consultation; to
+9 provide for related matters; to provide for an effective date and applicability; to repeal
+10 conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Chapter 11 of Title 15 of the Official Code of Georgia Annotated, relating to the Juvenile
+14 Code, is amended in Article 3, relating to dependency proceedings, by revising subsection (b)
+15 of Code Section 15-11-131, relating to temporary protective custody of child by physician
+16 without court order and without parental consent and immunity, as follows:
+S. B. 259
+- 1 -
+
+25 LC 52 0801
+17 "(b) A physician holding a child in temporary protective custody shall:
+18 (1) Make reasonable and diligent efforts to inform the child's parents, guardian, or legal
+19 custodian of the whereabouts of such child and the right to obtain an independent medical
+20 evaluation or specialty consultation as provided for under Code Section 15-11-131.1;
+21 (2) As soon as possible, make a report of the suspected abuse or neglect which caused
+22 him or her to take temporary custody of the child and inform DFCS of the basis of his or
+23 her determinations, including whether a physical examination was conducted and what
+24 medical records were reviewed, and that such child has been held in temporary custody;
+25 and
+26 (3) Not later than 24 hours after such child is held in temporary custody:
+27 (A) Contact a juvenile court intake officer, and inform such intake officer that such
+28 child is in imminent danger to his or her life or health as a result of suspected abuse or
+29 neglect; or
+30 (B) Contact a law enforcement officer who shall take such child and promptly bring
+31 such child before a juvenile court intake officer."
+32 SECTION 2.
+33 Said chapter is further amended in said article by adding a new Code section to read as
+34 follows:
+35 "15-11-131.1.
+36 (a) As used in this Code section, the term 'specialty consultation' means a consultation with
+37 a physician licensed to practice medicine in this state and board certified in the relevant
+38 field or specialty, including radiology, genetics, orthopedics, and endocrinology, to
+39 diagnose and treat certain unique health conditions, including rickets, Ehlers-Danlos
+40 syndrome, osteogenesis imperfecta, vitamin D deficiency, or other medical conditions that
+41 mimic the physical manifestations of child abuse or neglect or increase the risk of
+42 misdiagnosis of child abuse or neglect.
+S. B. 259
+- 2 -
+
+25 LC 52 0801
+43 (b) Any parent or legal guardian of a child who is taken into temporary protective custody
+44 pursuant to Code Section 15-11-131 shall have the right to obtain an independent medical
+45 evaluation and a specialty consultation of such child at his or her own expense unless
+46 prohibited by court order. Physicians and medical professionals, law enforcement officers,
+47 and DFCS shall cooperate as may reasonably be necessary to facilitate any independent
+48 medical evaluation or specialty consultation for such child.
+49 (c) At any hearing concerning a child before the court in a dependency proceeding
+50 pursuant to this article, the court shall consider the results from any independent medical
+51 evaluation or specialty consultation of such child.
+52 (d) No adjudication hearing scheduled in accordance with Part 8 of this article shall be
+53 continued solely because the results from an independent medical evaluation or specialty
+54 consultation of the child before the court are unavailable."
+55 SECTION 3.
+56 This Act shall become effective upon its approval by the Governor or upon its becoming law
+57 without such approval and shall apply to any legal action filed on or after such effective date.
+58 SECTION 4.
+59 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 259
+- 3 -
+
+[DELETED: 5L o s c a o n t p f a p h]
+[DELETED: 5L o s i r g o a e t a t c u h c i r E t p m o c a o n o i t r o]
+[DELETED: 5L c]

@@ -1,0 +1,334 @@
+Title: Senate Bill 348
+Official Title: Senate Bill 348
+Number of Sections: 1
+Source: versions - As Passed Senate
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 47 3592
+By: Senator Lucas of the 26th
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend an Act creating a Board of County Commissioners of Hancock County, approved
+2 October 5, 1885 (Ga. L. 1884-85, p. 435), as amended, particularly by an Act approved
+3 May 6, 2013 (Ga. L. 2013, p. 4328), so as to change the description of the commissioner
+4 districts; to provide for definitions and inclusions; to provide for the continuation in office
+5 of current members; to provide for related matters; to provide an effective date; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 An Act creating a Board of County Commissioners of Hancock County, approved
+10 October 5, 1885 (Ga. L. 1884-85, p. 435), as amended, particularly by an Act approved
+11 May 6, 2013 (Ga. L. 2013, p. 4328), is amended by revising subsections (b) and (c) of
+12 Section II as follows:
+13 "(b) For the purpose of electing members of the board other than the chairperson, Hancock
+14 County shall be divided into four commissioner districts. Commissioner Districts 1, 2, 3,
+15 and 4 shall be and correspond to those four numbered districts described in Appendix A
+16 attached to and made a part of this Act and further identified as 'User: SD26 Plan Name:
+S. B. 348
+- 1 -
+25 LC 47 3592
+17 HancockCCSB-2025 Plan Type: Local'. The chairperson shall be elected by the electors
+18 of the entire county.
+19 (c)(1) For the purposes of such plan:
+20 (A) The term 'VTD' shall mean and describe the same geographical boundaries as
+21 provided in the report of the Bureau of the Census for the United States decennial
+22 census of 2020 for the State of Georgia. The separate numeric designations in a district
+23 description which are underneath a VTD heading shall mean and describe individual
+24 Blocks within a VTD as provided in the report of the Bureau of the Census for the
+25 United States decennial census of 2020 for the State of Georgia; and
+26 (B) Except as otherwise provided in the description of any district, whenever the
+27 description of any district refers to a named city, it shall mean the geographical
+28 boundaries of that city as shown on the census maps for the United States decennial
+29 census of 2020 for the State of Georgia.
+30 (2) Any part of Hancock County which is not included in any district described in
+31 subsection (b) of this section shall be included within that district contiguous to such part
+32 which contains the least population according to the United States decennial census
+33 of 2020 for the State of Georgia.
+34 (3) Any part of Hancock County which is described in subsection (b) of this section as
+35 being included in a particular district shall nevertheless not be included within such
+36 district if such part is not contiguous to such district. Such noncontiguous part shall
+37 instead be included within that district contiguous to such part which contains the least
+38 population according to the United States decennial census of 2020 for the State of
+39 Georgia."
+40 SECTION 2.
+41 (a) Those members of the Board of County Commissioners of Hancock County who are
+42 serving as such on the effective date of this Act and any person selected to fill a vacancy in
+S. B. 348
+- 2 -
+25 LC 47 3592
+43 any such office shall continue to serve as such members until the regular expiration of their
+44 respective terms of office and upon the election and qualification of their respective
+45 successors.
+46 (b) Commissioner Districts 1, 2, 3, and 4, as they exist immediately prior to the effective
+47 date of this Act, shall continue to be designated as Commissioner Districts 1, 2, 3, and 4,
+48 respectively, but as newly described under this Act, and on and after the effective date of this
+49 Act, such members of the board serving from those former commissioner districts shall be
+50 deemed to be serving from and representing their respective districts as newly described
+51 under this Act.
+52 SECTION 3.
+53 This Act shall become effective on July 1, 2025.
+54 SECTION 4.
+55 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 348
+- 3 -
+25 LC 47 3592
+56 APPENDIX A
+57 User: SD26
+58 Plan Name: HancockCCSB-2025
+59 Plan Type: Local
+60 District 001
+61 County Hancock GA
+62 VTD DEVEREUX FIRE STATION
+63 Block 480300
+64 1006 1008 1009 1023 1024 1025 1026 1027 1028 1029 1031 1032
+65 1033 1040 1041 1042 1043 1044 1045 1046 1047 1048 1052 1053
+66 1054 1055 1056 1057 1058 1059 1060 1061 1062 1063 1064 1065
+67 1066 1067 1068 1069 1070 1071 1072 1073 1074 1075 1076 1077
+68 1078 1079 1080 1081 1082 1083 1084 1085 1086 1087 1088 1090
+69 1091 1092 1093 1094 1095 1096 1097 1098 1099 1100 1103 1104
+70 1105 1112 1113 1114 1115 1116 1124 1125 1126 1140 1141 1142
+71 1143 1145 1146 1147 1149 1150 1151 1154 1155 1156 1157 1173
+72 1178 1179
+73 VTD SECOND BEULAH
+74 Block 480300
+75 1122 1123
+76 Block 480400
+77 5018 5019 5026 5027 5045 5046
+78 VTD ST. MARK
+S. B. 348
+- 4 -
+25 LC 47 3592
+79 District 002
+80 County Hancock GA
+81 VTD COURTHOUSE
+82 Block 480400
+83 2045 2046 2047 2048 2049 2050 2051 2052 2065 2066 2067 2068
+84 2069 2071 2077 3000 3001 3002 3003 3004 3005 3006 3007 3008
+85 3009 3012 3014 3015 3016 3017 3018 3019 3020 4089 4090 4091
+86 5000 5001 5002 5023
+87 VTD DEVEREUX FIRE STATION
+88 Block 480300
+89 1089 1101 1102 1106 1107 1108 1109 1110 1111 1175 1176 1177
+90 VTD SECOND BEULAH
+91 Block 480300
+92 1117 1118 1119 1120 1121 1127 1128 1129 1130 1131 1132 1133
+93 1134 1135 1136 1137 1138 1139 1144 1148 1152 1153 1158 1159
+94 1160 1161 1162 1163 1164 1165 1166 1167 1168 1169 1170 1171
+95 1172 2002 2003 2004 2005 2006 2007 2008 2012 2013 2015 2016
+96 2017 2024
+97 Block 480400
+98 1016 1017 1018 1019 1020 1021 1022 1023 1024 1027 1043 1051
+99 1052 1053 1054 1055 1056 1057 1058 1059 1060 1091 1092 3021
+100 3022 3023 5006 5022 5024 5025 5028 5029 5032 5033 5034 5035
+101 5036 5037 5038 5039 5041 5042 5043 5044 5047 5052 5053 5055
+102 District 003
+103 County Hancock GA
+104 VTD DEVEREUX FIRE STATION
+S. B. 348
+- 5 -
+25 LC 47 3592
+105 Block 480300
+106 1004 1005 1010 1011 1012 1013 1034 1035 1036 1037 1038 1039
+107 1049 1050 1051 1174
+108 VTD MAYFIELD COMMUNITY CENTER
+109 VTD POWER OF GOD
+110 VTD WARREN CHAPEL
+111 District 004
+112 County Hancock GA
+113 VTD COURTHOUSE
+114 Block 480400
+115 2053 2054 2055 2056 2062 2063 2064 2070 2072 2073 2074 2075
+116 2076 2078 2079
+117 VTD SECOND DARRIEN
+118 VTD SPARTA 4C
+119 VTD YOUTH CENTER
+120 Block 480300
+121 2000
+122 Block 480400
+123 1000 1002 1003 1004 1005 1006 1007 1008 1009 1010 1011 1012
+124 1013 1014 1015 1025 1026 1028 1029 1031 1032 1033 1034 1035
+125 1036 1037 1038 1039 1040 1041 1042 1044 1045 1046 1047 1048
+126 1049 1050 1061 1062 1063 1068 1069 1071 1072 1073 1078 1093
+127 1094 2094 3010 3011 3013 3024 3025 3026 3027 3028 3029 3030
+128 3031 3032 3033 3034 3035 3036 3037 3038 3039 3040
+S. B. 348
+- 6 -
+[DELETED: 5L A c a B o C C o H C a]
+[DELETED: 5L o a d r t a n c i s m t g]
+[DELETED: 5L t o o a u t e a q o t r]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 47 3592
+Senate Bill 348
+By: Senator Lucas of the 26th
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend an Act creating a Board of County Commissioners of Hancock County, approved
+2 October 5, 1885 (Ga. L. 1884-85, p. 435), as amended, particularly by an Act approved
+3 May 6, 2013 (Ga. L. 2013, p. 4328), so as to change the description of the commissioner
+4 districts; to provide for definitions and inclusions; to provide for the continuation in office
+5 of current members; to provide for related matters; to provide an effective date; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 An Act creating a Board of County Commissioners of Hancock County, approved
+10 October 5, 1885 (Ga. L. 1884-85, p. 435), as amended, particularly by an Act approved
+11 May 6, 2013 (Ga. L. 2013, p. 4328), is amended by revising subsections (b) and (c) of
+12 Section II as follows:
+13 "(b) For the purpose of electing members of the board other than the chairperson, Hancock
+14 County shall be divided into four commissioner districts. Commissioner Districts 1, 2, 3,
+15 and 4 shall be and correspond to those four numbered districts described in Appendix A
+16 attached to and made a part of this Act and further identified as 'User: SD26 Plan Name:
+S. B. 348
+- 1 -
+
+25 LC 47 3592
+17 HancockCCSB-2025 Plan Type: Local'. The chairperson shall be elected by the electors
+18 of the entire county.
+19 (c)(1) For the purposes of such plan:
+20 (A) The term 'VTD' shall mean and describe the same geographical boundaries as
+21 provided in the report of the Bureau of the Census for the United States decennial
+22 census of 2020 for the State of Georgia. The separate numeric designations in a district
+23 description which are underneath a VTD heading shall mean and describe individual
+24 Blocks within a VTD as provided in the report of the Bureau of the Census for the
+25 United States decennial census of 2020 for the State of Georgia; and
+26 (B) Except as otherwise provided in the description of any district, whenever the
+27 description of any district refers to a named city, it shall mean the geographical
+28 boundaries of that city as shown on the census maps for the United States decennial
+29 census of 2020 for the State of Georgia.
+30 (2) Any part of Hancock County which is not included in any district described in
+31 subsection (b) of this section shall be included within that district contiguous to such part
+32 which contains the least population according to the United States decennial census
+33 of 2020 for the State of Georgia.
+34 (3) Any part of Hancock County which is described in subsection (b) of this section as
+35 being included in a particular district shall nevertheless not be included within such
+36 district if such part is not contiguous to such district. Such noncontiguous part shall
+37 instead be included within that district contiguous to such part which contains the least
+38 population according to the United States decennial census of 2020 for the State of
+39 Georgia."
+40 SECTION 2.
+41 (a) Those members of the Board of County Commissioners of Hancock County who are
+42 serving as such on the effective date of this Act and any person selected to fill a vacancy in
+S. B. 348
+- 2 -
+
+25 LC 47 3592
+43 any such office shall continue to serve as such members until the regular expiration of their
+44 respective terms of office and upon the election and qualification of their respective
+45 successors.
+46 (b) Commissioner Districts 1, 2, 3, and 4, as they exist immediately prior to the effective
+47 date of this Act, shall continue to be designated as Commissioner Districts 1, 2, 3, and 4,
+48 respectively, but as newly described under this Act, and on and after the effective date of this
+49 Act, such members of the board serving from those former commissioner districts shall be
+50 deemed to be serving from and representing their respective districts as newly described
+51 under this Act.
+52 SECTION 3.
+53 This Act shall become effective on July 1, 2025.
+54 SECTION 4.
+55 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 348
+- 3 -
+
+25 LC 47 3592
+56 APPENDIX A
+57 User: SD26
+58 Plan Name: HancockCCSB-2025
+59 Plan Type: Local
+60 District 001
+61 County Hancock GA
+62 VTD DEVEREUX FIRE STATION
+63 Block 480300
+64 1006 1008 1009 1023 1024 1025 1026 1027 1028 1029 1031 1032
+65 1033 1040 1041 1042 1043 1044 1045 1046 1047 1048 1052 1053
+66 1054 1055 1056 1057 1058 1059 1060 1061 1062 1063 1064 1065
+67 1066 1067 1068 1069 1070 1071 1072 1073 1074 1075 1076 1077
+68 1078 1079 1080 1081 1082 1083 1084 1085 1086 1087 1088 1090
+69 1091 1092 1093 1094 1095 1096 1097 1098 1099 1100 1103 1104
+70 1105 1112 1113 1114 1115 1116 1124 1125 1126 1140 1141 1142
+71 1143 1145 1146 1147 1149 1150 1151 1154 1155 1156 1157 1173
+72 1178 1179
+73 VTD SECOND BEULAH
+74 Block 480300
+75 1122 1123
+76 Block 480400
+77 5018 5019 5026 5027 5045 5046
+78 VTD ST. MARK
+S. B. 348
+- 4 -
+
+25 LC 47 3592
+79 District 002
+80 County Hancock GA
+81 VTD COURTHOUSE
+82 Block 480400
+83 2045 2046 2047 2048 2049 2050 2051 2052 2065 2066 2067 2068
+84 2069 2071 2077 3000 3001 3002 3003 3004 3005 3006 3007 3008
+85 3009 3012 3014 3015 3016 3017 3018 3019 3020 4089 4090 4091
+86 5000 5001 5002 5023
+87 VTD DEVEREUX FIRE STATION
+88 Block 480300
+89 1089 1101 1102 1106 1107 1108 1109 1110 1111 1175 1176 1177
+90 VTD SECOND BEULAH
+91 Block 480300
+92 1117 1118 1119 1120 1121 1127 1128 1129 1130 1131 1132 1133
+93 1134 1135 1136 1137 1138 1139 1144 1148 1152 1153 1158 1159
+94 1160 1161 1162 1163 1164 1165 1166 1167 1168 1169 1170 1171
+95 1172 2002 2003 2004 2005 2006 2007 2008 2012 2013 2015 2016
+96 2017 2024
+97 Block 480400
+98 1016 1017 1018 1019 1020 1021 1022 1023 1024 1027 1043 1051
+99 1052 1053 1054 1055 1056 1057 1058 1059 1060 1091 1092 3021
+100 3022 3023 5006 5022 5024 5025 5028 5029 5032 5033 5034 5035
+101 5036 5037 5038 5039 5041 5042 5043 5044 5047 5052 5053 5055
+102 District 003
+103 County Hancock GA
+104 VTD DEVEREUX FIRE STATION
+S. B. 348
+- 5 -
+
+25 LC 47 3592
+105 Block 480300
+106 1004 1005 1010 1011 1012 1013 1034 1035 1036 1037 1038 1039
+107 1049 1050 1051 1174
+108 VTD MAYFIELD COMMUNITY CENTER
+109 VTD POWER OF GOD
+110 VTD WARREN CHAPEL
+111 District 004
+112 County Hancock GA
+113 VTD COURTHOUSE
+114 Block 480400
+115 2053 2054 2055 2056 2062 2063 2064 2070 2072 2073 2074 2075
+116 2076 2078 2079
+117 VTD SECOND DARRIEN
+118 VTD SPARTA 4C
+119 VTD YOUTH CENTER
+120 Block 480300
+121 2000
+122 Block 480400
+123 1000 1002 1003 1004 1005 1006 1007 1008 1009 1010 1011 1012
+124 1013 1014 1015 1025 1026 1028 1029 1031 1032 1033 1034 1035
+125 1036 1037 1038 1039 1040 1041 1042 1044 1045 1046 1047 1048
+126 1049 1050 1061 1062 1063 1068 1069 1071 1072 1073 1078 1093
+127 1094 2094 3010 3011 3013 3024 3025 3026 3027 3028 3029 3030
+128 3031 3032 3033 3034 3035 3036 3037 3038 3039 3040
+S. B. 348
+- 6 -
+
+[DELETED: 5L A c a B o C C o H C a]
+[DELETED: 5L o a d r t a n c i s m t g]
+[DELETED: 5L t o o a u t e a q o t r]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]

@@ -1,0 +1,395 @@
+Title: Senate Bill 159
+Official Title: Senate Bill 159
+Number of Sections: 1
+Source: versions - As introduced LC 48 1472
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+25 LC 48 1472
+By: Senators Jackson of the 41st and McLaurin of the 14th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure,
+2 so as to provide for pretrial proceedings in capital offense cases where the death penalty is
+3 sought when the accused has intellectual disability; to provide for a definition; to provide for
+4 notice of intent to claim intellectual disability; to provide for pretrial determination of
+5 intellectual disability; to provide for verdicts; to provide for capital case procedures; to
+6 provide for reports investigating reversible error; to provide for a standard of review; to
+7 provide for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, is
+11 amended by adding a new Code section to Part 2 of Article 6 of Chapter 7, relating to
+12 insanity and mental incompetency, to read as follows:
+13 "17-7-128.
+14 (a) As used in this Code section, the term 'intellectual disability' shall have the same
+15 meaning as set forth in Code Section 17-7-131.
+S. B. 159
+- 1 -
+25 LC 48 1472
+16 (b) In criminal cases involving a capital offense for which the death penalty is sought, the
+17 accused may file a pretrial notice of intent to raise a claim of intellectual disability. Such
+18 notice shall state that the accused has intellectual disability.
+19 (c) A pretrial hearing on the issue of whether the defendant has intellectual disability:
+20 (1) May be conducted upon motion of the defendant, at the discretion of the court; or
+21 (2) Shall be conducted upon joint consent motion of the defendant and the state to
+22 proceed with a pretrial hearing to determine if the accused has intellectual disability.
+23 (d) Such pretrial determination of intellectual disability shall be made by the court sitting
+24 as the finder of fact.
+25 (e) The defendant shall have the burden of production and persuasion to demonstrate
+26 intellectual disability by a preponderance of the evidence and if such pretrial determination
+27 does not find the defendant to have intellectual disability, he or she shall not be precluded
+28 from raising such issue in further proceedings.
+29 (f) If the defendant is found to have intellectual disability, the court shall bar the state from
+30 seeking the death penalty. If the court does not find that the defendant has intellectual
+31 disability, the defendant may raise the issue of his or her alleged intellectual disability as
+32 set forth in paragraph (2) of subsection (b) of Code Section 17-7-131.
+33 (g) Either party may seek immediate review of the trial court's determination regarding
+34 intellectual disability, as provided in subsection (b) of Code Section 5-6-34."
+35 SECTION 2.
+36 Said title is further amended by revising subsections (b) and (c) and adding a new paragraph
+37 to subsection (j) of Code Section 17-7-131, relating to proceedings upon plea of insanity or
+38 mental incompetency at time of crime, to read as follows:
+39 "(b)(1) In all cases in which the defense of insanity, mental illness, or intellectual
+40 disability is interposed, the jury, or the court if tried by it, shall find whether the
+41 defendant is:
+S. B. 159
+- 2 -
+25 LC 48 1472
+42 (A) Guilty;
+43 (B) Not guilty;
+44 (C) Not guilty by reason of insanity at the time of the crime;
+45 (D) Guilty but mentally ill at the time of the crime, but the finding of guilty but
+46 mentally ill shall be made only in felony cases; or
+47 (E) Guilty but with intellectual disability, but the finding of intellectual disability shall
+48 be made only in felony cases.
+49 (2)(A) A plea of guilty but mentally ill at the time of the crime or a plea of guilty but
+50 with intellectual disability shall not be accepted until the defendant has undergone
+51 examination by a licensed psychologist or psychiatrist and the court has examined the
+52 psychological or psychiatric reports, held a hearing on the issue of the defendant's
+53 mental condition, and is satisfied that there is a factual basis that the defendant was
+54 mentally ill at the time of the offense or has intellectual disability to which the plea is
+55 entered.
+56 (2.1)(B) A plea of not guilty by reason of insanity at the time of the crime shall not be
+57 accepted and the defendant adjudicated not guilty by reason of insanity by the court
+58 without a jury until the defendant has undergone examination by a licensed
+59 psychologist or psychiatrist and the court has examined the psychological or psychiatric
+60 reports, has held a hearing on the issue of the defendant's mental condition, and the
+61 court is satisfied that the defendant was insane at the time of the crime according to the
+62 criteria of set forth in Code Section 16-3-2 or 16-3-3.
+63 (C) In criminal cases involving a capital offense for which the death penalty is sought
+64 and a pretrial notice of intent to raise a claim of intellectual disability has been filed, the
+65 procedure set forth in Code Section 17-7-128 shall be followed.
+66 (3)(D) In all cases and applicable criminal trials in which the defense of insanity,
+67 mental illness, or intellectual disability is interposed, the trial judge shall charge the
+68 jury, in addition to other appropriate charges, the following:
+S. B. 159
+- 3 -
+25 LC 48 1472
+69 (A)(i) 'I I charge you that should you find the defendant not guilty by reason of
+70 insanity at the time of the crime, the defendant will be committed to a state mental
+71 health facility until such time, if ever, that the court is satisfied that he or she should
+72 be released pursuant to law. law';
+73 (B)(ii) 'I I charge you that should you find the defendant guilty but mentally ill at the
+74 time of the crime, the defendant will be placed in the custody of the Department of
+75 Corrections which will have responsibility for the evaluation and treatment of the
+76 mental health needs of the defendant, which may include, at the discretion of the
+77 Department of Corrections, referral for temporary hospitalization at a facility operated
+78 by the Department of Behavioral Health and Developmental Disabilities. Disabilities';
+79 and
+80 (C)(iii) 'I I charge you that should you find the defendant guilty but with intellectual
+81 disability, the defendant will be placed in the custody of the Department of
+82 Corrections, which will have responsibility for the evaluation and treatment of the
+83 mental health needs of the defendant, which may include, at the discretion of the
+84 Department of Corrections, referral for temporary hospitalization at a facility operated
+85 by the Department of Behavioral Health and Developmental Disabilities. Disabilities'.
+86 (c) Except as provided in paragraph (4) of this subsection, In all criminal trials in any of
+87 the courts of this state wherein an accused shall contend that he or she was insane, mentally
+88 ill, or intellectually disabled had intellectual disability at the time the act or acts charged
+89 against him or her were committed, the trial judge shall instruct the jury that they may
+90 consider, in addition to verdicts of 'guilty' and 'not guilty,' the additional verdicts of 'not
+91 guilty by reason of insanity at the time of the crime,' 'guilty but mentally ill at the time of
+92 the crime,' and 'guilty but with intellectual disability.' The defendant may:
+93 (1) The defendant may be Be found 'not guilty by reason of insanity at the time of the
+94 crime' if he or she meets the criteria of Code Section 16-3-2 or 16-3-3 at the time of the
+S. B. 159
+- 4 -
+25 LC 48 1472
+95 commission of the crime. If the court or jury should make such finding, it shall so
+96 specify in its verdict.
+97 (2) The defendant may be Be found 'guilty but mentally ill at the time of the crime' if the
+98 jury, or court acting as trier of facts, finds beyond a reasonable doubt that the defendant
+99 is guilty of the crime charged and was mentally ill at the time of the commission of the
+100 crime. If the court or jury should make such finding, it shall so specify in its verdict.
+101 (3) Be guilty but with intellectual disability if the jury, or court acting as trier of facts,
+102 both convicts the defendant beyond a reasonable doubt and finds by a preponderance of
+103 the evidence that the defendant has intellectual disability. The defendant may be found
+104 'guilty but with intellectual disability' if the jury, or court acting as trier of facts, finds
+105 beyond a reasonable doubt that the defendant is guilty of the crime charged and is with
+106 intellectual disability. If the court or jury should make such finding, it shall so specify
+107 in its verdict.
+108 (4) After July 1, 2025, when the death penalty has been sought and the defendant
+109 contends he or she has intellectual disability, the court shall instruct the jury that it shall
+110 consider whether it finds beyond a reasonable doubt that the defendant is guilty of the
+111 crime charged. If the jury convicts the defendant of such capital crime, the defendant
+112 shall then present evidence regarding his or her alleged intellectual disability. The State
+113 shall have the opportunity to present evidence in response, and the defendant may offer
+114 evidence in rebuttal. Following the presentation of evidence, the court shall instruct the
+115 jury that if the jury finds by a preponderance of the evidence that the defendant has
+116 intellectual disability, such jury shall enter a separate finding of 'intellectual disability'
+117 and so specify in its verdict. If the jury does not find by a preponderance of the evidence
+118 that the defendant has intellectual disability, such jury shall enter a separate finding of 'no
+119 intellectual disability.' When the jury returns a finding of 'no intellectual disability,' there
+120 shall be a capital sentencing proceeding as provided for in Code Section 17-10-30."
+S. B. 159
+- 5 -
+25 LC 48 1472
+121 "(3) In the trial of any case in which the death penalty is sought which commences on or
+122 after July 1, 2025, should the judge find in accepting a plea of guilty but with intellectual
+123 disability, or the jury or court find in its verdict that the defendant is guilty of the crime
+124 charged but with intellectual disability, the death penalty shall not be imposed and the
+125 court shall sentence the defendant to imprisonment for life."
+126 SECTION 3.
+127 Said title is further amended by revising subsection (d) of Code Section 17-7-171, relating
+128 to time for a demand for speedy trial in capital cases, discharge and acquittal when no trial
+129 held before end of two court terms of demand, counting of terms in cases in which death
+130 penalty is sought, and special pleas of incompetency, as follows:
+131 "(d) If a defendant files a pretrial notice of intent to raise a claim of intellectual disability
+132 pursuant to Code Section 17-7-128 or a special plea of incompetency to stand trial pursuant
+133 to Code Section 17-7-130 or if the court, pursuant to Code Section 17-7-129, conducts a
+134 trial on the competency of the defendant, the period of time during which such matter is
+135 pending shall not be included in the computation of determining whether a demand for
+136 speedy trial has been satisfied."
+137 SECTION 4.
+138 Said title is further amended by revising subsection (b) of Code Section 17-10-35.1, relating
+139 to the review of pretrial proceedings when death penalty is sought, reports investigating
+140 reversible error, transmittal of reports to Supreme Court, orders regarding review, Attorney
+141 General assistance, res judicata, applicability, and waiver of rights, as follows:
+142 "(b) The reports of the trial judge, prosecutor, prosecuting attorney, and defendant under
+143 subsection (a) of this Code section shall be in the form of standard questionnaires prepared
+144 and supplied by the Supreme Court. Such questionnaires shall be designed to determine
+S. B. 159
+- 6 -
+25 LC 48 1472
+145 whether there is arguably any existence of reversible error with respect to any of the
+146 following matters:
+147 (1) Any proceedings with respect to change of venue;
+148 (2) Any proceedings with respect to recusal of the trial judge;
+149 (3) Any challenge to the jury array;
+150 (4) Any motion to suppress evidence;
+151 (5) Any motion for psychiatric or other medical evaluation; and
+152 (6) Any proceedings with respect to a pretrial determination of intellectual disability; and
+153 (6)(7) Any other matter deemed appropriate by the Supreme Court.
+154 SECTION 5.
+155 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 159
+- 7 -
+[DELETED: 5L 1 o t O C o G A r t c p i]
+[DELETED: 5L i i t j o t c i t b i s f w t]
+[DELETED: 5L a j u t d h u e b a l]
+[DELETED: 5L t d w b p i t c o t D o]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 48 1472
+Senate Bill 159
+By: Senators Jackson of the 41st and McLaurin of the 14th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure,
+2 so as to provide for pretrial proceedings in capital offense cases where the death penalty is
+3 sought when the accused has intellectual disability; to provide for a definition; to provide for
+4 notice of intent to claim intellectual disability; to provide for pretrial determination of
+5 intellectual disability; to provide for verdicts; to provide for capital case procedures; to
+6 provide for reports investigating reversible error; to provide for a standard of review; to
+7 provide for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, is
+11 amended by adding a new Code section to Part 2 of Article 6 of Chapter 7, relating to
+12 insanity and mental incompetency, to read as follows:
+13 "17-7-128.
+14 (a) As used in this Code section, the term 'intellectual disability' shall have the same
+15 meaning as set forth in Code Section 17-7-131.
+S. B. 159
+- 1 -
+
+25 LC 48 1472
+16 (b) In criminal cases involving a capital offense for which the death penalty is sought, the
+17 accused may file a pretrial notice of intent to raise a claim of intellectual disability. Such
+18 notice shall state that the accused has intellectual disability.
+19 (c) A pretrial hearing on the issue of whether the defendant has intellectual disability:
+20 (1) May be conducted upon motion of the defendant, at the discretion of the court; or
+21 (2) Shall be conducted upon joint consent motion of the defendant and the state to
+22 proceed with a pretrial hearing to determine if the accused has intellectual disability.
+23 (d) Such pretrial determination of intellectual disability shall be made by the court sitting
+24 as the finder of fact.
+25 (e) The defendant shall have the burden of production and persuasion to demonstrate
+26 intellectual disability by a preponderance of the evidence and if such pretrial determination
+27 does not find the defendant to have intellectual disability, he or she shall not be precluded
+28 from raising such issue in further proceedings.
+29 (f) If the defendant is found to have intellectual disability, the court shall bar the state from
+30 seeking the death penalty. If the court does not find that the defendant has intellectual
+31 disability, the defendant may raise the issue of his or her alleged intellectual disability as
+32 set forth in paragraph (2) of subsection (b) of Code Section 17-7-131.
+33 (g) Either party may seek immediate review of the trial court's determination regarding
+34 intellectual disability, as provided in subsection (b) of Code Section 5-6-34."
+35 SECTION 2.
+36 Said title is further amended by revising subsections (b) and (c) and adding a new paragraph
+37 to subsection (j) of Code Section 17-7-131, relating to proceedings upon plea of insanity or
+38 mental incompetency at time of crime, to read as follows:
+39 "(b)(1) In all cases in which the defense of insanity, mental illness, or intellectual
+40 disability is interposed, the jury, or the court if tried by it, shall find whether the
+41 defendant is:
+S. B. 159
+- 2 -
+
+25 LC 48 1472
+42 (A) Guilty;
+43 (B) Not guilty;
+44 (C) Not guilty by reason of insanity at the time of the crime;
+45 (D) Guilty but mentally ill at the time of the crime, but the finding of guilty but
+46 mentally ill shall be made only in felony cases; or
+47 (E) Guilty but with intellectual disability, but the finding of intellectual disability shall
+48 be made only in felony cases.
+49 (2)(A) A plea of guilty but mentally ill at the time of the crime or a plea of guilty but
+50 with intellectual disability shall not be accepted until the defendant has undergone
+51 examination by a licensed psychologist or psychiatrist and the court has examined the
+52 psychological or psychiatric reports, held a hearing on the issue of the defendant's
+53 mental condition, and is satisfied that there is a factual basis that the defendant was
+54 mentally ill at the time of the offense or has intellectual disability to which the plea is
+55 entered.
+56 (2.1)(B) A plea of not guilty by reason of insanity at the time of the crime shall not be
+57 accepted and the defendant adjudicated not guilty by reason of insanity by the court
+58 without a jury until the defendant has undergone examination by a licensed
+59 psychologist or psychiatrist and the court has examined the psychological or psychiatric
+60 reports, has held a hearing on the issue of the defendant's mental condition, and the
+61 court is satisfied that the defendant was insane at the time of the crime according to the
+62 criteria of set forth in Code Section 16-3-2 or 16-3-3.
+63 (C) In criminal cases involving a capital offense for which the death penalty is sought
+64 and a pretrial notice of intent to raise a claim of intellectual disability has been filed, the
+65 procedure set forth in Code Section 17-7-128 shall be followed.
+66 (3)(D) In all cases and applicable criminal trials in which the defense of insanity,
+67 mental illness, or intellectual disability is interposed, the trial judge shall charge the
+68 jury, in addition to other appropriate charges, the following:
+S. B. 159
+- 3 -
+
+25 LC 48 1472
+69 (A)(i) 'I I charge you that should you find the defendant not guilty by reason of
+70 insanity at the time of the crime, the defendant will be committed to a state mental
+71 health facility until such time, if ever, that the court is satisfied that he or she should
+72 be released pursuant to law. law';
+73 (B)(ii) 'I I charge you that should you find the defendant guilty but mentally ill at the
+74 time of the crime, the defendant will be placed in the custody of the Department of
+75 Corrections which will have responsibility for the evaluation and treatment of the
+76 mental health needs of the defendant, which may include, at the discretion of the
+77 Department of Corrections, referral for temporary hospitalization at a facility operated
+78 by the Department of Behavioral Health and Developmental Disabilities. Disabilities';
+79 and
+80 (C)(iii) 'I I charge you that should you find the defendant guilty but with intellectual
+81 disability, the defendant will be placed in the custody of the Department of
+82 Corrections, which will have responsibility for the evaluation and treatment of the
+83 mental health needs of the defendant, which may include, at the discretion of the
+84 Department of Corrections, referral for temporary hospitalization at a facility operated
+85 by the Department of Behavioral Health and Developmental Disabilities. Disabilities'.
+86 (c) Except as provided in paragraph (4) of this subsection, In all criminal trials in any of
+87 the courts of this state wherein an accused shall contend that he or she was insane, mentally
+88 ill, or intellectually disabled had intellectual disability at the time the act or acts charged
+89 against him or her were committed, the trial judge shall instruct the jury that they may
+90 consider, in addition to verdicts of 'guilty' and 'not guilty,' the additional verdicts of 'not
+91 guilty by reason of insanity at the time of the crime,' 'guilty but mentally ill at the time of
+92 the crime,' and 'guilty but with intellectual disability.' The defendant may:
+93 (1) The defendant may be Be found 'not guilty by reason of insanity at the time of the
+94 crime' if he or she meets the criteria of Code Section 16-3-2 or 16-3-3 at the time of the
+S. B. 159
+- 4 -
+
+25 LC 48 1472
+95 commission of the crime. If the court or jury should make such finding, it shall so
+96 specify in its verdict.
+97 (2) The defendant may be Be found 'guilty but mentally ill at the time of the crime' if the
+98 jury, or court acting as trier of facts, finds beyond a reasonable doubt that the defendant
+99 is guilty of the crime charged and was mentally ill at the time of the commission of the
+100 crime. If the court or jury should make such finding, it shall so specify in its verdict.
+101 (3) Be guilty but with intellectual disability if the jury, or court acting as trier of facts,
+102 both convicts the defendant beyond a reasonable doubt and finds by a preponderance of
+103 the evidence that the defendant has intellectual disability. The defendant may be found
+104 'guilty but with intellectual disability' if the jury, or court acting as trier of facts, finds
+105 beyond a reasonable doubt that the defendant is guilty of the crime charged and is with
+106 intellectual disability. If the court or jury should make such finding, it shall so specify
+107 in its verdict.
+108 (4) After July 1, 2025, when the death penalty has been sought and the defendant
+109 contends he or she has intellectual disability, the court shall instruct the jury that it shall
+110 consider whether it finds beyond a reasonable doubt that the defendant is guilty of the
+111 crime charged. If the jury convicts the defendant of such capital crime, the defendant
+112 shall then present evidence regarding his or her alleged intellectual disability. The State
+113 shall have the opportunity to present evidence in response, and the defendant may offer
+114 evidence in rebuttal. Following the presentation of evidence, the court shall instruct the
+115 jury that if the jury finds by a preponderance of the evidence that the defendant has
+116 intellectual disability, such jury shall enter a separate finding of 'intellectual disability'
+117 and so specify in its verdict. If the jury does not find by a preponderance of the evidence
+118 that the defendant has intellectual disability, such jury shall enter a separate finding of 'no
+119 intellectual disability.' When the jury returns a finding of 'no intellectual disability,' there
+120 shall be a capital sentencing proceeding as provided for in Code Section 17-10-30."
+S. B. 159
+- 5 -
+
+25 LC 48 1472
+121 "(3) In the trial of any case in which the death penalty is sought which commences on or
+122 after July 1, 2025, should the judge find in accepting a plea of guilty but with intellectual
+123 disability, or the jury or court find in its verdict that the defendant is guilty of the crime
+124 charged but with intellectual disability, the death penalty shall not be imposed and the
+125 court shall sentence the defendant to imprisonment for life."
+126 SECTION 3.
+127 Said title is further amended by revising subsection (d) of Code Section 17-7-171, relating
+128 to time for a demand for speedy trial in capital cases, discharge and acquittal when no trial
+129 held before end of two court terms of demand, counting of terms in cases in which death
+130 penalty is sought, and special pleas of incompetency, as follows:
+131 "(d) If a defendant files a pretrial notice of intent to raise a claim of intellectual disability
+132 pursuant to Code Section 17-7-128 or a special plea of incompetency to stand trial pursuant
+133 to Code Section 17-7-130 or if the court, pursuant to Code Section 17-7-129, conducts a
+134 trial on the competency of the defendant, the period of time during which such matter is
+135 pending shall not be included in the computation of determining whether a demand for
+136 speedy trial has been satisfied."
+137 SECTION 4.
+138 Said title is further amended by revising subsection (b) of Code Section 17-10-35.1, relating
+139 to the review of pretrial proceedings when death penalty is sought, reports investigating
+140 reversible error, transmittal of reports to Supreme Court, orders regarding review, Attorney
+141 General assistance, res judicata, applicability, and waiver of rights, as follows:
+142 "(b) The reports of the trial judge, prosecutor, prosecuting attorney, and defendant under
+143 subsection (a) of this Code section shall be in the form of standard questionnaires prepared
+144 and supplied by the Supreme Court. Such questionnaires shall be designed to determine
+S. B. 159
+- 6 -
+
+25 LC 48 1472
+145 whether there is arguably any existence of reversible error with respect to any of the
+146 following matters:
+147 (1) Any proceedings with respect to change of venue;
+148 (2) Any proceedings with respect to recusal of the trial judge;
+149 (3) Any challenge to the jury array;
+150 (4) Any motion to suppress evidence;
+151 (5) Any motion for psychiatric or other medical evaluation; and
+152 (6) Any proceedings with respect to a pretrial determination of intellectual disability; and
+153 (6)(7) Any other matter deemed appropriate by the Supreme Court.
+154 SECTION 5.
+155 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 159
+- 7 -
+
+[DELETED: 5L 1 o t O C o G A r t c p i]
+[DELETED: 5L i i t j o t c i t b i s f w t]
+[DELETED: 5L a j u t d h u e b a l]
+[DELETED: 5L t d w b p i t c o t D o]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]

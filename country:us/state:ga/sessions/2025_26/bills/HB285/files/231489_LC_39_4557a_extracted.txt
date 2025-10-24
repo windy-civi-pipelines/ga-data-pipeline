@@ -1,0 +1,236 @@
+Title: House Bill 285
+Official Title: House Bill 285
+Number of Sections: 1
+Source: versions - LC 39 4557/a
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4557
+By: Representative Buckner of the 137th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 35-3-34 of the Official Code of Georgia Annotated, relating to
+2 disclosure and dissemination of criminal records to private persons and businesses, resulting
+3 responsibility and liability of the Georgia Crime Information Center, and provision of certain
+4 information to the FBI in conjunction with the National Instant Criminal Background Check
+5 System, so as to provide for a judicial procedure for purging a person's involuntary
+6 hospitalization information received by the center for the purpose of the National Instant
+7 Criminal Background Check System under certain circumstances; to change provisions
+8 relating to the retention of a person's involuntary hospitalization information; to provide for
+9 related matters; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Code Section 35-3-34 of the Official Code of Georgia Annotated, relating to disclosure and
+13 dissemination of criminal records to private persons and businesses, resulting responsibility
+14 and liability of the Georgia Crime Information Center, and provision of certain information
+15 to the FBI in conjunction with the National Instant Criminal Background Check System, is
+16 amended by revising paragraph (2) of subsection (e) as follows:
+H. B. 285
+- 1 -
+25 LC 39 4557
+17 "(2)(A) The records of the Georgia Crime Information Center center shall include
+18 information as to whether a person has been involuntarily hospitalized.
+19 Notwithstanding any other provisions of law and in order to carry out the provisions of
+20 this Code section and Code Section 16-11-172, the Georgia Crime Information Center
+21 center shall be provided such information and no other mental health information from
+22 the involuntary hospitalization records of the probate courts concerning persons
+23 involuntarily hospitalized after March 22, 1995, in a manner agreed upon by the
+24 Probate Judges Training Council and the Georgia Bureau of Investigation The Council
+25 of Probate Court Judges of Georgia and the bureau to preserve the confidentiality of
+26 patients' rights in all other respects. Further, notwithstanding any other provisions of
+27 law and in order to carry out the provisions of this Code section and Code Section
+28 16-11-172, the center shall be provided information as to whether a person has been
+29 adjudicated mentally incompetent to stand trial or not guilty by reason of insanity at the
+30 time of the crime, has been involuntarily hospitalized, or both, from the records of the
+31 clerks of the superior courts concerning persons involuntarily hospitalized after
+32 March 22, 1995, in a manner agreed upon by The Council of Superior Court Clerks of
+33 Georgia and the Georgia Bureau of Investigation bureau to preserve the confidentiality
+34 of patients' rights in all other respects. After five years have elapsed from the date that
+35 a person's involuntary hospitalization information has been received by the Georgia
+36 Crime Information Center, the center shall purge its records of such information as soon
+37 as practicable and in any event purge such records within 30 days after the expiration
+38 of such five-year period.
+39 (B) When a person's mental health information has been submitted pursuant to
+40 subparagraph (A) of this paragraph, such person may petition the court in which such
+41 hospitalization proceedings occurred for relief. A copy of such petition for relief shall
+42 be served upon the opposing civil party or the prosecuting attorney, as the case may be,
+43 or their successors, who appeared in the underlying case. Within 60 days of the receipt
+H. B. 285
+- 2 -
+25 LC 39 4557
+44 of such petition, such court shall hold a hearing on such petition; provided, however,
+45 that such time period may be extended for good cause as determined by the court. The
+46 prosecuting attorney may represent the interests of the state at such hearing.
+47 (C) At the hearing provided for under subparagraph (B) of this paragraph, the court
+48 shall receive and consider evidence concerning:
+49 (i) The circumstances which caused the petitioner's hospitalization;
+50 (ii) The petitioner's mental health and criminal history records, if any. The court
+51 shall require the petitioner to sign a waiver authorizing the record custodian of any
+52 hospital where such petitioner received mental health treatment for such
+53 hospitalization or any other facility or outpatient treatment center where he or she
+54 received mental health treatment since such hospitalization to release such records to
+55 the court. The court shall keep such hospitalization and treatment records confidential
+56 to the extent possible;
+57 (iii) The petitioner's reputation, which shall be established through character witness
+58 statements, testimony, or other character evidence; and
+59 (iv) Changes in the petitioner's condition or circumstances since such hospitalization.
+60 (D)(i) The court shall issue a written order of its decision on such petition filed under
+61 subparagraph (B) of this paragraph no later than 30 days after the hearing.
+62 (ii) The court shall grant a petition filed under subparagraph (B) of this paragraph if
+63 it finds by a preponderance of the evidence that the petitioner will not likely act in a
+64 manner dangerous to himself or herself or that endangers public safety and that
+65 granting such relief is otherwise consistent with the standards for the issuance of a
+66 weapons carry license as provided for in subsection (b.1) of Code Section 16-11-129.
+67 A record shall be kept of the hearing on any petition for relief and such record shall
+68 be exempt from disclosure as a public record under Article 4 of Chapter 18 of Title
+69 50. Any appeal of the court's ruling on such petition shall be as provided for by the
+70 laws governing the appeal of decisions from such court; provided, however, that any
+H. B. 285
+- 3 -
+25 LC 39 4557
+71 such appeal from a probate court, as defined in Code Section 15-9-120, shall be by
+72 de novo investigation to the superior court, notwithstanding Code Sections 5-3-4 and
+73 5-3-5 and paragraph (2) of subsection (a) of Code Section 5-6-33.
+74 (iii) If the court grants a petition filed under subparagraph (B) of this paragraph, the
+75 clerk of court shall report such order to the center immediately, but in no case later
+76 than ten days after the date of such order, and the center shall purge such record that
+77 is the subject of the order as soon as practicable but not later than 30 days after receipt
+78 of such order.
+79 (E) In the case of a person who is involuntarily hospitalized, such person shall not be
+80 entitled to petition for relief pursuant to this Code section prior to being discharged
+81 from such hospitalization. A person's first petition for relief may be filed only after the
+82 expiration of 12 months from the date of such person's discharge from involuntary
+83 hospitalization. No petition for relief pursuant to this Code section may be filed within
+84 a period of two years from the date of the final order on a previous petition for relief.
+85 (F) Information received by a prosecuting attorney pursuant to this paragraph shall not
+86 be used against the petitioner in any other case or context unless such information is
+87 obtained in such other case or context by other rules of evidence or discovery."
+88 SECTION 2.
+89 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 285
+- 4 -
+[DELETED: 5L7 s a t p f a j p f p a p i]
+[DELETED: 5L a t w a p h b i h i h r o t p c c p h a M 2 1 i a m a u b t o t s c c p i h a  W a p m h i h b s p t]
+[DELETED: 5L w s p r m h t f s]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4557
+House Bill 285
+By: Representative Buckner of the 137th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 35-3-34 of the Official Code of Georgia Annotated, relating to
+2 disclosure and dissemination of criminal records to private persons and businesses, resulting
+3 responsibility and liability of the Georgia Crime Information Center, and provision of certain
+4 information to the FBI in conjunction with the National Instant Criminal Background Check
+5 System, so as to provide for a judicial procedure for purging a person's involuntary
+6 hospitalization information received by the center for the purpose of the National Instant
+7 Criminal Background Check System under certain circumstances; to change provisions
+8 relating to the retention of a person's involuntary hospitalization information; to provide for
+9 related matters; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Code Section 35-3-34 of the Official Code of Georgia Annotated, relating to disclosure and
+13 dissemination of criminal records to private persons and businesses, resulting responsibility
+14 and liability of the Georgia Crime Information Center, and provision of certain information
+15 to the FBI in conjunction with the National Instant Criminal Background Check System, is
+16 amended by revising paragraph (2) of subsection (e) as follows:
+H. B. 285
+- 1 -
+
+25 LC 39 4557
+17 "(2)(A) The records of the Georgia Crime Information Center center shall include
+18 information as to whether a person has been involuntarily hospitalized.
+19 Notwithstanding any other provisions of law and in order to carry out the provisions of
+20 this Code section and Code Section 16-11-172, the Georgia Crime Information Center
+21 center shall be provided such information and no other mental health information from
+22 the involuntary hospitalization records of the probate courts concerning persons
+23 involuntarily hospitalized after March 22, 1995, in a manner agreed upon by the
+24 Probate Judges Training Council and the Georgia Bureau of Investigation The Council
+25 of Probate Court Judges of Georgia and the bureau to preserve the confidentiality of
+26 patients' rights in all other respects. Further, notwithstanding any other provisions of
+27 law and in order to carry out the provisions of this Code section and Code Section
+28 16-11-172, the center shall be provided information as to whether a person has been
+29 adjudicated mentally incompetent to stand trial or not guilty by reason of insanity at the
+30 time of the crime, has been involuntarily hospitalized, or both, from the records of the
+31 clerks of the superior courts concerning persons involuntarily hospitalized after
+32 March 22, 1995, in a manner agreed upon by The Council of Superior Court Clerks of
+33 Georgia and the Georgia Bureau of Investigation bureau to preserve the confidentiality
+34 of patients' rights in all other respects. After five years have elapsed from the date that
+35 a person's involuntary hospitalization information has been received by the Georgia
+36 Crime Information Center, the center shall purge its records of such information as soon
+37 as practicable and in any event purge such records within 30 days after the expiration
+38 of such five-year period.
+39 (B) When a person's mental health information has been submitted pursuant to
+40 subparagraph (A) of this paragraph, such person may petition the court in which such
+41 hospitalization proceedings occurred for relief. A copy of such petition for relief shall
+42 be served upon the opposing civil party or the prosecuting attorney, as the case may be,
+43 or their successors, who appeared in the underlying case. Within 60 days of the receipt
+H. B. 285
+- 2 -
+
+25 LC 39 4557
+44 of such petition, such court shall hold a hearing on such petition; provided, however,
+45 that such time period may be extended for good cause as determined by the court. The
+46 prosecuting attorney may represent the interests of the state at such hearing.
+47 (C) At the hearing provided for under subparagraph (B) of this paragraph, the court
+48 shall receive and consider evidence concerning:
+49 (i) The circumstances which caused the petitioner's hospitalization;
+50 (ii) The petitioner's mental health and criminal history records, if any. The court
+51 shall require the petitioner to sign a waiver authorizing the record custodian of any
+52 hospital where such petitioner received mental health treatment for such
+53 hospitalization or any other facility or outpatient treatment center where he or she
+54 received mental health treatment since such hospitalization to release such records to
+55 the court. The court shall keep such hospitalization and treatment records confidential
+56 to the extent possible;
+57 (iii) The petitioner's reputation, which shall be established through character witness
+58 statements, testimony, or other character evidence; and
+59 (iv) Changes in the petitioner's condition or circumstances since such hospitalization.
+60 (D)(i) The court shall issue a written order of its decision on such petition filed under
+61 subparagraph (B) of this paragraph no later than 30 days after the hearing.
+62 (ii) The court shall grant a petition filed under subparagraph (B) of this paragraph if
+63 it finds by a preponderance of the evidence that the petitioner will not likely act in a
+64 manner dangerous to himself or herself or that endangers public safety and that
+65 granting such relief is otherwise consistent with the standards for the issuance of a
+66 weapons carry license as provided for in subsection (b.1) of Code Section 16-11-129.
+67 A record shall be kept of the hearing on any petition for relief and such record shall
+68 be exempt from disclosure as a public record under Article 4 of Chapter 18 of Title
+69 50. Any appeal of the court's ruling on such petition shall be as provided for by the
+70 laws governing the appeal of decisions from such court; provided, however, that any
+H. B. 285
+- 3 -
+
+25 LC 39 4557
+71 such appeal from a probate court, as defined in Code Section 15-9-120, shall be by
+72 de novo investigation to the superior court, notwithstanding Code Sections 5-3-4 and
+73 5-3-5 and paragraph (2) of subsection (a) of Code Section 5-6-33.
+74 (iii) If the court grants a petition filed under subparagraph (B) of this paragraph, the
+75 clerk of court shall report such order to the center immediately, but in no case later
+76 than ten days after the date of such order, and the center shall purge such record that
+77 is the subject of the order as soon as practicable but not later than 30 days after receipt
+78 of such order.
+79 (E) In the case of a person who is involuntarily hospitalized, such person shall not be
+80 entitled to petition for relief pursuant to this Code section prior to being discharged
+81 from such hospitalization. A person's first petition for relief may be filed only after the
+82 expiration of 12 months from the date of such person's discharge from involuntary
+83 hospitalization. No petition for relief pursuant to this Code section may be filed within
+84 a period of two years from the date of the final order on a previous petition for relief.
+85 (F) Information received by a prosecuting attorney pursuant to this paragraph shall not
+86 be used against the petitioner in any other case or context unless such information is
+87 obtained in such other case or context by other rules of evidence or discovery."
+88 SECTION 2.
+89 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 285
+- 4 -
+
+[DELETED: 5L7 s a t p f a j p f p a p i]
+[DELETED: 5L a t w a p h b i h i h r o t p c c p h a M 2 1 i a m a u b t o t s c c p i h a  W a p m h i h b s p t]
+[DELETED: 5L w s p r m h t f s]
+[DELETED: 5L]

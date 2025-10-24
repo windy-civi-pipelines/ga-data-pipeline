@@ -1,0 +1,326 @@
+Title: Senate Bill 29
+Official Title: Senate Bill 29
+Number of Sections: 1
+Source: versions - As Passed Senate
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 SB 29/FA
+By: Senators Williams of the 25th, Albers of the 56th, Robertson of the 29th, Hodges of the
+3rd, Bearden of the 30th and others
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 6A of Chapter 3 of Title 35 of the Official Code of Georgia Annotated,
+2 relating to DNA sampling, collection, and analysis, so as to provide for the collection of
+3 DNA samples of individuals arrested for the commission of a felony at the time such
+4 individuals are booked or otherwise processed by a detention facility; to revise provisions
+5 relating to the destruction of DNA profiles; to provide for related matters; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Article 6A of Chapter 3 of Title 35 of the Official Code of Georgia Annotated, relating to
+10 DNA sampling, collection, and analysis, is amended by revising Code Section 35-3-160,
+11 relating to DNA analysis in felony convictions and certain felony charges and performance
+12 of tests, as follows:
+13 "35-3-160.
+14 (a) As used in this article, the term:
+15 (1) 'Department' means the Department of Corrections.
+S. B. 29
+- 1 -
+25 SB 29/FA
+16 (2) 'Detention facility' means a penal institution under the jurisdiction of the department,
+17 including penal institutions operated by a private company on behalf of the department,
+18 inmate work camps, inmate boot camps, probation detention centers, parole revocation
+19 centers, and county correctional facilities any place of confinement for juvenile or adult
+20 individuals accused of, convicted of, or adjudicated for violating a law of this state or an
+21 ordinance of a political subdivision of this state.
+22 (3)(2) 'Division' means the Division of Forensic Sciences of the Georgia Bureau of
+23 Investigation bureau.
+24 (b)(1) A Except as provided in paragraph (2) of this subsection, a sample of
+25 deoxyribonucleic acid (DNA) shall be collected by oral swab or other noninvasive
+26 procedure from any individual who has been arrested for the commission of a serious
+27 violent felony, as such term is defined in Code Section 17-10-6.1; in this state:
+28 (A) Who has been convicted of a felony and is currently incarcerated in a detention
+29 facility, serving a probation sentence, or serving under the jurisdiction of the State
+30 Board of Pardons and Paroles for such felony;
+31 (B) Who has been charged with a felony, and sentence for such offense has been
+32 imposed pursuant to Article 3 of Chapter 8 of Title 42 or pursuant to subsection (a) or
+33 (c) of Code Section 16-13-2; or
+34 (C) Who has been convicted of a felony and is subject to an immigration detainer
+35 notice as such term is defined in Code Section 42-1-11.5.
+36 (2) Unless a DNA sample has already been collected by the department or another
+37 agency or entity, each DNA sample required by paragraph (1) of this subsection shall be
+38 collected by the detention facility which is detaining or the entity which is supervising
+39 such individual, and the sample shall be forwarded to the division.
+40 (2) A detention facility shall not be required to collect a DNA sample from any
+41 individual for whom a sample has already been received by the division and that has not
+42 been destroyed pursuant to Code Section 35-3-165.
+S. B. 29
+- 2 -
+25 SB 29/FA
+43 (3) Paragraph (1) of this subsection shall not apply to any individual who has been
+44 arrested for the commission of a misdemeanor for a conviction for a misdemeanor, to any
+45 individual who is charged with a misdemeanor and the sentence for such misdemeanor
+46 is imposed pursuant to Article 3 of Chapter 8 of Title 42 regarding first offenders, or
+47 because he or she has been charged with a misdemeanor.
+48 (c) DNA analysis shall be performed by the division. The division shall be authorized to
+49 contract with individuals or organizations for services to perform such analysis. The
+50 identifying characteristics of the profile resulting from the DNA analysis shall be stored
+51 and maintained by the bureau in a DNA data bank in accordance with Code
+52 Sections 35-3-162 and 35-3-163 and shall be made available only as provided in Code
+53 Section 35-3-163."
+54 SECTION 2.
+55 Said article is further amended by revising Code Section 35-3-161, relating to time and
+56 procedure for withdraw of blood samples, as follows:
+57 "35-3-161.
+58 (a) Each sample required pursuant to Code Section 35-3-160 from persons individuals
+59 who are to be incarcerated arrested for the commission of a serious violent felony, as such
+60 term is defined in Code Section 17-10-6.1; shall be collected at the time such individuals
+61 are booked or otherwise processed by the detention facility withdrawn within the first 30
+62 days of incarceration at the receiving unit of the detention facility or at such other place as
+63 is designated by the department. Each sample required pursuant to Code Section 35-3-160
+64 from persons who are to be released from a detention facility shall be withdrawn within the
+65 12 months preceding such person's release at a place designated by the department. The
+66 required samples from persons who are not sentenced to a term of confinement shall be
+67 withdrawn as a condition of probation. The division shall publish in its quality manuals
+68 the procedures for the collection and transfer of samples to such division pursuant to Code
+S. B. 29
+- 3 -
+25 SB 29/FA
+69 Section 35-3-154. Personnel at a detention facility shall implement the provisions of this
+70 Code section as part of the regular processing of offenders.
+71 (b) Samples collected by oral swab or by a noninvasive procedure may be collected by any
+72 individual who has been trained in the procedure. Only a correctional health nurse
+73 technician, physician, registered professional nurse, licensed practical nurse, graduate
+74 laboratory technician, or phlebotomist shall withdraw any sample of blood to be submitted
+75 for analysis. No civil liability shall attach to any person authorized to take a sample as
+76 provided in this article as a result of the act of taking a sample from any person submitting
+77 thereto, provided that the sample was taken according to recognized medically accepted
+78 procedures. However, no person shall be relieved from liability for negligence in the
+79 withdrawing of any blood sample.
+80 (c) Chemically clean sterile disposable needles shall be used for the withdrawal of all
+81 samples of blood. The containers for blood DNA samples, oral swabs, and the samples
+82 obtained by noninvasive procedures collected pursuant to this article shall be sealed and
+83 labeled with the subject's name, social security number, date of birth, race, and gender plus
+84 the name of the person collecting the sample and the date and place of collection. The
+85 containers shall be secured to prevent tampering with the contents. The steps set forth in
+86 this subsection relating to the taking, handling, identification, and disposition of samples
+87 are procedural and not substantive. Substantial compliance therewith shall be deemed to
+88 be sufficient. The samples collected pursuant to this article shall be transported to the
+89 division not more than 15 days following withdrawal the date of collection and shall be
+90 analyzed and stored in the DNA data bank in accordance with Code Sections 35-3-162
+91 and 35-3-163.
+92 (d) Personnel at a detention facility shall implement the provisions of this Code section as
+93 part of the regular processing of arrested individuals."
+S. B. 29
+- 4 -
+25 SB 29/FA
+94 SECTION 3.
+95 Said article is further amended by revising Code Section 35-3-165, relating to expungement
+96 of DNA profile in data bank and requirements, as follows:
+97 "35-3-165.
+98 (a) The bureau shall purge all records and identifiable information in the data bank
+99 pertaining to the DNA profile of the individual and shall destroy all such DNA samples
+100 collected from such individual within 30 days of the receipt of:
+101 (1) A a certified copy of the applicable:
+102 (A) Court order or documentation from the prosecuting attorney stating that all charges
+103 for which the DNA profile was created were dismissed; or
+104 (1)(B) Court order reversing the conviction of all charges for which the DNA profile
+105 was created together with a court order or documentation from the prosecuting attorney
+106 stating that the charges were dismissed;
+107 (2) Judgment of acquittal of all charges for which the DNA profile was created;
+108 (3) Sentencing order showing that all of the felony charges for which the DNA profile
+109 was created were reduced to misdemeanors; or
+110 (4) Court order showing the successful completion of the a sentence relating to all of the
+111 charges for which the DNA profile was created that was imposed pursuant to Article 3
+112 of Chapter 8 of Title 42 or pursuant to subsection (a) or (c) of Code Section 16-13-2;
+113 (5) Satisfactory proof that the applicable statute of limitations for each of the offenses
+114 relating to the charges for which the DNA profile was created has expired and that no
+115 such charges remain pending; or
+116 (6) A combination of any of the above that provides satisfactory proof that none of the
+117 charges for which the DNA profile was created remain pending and that the individual
+118 has not been convicted of any such charges.
+S. B. 29
+- 5 -
+25 SB 29/FA
+119 (b) A DNA sample obtained in good faith shall be deemed to have been obtained in
+120 accordance with the requirements of this article and its use in accordance with this article
+121 shall be authorized until it is expunged as set forth in subsection (a) of this Code section."
+122 SECTION 4.
+123 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 29
+- 6 -
+[DELETED: 5S s o i a f t c o a f a t t s t t d o D p t p f r m t r]
+[DELETED: 5S  A E a p i p ( o t s a s o a ( s b c b o s o n  A d f s n b r t c a D s f a]
+[DELETED: 5S m b t b i a D d b i a w C]
+[DELETED: 5S w h b t i t p  O a c h n]
+[DELETED: 5S]
+[DELETED: 5S]
+
+
+================================================================================
+
+Raw Text:
+25 SB 29/FA
+Senate Bill 29
+By: Senators Williams of the 25th, Albers of the 56th, Robertson of the 29th, Hodges of the
+3rd, Bearden of the 30th and others
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 6A of Chapter 3 of Title 35 of the Official Code of Georgia Annotated,
+2 relating to DNA sampling, collection, and analysis, so as to provide for the collection of
+3 DNA samples of individuals arrested for the commission of a felony at the time such
+4 individuals are booked or otherwise processed by a detention facility; to revise provisions
+5 relating to the destruction of DNA profiles; to provide for related matters; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Article 6A of Chapter 3 of Title 35 of the Official Code of Georgia Annotated, relating to
+10 DNA sampling, collection, and analysis, is amended by revising Code Section 35-3-160,
+11 relating to DNA analysis in felony convictions and certain felony charges and performance
+12 of tests, as follows:
+13 "35-3-160.
+14 (a) As used in this article, the term:
+15 (1) 'Department' means the Department of Corrections.
+S. B. 29
+- 1 -
+
+25 SB 29/FA
+16 (2) 'Detention facility' means a penal institution under the jurisdiction of the department,
+17 including penal institutions operated by a private company on behalf of the department,
+18 inmate work camps, inmate boot camps, probation detention centers, parole revocation
+19 centers, and county correctional facilities any place of confinement for juvenile or adult
+20 individuals accused of, convicted of, or adjudicated for violating a law of this state or an
+21 ordinance of a political subdivision of this state.
+22 (3)(2) 'Division' means the Division of Forensic Sciences of the Georgia Bureau of
+23 Investigation bureau.
+24 (b)(1) A Except as provided in paragraph (2) of this subsection, a sample of
+25 deoxyribonucleic acid (DNA) shall be collected by oral swab or other noninvasive
+26 procedure from any individual who has been arrested for the commission of a serious
+27 violent felony, as such term is defined in Code Section 17-10-6.1; in this state:
+28 (A) Who has been convicted of a felony and is currently incarcerated in a detention
+29 facility, serving a probation sentence, or serving under the jurisdiction of the State
+30 Board of Pardons and Paroles for such felony;
+31 (B) Who has been charged with a felony, and sentence for such offense has been
+32 imposed pursuant to Article 3 of Chapter 8 of Title 42 or pursuant to subsection (a) or
+33 (c) of Code Section 16-13-2; or
+34 (C) Who has been convicted of a felony and is subject to an immigration detainer
+35 notice as such term is defined in Code Section 42-1-11.5.
+36 (2) Unless a DNA sample has already been collected by the department or another
+37 agency or entity, each DNA sample required by paragraph (1) of this subsection shall be
+38 collected by the detention facility which is detaining or the entity which is supervising
+39 such individual, and the sample shall be forwarded to the division.
+40 (2) A detention facility shall not be required to collect a DNA sample from any
+41 individual for whom a sample has already been received by the division and that has not
+42 been destroyed pursuant to Code Section 35-3-165.
+S. B. 29
+- 2 -
+
+25 SB 29/FA
+43 (3) Paragraph (1) of this subsection shall not apply to any individual who has been
+44 arrested for the commission of a misdemeanor for a conviction for a misdemeanor, to any
+45 individual who is charged with a misdemeanor and the sentence for such misdemeanor
+46 is imposed pursuant to Article 3 of Chapter 8 of Title 42 regarding first offenders, or
+47 because he or she has been charged with a misdemeanor.
+48 (c) DNA analysis shall be performed by the division. The division shall be authorized to
+49 contract with individuals or organizations for services to perform such analysis. The
+50 identifying characteristics of the profile resulting from the DNA analysis shall be stored
+51 and maintained by the bureau in a DNA data bank in accordance with Code
+52 Sections 35-3-162 and 35-3-163 and shall be made available only as provided in Code
+53 Section 35-3-163."
+54 SECTION 2.
+55 Said article is further amended by revising Code Section 35-3-161, relating to time and
+56 procedure for withdraw of blood samples, as follows:
+57 "35-3-161.
+58 (a) Each sample required pursuant to Code Section 35-3-160 from persons individuals
+59 who are to be incarcerated arrested for the commission of a serious violent felony, as such
+60 term is defined in Code Section 17-10-6.1; shall be collected at the time such individuals
+61 are booked or otherwise processed by the detention facility withdrawn within the first 30
+62 days of incarceration at the receiving unit of the detention facility or at such other place as
+63 is designated by the department. Each sample required pursuant to Code Section 35-3-160
+64 from persons who are to be released from a detention facility shall be withdrawn within the
+65 12 months preceding such person's release at a place designated by the department. The
+66 required samples from persons who are not sentenced to a term of confinement shall be
+67 withdrawn as a condition of probation. The division shall publish in its quality manuals
+68 the procedures for the collection and transfer of samples to such division pursuant to Code
+S. B. 29
+- 3 -
+
+25 SB 29/FA
+69 Section 35-3-154. Personnel at a detention facility shall implement the provisions of this
+70 Code section as part of the regular processing of offenders.
+71 (b) Samples collected by oral swab or by a noninvasive procedure may be collected by any
+72 individual who has been trained in the procedure. Only a correctional health nurse
+73 technician, physician, registered professional nurse, licensed practical nurse, graduate
+74 laboratory technician, or phlebotomist shall withdraw any sample of blood to be submitted
+75 for analysis. No civil liability shall attach to any person authorized to take a sample as
+76 provided in this article as a result of the act of taking a sample from any person submitting
+77 thereto, provided that the sample was taken according to recognized medically accepted
+78 procedures. However, no person shall be relieved from liability for negligence in the
+79 withdrawing of any blood sample.
+80 (c) Chemically clean sterile disposable needles shall be used for the withdrawal of all
+81 samples of blood. The containers for blood DNA samples, oral swabs, and the samples
+82 obtained by noninvasive procedures collected pursuant to this article shall be sealed and
+83 labeled with the subject's name, social security number, date of birth, race, and gender plus
+84 the name of the person collecting the sample and the date and place of collection. The
+85 containers shall be secured to prevent tampering with the contents. The steps set forth in
+86 this subsection relating to the taking, handling, identification, and disposition of samples
+87 are procedural and not substantive. Substantial compliance therewith shall be deemed to
+88 be sufficient. The samples collected pursuant to this article shall be transported to the
+89 division not more than 15 days following withdrawal the date of collection and shall be
+90 analyzed and stored in the DNA data bank in accordance with Code Sections 35-3-162
+91 and 35-3-163.
+92 (d) Personnel at a detention facility shall implement the provisions of this Code section as
+93 part of the regular processing of arrested individuals."
+S. B. 29
+- 4 -
+
+25 SB 29/FA
+94 SECTION 3.
+95 Said article is further amended by revising Code Section 35-3-165, relating to expungement
+96 of DNA profile in data bank and requirements, as follows:
+97 "35-3-165.
+98 (a) The bureau shall purge all records and identifiable information in the data bank
+99 pertaining to the DNA profile of the individual and shall destroy all such DNA samples
+100 collected from such individual within 30 days of the receipt of:
+101 (1) A a certified copy of the applicable:
+102 (A) Court order or documentation from the prosecuting attorney stating that all charges
+103 for which the DNA profile was created were dismissed; or
+104 (1)(B) Court order reversing the conviction of all charges for which the DNA profile
+105 was created together with a court order or documentation from the prosecuting attorney
+106 stating that the charges were dismissed;
+107 (2) Judgment of acquittal of all charges for which the DNA profile was created;
+108 (3) Sentencing order showing that all of the felony charges for which the DNA profile
+109 was created were reduced to misdemeanors; or
+110 (4) Court order showing the successful completion of the a sentence relating to all of the
+111 charges for which the DNA profile was created that was imposed pursuant to Article 3
+112 of Chapter 8 of Title 42 or pursuant to subsection (a) or (c) of Code Section 16-13-2;
+113 (5) Satisfactory proof that the applicable statute of limitations for each of the offenses
+114 relating to the charges for which the DNA profile was created has expired and that no
+115 such charges remain pending; or
+116 (6) A combination of any of the above that provides satisfactory proof that none of the
+117 charges for which the DNA profile was created remain pending and that the individual
+118 has not been convicted of any such charges.
+S. B. 29
+- 5 -
+
+25 SB 29/FA
+119 (b) A DNA sample obtained in good faith shall be deemed to have been obtained in
+120 accordance with the requirements of this article and its use in accordance with this article
+121 shall be authorized until it is expunged as set forth in subsection (a) of this Code section."
+122 SECTION 4.
+123 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 29
+- 6 -
+
+[DELETED: 5S s o i a f t c o a f a t t s t t d o D p t p f r m t r]
+[DELETED: 5S  A E a p i p ( o t s a s o a ( s b c b o s o n  A d f s n b r t c a D s f a]
+[DELETED: 5S m b t b i a D d b i a w C]
+[DELETED: 5S w h b t i t p  O a c h n]
+[DELETED: 5S]
+[DELETED: 5S]

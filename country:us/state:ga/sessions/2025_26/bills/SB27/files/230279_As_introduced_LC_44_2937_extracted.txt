@@ -1,0 +1,177 @@
+Title: Senate Bill 27
+Official Title: Senate Bill 27
+Number of Sections: 1
+Source: versions - As introduced LC 44 2937
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 44 2937
+By: Senators Albers of the 56th, Robertson of the 29th, Williams of the 25th, Hodges of the
+3rd, Watson of the 1st and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 7 of Chapter 5 of Title 16 of the Official Georgia Code Annotated, relating
+2 to stalking, so as to provide for the offense of doxxing; to provide for penalties; to provide
+3 for a protective order; to provide for a civil action; to provide for venue; to provide for
+4 definitions; to provide for statutory construction; to provide for related matters; to repeal
+5 conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Article 7 of Chapter 5 of Title 16 of the Official Georgia Code Annotated, relating to
+9 stalking, is amended by adding a new Code section to read as follows:
+10 "16-5-97.
+11 (a) As used in this Code section, the term:
+12 (1) 'Actor' means a person accused of the offense of doxxing.
+13 (2) 'Communication' means the electronic transmission of information of a person's
+14 choosing between or among points specified by such person without change in the
+15 information content form as sent and received.
+S. B. 27
+- 1 -
+25 LC 44 2937
+16 (3) 'Doxxing' means to transmit, send, or publish with malicious intent private or
+17 identifying information about an identifiable person on an electronic or social platform.
+18 (4) 'Electronic or social platform' means a public website, computer application, or
+19 mobile application designed to facilitate communication between one or more persons.
+20 (5) 'Substantial life disruption' means that a person significantly modifies their actions
+21 or routines in an attempt to avoid the actor or the results of the actor's conduct or
+22 experiences a financial upset due to the actor's conduct. Such actions shall include, but
+23 shall not be limited to, changing a telephone number, email address, deleting personal
+24 electronic or social platform accounts, significantly decreasing use of the internet,
+25 moving from an established residence, changing daily routines, changing routes to and
+26 from work, changing employment, changing a work schedule, losing time from work or
+27 a job, or experiencing a monetary loss exceeding $500.00.
+28 (b) A person commits the offense of doxxing when:
+29 (1) A person knowingly transmits, sends, or publishes a communication concerning an
+30 identifiable person with the intent to frighten, coerce, intimidate, threaten, abuse, or
+31 harass such identifiable person; and
+32 (2) The communication causes such identifiable person to be in reasonable fear of
+33 endangerment, imminent physical or emotional injury, monetary loss, or substantial life
+34 disruption.
+35 (c) A victim of doxxing may petition the court for a protective order as provided for in
+36 subsection (d) of in Code Section 16-5-94.
+37 (d)(1) A person who commits the offense of doxxing shall be guilty of a misdemeanor
+38 of a high and aggravated nature.
+39 (2) For offenses that result in serious physical injury to the victim or the victim's
+40 immediate family member or household member, and for the second and each subsequent
+41 offense with or without serious physical injury, the person shall be guilty of a felony and
+42 shall be punished by imprisonment for not less than one year nor more than ten years.
+S. B. 27
+- 2 -
+25 LC 44 2937
+43 (3) A person over the age of 20 who commits the offense of doxxing against a person
+44 under the age of 19 shall be guilty of a felony and shall be punished by imprisonment for
+45 not less than one year nor more than ten years.
+46 (e) Any person, or his or her representative, harmed by monetary loss, serious physical
+47 injury, or death, as a result of doxxing may institute a civil action under this Code section
+48 and seek actual and punitive damages. In any civil action authorized by this Code section,
+49 the court shall award costs and expenses of litigation, including reasonable attorney's fees,
+50 to the prevailing party.
+51 (f) An action brought pursuant to subsection (c) or (e) of this Code section may be brought
+52 by the victim, or the victim's representative in the case of death of the victim, in the
+53 superior court of the county:
+54 (1) From which the communication originated;
+55 (2) Where the victim received the communication; or
+56 (3) Where the victim resides.
+57 (g) Nothing in this Code section shall be interpreted as preventing, prohibiting, limiting,
+58 or restricting the freedom of expression that is protected under the Georgia Constitution or
+59 the First Amendment to the United States Constitution; provided, however, that speech or
+60 conduct including, but not limited to, true threats or expressive activity directed to provoke
+61 imminent lawless actions and likely to produce it shall be prohibited."
+62 SECTION 2.
+63 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 27
+- 3 -
+[DELETED: 5L]
+[DELETED: 5L  ' m t t s o p w m i p o o s p a s d u o t i r]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 44 2937
+Senate Bill 27
+By: Senators Albers of the 56th, Robertson of the 29th, Williams of the 25th, Hodges of the
+3rd, Watson of the 1st and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 7 of Chapter 5 of Title 16 of the Official Georgia Code Annotated, relating
+2 to stalking, so as to provide for the offense of doxxing; to provide for penalties; to provide
+3 for a protective order; to provide for a civil action; to provide for venue; to provide for
+4 definitions; to provide for statutory construction; to provide for related matters; to repeal
+5 conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Article 7 of Chapter 5 of Title 16 of the Official Georgia Code Annotated, relating to
+9 stalking, is amended by adding a new Code section to read as follows:
+10 "16-5-97.
+11 (a) As used in this Code section, the term:
+12 (1) 'Actor' means a person accused of the offense of doxxing.
+13 (2) 'Communication' means the electronic transmission of information of a person's
+14 choosing between or among points specified by such person without change in the
+15 information content form as sent and received.
+S. B. 27
+- 1 -
+
+25 LC 44 2937
+16 (3) 'Doxxing' means to transmit, send, or publish with malicious intent private or
+17 identifying information about an identifiable person on an electronic or social platform.
+18 (4) 'Electronic or social platform' means a public website, computer application, or
+19 mobile application designed to facilitate communication between one or more persons.
+20 (5) 'Substantial life disruption' means that a person significantly modifies their actions
+21 or routines in an attempt to avoid the actor or the results of the actor's conduct or
+22 experiences a financial upset due to the actor's conduct. Such actions shall include, but
+23 shall not be limited to, changing a telephone number, email address, deleting personal
+24 electronic or social platform accounts, significantly decreasing use of the internet,
+25 moving from an established residence, changing daily routines, changing routes to and
+26 from work, changing employment, changing a work schedule, losing time from work or
+27 a job, or experiencing a monetary loss exceeding $500.00.
+28 (b) A person commits the offense of doxxing when:
+29 (1) A person knowingly transmits, sends, or publishes a communication concerning an
+30 identifiable person with the intent to frighten, coerce, intimidate, threaten, abuse, or
+31 harass such identifiable person; and
+32 (2) The communication causes such identifiable person to be in reasonable fear of
+33 endangerment, imminent physical or emotional injury, monetary loss, or substantial life
+34 disruption.
+35 (c) A victim of doxxing may petition the court for a protective order as provided for in
+36 subsection (d) of in Code Section 16-5-94.
+37 (d)(1) A person who commits the offense of doxxing shall be guilty of a misdemeanor
+38 of a high and aggravated nature.
+39 (2) For offenses that result in serious physical injury to the victim or the victim's
+40 immediate family member or household member, and for the second and each subsequent
+41 offense with or without serious physical injury, the person shall be guilty of a felony and
+42 shall be punished by imprisonment for not less than one year nor more than ten years.
+S. B. 27
+- 2 -
+
+25 LC 44 2937
+43 (3) A person over the age of 20 who commits the offense of doxxing against a person
+44 under the age of 19 shall be guilty of a felony and shall be punished by imprisonment for
+45 not less than one year nor more than ten years.
+46 (e) Any person, or his or her representative, harmed by monetary loss, serious physical
+47 injury, or death, as a result of doxxing may institute a civil action under this Code section
+48 and seek actual and punitive damages. In any civil action authorized by this Code section,
+49 the court shall award costs and expenses of litigation, including reasonable attorney's fees,
+50 to the prevailing party.
+51 (f) An action brought pursuant to subsection (c) or (e) of this Code section may be brought
+52 by the victim, or the victim's representative in the case of death of the victim, in the
+53 superior court of the county:
+54 (1) From which the communication originated;
+55 (2) Where the victim received the communication; or
+56 (3) Where the victim resides.
+57 (g) Nothing in this Code section shall be interpreted as preventing, prohibiting, limiting,
+58 or restricting the freedom of expression that is protected under the Georgia Constitution or
+59 the First Amendment to the United States Constitution; provided, however, that speech or
+60 conduct including, but not limited to, true threats or expressive activity directed to provoke
+61 imminent lawless actions and likely to produce it shall be prohibited."
+62 SECTION 2.
+63 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 27
+- 3 -
+
+[DELETED: 5L]
+[DELETED: 5L  ' m t t s o p w m i p o o s p a s d u o t i r]
+[DELETED: 5L]

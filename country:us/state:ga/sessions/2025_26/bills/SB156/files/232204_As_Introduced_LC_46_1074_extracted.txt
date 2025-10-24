@@ -1,0 +1,212 @@
+Title: Senate Bill 156
+Official Title: Senate Bill 156
+Number of Sections: 1
+Source: versions - As Introduced LC 46 1074
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25 LC 46 1074
+By: Senators Mallow of the 2nd, Harbison of the 15th, Merritt of the 9th, Islam Parkes of the
+7th, Lucas of the 26th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 33-9-4 of the Official Code of Georgia Annotated, relating to
+2 standards applicable to making and use of rates, so as to add census tract to the categories
+3 upon which insurers may not consider when promulgating standards or rating plans; to
+4 amend Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating
+5 to general insurance provisions, so as to broadly address insurer premium rate increases; to
+6 require certain disclosures; to establish a new state-run database; to require the submission
+7 of certain data in certain situations; to increase penalties; to provide for a minium number of
+8 days of notice for nonrenewals across all lines of insurance; to provide for a short title; to
+9 provide for related matters; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 This Act shall be known and may be cited as the "Georgia Insurance Premium Reduction
+13 Act."
+S. B. 156
+- 1 -
+25 LC 46 1074
+14 SECTION 2.
+15 Code Section 33-9-4 of the Official Code of Georgia Annotated, relating to standards
+16 applicable to making and use of rates, is amended by revising paragraph (9) as follows:
+17 "(9) No insurer shall base any standard or rating plan on vehicle insurance, in whole or
+18 in part, directly or indirectly, upon race, creed, or ethnic extraction, or census tract; and"
+19 SECTION 3.
+20 Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+21 general insurance provisions, is amended in Code Section 33-24-45, relating to cancellation
+22 or nonrenewal of automobile or motorcycle policies and procedure for review by
+23 Commissioner, by revising subparagraph (e)(5)(B) as follows:
+24 "(B) In addition to other requirements, a notice of nonrenewal shall contain the
+25 provisions of subparagraph (A) of this paragraph, in substantially the form which
+26 follows:
+27 'NOTICE
+28 Code Section 33-24-45 of the Official Code of Georgia Annotated provides that this
+29 insurer must, upon request, furnish you with the reasons for the failure to renew this
+30 policy. If you wish to assert that the nonrenewal is unlawful, you must shall file a
+31 written notice with this insurer before the time at which the nonrenewal becomes
+32 effective. The notice must specify the manner in which the failure to renew is alleged
+33 to be unlawful.
+34 If you do not file the written notice, you may not later assert a claim or action against
+35 this insurer based upon an unlawful nonrenewal."
+36 SECTION 4.
+37 Said article is further amended by adding a new Code section to read as follows:
+S. B. 156
+- 2 -
+25 LC 46 1074
+38 "33-24-59.34.
+39 (a) All insurers in this state shall disclose on such insurer's public website all requests
+40 made to the department to increase premium rates by more than 5 percent. All such
+41 disclosures shall be accompanied by a justification report. The term 'justification report'
+42 means a document which describes such insurer's reasoning and the data relied upon which
+43 form the basis for such insurer's request.
+44 (b) The department shall establish a state-run online database where consumers can
+45 compare coverage options and insurance rates of all lines of insurance policies filed with
+46 the department. At the discretion of the department, such database may not contain
+47 information already publicly available on the All-Payer Claims Database.
+48 (c) Notwithstanding any provision of law to the contrary, all insurers requesting
+49 department approval of premium rate increases of more than 5 percent shall submit detailed
+50 actuarial data to support such request.
+51 (d) Notwithstanding any provision of law to the contrary, the Commissioner shall hold
+52 public hearings in accordance with Code Section 33-2-17 and other relevant law on all
+53 premium rate increase requests of more than 10 percent.
+54 (e) No insurer shall collude with another insurer with regard to premium rates. Any
+55 insurer found by the Commissioner to have violated this subsection and whose actions are
+56 determined by the Commissioner to have contributed toward premium inflation shall also
+57 be found to have committed an unfair trade practice or act in violation of Code
+58 Section 33-6-4.
+59 (f) No insurer shall settle litigation with the primary purpose of manufacturing losses to
+60 justify premium increases. Any insurer determined by the Commissioner to have violated
+61 this subsection shall also be found to have committed an unfair trade practice or act in
+62 violation of Code Section 33-6-4.
+63 (g) No insurance policy may be sold to a consumer in this state without such consumer
+64 being represented by an independent insurance broker."
+S. B. 156
+- 3 -
+25 LC 46 1074
+65 SECTION 5.
+66 Said article is further amended by adding a new Code section to read as follows:
+67 "33-24-47.2.
+68 Notwithstanding any provision of law to the contrary, no insurance policy in this state shall
+69 be nonrenewed unless the insured is provided at least 60 days' written notice of such
+70 nonrenewal. Such notice of nonrenewal shall be delivered either in person or by depositing
+71 the notice in the United States mail to be dispatched by at least first-class mail to the last
+72 address of record of the insured with return receipt requested as provided by the United
+73 States Postal Service, or such other evidence of mailing as prescribed or accepted by the
+74 United States Postal Service."
+75 SECTION 6.
+76 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 156
+- 4 -
+[DELETED: 5L]
+[DELETED: 5L S 3 o t O C o G A r t s n o a o m p a p f r b  I a t o r a n o n s c t]
+[DELETED: 5L  N a p o l t t c a i r f t h c a u t p o a i v o C]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 46 1074
+Senate Bill 156
+By: Senators Mallow of the 2nd, Harbison of the 15th, Merritt of the 9th, Islam Parkes of the
+7th, Lucas of the 26th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 33-9-4 of the Official Code of Georgia Annotated, relating to
+2 standards applicable to making and use of rates, so as to add census tract to the categories
+3 upon which insurers may not consider when promulgating standards or rating plans; to
+4 amend Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating
+5 to general insurance provisions, so as to broadly address insurer premium rate increases; to
+6 require certain disclosures; to establish a new state-run database; to require the submission
+7 of certain data in certain situations; to increase penalties; to provide for a minium number of
+8 days of notice for nonrenewals across all lines of insurance; to provide for a short title; to
+9 provide for related matters; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 This Act shall be known and may be cited as the "Georgia Insurance Premium Reduction
+13 Act."
+S. B. 156
+- 1 -
+
+25 LC 46 1074
+14 SECTION 2.
+15 Code Section 33-9-4 of the Official Code of Georgia Annotated, relating to standards
+16 applicable to making and use of rates, is amended by revising paragraph (9) as follows:
+17 "(9) No insurer shall base any standard or rating plan on vehicle insurance, in whole or
+18 in part, directly or indirectly, upon race, creed, or ethnic extraction, or census tract; and"
+19 SECTION 3.
+20 Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+21 general insurance provisions, is amended in Code Section 33-24-45, relating to cancellation
+22 or nonrenewal of automobile or motorcycle policies and procedure for review by
+23 Commissioner, by revising subparagraph (e)(5)(B) as follows:
+24 "(B) In addition to other requirements, a notice of nonrenewal shall contain the
+25 provisions of subparagraph (A) of this paragraph, in substantially the form which
+26 follows:
+27 'NOTICE
+28 Code Section 33-24-45 of the Official Code of Georgia Annotated provides that this
+29 insurer must, upon request, furnish you with the reasons for the failure to renew this
+30 policy. If you wish to assert that the nonrenewal is unlawful, you must shall file a
+31 written notice with this insurer before the time at which the nonrenewal becomes
+32 effective. The notice must specify the manner in which the failure to renew is alleged
+33 to be unlawful.
+34 If you do not file the written notice, you may not later assert a claim or action against
+35 this insurer based upon an unlawful nonrenewal."
+36 SECTION 4.
+37 Said article is further amended by adding a new Code section to read as follows:
+S. B. 156
+- 2 -
+
+25 LC 46 1074
+38 "33-24-59.34.
+39 (a) All insurers in this state shall disclose on such insurer's public website all requests
+40 made to the department to increase premium rates by more than 5 percent. All such
+41 disclosures shall be accompanied by a justification report. The term 'justification report'
+42 means a document which describes such insurer's reasoning and the data relied upon which
+43 form the basis for such insurer's request.
+44 (b) The department shall establish a state-run online database where consumers can
+45 compare coverage options and insurance rates of all lines of insurance policies filed with
+46 the department. At the discretion of the department, such database may not contain
+47 information already publicly available on the All-Payer Claims Database.
+48 (c) Notwithstanding any provision of law to the contrary, all insurers requesting
+49 department approval of premium rate increases of more than 5 percent shall submit detailed
+50 actuarial data to support such request.
+51 (d) Notwithstanding any provision of law to the contrary, the Commissioner shall hold
+52 public hearings in accordance with Code Section 33-2-17 and other relevant law on all
+53 premium rate increase requests of more than 10 percent.
+54 (e) No insurer shall collude with another insurer with regard to premium rates. Any
+55 insurer found by the Commissioner to have violated this subsection and whose actions are
+56 determined by the Commissioner to have contributed toward premium inflation shall also
+57 be found to have committed an unfair trade practice or act in violation of Code
+58 Section 33-6-4.
+59 (f) No insurer shall settle litigation with the primary purpose of manufacturing losses to
+60 justify premium increases. Any insurer determined by the Commissioner to have violated
+61 this subsection shall also be found to have committed an unfair trade practice or act in
+62 violation of Code Section 33-6-4.
+63 (g) No insurance policy may be sold to a consumer in this state without such consumer
+64 being represented by an independent insurance broker."
+S. B. 156
+- 3 -
+
+25 LC 46 1074
+65 SECTION 5.
+66 Said article is further amended by adding a new Code section to read as follows:
+67 "33-24-47.2.
+68 Notwithstanding any provision of law to the contrary, no insurance policy in this state shall
+69 be nonrenewed unless the insured is provided at least 60 days' written notice of such
+70 nonrenewal. Such notice of nonrenewal shall be delivered either in person or by depositing
+71 the notice in the United States mail to be dispatched by at least first-class mail to the last
+72 address of record of the insured with return receipt requested as provided by the United
+73 States Postal Service, or such other evidence of mailing as prescribed or accepted by the
+74 United States Postal Service."
+75 SECTION 6.
+76 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 156
+- 4 -
+
+[DELETED: 5L]
+[DELETED: 5L S 3 o t O C o G A r t s n o a o m p a p f r b  I a t o r a n o n s c t]
+[DELETED: 5L  N a p o l t t c a i r f t h c a u t p o a i v o C]
+[DELETED: 5L]

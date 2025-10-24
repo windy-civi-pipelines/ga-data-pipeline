@@ -1,0 +1,196 @@
+Title: House Bill 326
+Official Title: House Bill 326
+Number of Sections: 1
+Source: versions - LC 46 1006/a
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25 LC 46 1006
+By: Representatives Au of the 50th, Stephens of the 164th, Cooper of the 45th, Oliver of the
+84th, and Hawkins of the 27th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia Annotated,
+2 relating to state employees' health insurance and benefit plans, so as to mandate that the state
+3 health benefit plan provide coverage for qualifying nonopioid pain management drugs that
+4 is in parity with its coverage for opioid pain management drugs; to provide for definitions;
+5 to provide for parity with regard to annual deductibles, coinsurance, copayments, exclusions,
+6 reductions, other limitations, or utilization review; to provide for legislative construction; to
+7 provide for related matters; to provide for a short title; to provide for legislative findings; to
+8 provide for an effective date; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "State Health Benefit Plan Nonopioid
+12 Coverage Parity Act."
+13 SECTION 2.
+14 The General Assembly finds and declares that:
+H. B. 326
+- 1 -
+25 LC 46 1006
+15 (1) An opioid epidemic has cost the state millions of dollars in medical treatment, lost
+16 economic productivity, and increased overdose deaths, among other costs; and
+17 (2) Requiring coverage for nonopioid pain management drugs in the state health benefit
+18 plan that is at least as good as its coverage for opioid pain management drugs will reduce
+19 the costs borne by this state.
+20 SECTION 3.
+21 Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia Annotated, relating to
+22 state employees' health insurance and benefit plans, is amended by adding a new Code
+23 section to read as follows:
+24 "45-18-4.2.
+25 (a) As used in this Code section, the term:
+26 (1) 'Healthcare provider' means the pharmacy, attending physician, or any other person
+27 or entity administering healthcare to a member of the state health benefit plan at the time
+28 of reference that is licensed, certified, or otherwise authorized or permitted by law to
+29 administer healthcare in the ordinary course of business or practice of a profession,
+30 including any person employed by or acting for any such authorized person or entity.
+31 (2) 'Prior authorization' means any requirement for the healthcare provider to obtain
+32 approval from the state health benefit plan prior to the furnishing of a drug.
+33 (3) 'Qualifying nonopioid pain management drugs' means a drug or biological product
+34 that:
+35 (A) Has a label indication approved by the federal Food and Drug Administration to
+36 reduce postoperative pain or any other form of acute pain;
+37 (B) Does not act upon the body's opioid receptors;
+38 (C) Is not a Schedule I or II controlled substance;
+39 (D) Has been selected by the Department of Community Health for inclusion in its
+40 formulary; and
+H. B. 326
+- 2 -
+25 LC 46 1006
+41 (E) Is sold or marketed in the United States.
+42 (4) 'State health benefit plan' means the health insurance plan established pursuant to this
+43 article.
+44 (5) 'Step therapy' means a drug therapy utilization management protocol or program that
+45 requires use of an alternative, preferred prescription drug or drugs before the state health
+46 benefit plan approves coverage for the nonpreferred drug therapy prescribed.
+47 (b) The state health benefit plan shall cover qualifying nonopioid pain management drugs
+48 and such drugs shall be subject to the same annual deductible, coinsurance, copayment,
+49 exclusions, reductions, or other limitations as to coverage, or utilization review applicable
+50 to similar covered opioid pain management drugs.
+51 (c) Notwithstanding subsection (b) of this Code section, nothing in this Code section shall
+52 be construed to prohibit the state health benefit plan from contracting to provide qualifying
+53 nonopioid pain management drug coverage for the state health benefit plan that is greater
+54 than the coverage provided for opioid pain management drugs.
+55 (d) The state health benefit plan shall, with respect to a qualifying nonopioid pain
+56 management drug for which coverage is provided under such plan, neither impose any step
+57 therapy requirement under which an individual enrolled under such plan is required to use
+58 an opioid pain management drug prior to receiving the prescribed qualifying nonopioid
+59 pain management drug nor require prior authorization for qualifying nonopioid pain
+60 management drugs unless similar prior authorization is required for opioid pain
+61 management drugs.
+62 (e) Nothing in this Code section should be construed to interfere with the ability of a
+63 healthcare provider to prescribe or administer a course of treatment that is medically
+64 appropriate."
+65 SECTION 4.
+66 This Act shall become effective on January 1, 2026.
+H. B. 326
+- 3 -
+25 LC 46 1006
+67 SECTION 5.
+68 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 326
+- 4 -
+[DELETED: 5L0,4,5,htht4,7ht]
+[DELETED: 5L]
+[DELETED: 5L  T s h b p s w r t a q n p m d n r p a f q n p d u s p a i r f o p]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 46 1006
+House Bill 326
+By: Representatives Au of the 50th, Stephens of the 164th, Cooper of the 45th, Oliver of the
+84th, and Hawkins of the 27th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia Annotated,
+2 relating to state employees' health insurance and benefit plans, so as to mandate that the state
+3 health benefit plan provide coverage for qualifying nonopioid pain management drugs that
+4 is in parity with its coverage for opioid pain management drugs; to provide for definitions;
+5 to provide for parity with regard to annual deductibles, coinsurance, copayments, exclusions,
+6 reductions, other limitations, or utilization review; to provide for legislative construction; to
+7 provide for related matters; to provide for a short title; to provide for legislative findings; to
+8 provide for an effective date; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "State Health Benefit Plan Nonopioid
+12 Coverage Parity Act."
+13 SECTION 2.
+14 The General Assembly finds and declares that:
+H. B. 326
+- 1 -
+
+25 LC 46 1006
+15 (1) An opioid epidemic has cost the state millions of dollars in medical treatment, lost
+16 economic productivity, and increased overdose deaths, among other costs; and
+17 (2) Requiring coverage for nonopioid pain management drugs in the state health benefit
+18 plan that is at least as good as its coverage for opioid pain management drugs will reduce
+19 the costs borne by this state.
+20 SECTION 3.
+21 Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia Annotated, relating to
+22 state employees' health insurance and benefit plans, is amended by adding a new Code
+23 section to read as follows:
+24 "45-18-4.2.
+25 (a) As used in this Code section, the term:
+26 (1) 'Healthcare provider' means the pharmacy, attending physician, or any other person
+27 or entity administering healthcare to a member of the state health benefit plan at the time
+28 of reference that is licensed, certified, or otherwise authorized or permitted by law to
+29 administer healthcare in the ordinary course of business or practice of a profession,
+30 including any person employed by or acting for any such authorized person or entity.
+31 (2) 'Prior authorization' means any requirement for the healthcare provider to obtain
+32 approval from the state health benefit plan prior to the furnishing of a drug.
+33 (3) 'Qualifying nonopioid pain management drugs' means a drug or biological product
+34 that:
+35 (A) Has a label indication approved by the federal Food and Drug Administration to
+36 reduce postoperative pain or any other form of acute pain;
+37 (B) Does not act upon the body's opioid receptors;
+38 (C) Is not a Schedule I or II controlled substance;
+39 (D) Has been selected by the Department of Community Health for inclusion in its
+40 formulary; and
+H. B. 326
+- 2 -
+
+25 LC 46 1006
+41 (E) Is sold or marketed in the United States.
+42 (4) 'State health benefit plan' means the health insurance plan established pursuant to this
+43 article.
+44 (5) 'Step therapy' means a drug therapy utilization management protocol or program that
+45 requires use of an alternative, preferred prescription drug or drugs before the state health
+46 benefit plan approves coverage for the nonpreferred drug therapy prescribed.
+47 (b) The state health benefit plan shall cover qualifying nonopioid pain management drugs
+48 and such drugs shall be subject to the same annual deductible, coinsurance, copayment,
+49 exclusions, reductions, or other limitations as to coverage, or utilization review applicable
+50 to similar covered opioid pain management drugs.
+51 (c) Notwithstanding subsection (b) of this Code section, nothing in this Code section shall
+52 be construed to prohibit the state health benefit plan from contracting to provide qualifying
+53 nonopioid pain management drug coverage for the state health benefit plan that is greater
+54 than the coverage provided for opioid pain management drugs.
+55 (d) The state health benefit plan shall, with respect to a qualifying nonopioid pain
+56 management drug for which coverage is provided under such plan, neither impose any step
+57 therapy requirement under which an individual enrolled under such plan is required to use
+58 an opioid pain management drug prior to receiving the prescribed qualifying nonopioid
+59 pain management drug nor require prior authorization for qualifying nonopioid pain
+60 management drugs unless similar prior authorization is required for opioid pain
+61 management drugs.
+62 (e) Nothing in this Code section should be construed to interfere with the ability of a
+63 healthcare provider to prescribe or administer a course of treatment that is medically
+64 appropriate."
+65 SECTION 4.
+66 This Act shall become effective on January 1, 2026.
+H. B. 326
+- 3 -
+
+25 LC 46 1006
+67 SECTION 5.
+68 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 326
+- 4 -
+
+[DELETED: 5L0,4,5,htht4,7ht]
+[DELETED: 5L]
+[DELETED: 5L  T s h b p s w r t a q n p m d n r p a f q n p d u s p a i r f o p]
+[DELETED: 5L]

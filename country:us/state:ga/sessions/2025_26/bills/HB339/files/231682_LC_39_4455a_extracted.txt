@@ -1,0 +1,289 @@
+Title: House Bill 339
+Official Title: House Bill 339
+Number of Sections: 1
+Source: versions - LC 39 4455/a
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4455
+By: Representatives Leverett of the 123rd, Efstration of the 104th, Williamson of the 112th,
+Gaines of the 120th, Gunter of the 8th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated,
+2 relating to motor carriers, so as to exempt ride share drivers or ride share network services
+3 from the definition of motor carrier; to provide for definitions; to revise legislative findings;
+4 to exempt ride share network services from liability for actions of ride share drivers in certain
+5 instances; to provide for conforming changes; to provide for related matters; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated, relating to
+10 motor carriers, is amended in Code Section 40-1-100, relating to definitions relative to
+11 certification of motor carriers, by revising paragraphs (6) and (12) as follows:
+12 "(6) 'Department' means the Department of Public Safety 'Elderly or disabled passenger'
+13 means an individual over the age of 60 years or who, by reason of illness, injury, age,
+14 congenital malfunction, or other permanent or temporary incapacity or disability, is
+15 unable to utilize mass transportation facilities as effectively as an individual who is not
+16 so affected."
+H. B. 339
+- 1 -
+25 LC 39 4455
+17 "(12) 'Motor carrier' means:
+18 (A) Every person owning, controlling, operating, or managing any motor vehicle,
+19 including the lessees, receivers, or trustees of such persons or receivers appointed by
+20 any court, used in the business of transporting for hire persons, household goods, or
+21 property or engaged in the activity of nonconsensual towing pursuant to Code
+22 Section 44-1-13 for hire over any public highway in this state.
+23 (B) Except as otherwise provided in this subparagraph, the term 'motor carrier' such
+24 term shall not include:
+25 (i) Motor vehicles engaged solely in transporting school children and teachers to and
+26 from public schools and private schools;
+27 (ii) Taxicabs which operate within the corporate limits of municipalities and are
+28 subject to regulation by the governing authorities of such municipalities; the
+29 provisions of this division notwithstanding, vehicles and the drivers thereof operating
+30 within the corporate limits of any city shall be subject to the safety regulations
+31 adopted by the commissioner of public safety pursuant to Code Section 40-1-8;
+32 (iii) Limousine carriers as provided for in Part 3 of this article;
+33 (iv) Hotel passenger or baggage motor vehicles when used exclusively for patrons
+34 and employees of such hotel;
+35 (v) Motor vehicles operated not for profit with a capacity of 15 persons or less when
+36 they are used exclusively to transport elderly and or disabled passengers or employees
+37 under a corporate sponsored vanpool program, except that a vehicle owned by the
+38 driver may be operated for profit when such driver is traveling to and from his or her
+39 place of work, provided each such vehicle carrying more than nine passengers
+40 maintains liability insurance in an amount of not less than $100,000.00 per person and
+41 $300,000.00 per accident and $50,000.00 property damage. For the purposes of this
+42 part, elderly and disabled passengers are defined as individuals over the age of 60
+43 years or who, by reason of illness, injury, age, congenital malfunction, or other
+H. B. 339
+- 2 -
+25 LC 39 4455
+44 permanent or temporary incapacity or disability, are unable to utilize mass
+45 transportation facilities as effectively as persons who are not so affected;
+46 (vi) Motor vehicles owned and operated exclusively by the United States government
+47 or by this state or any subdivision thereof;
+48 (vii) Vehicles, owned or operated by the federal or state government or by any
+49 agency, instrumentality, or political subdivision of the federal or state government,
+50 or privately owned and operated for profit or not for profit, capable of transporting not
+51 more than ten persons for hire when such vehicles are used exclusively to transport
+52 elderly or disabled passengers persons who are elderly, disabled, en route to receive
+53 medical care or prescription medication, or returning after receiving medical care or
+54 prescription medication;. For the purpose of this part, elderly and disabled persons
+55 shall have the same meaning as in division (v) of this subparagraph; or
+56 (viii) Ambulances; or
+57 (ix) Ride share drivers or ride share network services as provided for in Part 4 of this
+58 article."
+59 SECTION 2.
+60 Said article is further amended by revising Code Section 40-1-191, relating to legislative
+61 findings, preemption, and ride share network service, transportation referral service,
+62 transportation referral service provider, and taxi service doing business at a county or
+63 municipal airport, as follows:
+64 "40-1-191.
+65 The General Assembly finds that it is in the public interest to provide uniform
+66 administration and parity among ride share network services, transportation referral
+67 services, and transportation referral service providers, including taxi services, that operate
+68 in this state for the safety and protection of the public. The General Assembly fully
+69 occupies and preempts the entire field of administration and regulation over ride share
+H. B. 339
+- 3 -
+25 LC 39 4455
+70 network services, ride share drivers, transportation referral services, transportation referral
+71 service providers, and taxi services as governed by this part; provided, however, that the
+72 governing authority of any county or municipal airport shall be authorized to regulate any
+73 ride share network service, ride share driver, transportation referral service, transportation
+74 referral service provider, and taxi service consistent with the process used for limousine
+75 carriers, as set forth in Code Section 40-1-162, who are doing business at any such airport
+76 and may establish fees as part of such regulation process; provided, further, that such fees
+77 shall not exceed the airport's approximate cost of permitting and regulating ride share
+78 network services, ride share drivers, transportation referral services, transportation referral
+79 service providers, and taxi services; and provided, further, that such governing authorities
+80 of such airports shall accept a for-hire license endorsement or private background check
+81 certification pursuant to Code Section 40-5-39 as adequate evidence of sufficient criminal
+82 background investigations and shall not require any fee for any further criminal
+83 background investigation; and provided, further, that local governments may maintain
+84 certificates of public necessity and convenience and medallion requirements and company
+85 requirements for taxi services as provided in this part and may establish maximum fares
+86 for taxi services. The list of ride share network services, transportation referral services,
+87 transportation referral service providers, and taxi services on the public website of the
+88 department shall be sufficient evidence that such services have licenses issued by the
+89 department."
+90 SECTION 3.
+91 Said article is further amended by adding a new Code section to read as follows:
+92 "40-1-201.
+93 (a) No ride share network service shall be liable under any theory of liability, including,
+94 but not limited to, vicarious or product liability, for any injury to persons or damage to
+95 property from the operation of a personal passenger car by a ride share driver by reason of
+H. B. 339
+- 4 -
+25 LC 39 4455
+96 owning, operating, or maintaining a digital network or internet network to connect
+97 passengers to ride share drivers for the purpose of prearranged transportation for hire or for
+98 donation, provided that:
+99 (1) There has been no negligence or criminal misconduct by the ride share network
+100 service;
+101 (2) The ride share network service is in compliance with the requirements of this part
+102 relating to obligations to a ride share driver and any other provision otherwise required
+103 by law; and
+104 (3) The ride share network service ensures that each ride share driver holds a for-hire
+105 license endorsement pursuant to Code Section 40-5-39 or obtains a private background
+106 check certification as described in such Code section at least once every two years.
+107 (b) Any digital network or internet network used by a ride share network service shall be
+108 considered a service and shall not qualify as a product."
+109 SECTION 4.
+110 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 339
+- 5 -
+[DELETED: 5L3,4,2dtht0,8,ht r]
+[DELETED: 5L o e i t a o n t p t C t r b t g a o s m t o w p e s v c m t n p]
+[DELETED: 5L o t i o d a u t u m p a r s n s t r s r s p a t s d b a a c o G A f t i i i t p i t p u a p a r s n s t r]
+[DELETED: 5L i a s n r a f f a f c]
+[DELETED: 5L o o m a d n o i n t c]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4455
+House Bill 339
+By: Representatives Leverett of the 123rd, Efstration of the 104th, Williamson of the 112th,
+Gaines of the 120th, Gunter of the 8th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated,
+2 relating to motor carriers, so as to exempt ride share drivers or ride share network services
+3 from the definition of motor carrier; to provide for definitions; to revise legislative findings;
+4 to exempt ride share network services from liability for actions of ride share drivers in certain
+5 instances; to provide for conforming changes; to provide for related matters; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Article 3 of Chapter 1 of Title 40 of the Official Code of Georgia Annotated, relating to
+10 motor carriers, is amended in Code Section 40-1-100, relating to definitions relative to
+11 certification of motor carriers, by revising paragraphs (6) and (12) as follows:
+12 "(6) 'Department' means the Department of Public Safety 'Elderly or disabled passenger'
+13 means an individual over the age of 60 years or who, by reason of illness, injury, age,
+14 congenital malfunction, or other permanent or temporary incapacity or disability, is
+15 unable to utilize mass transportation facilities as effectively as an individual who is not
+16 so affected."
+H. B. 339
+- 1 -
+
+25 LC 39 4455
+17 "(12) 'Motor carrier' means:
+18 (A) Every person owning, controlling, operating, or managing any motor vehicle,
+19 including the lessees, receivers, or trustees of such persons or receivers appointed by
+20 any court, used in the business of transporting for hire persons, household goods, or
+21 property or engaged in the activity of nonconsensual towing pursuant to Code
+22 Section 44-1-13 for hire over any public highway in this state.
+23 (B) Except as otherwise provided in this subparagraph, the term 'motor carrier' such
+24 term shall not include:
+25 (i) Motor vehicles engaged solely in transporting school children and teachers to and
+26 from public schools and private schools;
+27 (ii) Taxicabs which operate within the corporate limits of municipalities and are
+28 subject to regulation by the governing authorities of such municipalities; the
+29 provisions of this division notwithstanding, vehicles and the drivers thereof operating
+30 within the corporate limits of any city shall be subject to the safety regulations
+31 adopted by the commissioner of public safety pursuant to Code Section 40-1-8;
+32 (iii) Limousine carriers as provided for in Part 3 of this article;
+33 (iv) Hotel passenger or baggage motor vehicles when used exclusively for patrons
+34 and employees of such hotel;
+35 (v) Motor vehicles operated not for profit with a capacity of 15 persons or less when
+36 they are used exclusively to transport elderly and or disabled passengers or employees
+37 under a corporate sponsored vanpool program, except that a vehicle owned by the
+38 driver may be operated for profit when such driver is traveling to and from his or her
+39 place of work, provided each such vehicle carrying more than nine passengers
+40 maintains liability insurance in an amount of not less than $100,000.00 per person and
+41 $300,000.00 per accident and $50,000.00 property damage. For the purposes of this
+42 part, elderly and disabled passengers are defined as individuals over the age of 60
+43 years or who, by reason of illness, injury, age, congenital malfunction, or other
+H. B. 339
+- 2 -
+
+25 LC 39 4455
+44 permanent or temporary incapacity or disability, are unable to utilize mass
+45 transportation facilities as effectively as persons who are not so affected;
+46 (vi) Motor vehicles owned and operated exclusively by the United States government
+47 or by this state or any subdivision thereof;
+48 (vii) Vehicles, owned or operated by the federal or state government or by any
+49 agency, instrumentality, or political subdivision of the federal or state government,
+50 or privately owned and operated for profit or not for profit, capable of transporting not
+51 more than ten persons for hire when such vehicles are used exclusively to transport
+52 elderly or disabled passengers persons who are elderly, disabled, en route to receive
+53 medical care or prescription medication, or returning after receiving medical care or
+54 prescription medication;. For the purpose of this part, elderly and disabled persons
+55 shall have the same meaning as in division (v) of this subparagraph; or
+56 (viii) Ambulances; or
+57 (ix) Ride share drivers or ride share network services as provided for in Part 4 of this
+58 article."
+59 SECTION 2.
+60 Said article is further amended by revising Code Section 40-1-191, relating to legislative
+61 findings, preemption, and ride share network service, transportation referral service,
+62 transportation referral service provider, and taxi service doing business at a county or
+63 municipal airport, as follows:
+64 "40-1-191.
+65 The General Assembly finds that it is in the public interest to provide uniform
+66 administration and parity among ride share network services, transportation referral
+67 services, and transportation referral service providers, including taxi services, that operate
+68 in this state for the safety and protection of the public. The General Assembly fully
+69 occupies and preempts the entire field of administration and regulation over ride share
+H. B. 339
+- 3 -
+
+25 LC 39 4455
+70 network services, ride share drivers, transportation referral services, transportation referral
+71 service providers, and taxi services as governed by this part; provided, however, that the
+72 governing authority of any county or municipal airport shall be authorized to regulate any
+73 ride share network service, ride share driver, transportation referral service, transportation
+74 referral service provider, and taxi service consistent with the process used for limousine
+75 carriers, as set forth in Code Section 40-1-162, who are doing business at any such airport
+76 and may establish fees as part of such regulation process; provided, further, that such fees
+77 shall not exceed the airport's approximate cost of permitting and regulating ride share
+78 network services, ride share drivers, transportation referral services, transportation referral
+79 service providers, and taxi services; and provided, further, that such governing authorities
+80 of such airports shall accept a for-hire license endorsement or private background check
+81 certification pursuant to Code Section 40-5-39 as adequate evidence of sufficient criminal
+82 background investigations and shall not require any fee for any further criminal
+83 background investigation; and provided, further, that local governments may maintain
+84 certificates of public necessity and convenience and medallion requirements and company
+85 requirements for taxi services as provided in this part and may establish maximum fares
+86 for taxi services. The list of ride share network services, transportation referral services,
+87 transportation referral service providers, and taxi services on the public website of the
+88 department shall be sufficient evidence that such services have licenses issued by the
+89 department."
+90 SECTION 3.
+91 Said article is further amended by adding a new Code section to read as follows:
+92 "40-1-201.
+93 (a) No ride share network service shall be liable under any theory of liability, including,
+94 but not limited to, vicarious or product liability, for any injury to persons or damage to
+95 property from the operation of a personal passenger car by a ride share driver by reason of
+H. B. 339
+- 4 -
+
+25 LC 39 4455
+96 owning, operating, or maintaining a digital network or internet network to connect
+97 passengers to ride share drivers for the purpose of prearranged transportation for hire or for
+98 donation, provided that:
+99 (1) There has been no negligence or criminal misconduct by the ride share network
+100 service;
+101 (2) The ride share network service is in compliance with the requirements of this part
+102 relating to obligations to a ride share driver and any other provision otherwise required
+103 by law; and
+104 (3) The ride share network service ensures that each ride share driver holds a for-hire
+105 license endorsement pursuant to Code Section 40-5-39 or obtains a private background
+106 check certification as described in such Code section at least once every two years.
+107 (b) Any digital network or internet network used by a ride share network service shall be
+108 considered a service and shall not qualify as a product."
+109 SECTION 4.
+110 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 339
+- 5 -
+
+[DELETED: 5L3,4,2dtht0,8,ht r]
+[DELETED: 5L o e i t a o n t p t C t r b t g a o s m t o w p e s v c m t n p]
+[DELETED: 5L o t i o d a u t u m p a r s n s t r s r s p a t s d b a a c o G A f t i i i t p i t p u a p a r s n s t r]
+[DELETED: 5L i a s n r a f f a f c]
+[DELETED: 5L o o m a d n o i n t c]

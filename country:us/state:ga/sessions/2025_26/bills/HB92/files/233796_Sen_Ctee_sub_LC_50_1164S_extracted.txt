@@ -1,0 +1,397 @@
+Title: The Senate Committee on Finance offered the following
+Official Title: The Senate Committee on Finance offered the following
+Number of Sections: 1
+Source: versions - Sen Ctee sub LC 50 1164S
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 1164S
+substitute to HB 92:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to ad
+2 valorem taxation of property, so as to provide for the required contents of property tax bills;
+3 to revise a state-wide base year homestead exemption; to clarify that a surviving spouse does
+4 not need to reapply for such exemption; to require local governing authorities that opted out
+5 of such exemption to follow the procedures to opt out each year for such opt out to remain
+6 effective; to provide for procedures to rescind an election to opt out; to provide for an
+7 additional period to apply for a homestead exemption in certain circumstances; to provide
+8 for the contents of annual notices of assessment; to provide for forms for such notices; to
+9 provide for requirements for calculating and certifying estimated roll-back rates; to revise
+10 definitions; to provide for related matters; to provide for an effective date and applicability;
+11 to repeal conflicting laws; and for other purposes.
+12 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+13 SECTION 1.
+14 Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to ad valorem
+15 taxation of property, is amended in Code Section 48-5-2, relating to definitions, by revising
+16 paragraph (2.1) as follows:
+- 1 -
+25 LC 50 1164S
+17 "(2.1) 'Estimated roll-back rate' means, for any given levying or recommending authority,
+18 the current year's estimated millage rate minus the millage equivalent of the total net
+19 assessed value added by reassessments:
+20 (A) As as calculated and certified to the tax commissioner by the levying or
+21 recommending authority pursuant to Code Section 48-5-306.2 for county and
+22 educational tax purposes; and
+23 (B) As calculated and certified to the collecting officer of the municipality by the
+24 levying authority for municipal tax purposes."
+25 SECTION 2.
+26 Said chapter is further amended in Code Section 48-5-34, relating to ad valorem property tax
+27 bill form, by revising subsection (b) as follows:
+28 "(b) In addition to the requirements of subsection (a) of this Code section, regarding any
+29 ad valorem property tax bill where if the millage rate adopted by a tax taxing authority
+30 exceeds the estimated roll-back rate and such estimated roll-back rate was provided in the
+31 annual notice of assessment, such tax bill shall include a notice containing the name of
+32 such taxing authority and the following statement in bold print:
+33 'The adopted millage rate exceeds the estimated roll-back rate as stated in the annual
+34 notice of assessment that you previously received for this taxable year, which will
+35 result in an increase in the amount of property tax that you will owe.'"
+36 SECTION 3.
+37 Said chapter is further amended in Code Section 48-5-44.2, relating to base year homestead
+38 exemption, by revising paragraph (4) of subsection (a) and subsections (e) and (i) and by
+39 adding a new subsection to read as follows:
+40 "(4) 'Homestead' means homestead as defined and qualified in Code Section 48-5-40,
+41 with the additional limitation that it shall include:
+- 2 -
+25 LC 50 1164S
+42 (A) Only the primary residence and not more than five contiguous acres of land
+43 immediately surrounding such residence; or
+44 (B) If the property is assessed pursuant to Code Section 48-5-7.4 or 48-5-7.7, only the
+45 primary residence and the portion of the underlying property that is excluded from the
+46 benefit of such assessment pursuant to subparagraph (a)(1)(B) of Code Section 48-5-7.4
+47 or subparagraph (b)(2)(B) of Code Section 48-5-7.7."
+48 "(e) The exemption granted by subsection (b) or (c) of this Code section shall be claimed
+49 and returned as provided in Code Section 48-5-50.1. Such exemption shall be
+50 automatically renewed from year to year so long as the owner occupies the residence as a
+51 homestead. After a person or a person's agent has filed the proper application or is
+52 automatically granted the homestead exemption as provided in subsection (d) of this Code
+53 section, it shall not be necessary for such person or such person's surviving spouse to make
+54 application thereafter for any year, and the exemption shall continue to be allowed to such
+55 person or such person's surviving spouse. It shall be the duty of any person granted the
+56 homestead exemption under subsection (b) or (c) of this Code section to notify the tax
+57 receiver or tax commissioner of the local government or governments in the event such
+58 person for any reason becomes ineligible for such exemption."
+59 "(i)(1) The governing authority of any county, consolidated government, municipality,
+60 or school district may elect to opt out of the homestead exemption otherwise granted by
+61 subsection (b) of this Code section with respect to such political subdivision through the
+62 adoption of a resolution to do the same by March 1, 2025, after completing the following
+63 steps:
+64 (1)(A) The governing authority shall advertise its intent to do so and shall conduct at
+65 least three public hearings thereon, at least one of which shall commence between the
+66 hours of 6:00 P.M. and 7:00 P.M., inclusive, on a business weekday. The governing
+67 authority shall place an advertisement in a newspaper of general circulation serving the
+- 3 -
+25 LC 50 1164S
+68 residents of the political subdivision and post such advertisement on its website, which
+69 shall read as follows:
+70 'INTENT TO OPT OUT OF HOMESTEAD EXEMPTION
+71 The (name of governing authority) intends to opt out of the statewide adjusted
+72 base year ad valorem homestead exemption for (name of the political subdivision).
+73 All concerned citizens are invited to the public hearing on this matter to be held
+74 at (place of meeting) on (date and time).
+75 Times and places of additional public hearings on this matter are at (place of
+76 meeting) on (date and time).'
+77 Simultaneously with this notice the governing authority shall provide a press release to
+78 the local media.; and
+79 (2)(B) The advertisement required by subparagraph (A) of this paragraph (1) of this
+80 subsection shall appear at least one week prior to each hearing, be prominently
+81 displayed, be not less than 30 square inches, and not be placed in that section of the
+82 newspaper where legal notices appear and shall be posted on the appropriate website
+83 at least one week prior to each hearing. In addition to the advertisement specified under
+84 this paragraph, the levying or recommending authority may include in the notice
+85 reasons or explanations for its intention to opt out of the homestead exemption.
+86 (3)(2)(A) No resolution election to opt out of the homestead exemption shall become
+87 effective with respect to a political subdivision unless the procedures and hearings
+88 required by paragraph (1) of this subsection are completed and a copy of such
+89 resolution is filed with the Secretary of State by March 1, 2025.
+90 (B) For the election to opt out of the homestead exemption otherwise granted by this
+91 Code section to remain effective for a political subdivision after tax year 2025, the
+92 governing authority shall comply with the same procedures and hearings required
+93 pursuant to paragraph (1) of this subsection and shall file a copy of the resolution with
+94 the Secretary of State by March 1 of each year.
+- 4 -
+25 LC 50 1164S
+95 (3) The governing authority of any county, consolidated government, municipality, or
+96 school district that has elected to opt out pursuant to this subsection may rescind such
+97 election at any time by adopting a resolution to do so and filing a copy of such resolution
+98 with the Secretary of State; provided, however, that such resolution to rescind the election
+99 to opt out shall only be effective for a tax year if a copy of the resolution is filed with the
+100 Secretary of State by March 1 of the such tax year."
+101 SECTION 4.
+102 Said chapter is further amended in Code Section 48-5-45, relating to application for
+103 homestead exemption and unlawful to solicit fee to file application for homestead for
+104 another, by revising subsection (a) as follows:
+105 "(a)(1) An applicant seeking a homestead exemption as provided in Code
+106 Section 48-5-44 and qualifying under the provisions of Code Section 48-5-40 shall file
+107 a written application and schedule with the tax receiver or tax commissioner charged with
+108 the duty of receiving returns of property for taxation at any time during the calendar year
+109 subsequent to the property becoming the primary residence of the applicant up to and
+110 including the date for the closing of the books for the return of taxes for the calendar year,
+111 except that, in the case of a property which is subject to a reassessment by the board of
+112 tax assessors, such application and schedule may be filed in conjunction with or in lieu
+113 of an appeal of the reassessment.
+114 (2) The failure to file properly the application and schedule on or before the date for the
+115 closing of the books for the return of taxes of a calendar year in which the taxes are due
+116 shall constitute a waiver of the homestead exemption on the part of the applicant failing
+117 to make the application for such exemption for that year."
+- 5 -
+25 LC 50 1164S
+118 SECTION 5.
+119 Said title is further amended in Code Section 48-5-306, relating to annual notice of current
+120 assessment, contents, posting notice, and new assessment description, by revising
+121 paragraph (1) of subsection (b) as follows:
+122 "(1) The annual notice of current assessment required to be given by the county board
+123 of tax assessors under subsection (a) of this Code section shall be dated and shall contain
+124 the name and last known address of the taxpayer. The annual notice shall conform with
+125 be given on the applicable state-wide uniform assessment notice form which shall be
+126 established by the commissioner by rule and regulation and shall contain:
+127 (A) The amount of the previous assessment;
+128 (B) The amount of the current assessment;
+129 (C) The year for which the new assessment is applicable;
+130 (D) A brief description of the assessed property broken down into real and personal
+131 property classifications;
+132 (E) The fair market value of property of the taxpayer subject to taxation and the
+133 assessed value of the taxpayer's property subject to taxation after being reduced;
+134 (F) The name, phone number, and contact information of the person in the assessors'
+135 office who is administratively responsible for the handling of the appeal and who the
+136 taxpayer may contact if the taxpayer has questions about the reasons for the assessment
+137 change or the appeals process;
+138 (G) If available, the public internet website address of the office of the county board
+139 of tax assessors;
+140 (H) A statement that all documents and records used to determine the current value are
+141 available upon request; and
+142 (I)(i) The current year's estimated roll-back rate for each levying or recommending
+143 authority that certified its estimated general maintenance and operations roll-back rate
+- 6 -
+25 LC 50 1164S
+144 for the current year to the county board of tax assessors and county tax commissioner
+145 by the date specified under Code Section 48-5-306.2; or
+146 (ii) For each levying or recommending authority that did not certify its estimated
+147 general maintenance and operations roll-back rate to the county board of tax assessors
+148 and county tax commissioner by the date specified in Code Section 48-5-306.2, the
+149 previous year's millage rate levied by the authority."
+150 SECTION 6.
+151 Said chapter is further amended by adding a new Code section to read as follows:
+152 "48-5-306.2.
+153 Each levying and recommending authority, in accordance with the procedures specified
+154 under Code Section 48-5-32.1, shall annually calculate its estimated general maintenance
+155 and operations roll-back rate for the current year and shall certify such rate to the county
+156 board of tax assessors and county tax commissioner no less than 15 days prior to the
+157 postmark of the annual notice of assessment."
+158 SECTION 7.
+159 This Act shall become effective upon its approval by the Governor or upon its becoming law
+160 without such approval and shall be applicable to taxable years beginning on or after
+161 January 1, 2025.
+162 SECTION 8.
+163 All laws and parts of laws in conflict with this Act are repealed.
+- 7 -
+[DELETED: 5LTvtnoeafp0d1t2B3S4C5t6p]
+[DELETED: 5L7(8t9a0(  A a c a c t t t c b t l o1r a p t C S 4 f c a2e3(4l5S6S7b8(9a0e1a2s3'4n5r6S7S8e9a0(1w]
+[DELETED: 5L2(3i4(5p6b7o8(9a r a p i C S 4  S e s b0a1h2a3s4a5p6h7r8p9(0o1s2a3s4(5l6h7a]
+[DELETED: 5L8r9s0'1T2b3A4a5T6m7S8t9(0s s a a l o w p t e h b p1d2n3a4t p t l o r a m i i t n5r6(7e8r b p ( o t s a c a a c o s9r0(1C2g3p4t]
+[DELETED: 5L5(6s7e8w9t0S1S2S c i f a i C S 4 r t a f3h e a u t s f t f a f h f4a5(  A a s a h e a p i C6S7a8t9s0i1e2t3o4(5c6s7t]
+[DELETED: 5L8S9S0a c p n a n a d b r1p2(3o4t5b6e7(8(9(0(1p2(3a4(5o6t7c8(9o0(1a2(3a]
+[DELETED: 5L4f5b6(7g8a9p0S1S243E4u5a6b7p8S9T0w s a a s b a t t y b o o a1J2S3A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 1164S
+The Senate Committee on Finance offered the following
+substitute to HB 92:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to ad
+2 valorem taxation of property, so as to provide for the required contents of property tax bills;
+3 to revise a state-wide base year homestead exemption; to clarify that a surviving spouse does
+4 not need to reapply for such exemption; to require local governing authorities that opted out
+5 of such exemption to follow the procedures to opt out each year for such opt out to remain
+6 effective; to provide for procedures to rescind an election to opt out; to provide for an
+7 additional period to apply for a homestead exemption in certain circumstances; to provide
+8 for the contents of annual notices of assessment; to provide for forms for such notices; to
+9 provide for requirements for calculating and certifying estimated roll-back rates; to revise
+10 definitions; to provide for related matters; to provide for an effective date and applicability;
+11 to repeal conflicting laws; and for other purposes.
+12 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+13 SECTION 1.
+14 Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to ad valorem
+15 taxation of property, is amended in Code Section 48-5-2, relating to definitions, by revising
+16 paragraph (2.1) as follows:
+- 1 -
+
+25 LC 50 1164S
+17 "(2.1) 'Estimated roll-back rate' means, for any given levying or recommending authority,
+18 the current year's estimated millage rate minus the millage equivalent of the total net
+19 assessed value added by reassessments:
+20 (A) As as calculated and certified to the tax commissioner by the levying or
+21 recommending authority pursuant to Code Section 48-5-306.2 for county and
+22 educational tax purposes; and
+23 (B) As calculated and certified to the collecting officer of the municipality by the
+24 levying authority for municipal tax purposes."
+25 SECTION 2.
+26 Said chapter is further amended in Code Section 48-5-34, relating to ad valorem property tax
+27 bill form, by revising subsection (b) as follows:
+28 "(b) In addition to the requirements of subsection (a) of this Code section, regarding any
+29 ad valorem property tax bill where if the millage rate adopted by a tax taxing authority
+30 exceeds the estimated roll-back rate and such estimated roll-back rate was provided in the
+31 annual notice of assessment, such tax bill shall include a notice containing the name of
+32 such taxing authority and the following statement in bold print:
+33 'The adopted millage rate exceeds the estimated roll-back rate as stated in the annual
+34 notice of assessment that you previously received for this taxable year, which will
+35 result in an increase in the amount of property tax that you will owe.'"
+36 SECTION 3.
+37 Said chapter is further amended in Code Section 48-5-44.2, relating to base year homestead
+38 exemption, by revising paragraph (4) of subsection (a) and subsections (e) and (i) and by
+39 adding a new subsection to read as follows:
+40 "(4) 'Homestead' means homestead as defined and qualified in Code Section 48-5-40,
+41 with the additional limitation that it shall include:
+- 2 -
+
+25 LC 50 1164S
+42 (A) Only the primary residence and not more than five contiguous acres of land
+43 immediately surrounding such residence; or
+44 (B) If the property is assessed pursuant to Code Section 48-5-7.4 or 48-5-7.7, only the
+45 primary residence and the portion of the underlying property that is excluded from the
+46 benefit of such assessment pursuant to subparagraph (a)(1)(B) of Code Section 48-5-7.4
+47 or subparagraph (b)(2)(B) of Code Section 48-5-7.7."
+48 "(e) The exemption granted by subsection (b) or (c) of this Code section shall be claimed
+49 and returned as provided in Code Section 48-5-50.1. Such exemption shall be
+50 automatically renewed from year to year so long as the owner occupies the residence as a
+51 homestead. After a person or a person's agent has filed the proper application or is
+52 automatically granted the homestead exemption as provided in subsection (d) of this Code
+53 section, it shall not be necessary for such person or such person's surviving spouse to make
+54 application thereafter for any year, and the exemption shall continue to be allowed to such
+55 person or such person's surviving spouse. It shall be the duty of any person granted the
+56 homestead exemption under subsection (b) or (c) of this Code section to notify the tax
+57 receiver or tax commissioner of the local government or governments in the event such
+58 person for any reason becomes ineligible for such exemption."
+59 "(i)(1) The governing authority of any county, consolidated government, municipality,
+60 or school district may elect to opt out of the homestead exemption otherwise granted by
+61 subsection (b) of this Code section with respect to such political subdivision through the
+62 adoption of a resolution to do the same by March 1, 2025, after completing the following
+63 steps:
+64 (1)(A) The governing authority shall advertise its intent to do so and shall conduct at
+65 least three public hearings thereon, at least one of which shall commence between the
+66 hours of 6:00 P.M. and 7:00 P.M., inclusive, on a business weekday. The governing
+67 authority shall place an advertisement in a newspaper of general circulation serving the
+- 3 -
+
+25 LC 50 1164S
+68 residents of the political subdivision and post such advertisement on its website, which
+69 shall read as follows:
+70 'INTENT TO OPT OUT OF HOMESTEAD EXEMPTION
+71 The (name of governing authority) intends to opt out of the statewide adjusted
+72 base year ad valorem homestead exemption for (name of the political subdivision).
+73 All concerned citizens are invited to the public hearing on this matter to be held
+74 at (place of meeting) on (date and time).
+75 Times and places of additional public hearings on this matter are at (place of
+76 meeting) on (date and time).'
+77 Simultaneously with this notice the governing authority shall provide a press release to
+78 the local media.; and
+79 (2)(B) The advertisement required by subparagraph (A) of this paragraph (1) of this
+80 subsection shall appear at least one week prior to each hearing, be prominently
+81 displayed, be not less than 30 square inches, and not be placed in that section of the
+82 newspaper where legal notices appear and shall be posted on the appropriate website
+83 at least one week prior to each hearing. In addition to the advertisement specified under
+84 this paragraph, the levying or recommending authority may include in the notice
+85 reasons or explanations for its intention to opt out of the homestead exemption.
+86 (3)(2)(A) No resolution election to opt out of the homestead exemption shall become
+87 effective with respect to a political subdivision unless the procedures and hearings
+88 required by paragraph (1) of this subsection are completed and a copy of such
+89 resolution is filed with the Secretary of State by March 1, 2025.
+90 (B) For the election to opt out of the homestead exemption otherwise granted by this
+91 Code section to remain effective for a political subdivision after tax year 2025, the
+92 governing authority shall comply with the same procedures and hearings required
+93 pursuant to paragraph (1) of this subsection and shall file a copy of the resolution with
+94 the Secretary of State by March 1 of each year.
+- 4 -
+
+25 LC 50 1164S
+95 (3) The governing authority of any county, consolidated government, municipality, or
+96 school district that has elected to opt out pursuant to this subsection may rescind such
+97 election at any time by adopting a resolution to do so and filing a copy of such resolution
+98 with the Secretary of State; provided, however, that such resolution to rescind the election
+99 to opt out shall only be effective for a tax year if a copy of the resolution is filed with the
+100 Secretary of State by March 1 of the such tax year."
+101 SECTION 4.
+102 Said chapter is further amended in Code Section 48-5-45, relating to application for
+103 homestead exemption and unlawful to solicit fee to file application for homestead for
+104 another, by revising subsection (a) as follows:
+105 "(a)(1) An applicant seeking a homestead exemption as provided in Code
+106 Section 48-5-44 and qualifying under the provisions of Code Section 48-5-40 shall file
+107 a written application and schedule with the tax receiver or tax commissioner charged with
+108 the duty of receiving returns of property for taxation at any time during the calendar year
+109 subsequent to the property becoming the primary residence of the applicant up to and
+110 including the date for the closing of the books for the return of taxes for the calendar year,
+111 except that, in the case of a property which is subject to a reassessment by the board of
+112 tax assessors, such application and schedule may be filed in conjunction with or in lieu
+113 of an appeal of the reassessment.
+114 (2) The failure to file properly the application and schedule on or before the date for the
+115 closing of the books for the return of taxes of a calendar year in which the taxes are due
+116 shall constitute a waiver of the homestead exemption on the part of the applicant failing
+117 to make the application for such exemption for that year."
+- 5 -
+
+25 LC 50 1164S
+118 SECTION 5.
+119 Said title is further amended in Code Section 48-5-306, relating to annual notice of current
+120 assessment, contents, posting notice, and new assessment description, by revising
+121 paragraph (1) of subsection (b) as follows:
+122 "(1) The annual notice of current assessment required to be given by the county board
+123 of tax assessors under subsection (a) of this Code section shall be dated and shall contain
+124 the name and last known address of the taxpayer. The annual notice shall conform with
+125 be given on the applicable state-wide uniform assessment notice form which shall be
+126 established by the commissioner by rule and regulation and shall contain:
+127 (A) The amount of the previous assessment;
+128 (B) The amount of the current assessment;
+129 (C) The year for which the new assessment is applicable;
+130 (D) A brief description of the assessed property broken down into real and personal
+131 property classifications;
+132 (E) The fair market value of property of the taxpayer subject to taxation and the
+133 assessed value of the taxpayer's property subject to taxation after being reduced;
+134 (F) The name, phone number, and contact information of the person in the assessors'
+135 office who is administratively responsible for the handling of the appeal and who the
+136 taxpayer may contact if the taxpayer has questions about the reasons for the assessment
+137 change or the appeals process;
+138 (G) If available, the public internet website address of the office of the county board
+139 of tax assessors;
+140 (H) A statement that all documents and records used to determine the current value are
+141 available upon request; and
+142 (I)(i) The current year's estimated roll-back rate for each levying or recommending
+143 authority that certified its estimated general maintenance and operations roll-back rate
+- 6 -
+
+25 LC 50 1164S
+144 for the current year to the county board of tax assessors and county tax commissioner
+145 by the date specified under Code Section 48-5-306.2; or
+146 (ii) For each levying or recommending authority that did not certify its estimated
+147 general maintenance and operations roll-back rate to the county board of tax assessors
+148 and county tax commissioner by the date specified in Code Section 48-5-306.2, the
+149 previous year's millage rate levied by the authority."
+150 SECTION 6.
+151 Said chapter is further amended by adding a new Code section to read as follows:
+152 "48-5-306.2.
+153 Each levying and recommending authority, in accordance with the procedures specified
+154 under Code Section 48-5-32.1, shall annually calculate its estimated general maintenance
+155 and operations roll-back rate for the current year and shall certify such rate to the county
+156 board of tax assessors and county tax commissioner no less than 15 days prior to the
+157 postmark of the annual notice of assessment."
+158 SECTION 7.
+159 This Act shall become effective upon its approval by the Governor or upon its becoming law
+160 without such approval and shall be applicable to taxable years beginning on or after
+161 January 1, 2025.
+162 SECTION 8.
+163 All laws and parts of laws in conflict with this Act are repealed.
+- 7 -
+
+[DELETED: 5LTvtnoeafp0d1t2B3S4C5t6p]
+[DELETED: 5L7(8t9a0(  A a c a c t t t c b t l o1r a p t C S 4 f c a2e3(4l5S6S7b8(9a0e1a2s3'4n5r6S7S8e9a0(1w]
+[DELETED: 5L2(3i4(5p6b7o8(9a r a p i C S 4  S e s b0a1h2a3s4a5p6h7r8p9(0o1s2a3s4(5l6h7a]
+[DELETED: 5L8r9s0'1T2b3A4a5T6m7S8t9(0s s a a l o w p t e h b p1d2n3a4t p t l o r a m i i t n5r6(7e8r b p ( o t s a c a a c o s9r0(1C2g3p4t]
+[DELETED: 5L5(6s7e8w9t0S1S2S c i f a i C S 4 r t a f3h e a u t s f t f a f h f4a5(  A a s a h e a p i C6S7a8t9s0i1e2t3o4(5c6s7t]
+[DELETED: 5L8S9S0a c p n a n a d b r1p2(3o4t5b6e7(8(9(0(1p2(3a4(5o6t7c8(9o0(1a2(3a]
+[DELETED: 5L4f5b6(7g8a9p0S1S243E4u5a6b7p8S9T0w s a a s b a t t y b o o a1J2S3A]

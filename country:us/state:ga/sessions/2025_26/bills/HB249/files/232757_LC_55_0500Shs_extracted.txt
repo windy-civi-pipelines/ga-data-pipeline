@@ -1,0 +1,505 @@
+Title: The House Committee on Energy, Utilities and Telecommunications offers the following
+Official Title: The House Committee on Energy, Utilities and Telecommunications offers the following
+Number of Sections: 1
+Source: versions - LC 55 0500S/hs
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0500S
+substitute to HB 249:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 3 of Title 46 of the Official Code of Georgia Annotated,
+2 relating to generation and distribution of electricity generally, so as to revise provisions
+3 relating to solar power facility agreements; to revise provisions relating to the waiver of
+4 certain requirements of such agreements; to provide for the certification by the
+5 Environmental Protection Division of the Department of Natural Resources that solar power
+6 facility agreements meet certain requirements; to provide civil penalties; to provide an
+7 exception; to revise and provide for definitions; to provide an effective date; to provide for
+8 related matters; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Article 1 of Chapter 3 of Title 46 of the Official Code of Georgia Annotated, relating to
+12 generation and distribution of electricity generally, is amended by revising Part 5, relating
+13 to solar power facility agreements, as follows:
+H. B. 249 (SUB)
+- 1 -
+25 LC 55 0500S
+14 "Part 5
+15 46-3-67.
+16 As used in this part, the term:
+17 (1) 'Commercial operations date' means the date on which a solar power facility
+18 generates electrical energy for sale to an electric supplier. Such term does not include the
+19 generation of electrical energy or other operations conducted before that date for purposes
+20 of maintenance or testing.
+21 (2) 'Division' means the Environmental Protection Division of the Department of Natural
+22 Resources.
+23 (3) 'Electric supplier' has the same meaning as provided in Code Section 46-3-3.
+24 (3)(4) 'Financial assurance' means a surety or performance bond that:
+25 (A) Renews automatically; and
+26 (B) Is issued by a company that is:
+27 (i) Licensed as an insurance company under Title 33; and
+28 (ii) Listed listed on the United States Department of the Treasury's List of Certified
+29 Companies and that has a financial strength rating of at least an 'A' as rated by A.M.
+30 Best Company, Inc.; Moody's Investors Service, Inc.; Standard and Poor's
+31 Corporation; or a similar rating agency.
+32 (4)(5) 'Grantee' means a person who leases property from a landowner and who operates
+33 a solar power facility on said property.
+34 (5)(6) 'Solar energy device' means a solar energy collector or solar energy system that
+35 provides for the collection of solar energy or the subsequent use of such energy as
+36 thermal, mechanical, or electrical energy.
+37 (6)(7) 'Solar power facility' means a solar energy device that does not meet the definition
+38 of solar technology pursuant to Code Section 46-3-62, or the integrated collection of such
+39 devices, together with any equipment or other personal property and improvements under
+H. B. 249 (SUB)
+- 2 -
+25 LC 55 0500S
+40 common ownership that are used to support the operation of such a solar energy device
+41 or solar energy devices, including, but not limited to, underground or aboveground
+42 electrical transmission or communications lines, electric transformers, battery storage
+43 facilities, telecommunications equipment, roads, meteorological towers, and maintenance
+44 yards.
+45 (7)(8) 'Solar power facility agreement' means any lease agreement for real property in
+46 this state between a grantee and a landowner that authorizes the grantee to operate a solar
+47 power facility on the leased property.
+48 46-3-68.
+49 (a) The provisions of this part shall only apply to solar power facility agreements that are
+50 executed or renewed on or after July 1, 2024.
+51 (b) Any Except as provided in subsection (e) of Code Section 46-3-69, any provision in
+52 a solar power facility agreement that purports to waive a right or exempt a grantee from a
+53 liability or duty established by this part shall be void.
+54 (c) Any person who is harmed by a violation of this part shall be entitled to appropriate
+55 injunctive relief to prevent further violation of this part.
+56 (d) The provisions of this Code section are not exclusive. The remedies provided in this
+57 Code section are in addition to any other procedures or remedies provided by law.
+58 46-3-69.
+59 (a) A solar power facility agreement shall provide that the grantee shall be responsible for
+60 removing the grantee's solar power facilities from the landowner's property upon the
+61 termination of the lease and that the grantee shall, in accordance with any other applicable
+62 laws or regulations, safely:
+H. B. 249 (SUB)
+- 3 -
+25 LC 55 0500S
+63 (1) Clear, clean, and remove from the property all grantee owned solar energy devices
+64 and all grantee owned equipment, personal property, and improvements used to support
+65 such devices;
+66 (2) For each foundation of a solar energy device, transformer, or substation installed on
+67 the property by the grantee:
+68 (A) Clear, clean, and remove the foundation from the ground to a depth of at least three
+69 feet below the surface grade of the land in which the foundation is installed; and
+70 (B) Ensure that each hole or cavity created in the ground by such removal is filled with
+71 soil of the same type or a similar type as the predominant soil found on the property;
+72 (3) For each cable, including power, fiber-optic, and communications cables, installed
+73 underground by the grantee:
+74 (A) Clear, clean, and remove the cable from the ground to a depth of at least three feet
+75 below the surface grade of the land in which the cable is installed; and
+76 (B) Ensure that each hole or cavity created in the ground by such removal is filled with
+77 soil of the same type or a similar type as the predominant soil found on the property;
+78 and
+79 (4) Clear, clean, and remove from the property each overhead power or communications
+80 line installed on the property by the grantee.
+81 (b) A solar power facility agreement shall provide that, at the request of the landowner, the
+82 grantee shall:
+83 (1) Clear, clean, and remove each road constructed on the property by the grantee; and
+84 (2) Ensure that each hole or cavity created in the ground by such removal is filled with
+85 soil of the same type or a similar type as the predominant soil found on the property.
+86 (c) A solar power facility agreement shall provide that, at the request of the landowner, the
+87 grantee shall:
+88 (1) Remove from the property all rocks more than 12 inches in diameter excavated
+89 during the decommissioning or removal of the grantee's solar power facilities; and
+H. B. 249 (SUB)
+- 4 -
+25 LC 55 0500S
+90 (2) Ensure that:
+91 (A) Each hole or cavity created in the ground by such decommissioning or removal is
+92 filled with soil of the same type or a similar type as the predominant soil found on the
+93 property; and
+94 (B) The surface is returned, as near as reasonably possible, to the same condition as
+95 before the grantee dug holes or cavities, including, but not limited to, by reseeding
+96 pastureland with native, naturalized, and introduced grasses and legumes prescribed by
+97 an appropriate the division or other governmental agency, if any.
+98 (d) A landowner shall make any request provided by a solar power facility agreement
+99 pursuant to subsection (b) or (c) of this Code section no later than 12 months after the later
+100 of:
+101 (1) The date on which the solar power facility is no longer capable of generating
+102 electricity in commercial quantities, except when such inability to generate electricity is
+103 the result of an event of force majeure or when the grantee is in the process of repairing
+104 the solar power facility, provided that, in either case, the solar power facility resumes
+105 generating electricity in commercial quantities within 180 days;
+106 (2) The date the landowner receives written notice of intent to decommission the solar
+107 power facility from the grantee; or
+108 (3) The date the solar power facility agreement is terminated.
+109 (e) The requirements of this Code section applicable to a solar power facility agreement
+110 may be waived or modified through a written, notarized agreement between the grantee and
+111 landowner, which may be the solar power facility agreement if such waiver or modification
+112 is clearly denoted; provided, however, that no such agreement shall waive or modify the
+113 grantee's obligation to remove the grantee's solar power facilities from the landowner's
+114 property upon the termination of the solar power facility agreement. Any such agreement
+115 shall be recorded with the clerk of the superior court of the county where the solar power
+116 facility is located.
+H. B. 249 (SUB)
+- 5 -
+25 LC 55 0500S
+117 46-3-69.1.
+118 (a) A solar power facility agreement shall provide that:
+119 (1) The grantee shall obtain and deliver to the landowner and record with the clerk of the
+120 superior court of the county where the solar power facility is located evidence of financial
+121 assurance that conforms to the requirements of this subsection to secure the performance
+122 of the grantee's obligation to remove the grantee's solar power facilities located on the
+123 landowner's property and, if applicable, to restore the property to the conditions described
+124 in pursuant to Code Section 46-3-69;
+125 (2) The amount of the financial assurance shall be:
+126 (A) At least equal to the estimated cost of removing the solar power facilities from the
+127 landowner's property and, if applicable, restoring the property to the conditions
+128 described in Code Section 46-3-69:
+129 (i) Minus the salvage value of the solar power facilities; and
+130 (ii) Plus any portion of the value of the solar power facilities pledged to secure
+131 outstanding debt; and
+132 (B) Determined by an independent, third-party professional engineer licensed in this
+133 state;
+134 (3) The grantee shall deliver to the landowner an updated estimate, prepared by an
+135 independent, third-party professional engineer licensed in this state, of the removal costs
+136 and the salvage value of the solar power facilities required amount of financial assurance
+137 under subparagraph (A) of paragraph (2) of this subsection:
+138 (A) No later than 20 years after the commercial operations date of the solar power
+139 facilities; and
+140 (B) At least once every five years after the commercial operations date of the solar
+141 power facilities for the remainder of the term of the agreement;
+142 (4) The grantee shall be responsible for ensuring that the amount of the financial
+143 assurance remains sufficient to cover the amount required by paragraph (2) of this
+H. B. 249 (SUB)
+- 6 -
+25 LC 55 0500S
+144 subsection, consistent with the updated estimates required by paragraph (3) of this
+145 subsection;
+146 (5) The grantee shall be responsible for the costs of obtaining financial assurance and
+147 costs of determining the estimated removal and, if applicable, restoration costs and the
+148 salvage value described in paragraph (2) of this subsection and the costs of updating such
+149 estimates pursuant to paragraph (3) of this subsection; and
+150 (6) The grantee shall deliver the financial assurance not later than the commercial
+151 operations date of the solar power facilities.
+152 (b) No county or municipal corporation shall impose on a grantee who has entered into a
+153 solar power facility agreement that conforms to the requirements of this Code section
+154 financial assurance requirements relating to the removal or decommissioning of solar
+155 power facilities.
+156 (c) No grantee shall cancel the financial assurance delivered to the landowner pursuant to
+157 this Code section before the date the grantee has completed the grantee's obligation to
+158 remove the grantee's solar power facilities located on the landowner's property in the
+159 manner provided by this part, unless the grantee provides the landowner with replacement
+160 financial assurance at the time of or before such cancellation. In the event of a transfer of
+161 ownership of the grantee's solar power facilities, the financial assurance provided by the
+162 grantee shall remain in place until the date on which evidence of substitute financial
+163 assurance meeting the requirements of this part is provided delivered to the landowner.
+164 46-3-69.2.
+165 (a) Prior to installing or otherwise constructing any solar power facilities on the property
+166 of a landowner pursuant to a solar power facility agreement, the grantee shall obtain from
+167 the division a certification that the solar power facility agreement complies with the
+168 requirements of this part.
+H. B. 249 (SUB)
+- 7 -
+25 LC 55 0500S
+169 (b) The division shall issue or refuse to issue to a grantee the certification required under
+170 subsection (a) of this Code section within 30 days of receiving a fully executed solar power
+171 facility agreement from the grantee along with any other information that the division may
+172 require. If the division determines that such solar power facility agreement does not
+173 comply with the requirements of this part, the grantee shall cure such deficiency through
+174 a written modification of the solar power facility agreement that is signed by the grantee
+175 and the landowner. The division shall, within 30 days of receiving such written
+176 modification and any other information the division may require, determine if such
+177 modification brings the solar power facility agreement in compliance with the requirements
+178 of this part and, if so, issue to the grantee the certification required under subsection (a) of
+179 this Code section.
+180 (c)(1) Except as provided in paragraph (3) of this subsection, any grantee that installs or
+181 otherwise constructs any solar power facilities on the property of a landowner pursuant
+182 to a solar power facility agreement prior to obtaining a certification from the division
+183 under subsection (a) of this Code section shall be subject to a civil penalty of $1,000.00
+184 per day until the earlier of:
+185 (A) The date on which such grantee obtains a certification from the division under
+186 subsection (a) of this Code section; or
+187 (B) The date all solar power facilities are removed from the property of the landowner.
+188 (2) The civil penalty provided for in paragraph (1) of this subsection shall be recoverable
+189 in a civil action brought in any court of competent jurisdiction by the Attorney General,
+190 the division, or any district attorney.
+191 (3) If the division fails to issue or refuse to issue to a grantee the certification required
+192 under subsection (a) of this Code section within 30 days of receiving from the grantee a
+193 fully executed solar power facility agreement or a written modification to a solar power
+194 facility agreement as required under subsection (b) of this Code section, then the division
+H. B. 249 (SUB)
+- 8 -
+25 LC 55 0500S
+195 shall be deemed to have issued such certification to the grantee and the grantee shall not
+196 be subject to the civil penalty provided for in paragraph (1) of this subsection."
+197 SECTION 2.
+198 This Act shall become effective upon its approval by the Governor or upon its becoming law
+199 without such approval.
+200 SECTION 3.
+201 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 249 (SUB)
+- 9 -
+[DELETED: 5LTrrc r o s a t p f t c b tEferB0S1A2g3t]
+[DELETED: 5L4P546A7(  ' o d m t d o w a s p f8g9g0o1(2R3(4(5(6(7(8(9C0B C I M I S I S a P1C2(3a4(5p6t7(8o9d]
+[DELETED: 5L0c1o2e3f4y5(6t7p849(0e1(2a3l4(5i6(7C849(0r1t2l]
+[DELETED: 5L3(4a5s6(7t8(9f0(1s2(3u4(5b6(7s8a9(0l1(2g3(4(5s6(7g8(9d]
+[DELETED: 5L0(1(2f3p4(5b6p7a8(9p0o1(2e3t4t5g6(7p8(9(0m2i3g4p5s6f]
+[DELETED: 5L748(9(0s1a2o3l4i5(6(7l p a i a r t p t t c8d9(0(1o2(3s4(5i6a7u8(9f0(1p2(  T g s b r f e t t a o t f3a r s t c t a r b p ( o t]
+[DELETED: 5L4s c w t u e r b p ( o t5s6(7c8s9e0(1o2(3s4f5p6(7t8r9m0f1o2g3 445(6o7t d a c t t s p f a c w t8r]
+[DELETED: 5L9(0s1f2r3c4a5a t l  T d s w 3 d o r s w6m a a o i t d m r d i s7m8o9t0(1o2t3u4p5(6s7(8(9i0t1(2u3f4f]
+[DELETED: 5L5s6b7S8T9w0S1A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0500S
+The House Committee on Energy, Utilities and Telecommunications offers the following
+substitute to HB 249:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 3 of Title 46 of the Official Code of Georgia Annotated,
+2 relating to generation and distribution of electricity generally, so as to revise provisions
+3 relating to solar power facility agreements; to revise provisions relating to the waiver of
+4 certain requirements of such agreements; to provide for the certification by the
+5 Environmental Protection Division of the Department of Natural Resources that solar power
+6 facility agreements meet certain requirements; to provide civil penalties; to provide an
+7 exception; to revise and provide for definitions; to provide an effective date; to provide for
+8 related matters; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Article 1 of Chapter 3 of Title 46 of the Official Code of Georgia Annotated, relating to
+12 generation and distribution of electricity generally, is amended by revising Part 5, relating
+13 to solar power facility agreements, as follows:
+H. B. 249 (SUB)
+- 1 -
+
+25 LC 55 0500S
+14 "Part 5
+15 46-3-67.
+16 As used in this part, the term:
+17 (1) 'Commercial operations date' means the date on which a solar power facility
+18 generates electrical energy for sale to an electric supplier. Such term does not include the
+19 generation of electrical energy or other operations conducted before that date for purposes
+20 of maintenance or testing.
+21 (2) 'Division' means the Environmental Protection Division of the Department of Natural
+22 Resources.
+23 (3) 'Electric supplier' has the same meaning as provided in Code Section 46-3-3.
+24 (3)(4) 'Financial assurance' means a surety or performance bond that:
+25 (A) Renews automatically; and
+26 (B) Is issued by a company that is:
+27 (i) Licensed as an insurance company under Title 33; and
+28 (ii) Listed listed on the United States Department of the Treasury's List of Certified
+29 Companies and that has a financial strength rating of at least an 'A' as rated by A.M.
+30 Best Company, Inc.; Moody's Investors Service, Inc.; Standard and Poor's
+31 Corporation; or a similar rating agency.
+32 (4)(5) 'Grantee' means a person who leases property from a landowner and who operates
+33 a solar power facility on said property.
+34 (5)(6) 'Solar energy device' means a solar energy collector or solar energy system that
+35 provides for the collection of solar energy or the subsequent use of such energy as
+36 thermal, mechanical, or electrical energy.
+37 (6)(7) 'Solar power facility' means a solar energy device that does not meet the definition
+38 of solar technology pursuant to Code Section 46-3-62, or the integrated collection of such
+39 devices, together with any equipment or other personal property and improvements under
+H. B. 249 (SUB)
+- 2 -
+
+25 LC 55 0500S
+40 common ownership that are used to support the operation of such a solar energy device
+41 or solar energy devices, including, but not limited to, underground or aboveground
+42 electrical transmission or communications lines, electric transformers, battery storage
+43 facilities, telecommunications equipment, roads, meteorological towers, and maintenance
+44 yards.
+45 (7)(8) 'Solar power facility agreement' means any lease agreement for real property in
+46 this state between a grantee and a landowner that authorizes the grantee to operate a solar
+47 power facility on the leased property.
+48 46-3-68.
+49 (a) The provisions of this part shall only apply to solar power facility agreements that are
+50 executed or renewed on or after July 1, 2024.
+51 (b) Any Except as provided in subsection (e) of Code Section 46-3-69, any provision in
+52 a solar power facility agreement that purports to waive a right or exempt a grantee from a
+53 liability or duty established by this part shall be void.
+54 (c) Any person who is harmed by a violation of this part shall be entitled to appropriate
+55 injunctive relief to prevent further violation of this part.
+56 (d) The provisions of this Code section are not exclusive. The remedies provided in this
+57 Code section are in addition to any other procedures or remedies provided by law.
+58 46-3-69.
+59 (a) A solar power facility agreement shall provide that the grantee shall be responsible for
+60 removing the grantee's solar power facilities from the landowner's property upon the
+61 termination of the lease and that the grantee shall, in accordance with any other applicable
+62 laws or regulations, safely:
+H. B. 249 (SUB)
+- 3 -
+
+25 LC 55 0500S
+63 (1) Clear, clean, and remove from the property all grantee owned solar energy devices
+64 and all grantee owned equipment, personal property, and improvements used to support
+65 such devices;
+66 (2) For each foundation of a solar energy device, transformer, or substation installed on
+67 the property by the grantee:
+68 (A) Clear, clean, and remove the foundation from the ground to a depth of at least three
+69 feet below the surface grade of the land in which the foundation is installed; and
+70 (B) Ensure that each hole or cavity created in the ground by such removal is filled with
+71 soil of the same type or a similar type as the predominant soil found on the property;
+72 (3) For each cable, including power, fiber-optic, and communications cables, installed
+73 underground by the grantee:
+74 (A) Clear, clean, and remove the cable from the ground to a depth of at least three feet
+75 below the surface grade of the land in which the cable is installed; and
+76 (B) Ensure that each hole or cavity created in the ground by such removal is filled with
+77 soil of the same type or a similar type as the predominant soil found on the property;
+78 and
+79 (4) Clear, clean, and remove from the property each overhead power or communications
+80 line installed on the property by the grantee.
+81 (b) A solar power facility agreement shall provide that, at the request of the landowner, the
+82 grantee shall:
+83 (1) Clear, clean, and remove each road constructed on the property by the grantee; and
+84 (2) Ensure that each hole or cavity created in the ground by such removal is filled with
+85 soil of the same type or a similar type as the predominant soil found on the property.
+86 (c) A solar power facility agreement shall provide that, at the request of the landowner, the
+87 grantee shall:
+88 (1) Remove from the property all rocks more than 12 inches in diameter excavated
+89 during the decommissioning or removal of the grantee's solar power facilities; and
+H. B. 249 (SUB)
+- 4 -
+
+25 LC 55 0500S
+90 (2) Ensure that:
+91 (A) Each hole or cavity created in the ground by such decommissioning or removal is
+92 filled with soil of the same type or a similar type as the predominant soil found on the
+93 property; and
+94 (B) The surface is returned, as near as reasonably possible, to the same condition as
+95 before the grantee dug holes or cavities, including, but not limited to, by reseeding
+96 pastureland with native, naturalized, and introduced grasses and legumes prescribed by
+97 an appropriate the division or other governmental agency, if any.
+98 (d) A landowner shall make any request provided by a solar power facility agreement
+99 pursuant to subsection (b) or (c) of this Code section no later than 12 months after the later
+100 of:
+101 (1) The date on which the solar power facility is no longer capable of generating
+102 electricity in commercial quantities, except when such inability to generate electricity is
+103 the result of an event of force majeure or when the grantee is in the process of repairing
+104 the solar power facility, provided that, in either case, the solar power facility resumes
+105 generating electricity in commercial quantities within 180 days;
+106 (2) The date the landowner receives written notice of intent to decommission the solar
+107 power facility from the grantee; or
+108 (3) The date the solar power facility agreement is terminated.
+109 (e) The requirements of this Code section applicable to a solar power facility agreement
+110 may be waived or modified through a written, notarized agreement between the grantee and
+111 landowner, which may be the solar power facility agreement if such waiver or modification
+112 is clearly denoted; provided, however, that no such agreement shall waive or modify the
+113 grantee's obligation to remove the grantee's solar power facilities from the landowner's
+114 property upon the termination of the solar power facility agreement. Any such agreement
+115 shall be recorded with the clerk of the superior court of the county where the solar power
+116 facility is located.
+H. B. 249 (SUB)
+- 5 -
+
+25 LC 55 0500S
+117 46-3-69.1.
+118 (a) A solar power facility agreement shall provide that:
+119 (1) The grantee shall obtain and deliver to the landowner and record with the clerk of the
+120 superior court of the county where the solar power facility is located evidence of financial
+121 assurance that conforms to the requirements of this subsection to secure the performance
+122 of the grantee's obligation to remove the grantee's solar power facilities located on the
+123 landowner's property and, if applicable, to restore the property to the conditions described
+124 in pursuant to Code Section 46-3-69;
+125 (2) The amount of the financial assurance shall be:
+126 (A) At least equal to the estimated cost of removing the solar power facilities from the
+127 landowner's property and, if applicable, restoring the property to the conditions
+128 described in Code Section 46-3-69:
+129 (i) Minus the salvage value of the solar power facilities; and
+130 (ii) Plus any portion of the value of the solar power facilities pledged to secure
+131 outstanding debt; and
+132 (B) Determined by an independent, third-party professional engineer licensed in this
+133 state;
+134 (3) The grantee shall deliver to the landowner an updated estimate, prepared by an
+135 independent, third-party professional engineer licensed in this state, of the removal costs
+136 and the salvage value of the solar power facilities required amount of financial assurance
+137 under subparagraph (A) of paragraph (2) of this subsection:
+138 (A) No later than 20 years after the commercial operations date of the solar power
+139 facilities; and
+140 (B) At least once every five years after the commercial operations date of the solar
+141 power facilities for the remainder of the term of the agreement;
+142 (4) The grantee shall be responsible for ensuring that the amount of the financial
+143 assurance remains sufficient to cover the amount required by paragraph (2) of this
+H. B. 249 (SUB)
+- 6 -
+
+25 LC 55 0500S
+144 subsection, consistent with the updated estimates required by paragraph (3) of this
+145 subsection;
+146 (5) The grantee shall be responsible for the costs of obtaining financial assurance and
+147 costs of determining the estimated removal and, if applicable, restoration costs and the
+148 salvage value described in paragraph (2) of this subsection and the costs of updating such
+149 estimates pursuant to paragraph (3) of this subsection; and
+150 (6) The grantee shall deliver the financial assurance not later than the commercial
+151 operations date of the solar power facilities.
+152 (b) No county or municipal corporation shall impose on a grantee who has entered into a
+153 solar power facility agreement that conforms to the requirements of this Code section
+154 financial assurance requirements relating to the removal or decommissioning of solar
+155 power facilities.
+156 (c) No grantee shall cancel the financial assurance delivered to the landowner pursuant to
+157 this Code section before the date the grantee has completed the grantee's obligation to
+158 remove the grantee's solar power facilities located on the landowner's property in the
+159 manner provided by this part, unless the grantee provides the landowner with replacement
+160 financial assurance at the time of or before such cancellation. In the event of a transfer of
+161 ownership of the grantee's solar power facilities, the financial assurance provided by the
+162 grantee shall remain in place until the date on which evidence of substitute financial
+163 assurance meeting the requirements of this part is provided delivered to the landowner.
+164 46-3-69.2.
+165 (a) Prior to installing or otherwise constructing any solar power facilities on the property
+166 of a landowner pursuant to a solar power facility agreement, the grantee shall obtain from
+167 the division a certification that the solar power facility agreement complies with the
+168 requirements of this part.
+H. B. 249 (SUB)
+- 7 -
+
+25 LC 55 0500S
+169 (b) The division shall issue or refuse to issue to a grantee the certification required under
+170 subsection (a) of this Code section within 30 days of receiving a fully executed solar power
+171 facility agreement from the grantee along with any other information that the division may
+172 require. If the division determines that such solar power facility agreement does not
+173 comply with the requirements of this part, the grantee shall cure such deficiency through
+174 a written modification of the solar power facility agreement that is signed by the grantee
+175 and the landowner. The division shall, within 30 days of receiving such written
+176 modification and any other information the division may require, determine if such
+177 modification brings the solar power facility agreement in compliance with the requirements
+178 of this part and, if so, issue to the grantee the certification required under subsection (a) of
+179 this Code section.
+180 (c)(1) Except as provided in paragraph (3) of this subsection, any grantee that installs or
+181 otherwise constructs any solar power facilities on the property of a landowner pursuant
+182 to a solar power facility agreement prior to obtaining a certification from the division
+183 under subsection (a) of this Code section shall be subject to a civil penalty of $1,000.00
+184 per day until the earlier of:
+185 (A) The date on which such grantee obtains a certification from the division under
+186 subsection (a) of this Code section; or
+187 (B) The date all solar power facilities are removed from the property of the landowner.
+188 (2) The civil penalty provided for in paragraph (1) of this subsection shall be recoverable
+189 in a civil action brought in any court of competent jurisdiction by the Attorney General,
+190 the division, or any district attorney.
+191 (3) If the division fails to issue or refuse to issue to a grantee the certification required
+192 under subsection (a) of this Code section within 30 days of receiving from the grantee a
+193 fully executed solar power facility agreement or a written modification to a solar power
+194 facility agreement as required under subsection (b) of this Code section, then the division
+H. B. 249 (SUB)
+- 8 -
+
+25 LC 55 0500S
+195 shall be deemed to have issued such certification to the grantee and the grantee shall not
+196 be subject to the civil penalty provided for in paragraph (1) of this subsection."
+197 SECTION 2.
+198 This Act shall become effective upon its approval by the Governor or upon its becoming law
+199 without such approval.
+200 SECTION 3.
+201 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 249 (SUB)
+- 9 -
+
+[DELETED: 5LTrrc r o s a t p f t c b tEferB0S1A2g3t]
+[DELETED: 5L4P546A7(  ' o d m t d o w a s p f8g9g0o1(2R3(4(5(6(7(8(9C0B C I M I S I S a P1C2(3a4(5p6t7(8o9d]
+[DELETED: 5L0c1o2e3f4y5(6t7p849(0e1(2a3l4(5i6(7C849(0r1t2l]
+[DELETED: 5L3(4a5s6(7t8(9f0(1s2(3u4(5b6(7s8a9(0l1(2g3(4(5s6(7g8(9d]
+[DELETED: 5L0(1(2f3p4(5b6p7a8(9p0o1(2e3t4t5g6(7p8(9(0m2i3g4p5s6f]
+[DELETED: 5L748(9(0s1a2o3l4i5(6(7l p a i a r t p t t c8d9(0(1o2(3s4(5i6a7u8(9f0(1p2(  T g s b r f e t t a o t f3a r s t c t a r b p ( o t]
+[DELETED: 5L4s c w t u e r b p ( o t5s6(7c8s9e0(1o2(3s4f5p6(7t8r9m0f1o2g3 445(6o7t d a c t t s p f a c w t8r]
+[DELETED: 5L9(0s1f2r3c4a5a t l  T d s w 3 d o r s w6m a a o i t d m r d i s7m8o9t0(1o2t3u4p5(6s7(8(9i0t1(2u3f4f]
+[DELETED: 5L5s6b7S8T9w0S1A]

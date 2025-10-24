@@ -1,0 +1,1102 @@
+Title: House Bill 909
+Official Title: House Bill 909
+Number of Sections: 1
+Source: versions - LC 60 0094/a
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+25 LC 60 0094
+By: Representatives Drenner of the 85th, Scott of the 76th, Davis of the 87th, Schofield of the
+63rd, and Lim of the 98th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 12, 25, and 33 of the Official Code of Georgia Annotated, relating to
+2 conservation and natural resources, fire protection and safety, and insurance, respectively,
+3 so as to provide greater health protections for firefighters; to provide for monitoring of
+4 concentration levels of perfluoroalkyl and polyfluoroalkyl substances, or PFAS, at certain
+5 firefighter related sites; to prohibit the use of firefighting equipment containing PFAS as an
+6 intentionally added chemical after a certain date; to require manufacturers of firefighting
+7 equipment to label such equipment as containing PFAS as an intentionally added chemical
+8 after a certain date; to provide for the development of standards for mitigating PFAS
+9 contamination at harmful exposure levels and for the safe disposal or destruction of any
+10 firefighting equipment containing PFAS as an intentionally added chemical; to create the
+11 Firefighter Health Advisory Council and establish its powers; to provide for the
+12 establishment and purpose of the Firefighter PFAS Initiative; to require fire departments to
+13 provide and maintain insurance coverage for its firefighters for the payment of claims for
+14 PFAS blood testing under certain circumstances; to require insurers to provide coverage for
+15 PFAS blood testing under certain circumstances; to revise and provide definitions; to provide
+16 for civil penalties; to provide for reporting; to provide for a short title; to provide for
+17 legislative findings and intent; to provide for related matters; to repeal conflicting laws; and
+18 for other purposes.
+H. B. 909
+- 1 -
+25 LC 60 0094
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+20 SECTION 1.
+21 This Act shall be known and may be cited as the "Firefighter Health and Environmental
+22 Safety Act."
+23 SECTION 2.
+24 (a) The General Assembly finds that:
+25 (1) Firefighters face significant health risks due to occupational exposure to toxic
+26 substances, including perfluoroalkyl and polyfluoroalkyl substances, or PFAS; and
+27 (2) Current federal and state health programs lack adequate provisions for addressing
+28 occupational hazards unique to firefighting.
+29 (b) It is the intent of the General Assembly to:
+30 (1) Enhance firefighter health protections; and
+31 (2) Ensure accountability and compliance with laws, rules, and regulations providing
+32 health protections for firefighters through clear enforcement mechanisms.
+33 SECTION 3.
+34 Title 12 of the Official Code of Georgia Annotated, relating to conservation and natural
+35 resources, is amended in Article 1 of Chapter 2, relating to the Department of Natural
+36 Resources generally, by adding a new Code section to read as follows:
+37 "12-2-12.
+38 (a) As used in this Code section, the term:
+39 (1) 'Covered site' means any land within this state used as a fire department or as a
+40 training site for firefighting operations.
+41 (2) 'Division' means the Environmental Protection Division of the Department of Natural
+42 Resources.
+H. B. 909
+- 2 -
+25 LC 60 0094
+43 (3) 'Fire department' shall have the same meaning as set forth in Code Section 25-3-21.
+44 (4) 'Harmful exposure level' means, which respect to the human population, including
+45 sensitive subgroups, a concentration level of PFAS that, over a lifetime or part of a
+46 lifetime, may cause a change in body function, including, but not limited to, organ
+47 function or cell structure, that might lead to disease or health problems, as determined by
+48 the division after considering any regulations or guidance issued by the United Sates
+49 Environmental Protection Agency, as of July 31, 2027.
+50 (5) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' shall have the same
+51 meaning as set forth in Code Section 25-2-41.
+52 (b) Subject to available funding, beginning on January 1, 2027, the division shall
+53 participate in or conduct such studies, reviews, investigations, research, emission
+54 inventories, and demonstrations as it deems necessary to monitor levels of PFAS
+55 contamination in air, water, and soil at covered sites; provided, however, that, for any
+56 privately held land, the division shall receive permission to conduct such monitoring
+57 activities from the owner. The division shall provide a written analysis of the results of
+58 such monitoring for each covered site not less frequently than quarterly to the Firefighter
+59 Health Advisory Council, established pursuant to Code Section 25-2-42.
+60 (c) Not later than January 1, 2028, the division shall adopt rules and regulations
+61 establishing decontamination protocols for fire departments relating to mitigating PFAS
+62 contamination at a harmful exposure level. In adopting such rules and regulations, the
+63 division shall take into consideration any regulations or guidance issued by the United
+64 States Environmental Protection Agency, as of July 31, 2027."
+65 SECTION 4.
+66 Title 25 of the Official Code of Georgia Annotated, relating to fire protection and safety, is
+67 amended by revising Code Section 25-2-41, relating to use of class B fire-fighting foam
+68 containing intentionally added PFAS chemicals, as follows:
+H. B. 909
+- 3 -
+25 LC 60 0094
+69 "25-2-41.
+70 (a) As used in this Code section, the term:
+71 (1) 'Class B fire-fighting firefighting foam' means any foam designed to extinguish
+72 flammable liquid fires.
+73 (2) 'Division' means the Environmental Protection Division of the Department of Natural
+74 Resources.
+75 (3) 'Fire department' shall have the same meaning as set forth in Code Section 25-3-21.
+76 (4) 'Firefighter' shall have the same meaning as set forth in Code Section 25-4-2.
+77 (5) 'Firefighting equipment' means any materials used by firefighters to extinguish fires,
+78 including, but not limited to, class B firefighting foam; jackets, pants, gloves, boots,
+79 helmets, face masks, and other personal protective equipment used by firefighters; and
+80 any other materials used by firefighters in firefighting.
+81 (6) 'Intentionally added chemical' means a chemical in a product that serves an intended
+82 function or technical effect in the product or product component, including the PFAS
+83 within intentionally added chemicals and PFAS that are intentional breakdown products
+84 of an added chemical that also have a functional or technical effect in the product or
+85 product component.
+86 (7) 'Manufacturer' means:
+87 (A) Any entity which manufactures, makes, produces, or causes to be produced
+88 firefighting equipment sold in this state or firefighting equipment that such entity
+89 intends to be sold in this state;
+90 (B) The first purchaser of firefighting equipment manufactured anywhere that intends
+91 to resell such firefighting equipment in this state regardless of whether the original
+92 manufacturer, maker, or producer intends such firefighting equipment to be sold in the
+93 United States; or
+94 (C) Any entity which becomes a successor of an entity described in subparagraph (A)
+95 or (B) of this paragraph.
+H. B. 909
+- 4 -
+25 LC 60 0094
+96 (2)(8) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' 'PFAS chemicals' means
+97 a class of fluorinated organic chemicals containing at least one fully fluorinated carbon
+98 atom, including perfluoroalkyl and polyfluoroalkyl substances, and designed to be fully
+99 functional in class B fire-fighting foam formulations.
+100 (9) 'Person' means any individual, partnership, association, firm, public or private
+101 corporation, or public entity.
+102 (10) 'Public entity' means a department, agency, board, bureau, commission, authority,
+103 or instrumentality of the State of Georgia, any local government or authority, including
+104 a county, municipal, or consolidated government in this state, or any other political
+105 subdivision in this state. Such term includes a fire department or local school system.
+106 (3)(11) 'Testing' means calibration testing, conformance testing, or fixed system testing.
+107 (b) Until June 30, 2030, no person On and after January 1, 2020, no person; fire
+108 department provided for under Chapter 3 of this title; state department, agency, board,
+109 bureau, office, commission, public corporation, or authority; county, municipal
+110 corporation, school district, or other political subdivision of this state shall discharge or
+111 otherwise use class B fire-fighting firefighting foam that contains intentionally added PFAS
+112 chemicals PFAS as an intentionally added chemical unless:
+113 (1) Such discharge or other use occurs in fire prevention or in response to an emergency
+114 fire-fighting firefighting operation; or
+115 (2) Such discharge or other use is for training or testing purposes which occurs at a
+116 facility that has implemented containment, treatment, and disposal measures to prevent
+117 uncontrolled releases of such class B fire-fighting firefighting foam into the environment.
+118 (c) Nothing in this Code section shall be construed to:
+119 (1) Restrict the manufacture, sale, or distribution of class B fire-fighting foam that
+120 contains intentionally added PFAS chemicals or restrict the discharge or other use of
+121 class B fire-fighting foam in response to an emergency fire-fighting operation; or
+H. B. 909
+- 5 -
+25 LC 60 0094
+122 (2) Prevent the use of nonfluorinated foams, including other class B fire-fighting foams,
+123 for purposes of training for fire-fighting operations.
+124 (c) Beginning on July 1, 2030, no person shall discharge, use, or cause to be used any
+125 firefighting equipment containing PFAS as an intentionally added chemical.
+126 (d) Beginning on July 1, 2030, no person or manufacturer shall distribute, sell, or offer for
+127 sale in this state any newly manufactured firefighting equipment containing PFAS as an
+128 intentionally added chemical unless it is accompanied by a legible and easily discernable
+129 disclosure with the statement 'Made with PFAS Chemicals,' including for online listings
+130 of products for sale.
+131 (e) No later than January 1, 2028, the division shall adopt rules and regulations
+132 establishing standards for any fire department operating in this state to safely destroy
+133 firefighting equipment containing PFAS as an intentionally added chemical. In adopting
+134 such rules and regulations, the division shall take into consideration any regulations or
+135 guidance issued by the United States Environmental Protection Agency, as of July 31,
+136 2027.
+137 (f) Beginning on July 1, 2028, no person shall destroy or dispose of firefighting equipment
+138 containing PFAS as an intentionally added chemical except as provided by any rules and
+139 regulations adopted by the division.
+140 (g)(1) Except as provided in paragraph (2) of this subsection, any person that violates
+141 subsection (c) of this Code section shall be liable for a civil penalty not to exceed
+142 $10,000.00 for each day that the violation persists, after such person is notified of the
+143 Commissioner's intent to impose a penalty and of the right to a hearing with respect to
+144 the same. The amount of any such penalty shall be fixed by the Commissioner.
+145 (2)(A) No person shall be held in violation of paragraph (1) of this subsection if such
+146 person relied in good faith upon representations of a manufacturer that firefighting
+147 equipment did not contain PFAS as an intentionally added chemical.
+H. B. 909
+- 6 -
+25 LC 60 0094
+148 (B) No individual firefighter shall be personally liable for payment of any civil penalty
+149 imposed under this subsection.
+150 (h) Any person or manufacturer that violates subsection (d) of this Code section shall be
+151 subject to a civil penalty of $100.00 per violation, after such person or manufacturer is
+152 notified of the Commissioner's intent to impose a penalty and of the right to a hearing with
+153 respect to the same. For the purposes of this subsection, each article of newly
+154 manufactured firefighting equipment that is distributed, sold, or offered for sale in this state
+155 in violation of subsection (d) shall constitute a separate violation.
+156 (i) Any person that violates subsection (f) of this Code section shall be subject to a civil
+157 penalty, not to exceed $10,000.00 per violation, after such person is notified of the
+158 Commissioner's intent to impose a penalty and of the right to a hearing with respect to the
+159 same. The amount of any such penalty shall be fixed by the Commissioner."
+160 SECTION 5.
+161 Said title is further amended by adding new Code sections to read as follows:
+162 "25-2-42.
+163 (a) As used in this Code section, the term:
+164 (1) 'Council' means the Firefighter Health Advisory Council established pursuant to this
+165 Code section.
+166 (2) 'Firefighter' shall have the same meaning as set forth in Code Section 25-4-2.
+167 (3) 'PFAS' shall have the same meaning as set forth in Code Section 25-2-41.
+168 (b) There is established within the office of the Commissioner the Firefighter Health
+169 Advisory Council. The objective of the council shall be to monitor current and future
+170 health risks impacting firefighters in this state and to provide recommendations on
+171 solutions to mitigate such health risks, with a focus on the effects of exposure to PFAS.
+172 All affected state agencies shall cooperate with the council in its efforts to meet such
+H. B. 909
+- 7 -
+25 LC 60 0094
+173 objective. This subsection shall not be construed to authorize the council to perform any
+174 function currently performed by an affected state agency.
+175 (c) The council shall be composed of 12 members as follows:
+176 (1) The Commissioner or his or her designee, who shall serve as the chairperson;
+177 (2) The commissioner of public heath or his or her designee;
+178 (3) The commissioner of natural resources or his or her designee;
+179 (4) The director of the Georgia Emergency Management and Homeland Security Agency
+180 or his or her designee;
+181 (5) One representative from the Georgia Association of Fire Chiefs, appointed by the
+182 Governor;
+183 (6) One representative from the Georgia State Firefighters Association, appointed by the
+184 Lieutenant Governor;
+185 (7) One representative from a state-wide labor organization representing firefighters,
+186 appointed by the Speaker of the House of Representatives;
+187 (8) One representative from a medical or research institution experienced in occupational
+188 health, appointed by the Governor;
+189 (9) One representative from the insurance industry experienced in firefighter related
+190 claims, appointed by the Lieutenant Governor;
+191 (10) One firefighter with at least ten years of experience as a full-time firefighter,
+192 appointed by the Speaker of the House of Representatives;
+193 (11) One firefighter with at least ten years of experience as a volunteer firefighter,
+194 appointed by the Governor; and
+195 (12) One representative from the general public with a proven interest in firefighter
+196 health and safety, appointed by the Governor.
+197 (d) On or before October 1, 2025:
+198 (1) The Governor shall appoint the first members of the council pursuant to
+199 paragraphs (5), (8), (11), and (12) of subsection (c) of this Code section;
+H. B. 909
+- 8 -
+25 LC 60 0094
+200 (2) The Lieutenant Governor shall appoint the first members of the council pursuant to
+201 paragraphs (6) and (9) of subsection (c) of this Code section; and
+202 (3) The Speaker of the House of Representatives shall appoint the first members of the
+203 council pursuant to paragraphs (7) and (10) of subsection (c) of this Code section.
+204 (e) All members of the council appointed by the Governor shall serve terms of four years,
+205 and all members of the council appointed by the Lieutenant Governor or the Speaker of the
+206 House of Representatives shall serve terms of two years. All appointed members shall
+207 serve until the appointment of his or her successor. Successors to appointed members shall
+208 be appointed in the same manner as original appointments. Vacancies shall be filled in the
+209 same manner as the original appointments. Each appointed member shall be eligible to
+210 succeed himself or herself; provided, however, that no member shall serve more than four
+211 consecutive terms on the council.
+212 (f) Each member of the council shall be a citizen of the United States and a resident of the
+213 State of Georgia.
+214 (g) Subject to available funding, the council shall:
+215 (1) Develop a health program focused on monitoring and reducing the harmful health
+216 effects of exposure to PFAS with respect to firefighters, to be called the Firefighter PFAS
+217 Initiative. The purposes and duties of such program shall be to:
+218 (A) Aggregate and maintain data related to PFAS contamination levels at covered sites
+219 collected pursuant to Code Section 12-2-12;
+220 (B) Aggregate and maintain PFAS related health data on firefighters collected pursuant
+221 to Code Section 25-2-43;
+222 (C) Synthesize existing studies, reports, and data related to PFAS with any data
+223 collected pursuant to subparagraphs (A) and (B) of this paragraph to identify and track
+224 health condition incidence and health trends among firefighters;
+225 (D) Collaborate with other health related state entities, including, but not limited to, the
+226 Department of Public Health, the Department of Community Health, and the
+H. B. 909
+- 9 -
+25 LC 60 0094
+227 Environmental Protection Division of the Department of Natural Resources, to support
+228 and integrate with existing initiatives and programs related to monitoring and mitigating
+229 the harmful effects of PFAS; and
+230 (E) Provide annual public forums to present key findings of the Firefighter PFAS
+231 Initiative and gather community feedback;
+232 (2) Identify any significant health risks, other than PFAS exposure, affecting firefighters
+233 in this state and develop innovative recommendations for addressing such health risks;
+234 and
+235 (3) On or before December 1 of each year, file a report to the Governor and the General
+236 Assembly, including a summary of the council's key findings and recommendations, if
+237 any, for legislative changes with respect to reducing significant health risks affecting
+238 firefighters.
+239 (h) The council shall convene at least quarterly or at such other frequency as determined
+240 by the chairperson.
+241 (i) The council shall be empowered to use subcommittees as it deems necessary to carry
+242 out its duties and responsibilities. Members of such subcommittees shall be knowledgeable
+243 of the subject matter with which the subcommittee is concerned and shall be appointed by
+244 the chairperson of the council upon the recommendation of the council.
+245 (j) Members of the council shall serve without compensation but shall receive the same
+246 expense allowance as that received by members of the General Assembly and the same
+247 mileage allowance for the use of a personal car or a travel allowance of actual
+248 transportation cost if traveling by public carrier as that received by all other state officials
+249 and employees. The funds for such expenses and allowances shall be paid from funds
+250 appropriated or available to the council.
+251 (k) The council is authorized to accept donations, gifts, property, and other contributions
+252 and to use the same for the purposes of carrying out this Code section.
+H. B. 909
+- 10 -
+25 LC 60 0094
+253 25-2-43.
+254 (a) As used in this Code section, the term:
+255 (1) 'Laboratory' means any institution that conducts PFAS blood testing.
+256 (2) 'PFAS blood testing' shall have the same meaning as set forth in Code
+257 Section 25-3-23.
+258 (b) Firefighter participation in the Firefighter PFAS Initiative, established pursuant to
+259 paragraph (1) of subsection (g) of Code Section 25-2-42, shall be voluntary. Any
+260 laboratory conducting PFAS blood testing on a firefighter shall obtain written informed
+261 consent from such firefighter prior to sharing the health information set forth in
+262 subsection (c) of this Code section.
+263 (c) Subject to subsection (b) of this Code section, each laboratory in this state shall report
+264 biannually to the Firefighter Health Advisory Council within the office of the
+265 Commissioner concerning PFAS health metrics established by such council as reasonably
+266 necessary to implement the Firefighter PFAS Initiative.
+267 (d) Each laboratory in this state shall forward data collected from PFAS blood testing to
+268 the Firefighter Health Advisory Council in a form and manner to be determined by the
+269 Firefighter Health Advisory Council, provided that any data forwarded shall be aggregated
+270 and shall not contain any identifying or confidential information with regard to any
+271 individual firefighter.
+272 (e) Notwithstanding anything to the contrary in this Code section, PFAS blood testing and
+273 reporting by any laboratory shall be conducted in a manner that ensures the privacy of the
+274 firefighter during the testing process and consistency with state and federal laws applicable
+275 to the confidentiality of health records."
+276 SECTION 6.
+277 Said title is further amended by revising subsection (b) of Code Section 25-3-23, relating to
+278 general requirements, equipment and clothing, and insurance, as follows:
+H. B. 909
+- 11 -
+25 LC 60 0094
+279 "(b)(1) A legally organized fire department shall provide and maintain sufficient insurance
+280 coverage on each member of the fire department to pay claims for injuries sustained en
+281 route to, during, and returning from fire calls or other emergencies and disasters and
+282 scheduled training sessions.
+283 (2)(A) As used in this paragraph, the term:
+284 (i) 'Cancer' means bladder, blood, brain, breast, cervical, esophageal, intestinal,
+285 kidney, lymphatic, lung, prostate, rectal, respiratory tract, skin, testicular, and thyroid
+286 cancer; leukemia; multiple myeloma; or non-Hodgkin's lymphoma.
+287 (ii) 'Certified' shall have the same meaning as set forth in Code Section 31-22-1.
+288 (iii) 'Clinical laboratory' shall have the same meaning as set forth in Code
+289 Section 31-22-1.
+290 (ii)(iv) 'Firefighter' means a firefighter as defined shall have the same meaning as set
+291 forth in Code Section 25-4-2.
+292 (v) 'PFAS blood testing' means a measurement of the amount of perfluoroalkyl and
+293 polyfluoroalkyl substances in blood performed by a certified clinical laboratory and
+294 includes a physician's interpretation of the results.
+295 (iii)(vi) 'Volunteer' means a volunteer as defined shall have the same meaning as set
+296 forth in Code Section 25-4-2.
+297 (B) On and after January 1, 2018, a legally organized fire department shall provide and
+298 maintain sufficient insurance coverage on each member of the fire department who is
+299 a firefighter to pay claims for cancer diagnosed after having served 12 consecutive
+300 months as a firefighter in this state. Such insurance benefits shall include at minimum
+301 the following:
+302 (i)(I) A lump sum benefit of $25,000.00 subject to limitations specified in the
+303 insurance contract and based on severity of cancer and payable to such firefighter
+304 upon submission to the insurance carrier or other payor of acceptable proof of
+305 diagnosis by a physician who is board certified in the medical specialty appropriate
+H. B. 909
+- 12 -
+25 LC 60 0094
+306 for the type of cancer involved that there are one or more malignant tumors
+307 characterized by the uncontrollable and abnormal growth and spread of malignant
+308 cells with invasion of normal tissue and that:
+309 (a) Surgery, radiotherapy, or chemotherapy is medically necessary;
+310 (b) There is metastasis; or
+311 (c) The firefighter has terminal cancer, is expected to die within 24 months or less
+312 from the date of diagnosis, and will not benefit from, or has exhausted, curative
+313 therapy; or
+314 (II) A lump sum benefit of $6,250.00 subject to limitations specified in the
+315 insurance contract and based on severity of cancer and payable to such firefighter
+316 upon submission to the insurance carrier or other payor of acceptable proof of
+317 diagnosis by a physician who is board certified in the medical specialty appropriate
+318 for the type of cancer involved that:
+319 (a) There is carcinoma in situ such that surgery, radiotherapy, or chemotherapy
+320 has been determined to be medically necessary;
+321 (b) There are malignant tumors which are treated by endoscopic procedures
+322 alone;
+323 (c) There are malignant melanomas; or
+324 (d) There is a tumor of the prostate, provided that it is treated with radical
+325 prostatectomy or external beam therapy; and
+326 (ii) Payable as a result of a specific injury or illness to begin six months after
+327 disability and submission to the insurance carrier or other payor of acceptable proof
+328 of disability precluding service as a firefighter and continuing for up to 36
+329 consecutive monthly payments:
+330 (I) A monthly benefit equal to 60 percent of the member's monthly salary as an
+331 employed firefighter with the fire department or a monthly benefit of $5,000.00,
+332 whichever is less; or
+H. B. 909
+- 13 -
+25 LC 60 0094
+333 (II) If the member is a volunteer, a monthly benefit of $1,500.00.
+334 The benefit under subdivision (I) or (II) of this division, as applicable, shall be
+335 subordinate to any other benefit actually paid to the firefighter for such disability from
+336 any other source, not including insurance purchased solely by the firefighter, and shall
+337 be limited to the difference between the amount of such other paid benefit and the
+338 amount specified under subdivision (I) or (II) of this division, as applicable.
+339 (C) The combined total of all benefits received by any firefighter under
+340 subdivisions (B)(i)(I) and (B)(i)(II) of this paragraph during his or her lifetime shall not
+341 exceed $50,000.00.
+342 (D) Beginning on July 1, 2026, a legally organized fire department shall provide and
+343 maintain sufficient insurance coverage for each member of the fire department who is
+344 a firefighter to pay claims for PFAS blood testing after having served 12 consecutive
+345 months as a firefighter in this state.
+346 (D)(E) With the exception of the benefit under subdivision (B)(ii)(I) of this paragraph,
+347 any person who was simultaneously a member of more than one fire department at the
+348 time of diagnosis shall not be entitled to receive benefits under this paragraph from or
+349 on behalf of more than one of such fire departments. In the event a volunteer of one
+350 fire department is simultaneously employed by another fire department, the fire
+351 department for which such person is a volunteer shall not be required to maintain the
+352 coverage on such volunteer otherwise required under this subsection during the period
+353 of such employment. Any member who receives benefits under division (ii) of
+354 subparagraph (B) of this paragraph may be required to have his or her condition
+355 reevaluated; in the event any such reevaluation reveals that such person has regained
+356 the ability to perform duties as a firefighter, then his or her benefits under division (ii)
+357 of subparagraph (B) of this paragraph shall cease. Benefits under said division shall
+358 also cease upon the death of such person. A member who, after at least one year as a
+359 firefighter with any legally organized fire department, departs from employment, ceases
+H. B. 909
+- 14 -
+25 LC 60 0094
+360 to be an active volunteer, or retires shall be entitled to continue his or her coverages
+361 under this paragraph through a continuation or conversion to individual coverage. The
+362 departing member shall be responsible for payment of all premiums.
+363 (E)(F) In addition to any other purpose authorized under Chapter 8 of Title 33, county
+364 governing authorities and municipal governing authorities may use proceeds from
+365 county and municipal taxes imposed under said chapter for purposes of providing
+366 insurance pursuant to this paragraph.
+367 (F)(G) Funds received as premiums for the coverages specified in this paragraph shall
+368 not be subject to premium taxes under Chapter 8 of Title 33.
+369 (G)(H) The computation of premium amounts by an insurer for the coverages under
+370 this paragraph shall be subject to generally accepted adjustments from insurance
+371 underwriting."
+372 SECTION 7.
+373 Said title is further amended in Chapter 7, relating to the Georgia Fire Academy, by revising
+374 paragraph (2) of Code Section 25-7-2, relating to creation and purpose of the academy, as
+375 follows:
+376 "(2) To provide professional training to paid, volunteer, and other publicly or privately
+377 employed firefighters at a minimal cost to them and their employers, including, but not
+378 limited to, annual training related to PFAS exposure risks and mitigation;"
+379 SECTION 8.
+380 Said title is further by revising Code Section 25-7-3, relating to "board" defined, as follows:
+381 "25-7-3.
+382 As used in this chapter, the term:
+383 (1) 'Board' 'board' means the Board of Public Safety.
+H. B. 909
+- 15 -
+25 LC 60 0094
+384 (2) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' shall have the same
+385 meaning as set forth in Code Section 25-2-41."
+386 SECTION 9.
+387 Title 33 of the Official Code of Georgia Annotated, relating to insurance, is amended by
+388 adding a new Code section to read as follows:
+389 "33-29-3.5.
+390 (a) As used in this Code section, the term:
+391 (1) 'Firefighter' shall have the same meaning as set forth in Code Section 25-4-2.
+392 (2) 'PFAS blood testing' shall have the same meaning as set forth in Code
+393 Section 25-3-23.
+394 (3) 'Policy' means any benefit plan, contract, or policy except a disability income policy,
+395 specified disease policy, or hospital indemnity policy.
+396 (b) Policies subject to this Code section shall contain coverage for PFAS blood testing
+397 performed with at least the following frequency:
+398 (1) Once as a baseline for any firefighter who has served at least 12 consecutive months
+399 but fewer than 24 consecutive months as a firefighter in this state; or
+400 (2) Once every year for any firefighter who has served at least 24 consecutive months
+401 as a firefighter in this state.
+402 (c) Each insurer authorized to issue an individual accident and sickness insurance policy
+403 in this state which includes coverage for any firefighter shall include as part of or as a
+404 required endorsement to each such policy which is issued, delivered, issued for delivery,
+405 or renewed coverage for PFAS blood testing for the covered firefighters who meet the
+406 minimum requirements of this Code section.
+407 (d) The coverage required under subsection (c) of this Code section may be subject to such
+408 exclusions, reductions, or other limitations as to coverages, deductibles, or coinsurance
+409 provisions as may be approved by the Commissioner.
+H. B. 909
+- 16 -
+25 LC 60 0094
+410 (e) Nothing in this Code section shall be construed to prohibit the issuance of individual
+411 accident and sickness insurance policies which provide benefits greater than those required
+412 by subsection (c) of this Code section or more favorable to the insured than those required
+413 by subsection (c) of this Code section.
+414 (f) The provisions of this Code section shall apply to individual accident and sickness
+415 insurance policies issued by a fraternal benefit society, a healthcare plan, a health
+416 maintenance organization, or any similar entity.
+417 (g) Nothing contained in this Code section shall be deemed to prohibit the payment of
+418 different levels of benefits or from having differences in coinsurance percentages
+419 applicable to benefit levels for services provided by preferred and nonpreferred providers
+420 as otherwise authorized under the provisions of Article 2 of Chapter 30 of this title, relating
+421 to preferred provider arrangements."
+422 SECTION 10.
+423 Said title is further amended by adding a new Code section to read as follows:
+424 "33-30-4.6.
+425 (a) As used in this Code section, the term:
+426 (1) 'Firefighter' shall have the same meaning as set forth in Code Section 25-4-2.
+427 (2) 'PFAS blood testing' shall have the same meaning as set forth in Code
+428 Section 25-3-23.
+429 (3) 'Policy' means any benefit plan, contract, or policy except a disability income policy,
+430 specified disease policy, or hospital indemnity policy.
+431 (b) Policies subject to this Code section shall contain coverage for PFAS blood testing
+432 performed with at least the following frequency:
+433 (1) Once as a baseline for any firefighter who has served at least 12 consecutive months
+434 but fewer than 24 consecutive months as a firefighter in this state; or
+H. B. 909
+- 17 -
+25 LC 60 0094
+435 (2) Once every year for any firefighter who has served at least 24 consecutive months
+436 as a firefighter in this state.
+437 (c) Each insurer authorized to issue a group accident and sickness insurance policy in this
+438 state which includes coverage for any firefighter shall include as part of or as a required
+439 endorsement to each such policy which is issued, delivered, issued for delivery, or renewed
+440 coverage for PFAS blood testing for the covered firefighters who meet the minimum
+441 requirements of this Code section.
+442 (d) The coverage required under subsection (c) of this Code section may be subject to such
+443 exclusions, reductions, or other limitations as to coverages, deductibles, or coinsurance
+444 provisions as may be approved by the Commissioner.
+445 (e) Nothing in this Code section shall be construed to prohibit the issuance of group
+446 accident and sickness insurance policies which provide benefits greater than those required
+447 by subsection (c) of this Code section or more favorable to the insured than those required
+448 by subsection (c) of this Code section.
+449 (f) The provisions of this Code section shall apply to group accident and sickness
+450 insurance policies issued by a fraternal benefit society, a healthcare plan, a health
+451 maintenance organization, or any similar entity.
+452 (g) Nothing contained in this Code section shall be deemed to prohibit the payment of
+453 different levels of benefits or from having differences in coinsurance percentages
+454 applicable to benefit levels for services provided by preferred and nonpreferred providers
+455 as otherwise authorized under the provisions of Article 2 of this chapter, relating to
+456 preferred provider arrangements."
+457 SECTION 11.
+458 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 909
+- 18 -
+[DELETED: 5L5,6,7,htht3,8dt a c d t p f t d o s f m P H A C a e i p t p f t c p t p f r t p f a s t t p f]
+[DELETED: 5L  F f s h r d t o e t t]
+[DELETED: 5L  ' a p s o ' s h t s  S t a f b o J 1 2 t d s i o c s s r i r e a d a i d n t m l o P  N l t J 1 2 t d s a r a r]
+[DELETED: 5L  A e w m m p o c t b p]
+[DELETED: 5L  ' m a i p a f p o p  U J 3 2 n p O a a J 1 2 n p f o c p c o a c m]
+[DELETED: 5L  N l t J 1 2 t d s a r a r]
+[DELETED: 5L t t s  F t p o t s e a o n n t e $ p v a s p i n o t r i f i t s a t p r o]
+[DELETED: 5L  T G s a t f m o t c p t]
+[DELETED: 5L o P H t D o C H a t]
+[DELETED: 5L a f t u o a p c o a t a o a]
+[DELETED: 5L  ' b t s h t s m a s f i C ( o s ( o C S 2 s b v  A f s f p t s t h i s f i t t F H A C w t o o t s n c a i o c i w r t a]
+[DELETED: 5L  ' l s h t s m a s f i C]
+[DELETED: 5L t t o c i t t a o o m m t  A l s b o $ s t l s i t d p s a a f a c f u t 3]
+[DELETED: 5L  T c t o a b r b a f u d i s e b a f d t f s e  A m w r b u d ( o o]
+[DELETED: 5L p s b s t g a a f i]
+[DELETED: 5L  ' a p s o ' s h t s  ' b t s h t s m a s f i C]
+[DELETED: 5L p i b a f b s a h p a h l o b o f h d i c p  ' b t s h t s m a s f i C]
+[DELETED: 5L  T p o t C s s a t g a a s p i b a f b s a h p a h l o b o f h d i c p o a u t p o A 2 o t c r t]
+
+
+================================================================================
+
+Raw Text:
+25 LC 60 0094
+House Bill 909
+By: Representatives Drenner of the 85th, Scott of the 76th, Davis of the 87th, Schofield of the
+63rd, and Lim of the 98th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 12, 25, and 33 of the Official Code of Georgia Annotated, relating to
+2 conservation and natural resources, fire protection and safety, and insurance, respectively,
+3 so as to provide greater health protections for firefighters; to provide for monitoring of
+4 concentration levels of perfluoroalkyl and polyfluoroalkyl substances, or PFAS, at certain
+5 firefighter related sites; to prohibit the use of firefighting equipment containing PFAS as an
+6 intentionally added chemical after a certain date; to require manufacturers of firefighting
+7 equipment to label such equipment as containing PFAS as an intentionally added chemical
+8 after a certain date; to provide for the development of standards for mitigating PFAS
+9 contamination at harmful exposure levels and for the safe disposal or destruction of any
+10 firefighting equipment containing PFAS as an intentionally added chemical; to create the
+11 Firefighter Health Advisory Council and establish its powers; to provide for the
+12 establishment and purpose of the Firefighter PFAS Initiative; to require fire departments to
+13 provide and maintain insurance coverage for its firefighters for the payment of claims for
+14 PFAS blood testing under certain circumstances; to require insurers to provide coverage for
+15 PFAS blood testing under certain circumstances; to revise and provide definitions; to provide
+16 for civil penalties; to provide for reporting; to provide for a short title; to provide for
+17 legislative findings and intent; to provide for related matters; to repeal conflicting laws; and
+18 for other purposes.
+H. B. 909
+- 1 -
+
+25 LC 60 0094
+19 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+20 SECTION 1.
+21 This Act shall be known and may be cited as the "Firefighter Health and Environmental
+22 Safety Act."
+23 SECTION 2.
+24 (a) The General Assembly finds that:
+25 (1) Firefighters face significant health risks due to occupational exposure to toxic
+26 substances, including perfluoroalkyl and polyfluoroalkyl substances, or PFAS; and
+27 (2) Current federal and state health programs lack adequate provisions for addressing
+28 occupational hazards unique to firefighting.
+29 (b) It is the intent of the General Assembly to:
+30 (1) Enhance firefighter health protections; and
+31 (2) Ensure accountability and compliance with laws, rules, and regulations providing
+32 health protections for firefighters through clear enforcement mechanisms.
+33 SECTION 3.
+34 Title 12 of the Official Code of Georgia Annotated, relating to conservation and natural
+35 resources, is amended in Article 1 of Chapter 2, relating to the Department of Natural
+36 Resources generally, by adding a new Code section to read as follows:
+37 "12-2-12.
+38 (a) As used in this Code section, the term:
+39 (1) 'Covered site' means any land within this state used as a fire department or as a
+40 training site for firefighting operations.
+41 (2) 'Division' means the Environmental Protection Division of the Department of Natural
+42 Resources.
+H. B. 909
+- 2 -
+
+25 LC 60 0094
+43 (3) 'Fire department' shall have the same meaning as set forth in Code Section 25-3-21.
+44 (4) 'Harmful exposure level' means, which respect to the human population, including
+45 sensitive subgroups, a concentration level of PFAS that, over a lifetime or part of a
+46 lifetime, may cause a change in body function, including, but not limited to, organ
+47 function or cell structure, that might lead to disease or health problems, as determined by
+48 the division after considering any regulations or guidance issued by the United Sates
+49 Environmental Protection Agency, as of July 31, 2027.
+50 (5) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' shall have the same
+51 meaning as set forth in Code Section 25-2-41.
+52 (b) Subject to available funding, beginning on January 1, 2027, the division shall
+53 participate in or conduct such studies, reviews, investigations, research, emission
+54 inventories, and demonstrations as it deems necessary to monitor levels of PFAS
+55 contamination in air, water, and soil at covered sites; provided, however, that, for any
+56 privately held land, the division shall receive permission to conduct such monitoring
+57 activities from the owner. The division shall provide a written analysis of the results of
+58 such monitoring for each covered site not less frequently than quarterly to the Firefighter
+59 Health Advisory Council, established pursuant to Code Section 25-2-42.
+60 (c) Not later than January 1, 2028, the division shall adopt rules and regulations
+61 establishing decontamination protocols for fire departments relating to mitigating PFAS
+62 contamination at a harmful exposure level. In adopting such rules and regulations, the
+63 division shall take into consideration any regulations or guidance issued by the United
+64 States Environmental Protection Agency, as of July 31, 2027."
+65 SECTION 4.
+66 Title 25 of the Official Code of Georgia Annotated, relating to fire protection and safety, is
+67 amended by revising Code Section 25-2-41, relating to use of class B fire-fighting foam
+68 containing intentionally added PFAS chemicals, as follows:
+H. B. 909
+- 3 -
+
+25 LC 60 0094
+69 "25-2-41.
+70 (a) As used in this Code section, the term:
+71 (1) 'Class B fire-fighting firefighting foam' means any foam designed to extinguish
+72 flammable liquid fires.
+73 (2) 'Division' means the Environmental Protection Division of the Department of Natural
+74 Resources.
+75 (3) 'Fire department' shall have the same meaning as set forth in Code Section 25-3-21.
+76 (4) 'Firefighter' shall have the same meaning as set forth in Code Section 25-4-2.
+77 (5) 'Firefighting equipment' means any materials used by firefighters to extinguish fires,
+78 including, but not limited to, class B firefighting foam; jackets, pants, gloves, boots,
+79 helmets, face masks, and other personal protective equipment used by firefighters; and
+80 any other materials used by firefighters in firefighting.
+81 (6) 'Intentionally added chemical' means a chemical in a product that serves an intended
+82 function or technical effect in the product or product component, including the PFAS
+83 within intentionally added chemicals and PFAS that are intentional breakdown products
+84 of an added chemical that also have a functional or technical effect in the product or
+85 product component.
+86 (7) 'Manufacturer' means:
+87 (A) Any entity which manufactures, makes, produces, or causes to be produced
+88 firefighting equipment sold in this state or firefighting equipment that such entity
+89 intends to be sold in this state;
+90 (B) The first purchaser of firefighting equipment manufactured anywhere that intends
+91 to resell such firefighting equipment in this state regardless of whether the original
+92 manufacturer, maker, or producer intends such firefighting equipment to be sold in the
+93 United States; or
+94 (C) Any entity which becomes a successor of an entity described in subparagraph (A)
+95 or (B) of this paragraph.
+H. B. 909
+- 4 -
+
+25 LC 60 0094
+96 (2)(8) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' 'PFAS chemicals' means
+97 a class of fluorinated organic chemicals containing at least one fully fluorinated carbon
+98 atom, including perfluoroalkyl and polyfluoroalkyl substances, and designed to be fully
+99 functional in class B fire-fighting foam formulations.
+100 (9) 'Person' means any individual, partnership, association, firm, public or private
+101 corporation, or public entity.
+102 (10) 'Public entity' means a department, agency, board, bureau, commission, authority,
+103 or instrumentality of the State of Georgia, any local government or authority, including
+104 a county, municipal, or consolidated government in this state, or any other political
+105 subdivision in this state. Such term includes a fire department or local school system.
+106 (3)(11) 'Testing' means calibration testing, conformance testing, or fixed system testing.
+107 (b) Until June 30, 2030, no person On and after January 1, 2020, no person; fire
+108 department provided for under Chapter 3 of this title; state department, agency, board,
+109 bureau, office, commission, public corporation, or authority; county, municipal
+110 corporation, school district, or other political subdivision of this state shall discharge or
+111 otherwise use class B fire-fighting firefighting foam that contains intentionally added PFAS
+112 chemicals PFAS as an intentionally added chemical unless:
+113 (1) Such discharge or other use occurs in fire prevention or in response to an emergency
+114 fire-fighting firefighting operation; or
+115 (2) Such discharge or other use is for training or testing purposes which occurs at a
+116 facility that has implemented containment, treatment, and disposal measures to prevent
+117 uncontrolled releases of such class B fire-fighting firefighting foam into the environment.
+118 (c) Nothing in this Code section shall be construed to:
+119 (1) Restrict the manufacture, sale, or distribution of class B fire-fighting foam that
+120 contains intentionally added PFAS chemicals or restrict the discharge or other use of
+121 class B fire-fighting foam in response to an emergency fire-fighting operation; or
+H. B. 909
+- 5 -
+
+25 LC 60 0094
+122 (2) Prevent the use of nonfluorinated foams, including other class B fire-fighting foams,
+123 for purposes of training for fire-fighting operations.
+124 (c) Beginning on July 1, 2030, no person shall discharge, use, or cause to be used any
+125 firefighting equipment containing PFAS as an intentionally added chemical.
+126 (d) Beginning on July 1, 2030, no person or manufacturer shall distribute, sell, or offer for
+127 sale in this state any newly manufactured firefighting equipment containing PFAS as an
+128 intentionally added chemical unless it is accompanied by a legible and easily discernable
+129 disclosure with the statement 'Made with PFAS Chemicals,' including for online listings
+130 of products for sale.
+131 (e) No later than January 1, 2028, the division shall adopt rules and regulations
+132 establishing standards for any fire department operating in this state to safely destroy
+133 firefighting equipment containing PFAS as an intentionally added chemical. In adopting
+134 such rules and regulations, the division shall take into consideration any regulations or
+135 guidance issued by the United States Environmental Protection Agency, as of July 31,
+136 2027.
+137 (f) Beginning on July 1, 2028, no person shall destroy or dispose of firefighting equipment
+138 containing PFAS as an intentionally added chemical except as provided by any rules and
+139 regulations adopted by the division.
+140 (g)(1) Except as provided in paragraph (2) of this subsection, any person that violates
+141 subsection (c) of this Code section shall be liable for a civil penalty not to exceed
+142 $10,000.00 for each day that the violation persists, after such person is notified of the
+143 Commissioner's intent to impose a penalty and of the right to a hearing with respect to
+144 the same. The amount of any such penalty shall be fixed by the Commissioner.
+145 (2)(A) No person shall be held in violation of paragraph (1) of this subsection if such
+146 person relied in good faith upon representations of a manufacturer that firefighting
+147 equipment did not contain PFAS as an intentionally added chemical.
+H. B. 909
+- 6 -
+
+25 LC 60 0094
+148 (B) No individual firefighter shall be personally liable for payment of any civil penalty
+149 imposed under this subsection.
+150 (h) Any person or manufacturer that violates subsection (d) of this Code section shall be
+151 subject to a civil penalty of $100.00 per violation, after such person or manufacturer is
+152 notified of the Commissioner's intent to impose a penalty and of the right to a hearing with
+153 respect to the same. For the purposes of this subsection, each article of newly
+154 manufactured firefighting equipment that is distributed, sold, or offered for sale in this state
+155 in violation of subsection (d) shall constitute a separate violation.
+156 (i) Any person that violates subsection (f) of this Code section shall be subject to a civil
+157 penalty, not to exceed $10,000.00 per violation, after such person is notified of the
+158 Commissioner's intent to impose a penalty and of the right to a hearing with respect to the
+159 same. The amount of any such penalty shall be fixed by the Commissioner."
+160 SECTION 5.
+161 Said title is further amended by adding new Code sections to read as follows:
+162 "25-2-42.
+163 (a) As used in this Code section, the term:
+164 (1) 'Council' means the Firefighter Health Advisory Council established pursuant to this
+165 Code section.
+166 (2) 'Firefighter' shall have the same meaning as set forth in Code Section 25-4-2.
+167 (3) 'PFAS' shall have the same meaning as set forth in Code Section 25-2-41.
+168 (b) There is established within the office of the Commissioner the Firefighter Health
+169 Advisory Council. The objective of the council shall be to monitor current and future
+170 health risks impacting firefighters in this state and to provide recommendations on
+171 solutions to mitigate such health risks, with a focus on the effects of exposure to PFAS.
+172 All affected state agencies shall cooperate with the council in its efforts to meet such
+H. B. 909
+- 7 -
+
+25 LC 60 0094
+173 objective. This subsection shall not be construed to authorize the council to perform any
+174 function currently performed by an affected state agency.
+175 (c) The council shall be composed of 12 members as follows:
+176 (1) The Commissioner or his or her designee, who shall serve as the chairperson;
+177 (2) The commissioner of public heath or his or her designee;
+178 (3) The commissioner of natural resources or his or her designee;
+179 (4) The director of the Georgia Emergency Management and Homeland Security Agency
+180 or his or her designee;
+181 (5) One representative from the Georgia Association of Fire Chiefs, appointed by the
+182 Governor;
+183 (6) One representative from the Georgia State Firefighters Association, appointed by the
+184 Lieutenant Governor;
+185 (7) One representative from a state-wide labor organization representing firefighters,
+186 appointed by the Speaker of the House of Representatives;
+187 (8) One representative from a medical or research institution experienced in occupational
+188 health, appointed by the Governor;
+189 (9) One representative from the insurance industry experienced in firefighter related
+190 claims, appointed by the Lieutenant Governor;
+191 (10) One firefighter with at least ten years of experience as a full-time firefighter,
+192 appointed by the Speaker of the House of Representatives;
+193 (11) One firefighter with at least ten years of experience as a volunteer firefighter,
+194 appointed by the Governor; and
+195 (12) One representative from the general public with a proven interest in firefighter
+196 health and safety, appointed by the Governor.
+197 (d) On or before October 1, 2025:
+198 (1) The Governor shall appoint the first members of the council pursuant to
+199 paragraphs (5), (8), (11), and (12) of subsection (c) of this Code section;
+H. B. 909
+- 8 -
+
+25 LC 60 0094
+200 (2) The Lieutenant Governor shall appoint the first members of the council pursuant to
+201 paragraphs (6) and (9) of subsection (c) of this Code section; and
+202 (3) The Speaker of the House of Representatives shall appoint the first members of the
+203 council pursuant to paragraphs (7) and (10) of subsection (c) of this Code section.
+204 (e) All members of the council appointed by the Governor shall serve terms of four years,
+205 and all members of the council appointed by the Lieutenant Governor or the Speaker of the
+206 House of Representatives shall serve terms of two years. All appointed members shall
+207 serve until the appointment of his or her successor. Successors to appointed members shall
+208 be appointed in the same manner as original appointments. Vacancies shall be filled in the
+209 same manner as the original appointments. Each appointed member shall be eligible to
+210 succeed himself or herself; provided, however, that no member shall serve more than four
+211 consecutive terms on the council.
+212 (f) Each member of the council shall be a citizen of the United States and a resident of the
+213 State of Georgia.
+214 (g) Subject to available funding, the council shall:
+215 (1) Develop a health program focused on monitoring and reducing the harmful health
+216 effects of exposure to PFAS with respect to firefighters, to be called the Firefighter PFAS
+217 Initiative. The purposes and duties of such program shall be to:
+218 (A) Aggregate and maintain data related to PFAS contamination levels at covered sites
+219 collected pursuant to Code Section 12-2-12;
+220 (B) Aggregate and maintain PFAS related health data on firefighters collected pursuant
+221 to Code Section 25-2-43;
+222 (C) Synthesize existing studies, reports, and data related to PFAS with any data
+223 collected pursuant to subparagraphs (A) and (B) of this paragraph to identify and track
+224 health condition incidence and health trends among firefighters;
+225 (D) Collaborate with other health related state entities, including, but not limited to, the
+226 Department of Public Health, the Department of Community Health, and the
+H. B. 909
+- 9 -
+
+25 LC 60 0094
+227 Environmental Protection Division of the Department of Natural Resources, to support
+228 and integrate with existing initiatives and programs related to monitoring and mitigating
+229 the harmful effects of PFAS; and
+230 (E) Provide annual public forums to present key findings of the Firefighter PFAS
+231 Initiative and gather community feedback;
+232 (2) Identify any significant health risks, other than PFAS exposure, affecting firefighters
+233 in this state and develop innovative recommendations for addressing such health risks;
+234 and
+235 (3) On or before December 1 of each year, file a report to the Governor and the General
+236 Assembly, including a summary of the council's key findings and recommendations, if
+237 any, for legislative changes with respect to reducing significant health risks affecting
+238 firefighters.
+239 (h) The council shall convene at least quarterly or at such other frequency as determined
+240 by the chairperson.
+241 (i) The council shall be empowered to use subcommittees as it deems necessary to carry
+242 out its duties and responsibilities. Members of such subcommittees shall be knowledgeable
+243 of the subject matter with which the subcommittee is concerned and shall be appointed by
+244 the chairperson of the council upon the recommendation of the council.
+245 (j) Members of the council shall serve without compensation but shall receive the same
+246 expense allowance as that received by members of the General Assembly and the same
+247 mileage allowance for the use of a personal car or a travel allowance of actual
+248 transportation cost if traveling by public carrier as that received by all other state officials
+249 and employees. The funds for such expenses and allowances shall be paid from funds
+250 appropriated or available to the council.
+251 (k) The council is authorized to accept donations, gifts, property, and other contributions
+252 and to use the same for the purposes of carrying out this Code section.
+H. B. 909
+- 10 -
+
+25 LC 60 0094
+253 25-2-43.
+254 (a) As used in this Code section, the term:
+255 (1) 'Laboratory' means any institution that conducts PFAS blood testing.
+256 (2) 'PFAS blood testing' shall have the same meaning as set forth in Code
+257 Section 25-3-23.
+258 (b) Firefighter participation in the Firefighter PFAS Initiative, established pursuant to
+259 paragraph (1) of subsection (g) of Code Section 25-2-42, shall be voluntary. Any
+260 laboratory conducting PFAS blood testing on a firefighter shall obtain written informed
+261 consent from such firefighter prior to sharing the health information set forth in
+262 subsection (c) of this Code section.
+263 (c) Subject to subsection (b) of this Code section, each laboratory in this state shall report
+264 biannually to the Firefighter Health Advisory Council within the office of the
+265 Commissioner concerning PFAS health metrics established by such council as reasonably
+266 necessary to implement the Firefighter PFAS Initiative.
+267 (d) Each laboratory in this state shall forward data collected from PFAS blood testing to
+268 the Firefighter Health Advisory Council in a form and manner to be determined by the
+269 Firefighter Health Advisory Council, provided that any data forwarded shall be aggregated
+270 and shall not contain any identifying or confidential information with regard to any
+271 individual firefighter.
+272 (e) Notwithstanding anything to the contrary in this Code section, PFAS blood testing and
+273 reporting by any laboratory shall be conducted in a manner that ensures the privacy of the
+274 firefighter during the testing process and consistency with state and federal laws applicable
+275 to the confidentiality of health records."
+276 SECTION 6.
+277 Said title is further amended by revising subsection (b) of Code Section 25-3-23, relating to
+278 general requirements, equipment and clothing, and insurance, as follows:
+H. B. 909
+- 11 -
+
+25 LC 60 0094
+279 "(b)(1) A legally organized fire department shall provide and maintain sufficient insurance
+280 coverage on each member of the fire department to pay claims for injuries sustained en
+281 route to, during, and returning from fire calls or other emergencies and disasters and
+282 scheduled training sessions.
+283 (2)(A) As used in this paragraph, the term:
+284 (i) 'Cancer' means bladder, blood, brain, breast, cervical, esophageal, intestinal,
+285 kidney, lymphatic, lung, prostate, rectal, respiratory tract, skin, testicular, and thyroid
+286 cancer; leukemia; multiple myeloma; or non-Hodgkin's lymphoma.
+287 (ii) 'Certified' shall have the same meaning as set forth in Code Section 31-22-1.
+288 (iii) 'Clinical laboratory' shall have the same meaning as set forth in Code
+289 Section 31-22-1.
+290 (ii)(iv) 'Firefighter' means a firefighter as defined shall have the same meaning as set
+291 forth in Code Section 25-4-2.
+292 (v) 'PFAS blood testing' means a measurement of the amount of perfluoroalkyl and
+293 polyfluoroalkyl substances in blood performed by a certified clinical laboratory and
+294 includes a physician's interpretation of the results.
+295 (iii)(vi) 'Volunteer' means a volunteer as defined shall have the same meaning as set
+296 forth in Code Section 25-4-2.
+297 (B) On and after January 1, 2018, a legally organized fire department shall provide and
+298 maintain sufficient insurance coverage on each member of the fire department who is
+299 a firefighter to pay claims for cancer diagnosed after having served 12 consecutive
+300 months as a firefighter in this state. Such insurance benefits shall include at minimum
+301 the following:
+302 (i)(I) A lump sum benefit of $25,000.00 subject to limitations specified in the
+303 insurance contract and based on severity of cancer and payable to such firefighter
+304 upon submission to the insurance carrier or other payor of acceptable proof of
+305 diagnosis by a physician who is board certified in the medical specialty appropriate
+H. B. 909
+- 12 -
+
+25 LC 60 0094
+306 for the type of cancer involved that there are one or more malignant tumors
+307 characterized by the uncontrollable and abnormal growth and spread of malignant
+308 cells with invasion of normal tissue and that:
+309 (a) Surgery, radiotherapy, or chemotherapy is medically necessary;
+310 (b) There is metastasis; or
+311 (c) The firefighter has terminal cancer, is expected to die within 24 months or less
+312 from the date of diagnosis, and will not benefit from, or has exhausted, curative
+313 therapy; or
+314 (II) A lump sum benefit of $6,250.00 subject to limitations specified in the
+315 insurance contract and based on severity of cancer and payable to such firefighter
+316 upon submission to the insurance carrier or other payor of acceptable proof of
+317 diagnosis by a physician who is board certified in the medical specialty appropriate
+318 for the type of cancer involved that:
+319 (a) There is carcinoma in situ such that surgery, radiotherapy, or chemotherapy
+320 has been determined to be medically necessary;
+321 (b) There are malignant tumors which are treated by endoscopic procedures
+322 alone;
+323 (c) There are malignant melanomas; or
+324 (d) There is a tumor of the prostate, provided that it is treated with radical
+325 prostatectomy or external beam therapy; and
+326 (ii) Payable as a result of a specific injury or illness to begin six months after
+327 disability and submission to the insurance carrier or other payor of acceptable proof
+328 of disability precluding service as a firefighter and continuing for up to 36
+329 consecutive monthly payments:
+330 (I) A monthly benefit equal to 60 percent of the member's monthly salary as an
+331 employed firefighter with the fire department or a monthly benefit of $5,000.00,
+332 whichever is less; or
+H. B. 909
+- 13 -
+
+25 LC 60 0094
+333 (II) If the member is a volunteer, a monthly benefit of $1,500.00.
+334 The benefit under subdivision (I) or (II) of this division, as applicable, shall be
+335 subordinate to any other benefit actually paid to the firefighter for such disability from
+336 any other source, not including insurance purchased solely by the firefighter, and shall
+337 be limited to the difference between the amount of such other paid benefit and the
+338 amount specified under subdivision (I) or (II) of this division, as applicable.
+339 (C) The combined total of all benefits received by any firefighter under
+340 subdivisions (B)(i)(I) and (B)(i)(II) of this paragraph during his or her lifetime shall not
+341 exceed $50,000.00.
+342 (D) Beginning on July 1, 2026, a legally organized fire department shall provide and
+343 maintain sufficient insurance coverage for each member of the fire department who is
+344 a firefighter to pay claims for PFAS blood testing after having served 12 consecutive
+345 months as a firefighter in this state.
+346 (D)(E) With the exception of the benefit under subdivision (B)(ii)(I) of this paragraph,
+347 any person who was simultaneously a member of more than one fire department at the
+348 time of diagnosis shall not be entitled to receive benefits under this paragraph from or
+349 on behalf of more than one of such fire departments. In the event a volunteer of one
+350 fire department is simultaneously employed by another fire department, the fire
+351 department for which such person is a volunteer shall not be required to maintain the
+352 coverage on such volunteer otherwise required under this subsection during the period
+353 of such employment. Any member who receives benefits under division (ii) of
+354 subparagraph (B) of this paragraph may be required to have his or her condition
+355 reevaluated; in the event any such reevaluation reveals that such person has regained
+356 the ability to perform duties as a firefighter, then his or her benefits under division (ii)
+357 of subparagraph (B) of this paragraph shall cease. Benefits under said division shall
+358 also cease upon the death of such person. A member who, after at least one year as a
+359 firefighter with any legally organized fire department, departs from employment, ceases
+H. B. 909
+- 14 -
+
+25 LC 60 0094
+360 to be an active volunteer, or retires shall be entitled to continue his or her coverages
+361 under this paragraph through a continuation or conversion to individual coverage. The
+362 departing member shall be responsible for payment of all premiums.
+363 (E)(F) In addition to any other purpose authorized under Chapter 8 of Title 33, county
+364 governing authorities and municipal governing authorities may use proceeds from
+365 county and municipal taxes imposed under said chapter for purposes of providing
+366 insurance pursuant to this paragraph.
+367 (F)(G) Funds received as premiums for the coverages specified in this paragraph shall
+368 not be subject to premium taxes under Chapter 8 of Title 33.
+369 (G)(H) The computation of premium amounts by an insurer for the coverages under
+370 this paragraph shall be subject to generally accepted adjustments from insurance
+371 underwriting."
+372 SECTION 7.
+373 Said title is further amended in Chapter 7, relating to the Georgia Fire Academy, by revising
+374 paragraph (2) of Code Section 25-7-2, relating to creation and purpose of the academy, as
+375 follows:
+376 "(2) To provide professional training to paid, volunteer, and other publicly or privately
+377 employed firefighters at a minimal cost to them and their employers, including, but not
+378 limited to, annual training related to PFAS exposure risks and mitigation;"
+379 SECTION 8.
+380 Said title is further by revising Code Section 25-7-3, relating to "board" defined, as follows:
+381 "25-7-3.
+382 As used in this chapter, the term:
+383 (1) 'Board' 'board' means the Board of Public Safety.
+H. B. 909
+- 15 -
+
+25 LC 60 0094
+384 (2) 'Perfluoroalkyl and polyfluoroalkyl substances' or 'PFAS' shall have the same
+385 meaning as set forth in Code Section 25-2-41."
+386 SECTION 9.
+387 Title 33 of the Official Code of Georgia Annotated, relating to insurance, is amended by
+388 adding a new Code section to read as follows:
+389 "33-29-3.5.
+390 (a) As used in this Code section, the term:
+391 (1) 'Firefighter' shall have the same meaning as set forth in Code Section 25-4-2.
+392 (2) 'PFAS blood testing' shall have the same meaning as set forth in Code
+393 Section 25-3-23.
+394 (3) 'Policy' means any benefit plan, contract, or policy except a disability income policy,
+395 specified disease policy, or hospital indemnity policy.
+396 (b) Policies subject to this Code section shall contain coverage for PFAS blood testing
+397 performed with at least the following frequency:
+398 (1) Once as a baseline for any firefighter who has served at least 12 consecutive months
+399 but fewer than 24 consecutive months as a firefighter in this state; or
+400 (2) Once every year for any firefighter who has served at least 24 consecutive months
+401 as a firefighter in this state.
+402 (c) Each insurer authorized to issue an individual accident and sickness insurance policy
+403 in this state which includes coverage for any firefighter shall include as part of or as a
+404 required endorsement to each such policy which is issued, delivered, issued for delivery,
+405 or renewed coverage for PFAS blood testing for the covered firefighters who meet the
+406 minimum requirements of this Code section.
+407 (d) The coverage required under subsection (c) of this Code section may be subject to such
+408 exclusions, reductions, or other limitations as to coverages, deductibles, or coinsurance
+409 provisions as may be approved by the Commissioner.
+H. B. 909
+- 16 -
+
+25 LC 60 0094
+410 (e) Nothing in this Code section shall be construed to prohibit the issuance of individual
+411 accident and sickness insurance policies which provide benefits greater than those required
+412 by subsection (c) of this Code section or more favorable to the insured than those required
+413 by subsection (c) of this Code section.
+414 (f) The provisions of this Code section shall apply to individual accident and sickness
+415 insurance policies issued by a fraternal benefit society, a healthcare plan, a health
+416 maintenance organization, or any similar entity.
+417 (g) Nothing contained in this Code section shall be deemed to prohibit the payment of
+418 different levels of benefits or from having differences in coinsurance percentages
+419 applicable to benefit levels for services provided by preferred and nonpreferred providers
+420 as otherwise authorized under the provisions of Article 2 of Chapter 30 of this title, relating
+421 to preferred provider arrangements."
+422 SECTION 10.
+423 Said title is further amended by adding a new Code section to read as follows:
+424 "33-30-4.6.
+425 (a) As used in this Code section, the term:
+426 (1) 'Firefighter' shall have the same meaning as set forth in Code Section 25-4-2.
+427 (2) 'PFAS blood testing' shall have the same meaning as set forth in Code
+428 Section 25-3-23.
+429 (3) 'Policy' means any benefit plan, contract, or policy except a disability income policy,
+430 specified disease policy, or hospital indemnity policy.
+431 (b) Policies subject to this Code section shall contain coverage for PFAS blood testing
+432 performed with at least the following frequency:
+433 (1) Once as a baseline for any firefighter who has served at least 12 consecutive months
+434 but fewer than 24 consecutive months as a firefighter in this state; or
+H. B. 909
+- 17 -
+
+25 LC 60 0094
+435 (2) Once every year for any firefighter who has served at least 24 consecutive months
+436 as a firefighter in this state.
+437 (c) Each insurer authorized to issue a group accident and sickness insurance policy in this
+438 state which includes coverage for any firefighter shall include as part of or as a required
+439 endorsement to each such policy which is issued, delivered, issued for delivery, or renewed
+440 coverage for PFAS blood testing for the covered firefighters who meet the minimum
+441 requirements of this Code section.
+442 (d) The coverage required under subsection (c) of this Code section may be subject to such
+443 exclusions, reductions, or other limitations as to coverages, deductibles, or coinsurance
+444 provisions as may be approved by the Commissioner.
+445 (e) Nothing in this Code section shall be construed to prohibit the issuance of group
+446 accident and sickness insurance policies which provide benefits greater than those required
+447 by subsection (c) of this Code section or more favorable to the insured than those required
+448 by subsection (c) of this Code section.
+449 (f) The provisions of this Code section shall apply to group accident and sickness
+450 insurance policies issued by a fraternal benefit society, a healthcare plan, a health
+451 maintenance organization, or any similar entity.
+452 (g) Nothing contained in this Code section shall be deemed to prohibit the payment of
+453 different levels of benefits or from having differences in coinsurance percentages
+454 applicable to benefit levels for services provided by preferred and nonpreferred providers
+455 as otherwise authorized under the provisions of Article 2 of this chapter, relating to
+456 preferred provider arrangements."
+457 SECTION 11.
+458 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 909
+- 18 -
+
+[DELETED: 5L5,6,7,htht3,8dt a c d t p f t d o s f m P H A C a e i p t p f t c p t p f r t p f a s t t p f]
+[DELETED: 5L  F f s h r d t o e t t]
+[DELETED: 5L  ' a p s o ' s h t s  S t a f b o J 1 2 t d s i o c s s r i r e a d a i d n t m l o P  N l t J 1 2 t d s a r a r]
+[DELETED: 5L  A e w m m p o c t b p]
+[DELETED: 5L  ' m a i p a f p o p  U J 3 2 n p O a a J 1 2 n p f o c p c o a c m]
+[DELETED: 5L  N l t J 1 2 t d s a r a r]
+[DELETED: 5L t t s  F t p o t s e a o n n t e $ p v a s p i n o t r i f i t s a t p r o]
+[DELETED: 5L  T G s a t f m o t c p t]
+[DELETED: 5L o P H t D o C H a t]
+[DELETED: 5L a f t u o a p c o a t a o a]
+[DELETED: 5L  ' b t s h t s m a s f i C ( o s ( o C S 2 s b v  A f s f p t s t h i s f i t t F H A C w t o o t s n c a i o c i w r t a]
+[DELETED: 5L  ' l s h t s m a s f i C]
+[DELETED: 5L t t o c i t t a o o m m t  A l s b o $ s t l s i t d p s a a f a c f u t 3]
+[DELETED: 5L  T c t o a b r b a f u d i s e b a f d t f s e  A m w r b u d ( o o]
+[DELETED: 5L p s b s t g a a f i]
+[DELETED: 5L  ' a p s o ' s h t s  ' b t s h t s m a s f i C]
+[DELETED: 5L p i b a f b s a h p a h l o b o f h d i c p  ' b t s h t s m a s f i C]
+[DELETED: 5L  T p o t C s s a t g a a s p i b a f b s a h p a h l o b o f h d i c p o a u t p o A 2 o t c r t]

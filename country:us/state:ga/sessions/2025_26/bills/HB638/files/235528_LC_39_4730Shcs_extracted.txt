@@ -1,0 +1,529 @@
+Title: House Bill 638 (COMMITTEE SUBSTITUTE)
+Official Title: House Bill 638 (COMMITTEE SUBSTITUTE)
+Number of Sections: 1
+Source: versions - LC 39 4730S/hcs
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4730S
+By: Representatives Silcox of the 53rd, Holland of the 54th, Olaleye of the 59th, Evans of the
+57th, Jones of the 60th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 9 of Title 32 of the Official Code of Georgia Annotated,
+2 relating to Metropolitan Atlanta Rapid Transit Authority (MARTA), so as to prohibit the
+3 stopping or parking of a motor vehicle other than a transit vehicle in a designated transit
+4 vehicle lane in the City of Atlanta; to provide for penalties; to authorize the use of automated
+5 transit vehicle lane monitoring devices for the issuance of a civil monetary penalty to owners
+6 of motor vehicles illegally stopped or parked in a designated transit vehicle lane in the City
+7 of Atlanta; to provide for procedures, conditions, and limitations for the issuance of citations
+8 for such civil monetary penalty; to provide for agreements between agents operating
+9 automated transit vehicle lane monitoring devices; to provide for the disbursement of funds
+10 collected; to provide for rules and regulations; to provide for cooperation; to provide for
+11 device and records inspections; to provide for definitions; to provide for automatic repeal;
+12 to provide for related matters; to repeal conflicting laws; and for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 638 (SUB)
+- 1 -
+25 LC 39 4730S
+14 SECTION 1.
+15 Article 2 of Chapter 9 of Title 32 of the Official Code of Georgia Annotated, relating to
+16 Metropolitan Atlanta Rapid Transit Authority (MARTA), is amended by adding a new Code
+17 section to read as follows:
+18 "32-9-25.
+19 (a) As used in this Code section, the term:
+20 (1) 'Agent' means a person or entity that is authorized by the governing body of the city
+21 or a law enforcement agency thereof to administer the provisions of this Code section
+22 and:
+23 (A) Provides services relative to automated transit vehicle lane monitoring devices to
+24 such governing body of the city or law enforcement agency thereof;
+25 (B) Operates, maintains, leases, or licenses an automated transit vehicle lane
+26 monitoring device; or
+27 (C) Is authorized by the governing body of the city or law enforcement agency thereof
+28 to review and assemble the recorded images for inspection by a certified peace officer.
+29 (2) 'Automated transit vehicle lane monitoring device' means a device that is capable of
+30 producing recorded images of a motor vehicle stopped or parked in a transit vehicle lane.
+31 (3) 'Motor vehicle' shall have the same meaning as set forth in Code Section 40-1-1.
+32 (4) 'Official traffic-control devices' shall have the same meaning as set forth in Code
+33 Section 40-1-1.
+34 (5) 'Owner' means the registrant of a motor vehicle as evidenced in the records of the
+35 Department of Revenue, except that such term shall not include a motor vehicle rental
+36 company when a motor vehicle registered by such company is being operated by another
+37 person under a rental agreement with such company, in which case such term shall mean
+38 the person authorized to operate the vehicle pursuant to the rental agreement.
+H. B. 638 (SUB)
+- 2 -
+25 LC 39 4730S
+39 (6) 'Recorded images' means still or video images captured and stored by an automated
+40 transit vehicle lane monitoring device which include a clear depiction of a motor vehicle
+41 license plate number and the date, time, and location the image was produced.
+42 (7) 'Transit lane safety course' means an online educational video which is no longer than
+43 ten minutes in length and approved by the department.
+44 (8) 'Transit vehicle' means any motor vehicle that is operated within the city by or under
+45 contract with the authority which provides transportation services that are open to the
+46 general public or a segment of the general public.
+47 (9) 'Transit vehicle lane' means a lane or series of lanes of public road within the city
+48 designated for the exclusive use of transit vehicles and indicated as such by official
+49 traffic-control devices.
+50 (b) No person shall stop or park a motor vehicle other than a transit vehicle in a transit
+51 vehicle lane unless such stopping or parking is authorized by an official traffic-control
+52 device, occurs during an emergency situation, or is otherwise authorized by law.
+53 (c) A violation of this Code section shall be punished as follows:
+54 (1) Upon enforcement through the issuance of a uniform traffic citation by a law
+55 enforcement officer at the time of the offense, as a misdemeanor, and upon conviction
+56 thereof with a fine:
+57 (A) Not to exceed $50.00 for the first violation; provided, however, that such fine shall
+58 be waived for any offender who completes a transit lane safety course;
+59 (B) Not to exceed $100.00 for the second offense; and
+60 (C) Not to exceed $150.00 for the third offense and such offender shall be required to
+61 complete a defensive driving course approved by the commissioner of driver services
+62 pursuant to Code Section 40-5-83.
+63 (2)(A) Unless the operator of the motor vehicle was arrested or issued a uniform traffic
+64 citation by a law enforcement officer for the same violation, upon enforcement through
+H. B. 638 (SUB)
+- 3 -
+25 LC 39 4730S
+65 the use of an automated transit vehicle lane monitoring device with recorded images,
+66 a civil monetary penalty as follows:
+67 (i) $50.00 for the first violation; provided, however, that such fine shall be waived
+68 for any offender who completes a transit lane safety course;
+69 (ii) $100.00 for the second offense; and
+70 (iii) $150.00 for the third offense and such offender shall be required to complete a
+71 defensive driving course approved by the commissioner of driver services pursuant
+72 to Code Section 40-5-83.
+73 (B) Any fee for the processing of a civil monetary penalty issued under this Code
+74 section shall be no greater than $25.00 and any late fee assessed for failure to pay a
+75 civil monetary penalty owed shall be no greater than $5.00. No additional penalty, fee,
+76 or surcharge other than those set forth in this Code section shall be authorized. A
+77 violation punished with a civil monetary penalty pursuant to this paragraph shall not be
+78 considered a conviction, shall not be considered a moving traffic violation for purposes
+79 of points assessed pursuant to Code Section 40-5-57, shall not be made a part of the
+80 motor vehicle operating record of the person upon whom such penalty is imposed, nor
+81 shall it be used for any purposes in the provision of motor vehicle insurance coverage.
+82 (C) The law enforcement agency or agent authorized to enforce the provisions of this
+83 Code section on behalf of the governing body of the city through the use of an
+84 automated transit vehicle lane monitoring device shall send by first-class mail
+85 addressed to the owner of the motor vehicle no later than 60 days after the date of the
+86 alleged violation:
+87 (i) A citation for the alleged violation, which shall include the date, time, and location
+88 of the alleged violation, the amount of the civil monetary penalty imposed, and the
+89 date by which the civil monetary penalty shall be paid;
+90 (ii) An image produced from the recorded images showing the motor vehicle
+91 involved in the alleged violation;
+H. B. 638 (SUB)
+- 4 -
+25 LC 39 4730S
+92 (iii) A website address where recorded images showing the motor vehicle involved
+93 in the alleged violation, the transit lane safety course, and a duplicate of the
+94 information provided for in this subsection may be viewed;
+95 (iv) A copy of a certificate sworn to or affirmed by a certified peace officer employed
+96 by a law enforcement agency authorized to enforce the provisions of this Code section
+97 stating that, based upon inspection of recorded images, the owner's motor vehicle was
+98 stopped or parked in a transit vehicle in violation of this Code section;
+99 (v) A statement of the inference provided by subparagraph (E) of this Code section
+100 and of the means specified therein by which such inference may be rebutted;
+101 (vi) Information advising the owner of the motor vehicle of the manner in which
+102 liability as alleged in the citation may be contested; and
+103 (vii) A warning that failure to complete the transit lane safety course, pay the civil
+104 monetary penalty, or contest the violation in a timely manner may result in assessment
+105 of late fees in addition to the civil monetary penalty owed.
+106 (D) Proof that a motor vehicle was stopped or parked in a transit vehicle lane in
+107 violation of this Code section may be evidenced by recorded images. A copy of a
+108 certificate sworn to or affirmed by a certified peace officer employed by a law
+109 enforcement agency authorized to enforce this Code section stating that, based upon
+110 inspection of recorded images, a motor vehicle was stopped or parked in a transit
+111 vehicle lane and that such stopping or parking was not otherwise authorized by law
+112 shall be prima-facie evidence of the facts contained therein.
+113 (E) Liability under this paragraph shall be determined based upon a preponderance of
+114 the evidence. Prima-facie evidence that the motor vehicle described in the citation was
+115 stopped or parked in a transit vehicle lane, together with proof that the defendant was,
+116 at the time of such violation, the owner of the vehicle, shall permit the trier of fact in
+117 its discretion to infer that such owner of the motor vehicle was the operator of the motor
+H. B. 638 (SUB)
+- 5 -
+25 LC 39 4730S
+118 vehicle at the time of the alleged violation. Such inference may be rebutted if the
+119 owner of the motor vehicle:
+120 (i) Testifies under oath in open court or submits to the court a sworn notarized
+121 statement that he or she was not the operator of the motor vehicle at the time of the
+122 alleged violation;
+123 (ii) Presents evidence in court that demonstrates he or she is not the owner of the
+124 motor vehicle in the recorded images nor rented the motor vehicle in the recorded
+125 images; or
+126 (iii) Presents to the court a certified copy of a police report showing that the motor
+127 vehicle had been reported to the police as stolen prior to the time of the alleged
+128 violation.
+129 (F) Except in cases where an adjudication that no violation occurred has been issued
+130 or there is an otherwise lawful determination that no civil monetary penalty shall be
+131 imposed:
+132 (i) When an owner fails to complete the transit lane safety course or pay the civil
+133 monetary penalty for which citation and notice was sent to the owner pursuant to this
+134 paragraph within 60 days such notice was mailed, or has failed to submit
+135 documentation to the court pursuant to subparagraph (E) of this paragraph, the law
+136 enforcement agency or agent thereof which sent the original citation shall send a
+137 second notice. Such second notice shall include all information required of the
+138 original citation and a new date by which the civil monetary penalty shall be paid
+139 which shall be no less than 30 days after such mailing. If such owner notified by
+140 second notice again fails to complete the transit lane safety course, pay the civil
+141 monetary penalty, or submit documentation to the court pursuant to subparagraph (E)
+142 of this paragraph by the new date by which the civil monetary penalty shall be paid,
+143 such owner shall have waived the right to contest the violation and shall be liable for
+144 the civil monetary penalty provided for under this paragraph; and
+H. B. 638 (SUB)
+- 6 -
+25 LC 39 4730S
+145 (ii) When a citation issued pursuant to this paragraph has not been contested, the
+146 transit lane safety course has not been completed, or the civil monetary penalty has
+147 not been paid, the agent or governing authority shall mail a second notice of any
+148 unpaid civil monetary penalty to the owner.
+149 (G) Notices mailed by first-class mail shall be adequate notification of the
+150 requirements, fees, and penalties imposed by this paragraph.
+151 (H) Any court having jurisdiction over violations relating to traffic laws within the city
+152 shall have jurisdiction over cases arising under this paragraph and shall be authorized
+153 to impose the civil monetary penalty provided by this paragraph. Except as otherwise
+154 provided to the contrary, the provisions of law governing jurisdiction, procedure,
+155 defenses, adjudication, appeal, and payment and distribution of penalties otherwise
+156 applicable to traffic violations within the city shall apply to enforcement under this
+157 article; provided, however, that any appeal from a superior or state court shall be by
+158 application in the same manner as that provided by Code Section 5-6-35.
+159 (I) Money collected and remitted to the city pursuant to this paragraph shall be remitted
+160 to the authority to be used to fund public safety initiatives. This subparagraph shall not
+161 preclude the appropriation of a greater amount than collected and remitted by the
+162 authority pursuant to this paragraph for such purposes.
+163 (J) Any agreement entered into between the governing body of the city or law
+164 enforcement agency and an agent for the administration of this paragraph shall be
+165 established upon a subscription basis and subject to approval by the department. No
+166 such agreement shall authorize any agent to collect or retain a percentage of the civil
+167 monetary penalties assessed. Such agreement shall require the maintenance of recorded
+168 images in a system compliant with security and privacy standards set forth by the
+169 Georgia Crime Information Center Council for criminal justice information systems.
+170 Such agreement shall further require that recorded images shall only be used for
+171 purposes set forth in this paragraph and shall be destroyed no later than 72 hours after
+H. B. 638 (SUB)
+- 7 -
+25 LC 39 4730S
+172 the transit lane safety course is completed, the civil monetary penalty paid, or a final
+173 determination in the case has been rendered. Recorded images produced by an
+174 automated transit vehicle lane monitoring device shall not be a public record for
+175 purposes of Article 4 of Chapter 18 of Title 50.
+176 (K) In order to enforce the provisions of this paragraph, the city and authority shall
+177 erect signs warning of the use of an automated transit vehicle lane monitoring device
+178 no closer than 200 feet and no farther than 500 feet prior to any signalized entrance to
+179 a transit vehicle lane. Any such sign shall be at least 24 by 30 inches in size and be
+180 placed in such a manner that the sign is plainly visible from every lane of traffic and
+181 viewable in all traffic conditions. Any such sign shall indicate whether the automated
+182 transit lane monitoring device is fixed upon the roadway or located upon the transit
+183 vehicles utilizing the lane or lanes.
+184 (L) Any district attorney, solicitor-general of state court, or prosecuting attorney of
+185 municipal court whose jurisdiction includes the city shall be authorized to prosecute
+186 civil actions to enforce any civil penalty set forth in this paragraph.
+187 (3) For a period of six months after the date a transit vehicle lane is designated as such,
+188 any violation of this Code section shall be punishable only by issuance of a warning.
+189 After six months from the date a transit vehicle lane is designated, all provisions of this
+190 Code section regarding such violations shall be in full force and effect.
+191 (4) No uniform traffic citation shall be issued for a violation of Code Section 32-9-4 if
+192 a uniform traffic citation for the same act has been issued under the provisions of this
+193 Code section, nor shall any uniform traffic citation be issued under the provisions of this
+194 Code section if a uniform traffic citation for the same act has been issued pursuant to
+195 Code Section 32-9-4.
+196 (d) The department, in consultation with the city, shall be authorized to promulgate
+197 appropriate rules and regulations for the implementation of the provisions of this Code
+198 section for any portion of a transit vehicle lane that is part of the state highway system.
+H. B. 638 (SUB)
+- 8 -
+25 LC 39 4730S
+199 The city and the authority in the utilization of such transit vehicle lanes shall at all times
+200 cooperate fully with the department. The department shall be authorized, at any time, to
+201 inspect an automated transit vehicle lane monitoring device used by the city or authority
+202 or agent thereof on any such transit vehicle lane and any records pertaining to revenues
+203 collected from the use of such devices in such lanes. Certified peace officers of the
+204 Georgia State Patrol and the Department of Public Safety shall be nonexclusively
+205 authorized to enforce the provisions of this Code section.
+206 (e) No violation of the provisions of this Code section shall be punished by any term of
+207 confinement or imprisonment; provided, however, that this Code section shall not affect
+208 the power of a court to punish for contempt or to employ any sanction authorized by law
+209 for the enforcement of an order, civil judgment, or decree.
+210 (f) This Code section shall stand repealed on January 1, 2030."
+211 SECTION 2.
+212 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 638 (SUB)
+- 9 -
+[DELETED: 5L3,4,9,dtht7,0,ht s c m p t p f a b a o]
+[DELETED: 5L  O m l o l a a t v l]
+[DELETED: 5L  U e t t i o a u t c b a l]
+[DELETED: 5L s o b o t g b o t c t t u o a t v l m d s s b f m  A i p f t r i s t m v]
+[DELETED: 5L t a v t t l s c a a d o t s t o a b a c p o e b a l]
+[DELETED: 5L w 6 d s n w m o h f t s]
+[DELETED: 5L  N m b f m s b a n o t t t c t p o l g j p  A a e i b t g b o t c o l a s f r t r i s o b u f]
+[DELETED: 5L i t c h b r  R i p b a t v l m d s n b a p r f T d i c w t c s b a t p]
+[DELETED: 5L S P a t D o P S s b n]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4730S
+House Bill 638 (COMMITTEE SUBSTITUTE)
+By: Representatives Silcox of the 53rd, Holland of the 54th, Olaleye of the 59th, Evans of the
+57th, Jones of the 60th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 9 of Title 32 of the Official Code of Georgia Annotated,
+2 relating to Metropolitan Atlanta Rapid Transit Authority (MARTA), so as to prohibit the
+3 stopping or parking of a motor vehicle other than a transit vehicle in a designated transit
+4 vehicle lane in the City of Atlanta; to provide for penalties; to authorize the use of automated
+5 transit vehicle lane monitoring devices for the issuance of a civil monetary penalty to owners
+6 of motor vehicles illegally stopped or parked in a designated transit vehicle lane in the City
+7 of Atlanta; to provide for procedures, conditions, and limitations for the issuance of citations
+8 for such civil monetary penalty; to provide for agreements between agents operating
+9 automated transit vehicle lane monitoring devices; to provide for the disbursement of funds
+10 collected; to provide for rules and regulations; to provide for cooperation; to provide for
+11 device and records inspections; to provide for definitions; to provide for automatic repeal;
+12 to provide for related matters; to repeal conflicting laws; and for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 638 (SUB)
+- 1 -
+
+25 LC 39 4730S
+14 SECTION 1.
+15 Article 2 of Chapter 9 of Title 32 of the Official Code of Georgia Annotated, relating to
+16 Metropolitan Atlanta Rapid Transit Authority (MARTA), is amended by adding a new Code
+17 section to read as follows:
+18 "32-9-25.
+19 (a) As used in this Code section, the term:
+20 (1) 'Agent' means a person or entity that is authorized by the governing body of the city
+21 or a law enforcement agency thereof to administer the provisions of this Code section
+22 and:
+23 (A) Provides services relative to automated transit vehicle lane monitoring devices to
+24 such governing body of the city or law enforcement agency thereof;
+25 (B) Operates, maintains, leases, or licenses an automated transit vehicle lane
+26 monitoring device; or
+27 (C) Is authorized by the governing body of the city or law enforcement agency thereof
+28 to review and assemble the recorded images for inspection by a certified peace officer.
+29 (2) 'Automated transit vehicle lane monitoring device' means a device that is capable of
+30 producing recorded images of a motor vehicle stopped or parked in a transit vehicle lane.
+31 (3) 'Motor vehicle' shall have the same meaning as set forth in Code Section 40-1-1.
+32 (4) 'Official traffic-control devices' shall have the same meaning as set forth in Code
+33 Section 40-1-1.
+34 (5) 'Owner' means the registrant of a motor vehicle as evidenced in the records of the
+35 Department of Revenue, except that such term shall not include a motor vehicle rental
+36 company when a motor vehicle registered by such company is being operated by another
+37 person under a rental agreement with such company, in which case such term shall mean
+38 the person authorized to operate the vehicle pursuant to the rental agreement.
+H. B. 638 (SUB)
+- 2 -
+
+25 LC 39 4730S
+39 (6) 'Recorded images' means still or video images captured and stored by an automated
+40 transit vehicle lane monitoring device which include a clear depiction of a motor vehicle
+41 license plate number and the date, time, and location the image was produced.
+42 (7) 'Transit lane safety course' means an online educational video which is no longer than
+43 ten minutes in length and approved by the department.
+44 (8) 'Transit vehicle' means any motor vehicle that is operated within the city by or under
+45 contract with the authority which provides transportation services that are open to the
+46 general public or a segment of the general public.
+47 (9) 'Transit vehicle lane' means a lane or series of lanes of public road within the city
+48 designated for the exclusive use of transit vehicles and indicated as such by official
+49 traffic-control devices.
+50 (b) No person shall stop or park a motor vehicle other than a transit vehicle in a transit
+51 vehicle lane unless such stopping or parking is authorized by an official traffic-control
+52 device, occurs during an emergency situation, or is otherwise authorized by law.
+53 (c) A violation of this Code section shall be punished as follows:
+54 (1) Upon enforcement through the issuance of a uniform traffic citation by a law
+55 enforcement officer at the time of the offense, as a misdemeanor, and upon conviction
+56 thereof with a fine:
+57 (A) Not to exceed $50.00 for the first violation; provided, however, that such fine shall
+58 be waived for any offender who completes a transit lane safety course;
+59 (B) Not to exceed $100.00 for the second offense; and
+60 (C) Not to exceed $150.00 for the third offense and such offender shall be required to
+61 complete a defensive driving course approved by the commissioner of driver services
+62 pursuant to Code Section 40-5-83.
+63 (2)(A) Unless the operator of the motor vehicle was arrested or issued a uniform traffic
+64 citation by a law enforcement officer for the same violation, upon enforcement through
+H. B. 638 (SUB)
+- 3 -
+
+25 LC 39 4730S
+65 the use of an automated transit vehicle lane monitoring device with recorded images,
+66 a civil monetary penalty as follows:
+67 (i) $50.00 for the first violation; provided, however, that such fine shall be waived
+68 for any offender who completes a transit lane safety course;
+69 (ii) $100.00 for the second offense; and
+70 (iii) $150.00 for the third offense and such offender shall be required to complete a
+71 defensive driving course approved by the commissioner of driver services pursuant
+72 to Code Section 40-5-83.
+73 (B) Any fee for the processing of a civil monetary penalty issued under this Code
+74 section shall be no greater than $25.00 and any late fee assessed for failure to pay a
+75 civil monetary penalty owed shall be no greater than $5.00. No additional penalty, fee,
+76 or surcharge other than those set forth in this Code section shall be authorized. A
+77 violation punished with a civil monetary penalty pursuant to this paragraph shall not be
+78 considered a conviction, shall not be considered a moving traffic violation for purposes
+79 of points assessed pursuant to Code Section 40-5-57, shall not be made a part of the
+80 motor vehicle operating record of the person upon whom such penalty is imposed, nor
+81 shall it be used for any purposes in the provision of motor vehicle insurance coverage.
+82 (C) The law enforcement agency or agent authorized to enforce the provisions of this
+83 Code section on behalf of the governing body of the city through the use of an
+84 automated transit vehicle lane monitoring device shall send by first-class mail
+85 addressed to the owner of the motor vehicle no later than 60 days after the date of the
+86 alleged violation:
+87 (i) A citation for the alleged violation, which shall include the date, time, and location
+88 of the alleged violation, the amount of the civil monetary penalty imposed, and the
+89 date by which the civil monetary penalty shall be paid;
+90 (ii) An image produced from the recorded images showing the motor vehicle
+91 involved in the alleged violation;
+H. B. 638 (SUB)
+- 4 -
+
+25 LC 39 4730S
+92 (iii) A website address where recorded images showing the motor vehicle involved
+93 in the alleged violation, the transit lane safety course, and a duplicate of the
+94 information provided for in this subsection may be viewed;
+95 (iv) A copy of a certificate sworn to or affirmed by a certified peace officer employed
+96 by a law enforcement agency authorized to enforce the provisions of this Code section
+97 stating that, based upon inspection of recorded images, the owner's motor vehicle was
+98 stopped or parked in a transit vehicle in violation of this Code section;
+99 (v) A statement of the inference provided by subparagraph (E) of this Code section
+100 and of the means specified therein by which such inference may be rebutted;
+101 (vi) Information advising the owner of the motor vehicle of the manner in which
+102 liability as alleged in the citation may be contested; and
+103 (vii) A warning that failure to complete the transit lane safety course, pay the civil
+104 monetary penalty, or contest the violation in a timely manner may result in assessment
+105 of late fees in addition to the civil monetary penalty owed.
+106 (D) Proof that a motor vehicle was stopped or parked in a transit vehicle lane in
+107 violation of this Code section may be evidenced by recorded images. A copy of a
+108 certificate sworn to or affirmed by a certified peace officer employed by a law
+109 enforcement agency authorized to enforce this Code section stating that, based upon
+110 inspection of recorded images, a motor vehicle was stopped or parked in a transit
+111 vehicle lane and that such stopping or parking was not otherwise authorized by law
+112 shall be prima-facie evidence of the facts contained therein.
+113 (E) Liability under this paragraph shall be determined based upon a preponderance of
+114 the evidence. Prima-facie evidence that the motor vehicle described in the citation was
+115 stopped or parked in a transit vehicle lane, together with proof that the defendant was,
+116 at the time of such violation, the owner of the vehicle, shall permit the trier of fact in
+117 its discretion to infer that such owner of the motor vehicle was the operator of the motor
+H. B. 638 (SUB)
+- 5 -
+
+25 LC 39 4730S
+118 vehicle at the time of the alleged violation. Such inference may be rebutted if the
+119 owner of the motor vehicle:
+120 (i) Testifies under oath in open court or submits to the court a sworn notarized
+121 statement that he or she was not the operator of the motor vehicle at the time of the
+122 alleged violation;
+123 (ii) Presents evidence in court that demonstrates he or she is not the owner of the
+124 motor vehicle in the recorded images nor rented the motor vehicle in the recorded
+125 images; or
+126 (iii) Presents to the court a certified copy of a police report showing that the motor
+127 vehicle had been reported to the police as stolen prior to the time of the alleged
+128 violation.
+129 (F) Except in cases where an adjudication that no violation occurred has been issued
+130 or there is an otherwise lawful determination that no civil monetary penalty shall be
+131 imposed:
+132 (i) When an owner fails to complete the transit lane safety course or pay the civil
+133 monetary penalty for which citation and notice was sent to the owner pursuant to this
+134 paragraph within 60 days such notice was mailed, or has failed to submit
+135 documentation to the court pursuant to subparagraph (E) of this paragraph, the law
+136 enforcement agency or agent thereof which sent the original citation shall send a
+137 second notice. Such second notice shall include all information required of the
+138 original citation and a new date by which the civil monetary penalty shall be paid
+139 which shall be no less than 30 days after such mailing. If such owner notified by
+140 second notice again fails to complete the transit lane safety course, pay the civil
+141 monetary penalty, or submit documentation to the court pursuant to subparagraph (E)
+142 of this paragraph by the new date by which the civil monetary penalty shall be paid,
+143 such owner shall have waived the right to contest the violation and shall be liable for
+144 the civil monetary penalty provided for under this paragraph; and
+H. B. 638 (SUB)
+- 6 -
+
+25 LC 39 4730S
+145 (ii) When a citation issued pursuant to this paragraph has not been contested, the
+146 transit lane safety course has not been completed, or the civil monetary penalty has
+147 not been paid, the agent or governing authority shall mail a second notice of any
+148 unpaid civil monetary penalty to the owner.
+149 (G) Notices mailed by first-class mail shall be adequate notification of the
+150 requirements, fees, and penalties imposed by this paragraph.
+151 (H) Any court having jurisdiction over violations relating to traffic laws within the city
+152 shall have jurisdiction over cases arising under this paragraph and shall be authorized
+153 to impose the civil monetary penalty provided by this paragraph. Except as otherwise
+154 provided to the contrary, the provisions of law governing jurisdiction, procedure,
+155 defenses, adjudication, appeal, and payment and distribution of penalties otherwise
+156 applicable to traffic violations within the city shall apply to enforcement under this
+157 article; provided, however, that any appeal from a superior or state court shall be by
+158 application in the same manner as that provided by Code Section 5-6-35.
+159 (I) Money collected and remitted to the city pursuant to this paragraph shall be remitted
+160 to the authority to be used to fund public safety initiatives. This subparagraph shall not
+161 preclude the appropriation of a greater amount than collected and remitted by the
+162 authority pursuant to this paragraph for such purposes.
+163 (J) Any agreement entered into between the governing body of the city or law
+164 enforcement agency and an agent for the administration of this paragraph shall be
+165 established upon a subscription basis and subject to approval by the department. No
+166 such agreement shall authorize any agent to collect or retain a percentage of the civil
+167 monetary penalties assessed. Such agreement shall require the maintenance of recorded
+168 images in a system compliant with security and privacy standards set forth by the
+169 Georgia Crime Information Center Council for criminal justice information systems.
+170 Such agreement shall further require that recorded images shall only be used for
+171 purposes set forth in this paragraph and shall be destroyed no later than 72 hours after
+H. B. 638 (SUB)
+- 7 -
+
+25 LC 39 4730S
+172 the transit lane safety course is completed, the civil monetary penalty paid, or a final
+173 determination in the case has been rendered. Recorded images produced by an
+174 automated transit vehicle lane monitoring device shall not be a public record for
+175 purposes of Article 4 of Chapter 18 of Title 50.
+176 (K) In order to enforce the provisions of this paragraph, the city and authority shall
+177 erect signs warning of the use of an automated transit vehicle lane monitoring device
+178 no closer than 200 feet and no farther than 500 feet prior to any signalized entrance to
+179 a transit vehicle lane. Any such sign shall be at least 24 by 30 inches in size and be
+180 placed in such a manner that the sign is plainly visible from every lane of traffic and
+181 viewable in all traffic conditions. Any such sign shall indicate whether the automated
+182 transit lane monitoring device is fixed upon the roadway or located upon the transit
+183 vehicles utilizing the lane or lanes.
+184 (L) Any district attorney, solicitor-general of state court, or prosecuting attorney of
+185 municipal court whose jurisdiction includes the city shall be authorized to prosecute
+186 civil actions to enforce any civil penalty set forth in this paragraph.
+187 (3) For a period of six months after the date a transit vehicle lane is designated as such,
+188 any violation of this Code section shall be punishable only by issuance of a warning.
+189 After six months from the date a transit vehicle lane is designated, all provisions of this
+190 Code section regarding such violations shall be in full force and effect.
+191 (4) No uniform traffic citation shall be issued for a violation of Code Section 32-9-4 if
+192 a uniform traffic citation for the same act has been issued under the provisions of this
+193 Code section, nor shall any uniform traffic citation be issued under the provisions of this
+194 Code section if a uniform traffic citation for the same act has been issued pursuant to
+195 Code Section 32-9-4.
+196 (d) The department, in consultation with the city, shall be authorized to promulgate
+197 appropriate rules and regulations for the implementation of the provisions of this Code
+198 section for any portion of a transit vehicle lane that is part of the state highway system.
+H. B. 638 (SUB)
+- 8 -
+
+25 LC 39 4730S
+199 The city and the authority in the utilization of such transit vehicle lanes shall at all times
+200 cooperate fully with the department. The department shall be authorized, at any time, to
+201 inspect an automated transit vehicle lane monitoring device used by the city or authority
+202 or agent thereof on any such transit vehicle lane and any records pertaining to revenues
+203 collected from the use of such devices in such lanes. Certified peace officers of the
+204 Georgia State Patrol and the Department of Public Safety shall be nonexclusively
+205 authorized to enforce the provisions of this Code section.
+206 (e) No violation of the provisions of this Code section shall be punished by any term of
+207 confinement or imprisonment; provided, however, that this Code section shall not affect
+208 the power of a court to punish for contempt or to employ any sanction authorized by law
+209 for the enforcement of an order, civil judgment, or decree.
+210 (f) This Code section shall stand repealed on January 1, 2030."
+211 SECTION 2.
+212 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 638 (SUB)
+- 9 -
+
+[DELETED: 5L3,4,9,dtht7,0,ht s c m p t p f a b a o]
+[DELETED: 5L  O m l o l a a t v l]
+[DELETED: 5L  U e t t i o a u t c b a l]
+[DELETED: 5L s o b o t g b o t c t t u o a t v l m d s s b f m  A i p f t r i s t m v]
+[DELETED: 5L t a v t t l s c a a d o t s t o a b a c p o e b a l]
+[DELETED: 5L w 6 d s n w m o h f t s]
+[DELETED: 5L  N m b f m s b a n o t t t c t p o l g j p  A a e i b t g b o t c o l a s f r t r i s o b u f]
+[DELETED: 5L i t c h b r  R i p b a t v l m d s n b a p r f T d i c w t c s b a t p]
+[DELETED: 5L S P a t D o P S s b n]

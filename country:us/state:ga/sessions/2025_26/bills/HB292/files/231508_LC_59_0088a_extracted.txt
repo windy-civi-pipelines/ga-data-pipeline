@@ -1,0 +1,173 @@
+Title: House Bill 292
+Official Title: House Bill 292
+Number of Sections: 1
+Source: versions - LC 59 0088/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 59 0088
+By: Representatives Jones of the 143rd, McClain of the 109th, Buckner of the 137th, Mathiak
+of the 82nd, Neal of the 79th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to imposition, rate, computation, exemptions, and credits from income taxes, so as
+3 to provide for the certification of certain employers as living wage employers; to provide for
+4 definitions; to provide for a tax credit for such employers that employ individuals in new
+5 living wage jobs for at least one year; to provide for conditions and limitations; to provide
+6 for penalties; to provide for rules and regulations; to provide for related matters; to provide
+7 for an effective date and applicability; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+11 imposition, rate, computation, exemptions, and credits from income taxes, is amended by
+12 adding a new Code section to read as follows:
+13 "48-7-40.37.
+14 (a) As used in this Code section, the term:
+15 (1) 'Employer' means an enterprise or organization, whether a corporation, partnership,
+16 limited liability company, proprietorship, association, trust, business trust, real estate
+H. B. 292
+- 1 -
+25 LC 59 0088
+17 trust, or other form of organization, and its affiliates, which is registered and authorized
+18 to use the federal employment verification system known as 'E-Verify' or any successor
+19 federal employment verification system and is engaged in or carrying on any business
+20 activities within this state.
+21 (2) 'Living wage job' means employment which:
+22 (A) Is located in this state;
+23 (B) Involves a regular, full-time work week of 30 hours or more;
+24 (C) Has no predetermined end date; and
+25 (D) Pays at least $15.00 per hour.
+26 (b)(1) Each employer with five or more employees who are all employed in living wage
+27 jobs shall be eligible to apply to the Department of Community Affairs for certification
+28 as a living wage employer.
+29 (2) A living wage employer shall lose its certification if it employs fewer than three
+30 individuals who are all employed in living wage jobs or if it employs an individual in any
+31 position, whether full time or part time, for which such individual is paid less than $15.00
+32 per hour.
+33 (3) A living wage employer may advertise its status as a living wage employer.
+34 (4) Each living wage employer shall report to the Department of Community Affairs if
+35 at any time such living wage employer fails to meet the eligibility requirements for
+36 certification as a living wage employer. A living wage employer that violates the
+37 provisions of this paragraph may be suspended by the commissioner of community affairs
+38 from the certification program and the tax credit created by this Code section for a period
+39 of between one and five years.
+40 (c) Each living wage employer shall be allowed an income tax credit in the amount of
+41 $3,500.00 against the tax imposed under this article for each individual who is first hired
+42 by such living wage employer on or after January 1, 2026, and who is employed
+43 continuously by such living wage employer in a living wage job for one year, provided that
+H. B. 292
+- 2 -
+25 LC 59 0088
+44 such living wage employer remains certified as a living wage employer at the time such a
+45 living wage employer claims the credit allowed by this subsection.
+46 (d)(1) A living wage employer shall only be eligible to receive the credit provided for
+47 in subsection (c) of this Code section once per individual.
+48 (2) In no event shall the credit provided for in subsection (c) of this Code section for a
+49 taxable year exceed the living wage employer's income tax liability. Any unused portion
+50 of the credit provided for in subsection (c) of this Code section shall be permitted to be
+51 carried forward and applied to such living wage employer's tax liability for the
+52 subsequent three years. The credit provided for in subsection (c) of this Code section
+53 shall not be applied against such living wage employer's prior years' tax liabilities.
+54 (e) The commissioner and the commissioner of community affairs shall promulgate rules
+55 and regulations and forms necessary to implement and administer the provisions of this
+56 Code section."
+57 SECTION 2.
+58 This Act shall become effective on July 1, 2025, and shall be applicable to all taxable years
+59 beginning on or after January 1, 2026.
+60 SECTION 3.
+61 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 292
+- 3 -
+[DELETED: 5L3,9,7,dtht2,9,dt]
+[DELETED: 5L a a l w e  A l w e t v t s l w e o o a J 1 2 a w i e]
+[DELETED: 5L f a a t s l w e t l f t]
+
+
+================================================================================
+
+Raw Text:
+25 LC 59 0088
+House Bill 292
+By: Representatives Jones of the 143rd, McClain of the 109th, Buckner of the 137th, Mathiak
+of the 82nd, Neal of the 79th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to imposition, rate, computation, exemptions, and credits from income taxes, so as
+3 to provide for the certification of certain employers as living wage employers; to provide for
+4 definitions; to provide for a tax credit for such employers that employ individuals in new
+5 living wage jobs for at least one year; to provide for conditions and limitations; to provide
+6 for penalties; to provide for rules and regulations; to provide for related matters; to provide
+7 for an effective date and applicability; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+11 imposition, rate, computation, exemptions, and credits from income taxes, is amended by
+12 adding a new Code section to read as follows:
+13 "48-7-40.37.
+14 (a) As used in this Code section, the term:
+15 (1) 'Employer' means an enterprise or organization, whether a corporation, partnership,
+16 limited liability company, proprietorship, association, trust, business trust, real estate
+H. B. 292
+- 1 -
+
+25 LC 59 0088
+17 trust, or other form of organization, and its affiliates, which is registered and authorized
+18 to use the federal employment verification system known as 'E-Verify' or any successor
+19 federal employment verification system and is engaged in or carrying on any business
+20 activities within this state.
+21 (2) 'Living wage job' means employment which:
+22 (A) Is located in this state;
+23 (B) Involves a regular, full-time work week of 30 hours or more;
+24 (C) Has no predetermined end date; and
+25 (D) Pays at least $15.00 per hour.
+26 (b)(1) Each employer with five or more employees who are all employed in living wage
+27 jobs shall be eligible to apply to the Department of Community Affairs for certification
+28 as a living wage employer.
+29 (2) A living wage employer shall lose its certification if it employs fewer than three
+30 individuals who are all employed in living wage jobs or if it employs an individual in any
+31 position, whether full time or part time, for which such individual is paid less than $15.00
+32 per hour.
+33 (3) A living wage employer may advertise its status as a living wage employer.
+34 (4) Each living wage employer shall report to the Department of Community Affairs if
+35 at any time such living wage employer fails to meet the eligibility requirements for
+36 certification as a living wage employer. A living wage employer that violates the
+37 provisions of this paragraph may be suspended by the commissioner of community affairs
+38 from the certification program and the tax credit created by this Code section for a period
+39 of between one and five years.
+40 (c) Each living wage employer shall be allowed an income tax credit in the amount of
+41 $3,500.00 against the tax imposed under this article for each individual who is first hired
+42 by such living wage employer on or after January 1, 2026, and who is employed
+43 continuously by such living wage employer in a living wage job for one year, provided that
+H. B. 292
+- 2 -
+
+25 LC 59 0088
+44 such living wage employer remains certified as a living wage employer at the time such a
+45 living wage employer claims the credit allowed by this subsection.
+46 (d)(1) A living wage employer shall only be eligible to receive the credit provided for
+47 in subsection (c) of this Code section once per individual.
+48 (2) In no event shall the credit provided for in subsection (c) of this Code section for a
+49 taxable year exceed the living wage employer's income tax liability. Any unused portion
+50 of the credit provided for in subsection (c) of this Code section shall be permitted to be
+51 carried forward and applied to such living wage employer's tax liability for the
+52 subsequent three years. The credit provided for in subsection (c) of this Code section
+53 shall not be applied against such living wage employer's prior years' tax liabilities.
+54 (e) The commissioner and the commissioner of community affairs shall promulgate rules
+55 and regulations and forms necessary to implement and administer the provisions of this
+56 Code section."
+57 SECTION 2.
+58 This Act shall become effective on July 1, 2025, and shall be applicable to all taxable years
+59 beginning on or after January 1, 2026.
+60 SECTION 3.
+61 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 292
+- 3 -
+
+[DELETED: 5L3,9,7,dtht2,9,dt]
+[DELETED: 5L a a l w e  A l w e t v t s l w e o o a J 1 2 a w i e]
+[DELETED: 5L f a a t s l w e t l f t]

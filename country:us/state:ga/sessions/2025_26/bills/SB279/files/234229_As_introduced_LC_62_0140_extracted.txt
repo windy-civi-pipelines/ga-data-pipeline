@@ -1,0 +1,165 @@
+Title: Senate Bill 279
+Official Title: Senate Bill 279
+Number of Sections: 1
+Source: versions - As introduced LC 62 0140
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 62 0140
+By: Senators Strickland of the 42nd, Jones of the 10th, Robertson of the 29th, Albers of the
+56th and Davenport of the 17th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 9 of Title 34 of the Official Code of Georgia Annotated,
+2 relating to general provisions of workers' compensation, so as to require the State Board of
+3 Workers' Compensation to notify the Department of Administrative Services when the board
+4 has reasonable cause to believe that an injured worker is an eligible peace officer; to provide
+5 for a definition; to amend Chapter 1 of Title 35 of the Official Code of Georgia Annotated,
+6 relating to general provisions of law enforcement officers and agencies, so as to require a
+7 certain notification to certain peace officers who become disabled in the line of duty under
+8 certain circumstances; to provide for a definition; to provide for related matters; to provide
+9 for a short title; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 This Act shall be known and may be cited as the "Daniel D. Podsiadly, Jr. Act."
+S. B. 279
+- 1 -
+25 LC 62 0140
+13 SECTION 2.
+14 Article 1 of Chapter 9 of Title 34 of the Official Code of Georgia Annotated, relating to
+15 general provisions of workers' compensation, is amended by adding a new Code section to
+16 read as follows:
+17 "34-9-26.
+18 (a) As used in this Code section, the term 'eligible peace officer' means any individual who
+19 is employed on a full-time or part-time basis by the state or any municipality, county, or
+20 other political subdivision thereof; who is required by the terms of such employment,
+21 whether by election or appointment, to maintain public order or to make arrests for all
+22 criminal offenses; who is required by the terms of such employment to comply with the
+23 requirements of the 'Georgia Peace Officer Standards and Training Act' contained in
+24 Chapter 8 of Title 35; and who suffers permanent or temporary disability in the line of duty
+25 due to a direct interaction with a criminal suspect, arrestee, or inmate.
+26 (b) In the event that the State Board of Workers' Compensation has reasonable cause to
+27 believe that an injured employee is an eligible peace officer, the board shall notify the
+28 Department of Administrative Services. Additionally, the board shall notify the injured
+29 employee of such belief and such notification shall include such appropriate contact
+30 information of the Georgia State Indemnification Fund and the temporary disability
+31 compensation program of Parts 1 and 2, respectively, of Article 5 of Chapter 9 of Title 45
+32 and other information as shall be determined necessary by the Department of
+33 Administrative Services through the promulgation of rules and regulations."
+34 SECTION 3.
+35 Chapter 1 of Title 35 of the Official Code of Georgia Annotated, relating to general
+36 provisions of law enforcement officers and agencies, is amended by adding a new Code
+37 section to read as follows:
+S. B. 279
+- 2 -
+25 LC 62 0140
+38 "35-1-24.
+39 (a) As used in this Code section, the term 'eligible peace officer' means any individual who
+40 is employed on a full-time or part-time basis by the state or any municipality, county, or
+41 other political subdivision thereof; who is required by the terms of such employment,
+42 whether by election or appointment, to maintain public order or to make arrests for all
+43 criminal offenses; who is required by the terms of such employment to comply with the
+44 requirements of the 'Georgia Peace Officer Standards and Training Act' contained in
+45 Chapter 8 of this title; and who suffers permanent or temporary disability in the line of duty
+46 due to a direct interaction with a criminal suspect, arrestee, or inmate.
+47 (b) Each law enforcement agency of this state shall notify every employee whom such
+48 agency has reasonable cause to believe may be an eligible peace officer of the existence
+49 of the Georgia State Indemnification Fund and the temporary disability compensation
+50 program of Parts 1 and 2, respectively, of Article 5 of Chapter 9 of Title 45. Such
+51 notification shall be given within ten days of such employee suffering an injury which may
+52 reasonably cause such employee to suffer a permanent or temporary disability.
+53 Additionally, such notification shall include such appropriate contact and other information
+54 as shall be determined necessary by the Department of Administrative Services through the
+55 promulgation of rules and regulations."
+56 SECTION 4.
+57 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 279
+- 3 -
+[DELETED: 5L]
+[DELETED: 5L o s b a s n s i s a c o t G S I F a t t d o i a s b d n b t D o 1 o T 3 o t O C o G A r t g]
+[DELETED: 5L c s e t s a p o t d]
+
+
+================================================================================
+
+Raw Text:
+25 LC 62 0140
+Senate Bill 279
+By: Senators Strickland of the 42nd, Jones of the 10th, Robertson of the 29th, Albers of the
+56th and Davenport of the 17th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 9 of Title 34 of the Official Code of Georgia Annotated,
+2 relating to general provisions of workers' compensation, so as to require the State Board of
+3 Workers' Compensation to notify the Department of Administrative Services when the board
+4 has reasonable cause to believe that an injured worker is an eligible peace officer; to provide
+5 for a definition; to amend Chapter 1 of Title 35 of the Official Code of Georgia Annotated,
+6 relating to general provisions of law enforcement officers and agencies, so as to require a
+7 certain notification to certain peace officers who become disabled in the line of duty under
+8 certain circumstances; to provide for a definition; to provide for related matters; to provide
+9 for a short title; to repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 This Act shall be known and may be cited as the "Daniel D. Podsiadly, Jr. Act."
+S. B. 279
+- 1 -
+
+25 LC 62 0140
+13 SECTION 2.
+14 Article 1 of Chapter 9 of Title 34 of the Official Code of Georgia Annotated, relating to
+15 general provisions of workers' compensation, is amended by adding a new Code section to
+16 read as follows:
+17 "34-9-26.
+18 (a) As used in this Code section, the term 'eligible peace officer' means any individual who
+19 is employed on a full-time or part-time basis by the state or any municipality, county, or
+20 other political subdivision thereof; who is required by the terms of such employment,
+21 whether by election or appointment, to maintain public order or to make arrests for all
+22 criminal offenses; who is required by the terms of such employment to comply with the
+23 requirements of the 'Georgia Peace Officer Standards and Training Act' contained in
+24 Chapter 8 of Title 35; and who suffers permanent or temporary disability in the line of duty
+25 due to a direct interaction with a criminal suspect, arrestee, or inmate.
+26 (b) In the event that the State Board of Workers' Compensation has reasonable cause to
+27 believe that an injured employee is an eligible peace officer, the board shall notify the
+28 Department of Administrative Services. Additionally, the board shall notify the injured
+29 employee of such belief and such notification shall include such appropriate contact
+30 information of the Georgia State Indemnification Fund and the temporary disability
+31 compensation program of Parts 1 and 2, respectively, of Article 5 of Chapter 9 of Title 45
+32 and other information as shall be determined necessary by the Department of
+33 Administrative Services through the promulgation of rules and regulations."
+34 SECTION 3.
+35 Chapter 1 of Title 35 of the Official Code of Georgia Annotated, relating to general
+36 provisions of law enforcement officers and agencies, is amended by adding a new Code
+37 section to read as follows:
+S. B. 279
+- 2 -
+
+25 LC 62 0140
+38 "35-1-24.
+39 (a) As used in this Code section, the term 'eligible peace officer' means any individual who
+40 is employed on a full-time or part-time basis by the state or any municipality, county, or
+41 other political subdivision thereof; who is required by the terms of such employment,
+42 whether by election or appointment, to maintain public order or to make arrests for all
+43 criminal offenses; who is required by the terms of such employment to comply with the
+44 requirements of the 'Georgia Peace Officer Standards and Training Act' contained in
+45 Chapter 8 of this title; and who suffers permanent or temporary disability in the line of duty
+46 due to a direct interaction with a criminal suspect, arrestee, or inmate.
+47 (b) Each law enforcement agency of this state shall notify every employee whom such
+48 agency has reasonable cause to believe may be an eligible peace officer of the existence
+49 of the Georgia State Indemnification Fund and the temporary disability compensation
+50 program of Parts 1 and 2, respectively, of Article 5 of Chapter 9 of Title 45. Such
+51 notification shall be given within ten days of such employee suffering an injury which may
+52 reasonably cause such employee to suffer a permanent or temporary disability.
+53 Additionally, such notification shall include such appropriate contact and other information
+54 as shall be determined necessary by the Department of Administrative Services through the
+55 promulgation of rules and regulations."
+56 SECTION 4.
+57 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 279
+- 3 -
+
+[DELETED: 5L]
+[DELETED: 5L o s b a s n s i s a c o t G S I F a t t d o i a s b d n b t D o 1 o T 3 o t O C o G A r t g]
+[DELETED: 5L c s e t s a p o t d]

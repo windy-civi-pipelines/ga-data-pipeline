@@ -1,0 +1,964 @@
+Title: House Bill 551
+Official Title: House Bill 551
+Number of Sections: 1
+Source: versions - LC 39 4630/a
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4630
+By: Representatives Ridley of the 6th, Corbett of the 174th, Jasperse of the 11th, Mathis of the
+133rd, and Jones of the 25th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles and
+2 traffic, so as to provide for conditions, procedures, and limitations for issuance of temporary
+3 operating permits for motor vehicles; to revise provisions relative to the operation of an
+4 unregistered motor vehicle or vehicle without a current license plate, revalidation decal,
+5 county decal, or temporary operating permit; to authorize the development and maintenance
+6 by third parties of an electronic temporary operating permit issuance system for issuance of
+7 temporary operating permits; to provide for utilization of such system by dealers for issuance
+8 of temporary operating permits; to provide for the suspension of access to such system by
+9 the department for certain violations; to authorize access to certain information with the State
+10 Board of Registration of Used Motor Vehicle Dealers and Used Motor Vehicle Parts Dealers
+11 for certain purposes; to revise a definition; to provide for notice and hearings; to amend Code
+12 Section 43-47-8 of the Official Code of Georgia Annotated, relating to license applications
+13 for used motor vehicle dealers and used motor vehicle parts dealers, prerequisites, license
+14 fees, renewal, training or test, supplemental licenses, bonds, insurance, suspension for
+15 conviction or false statement, and meetings, so as to provide for issuance or renewal of a
+16 license for certain used motor vehicle dealers; to amend Code Section 48-5C-1 of the Official
+17 Code of Georgia Annotated, relating to alternative ad valorem tax on motor vehicles, so as
+18 to provide for enhanced penalty for an owner of a passive entity that fails to pay alternative
+H. B. 551
+- 1 -
+25 LC 39 4630
+19 ad valorem tax; to provide for a definition; to provide for an effective date; to provide for
+20 related matters; to repeal conflicting laws; and for other purposes.
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+22 SECTION 1.
+23 Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles and traffic, is
+24 amended by revising Code Section 40-2-8, relating to operation of unregistered vehicle or
+25 vehicle without current license plate, revalidation decal, or county decal and temporary
+26 operating permit issued by dealers of new or used motor vehicles, as follows:
+27 "40-2-8.
+28 (a) No person shall own, rent, lease, loan, or operate any vehicle required to be registered
+29 pursuant to Code Section 40-2-20 upon a highway in this state without registering such
+30 vehicle. Any person who becomes a resident of this state shall register his or her vehicle
+31 within 30 days of becoming a resident. Each day that a vehicle is in violation of this Code
+32 section shall be deemed to be a separate and distinct offense. Any person convicted of such
+33 offense shall be guilty of a misdemeanor and punished by a fine of $100.00 for each
+34 violation. Any person owning or operating any vehicle described in Code Section 40-2-20
+35 on any public highway or street without complying with that Code section shall be guilty
+36 of a misdemeanor, provided that a person shall register his or her motor vehicle within 30
+37 days after becoming a resident of this state. Any person renting, leasing, or loaning any
+38 vehicle described in Code Section 40-2-20 which is being used on any public highway or
+39 street without complying with that Code section shall be guilty of a misdemeanor and, upon
+40 conviction thereof, shall be punished by a fine of $100.00 for each violation; and each day
+41 that such vehicle is operated in violation of Code Section 40-2-20 shall be deemed to be
+42 a separate and distinct offense.
+H. B. 551
+- 2 -
+25 LC 39 4630
+43 (b)(1) It shall be unlawful and punishable as for a misdemeanor to operate any vehicle
+44 required to be registered in this state pursuant to Code Section 40-2-20 without a valid
+45 numbered license plate properly validated with a current revalidation decal, unless such
+46 operation is otherwise permitted under this chapter; and provided, further, that the
+47 purchaser of a new vehicle or a used vehicle from a dealer of new or used motor vehicles
+48 who displays a temporary operating permit issued as provided by paragraph (2) of this
+49 subsection Code Section 40-2-8.1 may operate such vehicle on the public highways and
+50 streets of this state without a current valid license plate during the period within which
+51 the purchaser is required by Code Section authorized by Code Sections 40-2-8.1
+52 and 40-2-20. An owner acquiring a motor vehicle from an entity that is not a new or used
+53 vehicle dealer shall register such vehicle as provided for in Code Section 40-2-29 unless
+54 such vehicle is to be registered under the International Registration Plan pursuant to
+55 Article 3A of this chapter.
+56 (2)(A) Any dealer of new or used motor vehicles shall issue to the purchaser of a
+57 vehicle at the time of sale thereof, unless such vehicle is to be registered under the
+58 International Registration Plan, a temporary operating permit as provided for by
+59 department rules or regulations which may bear the dealer's name and location and shall
+60 bear an expiration date 45 days from the date of purchase. The expiration date of such
+61 a temporary operating permit may be revised and extended by the county tag agent
+62 upon application by the dealer, the purchaser, or the transferee if an extension of the
+63 purchaser's initial registration period has been granted as provided by Code
+64 Section 40-2-20. Such temporary operating permit shall not resemble a license plate
+65 issued by this state and shall be issued without charge or fee. The requirements of this
+66 paragraph shall not apply to a dealer whose primary business is the sale of salvage
+67 motor vehicles and other vehicles on which total loss claims have been paid by insurers.
+68 (B) All temporary operating permits issued by dealers to purchasers of vehicles shall
+69 be of a standard design prescribed by regulation promulgated by the department. The
+H. B. 551
+- 3 -
+25 LC 39 4630
+70 department may provide by rule or regulation for the sale and distribution of such
+71 temporary operating permits by third parties in accordance with paragraph (3) of this
+72 subsection.
+73 (3) All sellers and distributors of temporary operating permits shall maintain an
+74 inventory record of temporary operating permits by number and name of the dealer.
+75 (4)(2) The purchaser and operator of a vehicle shall not be subject to the penalties set
+76 forth in this Code section during the period allowed for the registration of such vehicle.
+77 If the owner of such vehicle presents evidence that such owner has properly applied for
+78 the registration of such vehicle, but that the license plate or revalidation decal has not
+79 been delivered to such owner, then the owner shall not be subject to the penalties
+80 enumerated in this subsection.
+81 (c) It shall be unlawful and punishable as for a misdemeanor to operate any vehicle
+82 required to be registered in the State of Georgia this state without a valid county decal
+83 designating the county where the vehicle was last registered, unless such operation is
+84 otherwise permitted under this chapter. Any person convicted of such offense shall be
+85 punished by a fine of $25.00 for a first offense and $100.00 for a second or subsequent
+86 such offense. However, a A county name decal shall not be required if there is no space
+87 provided for a county name decal on the current license plate. Any person convicted of a
+88 violation of this subsection shall be subject to a fine not to exceed $25.00 if that person
+89 shows to the court having jurisdiction of the offense that the proper revalidation decal had
+90 been obtained prior to the time of the offense.
+91 (d) No violation of this Code section shall have occurred upon presentation of evidence
+92 that the owner had properly applied for the registration of such vehicle, but that the license
+93 plate or revalidation decal had not been delivered to such owner at the time the uniform
+94 traffic citation was issued.
+95 (e) The commissioner is authorized to promulgate rules and regulations necessary to
+96 effectuate the provisions of this Code section."
+H. B. 551
+- 4 -
+25 LC 39 4630
+97 SECTION 2.
+98 Said title is further amended by revising Code Section 40-2-8.1, relating to operation of
+99 vehicle without revalidation decal on license plate, as follows:
+100 "40-2-8.1.
+101 Notwithstanding Code Section 40-2-8 or any other provision of law, a person who operates
+102 a vehicle which is required to be registered in this state and which has attached to the rear
+103 thereof a valid numbered license plate without having the required revalidation decal
+104 affixed upon that plate, which person is otherwise guilty of a misdemeanor for not having
+105 such decal affixed to the plate, shall be subject for that offense only to a fine not to exceed
+106 $25.00 if that person shows to the court having jurisdiction of the offense that the proper
+107 revalidation decal had been obtained prior to the time of the offense.
+108 (a) Any dealer of new or used motor vehicles shall issue a temporary operating permit
+109 without charge or fee to the purchaser of a vehicle at the time of sale thereof, unless such
+110 vehicle is to be registered under the International Registration Plan or such dealer is one
+111 whose primary business is the sale of salvage motor vehicles and other vehicles on which
+112 total loss claims have been paid by insurers. Such temporary operating permit shall be of
+113 a standard design prescribed the department; provided, however, that such permit shall not
+114 resemble a license plate issued by this state. A temporary operating permit may bear the
+115 name of the dealer and location and shall include an expiration date which shall be 45 days
+116 from the date of purchase. The expiration date of a temporary operating permit may be
+117 revised and extended by the county tag agent upon application by the dealer, purchaser, or
+118 transferee if an extension of the purchaser's initial registration period has been granted as
+119 provided by Code Section 40-2-20.
+120 (b)(1) The department may provide by rule or regulation for the sale and distribution of
+121 temporary operating permits to dealers by third parties through the development and
+122 maintenance of an electronic temporary operating permit issuance system and establish
+123 standards for distribution and issuance of such permits. The department may further
+H. B. 551
+- 5 -
+25 LC 39 4630
+124 provide by rule or regulation for standards for authorized access to an electronic
+125 temporary operating permit issuance system, which may include, but shall not be limited
+126 to, required criminal background checks for any user of the system. Any third party
+127 authorized to sell and distribute temporary operating permits shall maintain an inventory
+128 record of such permits by number and name of the dealer.
+129 (2)(A) The department shall be authorized to suspend access to the electronic
+130 temporary operating permit issuance system established pursuant to this Code section
+131 for any dealer found to have issued temporary operating permits for a vehicle which has
+132 not been sold or intended to be registered or otherwise violated requirements for
+133 issuance of such permits established by rule or regulation of the department after
+134 issuance of notice of such violation by electronic means and opportunity for informal
+135 review as set forth in this subparagraph. Any dealer who has received notice pursuant
+136 to this subsection of an alleged violation and for whom the department intends to
+137 suspend access to the electronic temporary operating permit issuance system may
+138 request an informal review of the allegations with the department. The method for
+139 making such request shall be developed by the department and may be by electronic
+140 means. Upon receipt of such request for informal review, the department shall, within
+141 ten business days, schedule an informal conference with such dealer to review the
+142 suspected violations. Proceedings under this subparagraph shall not be governed by
+143 any formal procedural requirements and may be conducted in such manner as the
+144 department may establish by rule or regulation. The department shall consider the
+145 historical use of the electronic temporary operating permit issuance system by the
+146 dealer under consideration for access suspension, together with other pertinent
+147 information which may be available, and shall render a decision regarding access to the
+148 electronic temporary operating permit issuance system within seven business days of
+149 the informal conference. Upon a finding that such dealer violated the requirements of
+150 this Code section or rules and regulations of the department, the department shall be
+H. B. 551
+- 6 -
+25 LC 39 4630
+151 authorized to impose fines or fees as provided by law. The department shall not be
+152 authorized to suspend access to the temporary operating permit system unless the
+153 department finds a dealer to be substantially out of compliance with the requirements
+154 of this Code section or the rules and regulations of the department and such dealer has
+155 failed to produce satisfactory evidence of extenuating circumstances to justify such
+156 noncompliance.
+157 (B) If the department suspends a dealer's access to the electronic temporary operating
+158 permit issuance system established pursuant to this Code section after an informal
+159 review held pursuant to subparagraph (A) of this paragraph, the suspended dealer shall
+160 have the right to a formal hearing to review the suspension pursuant to Code Section
+161 40-3-6. Such hearing shall be held within 30 days of the department's decision to
+162 suspend the dealer's access to the electronic termporary operating permit issuance
+163 system and shall be conducted in accordance with Chapter 13 of Title 50, the 'Georgia
+164 Administrative Procedure Act.' At such hearing, the department may present evidence
+165 of any instances in which the suspended dealer unlawfully issued temporary operating
+166 permits or issued fraudulent temporary operating permits. Upon a finding that the
+167 suspended dealer is in compliance with the requirements of this Code section and has
+168 issued temporary operating permits predominantly for bona fide motor vehicle sales,
+169 the department shall provide for the immediate restoration of access to the electronic
+170 temporary operating permit issuance system for such dealer but shall be authorized to
+171 impose fines or fees as provided by law for failure to comply with the requirements of
+172 this chapter. Upon a finding that the suspended dealer violated the requirements of this
+173 Code section or rules and regulations of the department, the department shall be
+174 authorized to extend the term of suspension for a period of up to 24 months. Upon a
+175 finding that a dealer has unlawfully issued temporary operating permits in violation of
+176 this chapter or rules and regulations of the department, the department shall further be
+177 authorized to issue a civil monetary penalty in an amount no greater than $100.00 per
+H. B. 551
+- 7 -
+25 LC 39 4630
+178 violation, suspend or revoke the registration issued to a dealer pursuant to Code Section
+179 40-2-39, and suspend, confiscate, or limit issuance of any dealer plates issued pursuant
+180 to Code Section 40-2-38 for a period of up to 24 months. The department shall comply
+181 with Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act,' in relation to
+182 the expedited review provided for in this subparagraph and the suspended dealer shall
+183 have the right to appeal any decision of the department in accordance with such chapter.
+184 (c) The commissioner is authorized to promulgate rules and regulations necessary to
+185 effectuate the provisions of this Code section."
+186 SECTION 3.
+187 Said title is further amended in Code Section 40-2-33, relating to issuance of license plates
+188 and decals, transfer of registration to a digital license plate, compensation of tag agents, and
+189 required identification, by revising paragraph (3) of subsection (a) as follows:
+190 "(3) At the time of initial application for registration or at any time during the registration
+191 period, a vehicle owner may file with the county tag agent, on a form or electronic form
+192 prescribed by the commissioner, a request to have a vehicle license plate duplicated on
+193 a digital license plate purchased from a digital license plate provider. Such request to the
+194 county tag agent shall include all applicable registration fees. Upon approving the
+195 application provided in this paragraph, the commissioner or county tag agent shall furnish
+196 the digital license plate provider with the appropriate licensing information to be
+197 displayed upon the digital license plate. In accordance with Code Section 40-2-8
+198 40-2-8.1, a 45 day temporary operating permit shall be issued by the commissioner or
+199 county tag agent to an applicant for a digital license plate until such license plate is
+200 received by the applicant."
+H. B. 551
+- 8 -
+25 LC 39 4630
+201 SECTION 4.
+202 Said title is further amended in Code Section 40-2-38, relating to registration and licensing
+203 of manufacturers, distributors, and dealers and issuance of manufacturer, manufacturer
+204 headquarters, distributor, and dealer plates, by revising paragraph (1) of subsection (a) and
+205 subsections (c) through (f) as follows:
+206 "(a)(1) Manufacturers, manufacturer headquarters, distributors, and dealers engaged in
+207 the manufacture, sale, or leasing of vehicles required to be registered under Code Section
+208 40-2-20 shall register by electronic means with the commissioner, making application for
+209 a distinguishing dealer's number, specifying the name and make of motor vehicle, tractor,
+210 or trailer manufactured, sold, or leased by them, upon forms prepared by the
+211 commissioner for such purposes, and pay therefor a fee of $62.00, which shall
+212 accompany such application. Upon payment of such fee by a dealer an applicant, the
+213 commissioner shall furnish to the dealer one master number plate to expire each year in
+214 accordance with subsection (f) of this Code section, to be known as a dealer's number and
+215 to based upon the type of master number plate issued. Each additional plate issued
+216 pursuant to this Code section shall require payment of a $12.00 fee. Each master number
+217 plate and any additional plates issued pursuant to this Code section shall be distinguished
+218 from the number license plates provided for in this chapter by different and distinguishing
+219 colors to be determined by the commissioner. The dealer plate for a franchise motor
+220 vehicle dealer shall be distinguishable from the dealer plate for a used car dealer and from
+221 the dealer plate for a motor vehicle wholesaler. Except as otherwise authorized by this
+222 Code section, a dealer's master number plate or additional plates issued pursuant to this
+223 Code section shall be A dealer's number plate is for the purpose of demonstrating or
+224 transporting the dealer's vehicles or trailers for sale or lease. Persons engaged in the
+225 business of transporting vehicles for a dealer under a vehicle's own power shall be
+226 permitted to use such dealer's plate for the purpose of transporting a vehicle."
+227 "(c) This Code section shall not apply in any manner to mopeds.
+H. B. 551
+- 9 -
+25 LC 39 4630
+228 (d)(c) The license plates issued pursuant to this Code section shall be revoked and
+229 confiscated upon a determination after a hearing that such dealer, distributor, manufacturer,
+230 or manufacturer headquarters has unlawfully used such license plates in violation of this
+231 Code section.
+232 (e)(d) If a license plate issued pursuant to this Code section is lost or stolen, the dealer,
+233 manufacturer, distributor, manufacturer headquarters, or other party to whom the license
+234 plate was issued must shall immediately report the lost or stolen plate to local law
+235 enforcement agencies. If a replacement license plate is sought, the dealer, manufacturer,
+236 distributor, manufacturer headquarters, or other party to whom the license plate was issued
+237 shall file a notarized affidavit with the department requesting a replacement plate. Such
+238 affidavit shall certify under penalty of perjury that the license plate has been lost or stolen
+239 and that the loss has been reported to a local law enforcement agency.
+240 (f)(1)(e) Except as otherwise provided for in this Code section, the The expiration of a
+241 license plate issued pursuant to this Code section shall be the last day of the registration
+242 period as provided in division (a)(1)(A)(ii) of Code Section 40-2-21, except that for the
+243 purposes of this subsection, the registration period shall be determined by the first letter of
+244 the legal name of the business listed on the application for registration or renewal of
+245 registration. An application for renewal of registration shall not be submitted earlier than
+246 90 days prior to the last day of the registration period. A penalty of 25 percent of the total
+247 registration fees due shall be assessed any person registering pursuant to this Code section
+248 who, prior to the expiration of such person's registration period, fails to apply for renewal
+249 or if having applied fails to pay the required fees.
+250 (2) A transition period shall commence on October 1, 2007, and conclude on December
+251 31, 2007, for all existing registrations and any new registration applications presented
+252 prior to January 1, 2008. On or after January 1, 2008, new applications for registration
+253 shall be submitted and remain valid until the expiration of such registration as specified
+254 in paragraph (1) of this subsection."
+H. B. 551
+- 10 -
+25 LC 39 4630
+255 SECTION 5.
+256 Said title is further amended in Code Section 40-2-39, relating to registration and licensing
+257 of new motor vehicle dealers, temporary site permits, administrative fines, and penalty, by
+258 revising paragraph (3) of subsection (a) as follows:
+259 "(3) 'Established place of business' means a permanent salesroom or sales office of a new
+260 motor vehicle dealer, which permanent salesroom or sales office is located in a permanent
+261 building on an open lot and which is marked by an appropriate sign and at which a
+262 permanent business of bartering, trading, or selling of at least five new motor vehicles is
+263 carried on in good faith at any one time."
+264 SECTION 6.
+265 Said title is further amended in Code Section 40-2-130, relating to records of certificates of
+266 registration, by revising subsection (c) as follows:
+267 "(c) The motor vehicle registration records which the commissioner is required to maintain
+268 under this Code section or any other provision are exempt from the provisions of any law
+269 of this state requiring that such records be open for public inspection; provided, however,
+270 that, subject to subsection (d) of this Code section, the records may be disclosed for use as
+271 provided in the federal Driver's Privacy Protection Act of 1994, 18 U.S.C. Chapter 123, and
+272 by the following:
+273 (1) Any licensed dealer of new or used motor vehicles;
+274 (2) Any tax collector, tax receiver, or tax commissioner;
+275 (3) The director of the Environmental Protection Division of the Department of Natural
+276 Resources or his or her designee;
+277 (4) Any private person who has met the requirements of Code Section 40-2-25, provided
+278 that the information shall be used for the sole purpose of effectuating the registration or
+279 renewal of motor vehicles by electronic or similar means and that the private person
+280 requesting the information has entered into an agreement to provide electronic services
+H. B. 551
+- 11 -
+25 LC 39 4630
+281 to the commissioner or a county tag agent; provided, further, that the information made
+282 available pursuant to this paragraph for such purpose shall be limited to the vehicle
+283 identification number, the license tag number, the date of expiration of registration, and
+284 the amount of tax owed; and
+285 (5) A person or entity authorized by the commissioner for use in providing notice to the
+286 owners of towed or impounded vehicles; and
+287 (6) The board established pursuant to Chapter 47 of Title 43 for use in carrying out its
+288 functions."
+289 SECTION 7.
+290 Said title is further amended in Code Section 40-3-23, relating to issuance of certificate of
+291 title, maintenance of record of certificates issued, public inspection, furnishing records for
+292 fee, and electronic format, by revising subsection (d) as follows:
+293 "(d) The motor vehicle records which the commissioner or the commissioner's duly
+294 authorized county tag agent is required to maintain under this Code section or any other
+295 provision are exempt from the provisions of any law of this state requiring that such
+296 records be open for public inspection; provided, however, that, subject to subsection (f) of
+297 this Code section, the records may be disclosed for use as provided in the federal Driver's
+298 Privacy Protection Act of 1994, 18 U.S.C. Chapter 123, and by the following:
+299 (1) Any licensed dealer of new or used motor vehicles;
+300 (2) Any tax collector, tax receiver, or tax commissioner; and
+301 (3) A person or entity authorized by the commissioner for use in providing notice to the
+302 owners of towed or impounded vehicles; and
+303 (4) The board established pursuant to Chapter 47 of Title 43 for carrying out its
+304 functions."
+H. B. 551
+- 12 -
+25 LC 39 4630
+305 SECTION 8.
+306 Said title is further amended in Code Section 40-3-33, relating to transfer of vehicle to or
+307 from dealer, records to be kept by dealers, electronic filing, and application for title where
+308 dealer located, by revising subsections (a) and (b) and by adding new subsections to read as
+309 follows:
+310 "(a)(1) Except as provided in paragraph (2) of this subsection, a dealer who buys a
+311 vehicle and holds it for resale need not apply to the commissioner for a new certificate
+312 of title but may retain the delivered certificate delivered to him. Upon transferring the
+313 vehicle to another person other than by the creation of a security interest, such dealer
+314 shall promptly execute the assignment and warranty of title by a dealer. Such assignment
+315 and warranty shall show the names and addresses of the transferee and any holder of a
+316 security interest created or reserved at the time of the resale and the date of his the
+317 security agreement, in the spaces provided therefor on the certificate or as the
+318 commissioner prescribes. Transfers of vehicles under this Code section shall otherwise
+319 conform with Code Section 40-3-32. A dealer selling a previously registered vehicle for
+320 which under this chapter need not have a certificate of title is not required under this
+321 chapter need not furnish a purchaser of such a vehicle a certificate of title. After a
+322 previously registered vehicle has been brought under the terms of this chapter, a dealer,
+323 when selling that vehicle, shall conform to all provisions of this chapter.
+324 (2)(A) As used in this paragraph, the term 'franchise dealer' means a dealer who under
+325 a contract or franchise agreement with a manufacturer, distributor, wholesaler, or
+326 importer is authorized to sell new motor vehicles of or for such manufacturer,
+327 distributor, wholesaler, or importer and who is authorized to use trademarks or service
+328 marks associated with one or more makes of motor vehicles in connection with such
+329 sales.
+330 (B) A dealer who is not a franchise dealer who acquires a vehicle for which the original
+331 certificate of title has not been issued and who holds such vehicle for resale shall not
+H. B. 551
+- 13 -
+25 LC 39 4630
+332 be exempt from the requirement to obtain a certificate of title in such dealer's name as
+333 provided in paragraph (1) of this subsection. Such dealer shall, as provided in Code
+334 Section 40-3-32, obtain a certificate of title in such dealer's name prior to selling or
+335 otherwise transferring said vehicle to any other person or dealer.
+336 (b) Every dealer shall maintain a record, in the form the commissioner prescribes, of every
+337 vehicle bought, sold, or exchanged by him, or received by him for sale or exchange. Such
+338 record shall be kept for three years and shall be open to inspection by a representative of
+339 the commissioner during reasonable business hours. The information contained in records
+340 maintained by a dealer pursuant to this subsection shall be an accurate representation of the
+341 transaction, and no alternative versions of records shall be produced for a purchaser with
+342 information which differs from that contained in records maintained for inspection by the
+343 department."
+344 "(f) The department shall be authorized to assess a civil penalty against a dealer of up to
+345 $500.00 for each sales transaction conducted in violation of subsection (b) of this Code
+346 section.
+347 (g) The department is authorized to promulgate rules and regulations necessary to
+348 effectuate the provisions of this Code section."
+349 SECTION 9.
+350 Code Section 43-47-8 of the Official Code of Georgia Annotated, relating to license
+351 applications for used motor vehicle dealers and used motor vehicle parts dealers,
+352 prerequisites, license fees, renewal, training or test, supplemental licenses, bonds, insurance,
+353 suspension for conviction or false statement, and meetings, is amended by revising
+354 subsection (b) as follows:
+355 "(b) A division under this chapter shall not issue or renew any license unless the applicant
+356 or holder thereof shall show that he or she maintains an established place of business as
+357 defined in Code Section 43-47-2. Any used motor vehicle dealer other than a motor
+H. B. 551
+- 14 -
+25 LC 39 4630
+358 vehicle broker shall demonstrate that such established place of business has five or more
+359 used motor vehicles on display for purchase or exchange."
+360 SECTION 10.
+361 Code Section 48-5C-1 of the Official Code of Georgia Annotated, relating to alternative ad
+362 valorem tax on motor vehicles, is amended by adding a new paragraph to subsection (a), by
+363 revising paragraph (9) of subsection (d), and by adding a new subsection to read as follows:
+364 "(3.1) 'Passive entity' means a person, other than an individual, formed under the laws
+365 of another state that does not have an established place of business in this state, owns no
+366 real property, and conducts no trade or business other than the holding of assets for
+367 investment and income."
+368 "(9)(A) Any owner of any motor vehicle who fails to submit within 30 days of the date
+369 such owner is required by law to register such vehicle in this state an application for a
+370 first certificate of title under Code Section 40-3-21 or a certificate of title under Code
+371 Section 40-3-32 shall be required to pay a penalty in the amount of 10 percent of the
+372 state title ad valorem tax fees and 10 percent of the local title ad valorem tax fees
+373 required under this Code section and, if such state and local title ad valorem tax fees
+374 and the penalty are not paid within 60 days following the date such owner is required
+375 by law to register such vehicle, interest at the rate of 1 percent per month shall be
+376 imposed on the state and local title ad valorem tax fees due under this Code section,
+377 unless a temporary permit has been issued by the tax commissioner. The tax
+378 commissioner shall grant a temporary permit in the event the failure to timely apply for
+379 a first certificate of title is due to the failure of a lienholder to comply with Code
+380 Section 40-3-56, regarding release of a security interest or lien, and no penalty or
+381 interest shall be assessed. Such penalty and interest shall be in addition to the penalty
+382 and fee required under Code Section 40-3-21 or 40-3-32, as applicable.
+H. B. 551
+- 15 -
+25 LC 39 4630
+383 (B) The penalties provided for in subparagraph (A) of this paragraph shall be double
+384 for any resident of this state who owns at least 50 percent of a passive entity that owns
+385 a motor vehicle that fails to submit within 60 days of the date such owner is required
+386 by law to register such vehicle in this state an application for a first certificate of title
+387 under Code Section 40-3-21 or a certificate of title under Code Section 40-3-32 and
+388 register such vehicle."
+389 "(h) The commissioner shall be authorized in his or her sole discretion to share information
+390 obtained for purposes of this Code section with the board established pursuant to
+391 Chapter 47 of Title 43. Any confidential information furnished pursuant to this Code
+392 section shall retain its character as confidential. Any person who divulges confidential
+393 information obtained pursuant to this Code section shall be subject to the same penalties
+394 as those provided for divulgence of information by employees of the department."
+395 SECTION 11.
+396 This Act shall become effective on January 1, 2026.
+397 SECTION 12.
+398 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 551
+- 16 -
+[DELETED: 5L6,4,1,htht3,5dt r t o t s l b i s f]
+[DELETED: 5L]
+[DELETED: 5L i o p u t c a p f t t p i r b C S a b C S 4 R P a t o p a p f b i r p h b g a p b C]
+[DELETED: 5L  A s a d o t o p s m a d t s o t t o s n b s t t p]
+[DELETED: 5L]
+[DELETED: 5L b r o r f s f a a t a e  T d s b a t s a t t e b s o i t b r o o v r f u c f a s t w o p]
+[DELETED: 5L s o r a r o t d t d s b]
+[DELETED: 5L d l p p w t a l i t b u t d l p  I a w C S 4]
+[DELETED: 5L m d a d a i o m m t m s o l b t u f p b t f s p a p t a f o $ w s]
+[DELETED: 5L  T l p i p t t C s s b r a w i m s i r t l o s p t l l]
+[DELETED: 5L]
+[DELETED: 5L  T m v r w t c o t c d  T b e p t C 4 o T 4 f c o i]
+[DELETED: 5L a i t s p t o t c o a t a i a t s n m v o o f s m]
+[DELETED: 5L  T d i a t p r a r n t S 4 o t O C o G A r t l f u m v d a u m v p d f c o f s a m i a b r]
+[DELETED: 5L a t p h b i b t t c  T t]
+[DELETED: 5L f p o t C s w t b e p t]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4630
+House Bill 551
+By: Representatives Ridley of the 6th, Corbett of the 174th, Jasperse of the 11th, Mathis of the
+133rd, and Jones of the 25th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles and
+2 traffic, so as to provide for conditions, procedures, and limitations for issuance of temporary
+3 operating permits for motor vehicles; to revise provisions relative to the operation of an
+4 unregistered motor vehicle or vehicle without a current license plate, revalidation decal,
+5 county decal, or temporary operating permit; to authorize the development and maintenance
+6 by third parties of an electronic temporary operating permit issuance system for issuance of
+7 temporary operating permits; to provide for utilization of such system by dealers for issuance
+8 of temporary operating permits; to provide for the suspension of access to such system by
+9 the department for certain violations; to authorize access to certain information with the State
+10 Board of Registration of Used Motor Vehicle Dealers and Used Motor Vehicle Parts Dealers
+11 for certain purposes; to revise a definition; to provide for notice and hearings; to amend Code
+12 Section 43-47-8 of the Official Code of Georgia Annotated, relating to license applications
+13 for used motor vehicle dealers and used motor vehicle parts dealers, prerequisites, license
+14 fees, renewal, training or test, supplemental licenses, bonds, insurance, suspension for
+15 conviction or false statement, and meetings, so as to provide for issuance or renewal of a
+16 license for certain used motor vehicle dealers; to amend Code Section 48-5C-1 of the Official
+17 Code of Georgia Annotated, relating to alternative ad valorem tax on motor vehicles, so as
+18 to provide for enhanced penalty for an owner of a passive entity that fails to pay alternative
+H. B. 551
+- 1 -
+
+25 LC 39 4630
+19 ad valorem tax; to provide for a definition; to provide for an effective date; to provide for
+20 related matters; to repeal conflicting laws; and for other purposes.
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+22 SECTION 1.
+23 Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles and traffic, is
+24 amended by revising Code Section 40-2-8, relating to operation of unregistered vehicle or
+25 vehicle without current license plate, revalidation decal, or county decal and temporary
+26 operating permit issued by dealers of new or used motor vehicles, as follows:
+27 "40-2-8.
+28 (a) No person shall own, rent, lease, loan, or operate any vehicle required to be registered
+29 pursuant to Code Section 40-2-20 upon a highway in this state without registering such
+30 vehicle. Any person who becomes a resident of this state shall register his or her vehicle
+31 within 30 days of becoming a resident. Each day that a vehicle is in violation of this Code
+32 section shall be deemed to be a separate and distinct offense. Any person convicted of such
+33 offense shall be guilty of a misdemeanor and punished by a fine of $100.00 for each
+34 violation. Any person owning or operating any vehicle described in Code Section 40-2-20
+35 on any public highway or street without complying with that Code section shall be guilty
+36 of a misdemeanor, provided that a person shall register his or her motor vehicle within 30
+37 days after becoming a resident of this state. Any person renting, leasing, or loaning any
+38 vehicle described in Code Section 40-2-20 which is being used on any public highway or
+39 street without complying with that Code section shall be guilty of a misdemeanor and, upon
+40 conviction thereof, shall be punished by a fine of $100.00 for each violation; and each day
+41 that such vehicle is operated in violation of Code Section 40-2-20 shall be deemed to be
+42 a separate and distinct offense.
+H. B. 551
+- 2 -
+
+25 LC 39 4630
+43 (b)(1) It shall be unlawful and punishable as for a misdemeanor to operate any vehicle
+44 required to be registered in this state pursuant to Code Section 40-2-20 without a valid
+45 numbered license plate properly validated with a current revalidation decal, unless such
+46 operation is otherwise permitted under this chapter; and provided, further, that the
+47 purchaser of a new vehicle or a used vehicle from a dealer of new or used motor vehicles
+48 who displays a temporary operating permit issued as provided by paragraph (2) of this
+49 subsection Code Section 40-2-8.1 may operate such vehicle on the public highways and
+50 streets of this state without a current valid license plate during the period within which
+51 the purchaser is required by Code Section authorized by Code Sections 40-2-8.1
+52 and 40-2-20. An owner acquiring a motor vehicle from an entity that is not a new or used
+53 vehicle dealer shall register such vehicle as provided for in Code Section 40-2-29 unless
+54 such vehicle is to be registered under the International Registration Plan pursuant to
+55 Article 3A of this chapter.
+56 (2)(A) Any dealer of new or used motor vehicles shall issue to the purchaser of a
+57 vehicle at the time of sale thereof, unless such vehicle is to be registered under the
+58 International Registration Plan, a temporary operating permit as provided for by
+59 department rules or regulations which may bear the dealer's name and location and shall
+60 bear an expiration date 45 days from the date of purchase. The expiration date of such
+61 a temporary operating permit may be revised and extended by the county tag agent
+62 upon application by the dealer, the purchaser, or the transferee if an extension of the
+63 purchaser's initial registration period has been granted as provided by Code
+64 Section 40-2-20. Such temporary operating permit shall not resemble a license plate
+65 issued by this state and shall be issued without charge or fee. The requirements of this
+66 paragraph shall not apply to a dealer whose primary business is the sale of salvage
+67 motor vehicles and other vehicles on which total loss claims have been paid by insurers.
+68 (B) All temporary operating permits issued by dealers to purchasers of vehicles shall
+69 be of a standard design prescribed by regulation promulgated by the department. The
+H. B. 551
+- 3 -
+
+25 LC 39 4630
+70 department may provide by rule or regulation for the sale and distribution of such
+71 temporary operating permits by third parties in accordance with paragraph (3) of this
+72 subsection.
+73 (3) All sellers and distributors of temporary operating permits shall maintain an
+74 inventory record of temporary operating permits by number and name of the dealer.
+75 (4)(2) The purchaser and operator of a vehicle shall not be subject to the penalties set
+76 forth in this Code section during the period allowed for the registration of such vehicle.
+77 If the owner of such vehicle presents evidence that such owner has properly applied for
+78 the registration of such vehicle, but that the license plate or revalidation decal has not
+79 been delivered to such owner, then the owner shall not be subject to the penalties
+80 enumerated in this subsection.
+81 (c) It shall be unlawful and punishable as for a misdemeanor to operate any vehicle
+82 required to be registered in the State of Georgia this state without a valid county decal
+83 designating the county where the vehicle was last registered, unless such operation is
+84 otherwise permitted under this chapter. Any person convicted of such offense shall be
+85 punished by a fine of $25.00 for a first offense and $100.00 for a second or subsequent
+86 such offense. However, a A county name decal shall not be required if there is no space
+87 provided for a county name decal on the current license plate. Any person convicted of a
+88 violation of this subsection shall be subject to a fine not to exceed $25.00 if that person
+89 shows to the court having jurisdiction of the offense that the proper revalidation decal had
+90 been obtained prior to the time of the offense.
+91 (d) No violation of this Code section shall have occurred upon presentation of evidence
+92 that the owner had properly applied for the registration of such vehicle, but that the license
+93 plate or revalidation decal had not been delivered to such owner at the time the uniform
+94 traffic citation was issued.
+95 (e) The commissioner is authorized to promulgate rules and regulations necessary to
+96 effectuate the provisions of this Code section."
+H. B. 551
+- 4 -
+
+25 LC 39 4630
+97 SECTION 2.
+98 Said title is further amended by revising Code Section 40-2-8.1, relating to operation of
+99 vehicle without revalidation decal on license plate, as follows:
+100 "40-2-8.1.
+101 Notwithstanding Code Section 40-2-8 or any other provision of law, a person who operates
+102 a vehicle which is required to be registered in this state and which has attached to the rear
+103 thereof a valid numbered license plate without having the required revalidation decal
+104 affixed upon that plate, which person is otherwise guilty of a misdemeanor for not having
+105 such decal affixed to the plate, shall be subject for that offense only to a fine not to exceed
+106 $25.00 if that person shows to the court having jurisdiction of the offense that the proper
+107 revalidation decal had been obtained prior to the time of the offense.
+108 (a) Any dealer of new or used motor vehicles shall issue a temporary operating permit
+109 without charge or fee to the purchaser of a vehicle at the time of sale thereof, unless such
+110 vehicle is to be registered under the International Registration Plan or such dealer is one
+111 whose primary business is the sale of salvage motor vehicles and other vehicles on which
+112 total loss claims have been paid by insurers. Such temporary operating permit shall be of
+113 a standard design prescribed the department; provided, however, that such permit shall not
+114 resemble a license plate issued by this state. A temporary operating permit may bear the
+115 name of the dealer and location and shall include an expiration date which shall be 45 days
+116 from the date of purchase. The expiration date of a temporary operating permit may be
+117 revised and extended by the county tag agent upon application by the dealer, purchaser, or
+118 transferee if an extension of the purchaser's initial registration period has been granted as
+119 provided by Code Section 40-2-20.
+120 (b)(1) The department may provide by rule or regulation for the sale and distribution of
+121 temporary operating permits to dealers by third parties through the development and
+122 maintenance of an electronic temporary operating permit issuance system and establish
+123 standards for distribution and issuance of such permits. The department may further
+H. B. 551
+- 5 -
+
+25 LC 39 4630
+124 provide by rule or regulation for standards for authorized access to an electronic
+125 temporary operating permit issuance system, which may include, but shall not be limited
+126 to, required criminal background checks for any user of the system. Any third party
+127 authorized to sell and distribute temporary operating permits shall maintain an inventory
+128 record of such permits by number and name of the dealer.
+129 (2)(A) The department shall be authorized to suspend access to the electronic
+130 temporary operating permit issuance system established pursuant to this Code section
+131 for any dealer found to have issued temporary operating permits for a vehicle which has
+132 not been sold or intended to be registered or otherwise violated requirements for
+133 issuance of such permits established by rule or regulation of the department after
+134 issuance of notice of such violation by electronic means and opportunity for informal
+135 review as set forth in this subparagraph. Any dealer who has received notice pursuant
+136 to this subsection of an alleged violation and for whom the department intends to
+137 suspend access to the electronic temporary operating permit issuance system may
+138 request an informal review of the allegations with the department. The method for
+139 making such request shall be developed by the department and may be by electronic
+140 means. Upon receipt of such request for informal review, the department shall, within
+141 ten business days, schedule an informal conference with such dealer to review the
+142 suspected violations. Proceedings under this subparagraph shall not be governed by
+143 any formal procedural requirements and may be conducted in such manner as the
+144 department may establish by rule or regulation. The department shall consider the
+145 historical use of the electronic temporary operating permit issuance system by the
+146 dealer under consideration for access suspension, together with other pertinent
+147 information which may be available, and shall render a decision regarding access to the
+148 electronic temporary operating permit issuance system within seven business days of
+149 the informal conference. Upon a finding that such dealer violated the requirements of
+150 this Code section or rules and regulations of the department, the department shall be
+H. B. 551
+- 6 -
+
+25 LC 39 4630
+151 authorized to impose fines or fees as provided by law. The department shall not be
+152 authorized to suspend access to the temporary operating permit system unless the
+153 department finds a dealer to be substantially out of compliance with the requirements
+154 of this Code section or the rules and regulations of the department and such dealer has
+155 failed to produce satisfactory evidence of extenuating circumstances to justify such
+156 noncompliance.
+157 (B) If the department suspends a dealer's access to the electronic temporary operating
+158 permit issuance system established pursuant to this Code section after an informal
+159 review held pursuant to subparagraph (A) of this paragraph, the suspended dealer shall
+160 have the right to a formal hearing to review the suspension pursuant to Code Section
+161 40-3-6. Such hearing shall be held within 30 days of the department's decision to
+162 suspend the dealer's access to the electronic termporary operating permit issuance
+163 system and shall be conducted in accordance with Chapter 13 of Title 50, the 'Georgia
+164 Administrative Procedure Act.' At such hearing, the department may present evidence
+165 of any instances in which the suspended dealer unlawfully issued temporary operating
+166 permits or issued fraudulent temporary operating permits. Upon a finding that the
+167 suspended dealer is in compliance with the requirements of this Code section and has
+168 issued temporary operating permits predominantly for bona fide motor vehicle sales,
+169 the department shall provide for the immediate restoration of access to the electronic
+170 temporary operating permit issuance system for such dealer but shall be authorized to
+171 impose fines or fees as provided by law for failure to comply with the requirements of
+172 this chapter. Upon a finding that the suspended dealer violated the requirements of this
+173 Code section or rules and regulations of the department, the department shall be
+174 authorized to extend the term of suspension for a period of up to 24 months. Upon a
+175 finding that a dealer has unlawfully issued temporary operating permits in violation of
+176 this chapter or rules and regulations of the department, the department shall further be
+177 authorized to issue a civil monetary penalty in an amount no greater than $100.00 per
+H. B. 551
+- 7 -
+
+25 LC 39 4630
+178 violation, suspend or revoke the registration issued to a dealer pursuant to Code Section
+179 40-2-39, and suspend, confiscate, or limit issuance of any dealer plates issued pursuant
+180 to Code Section 40-2-38 for a period of up to 24 months. The department shall comply
+181 with Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act,' in relation to
+182 the expedited review provided for in this subparagraph and the suspended dealer shall
+183 have the right to appeal any decision of the department in accordance with such chapter.
+184 (c) The commissioner is authorized to promulgate rules and regulations necessary to
+185 effectuate the provisions of this Code section."
+186 SECTION 3.
+187 Said title is further amended in Code Section 40-2-33, relating to issuance of license plates
+188 and decals, transfer of registration to a digital license plate, compensation of tag agents, and
+189 required identification, by revising paragraph (3) of subsection (a) as follows:
+190 "(3) At the time of initial application for registration or at any time during the registration
+191 period, a vehicle owner may file with the county tag agent, on a form or electronic form
+192 prescribed by the commissioner, a request to have a vehicle license plate duplicated on
+193 a digital license plate purchased from a digital license plate provider. Such request to the
+194 county tag agent shall include all applicable registration fees. Upon approving the
+195 application provided in this paragraph, the commissioner or county tag agent shall furnish
+196 the digital license plate provider with the appropriate licensing information to be
+197 displayed upon the digital license plate. In accordance with Code Section 40-2-8
+198 40-2-8.1, a 45 day temporary operating permit shall be issued by the commissioner or
+199 county tag agent to an applicant for a digital license plate until such license plate is
+200 received by the applicant."
+H. B. 551
+- 8 -
+
+25 LC 39 4630
+201 SECTION 4.
+202 Said title is further amended in Code Section 40-2-38, relating to registration and licensing
+203 of manufacturers, distributors, and dealers and issuance of manufacturer, manufacturer
+204 headquarters, distributor, and dealer plates, by revising paragraph (1) of subsection (a) and
+205 subsections (c) through (f) as follows:
+206 "(a)(1) Manufacturers, manufacturer headquarters, distributors, and dealers engaged in
+207 the manufacture, sale, or leasing of vehicles required to be registered under Code Section
+208 40-2-20 shall register by electronic means with the commissioner, making application for
+209 a distinguishing dealer's number, specifying the name and make of motor vehicle, tractor,
+210 or trailer manufactured, sold, or leased by them, upon forms prepared by the
+211 commissioner for such purposes, and pay therefor a fee of $62.00, which shall
+212 accompany such application. Upon payment of such fee by a dealer an applicant, the
+213 commissioner shall furnish to the dealer one master number plate to expire each year in
+214 accordance with subsection (f) of this Code section, to be known as a dealer's number and
+215 to based upon the type of master number plate issued. Each additional plate issued
+216 pursuant to this Code section shall require payment of a $12.00 fee. Each master number
+217 plate and any additional plates issued pursuant to this Code section shall be distinguished
+218 from the number license plates provided for in this chapter by different and distinguishing
+219 colors to be determined by the commissioner. The dealer plate for a franchise motor
+220 vehicle dealer shall be distinguishable from the dealer plate for a used car dealer and from
+221 the dealer plate for a motor vehicle wholesaler. Except as otherwise authorized by this
+222 Code section, a dealer's master number plate or additional plates issued pursuant to this
+223 Code section shall be A dealer's number plate is for the purpose of demonstrating or
+224 transporting the dealer's vehicles or trailers for sale or lease. Persons engaged in the
+225 business of transporting vehicles for a dealer under a vehicle's own power shall be
+226 permitted to use such dealer's plate for the purpose of transporting a vehicle."
+227 "(c) This Code section shall not apply in any manner to mopeds.
+H. B. 551
+- 9 -
+
+25 LC 39 4630
+228 (d)(c) The license plates issued pursuant to this Code section shall be revoked and
+229 confiscated upon a determination after a hearing that such dealer, distributor, manufacturer,
+230 or manufacturer headquarters has unlawfully used such license plates in violation of this
+231 Code section.
+232 (e)(d) If a license plate issued pursuant to this Code section is lost or stolen, the dealer,
+233 manufacturer, distributor, manufacturer headquarters, or other party to whom the license
+234 plate was issued must shall immediately report the lost or stolen plate to local law
+235 enforcement agencies. If a replacement license plate is sought, the dealer, manufacturer,
+236 distributor, manufacturer headquarters, or other party to whom the license plate was issued
+237 shall file a notarized affidavit with the department requesting a replacement plate. Such
+238 affidavit shall certify under penalty of perjury that the license plate has been lost or stolen
+239 and that the loss has been reported to a local law enforcement agency.
+240 (f)(1)(e) Except as otherwise provided for in this Code section, the The expiration of a
+241 license plate issued pursuant to this Code section shall be the last day of the registration
+242 period as provided in division (a)(1)(A)(ii) of Code Section 40-2-21, except that for the
+243 purposes of this subsection, the registration period shall be determined by the first letter of
+244 the legal name of the business listed on the application for registration or renewal of
+245 registration. An application for renewal of registration shall not be submitted earlier than
+246 90 days prior to the last day of the registration period. A penalty of 25 percent of the total
+247 registration fees due shall be assessed any person registering pursuant to this Code section
+248 who, prior to the expiration of such person's registration period, fails to apply for renewal
+249 or if having applied fails to pay the required fees.
+250 (2) A transition period shall commence on October 1, 2007, and conclude on December
+251 31, 2007, for all existing registrations and any new registration applications presented
+252 prior to January 1, 2008. On or after January 1, 2008, new applications for registration
+253 shall be submitted and remain valid until the expiration of such registration as specified
+254 in paragraph (1) of this subsection."
+H. B. 551
+- 10 -
+
+25 LC 39 4630
+255 SECTION 5.
+256 Said title is further amended in Code Section 40-2-39, relating to registration and licensing
+257 of new motor vehicle dealers, temporary site permits, administrative fines, and penalty, by
+258 revising paragraph (3) of subsection (a) as follows:
+259 "(3) 'Established place of business' means a permanent salesroom or sales office of a new
+260 motor vehicle dealer, which permanent salesroom or sales office is located in a permanent
+261 building on an open lot and which is marked by an appropriate sign and at which a
+262 permanent business of bartering, trading, or selling of at least five new motor vehicles is
+263 carried on in good faith at any one time."
+264 SECTION 6.
+265 Said title is further amended in Code Section 40-2-130, relating to records of certificates of
+266 registration, by revising subsection (c) as follows:
+267 "(c) The motor vehicle registration records which the commissioner is required to maintain
+268 under this Code section or any other provision are exempt from the provisions of any law
+269 of this state requiring that such records be open for public inspection; provided, however,
+270 that, subject to subsection (d) of this Code section, the records may be disclosed for use as
+271 provided in the federal Driver's Privacy Protection Act of 1994, 18 U.S.C. Chapter 123, and
+272 by the following:
+273 (1) Any licensed dealer of new or used motor vehicles;
+274 (2) Any tax collector, tax receiver, or tax commissioner;
+275 (3) The director of the Environmental Protection Division of the Department of Natural
+276 Resources or his or her designee;
+277 (4) Any private person who has met the requirements of Code Section 40-2-25, provided
+278 that the information shall be used for the sole purpose of effectuating the registration or
+279 renewal of motor vehicles by electronic or similar means and that the private person
+280 requesting the information has entered into an agreement to provide electronic services
+H. B. 551
+- 11 -
+
+25 LC 39 4630
+281 to the commissioner or a county tag agent; provided, further, that the information made
+282 available pursuant to this paragraph for such purpose shall be limited to the vehicle
+283 identification number, the license tag number, the date of expiration of registration, and
+284 the amount of tax owed; and
+285 (5) A person or entity authorized by the commissioner for use in providing notice to the
+286 owners of towed or impounded vehicles; and
+287 (6) The board established pursuant to Chapter 47 of Title 43 for use in carrying out its
+288 functions."
+289 SECTION 7.
+290 Said title is further amended in Code Section 40-3-23, relating to issuance of certificate of
+291 title, maintenance of record of certificates issued, public inspection, furnishing records for
+292 fee, and electronic format, by revising subsection (d) as follows:
+293 "(d) The motor vehicle records which the commissioner or the commissioner's duly
+294 authorized county tag agent is required to maintain under this Code section or any other
+295 provision are exempt from the provisions of any law of this state requiring that such
+296 records be open for public inspection; provided, however, that, subject to subsection (f) of
+297 this Code section, the records may be disclosed for use as provided in the federal Driver's
+298 Privacy Protection Act of 1994, 18 U.S.C. Chapter 123, and by the following:
+299 (1) Any licensed dealer of new or used motor vehicles;
+300 (2) Any tax collector, tax receiver, or tax commissioner; and
+301 (3) A person or entity authorized by the commissioner for use in providing notice to the
+302 owners of towed or impounded vehicles; and
+303 (4) The board established pursuant to Chapter 47 of Title 43 for carrying out its
+304 functions."
+H. B. 551
+- 12 -
+
+25 LC 39 4630
+305 SECTION 8.
+306 Said title is further amended in Code Section 40-3-33, relating to transfer of vehicle to or
+307 from dealer, records to be kept by dealers, electronic filing, and application for title where
+308 dealer located, by revising subsections (a) and (b) and by adding new subsections to read as
+309 follows:
+310 "(a)(1) Except as provided in paragraph (2) of this subsection, a dealer who buys a
+311 vehicle and holds it for resale need not apply to the commissioner for a new certificate
+312 of title but may retain the delivered certificate delivered to him. Upon transferring the
+313 vehicle to another person other than by the creation of a security interest, such dealer
+314 shall promptly execute the assignment and warranty of title by a dealer. Such assignment
+315 and warranty shall show the names and addresses of the transferee and any holder of a
+316 security interest created or reserved at the time of the resale and the date of his the
+317 security agreement, in the spaces provided therefor on the certificate or as the
+318 commissioner prescribes. Transfers of vehicles under this Code section shall otherwise
+319 conform with Code Section 40-3-32. A dealer selling a previously registered vehicle for
+320 which under this chapter need not have a certificate of title is not required under this
+321 chapter need not furnish a purchaser of such a vehicle a certificate of title. After a
+322 previously registered vehicle has been brought under the terms of this chapter, a dealer,
+323 when selling that vehicle, shall conform to all provisions of this chapter.
+324 (2)(A) As used in this paragraph, the term 'franchise dealer' means a dealer who under
+325 a contract or franchise agreement with a manufacturer, distributor, wholesaler, or
+326 importer is authorized to sell new motor vehicles of or for such manufacturer,
+327 distributor, wholesaler, or importer and who is authorized to use trademarks or service
+328 marks associated with one or more makes of motor vehicles in connection with such
+329 sales.
+330 (B) A dealer who is not a franchise dealer who acquires a vehicle for which the original
+331 certificate of title has not been issued and who holds such vehicle for resale shall not
+H. B. 551
+- 13 -
+
+25 LC 39 4630
+332 be exempt from the requirement to obtain a certificate of title in such dealer's name as
+333 provided in paragraph (1) of this subsection. Such dealer shall, as provided in Code
+334 Section 40-3-32, obtain a certificate of title in such dealer's name prior to selling or
+335 otherwise transferring said vehicle to any other person or dealer.
+336 (b) Every dealer shall maintain a record, in the form the commissioner prescribes, of every
+337 vehicle bought, sold, or exchanged by him, or received by him for sale or exchange. Such
+338 record shall be kept for three years and shall be open to inspection by a representative of
+339 the commissioner during reasonable business hours. The information contained in records
+340 maintained by a dealer pursuant to this subsection shall be an accurate representation of the
+341 transaction, and no alternative versions of records shall be produced for a purchaser with
+342 information which differs from that contained in records maintained for inspection by the
+343 department."
+344 "(f) The department shall be authorized to assess a civil penalty against a dealer of up to
+345 $500.00 for each sales transaction conducted in violation of subsection (b) of this Code
+346 section.
+347 (g) The department is authorized to promulgate rules and regulations necessary to
+348 effectuate the provisions of this Code section."
+349 SECTION 9.
+350 Code Section 43-47-8 of the Official Code of Georgia Annotated, relating to license
+351 applications for used motor vehicle dealers and used motor vehicle parts dealers,
+352 prerequisites, license fees, renewal, training or test, supplemental licenses, bonds, insurance,
+353 suspension for conviction or false statement, and meetings, is amended by revising
+354 subsection (b) as follows:
+355 "(b) A division under this chapter shall not issue or renew any license unless the applicant
+356 or holder thereof shall show that he or she maintains an established place of business as
+357 defined in Code Section 43-47-2. Any used motor vehicle dealer other than a motor
+H. B. 551
+- 14 -
+
+25 LC 39 4630
+358 vehicle broker shall demonstrate that such established place of business has five or more
+359 used motor vehicles on display for purchase or exchange."
+360 SECTION 10.
+361 Code Section 48-5C-1 of the Official Code of Georgia Annotated, relating to alternative ad
+362 valorem tax on motor vehicles, is amended by adding a new paragraph to subsection (a), by
+363 revising paragraph (9) of subsection (d), and by adding a new subsection to read as follows:
+364 "(3.1) 'Passive entity' means a person, other than an individual, formed under the laws
+365 of another state that does not have an established place of business in this state, owns no
+366 real property, and conducts no trade or business other than the holding of assets for
+367 investment and income."
+368 "(9)(A) Any owner of any motor vehicle who fails to submit within 30 days of the date
+369 such owner is required by law to register such vehicle in this state an application for a
+370 first certificate of title under Code Section 40-3-21 or a certificate of title under Code
+371 Section 40-3-32 shall be required to pay a penalty in the amount of 10 percent of the
+372 state title ad valorem tax fees and 10 percent of the local title ad valorem tax fees
+373 required under this Code section and, if such state and local title ad valorem tax fees
+374 and the penalty are not paid within 60 days following the date such owner is required
+375 by law to register such vehicle, interest at the rate of 1 percent per month shall be
+376 imposed on the state and local title ad valorem tax fees due under this Code section,
+377 unless a temporary permit has been issued by the tax commissioner. The tax
+378 commissioner shall grant a temporary permit in the event the failure to timely apply for
+379 a first certificate of title is due to the failure of a lienholder to comply with Code
+380 Section 40-3-56, regarding release of a security interest or lien, and no penalty or
+381 interest shall be assessed. Such penalty and interest shall be in addition to the penalty
+382 and fee required under Code Section 40-3-21 or 40-3-32, as applicable.
+H. B. 551
+- 15 -
+
+25 LC 39 4630
+383 (B) The penalties provided for in subparagraph (A) of this paragraph shall be double
+384 for any resident of this state who owns at least 50 percent of a passive entity that owns
+385 a motor vehicle that fails to submit within 60 days of the date such owner is required
+386 by law to register such vehicle in this state an application for a first certificate of title
+387 under Code Section 40-3-21 or a certificate of title under Code Section 40-3-32 and
+388 register such vehicle."
+389 "(h) The commissioner shall be authorized in his or her sole discretion to share information
+390 obtained for purposes of this Code section with the board established pursuant to
+391 Chapter 47 of Title 43. Any confidential information furnished pursuant to this Code
+392 section shall retain its character as confidential. Any person who divulges confidential
+393 information obtained pursuant to this Code section shall be subject to the same penalties
+394 as those provided for divulgence of information by employees of the department."
+395 SECTION 11.
+396 This Act shall become effective on January 1, 2026.
+397 SECTION 12.
+398 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 551
+- 16 -
+
+[DELETED: 5L6,4,1,htht3,5dt r t o t s l b i s f]
+[DELETED: 5L]
+[DELETED: 5L i o p u t c a p f t t p i r b C S a b C S 4 R P a t o p a p f b i r p h b g a p b C]
+[DELETED: 5L  A s a d o t o p s m a d t s o t t o s n b s t t p]
+[DELETED: 5L]
+[DELETED: 5L b r o r f s f a a t a e  T d s b a t s a t t e b s o i t b r o o v r f u c f a s t w o p]
+[DELETED: 5L s o r a r o t d t d s b]
+[DELETED: 5L d l p p w t a l i t b u t d l p  I a w C S 4]
+[DELETED: 5L m d a d a i o m m t m s o l b t u f p b t f s p a p t a f o $ w s]
+[DELETED: 5L  T l p i p t t C s s b r a w i m s i r t l o s p t l l]
+[DELETED: 5L]
+[DELETED: 5L  T m v r w t c o t c d  T b e p t C 4 o T 4 f c o i]
+[DELETED: 5L a i t s p t o t c o a t a i a t s n m v o o f s m]
+[DELETED: 5L  T d i a t p r a r n t S 4 o t O C o G A r t l f u m v d a u m v p d f c o f s a m i a b r]
+[DELETED: 5L a t p h b i b t t c  T t]
+[DELETED: 5L f p o t C s w t b e p t]

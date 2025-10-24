@@ -1,0 +1,149 @@
+Title: House Bill 149
+Official Title: House Bill 149
+Number of Sections: 1
+Source: versions - LC 52 0600/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0600
+By: Representatives Barnes of the 86th, Hugley of the 141st, Oliver of the 84th, Au of the 50th,
+Buckner of the 137th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the
+2 Department of Public Health, so as to provide for a three-year pilot program for a mobile
+3 health clinic to provide postpartum care in certain counties; to provide for definitions; to
+4 provide for reports; to provide for contingent effectiveness and automatic repeal; to provide
+5 for related matters; to provide for a short title; to provide for an effective date; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "Healthy Mothers Now Act."
+10 SECTION 2.
+11 Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the Department
+12 of Public Health, is amended by adding a new Code section to read as follows:
+13 "31-2A-21.
+14 (a) For purposes of this Code section, the term:
+H. B. 149
+- 1 -
+25 LC 52 0600
+15 (1) 'Limited maternity care county' means a county in this state that has fewer than two
+16 hospitals or birth centers offering obstetric care or fewer than 60 obstetric providers per
+17 10,000 births.
+18 (2) 'Maternity care desert' means a county in this state that does not have a hospital or
+19 birth center offering obstetric care or an obstetric provider.
+20 (3) 'Obstetric provider' means a licensed physician or licensed advanced practice
+21 registered nurse who practices in obstetrics and gynecology.
+22 (4) 'Postpartum care' means healthcare for a woman for a period of one year following
+23 a birth, miscarriage, stillbirth, or neonatal death. Such term includes physiological
+24 assessments, mental health evaluations, nutritional evaluations, and guidance on personal
+25 and newborn care. Such term includes at least four visits with an obstetric provider as
+26 follows:
+27 (A) An initial visit within 24 hours of a birth, miscarriage, stillbirth, or neonatal death;
+28 (B) A follow-up visit within the first three weeks postpartum;
+29 (C) A follow-up visit within the first eight weeks postpartum;
+30 (D) A comprehensive visit no later than 12 weeks postpartum; and
+31 (E) Intermediary and ongoing care as needed.
+32 (b) The department shall conduct a three-year pilot program for the purpose of providing
+33 postpartum care through mobile health clinics in limited maternity care counties and
+34 maternity care deserts.
+35 (c) No later than June 30, 2026, and annually for the duration of the pilot program, the
+36 department shall submit a detailed written report on the implementation and effectiveness
+37 of the pilot program to the Governor, the Speaker of the House of Representatives, the
+38 President of the Senate, and the chairpersons of the House Committee on Public Health and
+39 the Senate Health and Human Services Committee. The final report shall include
+40 recommendations as to expansion of the pilot program state wide and changes to state law
+41 or policy relative to such recommendations.
+H. B. 149
+- 2 -
+25 LC 52 0600
+42 (d) This Code section shall be contingent upon appropriations made by the General
+43 Assembly specifically for the department for such purposes and shall stand repealed by
+44 operation of law on June 30, 2029."
+45 SECTION 3.
+46 This Act shall become effective upon its approval by the Governor or upon its becoming law
+47 without such approval.
+48 SECTION 4.
+49 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 149
+- 3 -
+[DELETED: 5L6,1,4,0hsttht7,]
+[DELETED: 5L  ' p m a l p o l a p S H a H S C  T f r s i]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0600
+House Bill 149
+By: Representatives Barnes of the 86th, Hugley of the 141st, Oliver of the 84th, Au of the 50th,
+Buckner of the 137th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the
+2 Department of Public Health, so as to provide for a three-year pilot program for a mobile
+3 health clinic to provide postpartum care in certain counties; to provide for definitions; to
+4 provide for reports; to provide for contingent effectiveness and automatic repeal; to provide
+5 for related matters; to provide for a short title; to provide for an effective date; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "Healthy Mothers Now Act."
+10 SECTION 2.
+11 Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to the Department
+12 of Public Health, is amended by adding a new Code section to read as follows:
+13 "31-2A-21.
+14 (a) For purposes of this Code section, the term:
+H. B. 149
+- 1 -
+
+25 LC 52 0600
+15 (1) 'Limited maternity care county' means a county in this state that has fewer than two
+16 hospitals or birth centers offering obstetric care or fewer than 60 obstetric providers per
+17 10,000 births.
+18 (2) 'Maternity care desert' means a county in this state that does not have a hospital or
+19 birth center offering obstetric care or an obstetric provider.
+20 (3) 'Obstetric provider' means a licensed physician or licensed advanced practice
+21 registered nurse who practices in obstetrics and gynecology.
+22 (4) 'Postpartum care' means healthcare for a woman for a period of one year following
+23 a birth, miscarriage, stillbirth, or neonatal death. Such term includes physiological
+24 assessments, mental health evaluations, nutritional evaluations, and guidance on personal
+25 and newborn care. Such term includes at least four visits with an obstetric provider as
+26 follows:
+27 (A) An initial visit within 24 hours of a birth, miscarriage, stillbirth, or neonatal death;
+28 (B) A follow-up visit within the first three weeks postpartum;
+29 (C) A follow-up visit within the first eight weeks postpartum;
+30 (D) A comprehensive visit no later than 12 weeks postpartum; and
+31 (E) Intermediary and ongoing care as needed.
+32 (b) The department shall conduct a three-year pilot program for the purpose of providing
+33 postpartum care through mobile health clinics in limited maternity care counties and
+34 maternity care deserts.
+35 (c) No later than June 30, 2026, and annually for the duration of the pilot program, the
+36 department shall submit a detailed written report on the implementation and effectiveness
+37 of the pilot program to the Governor, the Speaker of the House of Representatives, the
+38 President of the Senate, and the chairpersons of the House Committee on Public Health and
+39 the Senate Health and Human Services Committee. The final report shall include
+40 recommendations as to expansion of the pilot program state wide and changes to state law
+41 or policy relative to such recommendations.
+H. B. 149
+- 2 -
+
+25 LC 52 0600
+42 (d) This Code section shall be contingent upon appropriations made by the General
+43 Assembly specifically for the department for such purposes and shall stand repealed by
+44 operation of law on June 30, 2029."
+45 SECTION 3.
+46 This Act shall become effective upon its approval by the Governor or upon its becoming law
+47 without such approval.
+48 SECTION 4.
+49 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 149
+- 3 -
+
+[DELETED: 5L6,1,4,0hsttht7,]
+[DELETED: 5L  ' p m a l p o l a p S H a H S C  T f r s i]
+[DELETED: 5L]

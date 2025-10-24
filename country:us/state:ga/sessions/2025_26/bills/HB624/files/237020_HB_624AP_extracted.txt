@@ -1,0 +1,94 @@
+Title: House Bill 624 (AS PASSED HOUSE AND SENATE)
+Official Title: House Bill 624 (AS PASSED HOUSE AND SENATE)
+Number of Sections: 1
+Source: versions - HB 624/AP*
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 44 2954/AP
+By: Representatives Smith of the 18th, Huddleston of the 72nd, Howard of the 71st, and Smith
+of the 70th
+A BILL TO BE ENTITLED
+AN ACT
+1 To authorize the assessment and collection of a technology fee by the State Court of Carroll
+2 County; to identify the authorized uses of such technology fee; to provide for the termination
+3 of such technology fee and dedication of residual funds; to provide for related matters; to
+4 repeal conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 (a) The clerk of the State Court of Carroll County is hereby authorized to charge and collect
+8 a technology fee to be set by the judge of the state court in an amount not to exceed $15.00
+9 for the filing of each civil action with the court and not to exceed $15.00 as a surcharge upon
+10 each fine assessed by the court. Such technology fees shall be used exclusively to provide
+11 for technological needs of the State Court of Carroll County. Such uses shall include only
+12 the following:
+13 (1) Computer hardware, software, and accessory purchases;
+14 (2) Lease, maintenance, and installation of computer hardware;
+15 (3) Purchase, lease, maintenance, and installation of imaging, scanning, facsimile,
+16 communications, projection, and printing equipment and software; and
+H. B. 624
+- 1 -
+25 LC 44 2954/AP
+17 (4) Procurement of services or equipment for the conversion of court records and
+18 archives to digital content for public access.
+19 (b) Funds collected pursuant to this section shall be maintained in a segregated account by
+20 the clerk of the state court, subject to audit by an auditor approved by the governing authority
+21 of Carroll County, and shall be used only for the purposes authorized in this section.
+22 (c) The authority to assess the technology fee pursuant to this Act shall terminate on
+23 July 1, 2035, and any residual funds remaining in the account established by subsection (b)
+24 of this section shall remain dedicated to general Carroll County technology uses.
+25 SECTION 2.
+26 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 624
+- 2 -
+[DELETED: 5L8,2,1,hnds0   P l m a i o i s f]
+[DELETED: 5L  P o s o e f t c o c r a]
+
+
+================================================================================
+
+Raw Text:
+25 LC 44 2954/AP
+House Bill 624 (AS PASSED HOUSE AND SENATE)
+By: Representatives Smith of the 18th, Huddleston of the 72nd, Howard of the 71st, and Smith
+of the 70th
+A BILL TO BE ENTITLED
+AN ACT
+1 To authorize the assessment and collection of a technology fee by the State Court of Carroll
+2 County; to identify the authorized uses of such technology fee; to provide for the termination
+3 of such technology fee and dedication of residual funds; to provide for related matters; to
+4 repeal conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 (a) The clerk of the State Court of Carroll County is hereby authorized to charge and collect
+8 a technology fee to be set by the judge of the state court in an amount not to exceed $15.00
+9 for the filing of each civil action with the court and not to exceed $15.00 as a surcharge upon
+10 each fine assessed by the court. Such technology fees shall be used exclusively to provide
+11 for technological needs of the State Court of Carroll County. Such uses shall include only
+12 the following:
+13 (1) Computer hardware, software, and accessory purchases;
+14 (2) Lease, maintenance, and installation of computer hardware;
+15 (3) Purchase, lease, maintenance, and installation of imaging, scanning, facsimile,
+16 communications, projection, and printing equipment and software; and
+H. B. 624
+- 1 -
+
+25 LC 44 2954/AP
+17 (4) Procurement of services or equipment for the conversion of court records and
+18 archives to digital content for public access.
+19 (b) Funds collected pursuant to this section shall be maintained in a segregated account by
+20 the clerk of the state court, subject to audit by an auditor approved by the governing authority
+21 of Carroll County, and shall be used only for the purposes authorized in this section.
+22 (c) The authority to assess the technology fee pursuant to this Act shall terminate on
+23 July 1, 2035, and any residual funds remaining in the account established by subsection (b)
+24 of this section shall remain dedicated to general Carroll County technology uses.
+25 SECTION 2.
+26 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 624
+- 2 -
+
+[DELETED: 5L8,2,1,hnds0   P l m a i o i s f]
+[DELETED: 5L  P o s o e f t c o c r a]

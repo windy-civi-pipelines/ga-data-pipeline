@@ -1,0 +1,342 @@
+Title: House Bill 323
+Official Title: House Bill 323
+Number of Sections: 1
+Source: versions - LC 46 1064/a
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 46 1064
+By: Representatives Mathiak of the 82nd, Hawkins of the 27th, Newton of the 127th, Dempsey
+of the 13th, Cooper of the 45th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 43 of Title 33 of the Official Code of Georgia Annotated, relating to
+2 Medicare supplement insurance, so as to provide for Medicare supplement policies to be
+3 issued and renewed for individuals under 65 years of age who are eligible by reason of
+4 disability or end stage renal disease under federal law; to provide for open enrollment
+5 periods; to prohibit an insurer from charging premium rates for such policies for such
+6 individuals that exceed premium rates charged for individuals who are 65 years of age; to
+7 provide for a short title; to provide for related matters; to provide for effective dates; to repeal
+8 conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Bridging the Gap for ALS and Chronic
+12 Kidney Disease Act of 2025."
+H. B. 323
+- 1 -
+25 LC 46 1064
+13 SECTION 2.
+14 Chapter 43 of Title 33 of the Official Code of Georgia Annotated, relating to Medicare
+15 supplement insurance, is amended by revising Code Section 33-43-3, relating to duplicate
+16 benefits prohibited and establishment of standards, as follows:
+17 "33-43-3.
+18 (a) As used in this Code section, the term '42 U.S.C. Section 426(b) or 421-1' means such
+19 federal law as it existed on January 1, 2025.
+20 (a)(b) No medicare Medicare supplement insurance policy or certificate in force in this
+21 state shall contain benefits which duplicate benefits provided by medicare Medicare.
+22 (b)(c) Notwithstanding any other provision of Georgia law, a medicare Medicare
+23 supplement policy or certificate shall not exclude or limit benefits for losses incurred more
+24 than six months from the effective date of coverage because it involved a preexisting
+25 condition. The policy or certificate shall not define a preexisting condition more
+26 restrictively than a condition for which medical advice was given or treatment was
+27 recommended by or received from a physician within six months before the effective date
+28 of coverage.
+29 (c)(d) The Commissioner shall adopt reasonable regulations to establish specific standards
+30 for policy provisions of medicare Medicare supplement policies and certificates. Such
+31 standards shall be in addition to and in accordance with applicable laws of this state. No
+32 requirement of this title relating to minimum required policy benefits, other than the
+33 minimum standards contained in this chapter, shall apply to medicare Medicare supplement
+34 policies and certificates. The standards shall cover, but shall not be limited to:
+35 (1) Terms of renewability;
+36 (2) Initial and subsequent conditions of eligibility;
+37 (3) Nonduplication of coverage;
+38 (4) Probationary periods;
+39 (5) Benefit limitations, exceptions, and reductions;
+H. B. 323
+- 2 -
+25 LC 46 1064
+40 (6) Elimination periods;
+41 (7) Requirements for replacement;
+42 (8) Recurrent conditions; and
+43 (9) Definitions of terms.
+44 (d)(e) The Commissioner shall adopt reasonable regulations to establish minimum
+45 standards for benefits, claims payment, marketing practices, compensation arrangements,
+46 and reporting practices for medicare Medicare supplement policies and certificates.
+47 (e)(f) The Commissioner may adopt from time to time such reasonable regulations as are
+48 necessary to conform medicare Medicare supplement policies and certificates to the
+49 requirements of federal law and regulations promulgated thereunder, including, but not
+50 limited to:
+51 (1) Requiring refunds or credits if the policies or certificates do not meet loss ratio
+52 requirements;
+53 (2) Establishing a uniform methodology for calculating and reporting loss ratios;
+54 (3) Assuring public access to policies, premiums, and loss ratio information of issuers
+55 of medicare Medicare supplement insurance;
+56 (4) Establishing a process for approving or disapproving policy forms, certificate forms,
+57 and proposed premium increases;
+58 (5) Establishing a policy for holding public hearings prior to approval of premium
+59 increases; and
+60 (6) Establishing standards for medicare Medicare select policies and certificates.
+61 (f)(g) The Commissioner may adopt reasonable regulations that specify prohibited policy
+62 provisions not otherwise specifically authorized by statute which, in the opinion of the
+63 Commissioner, are unjust, unfair, or unfairly discriminatory to any person individual
+64 insured or proposed to be insured under a medicare Medicare supplement policy or
+65 certificate.
+H. B. 323
+- 3 -
+25 LC 46 1064
+66 (g)(h) Insurers offering medicare Medicare supplement policies in this state to persons for
+67 individuals 65 years of age or older shall also offer medicare Medicare supplement policies
+68 to persons for individuals in this state who are eligible for and enrolled in medicare
+69 Medicare by reason of disability or end-stage end stage renal disease, as specified under
+70 42 U.S.C. Section 426(b) or 426-1. Such Medicare supplement policies shall be issued on
+71 a guaranteed renewable basis under which the insurer shall be required to continue
+72 coverage so long as premiums are paid on such policy. Except as otherwise provided in
+73 this Code section, all benefits, protections, policies, and procedures that apply to persons
+74 individuals 65 years of age or older shall also apply to persons individuals who are eligible
+75 for and enrolled in medicare Medicare by reason of disability or end-stage end stage renal
+76 disease, as specified under 42 U.S.C. Section 426(b) or 426-1.
+77 (h)(i) Persons may enroll in a medicare Medicare supplement policy at any time authorized
+78 or required by the federal government or within six months of:
+79 (1) Enrolling in medicare Medicare Part B for an individual who is under 65 years of age
+80 and is eligible for medicare Medicare because by reason of disability or end-stage end
+81 stage renal disease, as specified under 42 U.S.C. Section 426(b) or 426-1, whichever is
+82 later;
+83 (2) Receiving notice that such person individual has been retroactively enrolled in
+84 medicare Medicare Part B due to a retroactive eligibility decision made by the Social
+85 Security Administration; or
+86 (3) Experiencing a qualifying event identified in regulations adopted pursuant to
+87 subsection (c) of this Code section.
+88 (j) Beginning January 1, 2026, in addition to the provisions in subsection (i) of this Code
+89 section, an individual may enroll in a Medicare supplement policy when such individual
+90 is currently enrolled in Medicare by reason of disability or end stage renal disease, as
+91 specified under 42 U.S.C. Section 426(b) or 426-1, during a one-time open enrollment
+92 period of six months beginning on January 1, 2026.
+H. B. 323
+- 4 -
+25 LC 46 1064
+93 (i)(k) No policy or certificate issued pursuant to this chapter shall prohibit payment made
+94 by third parties on behalf of individual applicants or individuals within a group applicant
+95 so long as:
+96 (1) The third party is an immediate family member of a person lawfully exercising an
+97 in-force power of attorney or legal guardianship; or
+98 (2) The third party is a nonprofit, charitable organization that:
+99 (A) Is the named requestor of an advisory opinion issued by the United States
+100 Department of Health and Human Services (HHS) Office of Inspector General under
+101 the requirements of 42 C.F.R. Part 1008; and
+102 (B) Provides, upon request by the medicare Medicare supplement issuer, the specific
+103 advisory opinion relied upon by the third party to make such payment and a written
+104 certification that the advisory opinion is in full force and effect and has not been
+105 rescinded, modified, or terminated by the United States Department of Health and
+106 Human Services (HHS) Office of Inspector General.
+107 (j) Premiums for medicare supplemental insurance policies may differ between persons
+108 who qualify for medicare who are 65 years of age or older and those who qualify for
+109 medicare who are younger than 65 years of age; provided, however, that such differences
+110 in premiums shall not be excessive, inadequate, or unfairly discriminatory and shall be
+111 based on sound actuarial principles and reasonable in relation to the benefits provided.
+112 (l) An insurer shall not charge premium rates for a standardized Plan A, Plan B, or Plan D
+113 Medicare supplement policy or certificate for an individual under sixty-five years of age
+114 who becomes eligible for Medicare by reason of disability or end stage renal disease, as
+115 specified under 42 U.S.C. Section 426(b) or 426-1, that exceed premium rates charged for
+116 such policies to an individual who is 65 years of age.
+117 (m) An insurer shall not charge premium rates for any standardized lettered Medicare
+118 supplement policy or certificate other than those specified in subsection (l) of this Code
+119 section for an individual under 65 years of age who becomes eligible for Medicare by
+H. B. 323
+- 5 -
+25 LC 46 1064
+120 reason of disability or end stage renal disease, as specified under 42 U.S.C. Section 426(b)
+121 or 426-1, that exceed 200 percent of the premium rates charged for such policy or
+122 certificate to an individual who is 65 years of age or issue to an individual under 65 years
+123 of age who becomes eligible for Medicare by reason of disability or end stage renal
+124 disease, as specified under 42 U.S.C. Section 426(b) or 426-1, a Medicare supplement
+125 policy or certificate that contains a waiting period or a preexisting condition limitation or
+126 exclusion."
+127 SECTION 3.
+128 For purposes of rule making, this Act shall become effective upon its approval by the
+129 Governor or upon its becoming law without such approval. For all other purposes, this Act
+130 shall become effective on January 1, 2026.
+131 SECTION 4.
+132 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 323
+- 6 -
+[DELETED: 5L2,7,7,dtht3,5,ht]
+[DELETED: 5L  N a o p o G l a m M  T p o c s n d a p c m t a c f w m a w g o t w]
+[DELETED: 5L  T C s a r r t e m t c m M s p a c t t o p t b i u a m M s p o]
+[DELETED: 5L g r b u w t i s b r t c  E a q e i i r a p t]
+[DELETED: 5L  I t n r o a a o i b t U S]
+[DELETED: 5L 4 t e 2 p o t p r c f s p o]
+
+
+================================================================================
+
+Raw Text:
+25 LC 46 1064
+House Bill 323
+By: Representatives Mathiak of the 82nd, Hawkins of the 27th, Newton of the 127th, Dempsey
+of the 13th, Cooper of the 45th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 43 of Title 33 of the Official Code of Georgia Annotated, relating to
+2 Medicare supplement insurance, so as to provide for Medicare supplement policies to be
+3 issued and renewed for individuals under 65 years of age who are eligible by reason of
+4 disability or end stage renal disease under federal law; to provide for open enrollment
+5 periods; to prohibit an insurer from charging premium rates for such policies for such
+6 individuals that exceed premium rates charged for individuals who are 65 years of age; to
+7 provide for a short title; to provide for related matters; to provide for effective dates; to repeal
+8 conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Bridging the Gap for ALS and Chronic
+12 Kidney Disease Act of 2025."
+H. B. 323
+- 1 -
+
+25 LC 46 1064
+13 SECTION 2.
+14 Chapter 43 of Title 33 of the Official Code of Georgia Annotated, relating to Medicare
+15 supplement insurance, is amended by revising Code Section 33-43-3, relating to duplicate
+16 benefits prohibited and establishment of standards, as follows:
+17 "33-43-3.
+18 (a) As used in this Code section, the term '42 U.S.C. Section 426(b) or 421-1' means such
+19 federal law as it existed on January 1, 2025.
+20 (a)(b) No medicare Medicare supplement insurance policy or certificate in force in this
+21 state shall contain benefits which duplicate benefits provided by medicare Medicare.
+22 (b)(c) Notwithstanding any other provision of Georgia law, a medicare Medicare
+23 supplement policy or certificate shall not exclude or limit benefits for losses incurred more
+24 than six months from the effective date of coverage because it involved a preexisting
+25 condition. The policy or certificate shall not define a preexisting condition more
+26 restrictively than a condition for which medical advice was given or treatment was
+27 recommended by or received from a physician within six months before the effective date
+28 of coverage.
+29 (c)(d) The Commissioner shall adopt reasonable regulations to establish specific standards
+30 for policy provisions of medicare Medicare supplement policies and certificates. Such
+31 standards shall be in addition to and in accordance with applicable laws of this state. No
+32 requirement of this title relating to minimum required policy benefits, other than the
+33 minimum standards contained in this chapter, shall apply to medicare Medicare supplement
+34 policies and certificates. The standards shall cover, but shall not be limited to:
+35 (1) Terms of renewability;
+36 (2) Initial and subsequent conditions of eligibility;
+37 (3) Nonduplication of coverage;
+38 (4) Probationary periods;
+39 (5) Benefit limitations, exceptions, and reductions;
+H. B. 323
+- 2 -
+
+25 LC 46 1064
+40 (6) Elimination periods;
+41 (7) Requirements for replacement;
+42 (8) Recurrent conditions; and
+43 (9) Definitions of terms.
+44 (d)(e) The Commissioner shall adopt reasonable regulations to establish minimum
+45 standards for benefits, claims payment, marketing practices, compensation arrangements,
+46 and reporting practices for medicare Medicare supplement policies and certificates.
+47 (e)(f) The Commissioner may adopt from time to time such reasonable regulations as are
+48 necessary to conform medicare Medicare supplement policies and certificates to the
+49 requirements of federal law and regulations promulgated thereunder, including, but not
+50 limited to:
+51 (1) Requiring refunds or credits if the policies or certificates do not meet loss ratio
+52 requirements;
+53 (2) Establishing a uniform methodology for calculating and reporting loss ratios;
+54 (3) Assuring public access to policies, premiums, and loss ratio information of issuers
+55 of medicare Medicare supplement insurance;
+56 (4) Establishing a process for approving or disapproving policy forms, certificate forms,
+57 and proposed premium increases;
+58 (5) Establishing a policy for holding public hearings prior to approval of premium
+59 increases; and
+60 (6) Establishing standards for medicare Medicare select policies and certificates.
+61 (f)(g) The Commissioner may adopt reasonable regulations that specify prohibited policy
+62 provisions not otherwise specifically authorized by statute which, in the opinion of the
+63 Commissioner, are unjust, unfair, or unfairly discriminatory to any person individual
+64 insured or proposed to be insured under a medicare Medicare supplement policy or
+65 certificate.
+H. B. 323
+- 3 -
+
+25 LC 46 1064
+66 (g)(h) Insurers offering medicare Medicare supplement policies in this state to persons for
+67 individuals 65 years of age or older shall also offer medicare Medicare supplement policies
+68 to persons for individuals in this state who are eligible for and enrolled in medicare
+69 Medicare by reason of disability or end-stage end stage renal disease, as specified under
+70 42 U.S.C. Section 426(b) or 426-1. Such Medicare supplement policies shall be issued on
+71 a guaranteed renewable basis under which the insurer shall be required to continue
+72 coverage so long as premiums are paid on such policy. Except as otherwise provided in
+73 this Code section, all benefits, protections, policies, and procedures that apply to persons
+74 individuals 65 years of age or older shall also apply to persons individuals who are eligible
+75 for and enrolled in medicare Medicare by reason of disability or end-stage end stage renal
+76 disease, as specified under 42 U.S.C. Section 426(b) or 426-1.
+77 (h)(i) Persons may enroll in a medicare Medicare supplement policy at any time authorized
+78 or required by the federal government or within six months of:
+79 (1) Enrolling in medicare Medicare Part B for an individual who is under 65 years of age
+80 and is eligible for medicare Medicare because by reason of disability or end-stage end
+81 stage renal disease, as specified under 42 U.S.C. Section 426(b) or 426-1, whichever is
+82 later;
+83 (2) Receiving notice that such person individual has been retroactively enrolled in
+84 medicare Medicare Part B due to a retroactive eligibility decision made by the Social
+85 Security Administration; or
+86 (3) Experiencing a qualifying event identified in regulations adopted pursuant to
+87 subsection (c) of this Code section.
+88 (j) Beginning January 1, 2026, in addition to the provisions in subsection (i) of this Code
+89 section, an individual may enroll in a Medicare supplement policy when such individual
+90 is currently enrolled in Medicare by reason of disability or end stage renal disease, as
+91 specified under 42 U.S.C. Section 426(b) or 426-1, during a one-time open enrollment
+92 period of six months beginning on January 1, 2026.
+H. B. 323
+- 4 -
+
+25 LC 46 1064
+93 (i)(k) No policy or certificate issued pursuant to this chapter shall prohibit payment made
+94 by third parties on behalf of individual applicants or individuals within a group applicant
+95 so long as:
+96 (1) The third party is an immediate family member of a person lawfully exercising an
+97 in-force power of attorney or legal guardianship; or
+98 (2) The third party is a nonprofit, charitable organization that:
+99 (A) Is the named requestor of an advisory opinion issued by the United States
+100 Department of Health and Human Services (HHS) Office of Inspector General under
+101 the requirements of 42 C.F.R. Part 1008; and
+102 (B) Provides, upon request by the medicare Medicare supplement issuer, the specific
+103 advisory opinion relied upon by the third party to make such payment and a written
+104 certification that the advisory opinion is in full force and effect and has not been
+105 rescinded, modified, or terminated by the United States Department of Health and
+106 Human Services (HHS) Office of Inspector General.
+107 (j) Premiums for medicare supplemental insurance policies may differ between persons
+108 who qualify for medicare who are 65 years of age or older and those who qualify for
+109 medicare who are younger than 65 years of age; provided, however, that such differences
+110 in premiums shall not be excessive, inadequate, or unfairly discriminatory and shall be
+111 based on sound actuarial principles and reasonable in relation to the benefits provided.
+112 (l) An insurer shall not charge premium rates for a standardized Plan A, Plan B, or Plan D
+113 Medicare supplement policy or certificate for an individual under sixty-five years of age
+114 who becomes eligible for Medicare by reason of disability or end stage renal disease, as
+115 specified under 42 U.S.C. Section 426(b) or 426-1, that exceed premium rates charged for
+116 such policies to an individual who is 65 years of age.
+117 (m) An insurer shall not charge premium rates for any standardized lettered Medicare
+118 supplement policy or certificate other than those specified in subsection (l) of this Code
+119 section for an individual under 65 years of age who becomes eligible for Medicare by
+H. B. 323
+- 5 -
+
+25 LC 46 1064
+120 reason of disability or end stage renal disease, as specified under 42 U.S.C. Section 426(b)
+121 or 426-1, that exceed 200 percent of the premium rates charged for such policy or
+122 certificate to an individual who is 65 years of age or issue to an individual under 65 years
+123 of age who becomes eligible for Medicare by reason of disability or end stage renal
+124 disease, as specified under 42 U.S.C. Section 426(b) or 426-1, a Medicare supplement
+125 policy or certificate that contains a waiting period or a preexisting condition limitation or
+126 exclusion."
+127 SECTION 3.
+128 For purposes of rule making, this Act shall become effective upon its approval by the
+129 Governor or upon its becoming law without such approval. For all other purposes, this Act
+130 shall become effective on January 1, 2026.
+131 SECTION 4.
+132 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 323
+- 6 -
+
+[DELETED: 5L2,7,7,dtht3,5,ht]
+[DELETED: 5L  N a o p o G l a m M  T p o c s n d a p c m t a c f w m a w g o t w]
+[DELETED: 5L  T C s a r r t e m t c m M s p a c t t o p t b i u a m M s p o]
+[DELETED: 5L g r b u w t i s b r t c  E a q e i i r a p t]
+[DELETED: 5L  I t n r o a a o i b t U S]
+[DELETED: 5L 4 t e 2 p o t p r c f s p o]

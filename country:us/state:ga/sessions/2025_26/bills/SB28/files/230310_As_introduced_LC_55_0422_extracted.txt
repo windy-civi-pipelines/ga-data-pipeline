@@ -1,0 +1,1164 @@
+Title: Senate Bill 28
+Official Title: Senate Bill 28
+Number of Sections: 1
+Source: versions - As introduced LC 55 0422
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0422
+By: Senators Dolezal of the 27th, Kennedy of the 18th, Gooch of the 51st, Anavitarte of the
+31st, Robertson of the 29th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 28, 31, and 50 of the Official Code of Georgia Annotated, relating to the
+2 General Assembly, health, and state government, respectively, so as to provide for
+3 procedures and processes concerning the enactment of legislation and the adoption of rules
+4 and regulations; to provide definitions; to provide for the preparation and submission of
+5 small business impact analyses for bills introduced during sessions of the General Assembly;
+6 to provide for contracting; to provide for the revision of small business impact analyses; to
+7 provide for legislative construction; to revise procedures concerning the adoption of
+8 administrative rules; to revise procedures within the General Assembly concerning objections
+9 to proposed administrative rules; to provide for effective dates for adopted administrative
+10 rules; to provide for periodic review and sunset of administrative rules; to conform
+11 cross-references; to provide for related matters; to provide a short title; to provide effective
+12 dates; to repeal conflicting laws; and for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 28
+- 1 -
+25 LC 55 0422
+14 PART I
+15 SECTION 1-1.
+16 This Act shall be known and may be cited as the "Red Tape Rollback Act of 2025."
+17 PART II
+18 SECTION 2-1.
+19 Title 28 of the Official Code of Georgia Annotated, relating to the General Assembly, is
+20 amended in Chapter 5, relating to financial affairs, by adding a new article to read as follows:
+21 "ARTICLE 3B
+22 28-5-57.
+23 As used in this article, the term 'small business' means a business that is independently
+24 owned and operated, is not dominant in its field, and employs 300 or fewer employees.
+25 28-5-58.
+26 (a) Prior to the convening of a session of the General Assembly, the Governor, the
+27 President of the Senate, or any member of the General Assembly may request that the
+28 Office of Planning and Budget and the Department of Audits and Accounts prepare a small
+29 business impact analysis of any bill. Following the convening of a session of the General
+30 Assembly, a small business impact analysis for a bill may only be requested by the
+31 Governor, the President of the Senate, the Speaker of the House of Representatives, or the
+32 chairperson of a committee to which such bill has been assigned. A small business impact
+33 analysis shall estimate the economic costs and benefits that such bill may have on small
+34 businesses in the state and shall include, if any, the estimated impacts on:
+S. B. 28
+- 2 -
+25 LC 55 0422
+35 (1) The costs of providing goods and services;
+36 (2) The availability and cost of workers;
+37 (3) Industry competition or consumer choice; and
+38 (4) Potential costs of compliance.
+39 (b) A small business impact analysis requested pursuant to subsection (a) of this Code
+40 section shall be prepared and submitted by the director of the Office of Planning and
+41 Budget and the state auditor within 30 days after receipt of the request or, if requested
+42 during a session of the General Assembly, within ten days after receipt of such request. A
+43 copy of the small business impact analysis shall be submitted to:
+44 (1) The Governor;
+45 (2) The President of the Senate;
+46 (3) The Speaker of the House of Representatives;
+47 (4) The chairperson of the committee to which the bill that is the subject of the small
+48 business impact analysis is assigned in the house of the General Assembly in which the
+49 bill was introduced;
+50 (5) The sponsor of the bill that is the subject of the small business impact analysis;
+51 (6) The individual who requested the small business impact analysis, if such individual
+52 is not listed in paragraphs (1) through (5) of this subsection;
+53 (7) The Secretary of the Senate; and
+54 (8) The Clerk of the House of Representatives.
+55 (c)(1) If a bill that is the subject of a small business impact analysis prepared pursuant
+56 to subsection (a) of this Code section is amended or is proposed to be amended, the
+57 Office of Planning and Budget and the Department of Audits and Accounts shall revise
+58 such small business impact analysis to account for the amended version of such bill upon
+59 the request of:
+S. B. 28
+- 3 -
+25 LC 55 0422
+60 (A) The Governor, the President of the Senate, or any member of the General
+61 Assembly, if such request is made prior to the convening of a session of the General
+62 Assembly; or
+63 (B) The Governor, the President of the Senate, the Speaker of the House of
+64 Representatives, or the chairperson of a committee to which such bill has been
+65 assigned, if such request is made after the convening of a session of the General
+66 Assembly.
+67 (2) A revised small business impact analysis requested pursuant to paragraph (1) of this
+68 subsection shall be prepared and submitted by the director of the Office of Planning and
+69 Budget and the state auditor in the same manner as the original small business impact
+70 analysis pursuant to subsection (b) of this Code section.
+71 (d)(1) The Office of Planning and Budget and the Department of Audits and Accounts
+72 may contract with a person or persons independent of state government to prepare any
+73 small business impact analysis or revised small business impact analysis requested
+74 pursuant to this Code section.
+75 (2) When preparing a small business impact analysis or revised small business impact
+76 analysis requested pursuant to this Code section, the Office of Planning and Budget, the
+77 Department of Audits and Accounts, and any person or persons contracted with under
+78 paragraph (1) of this subsection may consult with other units of state government, units
+79 of local government, and business, industry, and community stakeholders impacted by
+80 or having an interest in the bill that is the subject of such small business impact analysis.
+81 (e) Any small business impact analysis or revised small business impact analysis prepared
+82 for a bill pursuant to this Code section shall be attached to the bill by the Secretary of the
+83 Senate or the Clerk of the House of Representatives and shall be read to the members of
+84 each respective house of the General Assembly at the third reading of such bill. In
+85 addition, a copy of each small business impact analysis or revised small business impact
+86 analysis prepared for a bill pursuant to this Code section shall be distributed to each
+S. B. 28
+- 4 -
+25 LC 55 0422
+87 member of the respective house of the General Assembly before which such bill is pending
+88 prior to any such bill being voted upon by such house of the General Assembly.
+89 28-5-59.
+90 Nothing in this article shall be construed to require any degree of formality of proof of
+91 compliance with any requirement of this article, and any enrolled bill shall be conclusively
+92 presumed to have been enacted in compliance with the requirements of this article."
+93 SECTION 2-2.
+94 Title 50 of the Official Code of Georgia Annotated, relating to state government, is amended
+95 in Code Section 50-13-4, relating to procedural requirements for adoption, amendment, or
+96 repeal of rules, emergency rules, limitation on action to contest rule, and legislative override,
+97 by revising subsections (a), (b), and (f) as follows:
+98 "(a) Prior to the adoption, amendment, or repeal of any rule, other than interpretive rules
+99 or general statements of policy, the agency shall consider the economic impact of the
+100 proposed rule and shall:
+101 (1) Give at least 30 days' notice of its intended action. The notice shall include an exact
+102 copy of the proposed rule and a synopsis of the proposed rule. The synopsis shall be
+103 distributed with and in the same manner as the proposed rule. The synopsis shall contain
+104 a statement of the purpose and the main features of the proposed rule, and, in the case of
+105 a proposed amendatory rule, the synopsis also shall indicate the differences between the
+106 existing rule and the proposed rule. The notice shall also include the exact date on which
+107 the agency shall consider the adoption of the proposed rule and shall include the time and
+108 place in order that interested persons may present their views thereon. The notice shall
+109 also contain a citation of the authority pursuant to which the rule is proposed for adoption
+110 and, if the proposal is an amendment or repeal of an existing rule, the existing rule shall
+111 be clearly identified. For any proposed rule for which the agency reasonably anticipates
+S. B. 28
+- 5 -
+25 LC 55 0422
+112 that $1 million or more in cumulative implementation and compliance costs are
+113 reasonably expected to be incurred by or passed along to individuals, businesses, and
+114 units of local government as the result of the proposed rule over the initial five-year
+115 period following the effective date of such proposed rule, the agency shall prepare and
+116 there shall be included with the notice an economic analysis of the impact of the proposed
+117 rule. Such economic analysis shall include the following:
+118 (A) An estimate, and identification when possible, of the number of individuals,
+119 businesses, and units of local government subject to the proposed rule;
+120 (B) The projected reporting, record keeping, and other administrative costs and time
+121 required for compliance with the proposed rule, including the types of professional
+122 skills necessary for preparation of any documentation, records, or reports required by
+123 the proposed rule;
+124 (C) A statement of the probable effect of the rule on impacted individuals, businesses,
+125 and units of local government;
+126 (D) Whether the proposed rule is mandated by federal law as a requirement for
+127 participating in or implementing a federally subsidized or assisted program and whether
+128 the proposed rule exceeds the requirements of such applicable federal law;
+129 (E) A comparison of the anticipated costs and benefits of the proposed rule;
+130 (F) A description of the efforts taken by the agency to minimize the cost and impact
+131 of the proposed rule on individuals, businesses, and units of local government in this
+132 state; and
+133 (G) Such other provisions or information the agency deems reasonably necessary for
+134 the General Assembly and the public to assess the economic impact of the proposed
+135 rule.
+136 The notice shall be mailed to all persons who have requested in writing that they be
+137 placed upon a mailing list which shall be maintained by the agency for advance notice
+138 of its rule-making proceedings and who have tendered the actual cost of such mailing as
+S. B. 28
+- 6 -
+25 LC 55 0422
+139 from time to time estimated by the agency and to the Office of Planning and Budget or
+140 other designee of the Governor;
+141 (2) Afford to all interested persons reasonable opportunity to submit data, views, or
+142 arguments, orally or in writing. In the case of substantive rules, opportunity for oral
+143 hearing must be granted if requested by 25 persons who will be directly affected by the
+144 proposed rule, by a governmental subdivision, or by an association having not less
+145 than 25 members. The agency shall consider fully all written and oral submissions
+146 respecting the proposed rule. Upon adoption of a rule, the agency, if requested to do so
+147 by an interested person either prior to adoption or within 30 days thereafter, shall issue
+148 a concise statement of the principal reasons for and against its adoption and incorporate
+149 therein its reason for overruling the consideration urged against its adoption;
+150 (3) In the formulation and adoption of any rule which will have an economic impact on
+151 businesses in the state, reduce the economic impact of the rule on small businesses which
+152 are independently owned and operated, are not dominant in their field, and
+153 employ 100 300 employees or less fewer by implementing one or more of the following
+154 actions when it is legal and feasible in meeting the stated objectives of the statutes which
+155 are the basis of the proposed rule:
+156 (A) Establish differing reduced compliance or reporting requirements or and differing
+157 timetables for small businesses;
+158 (B) Clarify, consolidate, or simplify the compliance and reporting requirements under
+159 the rule for small businesses;
+160 (C) Establish performance rather than design standards for small businesses; or
+161 (D) Exempt small businesses from any or all requirements of the rules;
+162 (4) In the formulation and adoption of any rule which places administrative burdens on
+163 charitable organizations in this state, including, but not limited to, any rule that would
+164 require any new or expanded filing or reporting requirements or that would limit the
+165 ability of charitable organizations to solicit or collect funds, the agency or official shall:
+S. B. 28
+- 7 -
+25 LC 55 0422
+166 (A) Absent the showing of a compelling state interest, not impose any annual filing or
+167 reporting requirements on an organization regulated or specifically exempted from
+168 regulation under Chapter 17 of Title 43, the 'Georgia Charitable Solicitations Act of
+169 1988,' that are more burdensome than the requirements authorized by applicable law,
+170 and any such filing or reporting requirements shall be narrowly tailored to achieve such
+171 compelling state interest. The requirements of this subparagraph shall not apply to the
+172 state's direct spending programs; and
+173 (B) Email the notice provided for in paragraph (1) of this subsection to each
+174 chairperson of any standing committee in each house as shown on the General
+175 Assembly's public website.
+176 For purposes of this paragraph, the term 'charitable organization' means a nonprofit
+177 charitable organization which is exempt from taxation under the provisions of
+178 Section 501(c)(3) of the United States Internal Revenue Code; and
+179 (5) In the formulation and adoption of any rule, an agency shall choose an alternative
+180 that does not impose excessive regulatory costs on any regulated person or entity which
+181 costs could be reduced by a less expensive alternative that fully accomplishes the stated
+182 objectives of the statutes which are the basis of the proposed rule.
+183 (b) If any agency finds that an imminent peril to the public health, safety, or welfare,
+184 including, but not limited to, summary processes such as quarantines, contrabands,
+185 seizures, and the like authorized by law without notice, requires adoption of a rule upon
+186 fewer than 30 days' notice and states in writing its reasons for that finding, it may proceed
+187 without prior notice or hearing or upon any abbreviated notice and hearing that it finds
+188 practicable to adopt an emergency rule. Any such rule adopted relative to a public health
+189 emergency shall be submitted as promptly as reasonably practicable to the House of
+190 Representatives and Senate Committees on Judiciary, provided that any such rule adopted
+191 relative to a state of emergency by the State Election Board shall be submitted as soon as
+192 practicable but not later than 20 days prior to the rule taking effect. Any emergency rule
+S. B. 28
+- 8 -
+25 LC 55 0422
+193 adopted by the State Election Board pursuant to the provisions of this subsection may be
+194 suspended upon the majority vote of the House of Representatives or Senate Committees
+195 on Judiciary within ten days of the receipt of such rule by the committees. The rule may
+196 be effective for a period of not longer than 120 days but adoption of an emergency rule
+197 pursuant to the provisions of this subsection shall not preclude the adoption of an identical
+198 rule under paragraphs (1) and (2) of subsection (a) of this Code section is not precluded;
+199 provided, however, that such a rule adopted pursuant to discharge of responsibility under
+200 an executive order declaring a state of emergency or disaster exists as a result of a public
+201 health emergency, as defined in Code Section 38-3-3, shall be effective for the duration of
+202 the emergency or disaster and for a period of not more than 120 days thereafter."
+203 "(f)(1) In the event a standing committee to which a notice is assigned as provided in
+204 subsection (e) of this Code section files an objection objects to a proposed rule prior to
+205 its adoption and the agency adopts the proposed rule over the objection, the rule may be
+206 considered by the branch house of the General Assembly whose committee objected to
+207 its adoption by the introduction of a resolution for the purpose of overriding the rule at
+208 any time within the first 30 days of the next regular session of the General Assembly. It
+209 shall be the duty of any agency which adopts a proposed rule over such objection so to
+210 notify the presiding officers of the Senate and the House of Representatives, the
+211 chairpersons of the Senate and House committees to which the rule was referred, and the
+212 legislative counsel within ten days after the adoption of the rule. In the event the
+213 resolution is adopted by such branch house of the General Assembly, it shall be
+214 immediately transmitted to the other branch house of the General Assembly. It shall be
+215 the duty of the presiding officer of the other branch house of the General Assembly to
+216 have such branch house, within five days after the receipt of the resolution, to consider
+217 the resolution for the purpose of overriding the rule. In the event the resolution is
+218 adopted by two-thirds of the votes of each branch house of the General Assembly, the
+219 rule shall be void on the day after the adoption of the resolution by the second branch
+S. B. 28
+- 9 -
+25 LC 55 0422
+220 house of the General Assembly. In the event the resolution is ratified by less than
+221 two-thirds of the votes of either branch house, the resolution shall be submitted to the
+222 Governor for his or her approval or veto. In the event of his or her the Governor's veto,
+223 or if no resolution is introduced for the purpose of overriding the rule, or if the resolution
+224 introduced is not approved by at least a majority of the vote of each house of the General
+225 Assembly, the rule shall remain in effect adopted and shall become or remain effective
+226 in accordance with the provisions of Code Section 50-13-6. In the event of his or her
+227 approval the Governor's approval of the resolution, the rule shall be void on the day after
+228 the date of his or her approval.
+229 (2) In the event each standing committee to which a notice is assigned as provided in
+230 subsection (e) of this Code section files an objection objects to a proposed rule prior to
+231 its adoption by a two-thirds' vote of the members of the committee who were voting
+232 members on the tenth day of the current session, after having given public notice of the
+233 time, place, and purpose of such vote at least 48 hours in advance, as well as the
+234 opportunity for members of the public, including the promulgating agency, to have a
+235 reasonable time to comment on the proposed committee action at the hearing, the
+236 effectiveness of such rule shall be stayed until the next legislative session at which time
+237 the rule may be considered by the General Assembly by the introduction of a resolution
+238 in either branch of the General Assembly for the purpose of overriding the rule at any
+239 time within the first 30 days of the next regular session of the General Assembly not be
+240 adopted by the promulgating agency and shall instead be deemed withdrawn by the
+241 promulgating agency unless such agency, within the first 15 days of the next regular
+242 session of the General Assembly, transmits written notification to the chairpersons of the
+243 objecting committees that such agency does not intend to withdraw such rule but instead
+244 intends to adopt such rule following adjournment sine die of that regular session. Such
+245 notification shall include a detailed statement setting forth the basis for and necessity of
+246 the proposed rule, an explanation of how the adoption of the proposed rule is within the
+S. B. 28
+- 10 -
+25 LC 55 0422
+247 authority of the promulgating agency, any alternatives to the proposed rule considered
+248 by the promulgating agency, and the potential costs or adverse effects of the proposed
+249 rule, as well as the identification of those likely to bear such costs or adverse effects. A
+250 resolution objecting to the intended adoption of the proposed rule may be introduced in
+251 either house of the General Assembly after the fifteenth day but before the thirtieth day
+252 of the regular session in which the notice of intent not to withdraw the proposed rule was
+253 given by the promulgating agency in accordance with this paragraph. In the event the
+254 resolution is adopted by the branch house of the General Assembly in which it was
+255 introduced, it shall be immediately transmitted to the other branch house of the General
+256 Assembly. It shall be the duty of the presiding officer of the other branch house of the
+257 General Assembly to have such branch house, within five days after the receipt of the
+258 resolution, to consider the resolution for the purpose of overriding objecting to the
+259 intended adoption of the proposed rule. In the event the resolution is adopted by
+260 two-thirds of the votes of each branch house of the General Assembly, the proposed rule
+261 shall be void on the day after the adoption of the resolution by the second branch of the
+262 General Assembly shall be disapproved and shall not be adopted by the promulgating
+263 agency. In the event the resolution is ratified by less than two-thirds of the votes of either
+264 branch house, the resolution shall be submitted to the Governor for his or her approval
+265 or veto. In the event of his or her the Governor's veto, the rule shall remain in effect or
+266 if no resolution is introduced objecting to the proposed rule, or if the resolution
+267 introduced is not approved by at least a majority of the vote of each house of the General
+268 Assembly, the proposed rule shall automatically become adopted the day following
+269 adjournment sine die of that regular session and shall become effective in accordance
+270 with the provisions of Code Section 50-13-6. In the event of his or her the Governor's
+271 approval of the resolution, the proposed rule shall be void on the day after the date of his
+272 or her approval disapproved and shall not be adopted by the promulgating agency. If
+273 after the thirtieth legislative day of the legislative session of which the challenged rule
+S. B. 28
+- 11 -
+25 LC 55 0422
+274 was to be considered the General Assembly has not considered an override of the
+275 challenged rule pursuant to this subsection, the rule shall then immediately take effect."
+276 SECTION 2-3.
+277 Said title is further amended by revising Code Section 50-13-6, relating to rules not effective
+278 until 20 days after filed with the Secretary of State, maintenance of record of the rules,
+279 exceptions, and rules governing manner and form of filing, as follows:
+280 "50-13-6.
+281 (a) Each rule adopted after July 1, 1965, shall not become effective until the expiration
+282 of 20 days after the rule is filed in the office of the Secretary of State Except for emergency
+283 rules adopted pursuant to subsection (b) of Code Section 50-13-4, any rule that is adopted
+284 shall not become effective unless it is filed with the office of the Secretary of State and
+285 such rule, if filed with the office of the Secretary of State between January 1 and June 30
+286 of a calendar year, shall become effective on July 1 of that year or, if filed with the office
+287 of the Secretary of State between July 1 and December 31 of a calendar year, shall become
+288 effective on January 1 of the immediately succeeding calendar year. Each rule so filed
+289 shall contain a citation of the authority pursuant to which it was adopted and, if an
+290 amendment or repeal of an existing rule, shall clearly identify the original rule.
+291 (b) Any emergency rule adopted pursuant to subsection (b) of Code Section 50-13-4 shall:
+292 (1) Become effective immediately upon its adoption or on such later date as the
+293 promulgating agency may prescribe and may be effective for a period of not longer than
+294 120 days; provided, however, that such an emergency rule adopted pursuant to a
+295 discharge of responsibility under an executive order declaring that a state of emergency
+296 or disaster exists as a result of a public health emergency, as defined in Code Section
+297 38-3-3, shall be effective for the duration of the emergency or disaster and for a period
+298 of not more than 120 days thereafter; and
+S. B. 28
+- 12 -
+25 LC 55 0422
+299 (2) Be filed, along with a copy of the finding as required by subsection (b) of Code
+300 Section 50-13-4, with the office of the Secretary of State within four days after its
+301 adoption.
+302 (b)(c) The Secretary of State shall endorse on each rule thus filed the time and date of
+303 filing and shall maintain a record of the rules for public inspection.
+304 (c) The 20 day filing period is subject to the following exceptions:
+305 (1) Where a statute or the terms of the rule require a date which is later than the 20 day
+306 period, then the later date is the effective date; and
+307 (2) Any emergency rule adopted pursuant to subsection (b) of Code Section 50-13-4 may
+308 become effective immediately upon adoption or within a period of less than 20 days. The
+309 emergency rule, with a copy of the finding as required by subsection (b) of Code
+310 Section 50-13-4, shall be filed with the office of the Secretary of State within four
+311 working days after its adoption.
+312 (d) The Secretary of State shall prescribe rules governing the manner and form in which
+313 regulations shall be prepared for filing. The Secretary may refuse to accept for filing any
+314 rule that does not conform to such requirements."
+315 SECTION 2-4.
+316 Said title is further amended by adding new Code sections to read as follows:
+317 "50-13-24.
+318 (a) Not later than July 1, 2027, the Office of Planning and Budget or other designee of the
+319 Governor shall establish and publish a schedule for the review of the rules of all agencies,
+320 subject to the provisions of this chapter, on a four-year cycle, with the first of such reviews
+321 occurring in the 2028 calendar year. In establishing such schedule, the Office of Planning
+322 and Budget or other designee of the Governor shall take into consideration the volume of
+323 rules that will be subject to review in any given year and the ability of the public to provide
+324 meaningful input into such reviews. An agency that has been through a review under this
+S. B. 28
+- 13 -
+25 LC 55 0422
+325 Code section previously and, in the intervening years since such last review, has not
+326 increased the number of its rules by more than 10 percent shall be exempt from review
+327 under this Code section during that cycle.
+328 (b) The Office of Planning and Budget or other designee of the Governor shall notify in
+329 December of the immediately preceding year each agency whose rules are subject to
+330 review in a given calendar year of the upcoming review period. All rules of an agency that
+331 are scheduled for review under this Code section shall stand automatically repealed on
+332 December 31 of the review year unless the rules are continued or repromulgated pursuant
+333 to this Code section.
+334 (c) In the year of review, each agency shall undertake an analysis of each of its rules and
+335 shall create a written report of the results of such analysis. Such analysis shall consider:
+336 (1) Whether the benefits sought to be achieved by the rule are being realized and are in
+337 compliance with current law;
+338 (2) Whether such benefits justify the costs of implementing and complying with the
+339 provisions of the rule; and
+340 (3) Whether there are less restrictive and less costly alternatives to accomplish the
+341 desired benefits or results.
+342 The Office of Planning and Budget or other designee of the Governor shall develop and
+343 provide to each agency a standardized process and forms for such analysis and shall make
+344 such process and forms available on the Office of Planning and Budget's public website not
+345 later than October 1, 2027. Such analysis shall be completed not later than September 1
+346 of the year of review. Such analysis shall be published on the agency's public website upon
+347 its completion and shall be submitted to the Office of Planning and Budget or other
+348 designee of the Governor for review.
+349 (d) As a part of the rules analysis process, each agency shall solicit public input on the
+350 impact, cost, and effectiveness of its rules. The public shall be notified of the opportunity
+351 to provide such input in a manner designed to obtain the widest possible public notification
+S. B. 28
+- 14 -
+25 LC 55 0422
+352 of interested parties, as well as by mailing such notice to all persons who have requested
+353 in writing that they be placed upon the mailing list maintained by the agency for advance
+354 notice of its rule-making proceedings. The notice shall include a date by which public
+355 input shall be submitted for consideration which shall be not less than 30 days after the date
+356 the notice is published. Such notice shall be published not later than March 1 of the review
+357 year. In addition, the agency shall conduct at least two public hearings to receive public
+358 comment on its rules. Such public hearings shall be held in a manner designed to
+359 maximize public input and shall be completed not later than July 1 of the review year.
+360 (e) Agencies that desire to continue their rules in effect shall not simply repromulgate the
+361 rules and regulations without critical review of the necessity, effectiveness, and cost of
+362 such rules; without considering possible less onerous, less costly, and more effective
+363 alternatives to such rules; and without determining whether such rules or regulations are
+364 actually necessary.
+365 (f) Any rule that an agency desires to continue or repromulgate shall be repromulgated in
+366 the same manner as for new rules under this chapter. Any continuation or repromulgation
+367 of a rule shall reduce or maintain the current regulatory burden and costs of such rule and
+368 shall not increase such burden or costs.
+369 (g) The provisions of this Code section shall not apply to constitutional officers or their
+370 respective agencies, as such terms are defined in subsection (a) of Code Section 50-13-25.
+371 50-13-25.
+372 (a) As used in this Code section, the term:
+373 (1) 'Constitutional officer' means the Attorney General, the Secretary of State, the
+374 Commissioner of Agriculture, the Commissioner of Insurance, the Commissioner of
+375 Labor, and the State School Superintendent.
+376 (2) 'Respective agency' means:
+377 (A) With respect to the Attorney General, the Department of Law;
+S. B. 28
+- 15 -
+25 LC 55 0422
+378 (B) With respect to the Secretary of State, the office of the Secretary of State;
+379 (C) With respect to the Commissioner of Agriculture, the Department of Agriculture;
+380 (D) With respect to the Commissioner of Insurance, the Department of Insurance;
+381 (E) With respect to the Commissioner of Labor, the Department of Labor; and
+382 (F) With respect to the State School Superintendent, the Department of Education.
+383 (b) All constitutional officers shall, subject to the provisions of this chapter, review all of
+384 the rules promulgated by such constitutional officers, their predecessors, or their respective
+385 agencies that are in effect every four years, with the first year of review being the 2028
+386 calendar year. In subsequent review years after 2028, each constitutional officer and such
+387 officer's respective agency that has not, in the intervening years since such last review,
+388 increased the number of its rules by more than 10 percent shall be exempt from review
+389 under this Code section during that year of review.
+390 (c) All rules of a constitutional officer and such officer's respective agency that are
+391 scheduled for review under this Code section shall stand automatically repealed on
+392 December 31 of the review year unless the rules are continued or repromulgated pursuant
+393 to this Code section.
+394 (d) In the year of review, each constitutional officer and such officer's respective agencies
+395 shall undertake an analysis of each of its rules and shall create a written report of the results
+396 of such analysis. Such analysis shall consider:
+397 (1) Whether the benefits sought to be achieved by the rule are being realized and are in
+398 compliance with current law;
+399 (2) Whether such benefits justify the costs of implementing and complying with the
+400 provisions of the rule; and
+401 (3) Whether there are less restrictive and less costly alternatives to accomplish the
+402 desired benefits or results.
+S. B. 28
+- 16 -
+25 LC 55 0422
+403 Such analysis shall be completed not later than September 1 of the year of review. Such
+404 analysis shall be published by the constitutional officer on such officer's respective
+405 agency's public website upon its completion.
+406 (e) As a part of the rules analysis process, each constitutional officer and such officer's
+407 respective agency shall solicit public input on the impact, cost, and effectiveness of its
+408 rules. The public shall be notified of the opportunity to provide such input in a manner
+409 designed to obtain the widest possible public notification of interested parties, as well as
+410 by mailing such notice to all persons who have requested in writing that they be placed
+411 upon the mailing list maintained by each constitutional officer or such officer's respective
+412 agency for advance notice of its rule-making proceedings. The notice shall include a date
+413 by which public input shall be submitted for consideration which shall be not less than 30
+414 days after the date the notice is published. Such notice shall be published not later than
+415 March 1 of the review year. In addition, each constitutional officer and such officer's
+416 respective agency shall conduct at least two public hearings to receive public comment on
+417 its rules. Such public hearings shall be held in a manner designed to maximize public input
+418 and shall be completed not later than July 1 of the review year.
+419 (f) Constitutional officers and their respective agencies that desire to continue their rules
+420 in effect shall not simply repromulgate the rules and regulations without critical review of
+421 the necessity, effectiveness, and cost of such rules; without considering possible less
+422 onerous, less costly, and more effective alternatives to such rules; and without determining
+423 whether such rules or regulations are actually necessary.
+424 (g) Any rule that a constitutional officer or such officer's respective agency desires to
+425 continue or repromulgate shall be repromulgated in the same manner as for new rules under
+426 this chapter. Any continuation or repromulgation of a rule shall reduce or maintain the
+427 current regulatory burden and costs of such rule and shall not increase such burden or
+428 costs."
+S. B. 28
+- 17 -
+25 LC 55 0422
+429 PART III
+430 SECTION 3-1.
+431 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended in Code
+432 Section 31-6-21.1, relating to procedures for rule making by the Department of Community
+433 Health, by revising subsections (c) and (f) as follows:
+434 "(c) Any rule or part thereof to which an objection is made by both committees within the
+435 30 day objection period under subsection (b) of this Code section shall not be adopted by
+436 the department and shall be invalid if so adopted. A rule or part thereof thus prohibited
+437 from being adopted shall be deemed to have been withdrawn by the department unless the
+438 department, within the first 15 days of the next regular session of the General Assembly,
+439 transmits written notification to each member of the objecting committees that the
+440 department does not intend to withdraw that rule or part thereof but intends to adopt the
+441 specified rule or part effective the day following adjournment sine die of that regular
+442 session. A resolution objecting to such intended adoption may be introduced in either
+443 branch house of the General Assembly after the fifteenth day but before the thirtieth day
+444 of the session in which occurs the notification of intent not to withdraw a rule or part
+445 thereof. In the event the resolution is adopted by the branch house of the General
+446 Assembly in which the resolution was introduced, it shall be immediately transmitted to
+447 the other branch house of the General Assembly. It shall be the duty of the presiding
+448 officer of the other branch house to have that branch house, within five days after receipt
+449 of the resolution, consider the resolution for purposes of objecting to the intended adoption
+450 of the rule or part thereof. Upon such resolution being adopted by two-thirds of the vote
+451 of each branch house of the General Assembly, the rule or part thereof objected to in that
+452 resolution shall be disapproved and not adopted by the department. If the resolution is
+453 adopted by a majority but by less than two-thirds of the vote of each such branch house,
+454 the resolution shall be submitted to the Governor for his or her approval or veto. In the
+S. B. 28
+- 18 -
+25 LC 55 0422
+455 event of a veto, or if no resolution is introduced objecting to the rule, or if the resolution
+456 introduced is not approved by at least a majority of the vote of each such branch house, the
+457 rule shall automatically become adopted the day following adjournment sine die of that
+458 regular session. In the event of the Governor's approval of the resolution, the rule shall be
+459 disapproved and not adopted by the department."
+460 "(f) Emergency rules shall not be subject to the requirements of subsection (b), (c), or (d)
+461 of this Code section but shall be subject to the requirements of subsection (b) of Code
+462 Section 50-13-4 and subsection (b) of Code Section 50-13-6. Upon the first expiration of
+463 any department emergency rules, where those emergency rules are intended to cover
+464 matters which had been dealt with by the department's nonemergency rules but such
+465 nonemergency rules have been objected to by both legislative committees under this Code
+466 section, the emergency rules concerning those matters may not again be adopted except for
+467 one 120 day period. No emergency rule or part thereof which is adopted by the department
+468 shall be valid unless adopted in compliance with this subsection."
+469 SECTION 3-2.
+470 Title 50 of the Official Code of Georgia Annotated, relating to state government, is amended
+471 in Code Section 50-13A-20, relating to applicability of provisions, by revising paragraph (3)
+472 of subsection (b) as follows:
+473 "(3) Code Section 50-13-6, except for paragraph (2) of subsection (c)(b);"
+474 PART IV
+475 SECTION 4-1.
+476 (a) Except as provided for in subsection (b) of this section, this Act shall become effective
+477 upon its approval by the Governor or upon its becoming law without such approval.
+478 (b) Section 2-4 of this Act shall become effective on June 1, 2027.
+S. B. 28
+- 19 -
+25 LC 55 0422
+479 SECTION 4-2.
+480 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 28
+- 20 -
+[DELETED: 5L A h a s g r s a t p f f l c t r p c t a o t p f p r a s o a r t c]
+[DELETED: 5L a s b i a f a b m o b r b t]
+[DELETED: 5L]
+[DELETED: 5L  T G t P o t S o a m o t G  T G t P o t S t S o t H o o t c o a c t w s b h b b i a o r s b i a r]
+[DELETED: 5L]
+[DELETED: 5L $ m o m i c i a c c a i m]
+[DELETED: 5L i o a o a n d i t f a]
+[DELETED: 5L  E t n p f i p ( o t s t e o a s c i e h a s o t G o w i e f t u t p o b n l t s p s a q c]
+[DELETED: 5L t p o o t S a t H o R t  I t i a b s b h o t G A i s b]
+[DELETED: 5L p a p o s v a l 4 h i a a w a t t t c o t p c a a t h t]
+[DELETED: 5L a o t p r  I t e t r i a b n r i i o t t p r o i t r]
+[DELETED: 5L t b c t G A h n c a o o t c a c o t a p t w i w a a i a  B e i u i a o o s l d a t d p h t s a e r a p t ]
+[DELETED: 5L r w a c o t f a r b s ( o C]
+[DELETED: 5L]
+[DELETED: 5L o i r  S p h s b h i a m d t]
+[DELETED: 5L f r u t C s s s a r o]
+[DELETED: 5L s b p b t c o o s o r]
+[DELETED: 5L w n t e m o t o c t t  I t e t r i a b t b h o t G]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0422
+Senate Bill 28
+By: Senators Dolezal of the 27th, Kennedy of the 18th, Gooch of the 51st, Anavitarte of the
+31st, Robertson of the 29th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 28, 31, and 50 of the Official Code of Georgia Annotated, relating to the
+2 General Assembly, health, and state government, respectively, so as to provide for
+3 procedures and processes concerning the enactment of legislation and the adoption of rules
+4 and regulations; to provide definitions; to provide for the preparation and submission of
+5 small business impact analyses for bills introduced during sessions of the General Assembly;
+6 to provide for contracting; to provide for the revision of small business impact analyses; to
+7 provide for legislative construction; to revise procedures concerning the adoption of
+8 administrative rules; to revise procedures within the General Assembly concerning objections
+9 to proposed administrative rules; to provide for effective dates for adopted administrative
+10 rules; to provide for periodic review and sunset of administrative rules; to conform
+11 cross-references; to provide for related matters; to provide a short title; to provide effective
+12 dates; to repeal conflicting laws; and for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 28
+- 1 -
+
+25 LC 55 0422
+14 PART I
+15 SECTION 1-1.
+16 This Act shall be known and may be cited as the "Red Tape Rollback Act of 2025."
+17 PART II
+18 SECTION 2-1.
+19 Title 28 of the Official Code of Georgia Annotated, relating to the General Assembly, is
+20 amended in Chapter 5, relating to financial affairs, by adding a new article to read as follows:
+21 "ARTICLE 3B
+22 28-5-57.
+23 As used in this article, the term 'small business' means a business that is independently
+24 owned and operated, is not dominant in its field, and employs 300 or fewer employees.
+25 28-5-58.
+26 (a) Prior to the convening of a session of the General Assembly, the Governor, the
+27 President of the Senate, or any member of the General Assembly may request that the
+28 Office of Planning and Budget and the Department of Audits and Accounts prepare a small
+29 business impact analysis of any bill. Following the convening of a session of the General
+30 Assembly, a small business impact analysis for a bill may only be requested by the
+31 Governor, the President of the Senate, the Speaker of the House of Representatives, or the
+32 chairperson of a committee to which such bill has been assigned. A small business impact
+33 analysis shall estimate the economic costs and benefits that such bill may have on small
+34 businesses in the state and shall include, if any, the estimated impacts on:
+S. B. 28
+- 2 -
+
+25 LC 55 0422
+35 (1) The costs of providing goods and services;
+36 (2) The availability and cost of workers;
+37 (3) Industry competition or consumer choice; and
+38 (4) Potential costs of compliance.
+39 (b) A small business impact analysis requested pursuant to subsection (a) of this Code
+40 section shall be prepared and submitted by the director of the Office of Planning and
+41 Budget and the state auditor within 30 days after receipt of the request or, if requested
+42 during a session of the General Assembly, within ten days after receipt of such request. A
+43 copy of the small business impact analysis shall be submitted to:
+44 (1) The Governor;
+45 (2) The President of the Senate;
+46 (3) The Speaker of the House of Representatives;
+47 (4) The chairperson of the committee to which the bill that is the subject of the small
+48 business impact analysis is assigned in the house of the General Assembly in which the
+49 bill was introduced;
+50 (5) The sponsor of the bill that is the subject of the small business impact analysis;
+51 (6) The individual who requested the small business impact analysis, if such individual
+52 is not listed in paragraphs (1) through (5) of this subsection;
+53 (7) The Secretary of the Senate; and
+54 (8) The Clerk of the House of Representatives.
+55 (c)(1) If a bill that is the subject of a small business impact analysis prepared pursuant
+56 to subsection (a) of this Code section is amended or is proposed to be amended, the
+57 Office of Planning and Budget and the Department of Audits and Accounts shall revise
+58 such small business impact analysis to account for the amended version of such bill upon
+59 the request of:
+S. B. 28
+- 3 -
+
+25 LC 55 0422
+60 (A) The Governor, the President of the Senate, or any member of the General
+61 Assembly, if such request is made prior to the convening of a session of the General
+62 Assembly; or
+63 (B) The Governor, the President of the Senate, the Speaker of the House of
+64 Representatives, or the chairperson of a committee to which such bill has been
+65 assigned, if such request is made after the convening of a session of the General
+66 Assembly.
+67 (2) A revised small business impact analysis requested pursuant to paragraph (1) of this
+68 subsection shall be prepared and submitted by the director of the Office of Planning and
+69 Budget and the state auditor in the same manner as the original small business impact
+70 analysis pursuant to subsection (b) of this Code section.
+71 (d)(1) The Office of Planning and Budget and the Department of Audits and Accounts
+72 may contract with a person or persons independent of state government to prepare any
+73 small business impact analysis or revised small business impact analysis requested
+74 pursuant to this Code section.
+75 (2) When preparing a small business impact analysis or revised small business impact
+76 analysis requested pursuant to this Code section, the Office of Planning and Budget, the
+77 Department of Audits and Accounts, and any person or persons contracted with under
+78 paragraph (1) of this subsection may consult with other units of state government, units
+79 of local government, and business, industry, and community stakeholders impacted by
+80 or having an interest in the bill that is the subject of such small business impact analysis.
+81 (e) Any small business impact analysis or revised small business impact analysis prepared
+82 for a bill pursuant to this Code section shall be attached to the bill by the Secretary of the
+83 Senate or the Clerk of the House of Representatives and shall be read to the members of
+84 each respective house of the General Assembly at the third reading of such bill. In
+85 addition, a copy of each small business impact analysis or revised small business impact
+86 analysis prepared for a bill pursuant to this Code section shall be distributed to each
+S. B. 28
+- 4 -
+
+25 LC 55 0422
+87 member of the respective house of the General Assembly before which such bill is pending
+88 prior to any such bill being voted upon by such house of the General Assembly.
+89 28-5-59.
+90 Nothing in this article shall be construed to require any degree of formality of proof of
+91 compliance with any requirement of this article, and any enrolled bill shall be conclusively
+92 presumed to have been enacted in compliance with the requirements of this article."
+93 SECTION 2-2.
+94 Title 50 of the Official Code of Georgia Annotated, relating to state government, is amended
+95 in Code Section 50-13-4, relating to procedural requirements for adoption, amendment, or
+96 repeal of rules, emergency rules, limitation on action to contest rule, and legislative override,
+97 by revising subsections (a), (b), and (f) as follows:
+98 "(a) Prior to the adoption, amendment, or repeal of any rule, other than interpretive rules
+99 or general statements of policy, the agency shall consider the economic impact of the
+100 proposed rule and shall:
+101 (1) Give at least 30 days' notice of its intended action. The notice shall include an exact
+102 copy of the proposed rule and a synopsis of the proposed rule. The synopsis shall be
+103 distributed with and in the same manner as the proposed rule. The synopsis shall contain
+104 a statement of the purpose and the main features of the proposed rule, and, in the case of
+105 a proposed amendatory rule, the synopsis also shall indicate the differences between the
+106 existing rule and the proposed rule. The notice shall also include the exact date on which
+107 the agency shall consider the adoption of the proposed rule and shall include the time and
+108 place in order that interested persons may present their views thereon. The notice shall
+109 also contain a citation of the authority pursuant to which the rule is proposed for adoption
+110 and, if the proposal is an amendment or repeal of an existing rule, the existing rule shall
+111 be clearly identified. For any proposed rule for which the agency reasonably anticipates
+S. B. 28
+- 5 -
+
+25 LC 55 0422
+112 that $1 million or more in cumulative implementation and compliance costs are
+113 reasonably expected to be incurred by or passed along to individuals, businesses, and
+114 units of local government as the result of the proposed rule over the initial five-year
+115 period following the effective date of such proposed rule, the agency shall prepare and
+116 there shall be included with the notice an economic analysis of the impact of the proposed
+117 rule. Such economic analysis shall include the following:
+118 (A) An estimate, and identification when possible, of the number of individuals,
+119 businesses, and units of local government subject to the proposed rule;
+120 (B) The projected reporting, record keeping, and other administrative costs and time
+121 required for compliance with the proposed rule, including the types of professional
+122 skills necessary for preparation of any documentation, records, or reports required by
+123 the proposed rule;
+124 (C) A statement of the probable effect of the rule on impacted individuals, businesses,
+125 and units of local government;
+126 (D) Whether the proposed rule is mandated by federal law as a requirement for
+127 participating in or implementing a federally subsidized or assisted program and whether
+128 the proposed rule exceeds the requirements of such applicable federal law;
+129 (E) A comparison of the anticipated costs and benefits of the proposed rule;
+130 (F) A description of the efforts taken by the agency to minimize the cost and impact
+131 of the proposed rule on individuals, businesses, and units of local government in this
+132 state; and
+133 (G) Such other provisions or information the agency deems reasonably necessary for
+134 the General Assembly and the public to assess the economic impact of the proposed
+135 rule.
+136 The notice shall be mailed to all persons who have requested in writing that they be
+137 placed upon a mailing list which shall be maintained by the agency for advance notice
+138 of its rule-making proceedings and who have tendered the actual cost of such mailing as
+S. B. 28
+- 6 -
+
+25 LC 55 0422
+139 from time to time estimated by the agency and to the Office of Planning and Budget or
+140 other designee of the Governor;
+141 (2) Afford to all interested persons reasonable opportunity to submit data, views, or
+142 arguments, orally or in writing. In the case of substantive rules, opportunity for oral
+143 hearing must be granted if requested by 25 persons who will be directly affected by the
+144 proposed rule, by a governmental subdivision, or by an association having not less
+145 than 25 members. The agency shall consider fully all written and oral submissions
+146 respecting the proposed rule. Upon adoption of a rule, the agency, if requested to do so
+147 by an interested person either prior to adoption or within 30 days thereafter, shall issue
+148 a concise statement of the principal reasons for and against its adoption and incorporate
+149 therein its reason for overruling the consideration urged against its adoption;
+150 (3) In the formulation and adoption of any rule which will have an economic impact on
+151 businesses in the state, reduce the economic impact of the rule on small businesses which
+152 are independently owned and operated, are not dominant in their field, and
+153 employ 100 300 employees or less fewer by implementing one or more of the following
+154 actions when it is legal and feasible in meeting the stated objectives of the statutes which
+155 are the basis of the proposed rule:
+156 (A) Establish differing reduced compliance or reporting requirements or and differing
+157 timetables for small businesses;
+158 (B) Clarify, consolidate, or simplify the compliance and reporting requirements under
+159 the rule for small businesses;
+160 (C) Establish performance rather than design standards for small businesses; or
+161 (D) Exempt small businesses from any or all requirements of the rules;
+162 (4) In the formulation and adoption of any rule which places administrative burdens on
+163 charitable organizations in this state, including, but not limited to, any rule that would
+164 require any new or expanded filing or reporting requirements or that would limit the
+165 ability of charitable organizations to solicit or collect funds, the agency or official shall:
+S. B. 28
+- 7 -
+
+25 LC 55 0422
+166 (A) Absent the showing of a compelling state interest, not impose any annual filing or
+167 reporting requirements on an organization regulated or specifically exempted from
+168 regulation under Chapter 17 of Title 43, the 'Georgia Charitable Solicitations Act of
+169 1988,' that are more burdensome than the requirements authorized by applicable law,
+170 and any such filing or reporting requirements shall be narrowly tailored to achieve such
+171 compelling state interest. The requirements of this subparagraph shall not apply to the
+172 state's direct spending programs; and
+173 (B) Email the notice provided for in paragraph (1) of this subsection to each
+174 chairperson of any standing committee in each house as shown on the General
+175 Assembly's public website.
+176 For purposes of this paragraph, the term 'charitable organization' means a nonprofit
+177 charitable organization which is exempt from taxation under the provisions of
+178 Section 501(c)(3) of the United States Internal Revenue Code; and
+179 (5) In the formulation and adoption of any rule, an agency shall choose an alternative
+180 that does not impose excessive regulatory costs on any regulated person or entity which
+181 costs could be reduced by a less expensive alternative that fully accomplishes the stated
+182 objectives of the statutes which are the basis of the proposed rule.
+183 (b) If any agency finds that an imminent peril to the public health, safety, or welfare,
+184 including, but not limited to, summary processes such as quarantines, contrabands,
+185 seizures, and the like authorized by law without notice, requires adoption of a rule upon
+186 fewer than 30 days' notice and states in writing its reasons for that finding, it may proceed
+187 without prior notice or hearing or upon any abbreviated notice and hearing that it finds
+188 practicable to adopt an emergency rule. Any such rule adopted relative to a public health
+189 emergency shall be submitted as promptly as reasonably practicable to the House of
+190 Representatives and Senate Committees on Judiciary, provided that any such rule adopted
+191 relative to a state of emergency by the State Election Board shall be submitted as soon as
+192 practicable but not later than 20 days prior to the rule taking effect. Any emergency rule
+S. B. 28
+- 8 -
+
+25 LC 55 0422
+193 adopted by the State Election Board pursuant to the provisions of this subsection may be
+194 suspended upon the majority vote of the House of Representatives or Senate Committees
+195 on Judiciary within ten days of the receipt of such rule by the committees. The rule may
+196 be effective for a period of not longer than 120 days but adoption of an emergency rule
+197 pursuant to the provisions of this subsection shall not preclude the adoption of an identical
+198 rule under paragraphs (1) and (2) of subsection (a) of this Code section is not precluded;
+199 provided, however, that such a rule adopted pursuant to discharge of responsibility under
+200 an executive order declaring a state of emergency or disaster exists as a result of a public
+201 health emergency, as defined in Code Section 38-3-3, shall be effective for the duration of
+202 the emergency or disaster and for a period of not more than 120 days thereafter."
+203 "(f)(1) In the event a standing committee to which a notice is assigned as provided in
+204 subsection (e) of this Code section files an objection objects to a proposed rule prior to
+205 its adoption and the agency adopts the proposed rule over the objection, the rule may be
+206 considered by the branch house of the General Assembly whose committee objected to
+207 its adoption by the introduction of a resolution for the purpose of overriding the rule at
+208 any time within the first 30 days of the next regular session of the General Assembly. It
+209 shall be the duty of any agency which adopts a proposed rule over such objection so to
+210 notify the presiding officers of the Senate and the House of Representatives, the
+211 chairpersons of the Senate and House committees to which the rule was referred, and the
+212 legislative counsel within ten days after the adoption of the rule. In the event the
+213 resolution is adopted by such branch house of the General Assembly, it shall be
+214 immediately transmitted to the other branch house of the General Assembly. It shall be
+215 the duty of the presiding officer of the other branch house of the General Assembly to
+216 have such branch house, within five days after the receipt of the resolution, to consider
+217 the resolution for the purpose of overriding the rule. In the event the resolution is
+218 adopted by two-thirds of the votes of each branch house of the General Assembly, the
+219 rule shall be void on the day after the adoption of the resolution by the second branch
+S. B. 28
+- 9 -
+
+25 LC 55 0422
+220 house of the General Assembly. In the event the resolution is ratified by less than
+221 two-thirds of the votes of either branch house, the resolution shall be submitted to the
+222 Governor for his or her approval or veto. In the event of his or her the Governor's veto,
+223 or if no resolution is introduced for the purpose of overriding the rule, or if the resolution
+224 introduced is not approved by at least a majority of the vote of each house of the General
+225 Assembly, the rule shall remain in effect adopted and shall become or remain effective
+226 in accordance with the provisions of Code Section 50-13-6. In the event of his or her
+227 approval the Governor's approval of the resolution, the rule shall be void on the day after
+228 the date of his or her approval.
+229 (2) In the event each standing committee to which a notice is assigned as provided in
+230 subsection (e) of this Code section files an objection objects to a proposed rule prior to
+231 its adoption by a two-thirds' vote of the members of the committee who were voting
+232 members on the tenth day of the current session, after having given public notice of the
+233 time, place, and purpose of such vote at least 48 hours in advance, as well as the
+234 opportunity for members of the public, including the promulgating agency, to have a
+235 reasonable time to comment on the proposed committee action at the hearing, the
+236 effectiveness of such rule shall be stayed until the next legislative session at which time
+237 the rule may be considered by the General Assembly by the introduction of a resolution
+238 in either branch of the General Assembly for the purpose of overriding the rule at any
+239 time within the first 30 days of the next regular session of the General Assembly not be
+240 adopted by the promulgating agency and shall instead be deemed withdrawn by the
+241 promulgating agency unless such agency, within the first 15 days of the next regular
+242 session of the General Assembly, transmits written notification to the chairpersons of the
+243 objecting committees that such agency does not intend to withdraw such rule but instead
+244 intends to adopt such rule following adjournment sine die of that regular session. Such
+245 notification shall include a detailed statement setting forth the basis for and necessity of
+246 the proposed rule, an explanation of how the adoption of the proposed rule is within the
+S. B. 28
+- 10 -
+
+25 LC 55 0422
+247 authority of the promulgating agency, any alternatives to the proposed rule considered
+248 by the promulgating agency, and the potential costs or adverse effects of the proposed
+249 rule, as well as the identification of those likely to bear such costs or adverse effects. A
+250 resolution objecting to the intended adoption of the proposed rule may be introduced in
+251 either house of the General Assembly after the fifteenth day but before the thirtieth day
+252 of the regular session in which the notice of intent not to withdraw the proposed rule was
+253 given by the promulgating agency in accordance with this paragraph. In the event the
+254 resolution is adopted by the branch house of the General Assembly in which it was
+255 introduced, it shall be immediately transmitted to the other branch house of the General
+256 Assembly. It shall be the duty of the presiding officer of the other branch house of the
+257 General Assembly to have such branch house, within five days after the receipt of the
+258 resolution, to consider the resolution for the purpose of overriding objecting to the
+259 intended adoption of the proposed rule. In the event the resolution is adopted by
+260 two-thirds of the votes of each branch house of the General Assembly, the proposed rule
+261 shall be void on the day after the adoption of the resolution by the second branch of the
+262 General Assembly shall be disapproved and shall not be adopted by the promulgating
+263 agency. In the event the resolution is ratified by less than two-thirds of the votes of either
+264 branch house, the resolution shall be submitted to the Governor for his or her approval
+265 or veto. In the event of his or her the Governor's veto, the rule shall remain in effect or
+266 if no resolution is introduced objecting to the proposed rule, or if the resolution
+267 introduced is not approved by at least a majority of the vote of each house of the General
+268 Assembly, the proposed rule shall automatically become adopted the day following
+269 adjournment sine die of that regular session and shall become effective in accordance
+270 with the provisions of Code Section 50-13-6. In the event of his or her the Governor's
+271 approval of the resolution, the proposed rule shall be void on the day after the date of his
+272 or her approval disapproved and shall not be adopted by the promulgating agency. If
+273 after the thirtieth legislative day of the legislative session of which the challenged rule
+S. B. 28
+- 11 -
+
+25 LC 55 0422
+274 was to be considered the General Assembly has not considered an override of the
+275 challenged rule pursuant to this subsection, the rule shall then immediately take effect."
+276 SECTION 2-3.
+277 Said title is further amended by revising Code Section 50-13-6, relating to rules not effective
+278 until 20 days after filed with the Secretary of State, maintenance of record of the rules,
+279 exceptions, and rules governing manner and form of filing, as follows:
+280 "50-13-6.
+281 (a) Each rule adopted after July 1, 1965, shall not become effective until the expiration
+282 of 20 days after the rule is filed in the office of the Secretary of State Except for emergency
+283 rules adopted pursuant to subsection (b) of Code Section 50-13-4, any rule that is adopted
+284 shall not become effective unless it is filed with the office of the Secretary of State and
+285 such rule, if filed with the office of the Secretary of State between January 1 and June 30
+286 of a calendar year, shall become effective on July 1 of that year or, if filed with the office
+287 of the Secretary of State between July 1 and December 31 of a calendar year, shall become
+288 effective on January 1 of the immediately succeeding calendar year. Each rule so filed
+289 shall contain a citation of the authority pursuant to which it was adopted and, if an
+290 amendment or repeal of an existing rule, shall clearly identify the original rule.
+291 (b) Any emergency rule adopted pursuant to subsection (b) of Code Section 50-13-4 shall:
+292 (1) Become effective immediately upon its adoption or on such later date as the
+293 promulgating agency may prescribe and may be effective for a period of not longer than
+294 120 days; provided, however, that such an emergency rule adopted pursuant to a
+295 discharge of responsibility under an executive order declaring that a state of emergency
+296 or disaster exists as a result of a public health emergency, as defined in Code Section
+297 38-3-3, shall be effective for the duration of the emergency or disaster and for a period
+298 of not more than 120 days thereafter; and
+S. B. 28
+- 12 -
+
+25 LC 55 0422
+299 (2) Be filed, along with a copy of the finding as required by subsection (b) of Code
+300 Section 50-13-4, with the office of the Secretary of State within four days after its
+301 adoption.
+302 (b)(c) The Secretary of State shall endorse on each rule thus filed the time and date of
+303 filing and shall maintain a record of the rules for public inspection.
+304 (c) The 20 day filing period is subject to the following exceptions:
+305 (1) Where a statute or the terms of the rule require a date which is later than the 20 day
+306 period, then the later date is the effective date; and
+307 (2) Any emergency rule adopted pursuant to subsection (b) of Code Section 50-13-4 may
+308 become effective immediately upon adoption or within a period of less than 20 days. The
+309 emergency rule, with a copy of the finding as required by subsection (b) of Code
+310 Section 50-13-4, shall be filed with the office of the Secretary of State within four
+311 working days after its adoption.
+312 (d) The Secretary of State shall prescribe rules governing the manner and form in which
+313 regulations shall be prepared for filing. The Secretary may refuse to accept for filing any
+314 rule that does not conform to such requirements."
+315 SECTION 2-4.
+316 Said title is further amended by adding new Code sections to read as follows:
+317 "50-13-24.
+318 (a) Not later than July 1, 2027, the Office of Planning and Budget or other designee of the
+319 Governor shall establish and publish a schedule for the review of the rules of all agencies,
+320 subject to the provisions of this chapter, on a four-year cycle, with the first of such reviews
+321 occurring in the 2028 calendar year. In establishing such schedule, the Office of Planning
+322 and Budget or other designee of the Governor shall take into consideration the volume of
+323 rules that will be subject to review in any given year and the ability of the public to provide
+324 meaningful input into such reviews. An agency that has been through a review under this
+S. B. 28
+- 13 -
+
+25 LC 55 0422
+325 Code section previously and, in the intervening years since such last review, has not
+326 increased the number of its rules by more than 10 percent shall be exempt from review
+327 under this Code section during that cycle.
+328 (b) The Office of Planning and Budget or other designee of the Governor shall notify in
+329 December of the immediately preceding year each agency whose rules are subject to
+330 review in a given calendar year of the upcoming review period. All rules of an agency that
+331 are scheduled for review under this Code section shall stand automatically repealed on
+332 December 31 of the review year unless the rules are continued or repromulgated pursuant
+333 to this Code section.
+334 (c) In the year of review, each agency shall undertake an analysis of each of its rules and
+335 shall create a written report of the results of such analysis. Such analysis shall consider:
+336 (1) Whether the benefits sought to be achieved by the rule are being realized and are in
+337 compliance with current law;
+338 (2) Whether such benefits justify the costs of implementing and complying with the
+339 provisions of the rule; and
+340 (3) Whether there are less restrictive and less costly alternatives to accomplish the
+341 desired benefits or results.
+342 The Office of Planning and Budget or other designee of the Governor shall develop and
+343 provide to each agency a standardized process and forms for such analysis and shall make
+344 such process and forms available on the Office of Planning and Budget's public website not
+345 later than October 1, 2027. Such analysis shall be completed not later than September 1
+346 of the year of review. Such analysis shall be published on the agency's public website upon
+347 its completion and shall be submitted to the Office of Planning and Budget or other
+348 designee of the Governor for review.
+349 (d) As a part of the rules analysis process, each agency shall solicit public input on the
+350 impact, cost, and effectiveness of its rules. The public shall be notified of the opportunity
+351 to provide such input in a manner designed to obtain the widest possible public notification
+S. B. 28
+- 14 -
+
+25 LC 55 0422
+352 of interested parties, as well as by mailing such notice to all persons who have requested
+353 in writing that they be placed upon the mailing list maintained by the agency for advance
+354 notice of its rule-making proceedings. The notice shall include a date by which public
+355 input shall be submitted for consideration which shall be not less than 30 days after the date
+356 the notice is published. Such notice shall be published not later than March 1 of the review
+357 year. In addition, the agency shall conduct at least two public hearings to receive public
+358 comment on its rules. Such public hearings shall be held in a manner designed to
+359 maximize public input and shall be completed not later than July 1 of the review year.
+360 (e) Agencies that desire to continue their rules in effect shall not simply repromulgate the
+361 rules and regulations without critical review of the necessity, effectiveness, and cost of
+362 such rules; without considering possible less onerous, less costly, and more effective
+363 alternatives to such rules; and without determining whether such rules or regulations are
+364 actually necessary.
+365 (f) Any rule that an agency desires to continue or repromulgate shall be repromulgated in
+366 the same manner as for new rules under this chapter. Any continuation or repromulgation
+367 of a rule shall reduce or maintain the current regulatory burden and costs of such rule and
+368 shall not increase such burden or costs.
+369 (g) The provisions of this Code section shall not apply to constitutional officers or their
+370 respective agencies, as such terms are defined in subsection (a) of Code Section 50-13-25.
+371 50-13-25.
+372 (a) As used in this Code section, the term:
+373 (1) 'Constitutional officer' means the Attorney General, the Secretary of State, the
+374 Commissioner of Agriculture, the Commissioner of Insurance, the Commissioner of
+375 Labor, and the State School Superintendent.
+376 (2) 'Respective agency' means:
+377 (A) With respect to the Attorney General, the Department of Law;
+S. B. 28
+- 15 -
+
+25 LC 55 0422
+378 (B) With respect to the Secretary of State, the office of the Secretary of State;
+379 (C) With respect to the Commissioner of Agriculture, the Department of Agriculture;
+380 (D) With respect to the Commissioner of Insurance, the Department of Insurance;
+381 (E) With respect to the Commissioner of Labor, the Department of Labor; and
+382 (F) With respect to the State School Superintendent, the Department of Education.
+383 (b) All constitutional officers shall, subject to the provisions of this chapter, review all of
+384 the rules promulgated by such constitutional officers, their predecessors, or their respective
+385 agencies that are in effect every four years, with the first year of review being the 2028
+386 calendar year. In subsequent review years after 2028, each constitutional officer and such
+387 officer's respective agency that has not, in the intervening years since such last review,
+388 increased the number of its rules by more than 10 percent shall be exempt from review
+389 under this Code section during that year of review.
+390 (c) All rules of a constitutional officer and such officer's respective agency that are
+391 scheduled for review under this Code section shall stand automatically repealed on
+392 December 31 of the review year unless the rules are continued or repromulgated pursuant
+393 to this Code section.
+394 (d) In the year of review, each constitutional officer and such officer's respective agencies
+395 shall undertake an analysis of each of its rules and shall create a written report of the results
+396 of such analysis. Such analysis shall consider:
+397 (1) Whether the benefits sought to be achieved by the rule are being realized and are in
+398 compliance with current law;
+399 (2) Whether such benefits justify the costs of implementing and complying with the
+400 provisions of the rule; and
+401 (3) Whether there are less restrictive and less costly alternatives to accomplish the
+402 desired benefits or results.
+S. B. 28
+- 16 -
+
+25 LC 55 0422
+403 Such analysis shall be completed not later than September 1 of the year of review. Such
+404 analysis shall be published by the constitutional officer on such officer's respective
+405 agency's public website upon its completion.
+406 (e) As a part of the rules analysis process, each constitutional officer and such officer's
+407 respective agency shall solicit public input on the impact, cost, and effectiveness of its
+408 rules. The public shall be notified of the opportunity to provide such input in a manner
+409 designed to obtain the widest possible public notification of interested parties, as well as
+410 by mailing such notice to all persons who have requested in writing that they be placed
+411 upon the mailing list maintained by each constitutional officer or such officer's respective
+412 agency for advance notice of its rule-making proceedings. The notice shall include a date
+413 by which public input shall be submitted for consideration which shall be not less than 30
+414 days after the date the notice is published. Such notice shall be published not later than
+415 March 1 of the review year. In addition, each constitutional officer and such officer's
+416 respective agency shall conduct at least two public hearings to receive public comment on
+417 its rules. Such public hearings shall be held in a manner designed to maximize public input
+418 and shall be completed not later than July 1 of the review year.
+419 (f) Constitutional officers and their respective agencies that desire to continue their rules
+420 in effect shall not simply repromulgate the rules and regulations without critical review of
+421 the necessity, effectiveness, and cost of such rules; without considering possible less
+422 onerous, less costly, and more effective alternatives to such rules; and without determining
+423 whether such rules or regulations are actually necessary.
+424 (g) Any rule that a constitutional officer or such officer's respective agency desires to
+425 continue or repromulgate shall be repromulgated in the same manner as for new rules under
+426 this chapter. Any continuation or repromulgation of a rule shall reduce or maintain the
+427 current regulatory burden and costs of such rule and shall not increase such burden or
+428 costs."
+S. B. 28
+- 17 -
+
+25 LC 55 0422
+429 PART III
+430 SECTION 3-1.
+431 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended in Code
+432 Section 31-6-21.1, relating to procedures for rule making by the Department of Community
+433 Health, by revising subsections (c) and (f) as follows:
+434 "(c) Any rule or part thereof to which an objection is made by both committees within the
+435 30 day objection period under subsection (b) of this Code section shall not be adopted by
+436 the department and shall be invalid if so adopted. A rule or part thereof thus prohibited
+437 from being adopted shall be deemed to have been withdrawn by the department unless the
+438 department, within the first 15 days of the next regular session of the General Assembly,
+439 transmits written notification to each member of the objecting committees that the
+440 department does not intend to withdraw that rule or part thereof but intends to adopt the
+441 specified rule or part effective the day following adjournment sine die of that regular
+442 session. A resolution objecting to such intended adoption may be introduced in either
+443 branch house of the General Assembly after the fifteenth day but before the thirtieth day
+444 of the session in which occurs the notification of intent not to withdraw a rule or part
+445 thereof. In the event the resolution is adopted by the branch house of the General
+446 Assembly in which the resolution was introduced, it shall be immediately transmitted to
+447 the other branch house of the General Assembly. It shall be the duty of the presiding
+448 officer of the other branch house to have that branch house, within five days after receipt
+449 of the resolution, consider the resolution for purposes of objecting to the intended adoption
+450 of the rule or part thereof. Upon such resolution being adopted by two-thirds of the vote
+451 of each branch house of the General Assembly, the rule or part thereof objected to in that
+452 resolution shall be disapproved and not adopted by the department. If the resolution is
+453 adopted by a majority but by less than two-thirds of the vote of each such branch house,
+454 the resolution shall be submitted to the Governor for his or her approval or veto. In the
+S. B. 28
+- 18 -
+
+25 LC 55 0422
+455 event of a veto, or if no resolution is introduced objecting to the rule, or if the resolution
+456 introduced is not approved by at least a majority of the vote of each such branch house, the
+457 rule shall automatically become adopted the day following adjournment sine die of that
+458 regular session. In the event of the Governor's approval of the resolution, the rule shall be
+459 disapproved and not adopted by the department."
+460 "(f) Emergency rules shall not be subject to the requirements of subsection (b), (c), or (d)
+461 of this Code section but shall be subject to the requirements of subsection (b) of Code
+462 Section 50-13-4 and subsection (b) of Code Section 50-13-6. Upon the first expiration of
+463 any department emergency rules, where those emergency rules are intended to cover
+464 matters which had been dealt with by the department's nonemergency rules but such
+465 nonemergency rules have been objected to by both legislative committees under this Code
+466 section, the emergency rules concerning those matters may not again be adopted except for
+467 one 120 day period. No emergency rule or part thereof which is adopted by the department
+468 shall be valid unless adopted in compliance with this subsection."
+469 SECTION 3-2.
+470 Title 50 of the Official Code of Georgia Annotated, relating to state government, is amended
+471 in Code Section 50-13A-20, relating to applicability of provisions, by revising paragraph (3)
+472 of subsection (b) as follows:
+473 "(3) Code Section 50-13-6, except for paragraph (2) of subsection (c)(b);"
+474 PART IV
+475 SECTION 4-1.
+476 (a) Except as provided for in subsection (b) of this section, this Act shall become effective
+477 upon its approval by the Governor or upon its becoming law without such approval.
+478 (b) Section 2-4 of this Act shall become effective on June 1, 2027.
+S. B. 28
+- 19 -
+
+25 LC 55 0422
+479 SECTION 4-2.
+480 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 28
+- 20 -
+
+[DELETED: 5L A h a s g r s a t p f f l c t r p c t a o t p f p r a s o a r t c]
+[DELETED: 5L a s b i a f a b m o b r b t]
+[DELETED: 5L]
+[DELETED: 5L  T G t P o t S o a m o t G  T G t P o t S t S o t H o o t c o a c t w s b h b b i a o r s b i a r]
+[DELETED: 5L]
+[DELETED: 5L $ m o m i c i a c c a i m]
+[DELETED: 5L i o a o a n d i t f a]
+[DELETED: 5L  E t n p f i p ( o t s t e o a s c i e h a s o t G o w i e f t u t p o b n l t s p s a q c]
+[DELETED: 5L t p o o t S a t H o R t  I t i a b s b h o t G A i s b]
+[DELETED: 5L p a p o s v a l 4 h i a a w a t t t c o t p c a a t h t]
+[DELETED: 5L a o t p r  I t e t r i a b n r i i o t t p r o i t r]
+[DELETED: 5L t b c t G A h n c a o o t c a c o t a p t w i w a a i a  B e i u i a o o s l d a t d p h t s a e r a p t ]
+[DELETED: 5L r w a c o t f a r b s ( o C]
+[DELETED: 5L]
+[DELETED: 5L o i r  S p h s b h i a m d t]
+[DELETED: 5L f r u t C s s s a r o]
+[DELETED: 5L s b p b t c o o s o r]
+[DELETED: 5L w n t e m o t o c t t  I t e t r i a b t b h o t G]
+[DELETED: 5L]
+[DELETED: 5L]

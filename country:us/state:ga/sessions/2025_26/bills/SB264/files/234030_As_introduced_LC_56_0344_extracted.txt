@@ -1,0 +1,474 @@
+Title: Senate Bill 264
+Official Title: Senate Bill 264
+Number of Sections: 1
+Source: versions - As introduced LC 56 0344
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25 LC 56 0344
+By: Senators Goodman of the 8th, Payne of the 54th, Jackson of the 41st, Brass of the 6th,
+Jones II of the 22nd and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 3 of Title 38 of the Official Code of Georgia Annotated, relating to
+2 emergency management, so as to provide for the creation of the Georgia Resilience Office
+3 under the Georgia Emergency Management and Homeland Security Agency; to provide for
+4 a board of directors; to provide for the purpose, membership, and duties of such board; to
+5 provide for reports; to provide for the hiring of staff; to provide for compensation and
+6 funding; to provide for definitions; to provide for related matters; to provide for a short title;
+7 to provide for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Chapter 3 of Title 38 of the Official Code of Georgia Annotated, relating to emergency
+11 management, is amended by adding a new article to read as follows:
+12 "ARTICLE 13
+13 38-3-200.
+14 This article shall be known and may be cited as the 'Georgia Resilience Act.'
+S. B. 264
+- 1 -
+25 LC 56 0344
+15 38-3-201.
+16 As used in this article, the term:
+17 (1) 'Board of directors' or 'board' means the governing body of the office.
+18 (2) 'Critical infrastructure' means publicly or privately owned facilities, systems,
+19 functions, or assets, whether physical or virtual, providing or distributing services for the
+20 benefit of the public, including, but not limited to, energy, fuel, water, agriculture,
+21 healthcare, finance, communication, or any other vital public service.
+22 (3) 'Office' means the Georgia Resilience Office established pursuant to Code
+23 Section 38-3-202.
+24 38-3-202.
+25 (a) There is established the Georgia Resilience Office. The office shall be an entity within
+26 the Georgia Emergency Management and Homeland Security Agency and attached to such
+27 agency for all operational purposes.
+28 (b) The primary purpose of the office shall be to plan for and coordinate state-wide
+29 resilience and disaster recovery efforts, including coordination with federal, state, and local
+30 governmental agencies, stakeholders, and nongovernmental entities. Responsibilities shall
+31 include, but are not limited to, the following:
+32 (1) To establish mechanisms to coordinate, integrate, and expand disaster recovery,
+33 hazard mitigation, and resilience related programs and activities among state agencies and
+34 to encourage intergovernmental as well as cross-sector coordination and collaboration;
+35 (2) To develop, implement, and maintain a state-wide resilience plan as a framework to
+36 guide state investments in disaster mitigation projects and the adoption of programs and
+37 policies to protect the people and property of Georgia from the damage and destruction
+38 of extreme weather events. The state-wide resilience plan shall be reviewed and revised
+39 by December 31 in even-numbered years to ensure that it continues to serve the health,
+40 safety, and welfare of the citizens of Georgia. The first version of the resilience plan
+S. B. 264
+- 2 -
+25 LC 56 0344
+41 shall be completed by December 31, 2026, and shall, at minimum, include provisions
+42 that:
+43 (A) Describe known risks in each of the regional commissions established in Code
+44 Section 50-8-32 and examine present and potential losses associated with the
+45 occurrence of disaster events in this state and land management practices that potentiate
+46 extreme weather events, resulting in increased flooding, wildfire, drought, and extreme
+47 heat conditions. The risk assessment shall use best available scientific data to consider
+48 present and potential state-wide impacts across a wide spectrum of hazards;
+49 (B) Assess the vulnerability of infrastructure systems including transportation and
+50 energy distribution systems and critical infrastructure at the state and municipal levels,
+51 including, but not limited to, hospitals, schools, fire stations, comparable facilities, and
+52 historical and cultural resources;
+53 (C) Identify data and information gaps that affect the capacity of state agencies or local
+54 governments to adequately evaluate and address the factors that increase disaster risk,
+55 and recommend strategies to overcome such gaps;
+56 (D) Develop a prioritized list of specific policies, programs, and resilience actions to
+57 decrease vulnerabilities and adverse impacts associated with extreme weather and
+58 disasters. Descriptions of proposed resilience actions shall include intended benefits,
+59 potential costs, and an anticipated timeline for implementation. In developing these
+60 actions, the office shall, at a minimum, consider:
+61 (i) Economic impacts attributed to current and best available projections of future
+62 risk from extreme weather events in this state, including, but not limited to, impacts
+63 on forestry, agriculture, water and other natural resources, food systems, housing
+64 stock, economic activity, wildlife, critical infrastructure, economic development
+65 potential and security, education, and public health;
+66 (ii) The long-term costs, including ongoing operation and maintenance costs of
+67 specific projects, suites, and approaches of hazard mitigation;
+S. B. 264
+- 3 -
+25 LC 56 0344
+68 (iii) Opportunities to prioritize the role of nature based solutions and other methods
+69 to restore the resilience functions of natural systems and reduce disaster risk;
+70 (iv) Potential co-benefits that may be achieved beyond risk mitigation, including, but
+71 not limited to, enhanced water supply, improvements in water quality, tourism and
+72 recreational opportunities, or protection of wildlife and aquatic resources;
+73 (v) Statutory or regulatory remedies for consideration by the General Assembly;
+74 (vi) State policies or responses, including alterations to state building codes and land
+75 use management;
+76 (vii) Potential benefits of additional programs or offices;
+77 (viii) How the action may complement or operate concurrently to any relevant
+78 existing activities undertaken by any state agency, unit of local government, or other
+79 relevant public or private entity, or any activity included in the state-wide resilience
+80 plan;
+81 (ix) Practical steps that can be taken to improve efficiencies and to pool and leverage
+82 resources to improve disaster recovery and resilience; and
+83 (x) Potential financial resources available for increasing resilience throughout this
+84 state;
+85 (E) Provide for the provision of resources, technical assistance, and other support to
+86 local governments to develop resilience plans or incorporate resilience planning into
+87 local and regional plans, and propose and implement resilience projects;
+88 (F) Identify metrics and measure progress and success toward state-wide resilience
+89 goals;
+90 (G) Integrate recommended approaches to risk reduction into existing state strategies
+91 for hazard mitigation, environmental protection, and economic opportunity and
+92 development; and
+93 (H) Incorporate stakeholder and community input from citizens across this state;
+S. B. 264
+- 4 -
+25 LC 56 0344
+94 (3) To lead long-term recovery planning efforts on behalf of the state in the event of the
+95 proclamation of the existence of a state of emergency due to a natural disaster, or upon
+96 a presidential declaration of a major disaster under Section 406 of the federal Robert T.
+97 Stafford Disaster Relief and Emergency Assistance Act;
+98 (4) To provide education and outreach on issues of disaster risk to the citizens of this
+99 state;
+100 (5) To collect, pursue, and expend additional funds and resources to assist not only with
+101 long-term recovery efforts but also long-term community and state-wide resiliency
+102 efforts, including to:
+103 (A) Accept and use funds from the federal government and its agencies and
+104 instrumentalities, private corporations, partnerships, associations, and individuals for
+105 the purposes of the development and implementation of the state-wide resilience plan,
+106 improved coordination of resilience activities, disaster recovery, hazard mitigation, risk
+107 mitigation, and disaster response programs;
+108 (B) Monitor federal funds and initiatives that become available for disaster recovery
+109 and economic and community resiliency or other flood or hazard mitigation; and
+110 (C) Use funds administered by the office for the maintenance, construction, or
+111 reconstruction of capital repair and replacement items as necessary to effectuate the
+112 purposes of this article; and
+113 (6) To provide grants to institutions of higher education and other state and local
+114 governmental entities to conduct research related to resilience concerns specific to
+115 Georgia and consult with qualified nonpartisan experts from the scientific and disaster
+116 resilience community.
+117 (c) Control and management of the office shall be vested in a board of directors which
+118 shall consist of 12 members as follows:
+119 (1) The director of the Georgia Emergency Management and Homeland Security Agency
+120 or his or her designee;
+S. B. 264
+- 5 -
+25 LC 56 0344
+121 (2) The commissioner of community affairs or his or her designee;
+122 (3) The commissioner of transportation or his or her designee;
+123 (4) The commissioner of natural resources or his or her designee;
+124 (5) The director of the State Forestry Commission or his or her designee;
+125 (6) The chief resilience officer or his or her designee;
+126 (7) One member shall be a representative of county-level government;
+127 (8) One member shall be a representative from a municipal government;
+128 (9) Two members shall be from the House of Representatives and appointed by the
+129 Speaker of the House of Representatives; and
+130 (10) Two members shall be from the Senate and appointed by the President of the
+131 Senate.
+132 (d) The initial term for appointments shall be two years and shall be made by
+133 December 1, 2025. All subsequent terms shall be for four years. Any vacancies that occur
+134 prior to the end of a term shall be filled by appointment in the same manner as the original
+135 appointment and shall be for the remainder of the unexpired term. Members shall be
+136 eligible for reappointment so long as they continue to meet the requirements for
+137 appointment. A member who becomes ineligible for reappointment to his or her seat
+138 during his or her term may serve out the remainder of such term.
+139 (e) The board may appoint additional persons, such as representatives from educational
+140 institutions and nongovernmental organizations with specific expertise in disaster
+141 resilience, to serve in an advisory role to the board. Such advisers shall be nonvoting and
+142 shall not be counted toward a quorum.
+143 (f) A majority of the board shall constitute a quorum, and the concurrence of a majority
+144 shall be required for the determination of any matter within its duties.
+145 (g) The chairperson of the board shall be the director of the Georgia Emergency
+146 Management and Homeland Security Agency or his or her designee. At the initial meeting
+147 of the board, the board shall elect from its membership a vice chairperson and a secretary
+S. B. 264
+- 6 -
+25 LC 56 0344
+148 and a treasurer. The board may combine the two latter offices and designate the combined
+149 office as secretary-treasurer.
+150 (h) The board of directors shall promulgate bylaws and may adopt other procedures for
+151 governing its affairs and for discharging its duties as may be permitted or required by law
+152 or applicable rules and regulations.
+153 (i) The board shall meet no less than once each calendar quarter at a time and place
+154 designated by the chairperson.
+155 38-3-203.
+156 (a) There is established the position of chief resilience officer who shall be the
+157 administrative head of the office.
+158 (b) The chairperson of the board shall nominate a chief resilience officer, subject to
+159 approval by the board.
+160 (c) The chairperson of the board shall establish the salary of the chief resilience officer,
+161 subject to approval by the board, and the salary of such officer shall be drawn from the
+162 general budget of the office.
+163 (d) The chief resilience officer shall serve at the pleasure of the board. The chief resilience
+164 officer, with the concurrence and approval of the chairperson of the board, shall:
+165 (1) Serve as coordinator of all economic and community resilience planning and
+166 implementation efforts, including, but not limited to, resilience programs and activities
+167 in this state;
+168 (2) Hire officers, agents, and employees; prescribe their duties, responsibilities, and
+169 qualifications; set their salaries; and perform such other duties as may be prescribed by
+170 the office. Such officers, agents, and employees shall serve at the pleasure of the chief
+171 resilience officer;
+S. B. 264
+- 7 -
+25 LC 56 0344
+172 (3) Coordinate an annual review of the state-wide resilience plan and update the plan no
+173 less than biennially, with updates due to the board no later than September 30 in
+174 even-numbered years;
+175 (4) Report to the General Assembly at least annually regarding progress developing and
+176 implementing a state-wide resilience plan and improving interagency coordination;
+177 (5) Coordinate planning of resilience projects with federal agencies;
+178 (6) Establish a public website, which shall be the public dissemination of relevant
+179 information relevant to state-wide resilience efforts;
+180 (7) Establish and facilitate regular communication between federal, state, local, and
+181 private sector agencies and organizations to further economic and disaster resilience;
+182 (8) Execute cooperative agreements, where appropriate, between the office and the
+183 federal and state governments; and
+184 (9) Contract, where appropriate, on behalf of the office, with the federal government and
+185 its instrumentalities and agencies; any state or territory or the District of Columbia and
+186 instrumentalities or agencies thereof; municipalities; foreign governments; public bodies;
+187 private corporations; partnerships; associations; and individuals."
+188 SECTION 2.
+189 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 264
+- 8 -
+[DELETED: 5L]
+[DELETED: 5L  ' i m p o p o f s o t  ' m t G R O e p t C]
+[DELETED: 5L 5 a e p a p l a w t e a w c i e d]
+[DELETED: 5L h m e p a e o a]
+[DELETED: 5L r e b a l c a s r  A a u f f t f g a i a a  U f a b t o f t m c o  T p g t i o h e a o s a l e t c r r t r c s t]
+[DELETED: 5L  T i t f a s b t y a s b m b f r s l a t c t m t r f a n o w s e i d  T c o t b s b t d o t G E]
+[DELETED: 5L  T i e t p o c r o w s b t  S a c o a e a c r p a]
+[DELETED: 5L t b w u d t t b n l t S 3 i]
+
+
+================================================================================
+
+Raw Text:
+25 LC 56 0344
+Senate Bill 264
+By: Senators Goodman of the 8th, Payne of the 54th, Jackson of the 41st, Brass of the 6th,
+Jones II of the 22nd and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 3 of Title 38 of the Official Code of Georgia Annotated, relating to
+2 emergency management, so as to provide for the creation of the Georgia Resilience Office
+3 under the Georgia Emergency Management and Homeland Security Agency; to provide for
+4 a board of directors; to provide for the purpose, membership, and duties of such board; to
+5 provide for reports; to provide for the hiring of staff; to provide for compensation and
+6 funding; to provide for definitions; to provide for related matters; to provide for a short title;
+7 to provide for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Chapter 3 of Title 38 of the Official Code of Georgia Annotated, relating to emergency
+11 management, is amended by adding a new article to read as follows:
+12 "ARTICLE 13
+13 38-3-200.
+14 This article shall be known and may be cited as the 'Georgia Resilience Act.'
+S. B. 264
+- 1 -
+
+25 LC 56 0344
+15 38-3-201.
+16 As used in this article, the term:
+17 (1) 'Board of directors' or 'board' means the governing body of the office.
+18 (2) 'Critical infrastructure' means publicly or privately owned facilities, systems,
+19 functions, or assets, whether physical or virtual, providing or distributing services for the
+20 benefit of the public, including, but not limited to, energy, fuel, water, agriculture,
+21 healthcare, finance, communication, or any other vital public service.
+22 (3) 'Office' means the Georgia Resilience Office established pursuant to Code
+23 Section 38-3-202.
+24 38-3-202.
+25 (a) There is established the Georgia Resilience Office. The office shall be an entity within
+26 the Georgia Emergency Management and Homeland Security Agency and attached to such
+27 agency for all operational purposes.
+28 (b) The primary purpose of the office shall be to plan for and coordinate state-wide
+29 resilience and disaster recovery efforts, including coordination with federal, state, and local
+30 governmental agencies, stakeholders, and nongovernmental entities. Responsibilities shall
+31 include, but are not limited to, the following:
+32 (1) To establish mechanisms to coordinate, integrate, and expand disaster recovery,
+33 hazard mitigation, and resilience related programs and activities among state agencies and
+34 to encourage intergovernmental as well as cross-sector coordination and collaboration;
+35 (2) To develop, implement, and maintain a state-wide resilience plan as a framework to
+36 guide state investments in disaster mitigation projects and the adoption of programs and
+37 policies to protect the people and property of Georgia from the damage and destruction
+38 of extreme weather events. The state-wide resilience plan shall be reviewed and revised
+39 by December 31 in even-numbered years to ensure that it continues to serve the health,
+40 safety, and welfare of the citizens of Georgia. The first version of the resilience plan
+S. B. 264
+- 2 -
+
+25 LC 56 0344
+41 shall be completed by December 31, 2026, and shall, at minimum, include provisions
+42 that:
+43 (A) Describe known risks in each of the regional commissions established in Code
+44 Section 50-8-32 and examine present and potential losses associated with the
+45 occurrence of disaster events in this state and land management practices that potentiate
+46 extreme weather events, resulting in increased flooding, wildfire, drought, and extreme
+47 heat conditions. The risk assessment shall use best available scientific data to consider
+48 present and potential state-wide impacts across a wide spectrum of hazards;
+49 (B) Assess the vulnerability of infrastructure systems including transportation and
+50 energy distribution systems and critical infrastructure at the state and municipal levels,
+51 including, but not limited to, hospitals, schools, fire stations, comparable facilities, and
+52 historical and cultural resources;
+53 (C) Identify data and information gaps that affect the capacity of state agencies or local
+54 governments to adequately evaluate and address the factors that increase disaster risk,
+55 and recommend strategies to overcome such gaps;
+56 (D) Develop a prioritized list of specific policies, programs, and resilience actions to
+57 decrease vulnerabilities and adverse impacts associated with extreme weather and
+58 disasters. Descriptions of proposed resilience actions shall include intended benefits,
+59 potential costs, and an anticipated timeline for implementation. In developing these
+60 actions, the office shall, at a minimum, consider:
+61 (i) Economic impacts attributed to current and best available projections of future
+62 risk from extreme weather events in this state, including, but not limited to, impacts
+63 on forestry, agriculture, water and other natural resources, food systems, housing
+64 stock, economic activity, wildlife, critical infrastructure, economic development
+65 potential and security, education, and public health;
+66 (ii) The long-term costs, including ongoing operation and maintenance costs of
+67 specific projects, suites, and approaches of hazard mitigation;
+S. B. 264
+- 3 -
+
+25 LC 56 0344
+68 (iii) Opportunities to prioritize the role of nature based solutions and other methods
+69 to restore the resilience functions of natural systems and reduce disaster risk;
+70 (iv) Potential co-benefits that may be achieved beyond risk mitigation, including, but
+71 not limited to, enhanced water supply, improvements in water quality, tourism and
+72 recreational opportunities, or protection of wildlife and aquatic resources;
+73 (v) Statutory or regulatory remedies for consideration by the General Assembly;
+74 (vi) State policies or responses, including alterations to state building codes and land
+75 use management;
+76 (vii) Potential benefits of additional programs or offices;
+77 (viii) How the action may complement or operate concurrently to any relevant
+78 existing activities undertaken by any state agency, unit of local government, or other
+79 relevant public or private entity, or any activity included in the state-wide resilience
+80 plan;
+81 (ix) Practical steps that can be taken to improve efficiencies and to pool and leverage
+82 resources to improve disaster recovery and resilience; and
+83 (x) Potential financial resources available for increasing resilience throughout this
+84 state;
+85 (E) Provide for the provision of resources, technical assistance, and other support to
+86 local governments to develop resilience plans or incorporate resilience planning into
+87 local and regional plans, and propose and implement resilience projects;
+88 (F) Identify metrics and measure progress and success toward state-wide resilience
+89 goals;
+90 (G) Integrate recommended approaches to risk reduction into existing state strategies
+91 for hazard mitigation, environmental protection, and economic opportunity and
+92 development; and
+93 (H) Incorporate stakeholder and community input from citizens across this state;
+S. B. 264
+- 4 -
+
+25 LC 56 0344
+94 (3) To lead long-term recovery planning efforts on behalf of the state in the event of the
+95 proclamation of the existence of a state of emergency due to a natural disaster, or upon
+96 a presidential declaration of a major disaster under Section 406 of the federal Robert T.
+97 Stafford Disaster Relief and Emergency Assistance Act;
+98 (4) To provide education and outreach on issues of disaster risk to the citizens of this
+99 state;
+100 (5) To collect, pursue, and expend additional funds and resources to assist not only with
+101 long-term recovery efforts but also long-term community and state-wide resiliency
+102 efforts, including to:
+103 (A) Accept and use funds from the federal government and its agencies and
+104 instrumentalities, private corporations, partnerships, associations, and individuals for
+105 the purposes of the development and implementation of the state-wide resilience plan,
+106 improved coordination of resilience activities, disaster recovery, hazard mitigation, risk
+107 mitigation, and disaster response programs;
+108 (B) Monitor federal funds and initiatives that become available for disaster recovery
+109 and economic and community resiliency or other flood or hazard mitigation; and
+110 (C) Use funds administered by the office for the maintenance, construction, or
+111 reconstruction of capital repair and replacement items as necessary to effectuate the
+112 purposes of this article; and
+113 (6) To provide grants to institutions of higher education and other state and local
+114 governmental entities to conduct research related to resilience concerns specific to
+115 Georgia and consult with qualified nonpartisan experts from the scientific and disaster
+116 resilience community.
+117 (c) Control and management of the office shall be vested in a board of directors which
+118 shall consist of 12 members as follows:
+119 (1) The director of the Georgia Emergency Management and Homeland Security Agency
+120 or his or her designee;
+S. B. 264
+- 5 -
+
+25 LC 56 0344
+121 (2) The commissioner of community affairs or his or her designee;
+122 (3) The commissioner of transportation or his or her designee;
+123 (4) The commissioner of natural resources or his or her designee;
+124 (5) The director of the State Forestry Commission or his or her designee;
+125 (6) The chief resilience officer or his or her designee;
+126 (7) One member shall be a representative of county-level government;
+127 (8) One member shall be a representative from a municipal government;
+128 (9) Two members shall be from the House of Representatives and appointed by the
+129 Speaker of the House of Representatives; and
+130 (10) Two members shall be from the Senate and appointed by the President of the
+131 Senate.
+132 (d) The initial term for appointments shall be two years and shall be made by
+133 December 1, 2025. All subsequent terms shall be for four years. Any vacancies that occur
+134 prior to the end of a term shall be filled by appointment in the same manner as the original
+135 appointment and shall be for the remainder of the unexpired term. Members shall be
+136 eligible for reappointment so long as they continue to meet the requirements for
+137 appointment. A member who becomes ineligible for reappointment to his or her seat
+138 during his or her term may serve out the remainder of such term.
+139 (e) The board may appoint additional persons, such as representatives from educational
+140 institutions and nongovernmental organizations with specific expertise in disaster
+141 resilience, to serve in an advisory role to the board. Such advisers shall be nonvoting and
+142 shall not be counted toward a quorum.
+143 (f) A majority of the board shall constitute a quorum, and the concurrence of a majority
+144 shall be required for the determination of any matter within its duties.
+145 (g) The chairperson of the board shall be the director of the Georgia Emergency
+146 Management and Homeland Security Agency or his or her designee. At the initial meeting
+147 of the board, the board shall elect from its membership a vice chairperson and a secretary
+S. B. 264
+- 6 -
+
+25 LC 56 0344
+148 and a treasurer. The board may combine the two latter offices and designate the combined
+149 office as secretary-treasurer.
+150 (h) The board of directors shall promulgate bylaws and may adopt other procedures for
+151 governing its affairs and for discharging its duties as may be permitted or required by law
+152 or applicable rules and regulations.
+153 (i) The board shall meet no less than once each calendar quarter at a time and place
+154 designated by the chairperson.
+155 38-3-203.
+156 (a) There is established the position of chief resilience officer who shall be the
+157 administrative head of the office.
+158 (b) The chairperson of the board shall nominate a chief resilience officer, subject to
+159 approval by the board.
+160 (c) The chairperson of the board shall establish the salary of the chief resilience officer,
+161 subject to approval by the board, and the salary of such officer shall be drawn from the
+162 general budget of the office.
+163 (d) The chief resilience officer shall serve at the pleasure of the board. The chief resilience
+164 officer, with the concurrence and approval of the chairperson of the board, shall:
+165 (1) Serve as coordinator of all economic and community resilience planning and
+166 implementation efforts, including, but not limited to, resilience programs and activities
+167 in this state;
+168 (2) Hire officers, agents, and employees; prescribe their duties, responsibilities, and
+169 qualifications; set their salaries; and perform such other duties as may be prescribed by
+170 the office. Such officers, agents, and employees shall serve at the pleasure of the chief
+171 resilience officer;
+S. B. 264
+- 7 -
+
+25 LC 56 0344
+172 (3) Coordinate an annual review of the state-wide resilience plan and update the plan no
+173 less than biennially, with updates due to the board no later than September 30 in
+174 even-numbered years;
+175 (4) Report to the General Assembly at least annually regarding progress developing and
+176 implementing a state-wide resilience plan and improving interagency coordination;
+177 (5) Coordinate planning of resilience projects with federal agencies;
+178 (6) Establish a public website, which shall be the public dissemination of relevant
+179 information relevant to state-wide resilience efforts;
+180 (7) Establish and facilitate regular communication between federal, state, local, and
+181 private sector agencies and organizations to further economic and disaster resilience;
+182 (8) Execute cooperative agreements, where appropriate, between the office and the
+183 federal and state governments; and
+184 (9) Contract, where appropriate, on behalf of the office, with the federal government and
+185 its instrumentalities and agencies; any state or territory or the District of Columbia and
+186 instrumentalities or agencies thereof; municipalities; foreign governments; public bodies;
+187 private corporations; partnerships; associations; and individuals."
+188 SECTION 2.
+189 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 264
+- 8 -
+
+[DELETED: 5L]
+[DELETED: 5L  ' i m p o p o f s o t  ' m t G R O e p t C]
+[DELETED: 5L 5 a e p a p l a w t e a w c i e d]
+[DELETED: 5L h m e p a e o a]
+[DELETED: 5L r e b a l c a s r  A a u f f t f g a i a a  U f a b t o f t m c o  T p g t i o h e a o s a l e t c r r t r c s t]
+[DELETED: 5L  T i t f a s b t y a s b m b f r s l a t c t m t r f a n o w s e i d  T c o t b s b t d o t G E]
+[DELETED: 5L  T i e t p o c r o w s b t  S a c o a e a c r p a]
+[DELETED: 5L t b w u d t t b n l t S 3 i]

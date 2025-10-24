@@ -1,0 +1,155 @@
+Title: House Bill 695
+Official Title: House Bill 695
+Number of Sections: 1
+Source: versions - LC 61 0155/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 61 0155
+By: Representatives Santos of the 117th, Reese of the 140th, Bell of the 75th, Berry of the 56th,
+Flournoy of the 74th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 3 of Article 7 of Chapter 3 of Title 20 of the Official Code of Georgia
+2 Annotated, relating to the Georgia Student Finance Authority, so as to establish a needs
+3 based financial aid program to award grants to eligible students who have not yet received
+4 their financial aid award so that such students can obtain the essential materials they need to
+5 begin classes; to provide a maximum award amount; to provide definitions; to provide for
+6 eligibility; to provide for applications; to provide for rules, regulations, and procedures; to
+7 provide for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Part 3 of Article 7 of Chapter 3 of Title 20 of the Official Code of Georgia Annotated,
+11 relating to the Georgia Student Finance Authority, is amended by adding a new subpart to
+12 read as follows:
+13 "Subpart 2B
+14 20-3-367.
+15 As used in this subpart, the term:
+H. B. 695
+- 1 -
+25 LC 61 0155
+16 (1) 'Commission' means the Georgia Student Finance Commission created by Code
+17 Section 20-3-233.
+18 (2) 'Eligible student' means a person:
+19 (A) Whose family income is considered economically disadvantaged, based on criteria
+20 established by the commission;
+21 (B) Who meets any academic or other standards established by the commission;
+22 (C) Who is eligible for a scholarship or grant pursuant to Code Section 20-3-519.1;
+23 (D) Who has completed the Free Application for Federal Student Aid (FAFSA);
+24 (E) Who is enrolled in a qualified institution; and
+25 (F) Who has applied and is eligible for state or federal financial aid but has not
+26 received his or her financial aid award within two weeks of the first day of the semester
+27 or quarter.
+28 (3) 'Essential materials' means books, materials, or other items identified by the course
+29 instructor as essential to participating in and completing a required course as part of an
+30 eligible student's program of study.
+31 (4) 'Qualified institution' shall have the same meaning as the term 'eligible postsecondary
+32 institution' as set forth in Code Section 20-3-519.
+33 20-3-368.
+34 (a) Subject to appropriations, the commission shall establish a needs based financial aid
+35 program to provide grants to eligible students for the purpose of obtaining essential
+36 materials. The maximum award amount per eligible student shall be $5,000.00 in total.
+37 Grant awards shall be disbursed directly to each student who is awarded a grant under this
+38 subpart. The commission may provide for individualized eligibility criteria and grant
+39 amounts as determined to be the most appropriate for the particular qualified institution and
+40 program of study in accordance with this subpart and the rules and regulations of the
+41 commission.
+H. B. 695
+- 2 -
+25 LC 61 0155
+42 (b) Each eligible student wishing to receive a grant pursuant to this subpart shall submit
+43 a grant application in accordance with the rules, regulations, and procedures prescribed by
+44 the commission. Such application shall include the essential materials such student wishes
+45 to obtain and the estimated cost of such essential materials.
+46 20-3-369.
+47 The commission is authorized to define such terms and prescribe such rules, regulations,
+48 and procedures as may be reasonable and necessary to carry out the purposes of this
+49 subpart. Such rules, regulations, and procedures shall provide for the expedited processing
+50 of applications and disbursement of grant awards."
+51 SECTION 2.
+52 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 695
+- 3 -
+[DELETED: 5L7,0,5,6hththt4,]
+[DELETED: 5L t p g t e s f t p o o e]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 61 0155
+House Bill 695
+By: Representatives Santos of the 117th, Reese of the 140th, Bell of the 75th, Berry of the 56th,
+Flournoy of the 74th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 3 of Article 7 of Chapter 3 of Title 20 of the Official Code of Georgia
+2 Annotated, relating to the Georgia Student Finance Authority, so as to establish a needs
+3 based financial aid program to award grants to eligible students who have not yet received
+4 their financial aid award so that such students can obtain the essential materials they need to
+5 begin classes; to provide a maximum award amount; to provide definitions; to provide for
+6 eligibility; to provide for applications; to provide for rules, regulations, and procedures; to
+7 provide for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Part 3 of Article 7 of Chapter 3 of Title 20 of the Official Code of Georgia Annotated,
+11 relating to the Georgia Student Finance Authority, is amended by adding a new subpart to
+12 read as follows:
+13 "Subpart 2B
+14 20-3-367.
+15 As used in this subpart, the term:
+H. B. 695
+- 1 -
+
+25 LC 61 0155
+16 (1) 'Commission' means the Georgia Student Finance Commission created by Code
+17 Section 20-3-233.
+18 (2) 'Eligible student' means a person:
+19 (A) Whose family income is considered economically disadvantaged, based on criteria
+20 established by the commission;
+21 (B) Who meets any academic or other standards established by the commission;
+22 (C) Who is eligible for a scholarship or grant pursuant to Code Section 20-3-519.1;
+23 (D) Who has completed the Free Application for Federal Student Aid (FAFSA);
+24 (E) Who is enrolled in a qualified institution; and
+25 (F) Who has applied and is eligible for state or federal financial aid but has not
+26 received his or her financial aid award within two weeks of the first day of the semester
+27 or quarter.
+28 (3) 'Essential materials' means books, materials, or other items identified by the course
+29 instructor as essential to participating in and completing a required course as part of an
+30 eligible student's program of study.
+31 (4) 'Qualified institution' shall have the same meaning as the term 'eligible postsecondary
+32 institution' as set forth in Code Section 20-3-519.
+33 20-3-368.
+34 (a) Subject to appropriations, the commission shall establish a needs based financial aid
+35 program to provide grants to eligible students for the purpose of obtaining essential
+36 materials. The maximum award amount per eligible student shall be $5,000.00 in total.
+37 Grant awards shall be disbursed directly to each student who is awarded a grant under this
+38 subpart. The commission may provide for individualized eligibility criteria and grant
+39 amounts as determined to be the most appropriate for the particular qualified institution and
+40 program of study in accordance with this subpart and the rules and regulations of the
+41 commission.
+H. B. 695
+- 2 -
+
+25 LC 61 0155
+42 (b) Each eligible student wishing to receive a grant pursuant to this subpart shall submit
+43 a grant application in accordance with the rules, regulations, and procedures prescribed by
+44 the commission. Such application shall include the essential materials such student wishes
+45 to obtain and the estimated cost of such essential materials.
+46 20-3-369.
+47 The commission is authorized to define such terms and prescribe such rules, regulations,
+48 and procedures as may be reasonable and necessary to carry out the purposes of this
+49 subpart. Such rules, regulations, and procedures shall provide for the expedited processing
+50 of applications and disbursement of grant awards."
+51 SECTION 2.
+52 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 695
+- 3 -
+
+[DELETED: 5L7,0,5,6hththt4,]
+[DELETED: 5L t p g t e s f t p o o e]
+[DELETED: 5L]

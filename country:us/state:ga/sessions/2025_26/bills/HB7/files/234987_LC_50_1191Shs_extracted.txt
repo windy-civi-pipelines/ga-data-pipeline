@@ -1,0 +1,194 @@
+Title: The House Committee on Ways and Means offers the following substitute to HB 7:
+Official Title: The House Committee on Ways and Means offers the following substitute to HB 7:
+Number of Sections: 1
+Source: versions - LC 50 1191S/hs
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 1191S
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to the imposition, rate, computation, exemptions, and credits relative to income
+3 taxes, so as to provide for a tax credit for workforce-ready graduates employed in high-tech
+4 full-time jobs in rural counties in this state; to require the Department of Labor to establish
+5 certain criteria; to provide for conditions and limitations; to provide for definitions; to
+6 provide for rules and regulations and forms; to provide for related matters; to provide for an
+7 effective date and applicability; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to the
+11 imposition, rate, computation, exemptions, and credits relative to income taxes, is amended
+12 by adding a new Code section to read as follows:
+13 "48-7-29.27.
+14 (a) As used in this Code section, the term:
+15 (1) 'Employer' means an enterprise or organization, whether corporation, partnership,
+16 limited liability company, proprietorship, association, trust, business trust, real estate
+H. B. 7 (SUB)
+- 1 -
+25 LC 50 1191S
+17 trust, or other form of organization, and its affiliates, which is registered and authorized
+18 to use the federal employment verification system known as 'E-Verify' or any successor
+19 federal employment verification system and is engaged in or carrying on any business
+20 activities within this state.
+21 (2) 'High-tech full-time job' means employment:
+22 (A) That is located in a rural county;
+23 (B) As a data scientist, software developer, information security analyst, web
+24 developer, computer sales engineer, information technology manager, computer
+25 research scientist, network and systems administrator, or computer support specialist;
+26 (C) Through an employer located in a rural county that is also a small business;
+27 (D) That involves a regular work week of 30 hours or more;
+28 (E) That has no predetermined end date; and
+29 (F) That pays at or above the average hourly wage of the county with the lowest
+30 average hourly wage in the state, as reported in the most recently available annual issue
+31 of the Georgia Employment and Wages Averages Report of the Department of Labor.
+32 (3) 'Rural county' means a county in this state that has a population of less than 50,000
+33 with 10 percent or more of such population living in poverty based upon the most recent,
+34 reliable, and applicable data published by the United States Bureau of the Census. On
+35 or before December 31 of each year, the commissioner of the Department of Community
+36 Affairs shall publish a list of such counties.
+37 (4) 'Small business' means a business that is independently owned and operated, is not
+38 dominant in its field of operation, and employs fewer than 20 employees.
+39 (5) 'Workforce-ready graduate' means an individual who has obtained a postsecondary
+40 credential from a nationally accredited institution in the discipline of engineering or
+41 computer, information, or data science within a high-tech area of study and who is
+42 certified by the Department of Labor as having completed a workforce readiness program
+H. B. 7 (SUB)
+- 2 -
+25 LC 50 1191S
+43 approved by the Department of Labor in accordance with subsection (b) of this Code
+44 section.
+45 (b) By January 1, 2026, the Department of Labor shall adopt criteria for the establishment
+46 of workforce readiness programs and the certification of workforce-ready graduates for the
+47 purposes of this Code section.
+48 (c)(1) On and after January 1, 2026, each workforce-ready graduate employed in a
+49 high-tech full-time job for at least 40 weeks during a 12 month period shall be eligible
+50 for an income tax credit in the amount of $4,000.00 for each such year of employment
+51 against the tax imposed under this article; provided, however, that no individual shall be
+52 allowed more than $12,000.00 of tax credits under this paragraph.
+53 (2) No individual first employed in a high-tech full-time job before January 1, 2026,
+54 shall qualify to be eligible to receive the credit provided by this subsection.
+55 (3) No individual shall be eligible to receive the credit provided by this subsection more
+56 than once.
+57 (d) In no event shall the credit provided by subsection (c) of this Code section for a taxable
+58 year exceed the taxpayer's income tax liability. Any unused portion of the credit provided
+59 by subsection (c) of this Code section shall be permitted to be carried forward and applied
+60 to the taxpayer's tax liability for the subsequent three years. The credit provided by
+61 subsection (c) of this Code section shall not be applied against the taxpayer's prior years'
+62 tax liabilities.
+63 (e) The commissioner shall promulgate rules and regulations and forms necessary to
+64 implement and administer the provisions of this Code section."
+65 SECTION 2.
+66 This Act shall become effective on July 1, 2025, and shall be applicable to all taxable years
+67 beginning on or after January 1, 2026.
+H. B. 7 (SUB)
+- 3 -
+25 LC 50 1191S
+68 SECTION 3.
+69 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 7 (SUB)
+- 4 -
+[DELETED: 5LTrtfcpeBS0A1i2b344(5(6l]
+[DELETED: 5L7t8t9f0a1(2(3(  A a d s s d i s a w4d c s e i t m c5r6(7(8(9(0a1o2(3w4r5o6A7(8d9(0c1c2c]
+[DELETED: 5L3a4s5(6o7p8(9h0f1a2a3(4s5(6t7(8y9b0t1s2t3(4i5S6T7b]
+[DELETED: 5L8S9A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 1191S
+The House Committee on Ways and Means offers the following substitute to HB 7:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to the imposition, rate, computation, exemptions, and credits relative to income
+3 taxes, so as to provide for a tax credit for workforce-ready graduates employed in high-tech
+4 full-time jobs in rural counties in this state; to require the Department of Labor to establish
+5 certain criteria; to provide for conditions and limitations; to provide for definitions; to
+6 provide for rules and regulations and forms; to provide for related matters; to provide for an
+7 effective date and applicability; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to the
+11 imposition, rate, computation, exemptions, and credits relative to income taxes, is amended
+12 by adding a new Code section to read as follows:
+13 "48-7-29.27.
+14 (a) As used in this Code section, the term:
+15 (1) 'Employer' means an enterprise or organization, whether corporation, partnership,
+16 limited liability company, proprietorship, association, trust, business trust, real estate
+H. B. 7 (SUB)
+- 1 -
+
+25 LC 50 1191S
+17 trust, or other form of organization, and its affiliates, which is registered and authorized
+18 to use the federal employment verification system known as 'E-Verify' or any successor
+19 federal employment verification system and is engaged in or carrying on any business
+20 activities within this state.
+21 (2) 'High-tech full-time job' means employment:
+22 (A) That is located in a rural county;
+23 (B) As a data scientist, software developer, information security analyst, web
+24 developer, computer sales engineer, information technology manager, computer
+25 research scientist, network and systems administrator, or computer support specialist;
+26 (C) Through an employer located in a rural county that is also a small business;
+27 (D) That involves a regular work week of 30 hours or more;
+28 (E) That has no predetermined end date; and
+29 (F) That pays at or above the average hourly wage of the county with the lowest
+30 average hourly wage in the state, as reported in the most recently available annual issue
+31 of the Georgia Employment and Wages Averages Report of the Department of Labor.
+32 (3) 'Rural county' means a county in this state that has a population of less than 50,000
+33 with 10 percent or more of such population living in poverty based upon the most recent,
+34 reliable, and applicable data published by the United States Bureau of the Census. On
+35 or before December 31 of each year, the commissioner of the Department of Community
+36 Affairs shall publish a list of such counties.
+37 (4) 'Small business' means a business that is independently owned and operated, is not
+38 dominant in its field of operation, and employs fewer than 20 employees.
+39 (5) 'Workforce-ready graduate' means an individual who has obtained a postsecondary
+40 credential from a nationally accredited institution in the discipline of engineering or
+41 computer, information, or data science within a high-tech area of study and who is
+42 certified by the Department of Labor as having completed a workforce readiness program
+H. B. 7 (SUB)
+- 2 -
+
+25 LC 50 1191S
+43 approved by the Department of Labor in accordance with subsection (b) of this Code
+44 section.
+45 (b) By January 1, 2026, the Department of Labor shall adopt criteria for the establishment
+46 of workforce readiness programs and the certification of workforce-ready graduates for the
+47 purposes of this Code section.
+48 (c)(1) On and after January 1, 2026, each workforce-ready graduate employed in a
+49 high-tech full-time job for at least 40 weeks during a 12 month period shall be eligible
+50 for an income tax credit in the amount of $4,000.00 for each such year of employment
+51 against the tax imposed under this article; provided, however, that no individual shall be
+52 allowed more than $12,000.00 of tax credits under this paragraph.
+53 (2) No individual first employed in a high-tech full-time job before January 1, 2026,
+54 shall qualify to be eligible to receive the credit provided by this subsection.
+55 (3) No individual shall be eligible to receive the credit provided by this subsection more
+56 than once.
+57 (d) In no event shall the credit provided by subsection (c) of this Code section for a taxable
+58 year exceed the taxpayer's income tax liability. Any unused portion of the credit provided
+59 by subsection (c) of this Code section shall be permitted to be carried forward and applied
+60 to the taxpayer's tax liability for the subsequent three years. The credit provided by
+61 subsection (c) of this Code section shall not be applied against the taxpayer's prior years'
+62 tax liabilities.
+63 (e) The commissioner shall promulgate rules and regulations and forms necessary to
+64 implement and administer the provisions of this Code section."
+65 SECTION 2.
+66 This Act shall become effective on July 1, 2025, and shall be applicable to all taxable years
+67 beginning on or after January 1, 2026.
+H. B. 7 (SUB)
+- 3 -
+
+25 LC 50 1191S
+68 SECTION 3.
+69 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 7 (SUB)
+- 4 -
+
+[DELETED: 5LTrtfcpeBS0A1i2b344(5(6l]
+[DELETED: 5L7t8t9f0a1(2(3(  A a d s s d i s a w4d c s e i t m c5r6(7(8(9(0a1o2(3w4r5o6A7(8d9(0c1c2c]
+[DELETED: 5L3a4s5(6o7p8(9h0f1a2a3(4s5(6t7(8y9b0t1s2t3(4i5S6T7b]
+[DELETED: 5L8S9A]

@@ -1,0 +1,493 @@
+Title: The House Committee on Judiciary offers the following substitute to HB 555:
+Official Title: The House Committee on Judiciary offers the following substitute to HB 555:
+Number of Sections: 1
+Source: versions - LC 48 1569S/hs
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25 LC 48 1569S
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to
+2 regulation of specialized land transactions, so as to prohibit business enterprises from owning
+3 an interest in more than 2,000 single-family residential properties or ten multifamily
+4 residential properties; to provide a private cause of action against a business enterprise that
+5 owns an interest in more than 2,000 single-family residential properties or ten multifamily
+6 residential properties; to provide for public sale of residential properties unlawfully owned
+7 by business enterprises; to prohibit the leasing of residential properties unlawfully owned by
+8 business enterprises; to provide for the forfeiture of rental payments paid in connection with
+9 an unlawful lease of residential property; to provide a private cause of action for the return
+10 of rental payments paid in connection with an unlawful lease of residential property; to
+11 provide for the disclosure of information by brokers; to provide an effective date; to provide
+12 a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+14 SECTION 1.
+15 This Act shall be known and may be cited as the "Georgians First Residential Property
+16 Protection Act."
+H. B. 555 (SUB)
+- 1 -
+25 LC 48 1569S
+17 SECTION 2.
+18 Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to regulation of
+19 specialized land transactions, is amended by adding a new article to read as follows:
+20 "ARTICLE 8
+21 44-3-260.
+22 As used in this article, the term:
+23 (1) 'Affiliate' means any entity that directly or indirectly owns or controls, is owned or
+24 controlled by, or is under any other common ownership or control with a business
+25 enterprise.
+26 (2) 'Business enterprise' means any corporation, association, partnership, limited liability
+27 company, limited partnership, trust, issuer, or other private legal entity organized under
+28 the laws of this state, the United States, the District of Columbia, or any other state,
+29 territory, or dependency of the United States or under the laws of a foreign country.
+30 (3) 'Claimant' means an aggrieved person who seeks recovery of damages under this
+31 article; provided, however, such term shall not include a government entity or any officer
+32 or employee of a government entity acting in his or her official capacity.
+33 (4) 'Government entity' means any office, agency, authority, department, commission,
+34 board, body, division, instrumentality, or institution of the executive, legislative, or
+35 judicial branch of the state government or of any political subdivision within this state.
+36 (5) 'Multifamily residence' means a parcel of real property that has upon it a structure
+37 that contains four or more individual dwelling units, each of which is designed
+38 exclusively for use and occupation by one family.
+39 (6) 'Residential property' means a single-family residence or a multifamily residence,
+40 including all improvements thereon.
+41 (7) 'Single-family residence' means a parcel of real property that has upon it a:
+H. B. 555 (SUB)
+- 2 -
+25 LC 48 1569S
+42 (A) Detached residential structure that contains between one and three individual
+43 dwelling units, each of which is designed for the exclusive use and occupation by one
+44 family;
+45 (B) Townhouse; or
+46 (C) Condominiums as defined in Code Section 44-3-71.
+47 (8) 'Townhouse' means an individual residential dwelling unit within a larger structure
+48 that contains two or more attached residential dwelling units constructed in a row where
+49 each residential dwelling unit is designed exclusively for use and occupation by one
+50 family, is located on an individual lot or parcel, and shares at least one common wall with
+51 an adjacent unit.
+52 44-3-261.
+53 (a) On and after January 1, 2026, it shall be unlawful for any business enterprise to obtain,
+54 own, or possess, directly or indirectly, including, but not limited to, through one or more
+55 affiliates of such business enterprise, an interest in more than 2,000 single-family
+56 residences or more than ten multifamily residences located in this state.
+57 (b)(1) For purposes of this Code section, an interest in residential property shall not
+58 include a deed to secure debt, security deed, mortgage, security interest, deed of trust, or
+59 other lien upon residential property that secures a debt or other obligation, and nothing
+60 in this Code section shall be construed as prohibiting a business enterprise from owning
+61 or acquiring a deed to secure debt, security deed, mortgage, security interest, deed of
+62 trust, or other lien upon residential property located in this state.
+63 (2) An interest in residential property acquired pursuant to the enforcement of a deed to
+64 secure debt, security deed, mortgage, security interest, deed of trust, or other lien
+65 described in paragraph (1) of this subsection by a business enterprise that would
+66 otherwise violate subsection (a) of this Code section shall not constitute a violation of
+67 subsection (a) of this Code section, provided that such interest in residential property is
+H. B. 555 (SUB)
+- 3 -
+25 LC 48 1569S
+68 sold or otherwise transferred to another person by the business enterprise within two
+69 years from the date such interest is acquired.
+70 44-3-262.
+71 (a) Any claimant may bring a civil action in any court of competent jurisdiction against
+72 a business enterprise that obtains, owns, or possesses an interest in residential property in
+73 violation of subsection (a) of Code Section 44-3-261 to recover:
+74 (1) The greater of:
+75 (A) Actual damages caused by such violation; or
+76 (B) Statutory damages in the amount of $15,000.00 for each violation; and
+77 (2) The costs incurred by the claimant in bringing such action, including reasonable
+78 attorney's fees.
+79 (b) For purposes of this Code section, each residential property for which a business
+80 enterprise or shareholder of a business enterprise obtains, owns, or possesses an interest in
+81 violation of subsection (a) of Code Section 44-2-261 shall constitute separate violations.
+82 (c) It shall be an affirmative defense to an award of monetary relief in an action brought
+83 pursuant to subsection (a) of this Code section if the defendant business enterprise in such
+84 action can demonstrate that:
+85 (1) The claimant who brought such action can only recover statutory damages under
+86 paragraph (1) of subsection (a) of this Code section;
+87 (2) It has, during the pendency of such action or no more than 30 days prior to the
+88 initiation of such action, paid a judgment for the full amount of statutory damages
+89 provided under subparagraph (B) of paragraph (1) of subsection (a) of this Code section
+90 that was awarded in a separate action brought pursuant to subsection (a) of this Code
+91 section for the same violation of subsection (a) of Code Section 44-3-261 giving rise to
+92 the current action; and
+H. B. 555 (SUB)
+- 4 -
+25 LC 48 1569S
+93 (3) It no longer owns or possesses an interest in the residential property that is the subject
+94 of such action.
+95 (d) An action pursuant to subsection (a) of this Code section shall be brought within four
+96 years from the last day a business enterprise obtained, owned, or possessed an interest in
+97 residential property in violation of subsection (a) of Code Section 44-3-261 and such action
+98 may be brought in a representative capacity and may be the subject of a class action under
+99 Code Section 9-11-23.
+100 (e) Notwithstanding any provision of law to the contrary, the following shall not be a
+101 defense to an action brought pursuant to subsection (a) of this Code section:
+102 (1) Ignorance or mistake of law;
+103 (2) The business enterprise's reliance on any court decision that has been overruled on
+104 appeal or by a subsequent court, even if such court decision had not been overruled at the
+105 time the business enterprise violated the provisions of subsection (a) of Code
+106 Section 44-3-261;
+107 (3) The business enterprise's reliance on any state or federal court decision that is not
+108 binding on the court where such action has been brought;
+109 (4) Non-mutual issue preclusion or non-mutual claim preclusion; or
+110 (5) Any claim that the enforcement of this Code section or the imposition of civil
+111 liability against the business enterprise would violate the constitutional rights of third
+112 parties.
+113 (f) Notwithstanding any provision of law to the contrary, no government entity or any
+114 officer or employee of a government entity acting in his or her official capacity, including,
+115 without limitation, the Attorney General, any district attorney, or any city or county
+116 attorney, shall be entitled to intervene in an action brought pursuant to subsection (a) of this
+117 Code section; provided, however, that nothing in this subsection shall prohibit the filing
+118 of an amicus curiae brief in such action.
+H. B. 555 (SUB)
+- 5 -
+25 LC 48 1569S
+119 44-3-263.
+120 (a) An interest in residential property that is owned or possessed by a business enterprise
+121 in violation of subsection (a) of Code Section 44-3-261 shall be subject to public sale as
+122 provided in this Code section.
+123 (b)(1) The Attorney General or any district attorney may bring an action against a
+124 business enterprise that owns or possesses an interest in residential property in violation
+125 of subsection (a) of Code Section 44-3-261 for an order directing a public sale of such
+126 interest by filing a petition for public sale in the superior court where the property is
+127 located. All parties that have an interest in the residential property shall be joined as
+128 parties to such action and shall be served with process in accordance with Code
+129 Section 9-11-4.
+130 (2) The superior court where an action is brought pursuant to this Code section shall,
+131 after notice and hearing, order a public sale of an interest in residential property if it
+132 determines that such interest is owned or possessed in violation of subsection (a) of Code
+133 Section 44-3-261, that divestment of such interest is necessary to enforce the provisions
+134 of this article, and that such public sale would not be unjust or otherwise inequitable. In
+135 the event the court orders a public sale, the court shall appoint one or more persons as
+136 commissioners to conduct such sale under such regulations and upon such just and
+137 equitable terms as it may prescribe. The sale shall take place on the first Tuesday in the
+138 month, shall be at the place of public sales in the county in which the property is located,
+139 and shall be advertised in the official newspaper of the county once a week for four
+140 consecutive weeks. Neither the business enterprise against whom the action was filed
+141 pursuant to this Code section nor any affiliate of such business enterprise shall be entitled
+142 to purchase the interest in residential property at the public sale.
+143 (3) After a public sale of an interest in residential property is conducted pursuant to this
+144 Code section, the proceeds derived from such sale shall be paid into the registry of the
+H. B. 555 (SUB)
+- 6 -
+25 LC 48 1569S
+145 superior court that ordered such sale. The court shall then disburse the proceeds as
+146 follows:
+147 (A) First, proceeds shall be applied to the reasonable costs associated with the public
+148 sale of the interest in residential property;
+149 (B) Thereafter, proceeds shall be disbursed to any person with a superior interest in
+150 such proceeds to that of the business enterprise against whom the action for public sale
+151 was brought pursuant to this Code section, including, without limitation, any person
+152 that is owed an outstanding debt or other obligation that is secured by a deed to secure
+153 debt, security deed, mortgage, security interest, deed of trust, or other lien upon the
+154 interest in residential property, in order of priority as provided by law; and
+155 (C) Thereafter, any remaining proceeds shall be disbursed to the business enterprise
+156 against whom the action for public sale was brought pursuant to this Code section less
+157 the costs incurred by the Attorney General or district attorney in bringing such action,
+158 including reasonable attorney's fees.
+159 (4) The public sale of an interest in residential property pursuant to this Code section
+160 shall not extinguish any rights of persons in the property other than the business
+161 enterprise against whom the action for public sale was filed pursuant to this Code section,
+162 including, without limitation:
+163 (A) Any person that is owed an outstanding debt or other obligation that is secured by
+164 a deed to secure debt, security deed, mortgage, security interest, deed of trust, or other
+165 lien upon the interest in residential property that is not satisfied from the sale proceeds
+166 disbursed pursuant to paragraph (3) of this subsection; and
+167 (B) Any person with a leasehold interest in the residential property; provided, however,
+168 that there shall be no automatic renewal of such leasehold interest and any term in the
+169 lease agreement providing such automatic renewal shall be void and unenforceable.
+H. B. 555 (SUB)
+- 7 -
+25 LC 48 1569S
+170 44-3-264.
+171 (a) No business enterprise that owns an interest in residential property in violation of
+172 subsection (a) of Code Section 44-3-261 shall enter into a lease agreement with another
+173 person for the lease of such residential property.
+174 (b) A business enterprise that enters into a lease agreement in violation of subsection (a)
+175 of this Code section shall not be entitled to collect rental payments in connection with such
+176 lease and any rental payments collected in connection with such lease shall be subject to
+177 forfeiture in accordance with the procedures set forth in Chapter 16 of Title 9, the 'Georgia
+178 Uniform Civil Forfeiture Procedure Act.'
+179 (c) Any person who makes rental payments to a business enterprise in connection with a
+180 lease agreement that was entered into by a business enterprise in violation of subsection (a)
+181 of this Code section may bring an action against such business enterprise in any court of
+182 competent jurisdiction for the return of such rental payments paid by such person.
+183 (d) Nothing in this Code section shall be construed as impairing or otherwise limiting the
+184 leasehold interest of a lessee of a residential property pursuant to a lease agreement that
+185 was entered into by a business enterprise in violation of subsection (a) of this Code section.
+186 44-3-265.
+187 A broker who is engaged by a client that is a business enterprise and that is a prospective
+188 buyer or prospective lessor of an interest in residential property shall timely disclose to
+189 such client the prohibitions set forth in this article. For purposes of this Code section, the
+190 terms 'broker,' 'client,' and 'timely' shall have the same meanings as set forth in Code
+191 Section 10-6A-3."
+192 SECTION 3.
+193 This Act shall become effective upon its approval by the Governor or upon its becoming law
+194 without such approval.
+H. B. 555 (SUB)
+- 8 -
+25 LC 48 1569S
+195 SECTION 4.
+196 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 555 (SUB)
+- 9 -
+[DELETED: 5LTra i i m t 2 s r p o t mrorbba0o1p2a3B4S5T6P]
+[DELETED: 5L7S8C9s0A142A3(4c5e6(7c8t9t0(1a2o3(4b5j6(7t c f o m i d u e o w i d8e9(0i1(]
+[DELETED: 5L2(3d4f5(6(7(8t9e0f1a243(4o5a o s b e a i i m t 2 s6r7(8i9o0i1o2t3(4s d s d m s i d o t o o l5d i p ( o t s b a b e t w6o7s]
+[DELETED: 5L8s9y041(2a3v4(5(6(7(8a9(0e1v2(3p4a5(6p7(8i9p0t1s2t]
+[DELETED: 5L3(4o5(6y7r8m9C0(1d2(3(4a5t t b e v t p o s ( o C6S7(8b9(0(1l2p3(4o5w l t A G a d a o a c o c6a7C8o]
+[DELETED: 5L940(1i2p3(4b5o6i7l8p t s a a s b s w p i a w C9S0(1a2d3S4o5t6c7e8m9a0c1p2t3(4C]
+[DELETED: 5L5s6f7(8s9(0s1w2t3d4i5(6a7t8i9(0s n e a r o p i t p o t t b1e2i3(4a5l6d7(8t9l]
+[DELETED: 5L041(2s3p4(5o6l7f8U9(0l1o2c3(4l5w647A8b9s0t1S2S3T4w]
+[DELETED: 5L5S6A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 48 1569S
+The House Committee on Judiciary offers the following substitute to HB 555:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to
+2 regulation of specialized land transactions, so as to prohibit business enterprises from owning
+3 an interest in more than 2,000 single-family residential properties or ten multifamily
+4 residential properties; to provide a private cause of action against a business enterprise that
+5 owns an interest in more than 2,000 single-family residential properties or ten multifamily
+6 residential properties; to provide for public sale of residential properties unlawfully owned
+7 by business enterprises; to prohibit the leasing of residential properties unlawfully owned by
+8 business enterprises; to provide for the forfeiture of rental payments paid in connection with
+9 an unlawful lease of residential property; to provide a private cause of action for the return
+10 of rental payments paid in connection with an unlawful lease of residential property; to
+11 provide for the disclosure of information by brokers; to provide an effective date; to provide
+12 a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+14 SECTION 1.
+15 This Act shall be known and may be cited as the "Georgians First Residential Property
+16 Protection Act."
+H. B. 555 (SUB)
+- 1 -
+
+25 LC 48 1569S
+17 SECTION 2.
+18 Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to regulation of
+19 specialized land transactions, is amended by adding a new article to read as follows:
+20 "ARTICLE 8
+21 44-3-260.
+22 As used in this article, the term:
+23 (1) 'Affiliate' means any entity that directly or indirectly owns or controls, is owned or
+24 controlled by, or is under any other common ownership or control with a business
+25 enterprise.
+26 (2) 'Business enterprise' means any corporation, association, partnership, limited liability
+27 company, limited partnership, trust, issuer, or other private legal entity organized under
+28 the laws of this state, the United States, the District of Columbia, or any other state,
+29 territory, or dependency of the United States or under the laws of a foreign country.
+30 (3) 'Claimant' means an aggrieved person who seeks recovery of damages under this
+31 article; provided, however, such term shall not include a government entity or any officer
+32 or employee of a government entity acting in his or her official capacity.
+33 (4) 'Government entity' means any office, agency, authority, department, commission,
+34 board, body, division, instrumentality, or institution of the executive, legislative, or
+35 judicial branch of the state government or of any political subdivision within this state.
+36 (5) 'Multifamily residence' means a parcel of real property that has upon it a structure
+37 that contains four or more individual dwelling units, each of which is designed
+38 exclusively for use and occupation by one family.
+39 (6) 'Residential property' means a single-family residence or a multifamily residence,
+40 including all improvements thereon.
+41 (7) 'Single-family residence' means a parcel of real property that has upon it a:
+H. B. 555 (SUB)
+- 2 -
+
+25 LC 48 1569S
+42 (A) Detached residential structure that contains between one and three individual
+43 dwelling units, each of which is designed for the exclusive use and occupation by one
+44 family;
+45 (B) Townhouse; or
+46 (C) Condominiums as defined in Code Section 44-3-71.
+47 (8) 'Townhouse' means an individual residential dwelling unit within a larger structure
+48 that contains two or more attached residential dwelling units constructed in a row where
+49 each residential dwelling unit is designed exclusively for use and occupation by one
+50 family, is located on an individual lot or parcel, and shares at least one common wall with
+51 an adjacent unit.
+52 44-3-261.
+53 (a) On and after January 1, 2026, it shall be unlawful for any business enterprise to obtain,
+54 own, or possess, directly or indirectly, including, but not limited to, through one or more
+55 affiliates of such business enterprise, an interest in more than 2,000 single-family
+56 residences or more than ten multifamily residences located in this state.
+57 (b)(1) For purposes of this Code section, an interest in residential property shall not
+58 include a deed to secure debt, security deed, mortgage, security interest, deed of trust, or
+59 other lien upon residential property that secures a debt or other obligation, and nothing
+60 in this Code section shall be construed as prohibiting a business enterprise from owning
+61 or acquiring a deed to secure debt, security deed, mortgage, security interest, deed of
+62 trust, or other lien upon residential property located in this state.
+63 (2) An interest in residential property acquired pursuant to the enforcement of a deed to
+64 secure debt, security deed, mortgage, security interest, deed of trust, or other lien
+65 described in paragraph (1) of this subsection by a business enterprise that would
+66 otherwise violate subsection (a) of this Code section shall not constitute a violation of
+67 subsection (a) of this Code section, provided that such interest in residential property is
+H. B. 555 (SUB)
+- 3 -
+
+25 LC 48 1569S
+68 sold or otherwise transferred to another person by the business enterprise within two
+69 years from the date such interest is acquired.
+70 44-3-262.
+71 (a) Any claimant may bring a civil action in any court of competent jurisdiction against
+72 a business enterprise that obtains, owns, or possesses an interest in residential property in
+73 violation of subsection (a) of Code Section 44-3-261 to recover:
+74 (1) The greater of:
+75 (A) Actual damages caused by such violation; or
+76 (B) Statutory damages in the amount of $15,000.00 for each violation; and
+77 (2) The costs incurred by the claimant in bringing such action, including reasonable
+78 attorney's fees.
+79 (b) For purposes of this Code section, each residential property for which a business
+80 enterprise or shareholder of a business enterprise obtains, owns, or possesses an interest in
+81 violation of subsection (a) of Code Section 44-2-261 shall constitute separate violations.
+82 (c) It shall be an affirmative defense to an award of monetary relief in an action brought
+83 pursuant to subsection (a) of this Code section if the defendant business enterprise in such
+84 action can demonstrate that:
+85 (1) The claimant who brought such action can only recover statutory damages under
+86 paragraph (1) of subsection (a) of this Code section;
+87 (2) It has, during the pendency of such action or no more than 30 days prior to the
+88 initiation of such action, paid a judgment for the full amount of statutory damages
+89 provided under subparagraph (B) of paragraph (1) of subsection (a) of this Code section
+90 that was awarded in a separate action brought pursuant to subsection (a) of this Code
+91 section for the same violation of subsection (a) of Code Section 44-3-261 giving rise to
+92 the current action; and
+H. B. 555 (SUB)
+- 4 -
+
+25 LC 48 1569S
+93 (3) It no longer owns or possesses an interest in the residential property that is the subject
+94 of such action.
+95 (d) An action pursuant to subsection (a) of this Code section shall be brought within four
+96 years from the last day a business enterprise obtained, owned, or possessed an interest in
+97 residential property in violation of subsection (a) of Code Section 44-3-261 and such action
+98 may be brought in a representative capacity and may be the subject of a class action under
+99 Code Section 9-11-23.
+100 (e) Notwithstanding any provision of law to the contrary, the following shall not be a
+101 defense to an action brought pursuant to subsection (a) of this Code section:
+102 (1) Ignorance or mistake of law;
+103 (2) The business enterprise's reliance on any court decision that has been overruled on
+104 appeal or by a subsequent court, even if such court decision had not been overruled at the
+105 time the business enterprise violated the provisions of subsection (a) of Code
+106 Section 44-3-261;
+107 (3) The business enterprise's reliance on any state or federal court decision that is not
+108 binding on the court where such action has been brought;
+109 (4) Non-mutual issue preclusion or non-mutual claim preclusion; or
+110 (5) Any claim that the enforcement of this Code section or the imposition of civil
+111 liability against the business enterprise would violate the constitutional rights of third
+112 parties.
+113 (f) Notwithstanding any provision of law to the contrary, no government entity or any
+114 officer or employee of a government entity acting in his or her official capacity, including,
+115 without limitation, the Attorney General, any district attorney, or any city or county
+116 attorney, shall be entitled to intervene in an action brought pursuant to subsection (a) of this
+117 Code section; provided, however, that nothing in this subsection shall prohibit the filing
+118 of an amicus curiae brief in such action.
+H. B. 555 (SUB)
+- 5 -
+
+25 LC 48 1569S
+119 44-3-263.
+120 (a) An interest in residential property that is owned or possessed by a business enterprise
+121 in violation of subsection (a) of Code Section 44-3-261 shall be subject to public sale as
+122 provided in this Code section.
+123 (b)(1) The Attorney General or any district attorney may bring an action against a
+124 business enterprise that owns or possesses an interest in residential property in violation
+125 of subsection (a) of Code Section 44-3-261 for an order directing a public sale of such
+126 interest by filing a petition for public sale in the superior court where the property is
+127 located. All parties that have an interest in the residential property shall be joined as
+128 parties to such action and shall be served with process in accordance with Code
+129 Section 9-11-4.
+130 (2) The superior court where an action is brought pursuant to this Code section shall,
+131 after notice and hearing, order a public sale of an interest in residential property if it
+132 determines that such interest is owned or possessed in violation of subsection (a) of Code
+133 Section 44-3-261, that divestment of such interest is necessary to enforce the provisions
+134 of this article, and that such public sale would not be unjust or otherwise inequitable. In
+135 the event the court orders a public sale, the court shall appoint one or more persons as
+136 commissioners to conduct such sale under such regulations and upon such just and
+137 equitable terms as it may prescribe. The sale shall take place on the first Tuesday in the
+138 month, shall be at the place of public sales in the county in which the property is located,
+139 and shall be advertised in the official newspaper of the county once a week for four
+140 consecutive weeks. Neither the business enterprise against whom the action was filed
+141 pursuant to this Code section nor any affiliate of such business enterprise shall be entitled
+142 to purchase the interest in residential property at the public sale.
+143 (3) After a public sale of an interest in residential property is conducted pursuant to this
+144 Code section, the proceeds derived from such sale shall be paid into the registry of the
+H. B. 555 (SUB)
+- 6 -
+
+25 LC 48 1569S
+145 superior court that ordered such sale. The court shall then disburse the proceeds as
+146 follows:
+147 (A) First, proceeds shall be applied to the reasonable costs associated with the public
+148 sale of the interest in residential property;
+149 (B) Thereafter, proceeds shall be disbursed to any person with a superior interest in
+150 such proceeds to that of the business enterprise against whom the action for public sale
+151 was brought pursuant to this Code section, including, without limitation, any person
+152 that is owed an outstanding debt or other obligation that is secured by a deed to secure
+153 debt, security deed, mortgage, security interest, deed of trust, or other lien upon the
+154 interest in residential property, in order of priority as provided by law; and
+155 (C) Thereafter, any remaining proceeds shall be disbursed to the business enterprise
+156 against whom the action for public sale was brought pursuant to this Code section less
+157 the costs incurred by the Attorney General or district attorney in bringing such action,
+158 including reasonable attorney's fees.
+159 (4) The public sale of an interest in residential property pursuant to this Code section
+160 shall not extinguish any rights of persons in the property other than the business
+161 enterprise against whom the action for public sale was filed pursuant to this Code section,
+162 including, without limitation:
+163 (A) Any person that is owed an outstanding debt or other obligation that is secured by
+164 a deed to secure debt, security deed, mortgage, security interest, deed of trust, or other
+165 lien upon the interest in residential property that is not satisfied from the sale proceeds
+166 disbursed pursuant to paragraph (3) of this subsection; and
+167 (B) Any person with a leasehold interest in the residential property; provided, however,
+168 that there shall be no automatic renewal of such leasehold interest and any term in the
+169 lease agreement providing such automatic renewal shall be void and unenforceable.
+H. B. 555 (SUB)
+- 7 -
+
+25 LC 48 1569S
+170 44-3-264.
+171 (a) No business enterprise that owns an interest in residential property in violation of
+172 subsection (a) of Code Section 44-3-261 shall enter into a lease agreement with another
+173 person for the lease of such residential property.
+174 (b) A business enterprise that enters into a lease agreement in violation of subsection (a)
+175 of this Code section shall not be entitled to collect rental payments in connection with such
+176 lease and any rental payments collected in connection with such lease shall be subject to
+177 forfeiture in accordance with the procedures set forth in Chapter 16 of Title 9, the 'Georgia
+178 Uniform Civil Forfeiture Procedure Act.'
+179 (c) Any person who makes rental payments to a business enterprise in connection with a
+180 lease agreement that was entered into by a business enterprise in violation of subsection (a)
+181 of this Code section may bring an action against such business enterprise in any court of
+182 competent jurisdiction for the return of such rental payments paid by such person.
+183 (d) Nothing in this Code section shall be construed as impairing or otherwise limiting the
+184 leasehold interest of a lessee of a residential property pursuant to a lease agreement that
+185 was entered into by a business enterprise in violation of subsection (a) of this Code section.
+186 44-3-265.
+187 A broker who is engaged by a client that is a business enterprise and that is a prospective
+188 buyer or prospective lessor of an interest in residential property shall timely disclose to
+189 such client the prohibitions set forth in this article. For purposes of this Code section, the
+190 terms 'broker,' 'client,' and 'timely' shall have the same meanings as set forth in Code
+191 Section 10-6A-3."
+192 SECTION 3.
+193 This Act shall become effective upon its approval by the Governor or upon its becoming law
+194 without such approval.
+H. B. 555 (SUB)
+- 8 -
+
+25 LC 48 1569S
+195 SECTION 4.
+196 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 555 (SUB)
+- 9 -
+
+[DELETED: 5LTra i i m t 2 s r p o t mrorbba0o1p2a3B4S5T6P]
+[DELETED: 5L7S8C9s0A142A3(4c5e6(7c8t9t0(1a2o3(4b5j6(7t c f o m i d u e o w i d8e9(0i1(]
+[DELETED: 5L2(3d4f5(6(7(8t9e0f1a243(4o5a o s b e a i i m t 2 s6r7(8i9o0i1o2t3(4s d s d m s i d o t o o l5d i p ( o t s b a b e t w6o7s]
+[DELETED: 5L8s9y041(2a3v4(5(6(7(8a9(0e1v2(3p4a5(6p7(8i9p0t1s2t]
+[DELETED: 5L3(4o5(6y7r8m9C0(1d2(3(4a5t t b e v t p o s ( o C6S7(8b9(0(1l2p3(4o5w l t A G a d a o a c o c6a7C8o]
+[DELETED: 5L940(1i2p3(4b5o6i7l8p t s a a s b s w p i a w C9S0(1a2d3S4o5t6c7e8m9a0c1p2t3(4C]
+[DELETED: 5L5s6f7(8s9(0s1w2t3d4i5(6a7t8i9(0s n e a r o p i t p o t t b1e2i3(4a5l6d7(8t9l]
+[DELETED: 5L041(2s3p4(5o6l7f8U9(0l1o2c3(4l5w647A8b9s0t1S2S3T4w]
+[DELETED: 5L5S6A]

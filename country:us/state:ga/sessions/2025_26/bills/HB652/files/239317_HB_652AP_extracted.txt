@@ -1,0 +1,267 @@
+Title: House Bill 652 (AS PASSED HOUSE AND SENATE)
+Official Title: House Bill 652 (AS PASSED HOUSE AND SENATE)
+Number of Sections: 1
+Source: versions - HB 652/AP*
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 HB 652/AP
+By: Representatives Jones of the 25th, Jasperse of the 11th, Smith of the 138th, Holcomb of the
+101st, and Hilton of the 48th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend an Act relating to regulation and taxation of electricity used as motor fuel and
+2 electric vehicle charging stations, approved May 2, 2023 (Ga. L. 2023, p. 376/SB 146), as
+3 amended, so as to extend the effective date of provisions relative to regulatory authority of
+4 the Department of Agriculture and revenue and taxation; to amend Title 48 of the Official
+5 Code of Georgia Annotated, relating to revenue and taxation, so as to provide for an
+6 exception for collection of sales and use taxes and motor fuel taxes relative to electricity
+7 delivered by certain electric vehicle charging stations; to revise and provide for definitions;
+8 to provide for related matters; to provide for effective dates; to repeal conflicting laws; and
+9 for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 An Act relating to regulation and taxation of electricity used as motor fuel and electric
+13 vehicle charging stations, approved May 2, 2023 (Ga. L. 2023, p. 376/SB 146), as amended,
+14 is amended by revising subsection (b) of Section 5-1 as follows:
+H. B. 652
+- 1 -
+25 HB 652/AP
+15 "(b) Part II of this Act, which provides for the regulatory authority of the Department of
+16 Agriculture, and Part III of this Act, relating to revenue and taxation, shall become
+17 effective on January 1, 2027."
+18 SECTION 2.
+19 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+20 amended in Code Section 48-8-3, relating to exemptions from state sales and use tax, by
+21 striking "or" at the end of paragraph (104), by replacing the period at the end of
+22 paragraph (105) with "; or", and by adding a new paragraph to read as follows:
+23 "(106) Sale or use of exempt special fuel as such term is defined in Code Section 48-9-2."
+24 SECTION 3.
+25 Said title is further amended by revising Code Section 48-8-3.1, relating to exemptions from
+26 sales and use tax for motor fuels, as follows:
+27 "48-8-3.1.
+28 (a) Except as provided in subsection (b) of this Code section, sales of motor fuels as
+29 defined in paragraph (9) of Code Section 48-9-2 shall be exempt from the state sales and
+30 use taxes levied or imposed by this article.
+31 (b) Sales of motor fuel, other than gasoline and exempt special fuel as such term is defined
+32 in Code Section 48-9-2, purchased for purposes other than propelling motor vehicles on
+33 public highways as defined in Article 1 of Chapter 9 of this title shall be fully subject to the
+34 state sales and use taxes levied or imposed by this article unless otherwise specifically
+35 exempted by this article.
+36 (c) It is specifically declared to be the intent of the General Assembly that taxation
+37 imposed on sales of motor fuel wholly or partially subject to taxation under this Code
+38 section shall not constitute motor fuel taxes for purposes of any provision of the
+H. B. 652
+- 2 -
+25 HB 652/AP
+39 Constitution providing for the automatic or mandatory appropriation of any amount of
+40 funds equal to funds derived from motor fuel taxes."
+41 SECTION 4.
+42 Said title is further amended in Code Section 48-9-2, relating to definitions relative to motor
+43 fuel tax, by revising subparagraph (G) of paragraph (5), by revising paragraph (5.3), and by
+44 adding a new paragraph to read as follows:
+45 "(G) Consumes, uses, or sells electricity as a motor fuel through an electric vehicle
+46 charging station for both highway and nonhighway use; provided, however, that such
+47 term shall not include the consumption, use, or sale of exempt special fuel;"
+48 "(5.3) 'Exempt special fuel' means fuel dispensed from an electric vehicle charging
+49 station in operation as of January 1, 2025, that is owned or operated by a nonprofit
+50 organization exempt from taxation under Section 501(c)(3) of the Internal Revenue Code,
+51 that delivers electricity for no exchange of consideration or payment, and that is located
+52 upon a federal interstate right of way.
+53 (5.4) 'Export and import' means:
+54 (A) When motor fuels are sold for export and delivered across the boundaries of this
+55 state by or for the seller, such action is presumed to be an export from the place of
+56 origin and an import into the destination state or country by the seller; and
+57 (B) When motor fuels are purchased for export and transported across the boundaries
+58 of this state by or for the purchaser, such action is presumed to be an export from the
+59 place of origin and an import into the destination state or country by the purchaser."
+60 SECTION 5.
+61 Said title is further amended in Code Section 48-9-3, relating to levy of excise tax, rate,
+62 taxation of motor fuels not commonly sold or measured by gallon, rate, prohibition of tax on
+H. B. 652
+- 3 -
+25 HB 652/AP
+63 motor fuel by political subdivisions, exception, and exempted sales, by revising
+64 paragraph (2) of subsection (a) and subdivision (b)(7)(B)(ii)(I) as follows:
+65 "(2) In the event any motor fuels which are not commonly sold or measured by the gallon
+66 or which are not otherwise provided for by this Code section are used in any motor
+67 vehicles on the public highways of this state, the commissioner may assess, levy, and
+68 collect a tax upon such fuels, under such regulations as the commissioner may
+69 promulgate, in accordance with and measured by the nearest power potential equivalent
+70 to that of one gallon of regular grade gasoline; provided, however, that no tax shall be
+71 imposed upon exempt special fuel. Any determination by the commissioner of the power
+72 potential equivalent of such motor fuels shall be prima-facie correct. Upon each such
+73 quantity of such fuels used upon the public highways of this state, a tax at the same rate
+74 per gallon imposed on motor fuel under paragraph (1) of this subsection shall be assessed
+75 and collected."
+76 "(ii)(I) Any special fuel sold by a distributor to a purchaser who has a storage
+77 receptacle which has a connection to a withdrawal outlet that may be used for
+78 highway use, as defined in paragraph (8) of Code Section 48-9-2, and any special
+79 fuel delivered from an electric vehicle charging station, is not exempt from the
+80 motor fuel and road taxes imposed by this article unless: (1) the
+81 (a) The purchaser is at the time of sale a valid licensed distributor of that type of
+82 motor fuel;, or (2) an
+83 (b) The fuel is an exempt special fuel; or
+84 (c) An exemption certificate has been obtained on forms furnished by the
+85 Department of Revenue showing that there is no highway use of such fuels and the
+86 person obtaining such fuel is not a reseller of such fuels. Each exemption
+87 certificate shall be valid for a period of not more than three years and shall be kept
+88 by the distributor as one of the records specified in Code Section 48-9-8. It shall
+89 be the responsibility of the purchaser to notify the distributor when the purchaser
+H. B. 652
+- 4 -
+25 HB 652/AP
+90 is no longer qualified for the nonhighway exemption. All applicable taxes must
+91 shall be charged the purchaser until the purchaser is granted a valid distributor's
+92 license for that type of motor fuel."
+93 SECTION 6.
+94 (a) Except as otherwise provided in subsection (b) of this section, this Act shall become
+95 effective on January 1, 2027.
+96 (b) Section 1 of this Act shall become effective upon its approval by the Governor or upon
+97 its becoming law without such approval.
+98 SECTION 7.
+99 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 652
+- 5 -
+[DELETED: 5H5,1,8,htht1,8tt o G A r t r a t s a t p f a]
+[DELETED: 5H a P I o t A r t r a t s b " a t e o p ( b r t p a t e o s n c m f t f p o a p o t]
+[DELETED: 5H]
+[DELETED: 5H f b p s e a e s b r a t u s f u s r a t c m  A e c h b o o f f b t o s f i n a r o s f  E e]
+[DELETED: 5H]
+
+
+================================================================================
+
+Raw Text:
+25 HB 652/AP
+House Bill 652 (AS PASSED HOUSE AND SENATE)
+By: Representatives Jones of the 25th, Jasperse of the 11th, Smith of the 138th, Holcomb of the
+101st, and Hilton of the 48th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend an Act relating to regulation and taxation of electricity used as motor fuel and
+2 electric vehicle charging stations, approved May 2, 2023 (Ga. L. 2023, p. 376/SB 146), as
+3 amended, so as to extend the effective date of provisions relative to regulatory authority of
+4 the Department of Agriculture and revenue and taxation; to amend Title 48 of the Official
+5 Code of Georgia Annotated, relating to revenue and taxation, so as to provide for an
+6 exception for collection of sales and use taxes and motor fuel taxes relative to electricity
+7 delivered by certain electric vehicle charging stations; to revise and provide for definitions;
+8 to provide for related matters; to provide for effective dates; to repeal conflicting laws; and
+9 for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 An Act relating to regulation and taxation of electricity used as motor fuel and electric
+13 vehicle charging stations, approved May 2, 2023 (Ga. L. 2023, p. 376/SB 146), as amended,
+14 is amended by revising subsection (b) of Section 5-1 as follows:
+H. B. 652
+- 1 -
+
+25 HB 652/AP
+15 "(b) Part II of this Act, which provides for the regulatory authority of the Department of
+16 Agriculture, and Part III of this Act, relating to revenue and taxation, shall become
+17 effective on January 1, 2027."
+18 SECTION 2.
+19 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+20 amended in Code Section 48-8-3, relating to exemptions from state sales and use tax, by
+21 striking "or" at the end of paragraph (104), by replacing the period at the end of
+22 paragraph (105) with "; or", and by adding a new paragraph to read as follows:
+23 "(106) Sale or use of exempt special fuel as such term is defined in Code Section 48-9-2."
+24 SECTION 3.
+25 Said title is further amended by revising Code Section 48-8-3.1, relating to exemptions from
+26 sales and use tax for motor fuels, as follows:
+27 "48-8-3.1.
+28 (a) Except as provided in subsection (b) of this Code section, sales of motor fuels as
+29 defined in paragraph (9) of Code Section 48-9-2 shall be exempt from the state sales and
+30 use taxes levied or imposed by this article.
+31 (b) Sales of motor fuel, other than gasoline and exempt special fuel as such term is defined
+32 in Code Section 48-9-2, purchased for purposes other than propelling motor vehicles on
+33 public highways as defined in Article 1 of Chapter 9 of this title shall be fully subject to the
+34 state sales and use taxes levied or imposed by this article unless otherwise specifically
+35 exempted by this article.
+36 (c) It is specifically declared to be the intent of the General Assembly that taxation
+37 imposed on sales of motor fuel wholly or partially subject to taxation under this Code
+38 section shall not constitute motor fuel taxes for purposes of any provision of the
+H. B. 652
+- 2 -
+
+25 HB 652/AP
+39 Constitution providing for the automatic or mandatory appropriation of any amount of
+40 funds equal to funds derived from motor fuel taxes."
+41 SECTION 4.
+42 Said title is further amended in Code Section 48-9-2, relating to definitions relative to motor
+43 fuel tax, by revising subparagraph (G) of paragraph (5), by revising paragraph (5.3), and by
+44 adding a new paragraph to read as follows:
+45 "(G) Consumes, uses, or sells electricity as a motor fuel through an electric vehicle
+46 charging station for both highway and nonhighway use; provided, however, that such
+47 term shall not include the consumption, use, or sale of exempt special fuel;"
+48 "(5.3) 'Exempt special fuel' means fuel dispensed from an electric vehicle charging
+49 station in operation as of January 1, 2025, that is owned or operated by a nonprofit
+50 organization exempt from taxation under Section 501(c)(3) of the Internal Revenue Code,
+51 that delivers electricity for no exchange of consideration or payment, and that is located
+52 upon a federal interstate right of way.
+53 (5.4) 'Export and import' means:
+54 (A) When motor fuels are sold for export and delivered across the boundaries of this
+55 state by or for the seller, such action is presumed to be an export from the place of
+56 origin and an import into the destination state or country by the seller; and
+57 (B) When motor fuels are purchased for export and transported across the boundaries
+58 of this state by or for the purchaser, such action is presumed to be an export from the
+59 place of origin and an import into the destination state or country by the purchaser."
+60 SECTION 5.
+61 Said title is further amended in Code Section 48-9-3, relating to levy of excise tax, rate,
+62 taxation of motor fuels not commonly sold or measured by gallon, rate, prohibition of tax on
+H. B. 652
+- 3 -
+
+25 HB 652/AP
+63 motor fuel by political subdivisions, exception, and exempted sales, by revising
+64 paragraph (2) of subsection (a) and subdivision (b)(7)(B)(ii)(I) as follows:
+65 "(2) In the event any motor fuels which are not commonly sold or measured by the gallon
+66 or which are not otherwise provided for by this Code section are used in any motor
+67 vehicles on the public highways of this state, the commissioner may assess, levy, and
+68 collect a tax upon such fuels, under such regulations as the commissioner may
+69 promulgate, in accordance with and measured by the nearest power potential equivalent
+70 to that of one gallon of regular grade gasoline; provided, however, that no tax shall be
+71 imposed upon exempt special fuel. Any determination by the commissioner of the power
+72 potential equivalent of such motor fuels shall be prima-facie correct. Upon each such
+73 quantity of such fuels used upon the public highways of this state, a tax at the same rate
+74 per gallon imposed on motor fuel under paragraph (1) of this subsection shall be assessed
+75 and collected."
+76 "(ii)(I) Any special fuel sold by a distributor to a purchaser who has a storage
+77 receptacle which has a connection to a withdrawal outlet that may be used for
+78 highway use, as defined in paragraph (8) of Code Section 48-9-2, and any special
+79 fuel delivered from an electric vehicle charging station, is not exempt from the
+80 motor fuel and road taxes imposed by this article unless: (1) the
+81 (a) The purchaser is at the time of sale a valid licensed distributor of that type of
+82 motor fuel;, or (2) an
+83 (b) The fuel is an exempt special fuel; or
+84 (c) An exemption certificate has been obtained on forms furnished by the
+85 Department of Revenue showing that there is no highway use of such fuels and the
+86 person obtaining such fuel is not a reseller of such fuels. Each exemption
+87 certificate shall be valid for a period of not more than three years and shall be kept
+88 by the distributor as one of the records specified in Code Section 48-9-8. It shall
+89 be the responsibility of the purchaser to notify the distributor when the purchaser
+H. B. 652
+- 4 -
+
+25 HB 652/AP
+90 is no longer qualified for the nonhighway exemption. All applicable taxes must
+91 shall be charged the purchaser until the purchaser is granted a valid distributor's
+92 license for that type of motor fuel."
+93 SECTION 6.
+94 (a) Except as otherwise provided in subsection (b) of this section, this Act shall become
+95 effective on January 1, 2027.
+96 (b) Section 1 of this Act shall become effective upon its approval by the Governor or upon
+97 its becoming law without such approval.
+98 SECTION 7.
+99 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 652
+- 5 -
+
+[DELETED: 5H5,1,8,htht1,8tt o G A r t r a t s a t p f a]
+[DELETED: 5H a P I o t A r t r a t s b " a t e o p ( b r t p a t e o s n c m f t f p o a p o t]
+[DELETED: 5H]
+[DELETED: 5H f b p s e a e s b r a t u s f u s r a t c m  A e c h b o o f f b t o s f i n a r o s f  E e]
+[DELETED: 5H]
