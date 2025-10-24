@@ -1,0 +1,810 @@
+Title: Senate Bill 244
+Official Title: Senate Bill 244
+Number of Sections: 1
+Source: versions - SB 244/AP*
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0633S
+By: Senators Beach of the 21st, Albers of the 56th, Summers of the 13th, Robertson of the
+29th, Tillery of the 19th and others
+AS PASSED
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 17 and 28 of the Official Code of Georgia Annotated, relating to criminal
+2 procedure and General Assembly, respectively, so as to enact provisions relating to certain
+3 criminal prosecutions; to provide for the award of reasonable attorney's fees and costs in a
+4 criminal case to the defendant upon the disqualification of the prosecuting attorney for
+5 misconduct in connection with the case and the subsequent dismissal of the case by the court
+6 or a subsequent prosecutor; to provide for procedures for assessing and paying such fees and
+7 costs; to allow for wrongful conviction and incarceration compensation claims; to provide
+8 for a short title; to establish eligibility criteria; to provide for notice of claims; to require
+9 administrative law judges within the Office of State Administrative Hearings to hear and
+10 evaluate such claims; to provide for the burden of proof and evidence to be considered by an
+11 administrative law judge; to establish amounts of compensation that may be awarded; to
+12 require the release of claims prior to receiving an award of compensation; to establish the
+13 Wrongful Conviction and Incarceration Compensation Trust Fund; to provide for the
+14 payment of compensation awards from such trust fund; to provide for the waiver of sovereign
+15 immunity; to provide for rules and regulations; to require the Supreme Court of Georgia and
+16 the State Board of Pardons and Paroles to provide certain individuals with a copy of this Act;
+17 to provide for definitions; to exclude wrongful conviction and incarceration compensation
+18 claims from the purview of the Claims Advisory Board; to provide for related matters; to
+S. B. 244
+- 1 -
+25 LC 55 0633S
+19 provide for effective dates; to provide for applicability; to repeal conflicting laws; and for
+20 other purposes.
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+22 PART I
+23 SECTION 1-1.
+24 Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, is
+25 amended in Chapter 11, relating to assessment and payment of costs of criminal proceedings,
+26 by adding a new Code section to read as follows:
+27 "17-11-6.
+28 (a) In the event that:
+29 (1) The prosecuting attorney in a felony or misdemeanor criminal case is disqualified due
+30 to improper conduct on the part of such prosecuting attorney; and
+31 (2) Such criminal case is dismissed by the court or a subsequent prosecutor tasked with
+32 prosecuting such case following such disqualification;
+33 any defendant against whom such charges are dismissed shall be entitled to an award of all
+34 reasonable attorney's fees and costs incurred by the defendant in defending the case.
+35 (b) A defendant entitled to fees and expenses as provided in this Code section shall file a
+36 motion for reasonable attorney's fees and costs within 45 days of the final termination of
+37 the underlying criminal case. The judge to whom the criminal case was assigned shall
+38 consider and determine such motion for reasonable attorney's fees and costs without a jury
+39 and shall award such reasonable attorney's fees and costs as provided for under this Code
+40 section to such defendant.
+S. B. 244
+- 2 -
+25 LC 55 0633S
+41 (c) Attorney's fees and costs awarded under this Code section shall be paid from the funds
+42 of the office of the prosecuting attorney as budgeted by the county or counties comprising
+43 the judicial circuit of such prosecuting attorney."
+44 PART II
+45 SECTION 2-1.
+46 Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, is
+47 amended by adding a new chapter to read as follows:
+48 "CHAPTER 22
+49 17-22-1.
+50 This chapter shall be known and may be cited as the 'Wrongful Conviction and
+51 Incarceration Compensation Act.'
+52 17-22-2.
+53 As used in this chapter, the term:
+54 (1) 'Alford plea' means a plea of guilty entered by a defendant while maintaining his or
+55 her innocence, as recognized by the United States Supreme Court in the case of North
+56 Carolina v. Alford, 400 U.S. 25 (1970).
+57 (2) 'Claimant' means an individual seeking compensation under this chapter for his or her
+58 wrongful conviction and incarceration.
+59 (3) 'Prosecuting district attorney' means the district attorney whose office prosecuted the
+60 claimant for the crime or crimes that resulted in the wrongful conviction and
+61 incarceration for which the claimant is seeking compensation under the provisions of this
+62 chapter.
+S. B. 244
+- 3 -
+25 LC 55 0633S
+63 (4) 'State governmental entity' means any office, authority, agency, department, unit,
+64 division, instrumentality, institution, commission, board, branch, or other entity of state
+65 government.
+66 17-22-3.
+67 (a) The Office of State Administrative Hearings, established pursuant to Code Section
+68 50-13-40, shall have the sole and exclusive authority to consider claims of wrongful
+69 conviction and incarceration in accordance with the provisions of this chapter.
+70 (b) For purposes of considering claims of wrongful conviction and incarceration and
+71 awarding compensation pursuant to this chapter, an administrative law judge appointed
+72 pursuant to Code Section 50-13-40 shall be designated by the Office of State
+73 Administrative Hearings for each claim filed under this chapter.
+74 (c) Any such administrative law judge shall be authorized to determine:
+75 (1) Whether a claimant qualifies for compensation under this chapter; and
+76 (2) The amount of compensation, if any, to be awarded under this chapter.
+77 17-22-4.
+78 (a) A claim for compensation under this chapter shall:
+79 (1) Be filed directly with the Office of State Administrative Hearings;
+80 (2) Except as provided in subsections (b) and (c) of this Code section, be filed within
+81 three years after the date of the acknowledgment obtained pursuant to Code Section
+82 17-22-12, or within three years of July 1, 2025, whichever occurs later;
+83 (3) Be captioned 'In the Matter of the Wrongful Conviction of [Claimant];' and
+84 (4) Be served on the Attorney General and the prosecuting district attorney.
+85 (b) If, during the two years before the limitations period under paragraph (2) of
+86 subsection (a) of this Code section would otherwise expire, the claimant obtains new
+87 evidence of innocence that the claimant could not previously have obtained with reasonable
+S. B. 244
+- 4 -
+25 LC 55 0633S
+88 diligence, the claimant may file a claim under this chapter within two years of the date on
+89 which the claimant obtains such new evidence.
+90 (c) If, after the limitations period under paragraph (2) of subsection (a) of this Code section
+91 has expired, the claimant obtains new evidence of innocence that the claimant could not
+92 previously have obtained with reasonable diligence, the claimant may file a claim under
+93 this chapter within two years of the date on which the claimant obtains such new evidence.
+94 (d) A claim for compensation may be brought under this chapter by the heirs at law or the
+95 legal representative of a deceased individual.
+96 17-22-5.
+97 (a) To be eligible to receive compensation under this chapter, a claimant must establish by
+98 a preponderance of evidence to the administrative law judge that:
+99 (1) The claimant was convicted of a felony by a court of this state and served all or part
+100 of the sentence for such felony;
+101 (2) The claimant did not commit the crime for which the claimant was convicted and did
+102 not commit any lesser included offense; and
+103 (3) One of the following apply to the claimant:
+104 (A) The claimant's conviction was reversed or vacated and the charges against the
+105 claimant were dismissed after the conviction was reversed or vacated;
+106 (B) The claimant's conviction was reversed or vacated and the claimant was thereafter
+107 acquitted of the charges;
+108 (C) The claimant's conviction was reversed or vacated and the claimant thereafter
+109 entered an Alford plea or a plea of nolo contendere when the claimant would otherwise
+110 have been entitled to a new trial; or
+111 (D) The claimant received a pardon for the conviction based on the claimant's
+112 innocence.
+S. B. 244
+- 5 -
+25 LC 55 0633S
+113 (b) In evaluating whether a claimant has met the requirements of subsection (a) of this
+114 Code section, an administrative law judge may, in the interest of justice, give due
+115 consideration to difficulties of proof caused by the passage of time, the death or
+116 unavailability of witnesses, the destruction of evidence, and other factors not caused by the
+117 claimant or those acting on the claimant's behalf.
+118 (c) Upon determining that a claimant meets the requirements of subsection (a) of this Code
+119 section, an administrative law judge shall award compensation to the claimant for wrongful
+120 conviction and incarceration in accordance with the provisions of this chapter; provided,
+121 however, that no compensation shall be awarded if the administrative law judge determines
+122 by a preponderance of the evidence that:
+123 (1) The claimant was an accomplice in the commission of the crime for which the
+124 claimant was convicted; or
+125 (2) For the purpose of protecting the true perpetrator from conviction, the claimant
+126 intentionally and voluntarily caused the conviction by entering a guilty plea, by
+127 committing perjury at trial, or by fabricating evidence at trial.
+128 17-22-6.
+129 (a) Upon receiving a claim under this chapter filed and served in accordance with Code
+130 Section 17-22-4, the Office of State Administrative Hearings shall, within 15 days,
+131 designate an administrative law judge to adjudicate the claim and notify the claimant, the
+132 Attorney General, and the prosecuting district attorney of such designation.
+133 (b) Any such administrative law judge shall, within 180 days of being designated to
+134 adjudicate the claim, hold a hearing to determine if the claimant is eligible for
+135 compensation under this chapter, and if so, the amount of compensation to be awarded.
+136 The Attorney General and the prosecuting district attorney shall be entitled to file, within
+137 30 days of such administrative law judge being designated to adjudicate the claim, a
+S. B. 244
+- 6 -
+25 LC 55 0633S
+138 response in opposition to the claim and appear at the hearing for the purpose of contesting
+139 the claim.
+140 (c) At a hearing held pursuant to subsection (b) of this Code section on a claim filed under
+141 this chapter, the claimant, the Attorney General, or the prosecuting district attorney may
+142 present evidence in support of or in opposition to the claimant's eligibility for compensation
+143 under this chapter or regarding the amount of compensation that the claimant is entitled to
+144 pursuant to Code Section 17-22-7. The rules of evidence established in Code Section
+145 50-13-15 shall apply in any such hearing held.
+146 (d) Within 30 days of holding a hearing under subsection (b) of this Code section, the
+147 administrative law judge shall issue a decision on the claimant's eligibility for
+148 compensation under this chapter and the amount of compensation to be awarded under
+149 Code Section 17-22-7, if any, which shall include a statement of the administrative law
+150 judge's findings and an explanation of the administrative law judge's calculation of any
+151 such compensation to be awarded. Within 30 days after the administrative law judge has
+152 issued such decision, the claimant, the Attorney General, or the prosecuting district
+153 attorney may appeal such decision by filing, in accordance with the provisions of Chapter
+154 3 of Title 5, a petition for review in the Superior Court of Fulton County or in the superior
+155 court of the county in which the claimant was prosecuted for the crime or crimes leading
+156 to the wrongful conviction and incarceration, provided that such appeal shall be without
+157 a jury, shall be confined to the record, and nothing in this chapter shall preclude the appeal
+158 of any decision or order issued by such superior court during or upon the completion of its
+159 review of the decision issued by the administrative law judge. If no such appeal of the
+160 administrative law judge's decision is timely filed, such decision shall become final and the
+161 administrative law judge shall, subject to the limitation provided in subsection (e) of this
+162 Code section, issue a judgment either awarding compensation to the claimant or denying
+163 the claim. If such an appeal of the administrative law judge's decision is filed, the
+164 administrative law judge shall only issue a judgment when such appeal process is
+S. B. 244
+- 7 -
+25 LC 55 0633S
+165 completed in accordance with any orders of the reviewing court. The issuance of a
+166 judgment after completion of such appeal process shall be subject to the limitation provided
+167 in subsection (e) of this Code section.
+168 (e) No claimant shall be entitled to compensation under this chapter, and no judgment
+169 awarding compensation to a claimant under this chapter shall be issued by an
+170 administrative law judge under subsection (d) of this Code section, unless and until the
+171 claimant has executed and filed with the Office of State Administrative Hearings a release
+172 and waiver, in a form and manner as the Office of State Administrative Hearings shall
+173 prescribe in consultation with the Department of Administrative Services, that releases,
+174 satisfies, acquits, and forever discharges any and all claims, demands, actions, causes of
+175 action, and damages, of every kind and nature whatsoever, past, present, or future, whether
+176 known or unknown, asserted or unasserted, that the claimant has or may claim to have
+177 against the state, any state governmental entity, or any current or former members, officers,
+178 employees, or agents of the state or any state governmental entity that arise out of or relate
+179 to any and all facts in connection with the claimant's wrongful conviction and
+180 incarceration. Nothing in this subsection shall be construed to require a claimant to release
+181 any claims, demands, actions, causes of action, or damages that the claimant may have or
+182 claim to have against any political subdivision of this state or any current or former
+183 members, officers, employees, or agents of any political subdivision of this state.
+184 17-22-7.
+185 (a) A claimant that satisfies the requirements of and is entitled to compensation under
+186 Code Section 17-22-5 shall be awarded:
+187 (1) For each year of incarceration, $75,000.00, provided that a prorated amount shall be
+188 allocated to any partial year of incarceration;
+S. B. 244
+- 8 -
+25 LC 55 0633S
+189 (2) An additional $25,000.00 for each year of incarceration while awaiting a sentence of
+190 death based on the conviction at issue, provided that a prorated amount shall be allocated
+191 to any partial year of incarceration;
+192 (3) The reasonable and necessary attorney's fees, costs, and expenses incurred by the
+193 claimant or on the claimant's behalf in reversing or vacating the claimant's conviction,
+194 obtaining a pardon, and filing a claim for compensation under this chapter; and
+195 (4) Reimbursement for restitution, costs, fines, fees, or surcharges paid by or on behalf
+196 of the claimant as a result of the wrongful conviction at issue.
+197 (b) In calculating time of incarceration, an administrative law judge shall only include time
+198 served for the charge for which the claimant is making a claim under this chapter,
+199 consistent with the requirements of Code Section 17-10-11; provided, however, that a
+200 claimant shall not be entitled to compensation under this chapter for any portion of a
+201 sentence spent incarcerated during which the claimant was also serving a concurrent
+202 sentence of incarceration for another crime for which the claimant's conviction was not
+203 overturned and for which the claimant was not pardoned based on innocence, except to the
+204 extent that:
+205 (1) The sentence for that crime was longer than it would have been without consideration
+206 by the sentencing court of one or more of the crimes at issue; or
+207 (2) The intact conviction was based on an Alford plea or a plea of nolo contendere
+208 maintaining a claim of innocence that the claimant accepted to resolve the underlying
+209 case after the original conviction was overturned, and the claimant proves by a
+210 preponderance of the evidence that the claimant did not commit the crime that resulted
+211 in the Alford plea or the plea of nolo contendere.
+212 (c) If a claimant has received a monetary award or settlement in a civil action against the
+213 state, any state governmental entity, or any member, officer, employee, or agent of the state
+214 or a state governmental agency arising from or relating to the claimant's wrongful
+215 conviction and incarceration, such amount received by the claimant, less any attorney's
+S. B. 244
+- 9 -
+25 LC 55 0633S
+216 fees, costs, and expenses paid by the claimant in obtaining the civil action award or
+217 settlement, shall be deducted from the amount of the compensation award to which the
+218 claimant is entitled under subsection (a) of this Code section.
+219 (d) Beginning on January 1, 2026, and each year thereafter, the Office of State
+220 Administrative Hearings, by rules and regulations, shall adjust the dollar amounts specified
+221 in subsection (a) of this Code section to reflect the effect of annual inflation or deflation
+222 on the cost of living that citizens of this state experienced in the prior calendar year. In
+223 making such adjustments, the Office of State Administrative Hearings may use the
+224 Consumer Price Index, or its successor or appropriate replacement index, if any, published
+225 by the Bureau of Labor Statistics of the United States Department of Labor.
+226 17-22-8.
+227 (a) Any award of compensation made pursuant to this chapter shall not be:
+228 (1) Subject to any monetary limitation of damages awarded in civil actions;
+229 (2) Subject to any state income taxes; or
+230 (3) Reduced by any expense related to the claimant's wrongful incarceration incurred by
+231 the state or any political subdivision thereof.
+232 (b) No attorney shall collect any fees, costs, or expenses from a claimant in connection
+233 with obtaining relief under this chapter, including any fees, costs, or expenses calculated
+234 on a contingency basis, except for the amounts awarded under paragraph (3) of subsection
+235 (a) of Code Section 17-22-7.
+236 17-22-9.
+237 (a) There is created the Wrongful Conviction and Incarceration Compensation Trust Fund
+238 as a separate fund in the state treasury. The state treasurer shall credit to the trust fund all
+239 moneys appropriated by the General Assembly for the purpose of providing claimants with
+240 compensation under this chapter and shall invest the moneys held in the trust fund in the
+S. B. 244
+- 10 -
+25 LC 55 0633S
+241 same manner in which state funds are invested as authorized by the State Depository Board
+242 pursuant to Article 3 of Chapter 17 of Title 50.
+243 (b) No award of compensation issued under this chapter shall be payable except from the
+244 Wrongful Conviction and Incarceration Compensation Trust Fund. Nothing in this chapter
+245 shall be construed to authorize any execution or levy against any state property or state
+246 funds, and such execution or levy against any state property or state funds for purposes of
+247 paying compensation awards issued under this chapter is expressly prohibited. The liability
+248 of the state under this chapter shall never exceed the amount of funds available in the
+249 Wrongful Conviction and Incarceration Compensation Trust Fund and no award of
+250 compensation issued under this chapter shall be payable unless and until the General
+251 Assembly appropriates moneys for the payment thereof.
+252 (c) Subject to the availability of funds, any award of compensation issued under this
+253 chapter shall be paid out of the Wrongful Conviction and Incarceration Compensation
+254 Trust Fund as follows:
+255 (1)(A) If the judgment awarding such compensation is issued by the administrative law
+256 judge pursuant to subsection (d) of Code Section 17-22-6 before September 1 of a given
+257 calendar year, the state treasurer shall pay to the claimant an initial sum of $6,000.00
+258 within 60 days of such judgment being issued and such judgment being presented to the
+259 state treasurer for payment, and such initial sum shall be deducted from the total award
+260 amount.
+261 (B) If the judgment awarding such compensation is issued by the administrative law
+262 judge pursuant to subsection (d) of Code Section 17-22-6 on or after September 1 of a
+263 given calendar year, the state treasurer shall pay to the claimant an initial sum of
+264 $18,000.00 within 60 days of such judgment being issued and such judgment being
+265 presented to the state treasurer for payment, and such initial sum shall be deducted from
+266 the total award amount.
+S. B. 244
+- 11 -
+25 LC 55 0633S
+267 (2) Thereafter, the General Assembly shall, through an amended appropriations Act for
+268 the current fiscal year for a judgment issued before September 1 of a given calendar year
+269 or through the general appropriations Act for the next fiscal year for a judgment issued
+270 on or after September 1 of a given calendar year, appropriate a sum sufficient to pay the
+271 remainder of the award of compensation; provided, however, that, for any award of
+272 compensation that exceeds $1.5 million, the General Assembly shall appropriate such
+273 sum in equal amounts over three separate fiscal years. Within 60 days of such
+274 appropriation being made and such funds being credited to the Wrongful Conviction and
+275 Incarceration Compensation Trust Fund, the state treasurer shall pay to the claimant the
+276 remainder of the award of compensation; provided, however, that, if such award exceeds
+277 $1.5 million, the state treasurer shall pay to the claimant the remainder of the award in
+278 three equal payments, each within 60 days of such amounts being appropriated by the
+279 General Assembly and credited to the Wrongful Conviction and Incarceration
+280 Compensation Trust Fund.
+281 (d) Any payment of an award of compensation pursuant to subsection (c) of this Code
+282 section may be made to or for the benefit of the claimant, or, in the case of the death of the
+283 claimant, to or for the benefit of one or more heirs at law or designated beneficiaries of the
+284 claimant.
+285 17-22-10.
+286 Subject to the provisions and limitations of this chapter, the sovereign immunity of this
+287 state is waived for the purpose of authorizing claimants to file claims for and seek
+288 compensation awards under this chapter and for authorizing payment of any judgment
+289 awarding such compensation from the Wrongful Conviction and Incarceration
+290 Compensation Trust Fund.
+S. B. 244
+- 12 -
+25 LC 55 0633S
+291 17-22-11.
+292 The Office of State Administrative Hearings, through the chief state administrative law
+293 judge, shall have the power to promulgate any rules and regulations and establish any
+294 procedures that are necessary to carry out, and are not inconsistent with, the provisions of
+295 this chapter.
+296 17-22-12.
+297 (a) A court entering a dismissal or judgment of acquittal after a defendant's criminal
+298 conviction has been overturned, vacated, or reversed shall provide a copy of this chapter
+299 to the defendant at the time of entry of the dismissal or acquittal and obtain from the
+300 defendant a written acknowledgment of receipt of a copy of this chapter on a form
+301 established by the Supreme Court of Georgia. Such acknowledgment shall be transmitted
+302 by the court to the Supreme Court of Georgia and shall be entered on the docket by the
+303 Supreme Court of Georgia. The acknowledgment shall be admissible in any proceeding
+304 subsequently filed by the defendant under this chapter.
+305 (b) Upon the issuance and acceptance of a pardon of innocence or a commutation of
+306 sentence resulting in release because of a finding of innocence, the State Board of Pardons
+307 and Paroles shall provide a copy of this chapter to the individual receiving the pardon or
+308 commutation and obtain from the individual a written acknowledgment of receipt of a copy
+309 of this chapter on a form established by the State Board of Pardons and Paroles. The
+310 acknowledgment shall be retained on file by the State Board of Pardons and Paroles as part
+311 of its official records and shall be admissible in any proceeding subsequently filed by the
+312 individual under this chapter."
+S. B. 244
+- 13 -
+25 LC 55 0633S
+313 SECTION 2-2.
+314 Title 28 of the Official Code of Georgia Annotated, relating to General Assembly, is
+315 amended in Part 2 of Article 4 of Chapter 5, relating to claims against state, departments, or
+316 agencies, by adding a new Code section to read as follows:
+317 "28-5-87.
+318 The Claims Advisory Board shall not consider and no compensation shall be paid under
+319 this article concerning any claim against the state for any wrongful conviction and
+320 incarceration."
+321 PART III
+322 SECTION 3-1.
+323 (a) Except as provided in subsection (b) of this Section, this Act shall become effective on
+324 July 1, 2025.
+325 (b) Part I of this Act shall become effective upon its approval by the Governor or upon its
+326 becoming law without such approval and shall apply to all criminal cases pending on and
+327 after such effective date.
+328 SECTION 3-2.
+329 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 244
+- 14 -
+[DELETED: 5L C a I C T F t p f t]
+[DELETED: 5L 1 o t O C o G A r t c p i]
+[DELETED: 5L 1 o t O C o G A r t c p i c s b k a m b c a t ' C a f t c o c t r i t w c a]
+[DELETED: 5L t C S 5 s b d b t O o S  I d t t y b t l p u p ( o]
+[DELETED: 5L  T c r a p f t c b o t c]
+[DELETED: 5L s a a l j m i t i o j g d t d o p c b t p o t t d o a v c t c b e a g p b 1 t O o S A H s w 1 d t c h a h t d i t c i e f]
+[DELETED: 5L l j s i a d o t c e f s d t c t A G o t p d c  I s a a o t a l j d i f t l j s o i a j w s a p i]
+[DELETED: 5L c t a c u t c s b i b a a a a f i c w t c w c a]
+[DELETED: 5L f t c f w t c i m a c u t c a t o c w o a t c p b  a s g a a f o r t t c w]
+[DELETED: 5L  B o J 1 2 a e y t t O o S s a t O o S A H m u t]
+[DELETED: 5L C a I C T F a n a o]
+[DELETED: 5L i e a o t s f y  W 6 d o s A a c t t W C a I i w f t p o a c t f c f a s s c f t W C a I]
+[DELETED: 5L a w a o r o a c o t c o a f]
+[DELETED: 5L 2 o t O C o G A r t G A i a c a c a t s f a w c a]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0633S
+Senate Bill 244
+By: Senators Beach of the 21st, Albers of the 56th, Summers of the 13th, Robertson of the
+29th, Tillery of the 19th and others
+AS PASSED
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 17 and 28 of the Official Code of Georgia Annotated, relating to criminal
+2 procedure and General Assembly, respectively, so as to enact provisions relating to certain
+3 criminal prosecutions; to provide for the award of reasonable attorney's fees and costs in a
+4 criminal case to the defendant upon the disqualification of the prosecuting attorney for
+5 misconduct in connection with the case and the subsequent dismissal of the case by the court
+6 or a subsequent prosecutor; to provide for procedures for assessing and paying such fees and
+7 costs; to allow for wrongful conviction and incarceration compensation claims; to provide
+8 for a short title; to establish eligibility criteria; to provide for notice of claims; to require
+9 administrative law judges within the Office of State Administrative Hearings to hear and
+10 evaluate such claims; to provide for the burden of proof and evidence to be considered by an
+11 administrative law judge; to establish amounts of compensation that may be awarded; to
+12 require the release of claims prior to receiving an award of compensation; to establish the
+13 Wrongful Conviction and Incarceration Compensation Trust Fund; to provide for the
+14 payment of compensation awards from such trust fund; to provide for the waiver of sovereign
+15 immunity; to provide for rules and regulations; to require the Supreme Court of Georgia and
+16 the State Board of Pardons and Paroles to provide certain individuals with a copy of this Act;
+17 to provide for definitions; to exclude wrongful conviction and incarceration compensation
+18 claims from the purview of the Claims Advisory Board; to provide for related matters; to
+S. B. 244
+- 1 -
+
+25 LC 55 0633S
+19 provide for effective dates; to provide for applicability; to repeal conflicting laws; and for
+20 other purposes.
+21 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+22 PART I
+23 SECTION 1-1.
+24 Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, is
+25 amended in Chapter 11, relating to assessment and payment of costs of criminal proceedings,
+26 by adding a new Code section to read as follows:
+27 "17-11-6.
+28 (a) In the event that:
+29 (1) The prosecuting attorney in a felony or misdemeanor criminal case is disqualified due
+30 to improper conduct on the part of such prosecuting attorney; and
+31 (2) Such criminal case is dismissed by the court or a subsequent prosecutor tasked with
+32 prosecuting such case following such disqualification;
+33 any defendant against whom such charges are dismissed shall be entitled to an award of all
+34 reasonable attorney's fees and costs incurred by the defendant in defending the case.
+35 (b) A defendant entitled to fees and expenses as provided in this Code section shall file a
+36 motion for reasonable attorney's fees and costs within 45 days of the final termination of
+37 the underlying criminal case. The judge to whom the criminal case was assigned shall
+38 consider and determine such motion for reasonable attorney's fees and costs without a jury
+39 and shall award such reasonable attorney's fees and costs as provided for under this Code
+40 section to such defendant.
+S. B. 244
+- 2 -
+
+25 LC 55 0633S
+41 (c) Attorney's fees and costs awarded under this Code section shall be paid from the funds
+42 of the office of the prosecuting attorney as budgeted by the county or counties comprising
+43 the judicial circuit of such prosecuting attorney."
+44 PART II
+45 SECTION 2-1.
+46 Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, is
+47 amended by adding a new chapter to read as follows:
+48 "CHAPTER 22
+49 17-22-1.
+50 This chapter shall be known and may be cited as the 'Wrongful Conviction and
+51 Incarceration Compensation Act.'
+52 17-22-2.
+53 As used in this chapter, the term:
+54 (1) 'Alford plea' means a plea of guilty entered by a defendant while maintaining his or
+55 her innocence, as recognized by the United States Supreme Court in the case of North
+56 Carolina v. Alford, 400 U.S. 25 (1970).
+57 (2) 'Claimant' means an individual seeking compensation under this chapter for his or her
+58 wrongful conviction and incarceration.
+59 (3) 'Prosecuting district attorney' means the district attorney whose office prosecuted the
+60 claimant for the crime or crimes that resulted in the wrongful conviction and
+61 incarceration for which the claimant is seeking compensation under the provisions of this
+62 chapter.
+S. B. 244
+- 3 -
+
+25 LC 55 0633S
+63 (4) 'State governmental entity' means any office, authority, agency, department, unit,
+64 division, instrumentality, institution, commission, board, branch, or other entity of state
+65 government.
+66 17-22-3.
+67 (a) The Office of State Administrative Hearings, established pursuant to Code Section
+68 50-13-40, shall have the sole and exclusive authority to consider claims of wrongful
+69 conviction and incarceration in accordance with the provisions of this chapter.
+70 (b) For purposes of considering claims of wrongful conviction and incarceration and
+71 awarding compensation pursuant to this chapter, an administrative law judge appointed
+72 pursuant to Code Section 50-13-40 shall be designated by the Office of State
+73 Administrative Hearings for each claim filed under this chapter.
+74 (c) Any such administrative law judge shall be authorized to determine:
+75 (1) Whether a claimant qualifies for compensation under this chapter; and
+76 (2) The amount of compensation, if any, to be awarded under this chapter.
+77 17-22-4.
+78 (a) A claim for compensation under this chapter shall:
+79 (1) Be filed directly with the Office of State Administrative Hearings;
+80 (2) Except as provided in subsections (b) and (c) of this Code section, be filed within
+81 three years after the date of the acknowledgment obtained pursuant to Code Section
+82 17-22-12, or within three years of July 1, 2025, whichever occurs later;
+83 (3) Be captioned 'In the Matter of the Wrongful Conviction of [Claimant];' and
+84 (4) Be served on the Attorney General and the prosecuting district attorney.
+85 (b) If, during the two years before the limitations period under paragraph (2) of
+86 subsection (a) of this Code section would otherwise expire, the claimant obtains new
+87 evidence of innocence that the claimant could not previously have obtained with reasonable
+S. B. 244
+- 4 -
+
+25 LC 55 0633S
+88 diligence, the claimant may file a claim under this chapter within two years of the date on
+89 which the claimant obtains such new evidence.
+90 (c) If, after the limitations period under paragraph (2) of subsection (a) of this Code section
+91 has expired, the claimant obtains new evidence of innocence that the claimant could not
+92 previously have obtained with reasonable diligence, the claimant may file a claim under
+93 this chapter within two years of the date on which the claimant obtains such new evidence.
+94 (d) A claim for compensation may be brought under this chapter by the heirs at law or the
+95 legal representative of a deceased individual.
+96 17-22-5.
+97 (a) To be eligible to receive compensation under this chapter, a claimant must establish by
+98 a preponderance of evidence to the administrative law judge that:
+99 (1) The claimant was convicted of a felony by a court of this state and served all or part
+100 of the sentence for such felony;
+101 (2) The claimant did not commit the crime for which the claimant was convicted and did
+102 not commit any lesser included offense; and
+103 (3) One of the following apply to the claimant:
+104 (A) The claimant's conviction was reversed or vacated and the charges against the
+105 claimant were dismissed after the conviction was reversed or vacated;
+106 (B) The claimant's conviction was reversed or vacated and the claimant was thereafter
+107 acquitted of the charges;
+108 (C) The claimant's conviction was reversed or vacated and the claimant thereafter
+109 entered an Alford plea or a plea of nolo contendere when the claimant would otherwise
+110 have been entitled to a new trial; or
+111 (D) The claimant received a pardon for the conviction based on the claimant's
+112 innocence.
+S. B. 244
+- 5 -
+
+25 LC 55 0633S
+113 (b) In evaluating whether a claimant has met the requirements of subsection (a) of this
+114 Code section, an administrative law judge may, in the interest of justice, give due
+115 consideration to difficulties of proof caused by the passage of time, the death or
+116 unavailability of witnesses, the destruction of evidence, and other factors not caused by the
+117 claimant or those acting on the claimant's behalf.
+118 (c) Upon determining that a claimant meets the requirements of subsection (a) of this Code
+119 section, an administrative law judge shall award compensation to the claimant for wrongful
+120 conviction and incarceration in accordance with the provisions of this chapter; provided,
+121 however, that no compensation shall be awarded if the administrative law judge determines
+122 by a preponderance of the evidence that:
+123 (1) The claimant was an accomplice in the commission of the crime for which the
+124 claimant was convicted; or
+125 (2) For the purpose of protecting the true perpetrator from conviction, the claimant
+126 intentionally and voluntarily caused the conviction by entering a guilty plea, by
+127 committing perjury at trial, or by fabricating evidence at trial.
+128 17-22-6.
+129 (a) Upon receiving a claim under this chapter filed and served in accordance with Code
+130 Section 17-22-4, the Office of State Administrative Hearings shall, within 15 days,
+131 designate an administrative law judge to adjudicate the claim and notify the claimant, the
+132 Attorney General, and the prosecuting district attorney of such designation.
+133 (b) Any such administrative law judge shall, within 180 days of being designated to
+134 adjudicate the claim, hold a hearing to determine if the claimant is eligible for
+135 compensation under this chapter, and if so, the amount of compensation to be awarded.
+136 The Attorney General and the prosecuting district attorney shall be entitled to file, within
+137 30 days of such administrative law judge being designated to adjudicate the claim, a
+S. B. 244
+- 6 -
+
+25 LC 55 0633S
+138 response in opposition to the claim and appear at the hearing for the purpose of contesting
+139 the claim.
+140 (c) At a hearing held pursuant to subsection (b) of this Code section on a claim filed under
+141 this chapter, the claimant, the Attorney General, or the prosecuting district attorney may
+142 present evidence in support of or in opposition to the claimant's eligibility for compensation
+143 under this chapter or regarding the amount of compensation that the claimant is entitled to
+144 pursuant to Code Section 17-22-7. The rules of evidence established in Code Section
+145 50-13-15 shall apply in any such hearing held.
+146 (d) Within 30 days of holding a hearing under subsection (b) of this Code section, the
+147 administrative law judge shall issue a decision on the claimant's eligibility for
+148 compensation under this chapter and the amount of compensation to be awarded under
+149 Code Section 17-22-7, if any, which shall include a statement of the administrative law
+150 judge's findings and an explanation of the administrative law judge's calculation of any
+151 such compensation to be awarded. Within 30 days after the administrative law judge has
+152 issued such decision, the claimant, the Attorney General, or the prosecuting district
+153 attorney may appeal such decision by filing, in accordance with the provisions of Chapter
+154 3 of Title 5, a petition for review in the Superior Court of Fulton County or in the superior
+155 court of the county in which the claimant was prosecuted for the crime or crimes leading
+156 to the wrongful conviction and incarceration, provided that such appeal shall be without
+157 a jury, shall be confined to the record, and nothing in this chapter shall preclude the appeal
+158 of any decision or order issued by such superior court during or upon the completion of its
+159 review of the decision issued by the administrative law judge. If no such appeal of the
+160 administrative law judge's decision is timely filed, such decision shall become final and the
+161 administrative law judge shall, subject to the limitation provided in subsection (e) of this
+162 Code section, issue a judgment either awarding compensation to the claimant or denying
+163 the claim. If such an appeal of the administrative law judge's decision is filed, the
+164 administrative law judge shall only issue a judgment when such appeal process is
+S. B. 244
+- 7 -
+
+25 LC 55 0633S
+165 completed in accordance with any orders of the reviewing court. The issuance of a
+166 judgment after completion of such appeal process shall be subject to the limitation provided
+167 in subsection (e) of this Code section.
+168 (e) No claimant shall be entitled to compensation under this chapter, and no judgment
+169 awarding compensation to a claimant under this chapter shall be issued by an
+170 administrative law judge under subsection (d) of this Code section, unless and until the
+171 claimant has executed and filed with the Office of State Administrative Hearings a release
+172 and waiver, in a form and manner as the Office of State Administrative Hearings shall
+173 prescribe in consultation with the Department of Administrative Services, that releases,
+174 satisfies, acquits, and forever discharges any and all claims, demands, actions, causes of
+175 action, and damages, of every kind and nature whatsoever, past, present, or future, whether
+176 known or unknown, asserted or unasserted, that the claimant has or may claim to have
+177 against the state, any state governmental entity, or any current or former members, officers,
+178 employees, or agents of the state or any state governmental entity that arise out of or relate
+179 to any and all facts in connection with the claimant's wrongful conviction and
+180 incarceration. Nothing in this subsection shall be construed to require a claimant to release
+181 any claims, demands, actions, causes of action, or damages that the claimant may have or
+182 claim to have against any political subdivision of this state or any current or former
+183 members, officers, employees, or agents of any political subdivision of this state.
+184 17-22-7.
+185 (a) A claimant that satisfies the requirements of and is entitled to compensation under
+186 Code Section 17-22-5 shall be awarded:
+187 (1) For each year of incarceration, $75,000.00, provided that a prorated amount shall be
+188 allocated to any partial year of incarceration;
+S. B. 244
+- 8 -
+
+25 LC 55 0633S
+189 (2) An additional $25,000.00 for each year of incarceration while awaiting a sentence of
+190 death based on the conviction at issue, provided that a prorated amount shall be allocated
+191 to any partial year of incarceration;
+192 (3) The reasonable and necessary attorney's fees, costs, and expenses incurred by the
+193 claimant or on the claimant's behalf in reversing or vacating the claimant's conviction,
+194 obtaining a pardon, and filing a claim for compensation under this chapter; and
+195 (4) Reimbursement for restitution, costs, fines, fees, or surcharges paid by or on behalf
+196 of the claimant as a result of the wrongful conviction at issue.
+197 (b) In calculating time of incarceration, an administrative law judge shall only include time
+198 served for the charge for which the claimant is making a claim under this chapter,
+199 consistent with the requirements of Code Section 17-10-11; provided, however, that a
+200 claimant shall not be entitled to compensation under this chapter for any portion of a
+201 sentence spent incarcerated during which the claimant was also serving a concurrent
+202 sentence of incarceration for another crime for which the claimant's conviction was not
+203 overturned and for which the claimant was not pardoned based on innocence, except to the
+204 extent that:
+205 (1) The sentence for that crime was longer than it would have been without consideration
+206 by the sentencing court of one or more of the crimes at issue; or
+207 (2) The intact conviction was based on an Alford plea or a plea of nolo contendere
+208 maintaining a claim of innocence that the claimant accepted to resolve the underlying
+209 case after the original conviction was overturned, and the claimant proves by a
+210 preponderance of the evidence that the claimant did not commit the crime that resulted
+211 in the Alford plea or the plea of nolo contendere.
+212 (c) If a claimant has received a monetary award or settlement in a civil action against the
+213 state, any state governmental entity, or any member, officer, employee, or agent of the state
+214 or a state governmental agency arising from or relating to the claimant's wrongful
+215 conviction and incarceration, such amount received by the claimant, less any attorney's
+S. B. 244
+- 9 -
+
+25 LC 55 0633S
+216 fees, costs, and expenses paid by the claimant in obtaining the civil action award or
+217 settlement, shall be deducted from the amount of the compensation award to which the
+218 claimant is entitled under subsection (a) of this Code section.
+219 (d) Beginning on January 1, 2026, and each year thereafter, the Office of State
+220 Administrative Hearings, by rules and regulations, shall adjust the dollar amounts specified
+221 in subsection (a) of this Code section to reflect the effect of annual inflation or deflation
+222 on the cost of living that citizens of this state experienced in the prior calendar year. In
+223 making such adjustments, the Office of State Administrative Hearings may use the
+224 Consumer Price Index, or its successor or appropriate replacement index, if any, published
+225 by the Bureau of Labor Statistics of the United States Department of Labor.
+226 17-22-8.
+227 (a) Any award of compensation made pursuant to this chapter shall not be:
+228 (1) Subject to any monetary limitation of damages awarded in civil actions;
+229 (2) Subject to any state income taxes; or
+230 (3) Reduced by any expense related to the claimant's wrongful incarceration incurred by
+231 the state or any political subdivision thereof.
+232 (b) No attorney shall collect any fees, costs, or expenses from a claimant in connection
+233 with obtaining relief under this chapter, including any fees, costs, or expenses calculated
+234 on a contingency basis, except for the amounts awarded under paragraph (3) of subsection
+235 (a) of Code Section 17-22-7.
+236 17-22-9.
+237 (a) There is created the Wrongful Conviction and Incarceration Compensation Trust Fund
+238 as a separate fund in the state treasury. The state treasurer shall credit to the trust fund all
+239 moneys appropriated by the General Assembly for the purpose of providing claimants with
+240 compensation under this chapter and shall invest the moneys held in the trust fund in the
+S. B. 244
+- 10 -
+
+25 LC 55 0633S
+241 same manner in which state funds are invested as authorized by the State Depository Board
+242 pursuant to Article 3 of Chapter 17 of Title 50.
+243 (b) No award of compensation issued under this chapter shall be payable except from the
+244 Wrongful Conviction and Incarceration Compensation Trust Fund. Nothing in this chapter
+245 shall be construed to authorize any execution or levy against any state property or state
+246 funds, and such execution or levy against any state property or state funds for purposes of
+247 paying compensation awards issued under this chapter is expressly prohibited. The liability
+248 of the state under this chapter shall never exceed the amount of funds available in the
+249 Wrongful Conviction and Incarceration Compensation Trust Fund and no award of
+250 compensation issued under this chapter shall be payable unless and until the General
+251 Assembly appropriates moneys for the payment thereof.
+252 (c) Subject to the availability of funds, any award of compensation issued under this
+253 chapter shall be paid out of the Wrongful Conviction and Incarceration Compensation
+254 Trust Fund as follows:
+255 (1)(A) If the judgment awarding such compensation is issued by the administrative law
+256 judge pursuant to subsection (d) of Code Section 17-22-6 before September 1 of a given
+257 calendar year, the state treasurer shall pay to the claimant an initial sum of $6,000.00
+258 within 60 days of such judgment being issued and such judgment being presented to the
+259 state treasurer for payment, and such initial sum shall be deducted from the total award
+260 amount.
+261 (B) If the judgment awarding such compensation is issued by the administrative law
+262 judge pursuant to subsection (d) of Code Section 17-22-6 on or after September 1 of a
+263 given calendar year, the state treasurer shall pay to the claimant an initial sum of
+264 $18,000.00 within 60 days of such judgment being issued and such judgment being
+265 presented to the state treasurer for payment, and such initial sum shall be deducted from
+266 the total award amount.
+S. B. 244
+- 11 -
+
+25 LC 55 0633S
+267 (2) Thereafter, the General Assembly shall, through an amended appropriations Act for
+268 the current fiscal year for a judgment issued before September 1 of a given calendar year
+269 or through the general appropriations Act for the next fiscal year for a judgment issued
+270 on or after September 1 of a given calendar year, appropriate a sum sufficient to pay the
+271 remainder of the award of compensation; provided, however, that, for any award of
+272 compensation that exceeds $1.5 million, the General Assembly shall appropriate such
+273 sum in equal amounts over three separate fiscal years. Within 60 days of such
+274 appropriation being made and such funds being credited to the Wrongful Conviction and
+275 Incarceration Compensation Trust Fund, the state treasurer shall pay to the claimant the
+276 remainder of the award of compensation; provided, however, that, if such award exceeds
+277 $1.5 million, the state treasurer shall pay to the claimant the remainder of the award in
+278 three equal payments, each within 60 days of such amounts being appropriated by the
+279 General Assembly and credited to the Wrongful Conviction and Incarceration
+280 Compensation Trust Fund.
+281 (d) Any payment of an award of compensation pursuant to subsection (c) of this Code
+282 section may be made to or for the benefit of the claimant, or, in the case of the death of the
+283 claimant, to or for the benefit of one or more heirs at law or designated beneficiaries of the
+284 claimant.
+285 17-22-10.
+286 Subject to the provisions and limitations of this chapter, the sovereign immunity of this
+287 state is waived for the purpose of authorizing claimants to file claims for and seek
+288 compensation awards under this chapter and for authorizing payment of any judgment
+289 awarding such compensation from the Wrongful Conviction and Incarceration
+290 Compensation Trust Fund.
+S. B. 244
+- 12 -
+
+25 LC 55 0633S
+291 17-22-11.
+292 The Office of State Administrative Hearings, through the chief state administrative law
+293 judge, shall have the power to promulgate any rules and regulations and establish any
+294 procedures that are necessary to carry out, and are not inconsistent with, the provisions of
+295 this chapter.
+296 17-22-12.
+297 (a) A court entering a dismissal or judgment of acquittal after a defendant's criminal
+298 conviction has been overturned, vacated, or reversed shall provide a copy of this chapter
+299 to the defendant at the time of entry of the dismissal or acquittal and obtain from the
+300 defendant a written acknowledgment of receipt of a copy of this chapter on a form
+301 established by the Supreme Court of Georgia. Such acknowledgment shall be transmitted
+302 by the court to the Supreme Court of Georgia and shall be entered on the docket by the
+303 Supreme Court of Georgia. The acknowledgment shall be admissible in any proceeding
+304 subsequently filed by the defendant under this chapter.
+305 (b) Upon the issuance and acceptance of a pardon of innocence or a commutation of
+306 sentence resulting in release because of a finding of innocence, the State Board of Pardons
+307 and Paroles shall provide a copy of this chapter to the individual receiving the pardon or
+308 commutation and obtain from the individual a written acknowledgment of receipt of a copy
+309 of this chapter on a form established by the State Board of Pardons and Paroles. The
+310 acknowledgment shall be retained on file by the State Board of Pardons and Paroles as part
+311 of its official records and shall be admissible in any proceeding subsequently filed by the
+312 individual under this chapter."
+S. B. 244
+- 13 -
+
+25 LC 55 0633S
+313 SECTION 2-2.
+314 Title 28 of the Official Code of Georgia Annotated, relating to General Assembly, is
+315 amended in Part 2 of Article 4 of Chapter 5, relating to claims against state, departments, or
+316 agencies, by adding a new Code section to read as follows:
+317 "28-5-87.
+318 The Claims Advisory Board shall not consider and no compensation shall be paid under
+319 this article concerning any claim against the state for any wrongful conviction and
+320 incarceration."
+321 PART III
+322 SECTION 3-1.
+323 (a) Except as provided in subsection (b) of this Section, this Act shall become effective on
+324 July 1, 2025.
+325 (b) Part I of this Act shall become effective upon its approval by the Governor or upon its
+326 becoming law without such approval and shall apply to all criminal cases pending on and
+327 after such effective date.
+328 SECTION 3-2.
+329 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 244
+- 14 -
+
+[DELETED: 5L C a I C T F t p f t]
+[DELETED: 5L 1 o t O C o G A r t c p i]
+[DELETED: 5L 1 o t O C o G A r t c p i c s b k a m b c a t ' C a f t c o c t r i t w c a]
+[DELETED: 5L t C S 5 s b d b t O o S  I d t t y b t l p u p ( o]
+[DELETED: 5L  T c r a p f t c b o t c]
+[DELETED: 5L s a a l j m i t i o j g d t d o p c b t p o t t d o a v c t c b e a g p b 1 t O o S A H s w 1 d t c h a h t d i t c i e f]
+[DELETED: 5L l j s i a d o t c e f s d t c t A G o t p d c  I s a a o t a l j d i f t l j s o i a j w s a p i]
+[DELETED: 5L c t a c u t c s b i b a a a a f i c w t c w c a]
+[DELETED: 5L f t c f w t c i m a c u t c a t o c w o a t c p b  a s g a a f o r t t c w]
+[DELETED: 5L  B o J 1 2 a e y t t O o S s a t O o S A H m u t]
+[DELETED: 5L C a I C T F a n a o]
+[DELETED: 5L i e a o t s f y  W 6 d o s A a c t t W C a I i w f t p o a c t f c f a s s c f t W C a I]
+[DELETED: 5L a w a o r o a c o t c o a f]
+[DELETED: 5L 2 o t O C o G A r t G A i a c a c a t s f a w c a]

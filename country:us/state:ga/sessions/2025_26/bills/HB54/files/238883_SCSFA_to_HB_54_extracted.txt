@@ -1,0 +1,495 @@
+Title: A BILL TO BE ENTITLED
+Official Title: A BILL TO BE ENTITLED
+Number of Sections: 1
+Source: versions - SCSFA to HB 54
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25 HB 54/SCSFA
+SENATE SUBSTITUTE TO HB 54
+AN ACT
+1 To amend Titles 16, 31, 43, and 48 of the Official Code of Georgia Annotated, relating to
+2 crimes and offenses, health, professions and businesses, and revenue and taxation,
+3 respectively, so as to authorize advanced practice registered nurses and physician assistants
+4 to order home healthcare services to patients of home health agencies; to provide for
+5 definitions; to provide for the approval of continuing education regarding death certificates;
+6 to provide for authorizing job descriptions; to provide for tax credits for qualified caregiving
+7 expenses to include advanced practice registered nurses and physician assistants; to provide
+8 for related matters; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Title 16 of the Official Code of Georgia Annotated, relating to crimes and offenses, is
+12 amended by revising paragraph (4.2) of Code Section 16-13-72, relating to the sale,
+13 distribution, or possession of dangerous drugs, as follows:
+14 "(4.2) A registered professional nurse licensed under Article 1 of Chapter 26 of Title 43
+15 who is employed or engaged by a licensed home health agency may possess sterile saline,
+16 sterile water, and diluted heparin for use as intravenous maintenance for use in a home
+17 health setting, and such nurse may administer such items to patients of the home health
+- 1 -
+25 HB 54/SCSFA
+18 agency upon the order of a licensed physician, an advanced practice registered nurse
+19 acting pursuant to the authority of Code Section 43-34-25, or a physician assistant
+20 provided that the individual ordering the home health services does not have an
+21 ownership interest in an entity to which they are referring. acting pursuant to the authority
+22 of Code Section 43-34-103. The State Board of Pharmacy shall be authorized to adopt
+23 regulations governing the storage, quantity, use, and administration of such items;
+24 provided, however, that nothing in this paragraph or in such regulations shall be
+25 construed to restrict any authority of nurses existing under other provisions of law;"
+26 SECTION 2.
+27 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended by revising
+28 paragraph (20) of Code Section 31-6-2, relating to definitions relative to state health planning
+29 and development, as follows:
+30 "(20) 'Home health agency' means a public agency or private organization, or a
+31 subdivision of such an agency or organization, which is primarily engaged in providing
+32 to individuals who are under a written plan of care of a physician treatment ordered by
+33 a physician, an advanced practice registered nurse acting pursuant to the authority of
+34 Code Section 43-34-25, or a physician assistant provided that the individual ordering the
+35 home health services does not have an ownership interest in an entity to which they are
+36 referring. acting pursuant to the authority of Code Section 43-34-103, on a visiting basis
+37 in the places of residence used as such individuals' homes, part-time or intermittent
+38 nursing care provided by or under the supervision of a registered professional nurse, and
+39 one or more of the following services:
+40 (A) Physical therapy;
+41 (B) Occupational therapy;
+42 (C) Speech therapy;
+43 (D) Respiratory therapy;
+- 2 -
+25 HB 54/SCSFA
+44 (E) Skilled nursing care;
+45 (D)(F) Medical social services under the direction of a physician, an advanced practice
+46 registered nurse acting pursuant to the authority of Code Section 43-34-25, or a
+47 physician assistant provided that the individual ordering the home health services does
+48 not have an ownership interest in an entity to which they are referring. acting pursuant
+49 to the authority of Code Section 43-34-103; or
+50 (E)(G) Part-time or intermittent services of a home health aide."
+51 SECTION 3.
+52 Said title is further amended by revising Code Section 31-7-150, relating to definitions, as
+53 follows:
+54 "31-7-150.
+55 As used in this article, the term:
+56 (.5) 'Advanced practice registered nurse' has the same meaning as set forth in Code
+57 Section 43-26-3.
+58 (1) 'Branch office' means a location or site, identified in the application or endorsement
+59 thereto, from which a home health agency provides services within a portion of the total
+60 geographic area served by the parent agency and which is part of the home health agency
+61 and is located sufficiently close to share administration, supervision, and services in a
+62 manner that renders it unnecessary for the branch independently to meet the requirements
+63 of this article.
+64 (1.1)(2) 'Department' means the Department of Community Health.
+65 (2)(3) 'Home health agency' means a public, nonprofit, or proprietary organization,
+66 whether owned or operated by one or more persons or legal entities, which is engaged in
+67 furnishing home health healthcare services.
+68 (3)(4) 'Home health healthcare services' means those items and services furnished to an
+69 individual according to a written plan of treatment signed by the patient's physician, an
+- 3 -
+25 HB 54/SCSFA
+70 advanced practice registered nurse acting pursuant to the authority of Code Section
+71 43-34-25, or a physician assistant acting pursuant to the authority of Code Section
+72 43-34-103, by a home health agency, or by others under arrangement with the home
+73 health agency on a visit or hourly basis, in a place of temporary or permanent residence
+74 used as the individual's home, as follows:
+75 (A) Part-time or intermittent skilled nursing care as ordered by a physician, an
+76 advanced practice registered nurse acting pursuant to the authority of Code Section
+77 43-34-25, or a physician assistant provided that the individual ordering the home health
+78 services does not have an ownership interest in an entity to which they are referring.
+79 acting pursuant to the authority of Code Section 43-34-103 and provided by or under
+80 the supervision of a registered nurse and at least one other service listed in
+81 subparagraphs (B) through (D) of this paragraph;
+82 (B) Physical, occupational, or speech therapy;
+83 (C) Medical social services; and
+84 (D) Home health aide services.
+85 (4)(5) 'License' means a license issued by the department.
+86 (5)(6) 'Licensee' means the individual, corporation, or public entity with whom rests the
+87 ultimate responsibility for maintaining approved standards for the home health agency.
+88 (6)(7) 'Parent home health agency' means the agency that develops and maintains
+89 administrative controls of subunits or branch offices.
+90 (7)(8) 'Physician' means an individual currently licensed or authorized to practice
+91 medicine, surgery, or osteopathy in this state.
+92 (9) 'Physician assistant' means an individual licensed pursuant to Article 4 of Chapter 34
+93 of Title 43 and acting pursuant to the authority of Code Section 43-34-103.
+94 (8)(10) 'Plan of treatment' means a plan written, signed, and reviewed at least every two
+95 months by the patient's physician, an advanced practice registered nurse acting pursuant
+96 to the authority of Code Section 43-34-25, or a physician assistant provided that the
+- 4 -
+25 HB 54/SCSFA
+97 individual ordering the home health services does not have an ownership interest in an
+98 entity to which they are referring. acting pursuant to the authority of Code Section
+99 43-34-103 prescribing items and services for the patient's condition.
+100 (9)(11) 'Registered nurse' means an individual who is currently licensed as a registered
+101 professional nurse in this state.
+102 (10)(12) 'Subunit' means a semiautonomous organization which serves patients in a
+103 geographic area different from that of the parent agency and which, by virtue of the
+104 distance between it and the parent agency, is judged incapable of sharing administration,
+105 supervision, and services on a daily basis with the parent agency and must shall,
+106 therefore, independently meet the licensing requirements for a home health agency and
+107 shall be separately licensed."
+108 SECTION 4.
+109 Said title is further amended by revising Code Section 31-7-153, relating to standards for
+110 patient care and agency operation, regulations as to issuance, denial, suspension, or
+111 revocation of licenses, and hearings, as follows:
+112 "31-7-153.
+113 The department shall promulgate regulations which define standards for the care, treatment,
+114 health, safety, welfare, and comfort of patients served by home health agencies and for the
+115 maintenance and operation of home health agencies which will promote safe and adequate
+116 care and treatment of the patients. These regulations shall be no less stringent than those
+117 required for participation of home health agencies in the Title XVIII medicare Medicare
+118 program and shall include, but not be limited to, a provision requiring the agency to have
+119 policies established by a professional group which includes at least one physician and one
+120 registered nurse and appropriate representation from other professional disciplines;
+121 provisions governing the services the agency provides; provisions for the supervision of
+122 services by a physician, advanced practice registered nurse, physician assistant, or
+- 5 -
+25 HB 54/SCSFA
+123 registered nurse, as appropriate, and maintenance of clinical records on all patients,
+124 including a plan of treatment prescribed by a physician. The department is authorized to
+125 issue, deny, suspend, or revoke licenses in accordance with regulations promulgated
+126 pursuant to this Code section. Such regulations shall also include hearing procedures
+127 related to denial, suspension, or revocation of licenses."
+128 SECTION 5.
+129 Said title is further amended by revising Code Section 31-7-154, relating to inspections, as
+130 follows:
+131 "31-7-154.
+132 Each home health agency for which a license has been issued shall be periodically
+133 inspected by an authorized representative of the department. Such inspections shall be for
+134 the purpose of ensuring that this article is being followed. The department is directed to
+135 ensure by inspection that the licensee is providing quality care to its patients in accordance
+136 with the orders of the patient's physician, an advanced practice registered nurse, or a
+137 physician assistant; provided, however, that an agency shall be exempt from an additional
+138 on-site licensure inspection if certified in a federal program for reimbursement of medicare
+139 Medicare or Medicaid services."
+140 SECTION 6.
+141 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+142 is amended by revising paragraph (1) of subsection (b) of Code Section 43-34-23, relating
+143 to the delegation of authority to nurse or physician assistant, and by adding a new paragraph
+144 to read as follows:
+145 "(b)(1)(A) A physician may delegate the authority contained in subparagraph (B) of
+146 this paragraph to:
+147 (i) A physician assistant in accordance with a job description; or
+- 6 -
+25 HB 54/SCSFA
+148 (ii) A nurse recognized by the Georgia Board of Nursing as a certified nurse midwife,
+149 certified registered nurse anesthetist, certified nurse practitioner, or clinical nurse
+150 specialist in psychiatric/mental health in accordance with a nurse protocol.
+151 (B) A physician may delegate to those healthcare professionals identified in
+152 subparagraph (A) of this paragraph:
+153 (i) The authority to order controlled substances selected from a formulary of such
+154 drugs established by the board and the authority to order dangerous drugs, medical
+155 treatments, and diagnostic studies;
+156 (ii) The authority to request, receive, and sign for professional samples and to
+157 distribute professional samples to patients. The office or facility at which the
+158 healthcare professional identified in subparagraph (A) of this paragraph is working
+159 shall maintain a general list of the professional samples approved by the delegating
+160 physician for request, receipt, and distribution by the healthcare professional
+161 identified in subparagraph (A) of this paragraph as well as a complete list of the
+162 specific number and dosage of each professional sample and medication voucher
+163 received. Professional samples that are distributed by a healthcare professional
+164 identified in subparagraph (A) of this paragraph shall be so noted in the patient's
+165 medical record. In addition to the requirements of this Code section, all professional
+166 samples shall be maintained as required by applicable state and federal laws and
+167 regulations; and
+168 (iii) The authority to sign, certify, and endorse all documents relating to healthcare
+169 provided to a patient within his or her scope of authorized practice, including, but not
+170 limited to, documents relating to physical examination forms of all state agencies and
+171 verification and evaluation forms of the Department of Human Services, the State
+172 Board of Education, local boards of education, the Department of Community Health,
+173 and the Department of Corrections; provided, however, that a healthcare professional
+- 7 -
+25 HB 54/SCSFA
+174 identified in subparagraph (A) of this paragraph shall not have the authority to assign
+175 a percentage of a disability rating.
+176 (1.1) Healthcare professionals identified in subparagraph (A) of this paragraph must
+177 paragraph (1) of this subsection shall complete biennial continuing education regarding
+178 the recognition and documentation of the causes of death and appropriate execution of
+179 death certificates, as approved by the board for a physician assistant as identified in
+180 division (b)(1)(A)(i) of this Code section or by the Board of Nursing for a healthcare
+181 professional identified in division (b)(1)(A)(ii) of this Code section."
+182 SECTION 7.
+183 Said title is further amended in Code Section 43-34-103, relating to application for licensure
+184 as a physician assistant, authorized delegated authority, and prohibited acts, by adding a new
+185 subsection to read as follows:
+186 "(m) In addition to and without limiting the authority granted by Code Section 43-34-23,
+187 a physician may delegate to a physician assistant, in accordance with a job description, the
+188 authority to order home healthcare services to a patient."
+189 SECTION 8.
+190 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+191 amended by revising paragraph (1) of subsection (a) of Code Section 48-7-29.2, relating to
+192 tax credits for qualified caregiving expenses, as follows:
+193 "(1) 'Qualified caregiving expenses' means payments by the taxpayer for home health
+194 agency services, personal care services, personal care attendant services, homemaker
+195 services, adult day care, respite care, or healthcare equipment and supplies which
+196 equipment and supplies have been determined to be medically necessary by a physician,
+197 an advanced practice registered nurse acting pursuant to the authority of Code Section
+198 43-34-25, or a physician assistant provided that the individual ordering the home health
+- 8 -
+25 HB 54/SCSFA
+199 services does not have an ownership interest in an entity to which they are referring. acting
+200 pursuant to the authority of Code Section 43-34-103, which services, care, or equipment
+201 and supplies are:
+202 (A) Provided to the qualifying family member; and
+203 (B) Purchased or obtained from an organization or individual not related to the
+204 taxpayer or the qualifying family member."
+205 SECTION 9.
+206 All laws and parts of laws in conflict with this Act are repealed.
+- 9 -
+[DELETED: 5HTc a o h p a b a r a trt o h h s t p o h h a t p fdtefB0S1T2a b r p ( o C S 1 r t t s3d4(5w6s7h]
+[DELETED: 5H8a9a o0p t t i o t h h s d n h a1o2o3r g t s q u a a o s i4p h t n i t p o i s r s b5c6S7T8p9a0(  ' h a m a p a o p o o 1s2t3a4C5h6r7i8n9o0(1(2(3(]
+[DELETED: 5H4(5(6r n a p t t a o C S 4 o 7p8n9t0(1S2S3f435A6(7S8(9t0g1a2m3o4(5(6w7f8(9i]
+[DELETED: 5H0a14 t a243h4u5(  P o i s n c a o b a p a6a748s9a0t s o a r n a a l o o s l i1s2(3(4(5(6(7u8(  ' h h a m t a t d a m9a0(  ' m a i c l o a t p1m2(3o4(5m6t]
+[DELETED: 5H7i8e940(1p2(3g4d5s a s o a d b w t p a a m s6t7s8S9S0p c a a o r a t i d s o1r233T4h5m6c7r8p9p0r n a a r f o p d1p2s b a p a p r n p a o]
+[DELETED: 5H3r n a a a m o c r o a p4i5i d s o r l i a w r p6p7r8S9S0f132E h h a f w a l h b i s b p3i4t5e6w7p8o9M0S1T2i3t4t5(6t7(]
+[DELETED: 5H8(9c0s1(  A p m d t t h p i i2s3(4d5t6( a7d p s t p  T o o f a w t8h9s0p f r r a d b t h p1i2s3r  P s t a d b a h p4i5m6s7r8(9p0l1v2B3a]
+[DELETED: 5H4i5a6(7p8t9d0d1p2S3S4a5s6(7a8a9S0T1a2t3(4a s5s a d c r c o h e a s w6e7a84]
+[DELETED: 5H9s0p1a2(3(  P o o f a o o i n r t t4t5S6A]
+
+
+================================================================================
+
+Raw Text:
+25 HB 54/SCSFA
+SENATE SUBSTITUTE TO HB 54
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 16, 31, 43, and 48 of the Official Code of Georgia Annotated, relating to
+2 crimes and offenses, health, professions and businesses, and revenue and taxation,
+3 respectively, so as to authorize advanced practice registered nurses and physician assistants
+4 to order home healthcare services to patients of home health agencies; to provide for
+5 definitions; to provide for the approval of continuing education regarding death certificates;
+6 to provide for authorizing job descriptions; to provide for tax credits for qualified caregiving
+7 expenses to include advanced practice registered nurses and physician assistants; to provide
+8 for related matters; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Title 16 of the Official Code of Georgia Annotated, relating to crimes and offenses, is
+12 amended by revising paragraph (4.2) of Code Section 16-13-72, relating to the sale,
+13 distribution, or possession of dangerous drugs, as follows:
+14 "(4.2) A registered professional nurse licensed under Article 1 of Chapter 26 of Title 43
+15 who is employed or engaged by a licensed home health agency may possess sterile saline,
+16 sterile water, and diluted heparin for use as intravenous maintenance for use in a home
+17 health setting, and such nurse may administer such items to patients of the home health
+- 1 -
+
+25 HB 54/SCSFA
+18 agency upon the order of a licensed physician, an advanced practice registered nurse
+19 acting pursuant to the authority of Code Section 43-34-25, or a physician assistant
+20 provided that the individual ordering the home health services does not have an
+21 ownership interest in an entity to which they are referring. acting pursuant to the authority
+22 of Code Section 43-34-103. The State Board of Pharmacy shall be authorized to adopt
+23 regulations governing the storage, quantity, use, and administration of such items;
+24 provided, however, that nothing in this paragraph or in such regulations shall be
+25 construed to restrict any authority of nurses existing under other provisions of law;"
+26 SECTION 2.
+27 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended by revising
+28 paragraph (20) of Code Section 31-6-2, relating to definitions relative to state health planning
+29 and development, as follows:
+30 "(20) 'Home health agency' means a public agency or private organization, or a
+31 subdivision of such an agency or organization, which is primarily engaged in providing
+32 to individuals who are under a written plan of care of a physician treatment ordered by
+33 a physician, an advanced practice registered nurse acting pursuant to the authority of
+34 Code Section 43-34-25, or a physician assistant provided that the individual ordering the
+35 home health services does not have an ownership interest in an entity to which they are
+36 referring. acting pursuant to the authority of Code Section 43-34-103, on a visiting basis
+37 in the places of residence used as such individuals' homes, part-time or intermittent
+38 nursing care provided by or under the supervision of a registered professional nurse, and
+39 one or more of the following services:
+40 (A) Physical therapy;
+41 (B) Occupational therapy;
+42 (C) Speech therapy;
+43 (D) Respiratory therapy;
+- 2 -
+
+25 HB 54/SCSFA
+44 (E) Skilled nursing care;
+45 (D)(F) Medical social services under the direction of a physician, an advanced practice
+46 registered nurse acting pursuant to the authority of Code Section 43-34-25, or a
+47 physician assistant provided that the individual ordering the home health services does
+48 not have an ownership interest in an entity to which they are referring. acting pursuant
+49 to the authority of Code Section 43-34-103; or
+50 (E)(G) Part-time or intermittent services of a home health aide."
+51 SECTION 3.
+52 Said title is further amended by revising Code Section 31-7-150, relating to definitions, as
+53 follows:
+54 "31-7-150.
+55 As used in this article, the term:
+56 (.5) 'Advanced practice registered nurse' has the same meaning as set forth in Code
+57 Section 43-26-3.
+58 (1) 'Branch office' means a location or site, identified in the application or endorsement
+59 thereto, from which a home health agency provides services within a portion of the total
+60 geographic area served by the parent agency and which is part of the home health agency
+61 and is located sufficiently close to share administration, supervision, and services in a
+62 manner that renders it unnecessary for the branch independently to meet the requirements
+63 of this article.
+64 (1.1)(2) 'Department' means the Department of Community Health.
+65 (2)(3) 'Home health agency' means a public, nonprofit, or proprietary organization,
+66 whether owned or operated by one or more persons or legal entities, which is engaged in
+67 furnishing home health healthcare services.
+68 (3)(4) 'Home health healthcare services' means those items and services furnished to an
+69 individual according to a written plan of treatment signed by the patient's physician, an
+- 3 -
+
+25 HB 54/SCSFA
+70 advanced practice registered nurse acting pursuant to the authority of Code Section
+71 43-34-25, or a physician assistant acting pursuant to the authority of Code Section
+72 43-34-103, by a home health agency, or by others under arrangement with the home
+73 health agency on a visit or hourly basis, in a place of temporary or permanent residence
+74 used as the individual's home, as follows:
+75 (A) Part-time or intermittent skilled nursing care as ordered by a physician, an
+76 advanced practice registered nurse acting pursuant to the authority of Code Section
+77 43-34-25, or a physician assistant provided that the individual ordering the home health
+78 services does not have an ownership interest in an entity to which they are referring.
+79 acting pursuant to the authority of Code Section 43-34-103 and provided by or under
+80 the supervision of a registered nurse and at least one other service listed in
+81 subparagraphs (B) through (D) of this paragraph;
+82 (B) Physical, occupational, or speech therapy;
+83 (C) Medical social services; and
+84 (D) Home health aide services.
+85 (4)(5) 'License' means a license issued by the department.
+86 (5)(6) 'Licensee' means the individual, corporation, or public entity with whom rests the
+87 ultimate responsibility for maintaining approved standards for the home health agency.
+88 (6)(7) 'Parent home health agency' means the agency that develops and maintains
+89 administrative controls of subunits or branch offices.
+90 (7)(8) 'Physician' means an individual currently licensed or authorized to practice
+91 medicine, surgery, or osteopathy in this state.
+92 (9) 'Physician assistant' means an individual licensed pursuant to Article 4 of Chapter 34
+93 of Title 43 and acting pursuant to the authority of Code Section 43-34-103.
+94 (8)(10) 'Plan of treatment' means a plan written, signed, and reviewed at least every two
+95 months by the patient's physician, an advanced practice registered nurse acting pursuant
+96 to the authority of Code Section 43-34-25, or a physician assistant provided that the
+- 4 -
+
+25 HB 54/SCSFA
+97 individual ordering the home health services does not have an ownership interest in an
+98 entity to which they are referring. acting pursuant to the authority of Code Section
+99 43-34-103 prescribing items and services for the patient's condition.
+100 (9)(11) 'Registered nurse' means an individual who is currently licensed as a registered
+101 professional nurse in this state.
+102 (10)(12) 'Subunit' means a semiautonomous organization which serves patients in a
+103 geographic area different from that of the parent agency and which, by virtue of the
+104 distance between it and the parent agency, is judged incapable of sharing administration,
+105 supervision, and services on a daily basis with the parent agency and must shall,
+106 therefore, independently meet the licensing requirements for a home health agency and
+107 shall be separately licensed."
+108 SECTION 4.
+109 Said title is further amended by revising Code Section 31-7-153, relating to standards for
+110 patient care and agency operation, regulations as to issuance, denial, suspension, or
+111 revocation of licenses, and hearings, as follows:
+112 "31-7-153.
+113 The department shall promulgate regulations which define standards for the care, treatment,
+114 health, safety, welfare, and comfort of patients served by home health agencies and for the
+115 maintenance and operation of home health agencies which will promote safe and adequate
+116 care and treatment of the patients. These regulations shall be no less stringent than those
+117 required for participation of home health agencies in the Title XVIII medicare Medicare
+118 program and shall include, but not be limited to, a provision requiring the agency to have
+119 policies established by a professional group which includes at least one physician and one
+120 registered nurse and appropriate representation from other professional disciplines;
+121 provisions governing the services the agency provides; provisions for the supervision of
+122 services by a physician, advanced practice registered nurse, physician assistant, or
+- 5 -
+
+25 HB 54/SCSFA
+123 registered nurse, as appropriate, and maintenance of clinical records on all patients,
+124 including a plan of treatment prescribed by a physician. The department is authorized to
+125 issue, deny, suspend, or revoke licenses in accordance with regulations promulgated
+126 pursuant to this Code section. Such regulations shall also include hearing procedures
+127 related to denial, suspension, or revocation of licenses."
+128 SECTION 5.
+129 Said title is further amended by revising Code Section 31-7-154, relating to inspections, as
+130 follows:
+131 "31-7-154.
+132 Each home health agency for which a license has been issued shall be periodically
+133 inspected by an authorized representative of the department. Such inspections shall be for
+134 the purpose of ensuring that this article is being followed. The department is directed to
+135 ensure by inspection that the licensee is providing quality care to its patients in accordance
+136 with the orders of the patient's physician, an advanced practice registered nurse, or a
+137 physician assistant; provided, however, that an agency shall be exempt from an additional
+138 on-site licensure inspection if certified in a federal program for reimbursement of medicare
+139 Medicare or Medicaid services."
+140 SECTION 6.
+141 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+142 is amended by revising paragraph (1) of subsection (b) of Code Section 43-34-23, relating
+143 to the delegation of authority to nurse or physician assistant, and by adding a new paragraph
+144 to read as follows:
+145 "(b)(1)(A) A physician may delegate the authority contained in subparagraph (B) of
+146 this paragraph to:
+147 (i) A physician assistant in accordance with a job description; or
+- 6 -
+
+25 HB 54/SCSFA
+148 (ii) A nurse recognized by the Georgia Board of Nursing as a certified nurse midwife,
+149 certified registered nurse anesthetist, certified nurse practitioner, or clinical nurse
+150 specialist in psychiatric/mental health in accordance with a nurse protocol.
+151 (B) A physician may delegate to those healthcare professionals identified in
+152 subparagraph (A) of this paragraph:
+153 (i) The authority to order controlled substances selected from a formulary of such
+154 drugs established by the board and the authority to order dangerous drugs, medical
+155 treatments, and diagnostic studies;
+156 (ii) The authority to request, receive, and sign for professional samples and to
+157 distribute professional samples to patients. The office or facility at which the
+158 healthcare professional identified in subparagraph (A) of this paragraph is working
+159 shall maintain a general list of the professional samples approved by the delegating
+160 physician for request, receipt, and distribution by the healthcare professional
+161 identified in subparagraph (A) of this paragraph as well as a complete list of the
+162 specific number and dosage of each professional sample and medication voucher
+163 received. Professional samples that are distributed by a healthcare professional
+164 identified in subparagraph (A) of this paragraph shall be so noted in the patient's
+165 medical record. In addition to the requirements of this Code section, all professional
+166 samples shall be maintained as required by applicable state and federal laws and
+167 regulations; and
+168 (iii) The authority to sign, certify, and endorse all documents relating to healthcare
+169 provided to a patient within his or her scope of authorized practice, including, but not
+170 limited to, documents relating to physical examination forms of all state agencies and
+171 verification and evaluation forms of the Department of Human Services, the State
+172 Board of Education, local boards of education, the Department of Community Health,
+173 and the Department of Corrections; provided, however, that a healthcare professional
+- 7 -
+
+25 HB 54/SCSFA
+174 identified in subparagraph (A) of this paragraph shall not have the authority to assign
+175 a percentage of a disability rating.
+176 (1.1) Healthcare professionals identified in subparagraph (A) of this paragraph must
+177 paragraph (1) of this subsection shall complete biennial continuing education regarding
+178 the recognition and documentation of the causes of death and appropriate execution of
+179 death certificates, as approved by the board for a physician assistant as identified in
+180 division (b)(1)(A)(i) of this Code section or by the Board of Nursing for a healthcare
+181 professional identified in division (b)(1)(A)(ii) of this Code section."
+182 SECTION 7.
+183 Said title is further amended in Code Section 43-34-103, relating to application for licensure
+184 as a physician assistant, authorized delegated authority, and prohibited acts, by adding a new
+185 subsection to read as follows:
+186 "(m) In addition to and without limiting the authority granted by Code Section 43-34-23,
+187 a physician may delegate to a physician assistant, in accordance with a job description, the
+188 authority to order home healthcare services to a patient."
+189 SECTION 8.
+190 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+191 amended by revising paragraph (1) of subsection (a) of Code Section 48-7-29.2, relating to
+192 tax credits for qualified caregiving expenses, as follows:
+193 "(1) 'Qualified caregiving expenses' means payments by the taxpayer for home health
+194 agency services, personal care services, personal care attendant services, homemaker
+195 services, adult day care, respite care, or healthcare equipment and supplies which
+196 equipment and supplies have been determined to be medically necessary by a physician,
+197 an advanced practice registered nurse acting pursuant to the authority of Code Section
+198 43-34-25, or a physician assistant provided that the individual ordering the home health
+- 8 -
+
+25 HB 54/SCSFA
+199 services does not have an ownership interest in an entity to which they are referring. acting
+200 pursuant to the authority of Code Section 43-34-103, which services, care, or equipment
+201 and supplies are:
+202 (A) Provided to the qualifying family member; and
+203 (B) Purchased or obtained from an organization or individual not related to the
+204 taxpayer or the qualifying family member."
+205 SECTION 9.
+206 All laws and parts of laws in conflict with this Act are repealed.
+- 9 -
+
+[DELETED: 5HTc a o h p a b a r a trt o h h s t p o h h a t p fdtefB0S1T2a b r p ( o C S 1 r t t s3d4(5w6s7h]
+[DELETED: 5H8a9a o0p t t i o t h h s d n h a1o2o3r g t s q u a a o s i4p h t n i t p o i s r s b5c6S7T8p9a0(  ' h a m a p a o p o o 1s2t3a4C5h6r7i8n9o0(1(2(3(]
+[DELETED: 5H4(5(6r n a p t t a o C S 4 o 7p8n9t0(1S2S3f435A6(7S8(9t0g1a2m3o4(5(6w7f8(9i]
+[DELETED: 5H0a14 t a243h4u5(  P o i s n c a o b a p a6a748s9a0t s o a r n a a l o o s l i1s2(3(4(5(6(7u8(  ' h h a m t a t d a m9a0(  ' m a i c l o a t p1m2(3o4(5m6t]
+[DELETED: 5H7i8e940(1p2(3g4d5s a s o a d b w t p a a m s6t7s8S9S0p c a a o r a t i d s o1r233T4h5m6c7r8p9p0r n a a r f o p d1p2s b a p a p r n p a o]
+[DELETED: 5H3r n a a a m o c r o a p4i5i d s o r l i a w r p6p7r8S9S0f132E h h a f w a l h b i s b p3i4t5e6w7p8o9M0S1T2i3t4t5(6t7(]
+[DELETED: 5H8(9c0s1(  A p m d t t h p i i2s3(4d5t6( a7d p s t p  T o o f a w t8h9s0p f r r a d b t h p1i2s3r  P s t a d b a h p4i5m6s7r8(9p0l1v2B3a]
+[DELETED: 5H4i5a6(7p8t9d0d1p2S3S4a5s6(7a8a9S0T1a2t3(4a s5s a d c r c o h e a s w6e7a84]
+[DELETED: 5H9s0p1a2(3(  P o o f a o o i n r t t4t5S6A]

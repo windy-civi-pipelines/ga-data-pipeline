@@ -1,0 +1,133 @@
+Title: House Bill 34
+Official Title: House Bill 34
+Number of Sections: 1
+Source: versions - LC 55 0386/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0386
+By: Representative Washburn of the 144th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 43 of the Official Code of Georgia Annotated, relating to
+2 general provisions regarding professions and businesses, so as to establish on behalf of
+3 professional licensing boards under the jurisdiction of the office of the Secretary of State a
+4 continuing education tracking solution to monitor compliance of licensees with applicable
+5 continuing education requirements; to provide for definitions; to require compliance with
+6 continuing education requirements prior to the issuance of certain licenses; to provide for the
+7 adoption of rules and regulations; to provide for related matters; to provide for an effective
+8 date; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Chapter 1 of Title 43 of the Official Code of Georgia Annotated, relating to general
+12 provisions regarding professions and businesses, is amended by adding a new Code section
+13 to read as follows:
+14 "43-1-4.1.
+15 (a) As used in this Code section, the term:
+H. B. 34
+- 1 -
+25 LC 55 0386
+16 (1) 'License' means any document, permit, certificate of registration, or other
+17 authorization issued by or on behalf of a professional licensing board that is required for
+18 a person to engage in a profession, business, or trade.
+19 (2) 'Licensee' means any person who is required to be licensed or who is actually
+20 licensed by a professional licensing board.
+21 (b) The office of the Secretary of State on behalf of all professional licensing boards under
+22 its jurisdiction that require continuing education shall establish a continuing education
+23 tracking solution to monitor compliance of licensees with applicable continuing education
+24 requirements and to determine whether a licensee is in full compliance with such
+25 requirements at the time of making application for license renewal. Such tracking solution
+26 may be an off-premises hosted software-as-a-service application accessible through a
+27 public website. The Secretary of State may contract with third parties to implement,
+28 integrate, or otherwise provide such tracking system.
+29 (c) On and after January 1, 2026, a professional licensing board shall not renew a license
+30 until the applicant has complied with all applicable continuing education requirements as
+31 verified using the continuing education tracking solution required by subsection (b) of this
+32 Code section. Nothing in this subsection shall prohibit a professional licensing board from
+33 granting a hardship waiver or imposing additional penalties as otherwise provided by law
+34 or by the rules or regulations of the applicable board for failure to comply with continuing
+35 education requirements.
+36 (d) The professional licensing boards and the division director may adopt any rules and
+37 regulations necessary to implement this Code section."
+38 SECTION 2.
+39 This Act shall become effective upon its approval by the Governor or upon its becoming law
+40 without such approval.
+H. B. 34
+- 2 -
+25 LC 55 0386
+41 SECTION 3.
+42 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 34
+- 3 -
+[DELETED: 5L4 1 o T 4 o t O C o G A r t g]
+[DELETED: 5L  ' m a d p c o r o o a t d w a l i i f c w s]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0386
+House Bill 34
+By: Representative Washburn of the 144th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 43 of the Official Code of Georgia Annotated, relating to
+2 general provisions regarding professions and businesses, so as to establish on behalf of
+3 professional licensing boards under the jurisdiction of the office of the Secretary of State a
+4 continuing education tracking solution to monitor compliance of licensees with applicable
+5 continuing education requirements; to provide for definitions; to require compliance with
+6 continuing education requirements prior to the issuance of certain licenses; to provide for the
+7 adoption of rules and regulations; to provide for related matters; to provide for an effective
+8 date; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Chapter 1 of Title 43 of the Official Code of Georgia Annotated, relating to general
+12 provisions regarding professions and businesses, is amended by adding a new Code section
+13 to read as follows:
+14 "43-1-4.1.
+15 (a) As used in this Code section, the term:
+H. B. 34
+- 1 -
+
+25 LC 55 0386
+16 (1) 'License' means any document, permit, certificate of registration, or other
+17 authorization issued by or on behalf of a professional licensing board that is required for
+18 a person to engage in a profession, business, or trade.
+19 (2) 'Licensee' means any person who is required to be licensed or who is actually
+20 licensed by a professional licensing board.
+21 (b) The office of the Secretary of State on behalf of all professional licensing boards under
+22 its jurisdiction that require continuing education shall establish a continuing education
+23 tracking solution to monitor compliance of licensees with applicable continuing education
+24 requirements and to determine whether a licensee is in full compliance with such
+25 requirements at the time of making application for license renewal. Such tracking solution
+26 may be an off-premises hosted software-as-a-service application accessible through a
+27 public website. The Secretary of State may contract with third parties to implement,
+28 integrate, or otherwise provide such tracking system.
+29 (c) On and after January 1, 2026, a professional licensing board shall not renew a license
+30 until the applicant has complied with all applicable continuing education requirements as
+31 verified using the continuing education tracking solution required by subsection (b) of this
+32 Code section. Nothing in this subsection shall prohibit a professional licensing board from
+33 granting a hardship waiver or imposing additional penalties as otherwise provided by law
+34 or by the rules or regulations of the applicable board for failure to comply with continuing
+35 education requirements.
+36 (d) The professional licensing boards and the division director may adopt any rules and
+37 regulations necessary to implement this Code section."
+38 SECTION 2.
+39 This Act shall become effective upon its approval by the Governor or upon its becoming law
+40 without such approval.
+H. B. 34
+- 2 -
+
+25 LC 55 0386
+41 SECTION 3.
+42 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 34
+- 3 -
+
+[DELETED: 5L4 1 o T 4 o t O C o G A r t g]
+[DELETED: 5L  ' m a d p c o r o o a t d w a l i i f c w s]
+[DELETED: 5L]

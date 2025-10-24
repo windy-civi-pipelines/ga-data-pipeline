@@ -1,0 +1,137 @@
+Title: House Bill 58
+Official Title: House Bill 58
+Number of Sections: 1
+Source: versions - LC 39 4420/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4420
+By: Representatives Richardson of the 125th, Leverett of the 123rd, Thomas of the 21st, Clifton
+of the 131st, and Crowe of the 118th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 6 of the Official Code of Georgia Annotated, relating to general
+2 provisions relative to aviation, so as to authorize the adoption of local ordinances,
+3 resolutions, regulations, or policies that restrict the flight of unmanned aircraft systems over
+4 mass public gatherings; to provide for definitions; to provide for related matters; to repeal
+5 conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 1 of Title 6 of the Official Code of Georgia Annotated, relating to general provisions
+9 relative to aviation, is amended by revising Code Section 6-1-4, relating to unmanned aircraft
+10 system defined, preemption for unmanned aircraft systems, and operations, as follows:
+11 "6-1-4.
+12 (a)(1) As used in this Code section, the term 'unmanned:
+13 (1) 'Flight' means the operation of an unmanned aircraft system at or below 400 feet
+14 above ground level.
+15 (2) 'Mass public gathering' means any event held outdoors or in a semienclosed structure
+16 which is likely to attract 500 or more persons and to continue for 30 minutes or more.
+H. B. 58
+- 1 -
+25 LC 39 4420
+17 (3) 'Unmanned aircraft system' means a:
+18 (A) A powered, aerial vehicle that:
+19 (A)(i) Does not carry a human operator and is operated without the possibility of
+20 direct human intervention from within or on the aircraft;
+21 (B)(ii) Uses aerodynamic forces to provide vehicle lift;
+22 (C)(iii) Can fly autonomously or be piloted remotely; and
+23 (D)(iv) Can be expendable or recoverable.
+24 (2)(B) Such term shall not include a satellite.
+25 (b) Any ordinance, resolution, regulation, or policy of any county, municipality, or other
+26 political subdivision of this state regulating the testing or operation of unmanned aircraft
+27 systems shall be deemed preempted and shall be null, void, and of no force and effect;
+28 provided, however, that a county, municipality, or other political subdivision of this state
+29 may:
+30 (1) Enforce any ordinance that was adopted on or before April 1, 2017;
+31 (2) Adopt an ordinance that enforces Federal Aviation Administration restrictions; or
+32 (3) Adopt an ordinance that provides for or prohibits the launch or intentional landing
+33 of an unmanned aircraft system from or on its public property except with respect to the
+34 operation of an unmanned aircraft system for commercial purposes;
+35 (4) Adopt an ordinance that prohibits flight over its public property during a mass public
+36 gathering without written authorization from the political subdivision; or
+37 (5) Adopt an ordinance that prohibits flight over private property during a mass public
+38 gathering without written authorization from the property owner.
+39 (c) The state, through agency or departmental rules and regulations, may provide for or
+40 prohibit the launch or intentional landing of an unmanned aircraft system from or on its
+41 public property."
+H. B. 58
+- 2 -
+25 LC 39 4420
+42 SECTION 2.
+43 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 58
+- 3 -
+[DELETED: 5L5,3,1,hrds1,8tt r t a s a t a t a o l o]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4420
+House Bill 58
+By: Representatives Richardson of the 125th, Leverett of the 123rd, Thomas of the 21st, Clifton
+of the 131st, and Crowe of the 118th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 6 of the Official Code of Georgia Annotated, relating to general
+2 provisions relative to aviation, so as to authorize the adoption of local ordinances,
+3 resolutions, regulations, or policies that restrict the flight of unmanned aircraft systems over
+4 mass public gatherings; to provide for definitions; to provide for related matters; to repeal
+5 conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 1 of Title 6 of the Official Code of Georgia Annotated, relating to general provisions
+9 relative to aviation, is amended by revising Code Section 6-1-4, relating to unmanned aircraft
+10 system defined, preemption for unmanned aircraft systems, and operations, as follows:
+11 "6-1-4.
+12 (a)(1) As used in this Code section, the term 'unmanned:
+13 (1) 'Flight' means the operation of an unmanned aircraft system at or below 400 feet
+14 above ground level.
+15 (2) 'Mass public gathering' means any event held outdoors or in a semienclosed structure
+16 which is likely to attract 500 or more persons and to continue for 30 minutes or more.
+H. B. 58
+- 1 -
+
+25 LC 39 4420
+17 (3) 'Unmanned aircraft system' means a:
+18 (A) A powered, aerial vehicle that:
+19 (A)(i) Does not carry a human operator and is operated without the possibility of
+20 direct human intervention from within or on the aircraft;
+21 (B)(ii) Uses aerodynamic forces to provide vehicle lift;
+22 (C)(iii) Can fly autonomously or be piloted remotely; and
+23 (D)(iv) Can be expendable or recoverable.
+24 (2)(B) Such term shall not include a satellite.
+25 (b) Any ordinance, resolution, regulation, or policy of any county, municipality, or other
+26 political subdivision of this state regulating the testing or operation of unmanned aircraft
+27 systems shall be deemed preempted and shall be null, void, and of no force and effect;
+28 provided, however, that a county, municipality, or other political subdivision of this state
+29 may:
+30 (1) Enforce any ordinance that was adopted on or before April 1, 2017;
+31 (2) Adopt an ordinance that enforces Federal Aviation Administration restrictions; or
+32 (3) Adopt an ordinance that provides for or prohibits the launch or intentional landing
+33 of an unmanned aircraft system from or on its public property except with respect to the
+34 operation of an unmanned aircraft system for commercial purposes;
+35 (4) Adopt an ordinance that prohibits flight over its public property during a mass public
+36 gathering without written authorization from the political subdivision; or
+37 (5) Adopt an ordinance that prohibits flight over private property during a mass public
+38 gathering without written authorization from the property owner.
+39 (c) The state, through agency or departmental rules and regulations, may provide for or
+40 prohibit the launch or intentional landing of an unmanned aircraft system from or on its
+41 public property."
+H. B. 58
+- 2 -
+
+25 LC 39 4420
+42 SECTION 2.
+43 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 58
+- 3 -
+
+[DELETED: 5L5,3,1,hrds1,8tt r t a s a t a t a o l o]
+[DELETED: 5L]
+[DELETED: 5L]

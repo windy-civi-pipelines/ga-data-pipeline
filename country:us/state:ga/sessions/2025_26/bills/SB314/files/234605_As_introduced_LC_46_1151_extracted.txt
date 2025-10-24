@@ -1,0 +1,320 @@
+Title: Senate Bill 314
+Official Title: Senate Bill 314
+Number of Sections: 1
+Source: versions - As introduced LC 46 1151
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 46 1151
+By: Senators Esteves of the 35th, Jones II of the 22nd, Jackson of the 41st, Parent of the 44th,
+McLaurin of the 14th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 31 of the Official Code of Georgia Annotated, relating to health, so as to
+2 provide for the establishment of a wholesale prescription drug importation program and the
+3 procedures for implementing such program; to provide for definitions; to provide for related
+4 matters; to provide for contingent effectiveness upon appropriation of funds; to provide for
+5 a short title; to provide for a legislative finding; to repeal conflicting laws; and for other
+6 purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "Wholesale Prescription Drug Importation
+10 Act."
+11 SECTION 2.
+12 The General Assembly finds that access to affordable medications is a public health issue
+13 that impacts many Georgians and the establishment of a wholesale prescription drug
+14 importation program can serve as a solution to thousands of those Georgians and may
+15 provide them with the opportunity to obtain life-saving and life-preserving medications.
+S. B. 314
+- 1 -
+25 LC 46 1151
+16 SECTION 3.
+17 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended by adding
+18 a new chapter to read as follows:
+19 "CHAPTER 8A
+20 31-8A-1.
+21 As used in this chapter, the term:
+22 (1) 'Canadian supplier' means a manufacturer, wholesale distributor, or pharmacy that
+23 is appropriately licensed or permitted under Canadian federal or provincial laws and rules
+24 to manufacture, distribute, or dispense prescription drugs.
+25 (2) 'Commissioner' means the commissioner of community health.
+26 (3) 'Department' means the Department of Community Health.
+27 (4) 'Division' means the division within the Department of Community Health that
+28 administers the wholesale prescription drug importation program.
+29 (5) 'Health benefit plan' means a policy, contract, certificate, or agreement entered into,
+30 offered by, or issued by an insurer to provide, deliver, arrange for, pay for, or reimburse
+31 any of the costs of healthcare services.
+32 (6) 'Healthcare provider' means any of the following who provide medical, dental, or
+33 other health related diagnoses, care, or treatment:
+34 (A) Dentists and dental hygienists licensed under Chapter 11 of Title 43;
+35 (B) Optometrists licensed under Chapter 30 of Title 43;
+36 (C) Pharmacists licensed under Chapter 4 of Title 26;
+37 (D) Physician assistants licensed under Chapter 34 of Title 43;
+38 (E) Physicians licensed to practice medicine under Chapter 34 of Title 43; and
+39 (F) Registered nurses and licensed practical nurses licensed under Chapter 26 of
+40 Title 43.
+S. B. 314
+- 2 -
+25 LC 46 1151
+41 (7) 'Prescription drug wholesaler' means an entity licensed by the State Board of
+42 Pharmacy as a wholesale distributor under Chapter 4 of Title 26 that contracts with this
+43 state to import prescription drugs into this state under the program.
+44 (8) 'Program' means the wholesale prescription drug importation program established
+45 under this chapter.
+46 31-8A-2.
+47 (a) The department, in consultation with the State Board of Pharmacy and interested
+48 parties, shall design and establish a wholesale prescription drug importation program that
+49 complies with the applicable requirements of 21 U.S.C. Section 384 and in conformity with
+50 applicable federal regulations. The purpose of such drug importation program shall be to
+51 provide better access to prescription drugs and a significant reduction in prescription drug
+52 costs for patients in this state.
+53 (b) The division shall implement the program by:
+54 (1) Contracting with one or more prescription drug wholesalers and Canadian suppliers
+55 to import prescription drugs and provide prescription drug cost savings to consumers in
+56 this state;
+57 (2) Developing a registration process for health benefit plans, healthcare providers, and
+58 pharmacies to obtain and dispense prescription drugs imported under the program;
+59 (3) Developing a list of prescription drugs, including the prices of those drugs, that meet
+60 the requirements of Code Section 31-8A-3 and publishing the list on the department's
+61 public website;
+62 (4) Establishing an outreach and marketing plan to generate program awareness;
+63 (5) Establishing and administering a telephone call center or electronic portal to provide
+64 information about the program;
+S. B. 314
+- 3 -
+25 LC 46 1151
+65 (6) Ensuring the program and the prescription drug wholesalers that contract with this
+66 state in accordance with this chapter comply with the tracking, tracing, verification, and
+67 identification requirements of 21 U.S.C. Section 360eee-1;
+68 (7) Prohibiting the distribution, dispensing, or sale of prescription drugs imported under
+69 this chapter outside the boundaries of this state;
+70 (8) Ensuring that the program meets the requirements of 21 U.S.C. Section 384;
+71 (9) Consulting with the State Board of Pharmacy and other interested parties; and
+72 (10) Performing any other duties the commissioner determines necessary to implement
+73 the program.
+74 31-8A-3.
+75 A prescription drug may be imported into this state under the program only if the drug:
+76 (1) Meets the United States Food and Drug Administration's standards related to
+77 prescription drug safety, effectiveness, misbranding, and adulteration;
+78 (2) Does not violate any federal patent laws through its importation;
+79 (3) Is expected to generate cost savings for consumers; and
+80 (4) Is not:
+81 (A) Listed as a controlled substance under state or federal law;
+82 (B) A biological product, as defined in subsection (i) of Section 351 of the federal
+83 Public Health Service Act, 42 U.S.C. Section 262, as of January 1, 2025;
+84 (C) An infused drug;
+85 (D) An intravenously injected drug;
+86 (E) A drug that is inhaled during surgery; or
+87 (F) A parenteral drug.
+S. B. 314
+- 4 -
+25 LC 46 1151
+88 31-8A-4.
+89 The division, in consultation with this state's Attorney General, shall identify and monitor
+90 any potential anticompetitive activities in industries affected by the program.
+91 31-8A-5.
+92 The commissioner shall promulgate rules and regulations to effectively audit a prescription
+93 drug wholesaler participating in the program.
+94 31-8A-6.
+95 No later than December 1 of each year, the department shall submit a report to the
+96 Governor and the General Assembly regarding the operation of the program during the
+97 preceding fiscal year, including:
+98 (1) Which prescription drugs and Canadian suppliers are included in the program;
+99 (2) The number of health benefit plans, healthcare providers, and pharmacies
+100 participating in the program;
+101 (3) The number of prescriptions dispensed through the program;
+102 (4) The estimated cost savings to consumers, health benefit plans, employers, and this
+103 state since the establishment of the program and during the preceding fiscal year;
+104 (5) Information regarding the implementation of the audit referenced in this chapter; and
+105 (6) Any other information the Governor, General Assembly, or department considers
+106 necessary.
+107 31-8A-7.
+108 The commissioner shall adopt any rules and regulations necessary to implement this
+109 chapter.
+S. B. 314
+- 5 -
+25 LC 46 1151
+110 31-8A-8.
+111 If, before implementing any provision of this chapter, the department, the Board of
+112 Pharmacy, or any state agency determines that a waiver or authorization from a federal
+113 agency is necessary for implementation of any portion of this chapter, the agency affected
+114 shall request the waiver or authorization and may delay implementing the provisions of this
+115 chapter until the waiver or authorization is granted."
+116 SECTION 4.
+117 This Act shall become effective on July 1, 2026, only if funds are specifically appropriated
+118 for the purposes of this Act in an appropriations Act before such date which makes specific
+119 reference to this Act and such funds so appropriated have become available for expenditure.
+120 SECTION 5.
+121 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 314
+- 6 -
+[DELETED: 5L i m G a t e o a w p d]
+[DELETED: 5L]
+[DELETED: 5L  ' d w m a e l b t S B o]
+[DELETED: 5L  M t U S F a D A s r t]
+[DELETED: 5L l t D 1 o e y t d s s a r t t  T n o h b p h p a p c s a a r a r n t i t]
+[DELETED: 5L b i a p o t c t d t B o]
+
+
+================================================================================
+
+Raw Text:
+25 LC 46 1151
+Senate Bill 314
+By: Senators Esteves of the 35th, Jones II of the 22nd, Jackson of the 41st, Parent of the 44th,
+McLaurin of the 14th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 31 of the Official Code of Georgia Annotated, relating to health, so as to
+2 provide for the establishment of a wholesale prescription drug importation program and the
+3 procedures for implementing such program; to provide for definitions; to provide for related
+4 matters; to provide for contingent effectiveness upon appropriation of funds; to provide for
+5 a short title; to provide for a legislative finding; to repeal conflicting laws; and for other
+6 purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "Wholesale Prescription Drug Importation
+10 Act."
+11 SECTION 2.
+12 The General Assembly finds that access to affordable medications is a public health issue
+13 that impacts many Georgians and the establishment of a wholesale prescription drug
+14 importation program can serve as a solution to thousands of those Georgians and may
+15 provide them with the opportunity to obtain life-saving and life-preserving medications.
+S. B. 314
+- 1 -
+
+25 LC 46 1151
+16 SECTION 3.
+17 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended by adding
+18 a new chapter to read as follows:
+19 "CHAPTER 8A
+20 31-8A-1.
+21 As used in this chapter, the term:
+22 (1) 'Canadian supplier' means a manufacturer, wholesale distributor, or pharmacy that
+23 is appropriately licensed or permitted under Canadian federal or provincial laws and rules
+24 to manufacture, distribute, or dispense prescription drugs.
+25 (2) 'Commissioner' means the commissioner of community health.
+26 (3) 'Department' means the Department of Community Health.
+27 (4) 'Division' means the division within the Department of Community Health that
+28 administers the wholesale prescription drug importation program.
+29 (5) 'Health benefit plan' means a policy, contract, certificate, or agreement entered into,
+30 offered by, or issued by an insurer to provide, deliver, arrange for, pay for, or reimburse
+31 any of the costs of healthcare services.
+32 (6) 'Healthcare provider' means any of the following who provide medical, dental, or
+33 other health related diagnoses, care, or treatment:
+34 (A) Dentists and dental hygienists licensed under Chapter 11 of Title 43;
+35 (B) Optometrists licensed under Chapter 30 of Title 43;
+36 (C) Pharmacists licensed under Chapter 4 of Title 26;
+37 (D) Physician assistants licensed under Chapter 34 of Title 43;
+38 (E) Physicians licensed to practice medicine under Chapter 34 of Title 43; and
+39 (F) Registered nurses and licensed practical nurses licensed under Chapter 26 of
+40 Title 43.
+S. B. 314
+- 2 -
+
+25 LC 46 1151
+41 (7) 'Prescription drug wholesaler' means an entity licensed by the State Board of
+42 Pharmacy as a wholesale distributor under Chapter 4 of Title 26 that contracts with this
+43 state to import prescription drugs into this state under the program.
+44 (8) 'Program' means the wholesale prescription drug importation program established
+45 under this chapter.
+46 31-8A-2.
+47 (a) The department, in consultation with the State Board of Pharmacy and interested
+48 parties, shall design and establish a wholesale prescription drug importation program that
+49 complies with the applicable requirements of 21 U.S.C. Section 384 and in conformity with
+50 applicable federal regulations. The purpose of such drug importation program shall be to
+51 provide better access to prescription drugs and a significant reduction in prescription drug
+52 costs for patients in this state.
+53 (b) The division shall implement the program by:
+54 (1) Contracting with one or more prescription drug wholesalers and Canadian suppliers
+55 to import prescription drugs and provide prescription drug cost savings to consumers in
+56 this state;
+57 (2) Developing a registration process for health benefit plans, healthcare providers, and
+58 pharmacies to obtain and dispense prescription drugs imported under the program;
+59 (3) Developing a list of prescription drugs, including the prices of those drugs, that meet
+60 the requirements of Code Section 31-8A-3 and publishing the list on the department's
+61 public website;
+62 (4) Establishing an outreach and marketing plan to generate program awareness;
+63 (5) Establishing and administering a telephone call center or electronic portal to provide
+64 information about the program;
+S. B. 314
+- 3 -
+
+25 LC 46 1151
+65 (6) Ensuring the program and the prescription drug wholesalers that contract with this
+66 state in accordance with this chapter comply with the tracking, tracing, verification, and
+67 identification requirements of 21 U.S.C. Section 360eee-1;
+68 (7) Prohibiting the distribution, dispensing, or sale of prescription drugs imported under
+69 this chapter outside the boundaries of this state;
+70 (8) Ensuring that the program meets the requirements of 21 U.S.C. Section 384;
+71 (9) Consulting with the State Board of Pharmacy and other interested parties; and
+72 (10) Performing any other duties the commissioner determines necessary to implement
+73 the program.
+74 31-8A-3.
+75 A prescription drug may be imported into this state under the program only if the drug:
+76 (1) Meets the United States Food and Drug Administration's standards related to
+77 prescription drug safety, effectiveness, misbranding, and adulteration;
+78 (2) Does not violate any federal patent laws through its importation;
+79 (3) Is expected to generate cost savings for consumers; and
+80 (4) Is not:
+81 (A) Listed as a controlled substance under state or federal law;
+82 (B) A biological product, as defined in subsection (i) of Section 351 of the federal
+83 Public Health Service Act, 42 U.S.C. Section 262, as of January 1, 2025;
+84 (C) An infused drug;
+85 (D) An intravenously injected drug;
+86 (E) A drug that is inhaled during surgery; or
+87 (F) A parenteral drug.
+S. B. 314
+- 4 -
+
+25 LC 46 1151
+88 31-8A-4.
+89 The division, in consultation with this state's Attorney General, shall identify and monitor
+90 any potential anticompetitive activities in industries affected by the program.
+91 31-8A-5.
+92 The commissioner shall promulgate rules and regulations to effectively audit a prescription
+93 drug wholesaler participating in the program.
+94 31-8A-6.
+95 No later than December 1 of each year, the department shall submit a report to the
+96 Governor and the General Assembly regarding the operation of the program during the
+97 preceding fiscal year, including:
+98 (1) Which prescription drugs and Canadian suppliers are included in the program;
+99 (2) The number of health benefit plans, healthcare providers, and pharmacies
+100 participating in the program;
+101 (3) The number of prescriptions dispensed through the program;
+102 (4) The estimated cost savings to consumers, health benefit plans, employers, and this
+103 state since the establishment of the program and during the preceding fiscal year;
+104 (5) Information regarding the implementation of the audit referenced in this chapter; and
+105 (6) Any other information the Governor, General Assembly, or department considers
+106 necessary.
+107 31-8A-7.
+108 The commissioner shall adopt any rules and regulations necessary to implement this
+109 chapter.
+S. B. 314
+- 5 -
+
+25 LC 46 1151
+110 31-8A-8.
+111 If, before implementing any provision of this chapter, the department, the Board of
+112 Pharmacy, or any state agency determines that a waiver or authorization from a federal
+113 agency is necessary for implementation of any portion of this chapter, the agency affected
+114 shall request the waiver or authorization and may delay implementing the provisions of this
+115 chapter until the waiver or authorization is granted."
+116 SECTION 4.
+117 This Act shall become effective on July 1, 2026, only if funds are specifically appropriated
+118 for the purposes of this Act in an appropriations Act before such date which makes specific
+119 reference to this Act and such funds so appropriated have become available for expenditure.
+120 SECTION 5.
+121 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 314
+- 6 -
+
+[DELETED: 5L i m G a t e o a w p d]
+[DELETED: 5L]
+[DELETED: 5L  ' d w m a e l b t S B o]
+[DELETED: 5L  M t U S F a D A s r t]
+[DELETED: 5L l t D 1 o e y t d s s a r t t  T n o h b p h p a p c s a a r a r n t i t]
+[DELETED: 5L b i a p o t c t d t B o]

@@ -1,0 +1,86 @@
+Title: Senate Bill 175
+Official Title: Senate Bill 175
+Number of Sections: 1
+Source: versions - As Passed Senate
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 56 0270
+By: Senators Robertson of the 29th, Beach of the 21st, Brass of the 6th, Goodman of the 8th,
+Hodges of the 3rd and others
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 2 of Title 21 of the Official Code of Georgia Annotated,
+2 relating to general provisions regarding elections and primaries, so as to prohibit the use of
+3 ranked-choice voting; to provide for certain exceptions; to provide for a definition; to provide
+4 for related matters; to repeal conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 Article 1 of Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to
+8 general provisions regarding elections and primaries, is amended by adding a new Code
+9 section to read as follows:
+10 "21-2-20.
+11 (a) As used in this Code section, the term 'ranked-choice voting' means a voting method
+12 that allows electors to rank candidates for an office in order of preference and has ballots
+13 cast be tabulated in multiple rounds following the elimination of a candidate until a single
+14 candidate attains a majority.
+15 (b) Ranked-choice voting shall not be used in determining the election or nomination of
+16 any candidate to any local, state, or federal elective office.
+S. B. 175
+- 1 -
+25 LC 56 0270
+17 (c) This Code section shall not apply to electors who are entitled to vote absentee ballots
+18 under the federal Uniformed and Overseas Citizens Absentee Voting Act, 52 U.S.C.
+19 Section 20301, et seq., as amended."
+20 SECTION 2.
+21 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 175
+- 2 -
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 56 0270
+Senate Bill 175
+By: Senators Robertson of the 29th, Beach of the 21st, Brass of the 6th, Goodman of the 8th,
+Hodges of the 3rd and others
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 2 of Title 21 of the Official Code of Georgia Annotated,
+2 relating to general provisions regarding elections and primaries, so as to prohibit the use of
+3 ranked-choice voting; to provide for certain exceptions; to provide for a definition; to provide
+4 for related matters; to repeal conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 Article 1 of Chapter 2 of Title 21 of the Official Code of Georgia Annotated, relating to
+8 general provisions regarding elections and primaries, is amended by adding a new Code
+9 section to read as follows:
+10 "21-2-20.
+11 (a) As used in this Code section, the term 'ranked-choice voting' means a voting method
+12 that allows electors to rank candidates for an office in order of preference and has ballots
+13 cast be tabulated in multiple rounds following the elimination of a candidate until a single
+14 candidate attains a majority.
+15 (b) Ranked-choice voting shall not be used in determining the election or nomination of
+16 any candidate to any local, state, or federal elective office.
+S. B. 175
+- 1 -
+
+25 LC 56 0270
+17 (c) This Code section shall not apply to electors who are entitled to vote absentee ballots
+18 under the federal Uniformed and Overseas Citizens Absentee Voting Act, 52 U.S.C.
+19 Section 20301, et seq., as amended."
+20 SECTION 2.
+21 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 175
+- 2 -
+
+[DELETED: 5L]
+[DELETED: 5L]

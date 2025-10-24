@@ -1,0 +1,798 @@
+Title: Senate Bill 79
+Official Title: Senate Bill 79
+Number of Sections: 1
+Source: versions - As introduced LC 57 0211
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+25 LC 57 0211
+By: Senators Goodman of the 8th, Strickland of the 42nd, Kennedy of the 18th, Tillery of the
+19th, Gooch of the 51st and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 16 of the Official Code of Georgia Annotated, relating to crimes and
+2 offenses, so as to revise threshold amounts of fentanyl and related substances necessary to
+3 constitute the offenses of possessing, selling, distributing, and manufacturing of such
+4 substances; to provide for increased penalties for such offenses; to revise threshold amounts
+5 of fentanyl and related substances necessary to constitute the offense of trafficking in
+6 fentanyl; to provide for increased penalties for such offense; to revise mandatory minimum
+7 departure provisions for defendants convicted of trafficking of substances in violation of
+8 Code Section 16-13-31, relating to trafficking in cocaine, illegal drugs, marijuana, or
+9 methamphetamine and penalties; to amend various titles of the Official Code of Georgia
+10 Annotated, so as to provide for conforming changes; to provide for an effective date; to
+11 provide for applicability; to provide for related matters; to provide for a short title; to repeal
+12 conflicting laws; and for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 79
+- 1 -
+25 LC 57 0211
+14 PART I
+15 SECTION 1-1.
+16 This Act shall be known and may be cited as the "Fentanyl Eradication and Removal Act."
+17 SECTION 1-2.
+18 Title 16 of the Official Code of Georgia Annotated, relating to crimes and offenses, is
+19 amended in Code Section 16-13-30, relating to purchase, possession, manufacture,
+20 distribution, or sale of controlled substances or marijuana, and penalties, by adding a new
+21 subsection to read as follows:
+22 "(c.1) Notwithstanding the provisions of subsection (c) of this Code section, any person
+23 who violates subsection (a) of this Code section with respect to fentanyl as identified in
+24 subparagraph (F) of paragraph (2) of Code Section 16-13-26, the fentanyl analog structural
+25 class as identified in paragraph (13) of Code Section 16-13-25, or any mixture containing
+26 any such substance in violation of this article shall be guilty of a felony and, upon a first
+27 or second conviction thereof, shall be punished as follows:
+28 (1) If the aggregate weight, including any mixture, is less than 250 milligrams of a solid
+29 substance, less than 0.25 milliliter of a liquid substance, or if the substance is placed onto
+30 a secondary medium with a combined weight of less than 250 milligrams, by
+31 imprisonment for not less than one year nor more than five years; and
+32 (2) If the aggregate weight, including any mixture, is at least 250 milligrams but less than
+33 four grams of a solid substance, at least 0.25 milliliter but less than four milliliters of a
+34 liquid substance, or if the substance is placed onto a secondary medium with a combined
+35 weight of at least 250 milligrams but less than four grams, by imprisonment for not less
+36 than one year nor more than ten years."
+S. B. 79
+- 2 -
+25 LC 57 0211
+37 SECTION 1-3.
+38 Said title is further amended in Code Section 16-13-31, relating to trafficking in cocaine,
+39 illegal drugs, marijuana, or methamphetamine and penalties, by revising subsections (b), (g),
+40 and (i) and by adding a new subsection to read as follows:
+41 "(b) Except as authorized by this article, any person who sells, manufactures, delivers,
+42 brings into this state, or has possession of four grams or more of any morphine, opium, or
+43 substance identified in subparagraph (RR) or (SS) of paragraph (1) or paragraph (13), (14),
+44 or (15) of Code Section 16-13-25, or subparagraph (A), (C.5), (F), (U.1), (V), or (V.2) of
+45 paragraph (2) of Code Section 16-13-26 or any salt, isomer, or salt of an isomer thereof,
+46 including heroin, as described in Schedules I and II, or four grams or more of any mixture
+47 containing any such substance in violation of this article commits the felony offense of
+48 trafficking in illegal drugs and, upon conviction thereof, shall be punished as follows:
+49 (1) If the quantity of such substances involved is four grams or more, but less than 14
+50 grams, the person shall be sentenced to a mandatory minimum term of imprisonment of
+51 five years and shall pay a fine of $50,000.00;
+52 (2) If the quantity of such substances involved is 14 grams or more, but less than 28
+53 grams, the person shall be sentenced to a mandatory minimum term of imprisonment of
+54 ten years and shall pay a fine of $100,000.00; and
+55 (3) If the quantity of such substances involved is 28 grams or more, the person shall be
+56 sentenced to a mandatory minimum term of imprisonment of 25 years and shall pay a fine
+57 of $500,000.00.
+58 (b.1) Except as authorized by this article, any person who sells, manufactures, delivers,
+59 brings into this state, or has possession of fentanyl as identified in subparagraph (F) of
+60 paragraph (2) of Code Section 16-13-26, the fentanyl analog structural class as identified
+61 in paragraph (13) of Code Section 16-13-25, or any mixture containing any such substance
+62 in violation of this article commits the felony offense of trafficking in fentanyl and, upon
+63 conviction thereof, shall be punished as follows:
+S. B. 79
+- 3 -
+25 LC 57 0211
+64 (1) If the quantity of such substances involved is four grams or more, but less than eight
+65 grams, the person shall be sentenced to a mandatory minimum term of imprisonment of
+66 ten years and shall pay a fine of $75,000.00;
+67 (2) If the quantity of such substances involved is eight grams or more, but less
+68 than 14 grams, the person shall be sentenced to a mandatory minimum term of
+69 imprisonment of 15 years and shall pay a fine of $150,000.00;
+70 (3) If the quantity of such substances involved is 14 grams or more, but less than 28
+71 grams, the person shall be sentenced to a mandatory minimum term of imprisonment
+72 of 25 years and shall pay a fine of $250,000.00; and
+73 (4) If the quantity of such substances involved is 28 grams or more, the person shall be
+74 sentenced to a mandatory minimum term of imprisonment of 35 years and shall pay a fine
+75 of $750,000.00."
+76 "(g)(1) The district attorney may move the sentencing court to impose a reduced or
+77 suspended sentence upon any person who is convicted of a violation of this Code section
+78 who provides substantial assistance in the identification, arrest, or conviction of any of
+79 his or her accomplices, accessories, coconspirators, or principals. Upon good cause
+80 shown, the motion may be filed and heard in camera. The judge hearing the motion Upon
+81 hearing such motion, the sentencing court may impose a reduced or suspended sentence
+82 if he or she such court finds that the defendant has rendered such substantial assistance.
+83 (2)(A) In the court's discretion, the judge may The sentencing court may, in its
+84 discretion, depart from the mandatory minimum sentence specified for a person who
+85 is convicted of a violation of this Code section as set forth in subparagraph (B) of this
+86 paragraph if the judge such court concludes that:
+87 (i) The defendant was not a leader of the criminal conduct;
+88 (ii) The defendant did not possess or use a firearm, dangerous weapon, or hazardous
+89 object during the crime;
+S. B. 79
+- 4 -
+25 LC 57 0211
+90 (iii) The criminal conduct did not result in a death or serious bodily injury to a person
+91 other than to a person who is a party to the crime;
+92 (iv) The defendant has no prior felony conviction; and
+93 (v) The interests of justice will not be served by the imposition of the prescribed
+94 mandatory minimum sentence.
+95 (B) The sentencing departure ranges pursuant to subparagraph (A) of this paragraph
+96 shall be as follows:
+97 (i) Any person convicted of violating paragraph (1) of subsection (b) or (d) of this
+98 Code section, two years and six months to five years imprisonment and a fine of not
+99 less than $25,000.00 nor more than $50,000.00;
+100 (ii) Any person convicted of violating paragraph (1) of subsection (c) of this Code
+101 section, two years and six months to five years imprisonment and a fine of not less
+102 than $50,000.00 nor more than $100,000.00;
+103 (iii) Any person convicted of violating paragraph (2) of subsection (c) of this Code
+104 section, three years and six months to seven years imprisonment and a fine of not less
+105 than $125,000.00 nor more than $250,000.00;
+106 (iv) Any person convicted of violating subparagraph (a)(1)(A), paragraph (2) of
+107 subsection (a), relating to the quantity of drugs specified in subparagraph (a)(1)(A)
+108 of this Code section, or paragraph (1) of subsection (e) or (f) of this Code section, five
+109 to ten years imprisonment and a fine of not less than $100,000.00 nor more than
+110 $200,000.00;
+111 (v) Any person convicted of violating paragraph (2) of subsection (b) of this Code
+112 section, five to ten years imprisonment and a fine of not less than $50,000.00 nor
+113 more than $100,000.00;
+114 (vi) Any person convicted of violating subparagraph (a)(1)(B), paragraph (2) of
+115 subsection (a), relating to the quantity of drugs specified in subparagraph (a)(1)(B)
+116 of this Code section, or paragraph (2) of subsection (e) or (f) of this Code section,
+S. B. 79
+- 5 -
+25 LC 57 0211
+117 seven years and six months to 15 years imprisonment and a fine of not less than
+118 $150,000.00 nor more than $300,000.00;
+119 (vii) Any person convicted of violating paragraph (3) of subsection (c) of this Code
+120 section, seven years and six months to 15 years imprisonment and a fine of not less
+121 than $500,000.00 nor more than $1 million;
+122 (viii) Any person convicted of violating paragraph (2) of subsection (d) of this Code
+123 section, seven years and six months to 15 years imprisonment and a fine of not less
+124 than $125,000.00 nor more than $250,000.00;
+125 (ix) Any person convicted of violating paragraph (3) of subsection (b) of this Code
+126 section, 12 years and six months to 25 years imprisonment and a fine of not less than
+127 $250,000.00 nor more than $500,000.00; and
+128 (x) Any person convicted of violating subparagraph (a)(1)(C), paragraph (2) of
+129 subsection (a), relating to the quantity of drugs specified in subparagraph (a)(1)(C)
+130 of this Code section, or paragraph (3) of subsection (e) or (f) of this Code section, 12
+131 years and six months to 25 years imprisonment and a fine of not less than
+132 $500,000.00 nor more than $1 million.
+133 (i) Any person convicted of violating subparagraph (a)(1)(A), paragraph (2) of
+134 subsection (a) relating to the quantity of drugs specified in subparagraph (a)(1)(A) of
+135 this Code section, or paragraph (1) of subsection (e) or (f) of this Code section,
+136 imprisonment for not less than five nor more than ten years and a fine of not less
+137 than $100,000.00 nor more than $200,000.00;
+138 (ii) Any person convicted of violating subparagraph (a)(1)(B), paragraph (2) of
+139 subsection (a) relating to the quantity of drugs specified in subparagraph (a)(1)(B) of
+140 this Code section, or paragraph (2) of subsection (e) or (f) of this Code section,
+141 imprisonment for not less than seven years and six months nor more than 15 years and
+142 a fine of not less than $150,000.00 nor more than $300,000.00;
+S. B. 79
+- 6 -
+25 LC 57 0211
+143 (iii) Any person convicted of violating subparagraph (a)(1)(C), paragraph (2) of
+144 subsection (a) relating to the quantity of drugs specified in subparagraph (a)(1)(C) of
+145 this Code section, or paragraph (3) of subsection (e) or (f) of this Code section,
+146 imprisonment for not less than 12 years and six months nor more than 25 years and
+147 a fine of not less than $500,000.00 nor more than $1 million;
+148 (iv) Any person convicted of violating paragraph (1) of subsection (b) or (d) of this
+149 Code section, imprisonment for not less than two years and six months nor more than
+150 five years and a fine of not less than $25,000.00 nor more than $50,000.00;
+151 (v) Any person convicted of violating paragraph (2) of subsection (b) of this Code
+152 section, imprisonment for not less than five years nor more than ten years and a fine
+153 of not less than $50,000.00 nor more than $100,000.00;
+154 (vi) Any person convicted of violating paragraph (3) of subsection (b) of this Code
+155 section, imprisonment for not less than 12 years and six months nor more than 25
+156 years and a fine of not less than $250,000.00 nor more than $500,000.00;
+157 (vii) Any person convicted of violating paragraph (1) of subsection (b.1) of this Code
+158 section, imprisonment for not less than two years and six months nor more than five
+159 years and a fine of not less than $12,500.00 nor more than $25,000.00;
+160 (viii) Any person convicted of violating paragraph (2) of subsection (b.1) of this
+161 Code section, imprisonment for not less than five years nor more than ten years and
+162 a fine of not less than $25,000.00 nor more than $50,000.00;
+163 (ix) Any person convicted of violating paragraph (3) of subsection (b.1) of this Code
+164 section, imprisonment for not less than ten years nor more than 20 years and a fine of
+165 not less than $50,000.00 nor more than $100,000.00;
+166 (x) Any person convicted of violating paragraph (4) of subsection (b.1) of this Code
+167 section, imprisonment for not less than 15 years nor more than 30 years and a fine of
+168 not less than $250,000.00 nor more than $500,000.00;
+S. B. 79
+- 7 -
+25 LC 57 0211
+169 (xi) Any person convicted of violating paragraph (1) of subsection (c) of this Code
+170 section, imprisonment for not less than two years and six months nor more than five
+171 years and a fine of not less than $50,000.00 nor more than $100,000.00;
+172 (xii) Any person convicted of violating paragraph (2) of subsection (c) of this Code
+173 section, imprisonment for not less than three years and six months nor more than
+174 seven years and a fine of not less than $125,000.00 nor more than $250,000.00;
+175 (xiii) Any person convicted of violating paragraph (3) of subsection (c) of this Code
+176 section, imprisonment for not less than seven years and six months nor more than 15
+177 years and a fine of not less than $500,000.00 nor more than $1 million; and
+178 (xiv) Any person convicted of violating paragraph (2) of subsection (d) of this Code
+179 section, imprisonment for not less than seven years and six months nor more than 15
+180 years and a fine of not less than $125,000.00 nor more than $250,000.00.
+181 (C) If a judge reduces the sentencing court departs from the mandatory minimum
+182 sentence pursuant to this paragraph, the judge such court shall specify on the record the
+183 circumstances for the reduction such departure and the interests served by such
+184 departure. Any such order shall be appealable by the State of Georgia pursuant to Code
+185 Section 5-7-1.
+186 (D) As used in this paragraph, the term:
+187 (i) 'Dangerous weapon' shall have the same meaning as set forth in Code
+188 Section 16-11-121.
+189 (ii) 'Firearm' shall have the same meaning as set forth in Code Section 16-11-127.1
+190 16-11-131.
+191 (iii) 'Hazardous object' shall have the same meaning as set forth in Code
+192 Section 20-2-751.
+193 (iv) 'Leader' means a person who planned and organized others and acted as a guiding
+194 force in order to achieve a common goal.
+S. B. 79
+- 8 -
+25 LC 57 0211
+195 (3) In the court's discretion, the judge may The sentencing court may, in its discretion,
+196 depart from the mandatory minimum sentence specified in this Code section for a person
+197 who is convicted of a violation of this Code section when the prosecuting attorney and
+198 the defendant have agreed to a sentence that is below such mandatory minimum."
+199 "(i) Notwithstanding Code Section 16-13-2, any Except as provided in subsection (g) of
+200 this Code section and notwithstanding the provisions of Code Section 16-13-2 to the
+201 contrary, with respect to any person who is found to have violated this Code section, no
+202 portion of the mandatory minimum sentence shall be suspended, stayed, probated, deferred,
+203 or otherwise withheld by the sentencing court. Any sentence imposed pursuant to
+204 subsection (g) of this Code section shall not be reduced by any earned time, early release,
+205 work release, leave, or other sentence-reducing measures under programs administered by
+206 the Department of Corrections, the effect of which would be to reduce the period of
+207 incarceration ordered by the sentencing court or any form of pardon, parole, or
+208 commutation of sentence by the State Board of Pardons and Paroles; provided, however,
+209 that during the final year of incarceration, a defendant so sentenced shall be eligible to be
+210 considered for participation in a Department of Corrections administered transitional center
+211 or work release program."
+212 PART II
+213 SECTION 2-1.
+214 Code Section 4-8-27 of the Official Code of Georgia Annotated, relating to certificates of
+215 registration for dog ownership, requirements for issuance of certificate, individuals excluded
+216 from receiving registration, limitation of ownership, and annual renewal, is amended by
+217 revising paragraph (3) of subsection (f) as follows:
+S. B. 79
+- 9 -
+25 LC 57 0211
+218 "(3) A felony involving trafficking in cocaine, illegal drugs, marijuana,
+219 methamphetamine, or ecstasy as provided for in of substances in violation of Code
+220 Sections 16-13-31 and 16-13-31.1."
+221 SECTION 2-2.
+222 Title 16 of the Official Code of Georgia Annotated, relating to crimes and offenses, is
+223 amended in Code Section 16-11-106, relating to possession of firearm or knife during
+224 commission of or attempt to commit certain crimes, by revising paragraph (5) of
+225 subsection (b) as follows:
+226 "(5) Any crime involving the trafficking of cocaine, marijuana, or illegal drugs as
+227 provided in substances in violation of Code Section 16-13-31,"
+228 SECTION 2-3.
+229 Said title is further amended in Code Section 16-11-133, relating to minimum periods of
+230 confinement for persons convicted who have prior convictions, by revising paragraph (5) of
+231 subsection (b) as follows:
+232 "(5) Any crime involving the trafficking of cocaine, marijuana, or illegal drugs as
+233 provided in substances in violation of Code Section 16-13-31,"
+234 SECTION 2-4.
+235 Said title is further amended in Code Section 16-11-160, relating to use of machine guns,
+236 sawed-off rifles, sawed-off shotguns, or firearms with silencers during commission of certain
+237 offenses and enhanced criminal penalties, by revising division (a)(2)(B)(iii) as follows:
+238 "(iii) Trafficking in cocaine, illegal drugs, marijuana, or methamphetamine as
+239 provided in of substances in violation of Code Section 16-13-31."
+S. B. 79
+- 10 -
+25 LC 57 0211
+240 SECTION 2-5.
+241 Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, is
+242 amended in Code Section 17-6-1, relating to when offenses bailable, procedure, schedule of
+243 bails, and appeal bonds, by revising subsection (g) as follows:
+244 "(g) No appeal bond shall be granted to any person who has been convicted of murder,
+245 rape, aggravated sodomy, armed robbery, home invasion in any degree, aggravated child
+246 molestation, child molestation, kidnapping, trafficking in cocaine or marijuana of
+247 substances in violation of Code Section 16-13-31, aggravated stalking, or aircraft hijacking
+248 and who has been sentenced to serve a period of incarceration of five years or more. The
+249 granting of an appeal bond to a person who has been convicted of any other felony offense
+250 or of any misdemeanor offense involving an act of family violence as defined in Code
+251 Section 19-13-1, or of any offense delineated as a high and aggravated misdemeanor or of
+252 any offense set forth in Code Section 40-6-391, shall be in the discretion of the convicting
+253 court. Appeal bonds shall terminate when the right of appeal terminates, and such bonds
+254 shall not be effective as to any petition for review or petition or application for writ of
+255 certiorari unless the court in which the petition for review or petition or application is filed
+256 so specifies."
+257 SECTION 2-6.
+258 Said title is further amended in Code Section 17-6-12, relating to unsecured judicial release,
+259 requirement, effect of failure of person charged to appear for trial, and consideration of
+260 criminal record, by revising subparagraph (a)(1)(U) as follows:
+261 "(U) Trafficking in cocaine, illegal drugs, marijuana, or methamphetamine of
+262 substances in violation of Code Section 16-13-31;"
+S. B. 79
+- 11 -
+25 LC 57 0211
+263 SECTION 2-7.
+264 Said title is further amended in Code Section 17-10-9.1, relating to voluntary surrender to
+265 county jail or correctional institution and release of defendant, by revising paragraph (9) of
+266 subsection (a) as follows:
+267 "(9) Trafficking of substances in violation of Violating Code Section 16-13-31, relating
+268 to trafficking in cocaine or marijuana;"
+269 SECTION 2-8.
+270 Article 2 of Chapter 9 of Title 42 of the Official Code of Georgia Annotated, relating to
+271 grants of pardons, paroles, and other relief, is amended in Code Section 42-9-42, relating to
+272 procedure for granting relief from sentence, conditions and prerequisites, public access to
+273 information, and violation of parole, by revising division (b)(1)(B)(xxix) as follows:
+274 "(xxix) Trafficking in cocaine, illegal drugs, marijuana, or methamphetamine of
+275 substances in violation of Code Section 16-13-31;"
+276 SECTION 2-9.
+277 Said article is further amended in Code Section 42-9-45, relating to general rule-making
+278 power, by revising subsection (f) as follows:
+279 "(f) Except to correct a patent miscarriage of justice and not otherwise, no inmate serving
+280 a sentence imposed for any of the crimes listed in this subsection shall be granted release
+281 on parole until and unless said inmate has served on good behavior seven years of
+282 imprisonment or one-third of the prison term imposed by the sentencing court for the
+283 violent crime, whichsoever first occurs. No inmate serving a sentence for any crime listed
+284 in this subsection shall be released on parole for the purpose of regulating jail or prison
+285 populations. This subsection shall govern parole actions in sentences imposed for any of
+286 the following crimes: voluntary manslaughter, statutory rape, incest, cruelty to children,
+287 arson in the first degree, homicide by vehicle while under the influence of alcohol or as a
+S. B. 79
+- 12 -
+25 LC 57 0211
+288 habitual traffic violator, aggravated battery, aggravated assault, trafficking in drugs of
+289 substances in violation of Code Section 16-13-31 or 16-13-31.1, and violations of
+290 Chapter 14 of Title 16, the 'Georgia RICO (Racketeer Influenced and Corrupt
+291 Organizations) Act.'"
+292 SECTION 2-10.
+293 Said article is further amended in Code Section 42-9-60, relating to overcrowding of prison
+294 system as creating state of emergency, paroling inmates to reduce prison system population
+295 to capacity, and annual report of inmates paroled, by revising paragraph (2) of subsection (a)
+296 as follows:
+297 "(2) 'Dangerous offender' means a state prison inmate who is imprisoned for conviction
+298 of any one or more of the following crimes as defined by Title 16, the 'Criminal Code of
+299 Georgia': murder, voluntary manslaughter, kidnapping, armed robbery, rape, aircraft
+300 hijacking, aggravated sodomy, aggravated battery, aggravated assault, incest, child
+301 molestation, child abuse, or enticing a child for indecent purposes, or any felony
+302 punishable under Code Section 16-13-31, relating to prohibited acts regarding marijuana,
+303 cocaine, and illegal drugs. The term 'dangerous offender' violation of trafficking of
+304 substances in violation of Code Section 16-13-31. Such term shall also include an inmate
+305 who is incarcerated for a second or subsequent time for the commission of a crime for
+306 which the inmate could have been sentenced to life imprisonment."
+307 SECTION 2-11.
+308 Code Section 45-12-37 of the Official Code of Georgia Annotated, relating to reward for
+309 information leading to arrest and conviction of person selling dangerous or narcotic drugs
+310 generally and rewards by counties and municipalities, is amended by revising subsection (b)
+311 as follows:
+S. B. 79
+- 13 -
+25 LC 57 0211
+312 "(b) Any person, other than a law enforcement officer, who furnishes information leading
+313 to the arrest and conviction of a person who is charged with selling dangerous drugs in
+314 violation of Code Section 16-13-72 may receive a reward of up to $500.00. Any person,
+315 other than a law enforcement officer, who furnishes information leading to the arrest and
+316 conviction of a person who is charged with selling a controlled substance in violation of
+317 Code Section 16-13-30 or trafficking of substances in violation of Code Section 16-13-31,
+318 may receive a reward of $1,000.00."
+319 PART III
+320 SECTION 3-1.
+321 This Act shall become effective on July 1, 2025, and shall apply to all offenses committed
+322 on or after such date.
+323 SECTION 3-2.
+324 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 79
+- 14 -
+[DELETED: 5L a T 1 o t O C o G A r t c a t o o p s d a m o s f a r s n t c t o o t i S 1 r t t i c i d m o]
+[DELETED: 5L i C S 1 r t p p m s m w a c w o l t 2 m b]
+[DELETED: 5L]
+[DELETED: 5L  I t q o s s i i e g o m b l 1 g t p s b s t a m m t o  I t c d t j m T s c m i i]
+[DELETED: 5L]
+[DELETED: 5L a s m t 2 y i a a f o n l t]
+[DELETED: 5L]
+[DELETED: 5L f t r s d a t i s b s  ' w s h t s m a s f i C  ' o s h t s m a s f i C]
+[DELETED: 5L o w b t s c  A s i p t o b t s c o a f o p p o]
+[DELETED: 5L  A f i t i c i d m o o a t c c c b r p ( o  T i c i d m o m a]
+[DELETED: 5L 1 o t O C o G A r t c p i c m k t i c o m o  T i c i d m o m o]
+[DELETED: 5L p u a u s i h s o g b s y o]
+[DELETED: 5L i v o C S 1 o 1 a v o 1 o T 1 t ' R ( I a C a s a b a a i c c a o e a c f i p o a f]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 57 0211
+Senate Bill 79
+By: Senators Goodman of the 8th, Strickland of the 42nd, Kennedy of the 18th, Tillery of the
+19th, Gooch of the 51st and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 16 of the Official Code of Georgia Annotated, relating to crimes and
+2 offenses, so as to revise threshold amounts of fentanyl and related substances necessary to
+3 constitute the offenses of possessing, selling, distributing, and manufacturing of such
+4 substances; to provide for increased penalties for such offenses; to revise threshold amounts
+5 of fentanyl and related substances necessary to constitute the offense of trafficking in
+6 fentanyl; to provide for increased penalties for such offense; to revise mandatory minimum
+7 departure provisions for defendants convicted of trafficking of substances in violation of
+8 Code Section 16-13-31, relating to trafficking in cocaine, illegal drugs, marijuana, or
+9 methamphetamine and penalties; to amend various titles of the Official Code of Georgia
+10 Annotated, so as to provide for conforming changes; to provide for an effective date; to
+11 provide for applicability; to provide for related matters; to provide for a short title; to repeal
+12 conflicting laws; and for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 79
+- 1 -
+
+25 LC 57 0211
+14 PART I
+15 SECTION 1-1.
+16 This Act shall be known and may be cited as the "Fentanyl Eradication and Removal Act."
+17 SECTION 1-2.
+18 Title 16 of the Official Code of Georgia Annotated, relating to crimes and offenses, is
+19 amended in Code Section 16-13-30, relating to purchase, possession, manufacture,
+20 distribution, or sale of controlled substances or marijuana, and penalties, by adding a new
+21 subsection to read as follows:
+22 "(c.1) Notwithstanding the provisions of subsection (c) of this Code section, any person
+23 who violates subsection (a) of this Code section with respect to fentanyl as identified in
+24 subparagraph (F) of paragraph (2) of Code Section 16-13-26, the fentanyl analog structural
+25 class as identified in paragraph (13) of Code Section 16-13-25, or any mixture containing
+26 any such substance in violation of this article shall be guilty of a felony and, upon a first
+27 or second conviction thereof, shall be punished as follows:
+28 (1) If the aggregate weight, including any mixture, is less than 250 milligrams of a solid
+29 substance, less than 0.25 milliliter of a liquid substance, or if the substance is placed onto
+30 a secondary medium with a combined weight of less than 250 milligrams, by
+31 imprisonment for not less than one year nor more than five years; and
+32 (2) If the aggregate weight, including any mixture, is at least 250 milligrams but less than
+33 four grams of a solid substance, at least 0.25 milliliter but less than four milliliters of a
+34 liquid substance, or if the substance is placed onto a secondary medium with a combined
+35 weight of at least 250 milligrams but less than four grams, by imprisonment for not less
+36 than one year nor more than ten years."
+S. B. 79
+- 2 -
+
+25 LC 57 0211
+37 SECTION 1-3.
+38 Said title is further amended in Code Section 16-13-31, relating to trafficking in cocaine,
+39 illegal drugs, marijuana, or methamphetamine and penalties, by revising subsections (b), (g),
+40 and (i) and by adding a new subsection to read as follows:
+41 "(b) Except as authorized by this article, any person who sells, manufactures, delivers,
+42 brings into this state, or has possession of four grams or more of any morphine, opium, or
+43 substance identified in subparagraph (RR) or (SS) of paragraph (1) or paragraph (13), (14),
+44 or (15) of Code Section 16-13-25, or subparagraph (A), (C.5), (F), (U.1), (V), or (V.2) of
+45 paragraph (2) of Code Section 16-13-26 or any salt, isomer, or salt of an isomer thereof,
+46 including heroin, as described in Schedules I and II, or four grams or more of any mixture
+47 containing any such substance in violation of this article commits the felony offense of
+48 trafficking in illegal drugs and, upon conviction thereof, shall be punished as follows:
+49 (1) If the quantity of such substances involved is four grams or more, but less than 14
+50 grams, the person shall be sentenced to a mandatory minimum term of imprisonment of
+51 five years and shall pay a fine of $50,000.00;
+52 (2) If the quantity of such substances involved is 14 grams or more, but less than 28
+53 grams, the person shall be sentenced to a mandatory minimum term of imprisonment of
+54 ten years and shall pay a fine of $100,000.00; and
+55 (3) If the quantity of such substances involved is 28 grams or more, the person shall be
+56 sentenced to a mandatory minimum term of imprisonment of 25 years and shall pay a fine
+57 of $500,000.00.
+58 (b.1) Except as authorized by this article, any person who sells, manufactures, delivers,
+59 brings into this state, or has possession of fentanyl as identified in subparagraph (F) of
+60 paragraph (2) of Code Section 16-13-26, the fentanyl analog structural class as identified
+61 in paragraph (13) of Code Section 16-13-25, or any mixture containing any such substance
+62 in violation of this article commits the felony offense of trafficking in fentanyl and, upon
+63 conviction thereof, shall be punished as follows:
+S. B. 79
+- 3 -
+
+25 LC 57 0211
+64 (1) If the quantity of such substances involved is four grams or more, but less than eight
+65 grams, the person shall be sentenced to a mandatory minimum term of imprisonment of
+66 ten years and shall pay a fine of $75,000.00;
+67 (2) If the quantity of such substances involved is eight grams or more, but less
+68 than 14 grams, the person shall be sentenced to a mandatory minimum term of
+69 imprisonment of 15 years and shall pay a fine of $150,000.00;
+70 (3) If the quantity of such substances involved is 14 grams or more, but less than 28
+71 grams, the person shall be sentenced to a mandatory minimum term of imprisonment
+72 of 25 years and shall pay a fine of $250,000.00; and
+73 (4) If the quantity of such substances involved is 28 grams or more, the person shall be
+74 sentenced to a mandatory minimum term of imprisonment of 35 years and shall pay a fine
+75 of $750,000.00."
+76 "(g)(1) The district attorney may move the sentencing court to impose a reduced or
+77 suspended sentence upon any person who is convicted of a violation of this Code section
+78 who provides substantial assistance in the identification, arrest, or conviction of any of
+79 his or her accomplices, accessories, coconspirators, or principals. Upon good cause
+80 shown, the motion may be filed and heard in camera. The judge hearing the motion Upon
+81 hearing such motion, the sentencing court may impose a reduced or suspended sentence
+82 if he or she such court finds that the defendant has rendered such substantial assistance.
+83 (2)(A) In the court's discretion, the judge may The sentencing court may, in its
+84 discretion, depart from the mandatory minimum sentence specified for a person who
+85 is convicted of a violation of this Code section as set forth in subparagraph (B) of this
+86 paragraph if the judge such court concludes that:
+87 (i) The defendant was not a leader of the criminal conduct;
+88 (ii) The defendant did not possess or use a firearm, dangerous weapon, or hazardous
+89 object during the crime;
+S. B. 79
+- 4 -
+
+25 LC 57 0211
+90 (iii) The criminal conduct did not result in a death or serious bodily injury to a person
+91 other than to a person who is a party to the crime;
+92 (iv) The defendant has no prior felony conviction; and
+93 (v) The interests of justice will not be served by the imposition of the prescribed
+94 mandatory minimum sentence.
+95 (B) The sentencing departure ranges pursuant to subparagraph (A) of this paragraph
+96 shall be as follows:
+97 (i) Any person convicted of violating paragraph (1) of subsection (b) or (d) of this
+98 Code section, two years and six months to five years imprisonment and a fine of not
+99 less than $25,000.00 nor more than $50,000.00;
+100 (ii) Any person convicted of violating paragraph (1) of subsection (c) of this Code
+101 section, two years and six months to five years imprisonment and a fine of not less
+102 than $50,000.00 nor more than $100,000.00;
+103 (iii) Any person convicted of violating paragraph (2) of subsection (c) of this Code
+104 section, three years and six months to seven years imprisonment and a fine of not less
+105 than $125,000.00 nor more than $250,000.00;
+106 (iv) Any person convicted of violating subparagraph (a)(1)(A), paragraph (2) of
+107 subsection (a), relating to the quantity of drugs specified in subparagraph (a)(1)(A)
+108 of this Code section, or paragraph (1) of subsection (e) or (f) of this Code section, five
+109 to ten years imprisonment and a fine of not less than $100,000.00 nor more than
+110 $200,000.00;
+111 (v) Any person convicted of violating paragraph (2) of subsection (b) of this Code
+112 section, five to ten years imprisonment and a fine of not less than $50,000.00 nor
+113 more than $100,000.00;
+114 (vi) Any person convicted of violating subparagraph (a)(1)(B), paragraph (2) of
+115 subsection (a), relating to the quantity of drugs specified in subparagraph (a)(1)(B)
+116 of this Code section, or paragraph (2) of subsection (e) or (f) of this Code section,
+S. B. 79
+- 5 -
+
+25 LC 57 0211
+117 seven years and six months to 15 years imprisonment and a fine of not less than
+118 $150,000.00 nor more than $300,000.00;
+119 (vii) Any person convicted of violating paragraph (3) of subsection (c) of this Code
+120 section, seven years and six months to 15 years imprisonment and a fine of not less
+121 than $500,000.00 nor more than $1 million;
+122 (viii) Any person convicted of violating paragraph (2) of subsection (d) of this Code
+123 section, seven years and six months to 15 years imprisonment and a fine of not less
+124 than $125,000.00 nor more than $250,000.00;
+125 (ix) Any person convicted of violating paragraph (3) of subsection (b) of this Code
+126 section, 12 years and six months to 25 years imprisonment and a fine of not less than
+127 $250,000.00 nor more than $500,000.00; and
+128 (x) Any person convicted of violating subparagraph (a)(1)(C), paragraph (2) of
+129 subsection (a), relating to the quantity of drugs specified in subparagraph (a)(1)(C)
+130 of this Code section, or paragraph (3) of subsection (e) or (f) of this Code section, 12
+131 years and six months to 25 years imprisonment and a fine of not less than
+132 $500,000.00 nor more than $1 million.
+133 (i) Any person convicted of violating subparagraph (a)(1)(A), paragraph (2) of
+134 subsection (a) relating to the quantity of drugs specified in subparagraph (a)(1)(A) of
+135 this Code section, or paragraph (1) of subsection (e) or (f) of this Code section,
+136 imprisonment for not less than five nor more than ten years and a fine of not less
+137 than $100,000.00 nor more than $200,000.00;
+138 (ii) Any person convicted of violating subparagraph (a)(1)(B), paragraph (2) of
+139 subsection (a) relating to the quantity of drugs specified in subparagraph (a)(1)(B) of
+140 this Code section, or paragraph (2) of subsection (e) or (f) of this Code section,
+141 imprisonment for not less than seven years and six months nor more than 15 years and
+142 a fine of not less than $150,000.00 nor more than $300,000.00;
+S. B. 79
+- 6 -
+
+25 LC 57 0211
+143 (iii) Any person convicted of violating subparagraph (a)(1)(C), paragraph (2) of
+144 subsection (a) relating to the quantity of drugs specified in subparagraph (a)(1)(C) of
+145 this Code section, or paragraph (3) of subsection (e) or (f) of this Code section,
+146 imprisonment for not less than 12 years and six months nor more than 25 years and
+147 a fine of not less than $500,000.00 nor more than $1 million;
+148 (iv) Any person convicted of violating paragraph (1) of subsection (b) or (d) of this
+149 Code section, imprisonment for not less than two years and six months nor more than
+150 five years and a fine of not less than $25,000.00 nor more than $50,000.00;
+151 (v) Any person convicted of violating paragraph (2) of subsection (b) of this Code
+152 section, imprisonment for not less than five years nor more than ten years and a fine
+153 of not less than $50,000.00 nor more than $100,000.00;
+154 (vi) Any person convicted of violating paragraph (3) of subsection (b) of this Code
+155 section, imprisonment for not less than 12 years and six months nor more than 25
+156 years and a fine of not less than $250,000.00 nor more than $500,000.00;
+157 (vii) Any person convicted of violating paragraph (1) of subsection (b.1) of this Code
+158 section, imprisonment for not less than two years and six months nor more than five
+159 years and a fine of not less than $12,500.00 nor more than $25,000.00;
+160 (viii) Any person convicted of violating paragraph (2) of subsection (b.1) of this
+161 Code section, imprisonment for not less than five years nor more than ten years and
+162 a fine of not less than $25,000.00 nor more than $50,000.00;
+163 (ix) Any person convicted of violating paragraph (3) of subsection (b.1) of this Code
+164 section, imprisonment for not less than ten years nor more than 20 years and a fine of
+165 not less than $50,000.00 nor more than $100,000.00;
+166 (x) Any person convicted of violating paragraph (4) of subsection (b.1) of this Code
+167 section, imprisonment for not less than 15 years nor more than 30 years and a fine of
+168 not less than $250,000.00 nor more than $500,000.00;
+S. B. 79
+- 7 -
+
+25 LC 57 0211
+169 (xi) Any person convicted of violating paragraph (1) of subsection (c) of this Code
+170 section, imprisonment for not less than two years and six months nor more than five
+171 years and a fine of not less than $50,000.00 nor more than $100,000.00;
+172 (xii) Any person convicted of violating paragraph (2) of subsection (c) of this Code
+173 section, imprisonment for not less than three years and six months nor more than
+174 seven years and a fine of not less than $125,000.00 nor more than $250,000.00;
+175 (xiii) Any person convicted of violating paragraph (3) of subsection (c) of this Code
+176 section, imprisonment for not less than seven years and six months nor more than 15
+177 years and a fine of not less than $500,000.00 nor more than $1 million; and
+178 (xiv) Any person convicted of violating paragraph (2) of subsection (d) of this Code
+179 section, imprisonment for not less than seven years and six months nor more than 15
+180 years and a fine of not less than $125,000.00 nor more than $250,000.00.
+181 (C) If a judge reduces the sentencing court departs from the mandatory minimum
+182 sentence pursuant to this paragraph, the judge such court shall specify on the record the
+183 circumstances for the reduction such departure and the interests served by such
+184 departure. Any such order shall be appealable by the State of Georgia pursuant to Code
+185 Section 5-7-1.
+186 (D) As used in this paragraph, the term:
+187 (i) 'Dangerous weapon' shall have the same meaning as set forth in Code
+188 Section 16-11-121.
+189 (ii) 'Firearm' shall have the same meaning as set forth in Code Section 16-11-127.1
+190 16-11-131.
+191 (iii) 'Hazardous object' shall have the same meaning as set forth in Code
+192 Section 20-2-751.
+193 (iv) 'Leader' means a person who planned and organized others and acted as a guiding
+194 force in order to achieve a common goal.
+S. B. 79
+- 8 -
+
+25 LC 57 0211
+195 (3) In the court's discretion, the judge may The sentencing court may, in its discretion,
+196 depart from the mandatory minimum sentence specified in this Code section for a person
+197 who is convicted of a violation of this Code section when the prosecuting attorney and
+198 the defendant have agreed to a sentence that is below such mandatory minimum."
+199 "(i) Notwithstanding Code Section 16-13-2, any Except as provided in subsection (g) of
+200 this Code section and notwithstanding the provisions of Code Section 16-13-2 to the
+201 contrary, with respect to any person who is found to have violated this Code section, no
+202 portion of the mandatory minimum sentence shall be suspended, stayed, probated, deferred,
+203 or otherwise withheld by the sentencing court. Any sentence imposed pursuant to
+204 subsection (g) of this Code section shall not be reduced by any earned time, early release,
+205 work release, leave, or other sentence-reducing measures under programs administered by
+206 the Department of Corrections, the effect of which would be to reduce the period of
+207 incarceration ordered by the sentencing court or any form of pardon, parole, or
+208 commutation of sentence by the State Board of Pardons and Paroles; provided, however,
+209 that during the final year of incarceration, a defendant so sentenced shall be eligible to be
+210 considered for participation in a Department of Corrections administered transitional center
+211 or work release program."
+212 PART II
+213 SECTION 2-1.
+214 Code Section 4-8-27 of the Official Code of Georgia Annotated, relating to certificates of
+215 registration for dog ownership, requirements for issuance of certificate, individuals excluded
+216 from receiving registration, limitation of ownership, and annual renewal, is amended by
+217 revising paragraph (3) of subsection (f) as follows:
+S. B. 79
+- 9 -
+
+25 LC 57 0211
+218 "(3) A felony involving trafficking in cocaine, illegal drugs, marijuana,
+219 methamphetamine, or ecstasy as provided for in of substances in violation of Code
+220 Sections 16-13-31 and 16-13-31.1."
+221 SECTION 2-2.
+222 Title 16 of the Official Code of Georgia Annotated, relating to crimes and offenses, is
+223 amended in Code Section 16-11-106, relating to possession of firearm or knife during
+224 commission of or attempt to commit certain crimes, by revising paragraph (5) of
+225 subsection (b) as follows:
+226 "(5) Any crime involving the trafficking of cocaine, marijuana, or illegal drugs as
+227 provided in substances in violation of Code Section 16-13-31,"
+228 SECTION 2-3.
+229 Said title is further amended in Code Section 16-11-133, relating to minimum periods of
+230 confinement for persons convicted who have prior convictions, by revising paragraph (5) of
+231 subsection (b) as follows:
+232 "(5) Any crime involving the trafficking of cocaine, marijuana, or illegal drugs as
+233 provided in substances in violation of Code Section 16-13-31,"
+234 SECTION 2-4.
+235 Said title is further amended in Code Section 16-11-160, relating to use of machine guns,
+236 sawed-off rifles, sawed-off shotguns, or firearms with silencers during commission of certain
+237 offenses and enhanced criminal penalties, by revising division (a)(2)(B)(iii) as follows:
+238 "(iii) Trafficking in cocaine, illegal drugs, marijuana, or methamphetamine as
+239 provided in of substances in violation of Code Section 16-13-31."
+S. B. 79
+- 10 -
+
+25 LC 57 0211
+240 SECTION 2-5.
+241 Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, is
+242 amended in Code Section 17-6-1, relating to when offenses bailable, procedure, schedule of
+243 bails, and appeal bonds, by revising subsection (g) as follows:
+244 "(g) No appeal bond shall be granted to any person who has been convicted of murder,
+245 rape, aggravated sodomy, armed robbery, home invasion in any degree, aggravated child
+246 molestation, child molestation, kidnapping, trafficking in cocaine or marijuana of
+247 substances in violation of Code Section 16-13-31, aggravated stalking, or aircraft hijacking
+248 and who has been sentenced to serve a period of incarceration of five years or more. The
+249 granting of an appeal bond to a person who has been convicted of any other felony offense
+250 or of any misdemeanor offense involving an act of family violence as defined in Code
+251 Section 19-13-1, or of any offense delineated as a high and aggravated misdemeanor or of
+252 any offense set forth in Code Section 40-6-391, shall be in the discretion of the convicting
+253 court. Appeal bonds shall terminate when the right of appeal terminates, and such bonds
+254 shall not be effective as to any petition for review or petition or application for writ of
+255 certiorari unless the court in which the petition for review or petition or application is filed
+256 so specifies."
+257 SECTION 2-6.
+258 Said title is further amended in Code Section 17-6-12, relating to unsecured judicial release,
+259 requirement, effect of failure of person charged to appear for trial, and consideration of
+260 criminal record, by revising subparagraph (a)(1)(U) as follows:
+261 "(U) Trafficking in cocaine, illegal drugs, marijuana, or methamphetamine of
+262 substances in violation of Code Section 16-13-31;"
+S. B. 79
+- 11 -
+
+25 LC 57 0211
+263 SECTION 2-7.
+264 Said title is further amended in Code Section 17-10-9.1, relating to voluntary surrender to
+265 county jail or correctional institution and release of defendant, by revising paragraph (9) of
+266 subsection (a) as follows:
+267 "(9) Trafficking of substances in violation of Violating Code Section 16-13-31, relating
+268 to trafficking in cocaine or marijuana;"
+269 SECTION 2-8.
+270 Article 2 of Chapter 9 of Title 42 of the Official Code of Georgia Annotated, relating to
+271 grants of pardons, paroles, and other relief, is amended in Code Section 42-9-42, relating to
+272 procedure for granting relief from sentence, conditions and prerequisites, public access to
+273 information, and violation of parole, by revising division (b)(1)(B)(xxix) as follows:
+274 "(xxix) Trafficking in cocaine, illegal drugs, marijuana, or methamphetamine of
+275 substances in violation of Code Section 16-13-31;"
+276 SECTION 2-9.
+277 Said article is further amended in Code Section 42-9-45, relating to general rule-making
+278 power, by revising subsection (f) as follows:
+279 "(f) Except to correct a patent miscarriage of justice and not otherwise, no inmate serving
+280 a sentence imposed for any of the crimes listed in this subsection shall be granted release
+281 on parole until and unless said inmate has served on good behavior seven years of
+282 imprisonment or one-third of the prison term imposed by the sentencing court for the
+283 violent crime, whichsoever first occurs. No inmate serving a sentence for any crime listed
+284 in this subsection shall be released on parole for the purpose of regulating jail or prison
+285 populations. This subsection shall govern parole actions in sentences imposed for any of
+286 the following crimes: voluntary manslaughter, statutory rape, incest, cruelty to children,
+287 arson in the first degree, homicide by vehicle while under the influence of alcohol or as a
+S. B. 79
+- 12 -
+
+25 LC 57 0211
+288 habitual traffic violator, aggravated battery, aggravated assault, trafficking in drugs of
+289 substances in violation of Code Section 16-13-31 or 16-13-31.1, and violations of
+290 Chapter 14 of Title 16, the 'Georgia RICO (Racketeer Influenced and Corrupt
+291 Organizations) Act.'"
+292 SECTION 2-10.
+293 Said article is further amended in Code Section 42-9-60, relating to overcrowding of prison
+294 system as creating state of emergency, paroling inmates to reduce prison system population
+295 to capacity, and annual report of inmates paroled, by revising paragraph (2) of subsection (a)
+296 as follows:
+297 "(2) 'Dangerous offender' means a state prison inmate who is imprisoned for conviction
+298 of any one or more of the following crimes as defined by Title 16, the 'Criminal Code of
+299 Georgia': murder, voluntary manslaughter, kidnapping, armed robbery, rape, aircraft
+300 hijacking, aggravated sodomy, aggravated battery, aggravated assault, incest, child
+301 molestation, child abuse, or enticing a child for indecent purposes, or any felony
+302 punishable under Code Section 16-13-31, relating to prohibited acts regarding marijuana,
+303 cocaine, and illegal drugs. The term 'dangerous offender' violation of trafficking of
+304 substances in violation of Code Section 16-13-31. Such term shall also include an inmate
+305 who is incarcerated for a second or subsequent time for the commission of a crime for
+306 which the inmate could have been sentenced to life imprisonment."
+307 SECTION 2-11.
+308 Code Section 45-12-37 of the Official Code of Georgia Annotated, relating to reward for
+309 information leading to arrest and conviction of person selling dangerous or narcotic drugs
+310 generally and rewards by counties and municipalities, is amended by revising subsection (b)
+311 as follows:
+S. B. 79
+- 13 -
+
+25 LC 57 0211
+312 "(b) Any person, other than a law enforcement officer, who furnishes information leading
+313 to the arrest and conviction of a person who is charged with selling dangerous drugs in
+314 violation of Code Section 16-13-72 may receive a reward of up to $500.00. Any person,
+315 other than a law enforcement officer, who furnishes information leading to the arrest and
+316 conviction of a person who is charged with selling a controlled substance in violation of
+317 Code Section 16-13-30 or trafficking of substances in violation of Code Section 16-13-31,
+318 may receive a reward of $1,000.00."
+319 PART III
+320 SECTION 3-1.
+321 This Act shall become effective on July 1, 2025, and shall apply to all offenses committed
+322 on or after such date.
+323 SECTION 3-2.
+324 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 79
+- 14 -
+
+[DELETED: 5L a T 1 o t O C o G A r t c a t o o p s d a m o s f a r s n t c t o o t i S 1 r t t i c i d m o]
+[DELETED: 5L i C S 1 r t p p m s m w a c w o l t 2 m b]
+[DELETED: 5L]
+[DELETED: 5L  I t q o s s i i e g o m b l 1 g t p s b s t a m m t o  I t c d t j m T s c m i i]
+[DELETED: 5L]
+[DELETED: 5L a s m t 2 y i a a f o n l t]
+[DELETED: 5L]
+[DELETED: 5L f t r s d a t i s b s  ' w s h t s m a s f i C  ' o s h t s m a s f i C]
+[DELETED: 5L o w b t s c  A s i p t o b t s c o a f o p p o]
+[DELETED: 5L  A f i t i c i d m o o a t c c c b r p ( o  T i c i d m o m a]
+[DELETED: 5L 1 o t O C o G A r t c p i c m k t i c o m o  T i c i d m o m o]
+[DELETED: 5L p u a u s i h s o g b s y o]
+[DELETED: 5L i v o C S 1 o 1 a v o 1 o T 1 t ' R ( I a C a s a b a a i c c a o e a c f i p o a f]
+[DELETED: 5L]

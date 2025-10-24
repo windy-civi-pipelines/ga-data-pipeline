@@ -1,0 +1,163 @@
+Title: House Bill 585
+Official Title: House Bill 585
+Number of Sections: 1
+Source: versions - LC 52 0785/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0785
+By: Representatives Jones of the 47th, Jones of the 25th, Martin of the 49th, Thomas of the 21st,
+and Gaines of the 120th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 33 and 40 of the Official Code of Georgia Annotated, relating to insurance
+2 and motor vehicles and traffic, respectively, so as to provide for an excluded driver under a
+3 motor vehicle insurance policy; to provide for definitions; to require an insurer to identify
+4 any excluded drivers in proof or evidence of required minimum insurance coverage; to
+5 provide for rules; to provide a penalty for an excluded driver operating a motor vehicle
+6 without proof of insurance; to provide for a penalty for an excluded driver operating a
+7 vehicle without insurance; to provide for related matters; to repeal conflicting laws; and for
+8 other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Title 33 of the Official Code of Georgia Annotated, relating to insurance, is amended in
+12 Chapter 7, relating to kinds of insurance, limits of risks, and reinsurance, by adding a new
+13 Code section to read as follows:
+14 "33-7-16.
+15 (a) As used in this Code section, the term:
+H. B. 585
+- 1 -
+25 LC 52 0785
+16 (1) 'Excluded driver' means any named individual expressly excluded from coverage
+17 under a motor vehicle insurance policy.
+18 (2) 'Motor vehicle insurance policy' means an automobile liability policy or motor
+19 vehicle liability policy issued, delivered, or issued for delivery in this state to the owner
+20 of a vehicle which provides at least the minimum bodily injury, death, and property
+21 damage liability coverage as required by Code Section 33-7-11.
+22 (b) An insurer may exclude a named individual from coverage under a motor vehicle
+23 insurance policy, provided that such insurer includes a designation that identifies such
+24 named individual as an excluded driver in the proof of required minimum insurance
+25 coverage under Code Section 40-6-10.
+26 (c) The Commissioner shall promulgate rules and regulations necessary to implement the
+27 provisions of this Code section."
+28 SECTION 2.
+29 Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles and traffic, is
+30 amended in Chapter 6, relating to uniform rules of the road, by revising paragraph (6) of
+31 subsection (a) and subsection (b) of Code Section 40-6-10, relating to insurance requirements
+32 for operation of motor vehicles generally, as follows:
+33 "(6) If a law enforcement officer of this state determines that the owner or operator of a
+34 motor vehicle subject to the provisions of this Code section does not have proof or
+35 evidence of required minimum insurance coverage or that the operator of such motor
+36 vehicle is an excluded driver under the motor vehicle insurance policy for such vehicle
+37 and does not have other proof of insurance, the arresting officer shall issue a uniform
+38 traffic citation for operating a motor vehicle without proof of insurance. If the court or
+39 arresting officer determines that the operator is not the owner, then a uniform traffic
+40 citation may be issued to the owner for authorizing the operation of a motor vehicle
+41 without proof of insurance."
+H. B. 585
+- 2 -
+25 LC 52 0785
+42 "(b) An owner or any other person who knowingly operates or knowingly authorizes
+43 another to operate a motor vehicle without effective insurance on such vehicle or without
+44 an approved plan of self-insurance or an operator of a motor vehicle who is an excluded
+45 driver under the motor vehicle insurance policy for such vehicle and who does not have
+46 other effective insurance shall be guilty of a misdemeanor and, upon conviction thereof,
+47 shall be subject to a fine of not less than $200.00 nor more than $1,000.00 or imprisonment
+48 for not more than 12 months, or both. An operator of a motor vehicle shall not be guilty
+49 of a violation of this Code section if such operator maintains a policy of motor vehicle
+50 insurance which extends coverage to any vehicle the operator may drive. An owner or
+51 operator of a motor vehicle shall not be issued a citation by a law enforcement officer for
+52 a violation of this Code section if the sole basis for issuance of such a citation is that the
+53 law enforcement officer is unable to obtain insurance coverage information from the
+54 records of the Department of Revenue."
+55 SECTION 3.
+56 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 585
+- 3 -
+[DELETED: 5L7,5,9,1hthths0]
+[DELETED: 5L i]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0785
+House Bill 585
+By: Representatives Jones of the 47th, Jones of the 25th, Martin of the 49th, Thomas of the 21st,
+and Gaines of the 120th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 33 and 40 of the Official Code of Georgia Annotated, relating to insurance
+2 and motor vehicles and traffic, respectively, so as to provide for an excluded driver under a
+3 motor vehicle insurance policy; to provide for definitions; to require an insurer to identify
+4 any excluded drivers in proof or evidence of required minimum insurance coverage; to
+5 provide for rules; to provide a penalty for an excluded driver operating a motor vehicle
+6 without proof of insurance; to provide for a penalty for an excluded driver operating a
+7 vehicle without insurance; to provide for related matters; to repeal conflicting laws; and for
+8 other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Title 33 of the Official Code of Georgia Annotated, relating to insurance, is amended in
+12 Chapter 7, relating to kinds of insurance, limits of risks, and reinsurance, by adding a new
+13 Code section to read as follows:
+14 "33-7-16.
+15 (a) As used in this Code section, the term:
+H. B. 585
+- 1 -
+
+25 LC 52 0785
+16 (1) 'Excluded driver' means any named individual expressly excluded from coverage
+17 under a motor vehicle insurance policy.
+18 (2) 'Motor vehicle insurance policy' means an automobile liability policy or motor
+19 vehicle liability policy issued, delivered, or issued for delivery in this state to the owner
+20 of a vehicle which provides at least the minimum bodily injury, death, and property
+21 damage liability coverage as required by Code Section 33-7-11.
+22 (b) An insurer may exclude a named individual from coverage under a motor vehicle
+23 insurance policy, provided that such insurer includes a designation that identifies such
+24 named individual as an excluded driver in the proof of required minimum insurance
+25 coverage under Code Section 40-6-10.
+26 (c) The Commissioner shall promulgate rules and regulations necessary to implement the
+27 provisions of this Code section."
+28 SECTION 2.
+29 Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles and traffic, is
+30 amended in Chapter 6, relating to uniform rules of the road, by revising paragraph (6) of
+31 subsection (a) and subsection (b) of Code Section 40-6-10, relating to insurance requirements
+32 for operation of motor vehicles generally, as follows:
+33 "(6) If a law enforcement officer of this state determines that the owner or operator of a
+34 motor vehicle subject to the provisions of this Code section does not have proof or
+35 evidence of required minimum insurance coverage or that the operator of such motor
+36 vehicle is an excluded driver under the motor vehicle insurance policy for such vehicle
+37 and does not have other proof of insurance, the arresting officer shall issue a uniform
+38 traffic citation for operating a motor vehicle without proof of insurance. If the court or
+39 arresting officer determines that the operator is not the owner, then a uniform traffic
+40 citation may be issued to the owner for authorizing the operation of a motor vehicle
+41 without proof of insurance."
+H. B. 585
+- 2 -
+
+25 LC 52 0785
+42 "(b) An owner or any other person who knowingly operates or knowingly authorizes
+43 another to operate a motor vehicle without effective insurance on such vehicle or without
+44 an approved plan of self-insurance or an operator of a motor vehicle who is an excluded
+45 driver under the motor vehicle insurance policy for such vehicle and who does not have
+46 other effective insurance shall be guilty of a misdemeanor and, upon conviction thereof,
+47 shall be subject to a fine of not less than $200.00 nor more than $1,000.00 or imprisonment
+48 for not more than 12 months, or both. An operator of a motor vehicle shall not be guilty
+49 of a violation of this Code section if such operator maintains a policy of motor vehicle
+50 insurance which extends coverage to any vehicle the operator may drive. An owner or
+51 operator of a motor vehicle shall not be issued a citation by a law enforcement officer for
+52 a violation of this Code section if the sole basis for issuance of such a citation is that the
+53 law enforcement officer is unable to obtain insurance coverage information from the
+54 records of the Department of Revenue."
+55 SECTION 3.
+56 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 585
+- 3 -
+
+[DELETED: 5L7,5,9,1hthths0]
+[DELETED: 5L i]
+[DELETED: 5L]

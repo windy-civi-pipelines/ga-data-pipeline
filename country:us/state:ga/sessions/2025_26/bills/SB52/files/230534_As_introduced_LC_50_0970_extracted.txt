@@ -1,0 +1,287 @@
+Title: Senate Bill 52
+Official Title: Senate Bill 52
+Number of Sections: 1
+Source: versions - As introduced LC 50 0970
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 0970
+By: Senators Goodman of the 8th, Kennedy of the 18th, Tillery of the 19th, Gooch of the
+51st, Jones II of the 22nd and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to ad
+2 valorem taxation of property, so as to authorize certain local governing authorities to provide
+3 temporary tax relief from the taxes levied for the harvest or sale of standing timber in certain
+4 disaster areas; to provide for conditions and procedures; to provide for grants to such local
+5 governing authorities to offset the loss of certain revenues resulting from certain disaster
+6 damage to standing timber and such temporary tax relief; to provide for an appropriations
+7 contingency; to provide for a grant cap; to provide for the calculation of equalized adjusted
+8 property tax digests; to provide for rules and regulations; to provide for definitions; to
+9 provide for related matters; to provide for a short title and legislative findings and intent; to
+10 provide for an effective date; to repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 This Act shall be known and may be cited as the "Timberlands Recovery, Exemption, and
+14 Earnings Stability (TREES) Act."
+S. B. 52
+- 1 -
+25 LC 50 0970
+15 SECTION 2.
+16 The General Assembly finds that:
+17 (1) Hurricane Helene has had a catastrophic impact on the citizens and the economy of
+18 many areas in this state, has particularly devastated the timber industry on which the
+19 citizens of southwest Georgia are heavily dependent for their livelihood by reducing or
+20 eliminating the long-held investments in standing timber and timberlands of businesses and
+21 families, and has created both a public fire hazard and a danger of insect infestations due
+22 to the massive amounts of downed timber caused by the severity of this natural disaster;
+23 (2) As of November, 2024, the estimated losses to standing timber caused by Hurricane
+24 Helene as measured by the Georgia Forestry Commission were nearly $1.3 billion;
+25 (3) Timberlands as investments are unique as an agriculture product in this state, as timber
+26 products often take ten years or longer to realize any return on the investment;
+27 (4) Many counties, municipalities, and local school districts rely on the taxes levied at the
+28 time of timber's harvest or sale pursuant to Code Section 48-5-7.5, but with the destruction
+29 of timberlands throughout this state, that tax revenue will likely not be realized; and
+30 (5) It is the intent of the General Assembly to authorize local governing authorities to
+31 provide temporary tax relief from the taxes levied pursuant to Code 48-5-7.5 so that the
+32 timber industry, and the businesses and families that provide timber products to such
+33 industry, will realize a reduced cost for growing new product and recovering from the
+34 devastating effects of Hurricane Helene. These reduced costs will help stabilize the market
+35 and allow for quicker harvesting and recovery of lands where some timber is still
+36 salvageable.
+37 SECTION 3.
+38 Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to ad valorem
+39 taxation of property, is amended by adding a new Code section to read as follows:
+S. B. 52
+- 2 -
+25 LC 50 0970
+40 "48-5-33.1.
+41 (a) As used in this Code section, the term:
+42 (1) 'Disaster area' means any county designated for public assistance or individual and
+43 public assistance pursuant to the Federal Emergency Management Agency
+44 FEMA-4830-DR Georgia disaster declaration as of November 4, 2024.
+45 (2) 'Eligible governing authority' means the governing authority of any county,
+46 consolidated government, or municipality or the governing body of any county or local
+47 board of education that is located in whole or in part in a disaster area.
+48 (3) 'Eligible standing timber' means any standing timber on eligible timberland property.
+49 (4) 'Eligible timberland property' means timberland property as such term is defined in
+50 Code Section 48-5-600 that is located in whole or in part in a disaster area.
+51 (b) Pursuant to Article VII, Section I, Paragraph III(h) of the Constitution of Georgia and
+52 in accordance with the provisions of this Code section, an eligible governing authority may
+53 grant temporary tax relief from taxes levied for eligible standing timber pursuant to Code
+54 Section 48-5-7.5 during:
+55 (1) The final quarter of 2024; and
+56 (2) Each quarter of 2025.
+57 (c) To grant the temporary tax relief authorized by subsection (b) of this Code section, an
+58 eligible governing authority shall:
+59 (1) Adopt a resolution consenting to grant such tax relief and file such resolution with
+60 the department in the manner prescribed by the department;
+61 (2) Ensure that all eligible standing timber in its jurisdiction automatically qualifies for
+62 such tax relief without need of application or action by the taxpayer;
+63 (3) Refund each taxpayer the total amount paid for taxes levied pursuant to Code
+64 Section 48-5-7.5 for eligible standing timber during the final quarter of 2024, or if such
+65 taxes were levied but unpaid, provide an updated tax bill to such taxpayer reflecting that
+66 the amount is no longer due; and
+S. B. 52
+- 3 -
+25 LC 50 0970
+67 (4) Provide that no taxpayer shall be required to pay the taxes levied pursuant to Code
+68 Section 48-5-7.5 for eligible standing timber during any quarter of 2025.
+69 (d) Any tax relief approved or allowed under this Code section shall be paid from funds
+70 of the eligible governing authority to which the taxes were or were to have been paid.
+71 (e)(1) For the purpose of offsetting an eligible governing authority's revenue loss in the
+72 final quarter of 2024 and any quarter of 2025 due to the destruction of eligible standing
+73 timber in the disaster area and the temporary tax relief authorized pursuant to this Code
+74 section, the commissioner shall, subject to an appropriation by the General Assembly
+75 specifically referencing the provisions of this Act, provide a grant to each eligible
+76 governing authority that has consented to grant the temporary tax relief authorized
+77 pursuant to this Code section.
+78 (2) A grant provided for in paragraph (1) of this subsection shall be allotted to each
+79 eligible governing authority based on:
+80 (A) The governing authority's estimated revenue loss as described in paragraph (1) of
+81 this subsection;
+82 (B) The revenue received by such governing authority pursuant to Code
+83 Section 48-5-7.5 in each of the preceding three years; and
+84 (C) The estimated damage to eligible standing timber in the jurisdiction as provided
+85 in the Hurricane Helene Timber Damage Assessment published by the Georgia Forestry
+86 Commission on November 5, 2024, or other reliable data from the Georgia Forestry
+87 Commission.
+88 (3) No grant to an eligible governing authority provided pursuant to paragraph (1) of this
+89 subsection shall exceed the average of the total revenue received by such governing
+90 authority pursuant to Code Section 48-5-7.5 in 2021, 2022, and 2023.
+91 (f)(1) The grants provided pursuant to subsection (e) of this Code section shall not be
+92 included in the calculation of the equalized adjusted property tax digest under Code
+S. B. 52
+- 4 -
+25 LC 50 0970
+93 Section 48-5-274 for the purpose of calculating the required local five mill share for
+94 school funding purposes under Code Section 20-2-164.
+95 (2) The temporary tax relief authorized pursuant to this Code section shall not affect the
+96 requirement provided for in paragraph (2) of subsection (m) of Code section 48-5-7.5 that
+97 the fair market value of timber harvested or sold be added to a digest and be included in
+98 the calculation of the equalized adjusted property tax digest under Code Section 48-5-274
+99 for the purpose of calculating the required local five mill share for school funding
+100 purposes under Code Section 20-2-164.
+101 (g) The commissioner shall be authorized to consult with the Georgia Forestry
+102 Commission to implement the provisions of this Code section.
+103 (h) The commissioner may promulgate any rules and regulations necessary to implement
+104 and administer the provisions this Code section."
+105 SECTION 4.
+106 This Act shall become effective upon its approval by the Governor or upon its becoming law
+107 without such approval.
+108 SECTION 5.
+109 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 52
+- 5 -
+[DELETED: 5L]
+[DELETED: 5L a f q h a r o l w s t i s]
+[DELETED: 5L a p t t F E M A  ' g a m t g a o a c]
+[DELETED: 5L r t p o t A p a g t e e a t h c t g t t t r a  T r r b s g a p t C]
+[DELETED: 5L r l  T c s b a t c w t G F]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 0970
+Senate Bill 52
+By: Senators Goodman of the 8th, Kennedy of the 18th, Tillery of the 19th, Gooch of the
+51st, Jones II of the 22nd and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to ad
+2 valorem taxation of property, so as to authorize certain local governing authorities to provide
+3 temporary tax relief from the taxes levied for the harvest or sale of standing timber in certain
+4 disaster areas; to provide for conditions and procedures; to provide for grants to such local
+5 governing authorities to offset the loss of certain revenues resulting from certain disaster
+6 damage to standing timber and such temporary tax relief; to provide for an appropriations
+7 contingency; to provide for a grant cap; to provide for the calculation of equalized adjusted
+8 property tax digests; to provide for rules and regulations; to provide for definitions; to
+9 provide for related matters; to provide for a short title and legislative findings and intent; to
+10 provide for an effective date; to repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 This Act shall be known and may be cited as the "Timberlands Recovery, Exemption, and
+14 Earnings Stability (TREES) Act."
+S. B. 52
+- 1 -
+
+25 LC 50 0970
+15 SECTION 2.
+16 The General Assembly finds that:
+17 (1) Hurricane Helene has had a catastrophic impact on the citizens and the economy of
+18 many areas in this state, has particularly devastated the timber industry on which the
+19 citizens of southwest Georgia are heavily dependent for their livelihood by reducing or
+20 eliminating the long-held investments in standing timber and timberlands of businesses and
+21 families, and has created both a public fire hazard and a danger of insect infestations due
+22 to the massive amounts of downed timber caused by the severity of this natural disaster;
+23 (2) As of November, 2024, the estimated losses to standing timber caused by Hurricane
+24 Helene as measured by the Georgia Forestry Commission were nearly $1.3 billion;
+25 (3) Timberlands as investments are unique as an agriculture product in this state, as timber
+26 products often take ten years or longer to realize any return on the investment;
+27 (4) Many counties, municipalities, and local school districts rely on the taxes levied at the
+28 time of timber's harvest or sale pursuant to Code Section 48-5-7.5, but with the destruction
+29 of timberlands throughout this state, that tax revenue will likely not be realized; and
+30 (5) It is the intent of the General Assembly to authorize local governing authorities to
+31 provide temporary tax relief from the taxes levied pursuant to Code 48-5-7.5 so that the
+32 timber industry, and the businesses and families that provide timber products to such
+33 industry, will realize a reduced cost for growing new product and recovering from the
+34 devastating effects of Hurricane Helene. These reduced costs will help stabilize the market
+35 and allow for quicker harvesting and recovery of lands where some timber is still
+36 salvageable.
+37 SECTION 3.
+38 Chapter 5 of Title 48 of the Official Code of Georgia Annotated, relating to ad valorem
+39 taxation of property, is amended by adding a new Code section to read as follows:
+S. B. 52
+- 2 -
+
+25 LC 50 0970
+40 "48-5-33.1.
+41 (a) As used in this Code section, the term:
+42 (1) 'Disaster area' means any county designated for public assistance or individual and
+43 public assistance pursuant to the Federal Emergency Management Agency
+44 FEMA-4830-DR Georgia disaster declaration as of November 4, 2024.
+45 (2) 'Eligible governing authority' means the governing authority of any county,
+46 consolidated government, or municipality or the governing body of any county or local
+47 board of education that is located in whole or in part in a disaster area.
+48 (3) 'Eligible standing timber' means any standing timber on eligible timberland property.
+49 (4) 'Eligible timberland property' means timberland property as such term is defined in
+50 Code Section 48-5-600 that is located in whole or in part in a disaster area.
+51 (b) Pursuant to Article VII, Section I, Paragraph III(h) of the Constitution of Georgia and
+52 in accordance with the provisions of this Code section, an eligible governing authority may
+53 grant temporary tax relief from taxes levied for eligible standing timber pursuant to Code
+54 Section 48-5-7.5 during:
+55 (1) The final quarter of 2024; and
+56 (2) Each quarter of 2025.
+57 (c) To grant the temporary tax relief authorized by subsection (b) of this Code section, an
+58 eligible governing authority shall:
+59 (1) Adopt a resolution consenting to grant such tax relief and file such resolution with
+60 the department in the manner prescribed by the department;
+61 (2) Ensure that all eligible standing timber in its jurisdiction automatically qualifies for
+62 such tax relief without need of application or action by the taxpayer;
+63 (3) Refund each taxpayer the total amount paid for taxes levied pursuant to Code
+64 Section 48-5-7.5 for eligible standing timber during the final quarter of 2024, or if such
+65 taxes were levied but unpaid, provide an updated tax bill to such taxpayer reflecting that
+66 the amount is no longer due; and
+S. B. 52
+- 3 -
+
+25 LC 50 0970
+67 (4) Provide that no taxpayer shall be required to pay the taxes levied pursuant to Code
+68 Section 48-5-7.5 for eligible standing timber during any quarter of 2025.
+69 (d) Any tax relief approved or allowed under this Code section shall be paid from funds
+70 of the eligible governing authority to which the taxes were or were to have been paid.
+71 (e)(1) For the purpose of offsetting an eligible governing authority's revenue loss in the
+72 final quarter of 2024 and any quarter of 2025 due to the destruction of eligible standing
+73 timber in the disaster area and the temporary tax relief authorized pursuant to this Code
+74 section, the commissioner shall, subject to an appropriation by the General Assembly
+75 specifically referencing the provisions of this Act, provide a grant to each eligible
+76 governing authority that has consented to grant the temporary tax relief authorized
+77 pursuant to this Code section.
+78 (2) A grant provided for in paragraph (1) of this subsection shall be allotted to each
+79 eligible governing authority based on:
+80 (A) The governing authority's estimated revenue loss as described in paragraph (1) of
+81 this subsection;
+82 (B) The revenue received by such governing authority pursuant to Code
+83 Section 48-5-7.5 in each of the preceding three years; and
+84 (C) The estimated damage to eligible standing timber in the jurisdiction as provided
+85 in the Hurricane Helene Timber Damage Assessment published by the Georgia Forestry
+86 Commission on November 5, 2024, or other reliable data from the Georgia Forestry
+87 Commission.
+88 (3) No grant to an eligible governing authority provided pursuant to paragraph (1) of this
+89 subsection shall exceed the average of the total revenue received by such governing
+90 authority pursuant to Code Section 48-5-7.5 in 2021, 2022, and 2023.
+91 (f)(1) The grants provided pursuant to subsection (e) of this Code section shall not be
+92 included in the calculation of the equalized adjusted property tax digest under Code
+S. B. 52
+- 4 -
+
+25 LC 50 0970
+93 Section 48-5-274 for the purpose of calculating the required local five mill share for
+94 school funding purposes under Code Section 20-2-164.
+95 (2) The temporary tax relief authorized pursuant to this Code section shall not affect the
+96 requirement provided for in paragraph (2) of subsection (m) of Code section 48-5-7.5 that
+97 the fair market value of timber harvested or sold be added to a digest and be included in
+98 the calculation of the equalized adjusted property tax digest under Code Section 48-5-274
+99 for the purpose of calculating the required local five mill share for school funding
+100 purposes under Code Section 20-2-164.
+101 (g) The commissioner shall be authorized to consult with the Georgia Forestry
+102 Commission to implement the provisions of this Code section.
+103 (h) The commissioner may promulgate any rules and regulations necessary to implement
+104 and administer the provisions this Code section."
+105 SECTION 4.
+106 This Act shall become effective upon its approval by the Governor or upon its becoming law
+107 without such approval.
+108 SECTION 5.
+109 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 52
+- 5 -
+
+[DELETED: 5L]
+[DELETED: 5L a f q h a r o l w s t i s]
+[DELETED: 5L a p t t F E M A  ' g a m t g a o a c]
+[DELETED: 5L r t p o t A p a g t e e a t h c t g t t t r a  T r r b s g a p t C]
+[DELETED: 5L r l  T c s b a t c w t G F]

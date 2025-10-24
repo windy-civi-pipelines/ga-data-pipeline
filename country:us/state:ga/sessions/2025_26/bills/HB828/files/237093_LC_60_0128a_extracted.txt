@@ -1,0 +1,122 @@
+Title: House Bill 828
+Official Title: House Bill 828
+Number of Sections: 1
+Source: versions - LC 60 0128/a
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 60 0128
+By: Representatives Park of the 107th, Hugley of the 141st, Miller of the 62nd, Frye of the
+122nd, Williams of the 168th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+2 income taxes, so as to provide for a refundable tax credit in an amount not to exceed
+3 $1,200.00 for individuals who experience a reduction in or loss of federal Supplemental
+4 Nutrition Assistance Program benefits under certain circumstances; to provide for
+5 definitions; to provide for rules and regulations; to provide for related matters; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes,
+10 is amended by adding a new Code section to read as follows:
+11 "48-7-29.27.
+12 (a) As used in this Code section, the term:
+13 (1) 'DFCS' means the Division of Family and Children Services within the Department
+14 of Human Services.
+H. B. 828
+- 1 -
+25 LC 60 0128
+15 (2) 'Eligibility requirements' means any requirements to qualify for SNAP benefits as set
+16 forth by DFCS on or before March 31, 2025, and in accordance with 7 U.S.C.
+17 Section 2011 et seq., as effective on March 31, 2025.
+18 (3) 'Federal policy change' means any federal legislation, regulation, or executive order
+19 occurring after March 31, 2025, that results in a reduction in or loss of SNAP benefit
+20 funding.
+21 (4) 'Qualifying period' means, with respect to any taxable year, the period for which a
+22 SNAP recipient remains eligible for SNAP benefits under the eligibility requirements.
+23 (5) 'SNAP' means the federal Supplemental Nutrition Assistance Program established
+24 under 7 U.S.C. Section 2011 et seq., as effective on March 31, 2025.
+25 (6) 'SNAP benefit' means the value of federal supplemental nutrition assistance provided
+26 to a SNAP recipient under SNAP, beginning on or before March 31, 2025.
+27 (7) 'SNAP recipient' means an individual who has received SNAP benefits.
+28 (b) Subject to appropriations, for taxable years beginning on or after January 1, 2026, a
+29 taxpayer who is a SNAP recipient and experiences a reduction in or loss of SNAP benefits
+30 due to a federal policy change shall be allowed a credit against the tax imposed by Code
+31 Section 48-7-20 in an amount not to exceed $1,200.00. The commissioner shall determine
+32 the total amount of any such tax credit per taxpayer relative to the SNAP benefit received,
+33 any reduction in or loss of such SNAP benefit, and the qualifying period.
+34 (c) If the total amount of the tax credit provided for in this Code section exceeds the
+35 taxpayer's income tax liability for a taxable year, such excess amount shall be refunded to
+36 the taxpayer.
+37 (d) The commissioner shall be authorized to promulgate rules and regulations necessary
+38 to implement and administer the provisions of this Code section."
+39 SECTION 2.
+40 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 828
+- 2 -
+[DELETED: 5L7,1,2,hstn2,8,dt A P b u c c t p f]
+[DELETED: 5L b D o o b M 3 2 a i a w 7 U]
+
+
+================================================================================
+
+Raw Text:
+25 LC 60 0128
+House Bill 828
+By: Representatives Park of the 107th, Hugley of the 141st, Miller of the 62nd, Frye of the
+122nd, Williams of the 168th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+2 income taxes, so as to provide for a refundable tax credit in an amount not to exceed
+3 $1,200.00 for individuals who experience a reduction in or loss of federal Supplemental
+4 Nutrition Assistance Program benefits under certain circumstances; to provide for
+5 definitions; to provide for rules and regulations; to provide for related matters; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes,
+10 is amended by adding a new Code section to read as follows:
+11 "48-7-29.27.
+12 (a) As used in this Code section, the term:
+13 (1) 'DFCS' means the Division of Family and Children Services within the Department
+14 of Human Services.
+H. B. 828
+- 1 -
+
+25 LC 60 0128
+15 (2) 'Eligibility requirements' means any requirements to qualify for SNAP benefits as set
+16 forth by DFCS on or before March 31, 2025, and in accordance with 7 U.S.C.
+17 Section 2011 et seq., as effective on March 31, 2025.
+18 (3) 'Federal policy change' means any federal legislation, regulation, or executive order
+19 occurring after March 31, 2025, that results in a reduction in or loss of SNAP benefit
+20 funding.
+21 (4) 'Qualifying period' means, with respect to any taxable year, the period for which a
+22 SNAP recipient remains eligible for SNAP benefits under the eligibility requirements.
+23 (5) 'SNAP' means the federal Supplemental Nutrition Assistance Program established
+24 under 7 U.S.C. Section 2011 et seq., as effective on March 31, 2025.
+25 (6) 'SNAP benefit' means the value of federal supplemental nutrition assistance provided
+26 to a SNAP recipient under SNAP, beginning on or before March 31, 2025.
+27 (7) 'SNAP recipient' means an individual who has received SNAP benefits.
+28 (b) Subject to appropriations, for taxable years beginning on or after January 1, 2026, a
+29 taxpayer who is a SNAP recipient and experiences a reduction in or loss of SNAP benefits
+30 due to a federal policy change shall be allowed a credit against the tax imposed by Code
+31 Section 48-7-20 in an amount not to exceed $1,200.00. The commissioner shall determine
+32 the total amount of any such tax credit per taxpayer relative to the SNAP benefit received,
+33 any reduction in or loss of such SNAP benefit, and the qualifying period.
+34 (c) If the total amount of the tax credit provided for in this Code section exceeds the
+35 taxpayer's income tax liability for a taxable year, such excess amount shall be refunded to
+36 the taxpayer.
+37 (d) The commissioner shall be authorized to promulgate rules and regulations necessary
+38 to implement and administer the provisions of this Code section."
+39 SECTION 2.
+40 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 828
+- 2 -
+
+[DELETED: 5L7,1,2,hstn2,8,dt A P b u c c t p f]
+[DELETED: 5L b D o o b M 3 2 a i a w 7 U]

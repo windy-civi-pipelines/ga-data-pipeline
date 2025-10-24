@@ -1,0 +1,106 @@
+Title: House Bill 623
+Official Title: House Bill 623
+Number of Sections: 1
+Source: versions - LC 44 2959/a
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 44 2959
+By: Representatives Smith of the 18th, Huddleston of the 72nd, Howard of the 71st, and Smith
+of the 70th
+A BILL TO BE ENTITLED
+AN ACT
+1 To authorize the assessment and collection of a technology fee by the Probate Court of
+2 Carroll County; to identify the authorized uses of such technology fee; to provide for the
+3 termination of such technology fee and dedication of residual funds; to provide for related
+4 matters; to repeal conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 (a) The clerk of the Probate Court of Carroll County is hereby authorized to charge and
+8 collect a technology fee to be set by the judge of the probate court in an amount not to
+9 exceed $10.00 for the filing of each civil action with the court. Such technology fees shall
+10 be used exclusively to provide for technological needs of the Probate Court of Carroll
+11 County. Such uses shall include only the following:
+12 (1) Computer hardware, software, and accessory purchases;
+13 (2) Lease, maintenance, and installation of computer hardware;
+14 (3) Purchase, lease, maintenance, and installation of audio-visual, imaging, scanning,
+15 facsimile, communications, recording, projection, and printing equipment and software;
+H. B. 623
+- 1 -
+25 LC 44 2959
+16 (4) Purchase of local or remote technological support services and equipment which may
+17 be used to connect to cellular radio systems, remote internet services, and any other
+18 remote access system;
+19 (5) Procurement of services and equipment for conserving court records and archiving
+20 the same to digital contents for public access, including but not limited to software,
+21 services, platforms, licensing and user fees for remote or cloud based storage platforms
+22 and cybersecurity services and insurance; and
+23 (6) Technology related training, including courses, certifications, and programs related
+24 to any technology that is specifically utilized for the operation of the court.
+25 (b) Funds collected pursuant to this section shall be maintained in a segregated account by
+26 the clerk of the probate court and shall be used only for the purposes authorized in this
+27 section.
+28 (c) The authority to assess the technology fee pursuant to this Act shall terminate on
+29 July 1, 2035, and any residual funds remaining in the account established by subsection (b)
+30 of this section shall remain dedicated to general Carroll County technology uses.
+31 SECTION 2.
+32 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 623
+- 2 -
+[DELETED: 5L8,2,1,hnds0]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 44 2959
+House Bill 623
+By: Representatives Smith of the 18th, Huddleston of the 72nd, Howard of the 71st, and Smith
+of the 70th
+A BILL TO BE ENTITLED
+AN ACT
+1 To authorize the assessment and collection of a technology fee by the Probate Court of
+2 Carroll County; to identify the authorized uses of such technology fee; to provide for the
+3 termination of such technology fee and dedication of residual funds; to provide for related
+4 matters; to repeal conflicting laws; and for other purposes.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+6 SECTION 1.
+7 (a) The clerk of the Probate Court of Carroll County is hereby authorized to charge and
+8 collect a technology fee to be set by the judge of the probate court in an amount not to
+9 exceed $10.00 for the filing of each civil action with the court. Such technology fees shall
+10 be used exclusively to provide for technological needs of the Probate Court of Carroll
+11 County. Such uses shall include only the following:
+12 (1) Computer hardware, software, and accessory purchases;
+13 (2) Lease, maintenance, and installation of computer hardware;
+14 (3) Purchase, lease, maintenance, and installation of audio-visual, imaging, scanning,
+15 facsimile, communications, recording, projection, and printing equipment and software;
+H. B. 623
+- 1 -
+
+25 LC 44 2959
+16 (4) Purchase of local or remote technological support services and equipment which may
+17 be used to connect to cellular radio systems, remote internet services, and any other
+18 remote access system;
+19 (5) Procurement of services and equipment for conserving court records and archiving
+20 the same to digital contents for public access, including but not limited to software,
+21 services, platforms, licensing and user fees for remote or cloud based storage platforms
+22 and cybersecurity services and insurance; and
+23 (6) Technology related training, including courses, certifications, and programs related
+24 to any technology that is specifically utilized for the operation of the court.
+25 (b) Funds collected pursuant to this section shall be maintained in a segregated account by
+26 the clerk of the probate court and shall be used only for the purposes authorized in this
+27 section.
+28 (c) The authority to assess the technology fee pursuant to this Act shall terminate on
+29 July 1, 2035, and any residual funds remaining in the account established by subsection (b)
+30 of this section shall remain dedicated to general Carroll County technology uses.
+31 SECTION 2.
+32 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 623
+- 2 -
+
+[DELETED: 5L8,2,1,hnds0]
+[DELETED: 5L]

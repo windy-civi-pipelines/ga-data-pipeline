@@ -282,6 +282,7 @@
     "division_id": "ocd-division/country:us/state:ga"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T19:46:38Z"
+    "logs_latest_update": "2025-10-23T19:46:38Z",
+    "text_extraction_latest_update": "2025-10-24T03:53:00.942825Z"
   }
 }

@@ -1,0 +1,350 @@
+Title: House Bill 651
+Official Title: House Bill 651
+Number of Sections: 1
+Source: versions - LC 39 4692/a
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4692
+By: Representatives Powell of the 33rd, Corbett of the 174th, Erwin of the 32nd, Burchett of
+the 176th, Williamson of the 112th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 14 of Title 40 of the Official Code of Georgia Annotated,
+2 relating to speed detection devices, so as to revise provisions relative to the use of automated
+3 traffic enforcement safety devices in school zones; to provide for standards for signs warning
+4 of the use of automated traffic enforcement safety devices in school zones; to repeal
+5 exceptions to making a case based upon use of speed detection devices; to provide for time
+6 frames for issuing citations for the violation of speed limit by ten miles per hour or more in
+7 a school zone through the use of automated traffic enforcement safety devices; to remove
+8 authorization to impose processing fees relating to civil monetary penalties; to provide for
+9 distribution of moneys collected; to require quarterly reporting on use of collected moneys;
+10 to provide for definitions; to amend Title 15 of the Official Code of Georgia Annotated,
+11 relating to courts, so as to authorize district attorneys, solicitors-general, and prosecuting
+12 attorneys to enforce civil monetary penalties relative to the enforcement of laws regarding
+13 speeding in a school zone using recorded images; to provide for related matters; to repeal
+14 conflicting laws; and for other purposes.
+15 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 651
+- 1 -
+25 LC 39 4692
+16 SECTION 1.
+17 Article 2 of Chapter 14 of Title 40 of the Official Code of Georgia Annotated, relating to
+18 speed detection devices, is amended in Code Section 40-14-1.1, relating to definitions, by
+19 revising paragraph (5) as follows:
+20 "(5) 'School zone' means the area within 1,000 feet of the boundary of defined in an
+21 existing master state order or local ordinance as a school zone area for any public or
+22 private elementary or secondary school."
+23 SECTION 2.
+24 Said article is further amended in Code Section 40-14-6, relating to warning signs required
+25 and signage requirements, by revising subsection (c) as follows:
+26 "(c) In addition to the signs required under subsections (a) and (b) of this Code section,
+27 each law enforcement agency using an automated traffic enforcement safety device as
+28 provided for in Code Section 40-14-18 shall erect signs warning of the use of a stationary
+29 speed detection an automated traffic safety enforcement device within the approaching
+30 school zone. Such signs shall be at least 24 by 30 inches in area, shall be visible plainly
+31 from every lane of traffic, shall be viewable in all traffic conditions, and shall not be placed
+32 in such a manner that the view of such sign is subject to being obstructed by any other
+33 vehicle on such highway. Automated traffic enforcement safety device warning Such signs
+34 shall be placed within 500 feet prior to the any warning sign announcing the reduction of
+35 the speed limit for the school speed zone. Such signs shall include a sign or device which
+36 provides the operator of a motor vehicle approaching such sign with an accurate depiction
+37 of the speed of such motor vehicle and lights which flash yellow when the automated
+38 traffic enforcement safety device is authorized to issue citations pursuant to Code Section
+39 40-14-18 and in accordance with any rule or regulation established by the Department of
+40 Transportation. There shall be a rebuttable presumption that such signs are properly
+41 installed pursuant to this subsection at the time of any alleged violation under this article."
+H. B. 651
+- 2 -
+25 LC 39 4692
+42 SECTION 3.
+43 Said article is further amended by revising Code Section 40-14-8, relating to when case may
+44 be made and conviction had, as follows:
+45 "40-14-8.
+46 (a) No county, city, or campus officer shall be allowed to make a case based on the use of
+47 any speed detection device, unless the speed of the vehicle exceeds the posted speed limit
+48 by more than ten miles per hour and no conviction shall be had thereon unless such speed
+49 is more than ten miles per hour above the posted speed limit.
+50 (b) The limitations contained in subsection (a) of this Code section shall not apply in
+51 properly marked school zones one hour before, during, and one hour after the normal hours
+52 of school operation or programs for care and supervision of students before school, after
+53 school, or during vacation periods as provided for under Code Section 20-2-65, in properly
+54 marked historic districts, and in properly marked residential zones. For purposes of this
+55 chapter, thoroughfares with speed limits of 35 miles per hour or more shall not be
+56 considered residential districts. For purposes of this Code section, the term 'historic
+57 district' means a historic district as defined in paragraph (5) of Code Section 44-10-22 and
+58 which is listed on the Georgia Register of Historic Places or as defined by ordinance
+59 adopted pursuant to a local constitutional amendment."
+60 SECTION 4.
+61 Said article is further amended in Code Section 40-14-18, relating to enforcement of speed
+62 limit in school zones with recorded images, civil monetary penalty, and vehicle registration
+63 and transfer of title restrictions for failure to pay penalty, by revising paragraph (1) of
+64 subsections (a) and (b) and subsection (m) as follows:
+65 "(a)(1) The speed limit within any school zone as provided for in Code Section 40-14-8
+66 and marked pursuant to Code Section 40-14-6 may be enforced by using photographically
+67 recorded images for violations that are in excess of ten miles per hour over the speed limit
+H. B. 651
+- 3 -
+25 LC 39 4692
+68 and which occurred only on a school day during the time in which instructional classes
+69 are taking place and one hour before such classes are scheduled to begin and for one hour
+70 after such classes have concluded when such violations are in excess of ten miles per
+71 hour over the speed limit and only:
+72 (A) One hour prior to and one hour after the school's official starting time; and
+73 (B) One hour prior to and one hour after the school's official dismissal time."
+74 "(1) The owner of a motor vehicle shall be liable for a civil monetary penalty to the
+75 governing body of the law enforcement agency provided for in paragraph (2) of this
+76 subsection if such vehicle is found, as evidenced by photographically recorded images,
+77 to have been operated in disregard or disobedience of the speed limit within any school
+78 zone and such disregard or disobedience was not otherwise authorized by law. The
+79 amount of such civil monetary penalty shall be $75.00 for a first violation and $125.00
+80 for a second or any subsequent violation, in addition to fees associated with the electronic
+81 processing of such civil monetary penalty which shall not exceed $25.00; provided,
+82 however, that for a period of 30 days after the first automated traffic enforcement safety
+83 device is introduced by a law enforcement agency within a school zone, the driver of a
+84 motor vehicle shall not be liable for a civil monetary penalty but shall be issued a civil
+85 warning for disregard or disobedience of the speed limit within the school zone;"
+86 "(m)(1) As used in this subsection, the term 'school safety purposes' means activities
+87 incident to the establishment, procurement, or maintenance of safety measures within
+88 public or private elementary or secondary schools that enhance and ensure the protection
+89 of students, staff, and visitors to such a school, including, but not limited to, access
+90 control systems, communication systems, cyber security measures, perimeter security
+91 systems, surveillance systems, visitor management systems, employment of crossing
+92 guards, and safety protocol training. Such purposes may further include mental health
+93 support services in collaboration with law enforcement to address safety concerns
+94 proactively.
+H. B. 651
+- 4 -
+25 LC 39 4692
+95 (2) The money moneys collected and remitted to the governing body pursuant to
+96 paragraph (1) of subsection (b) of this Code section shall only be used by such governing
+97 body to as follows:
+98 (A) Fifty percent shall be allocated to fund local law enforcement or public safety
+99 initiatives; and
+100 (B) Fifty percent shall be allocated equally among all schools within the jurisdiction
+101 of the governing body for school safety purposes.
+102 (3) This subsection shall not preclude the appropriation of a greater amount than
+103 collected and remitted under this subsection.
+104 (4) At least quarterly, the local governing body shall post upon its public website a report
+105 on the moneys disbursed pursuant to this subsection, which shall include the amount
+106 allocated to each school within the jurisdiction of such governing body."
+107 SECTION 5.
+108 Title 15 of the Official Code of Georgia Annotated, relating to courts, is amended in Code
+109 Section 15-9-155, relating to prosecuting attorney's duties and authority in probate courts in
+110 counties in which there are no state courts, by revising subparagraph (a)(1)(A) as follows:
+111 "(A) In the prosecution of any violation of the laws or ordinances of such county which
+112 is within the jurisdiction of such probate court and punishable by confinement or a fine
+113 or both or by a civil penalty authorized by Code Section 40-6-163 or 40-14-18;"
+114 SECTION 6.
+115 Said title is further amended in Code Section 15-18-6, relating to duties of district attorney,
+116 by revising paragraph (6) as follows:
+117 "(6) To prosecute civil actions to enforce any civil penalty set forth in Code
+118 Section 40-6-163 or 40-14-18 and to prosecute or defend any other civil action in the
+H. B. 651
+- 5 -
+25 LC 39 4692
+119 prosecution or defense of which the state is interested, unless otherwise specially
+120 provided for;"
+121 SECTION 7.
+122 Said title is further amended in Code Section 15-18-66, relating to duties and authority of
+123 solicitors-general of state courts, by revising paragraph (4) of subsection (b) as follows:
+124 "(4) To prosecute civil actions to enforce any civil penalty set forth in Code
+125 Section 40-6-163 or 40-14-18 and when authorized by law to prosecute or defend any
+126 civil action in the state court in the prosecution or defense of which the state is interested,
+127 unless otherwise specially provided for;"
+128 SECTION 8.
+129 Said title is further amended in Code Section 15-18-96, relating to authority of prosecuting
+130 attorney of municipal courts, by revising subparagraph (a)(1)(A) as follows:
+131 "(A) In the prosecution of any violation of the laws or ordinances of such municipality
+132 which is within the jurisdiction of such municipal court and punishable by confinement
+133 or a fine or both or by a civil penalty authorized by Code Section 40-6-163 or 40-14-18;
+134 and"
+135 SECTION 9.
+136 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 651
+- 6 -
+[DELETED: 5L3,4,2,dthn6,2,ht t u o a t e s d i s z t r]
+[DELETED: 5L]
+[DELETED: 5L t w s l o 3 m p h o m s n b]
+[DELETED: 5L s i c w l e t a s c]
+[DELETED: 5L  T m m c a r t t g b p t  T s s n p t a o a g a t  T p c a t e a c p s f i C]
+[DELETED: 5L o d o w t s i i u o s  T p c a t e a c p s f i C]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4692
+House Bill 651
+By: Representatives Powell of the 33rd, Corbett of the 174th, Erwin of the 32nd, Burchett of
+the 176th, Williamson of the 112th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 14 of Title 40 of the Official Code of Georgia Annotated,
+2 relating to speed detection devices, so as to revise provisions relative to the use of automated
+3 traffic enforcement safety devices in school zones; to provide for standards for signs warning
+4 of the use of automated traffic enforcement safety devices in school zones; to repeal
+5 exceptions to making a case based upon use of speed detection devices; to provide for time
+6 frames for issuing citations for the violation of speed limit by ten miles per hour or more in
+7 a school zone through the use of automated traffic enforcement safety devices; to remove
+8 authorization to impose processing fees relating to civil monetary penalties; to provide for
+9 distribution of moneys collected; to require quarterly reporting on use of collected moneys;
+10 to provide for definitions; to amend Title 15 of the Official Code of Georgia Annotated,
+11 relating to courts, so as to authorize district attorneys, solicitors-general, and prosecuting
+12 attorneys to enforce civil monetary penalties relative to the enforcement of laws regarding
+13 speeding in a school zone using recorded images; to provide for related matters; to repeal
+14 conflicting laws; and for other purposes.
+15 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 651
+- 1 -
+
+25 LC 39 4692
+16 SECTION 1.
+17 Article 2 of Chapter 14 of Title 40 of the Official Code of Georgia Annotated, relating to
+18 speed detection devices, is amended in Code Section 40-14-1.1, relating to definitions, by
+19 revising paragraph (5) as follows:
+20 "(5) 'School zone' means the area within 1,000 feet of the boundary of defined in an
+21 existing master state order or local ordinance as a school zone area for any public or
+22 private elementary or secondary school."
+23 SECTION 2.
+24 Said article is further amended in Code Section 40-14-6, relating to warning signs required
+25 and signage requirements, by revising subsection (c) as follows:
+26 "(c) In addition to the signs required under subsections (a) and (b) of this Code section,
+27 each law enforcement agency using an automated traffic enforcement safety device as
+28 provided for in Code Section 40-14-18 shall erect signs warning of the use of a stationary
+29 speed detection an automated traffic safety enforcement device within the approaching
+30 school zone. Such signs shall be at least 24 by 30 inches in area, shall be visible plainly
+31 from every lane of traffic, shall be viewable in all traffic conditions, and shall not be placed
+32 in such a manner that the view of such sign is subject to being obstructed by any other
+33 vehicle on such highway. Automated traffic enforcement safety device warning Such signs
+34 shall be placed within 500 feet prior to the any warning sign announcing the reduction of
+35 the speed limit for the school speed zone. Such signs shall include a sign or device which
+36 provides the operator of a motor vehicle approaching such sign with an accurate depiction
+37 of the speed of such motor vehicle and lights which flash yellow when the automated
+38 traffic enforcement safety device is authorized to issue citations pursuant to Code Section
+39 40-14-18 and in accordance with any rule or regulation established by the Department of
+40 Transportation. There shall be a rebuttable presumption that such signs are properly
+41 installed pursuant to this subsection at the time of any alleged violation under this article."
+H. B. 651
+- 2 -
+
+25 LC 39 4692
+42 SECTION 3.
+43 Said article is further amended by revising Code Section 40-14-8, relating to when case may
+44 be made and conviction had, as follows:
+45 "40-14-8.
+46 (a) No county, city, or campus officer shall be allowed to make a case based on the use of
+47 any speed detection device, unless the speed of the vehicle exceeds the posted speed limit
+48 by more than ten miles per hour and no conviction shall be had thereon unless such speed
+49 is more than ten miles per hour above the posted speed limit.
+50 (b) The limitations contained in subsection (a) of this Code section shall not apply in
+51 properly marked school zones one hour before, during, and one hour after the normal hours
+52 of school operation or programs for care and supervision of students before school, after
+53 school, or during vacation periods as provided for under Code Section 20-2-65, in properly
+54 marked historic districts, and in properly marked residential zones. For purposes of this
+55 chapter, thoroughfares with speed limits of 35 miles per hour or more shall not be
+56 considered residential districts. For purposes of this Code section, the term 'historic
+57 district' means a historic district as defined in paragraph (5) of Code Section 44-10-22 and
+58 which is listed on the Georgia Register of Historic Places or as defined by ordinance
+59 adopted pursuant to a local constitutional amendment."
+60 SECTION 4.
+61 Said article is further amended in Code Section 40-14-18, relating to enforcement of speed
+62 limit in school zones with recorded images, civil monetary penalty, and vehicle registration
+63 and transfer of title restrictions for failure to pay penalty, by revising paragraph (1) of
+64 subsections (a) and (b) and subsection (m) as follows:
+65 "(a)(1) The speed limit within any school zone as provided for in Code Section 40-14-8
+66 and marked pursuant to Code Section 40-14-6 may be enforced by using photographically
+67 recorded images for violations that are in excess of ten miles per hour over the speed limit
+H. B. 651
+- 3 -
+
+25 LC 39 4692
+68 and which occurred only on a school day during the time in which instructional classes
+69 are taking place and one hour before such classes are scheduled to begin and for one hour
+70 after such classes have concluded when such violations are in excess of ten miles per
+71 hour over the speed limit and only:
+72 (A) One hour prior to and one hour after the school's official starting time; and
+73 (B) One hour prior to and one hour after the school's official dismissal time."
+74 "(1) The owner of a motor vehicle shall be liable for a civil monetary penalty to the
+75 governing body of the law enforcement agency provided for in paragraph (2) of this
+76 subsection if such vehicle is found, as evidenced by photographically recorded images,
+77 to have been operated in disregard or disobedience of the speed limit within any school
+78 zone and such disregard or disobedience was not otherwise authorized by law. The
+79 amount of such civil monetary penalty shall be $75.00 for a first violation and $125.00
+80 for a second or any subsequent violation, in addition to fees associated with the electronic
+81 processing of such civil monetary penalty which shall not exceed $25.00; provided,
+82 however, that for a period of 30 days after the first automated traffic enforcement safety
+83 device is introduced by a law enforcement agency within a school zone, the driver of a
+84 motor vehicle shall not be liable for a civil monetary penalty but shall be issued a civil
+85 warning for disregard or disobedience of the speed limit within the school zone;"
+86 "(m)(1) As used in this subsection, the term 'school safety purposes' means activities
+87 incident to the establishment, procurement, or maintenance of safety measures within
+88 public or private elementary or secondary schools that enhance and ensure the protection
+89 of students, staff, and visitors to such a school, including, but not limited to, access
+90 control systems, communication systems, cyber security measures, perimeter security
+91 systems, surveillance systems, visitor management systems, employment of crossing
+92 guards, and safety protocol training. Such purposes may further include mental health
+93 support services in collaboration with law enforcement to address safety concerns
+94 proactively.
+H. B. 651
+- 4 -
+
+25 LC 39 4692
+95 (2) The money moneys collected and remitted to the governing body pursuant to
+96 paragraph (1) of subsection (b) of this Code section shall only be used by such governing
+97 body to as follows:
+98 (A) Fifty percent shall be allocated to fund local law enforcement or public safety
+99 initiatives; and
+100 (B) Fifty percent shall be allocated equally among all schools within the jurisdiction
+101 of the governing body for school safety purposes.
+102 (3) This subsection shall not preclude the appropriation of a greater amount than
+103 collected and remitted under this subsection.
+104 (4) At least quarterly, the local governing body shall post upon its public website a report
+105 on the moneys disbursed pursuant to this subsection, which shall include the amount
+106 allocated to each school within the jurisdiction of such governing body."
+107 SECTION 5.
+108 Title 15 of the Official Code of Georgia Annotated, relating to courts, is amended in Code
+109 Section 15-9-155, relating to prosecuting attorney's duties and authority in probate courts in
+110 counties in which there are no state courts, by revising subparagraph (a)(1)(A) as follows:
+111 "(A) In the prosecution of any violation of the laws or ordinances of such county which
+112 is within the jurisdiction of such probate court and punishable by confinement or a fine
+113 or both or by a civil penalty authorized by Code Section 40-6-163 or 40-14-18;"
+114 SECTION 6.
+115 Said title is further amended in Code Section 15-18-6, relating to duties of district attorney,
+116 by revising paragraph (6) as follows:
+117 "(6) To prosecute civil actions to enforce any civil penalty set forth in Code
+118 Section 40-6-163 or 40-14-18 and to prosecute or defend any other civil action in the
+H. B. 651
+- 5 -
+
+25 LC 39 4692
+119 prosecution or defense of which the state is interested, unless otherwise specially
+120 provided for;"
+121 SECTION 7.
+122 Said title is further amended in Code Section 15-18-66, relating to duties and authority of
+123 solicitors-general of state courts, by revising paragraph (4) of subsection (b) as follows:
+124 "(4) To prosecute civil actions to enforce any civil penalty set forth in Code
+125 Section 40-6-163 or 40-14-18 and when authorized by law to prosecute or defend any
+126 civil action in the state court in the prosecution or defense of which the state is interested,
+127 unless otherwise specially provided for;"
+128 SECTION 8.
+129 Said title is further amended in Code Section 15-18-96, relating to authority of prosecuting
+130 attorney of municipal courts, by revising subparagraph (a)(1)(A) as follows:
+131 "(A) In the prosecution of any violation of the laws or ordinances of such municipality
+132 which is within the jurisdiction of such municipal court and punishable by confinement
+133 or a fine or both or by a civil penalty authorized by Code Section 40-6-163 or 40-14-18;
+134 and"
+135 SECTION 9.
+136 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 651
+- 6 -
+
+[DELETED: 5L3,4,2,dthn6,2,ht t u o a t e s d i s z t r]
+[DELETED: 5L]
+[DELETED: 5L t w s l o 3 m p h o m s n b]
+[DELETED: 5L s i c w l e t a s c]
+[DELETED: 5L  T m m c a r t t g b p t  T s s n p t a o a g a t  T p c a t e a c p s f i C]
+[DELETED: 5L o d o w t s i i u o s  T p c a t e a c p s f i C]

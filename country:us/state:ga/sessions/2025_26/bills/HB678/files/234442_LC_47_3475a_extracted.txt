@@ -1,0 +1,161 @@
+Title: House Bill 678
+Official Title: House Bill 678
+Number of Sections: 1
+Source: versions - LC 47 3475/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 47 3475
+By: Representatives Hilton of the 48th, Silcox of the 53rd, Carpenter of the 4th, Crowe of the
+118th, LaHood of the 175th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 80 of Title 36 of the Official Code of Georgia Annotated, relating to
+2 general provisions applicable to counties, municipal corporations, and other government
+3 entities, so as to provide that authorities with less than state-wide jurisdiction shall have the
+4 same sovereign immunities as provided to counties; to provide a definition; to provide that
+5 officers and employees of such authorities in the conduct of their official duties shall have
+6 the same official immunities as provided to officers and employees of a county performing
+7 duties on behalf of such county; to provide for legislative intent; to provide limitations on the
+8 amounts and types of damages and interest recoverable against an authority; to provide for
+9 applicability; to provide for related matters; to repeal conflicting laws; and for other
+10 purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Chapter 80 of Title 36 of the Official Code of Georgia Annotated, relating to general
+14 provisions applicable to counties, municipal corporations, and other government entities, is
+15 amended by adding a new Code section to read as follows:
+H. B. 678
+- 1 -
+25 LC 47 3475
+16 "36-80-32.
+17 (a) As used in this Code section, the term 'authority' means any:
+18 (1) Instrumentality of the state or a county, municipality, or a joint undertaking thereof
+19 that has less than state-wide jurisdiction and was created to fulfill a specialized public
+20 purpose; or
+21 (2) Other legally created organization that has authority to issue debt for a public purpose
+22 independent of the state, a county, or municipality with less than state-wide jurisdiction,
+23 regardless of whether such instrumentality or organization was created by a local
+24 constitutional amendment, general law, or local law.
+25 (b) An authority shall be deemed to be providing a public service and exercising public
+26 duties and, notwithstanding any provisions of an authority's enabling legislation to the
+27 contrary, shall have the same sovereign immunity and exemption from liability for torts
+28 and negligence as a county, and the officers, agents, and employees of such authority when
+29 in the performance of the work of the authority shall have the same immunity and
+30 exemption from liability for torts and negligence as the officers, agents, and employees of
+31 a county when in the performance of their public duties or work of the county.
+32 (c) It is the specific intent of the General Assembly that tort claims against authorities shall
+33 be subject to the limitations on liability of the state found in Article 2 of Chapter 21 of
+34 Title 50, 'The Georgia Tort Claims Act.' In any civil action or claim for damages brought
+35 against an authority, no claimant shall recover a sum exceeding $1 million from any single
+36 authority because of a loss arising from a single occurrence; and any single authority's
+37 aggregate liability per occurrence shall not exceed $3 million. The existence of these caps
+38 on liability shall not be disclosed or suggested to the jury during the trial of any action
+39 brought against an authority.
+40 (d) No award for damages against an authority shall include punitive or exemplary
+41 damages or interest prior to judgment.
+H. B. 678
+- 2 -
+25 LC 47 3475
+42 (e) In cases where judgment is obtained against an authority, the judgment shall bear
+43 interest from the date judgment is entered at the rate of 7 percent per annum; provided,
+44 however, that any recovery of interest shall be included within the applicable aggregate
+45 amount per occurrence as set forth in this Code section.
+46 (f) Trial of tort claims against an authority shall be conducted by a judge with a jury;
+47 provided, however, that the parties may agree that the same be tried by a judge without a
+48 jury.
+49 (g) The provisions of this Code section shall only apply to acts or omissions occurring on
+50 or after July 1, 2025.
+51 (h) This Code section shall not be construed as a waiver of immunity as required by
+52 Article IX, Section II, Paragraph IX of the Constitution of the State of Georgia. Any such
+53 waiver must be pled and proven by the claimant as provided by law."
+54 SECTION 2.
+55 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 678
+- 3 -
+[DELETED: 5L8,3,4,hrdt8,5,ht t p f r m t r c l a f o r t]
+[DELETED: 5L o w s i o o w c b a l t p o t w o t a s h t s i a  N a f d a a a s i p o e]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 47 3475
+House Bill 678
+By: Representatives Hilton of the 48th, Silcox of the 53rd, Carpenter of the 4th, Crowe of the
+118th, LaHood of the 175th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 80 of Title 36 of the Official Code of Georgia Annotated, relating to
+2 general provisions applicable to counties, municipal corporations, and other government
+3 entities, so as to provide that authorities with less than state-wide jurisdiction shall have the
+4 same sovereign immunities as provided to counties; to provide a definition; to provide that
+5 officers and employees of such authorities in the conduct of their official duties shall have
+6 the same official immunities as provided to officers and employees of a county performing
+7 duties on behalf of such county; to provide for legislative intent; to provide limitations on the
+8 amounts and types of damages and interest recoverable against an authority; to provide for
+9 applicability; to provide for related matters; to repeal conflicting laws; and for other
+10 purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Chapter 80 of Title 36 of the Official Code of Georgia Annotated, relating to general
+14 provisions applicable to counties, municipal corporations, and other government entities, is
+15 amended by adding a new Code section to read as follows:
+H. B. 678
+- 1 -
+
+25 LC 47 3475
+16 "36-80-32.
+17 (a) As used in this Code section, the term 'authority' means any:
+18 (1) Instrumentality of the state or a county, municipality, or a joint undertaking thereof
+19 that has less than state-wide jurisdiction and was created to fulfill a specialized public
+20 purpose; or
+21 (2) Other legally created organization that has authority to issue debt for a public purpose
+22 independent of the state, a county, or municipality with less than state-wide jurisdiction,
+23 regardless of whether such instrumentality or organization was created by a local
+24 constitutional amendment, general law, or local law.
+25 (b) An authority shall be deemed to be providing a public service and exercising public
+26 duties and, notwithstanding any provisions of an authority's enabling legislation to the
+27 contrary, shall have the same sovereign immunity and exemption from liability for torts
+28 and negligence as a county, and the officers, agents, and employees of such authority when
+29 in the performance of the work of the authority shall have the same immunity and
+30 exemption from liability for torts and negligence as the officers, agents, and employees of
+31 a county when in the performance of their public duties or work of the county.
+32 (c) It is the specific intent of the General Assembly that tort claims against authorities shall
+33 be subject to the limitations on liability of the state found in Article 2 of Chapter 21 of
+34 Title 50, 'The Georgia Tort Claims Act.' In any civil action or claim for damages brought
+35 against an authority, no claimant shall recover a sum exceeding $1 million from any single
+36 authority because of a loss arising from a single occurrence; and any single authority's
+37 aggregate liability per occurrence shall not exceed $3 million. The existence of these caps
+38 on liability shall not be disclosed or suggested to the jury during the trial of any action
+39 brought against an authority.
+40 (d) No award for damages against an authority shall include punitive or exemplary
+41 damages or interest prior to judgment.
+H. B. 678
+- 2 -
+
+25 LC 47 3475
+42 (e) In cases where judgment is obtained against an authority, the judgment shall bear
+43 interest from the date judgment is entered at the rate of 7 percent per annum; provided,
+44 however, that any recovery of interest shall be included within the applicable aggregate
+45 amount per occurrence as set forth in this Code section.
+46 (f) Trial of tort claims against an authority shall be conducted by a judge with a jury;
+47 provided, however, that the parties may agree that the same be tried by a judge without a
+48 jury.
+49 (g) The provisions of this Code section shall only apply to acts or omissions occurring on
+50 or after July 1, 2025.
+51 (h) This Code section shall not be construed as a waiver of immunity as required by
+52 Article IX, Section II, Paragraph IX of the Constitution of the State of Georgia. Any such
+53 waiver must be pled and proven by the claimant as provided by law."
+54 SECTION 2.
+55 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 678
+- 3 -
+
+[DELETED: 5L8,3,4,hrdt8,5,ht t p f r m t r c l a f o r t]
+[DELETED: 5L o w s i o o w c b a l t p o t w o t a s h t s i a  N a f d a a a s i p o e]
+[DELETED: 5L]

@@ -1,0 +1,460 @@
+Title: House Bill 54 (COMMITTEE SUBSTITUTE)
+Official Title: House Bill 54 (COMMITTEE SUBSTITUTE)
+Number of Sections: 1
+Source: versions - LC 52 0773S/hcs
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0773S
+By: Representatives Clark of the 100th, Jones of the 47th, Powell of the 33rd, Barrett of the
+24th, Mathiak of the 82nd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 16, 31, 43, and 48 of the Official Code of Georgia Annotated, relating to
+2 crimes and offenses, health, professions and businesses, and revenue and taxation,
+3 respectively, so as to authorize licensed physician assistants to order home healthcare
+4 services to patients of licensed home health agencies; to provide for definitions; to provide
+5 for the approval of continuing education regarding death certificates; to provide for tax
+6 credits for qualified caregiving expenses to include licensed physicians assistants; to provide
+7 for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Title 16 of the Official Code of Georgia Annotated, relating to crimes and offenses, is
+11 amended by revising paragraph (4.2) of Code Section 16-13-72, relating to the sale,
+12 distribution, or possession of dangerous drugs, as follows:
+13 "(4.2) A registered professional nurse licensed under Article 1 of Chapter 26 of Title 43
+14 who is employed or engaged by a licensed home health agency may possess sterile saline,
+15 sterile water, and diluted heparin for use as intravenous maintenance for use in a home
+16 health setting, and such nurse may administer such items to patients of the home health
+H. B. 54 (SUB)
+- 1 -
+25 LC 52 0773S
+17 agency upon the order of a licensed physician or a licensed physician assistant acting
+18 pursuant to the authority of subsection (e.1) of Code Section 43-34-103. The State Board
+19 of Pharmacy shall be authorized to adopt regulations governing the storage, quantity, use,
+20 and administration of such items; provided, however, that nothing in this paragraph or in
+21 such regulations shall be construed to restrict any authority of nurses existing under other
+22 provisions of law;"
+23 SECTION 2.
+24 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended by revising
+25 paragraph (20) of Code Section 31-6-2, relating to definitions relative to state health planning
+26 and development, as follows:
+27 "(20) 'Home health agency' means a public agency or private organization, or a
+28 subdivision of such an agency or organization, which is primarily engaged in providing
+29 to individuals who are under a written plan of care of a physician treatment ordered by
+30 a physician or a licensed physician assistant acting pursuant to the authority of subsection
+31 (e.1) of Code Section 43-34-103, on a visiting basis in the places of residence used as
+32 such individuals' homes, part-time or intermittent nursing care provided by or under the
+33 supervision of a registered professional nurse, and one or more of the following services:
+34 (A) Physical therapy;
+35 (B) Occupational therapy;
+36 (C) Speech therapy;
+37 (D) Respiratory therapy;
+38 (E) Skilled nursing care;
+39 (D)(F) Medical social services under the direction of a physician or a licensed
+40 physician assistant acting pursuant to the authority of subsection (e.1) of Code
+41 Section 43-34-103; or
+42 (E)(G) Part-time or intermittent services of a home health aide."
+H. B. 54 (SUB)
+- 2 -
+25 LC 52 0773S
+43 SECTION 3.
+44 Such title is further amended by revising Code Section 31-7-150, relating to definitions, as
+45 follows:
+46 "31-7-150.
+47 As used in this article, the term:
+48 (1) 'Branch office' means a location or site, identified in the application or endorsement
+49 thereto, from which a home health agency provides services within a portion of the total
+50 geographic area served by the parent agency and which is part of the home health agency
+51 and is located sufficiently close to share administration, supervision, and services in a
+52 manner that renders it unnecessary for the branch independently to meet the requirements
+53 of this article.
+54 (1.1)(2) 'Department' means the Department of Community Health.
+55 (2)(3) 'Home health agency' means a public, nonprofit, or proprietary organization,
+56 whether owned or operated by one or more persons or legal entities, which is engaged in
+57 furnishing home health healthcare services.
+58 (3)(4) 'Home health healthcare services' means those items and services furnished to an
+59 individual according to a written plan of treatment signed by the patient's physician, or
+60 a licensed physician assistant acting pursuant to the authority of subsection (e.1) of Code
+61 Section 43-34-103; by a home health agency,; or by others under arrangement with the
+62 home health agency, on a visit or hourly basis, in a place of temporary or permanent
+63 residence used as the individual's home, as follows:
+64 (A) Part-time or intermittent skilled nursing care as ordered by a physician or a
+65 licensed physician assistant acting pursuant to the authority of subsection (e.1) of Code
+66 Section 43-34-103 and provided by or under the supervision of a registered nurse and
+67 at least one other service listed in subparagraphs (B) through (D) of this paragraph;
+68 (B) Physical, occupational, or speech therapy;
+69 (C) Medical social services; and
+H. B. 54 (SUB)
+- 3 -
+25 LC 52 0773S
+70 (D) Home health aide services.
+71 (4)(5) 'License' means a license issued by the department.
+72 (5)(6) 'Licensee' means the individual, corporation, or public entity with whom rests the
+73 ultimate responsibility for maintaining approved standards for the home health agency.
+74 (6)(7) 'Parent home health agency' means the agency that develops and maintains
+75 administrative controls of subunits or branch offices.
+76 (7)(8) 'Physician' means an individual currently licensed or authorized to practice
+77 medicine, surgery, or osteopathy in this state.
+78 (9) 'Physician assistant' means an individual licensed pursuant to Article 4 of Chapter 34
+79 of Title 43 and acting pursuant to the authority of subsection (e.1) of Code Section
+80 43-34-103.
+81 (8)(10) 'Plan of treatment' means a plan written, signed, and reviewed at least every two
+82 months by the patient's physician or a licensed physician assistant acting pursuant to the
+83 authority of subsection (e.1) of Code Section 43-34-103 prescribing items and services
+84 for the patient's condition.
+85 (9)(11) 'Registered nurse' means an individual who is currently licensed as a registered
+86 professional nurse in this state.
+87 (10)(12) 'Subunit' means a semiautonomous organization which serves patients in a
+88 geographic area different from that of the parent agency and which, by virtue of the
+89 distance between it and the parent agency, is judged incapable of sharing administration,
+90 supervision, and services on a daily basis with the parent agency and must shall,
+91 therefore, independently meet the licensing requirements for a home health agency and
+92 shall be separately licensed."
+H. B. 54 (SUB)
+- 4 -
+25 LC 52 0773S
+93 SECTION 4.
+94 Said title is further amended by revising Code Section 31-7-153, relating to standards for
+95 patient care and agency operation, regulations as to issuance, denial, suspension, or
+96 revocation of licenses, and hearings, as follows:
+97 "31-7-153.
+98 The department shall promulgate regulations which define standards for the care, treatment,
+99 health, safety, welfare, and comfort of patients served by home health agencies and for the
+100 maintenance and operation of home health agencies which will promote safe and adequate
+101 care and treatment of the patients. These regulations shall be no less stringent than those
+102 required for participation of home health agencies in the Title XVIII medicare Medicare
+103 program and shall include, but not be limited to, a provision requiring the agency to have
+104 policies established by a professional group which includes at least one physician and one
+105 registered nurse and appropriate representation from other professional disciplines;
+106 provisions governing the services the agency provides; provisions for the supervision of
+107 services by a physician, a licensed physician assistant, or a registered nurse, as appropriate,
+108 and maintenance of clinical records on all patients, including a plan of treatment prescribed
+109 by a physician. The department is authorized to issue, deny, suspend, or revoke licenses
+110 in accordance with regulations promulgated pursuant to this Code section. Such
+111 regulations shall also include hearing procedures related to denial, suspension, or
+112 revocation of licenses."
+113 SECTION 5.
+114 Said title is further amended by revising Code Section 31-7-154, relating to inspections, as
+115 follows:
+116 "31-7-154.
+117 Each home health agency for which a license has been issued shall be periodically
+118 inspected by an authorized representative of the department. Such inspections shall be for
+H. B. 54 (SUB)
+- 5 -
+25 LC 52 0773S
+119 the purpose of ensuring that this article is being followed. The department is directed to
+120 ensure by inspection that the licensee is providing quality care to its patients in accordance
+121 with the orders of the patient's physician or a licensed physician assistant; provided,
+122 however, that an agency shall be exempt from an additional on-site licensure inspection if
+123 certified in a federal program for reimbursement of medicare Medicare or Medicaid
+124 services."
+125 SECTION 6.
+126 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+127 is amended by revising paragraph (1) of subsection (b) of Code Section 43-34-23, relating
+128 to the delegation of authority to nurse or physician assistant, and by adding a new paragraph
+129 to read as follows:
+130 "(b)(1)(A) A physician may delegate the authority contained in subparagraph (B) of
+131 this paragraph (b)(1)(B) of this Code section to:
+132 (i) A licensed physician assistant in accordance with a job description; or
+133 (ii) A nurse recognized by the Georgia Board of Nursing as a certified nurse midwife,
+134 certified registered nurse anesthetist, certified nurse practitioner, or clinical nurse
+135 specialist in psychiatric/mental health in accordance with a nurse protocol.
+136 (B) A physician may delegate to those healthcare professionals identified in
+137 subparagraph (A) of this paragraph (b)(1)(A) of this Code section:
+138 (i) The authority to order controlled substances selected from a formulary of such
+139 drugs established by the board and the authority to order dangerous drugs, medical
+140 treatments, and diagnostic studies;
+141 (ii) The authority to request, receive, and sign for professional samples and to
+142 distribute professional samples to patients. The office or facility at which the
+143 healthcare professional identified in subparagraph (A) of this paragraph (b)(1)(A) of
+144 this Code section is working shall maintain a general list of the professional samples
+H. B. 54 (SUB)
+- 6 -
+25 LC 52 0773S
+145 approved by the delegating physician for request, receipt, and distribution by the
+146 healthcare professional identified in subparagraph (A) of this paragraph (b)(1)(A) of
+147 this Code section as well as a complete list of the specific number and dosage of each
+148 professional sample and medication voucher received. Professional samples that are
+149 distributed by a healthcare professional identified in subparagraph (A) of this
+150 paragraph (b)(1)(A) of this Code section shall be so noted in the patient's medical
+151 record. In addition to the requirements of this Code section, all professional samples
+152 shall be maintained as required by applicable state and federal laws and regulations;
+153 and
+154 (iii) The authority to sign, certify, and endorse all documents relating to healthcare
+155 provided to a patient within his or her scope of authorized practice, including, but not
+156 limited to, documents relating to physical examination forms of all state agencies and
+157 verification and evaluation forms of the Department of Human Services, the State
+158 Board of Education, local boards of education, the Department of Community Health,
+159 and the Department of Corrections; provided, however, that a healthcare professional
+160 identified in subparagraph (A) of this paragraph (b)(1)(A) of this Code section shall
+161 not have the authority to assign a percentage of a disability rating.
+162 (1.1) Healthcare professionals identified in subparagraph (b)(1)(A) of this paragraph
+163 must Code section shall complete biennial continuing education regarding the recognition
+164 and documentation of the causes of death and appropriate execution of death certificates,
+165 as approved by the board for a licensed physician assistant as identified in
+166 division (b)(1)(A)(i) of this Code section or by the Board of Nursing for a healthcare
+167 professional identified in division (b)(1)(A)(ii) of this Code section."
+H. B. 54 (SUB)
+- 7 -
+25 LC 52 0773S
+168 SECTION 7.
+169 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+170 amended by revising paragraph (1) of subsection (a) of Code Section 48-7-29.2, relating to
+171 tax credits for qualified caregiving expenses, as follows:
+172 "(1) 'Qualified caregiving expenses' means payments by the taxpayer for home health
+173 agency services, personal care services, personal care attendant services, homemaker
+174 services, adult day care, respite care, or healthcare equipment and supplies which
+175 equipment and supplies have been determined to be medically necessary by a physician
+176 or a licensed physician assistant acting pursuant to the authority of subsection (e.1) of
+177 Code Section 43-34-103, which services, care, or equipment and supplies are:
+178 (A) Provided to the qualifying family member; and
+179 (B) Purchased or obtained from an organization or individual not related to the
+180 taxpayer or the qualifying family member."
+181 SECTION 8.
+182 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 54 (SUB)
+- 8 -
+[DELETED: 5L0,7,3,hthr4,2,hn a o h p a b a r a t s a t a l p a t o h h b r p ( o C S 1 r t t s]
+[DELETED: 5L  ' h a m a p a o p o o   M s s u t d o a p o a l a a p t t a o s ( o C]
+[DELETED: 5L]
+[DELETED: 5L  ' h h a m t a t d a m  ' m a i c l o a t p a s o a d b w t p a a m s]
+[DELETED: 5L c a a o r a t i d s o n a a r f o p d a w r p p t t C s  S s a i h p r t d s o h h a f w a l h b i s b p]
+[DELETED: 5L l i a f p f r o m M o M  A p m d t t h p i i t r p s t p  T o o f a w t]
+[DELETED: 5L b a h p i i s ( o t a b t b f a l p a a i i]
+[DELETED: 5L a d c r c o h e a s w  P o o f a o o i n r t t]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0773S
+House Bill 54 (COMMITTEE SUBSTITUTE)
+By: Representatives Clark of the 100th, Jones of the 47th, Powell of the 33rd, Barrett of the
+24th, Mathiak of the 82nd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 16, 31, 43, and 48 of the Official Code of Georgia Annotated, relating to
+2 crimes and offenses, health, professions and businesses, and revenue and taxation,
+3 respectively, so as to authorize licensed physician assistants to order home healthcare
+4 services to patients of licensed home health agencies; to provide for definitions; to provide
+5 for the approval of continuing education regarding death certificates; to provide for tax
+6 credits for qualified caregiving expenses to include licensed physicians assistants; to provide
+7 for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Title 16 of the Official Code of Georgia Annotated, relating to crimes and offenses, is
+11 amended by revising paragraph (4.2) of Code Section 16-13-72, relating to the sale,
+12 distribution, or possession of dangerous drugs, as follows:
+13 "(4.2) A registered professional nurse licensed under Article 1 of Chapter 26 of Title 43
+14 who is employed or engaged by a licensed home health agency may possess sterile saline,
+15 sterile water, and diluted heparin for use as intravenous maintenance for use in a home
+16 health setting, and such nurse may administer such items to patients of the home health
+H. B. 54 (SUB)
+- 1 -
+
+25 LC 52 0773S
+17 agency upon the order of a licensed physician or a licensed physician assistant acting
+18 pursuant to the authority of subsection (e.1) of Code Section 43-34-103. The State Board
+19 of Pharmacy shall be authorized to adopt regulations governing the storage, quantity, use,
+20 and administration of such items; provided, however, that nothing in this paragraph or in
+21 such regulations shall be construed to restrict any authority of nurses existing under other
+22 provisions of law;"
+23 SECTION 2.
+24 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended by revising
+25 paragraph (20) of Code Section 31-6-2, relating to definitions relative to state health planning
+26 and development, as follows:
+27 "(20) 'Home health agency' means a public agency or private organization, or a
+28 subdivision of such an agency or organization, which is primarily engaged in providing
+29 to individuals who are under a written plan of care of a physician treatment ordered by
+30 a physician or a licensed physician assistant acting pursuant to the authority of subsection
+31 (e.1) of Code Section 43-34-103, on a visiting basis in the places of residence used as
+32 such individuals' homes, part-time or intermittent nursing care provided by or under the
+33 supervision of a registered professional nurse, and one or more of the following services:
+34 (A) Physical therapy;
+35 (B) Occupational therapy;
+36 (C) Speech therapy;
+37 (D) Respiratory therapy;
+38 (E) Skilled nursing care;
+39 (D)(F) Medical social services under the direction of a physician or a licensed
+40 physician assistant acting pursuant to the authority of subsection (e.1) of Code
+41 Section 43-34-103; or
+42 (E)(G) Part-time or intermittent services of a home health aide."
+H. B. 54 (SUB)
+- 2 -
+
+25 LC 52 0773S
+43 SECTION 3.
+44 Such title is further amended by revising Code Section 31-7-150, relating to definitions, as
+45 follows:
+46 "31-7-150.
+47 As used in this article, the term:
+48 (1) 'Branch office' means a location or site, identified in the application or endorsement
+49 thereto, from which a home health agency provides services within a portion of the total
+50 geographic area served by the parent agency and which is part of the home health agency
+51 and is located sufficiently close to share administration, supervision, and services in a
+52 manner that renders it unnecessary for the branch independently to meet the requirements
+53 of this article.
+54 (1.1)(2) 'Department' means the Department of Community Health.
+55 (2)(3) 'Home health agency' means a public, nonprofit, or proprietary organization,
+56 whether owned or operated by one or more persons or legal entities, which is engaged in
+57 furnishing home health healthcare services.
+58 (3)(4) 'Home health healthcare services' means those items and services furnished to an
+59 individual according to a written plan of treatment signed by the patient's physician, or
+60 a licensed physician assistant acting pursuant to the authority of subsection (e.1) of Code
+61 Section 43-34-103; by a home health agency,; or by others under arrangement with the
+62 home health agency, on a visit or hourly basis, in a place of temporary or permanent
+63 residence used as the individual's home, as follows:
+64 (A) Part-time or intermittent skilled nursing care as ordered by a physician or a
+65 licensed physician assistant acting pursuant to the authority of subsection (e.1) of Code
+66 Section 43-34-103 and provided by or under the supervision of a registered nurse and
+67 at least one other service listed in subparagraphs (B) through (D) of this paragraph;
+68 (B) Physical, occupational, or speech therapy;
+69 (C) Medical social services; and
+H. B. 54 (SUB)
+- 3 -
+
+25 LC 52 0773S
+70 (D) Home health aide services.
+71 (4)(5) 'License' means a license issued by the department.
+72 (5)(6) 'Licensee' means the individual, corporation, or public entity with whom rests the
+73 ultimate responsibility for maintaining approved standards for the home health agency.
+74 (6)(7) 'Parent home health agency' means the agency that develops and maintains
+75 administrative controls of subunits or branch offices.
+76 (7)(8) 'Physician' means an individual currently licensed or authorized to practice
+77 medicine, surgery, or osteopathy in this state.
+78 (9) 'Physician assistant' means an individual licensed pursuant to Article 4 of Chapter 34
+79 of Title 43 and acting pursuant to the authority of subsection (e.1) of Code Section
+80 43-34-103.
+81 (8)(10) 'Plan of treatment' means a plan written, signed, and reviewed at least every two
+82 months by the patient's physician or a licensed physician assistant acting pursuant to the
+83 authority of subsection (e.1) of Code Section 43-34-103 prescribing items and services
+84 for the patient's condition.
+85 (9)(11) 'Registered nurse' means an individual who is currently licensed as a registered
+86 professional nurse in this state.
+87 (10)(12) 'Subunit' means a semiautonomous organization which serves patients in a
+88 geographic area different from that of the parent agency and which, by virtue of the
+89 distance between it and the parent agency, is judged incapable of sharing administration,
+90 supervision, and services on a daily basis with the parent agency and must shall,
+91 therefore, independently meet the licensing requirements for a home health agency and
+92 shall be separately licensed."
+H. B. 54 (SUB)
+- 4 -
+
+25 LC 52 0773S
+93 SECTION 4.
+94 Said title is further amended by revising Code Section 31-7-153, relating to standards for
+95 patient care and agency operation, regulations as to issuance, denial, suspension, or
+96 revocation of licenses, and hearings, as follows:
+97 "31-7-153.
+98 The department shall promulgate regulations which define standards for the care, treatment,
+99 health, safety, welfare, and comfort of patients served by home health agencies and for the
+100 maintenance and operation of home health agencies which will promote safe and adequate
+101 care and treatment of the patients. These regulations shall be no less stringent than those
+102 required for participation of home health agencies in the Title XVIII medicare Medicare
+103 program and shall include, but not be limited to, a provision requiring the agency to have
+104 policies established by a professional group which includes at least one physician and one
+105 registered nurse and appropriate representation from other professional disciplines;
+106 provisions governing the services the agency provides; provisions for the supervision of
+107 services by a physician, a licensed physician assistant, or a registered nurse, as appropriate,
+108 and maintenance of clinical records on all patients, including a plan of treatment prescribed
+109 by a physician. The department is authorized to issue, deny, suspend, or revoke licenses
+110 in accordance with regulations promulgated pursuant to this Code section. Such
+111 regulations shall also include hearing procedures related to denial, suspension, or
+112 revocation of licenses."
+113 SECTION 5.
+114 Said title is further amended by revising Code Section 31-7-154, relating to inspections, as
+115 follows:
+116 "31-7-154.
+117 Each home health agency for which a license has been issued shall be periodically
+118 inspected by an authorized representative of the department. Such inspections shall be for
+H. B. 54 (SUB)
+- 5 -
+
+25 LC 52 0773S
+119 the purpose of ensuring that this article is being followed. The department is directed to
+120 ensure by inspection that the licensee is providing quality care to its patients in accordance
+121 with the orders of the patient's physician or a licensed physician assistant; provided,
+122 however, that an agency shall be exempt from an additional on-site licensure inspection if
+123 certified in a federal program for reimbursement of medicare Medicare or Medicaid
+124 services."
+125 SECTION 6.
+126 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+127 is amended by revising paragraph (1) of subsection (b) of Code Section 43-34-23, relating
+128 to the delegation of authority to nurse or physician assistant, and by adding a new paragraph
+129 to read as follows:
+130 "(b)(1)(A) A physician may delegate the authority contained in subparagraph (B) of
+131 this paragraph (b)(1)(B) of this Code section to:
+132 (i) A licensed physician assistant in accordance with a job description; or
+133 (ii) A nurse recognized by the Georgia Board of Nursing as a certified nurse midwife,
+134 certified registered nurse anesthetist, certified nurse practitioner, or clinical nurse
+135 specialist in psychiatric/mental health in accordance with a nurse protocol.
+136 (B) A physician may delegate to those healthcare professionals identified in
+137 subparagraph (A) of this paragraph (b)(1)(A) of this Code section:
+138 (i) The authority to order controlled substances selected from a formulary of such
+139 drugs established by the board and the authority to order dangerous drugs, medical
+140 treatments, and diagnostic studies;
+141 (ii) The authority to request, receive, and sign for professional samples and to
+142 distribute professional samples to patients. The office or facility at which the
+143 healthcare professional identified in subparagraph (A) of this paragraph (b)(1)(A) of
+144 this Code section is working shall maintain a general list of the professional samples
+H. B. 54 (SUB)
+- 6 -
+
+25 LC 52 0773S
+145 approved by the delegating physician for request, receipt, and distribution by the
+146 healthcare professional identified in subparagraph (A) of this paragraph (b)(1)(A) of
+147 this Code section as well as a complete list of the specific number and dosage of each
+148 professional sample and medication voucher received. Professional samples that are
+149 distributed by a healthcare professional identified in subparagraph (A) of this
+150 paragraph (b)(1)(A) of this Code section shall be so noted in the patient's medical
+151 record. In addition to the requirements of this Code section, all professional samples
+152 shall be maintained as required by applicable state and federal laws and regulations;
+153 and
+154 (iii) The authority to sign, certify, and endorse all documents relating to healthcare
+155 provided to a patient within his or her scope of authorized practice, including, but not
+156 limited to, documents relating to physical examination forms of all state agencies and
+157 verification and evaluation forms of the Department of Human Services, the State
+158 Board of Education, local boards of education, the Department of Community Health,
+159 and the Department of Corrections; provided, however, that a healthcare professional
+160 identified in subparagraph (A) of this paragraph (b)(1)(A) of this Code section shall
+161 not have the authority to assign a percentage of a disability rating.
+162 (1.1) Healthcare professionals identified in subparagraph (b)(1)(A) of this paragraph
+163 must Code section shall complete biennial continuing education regarding the recognition
+164 and documentation of the causes of death and appropriate execution of death certificates,
+165 as approved by the board for a licensed physician assistant as identified in
+166 division (b)(1)(A)(i) of this Code section or by the Board of Nursing for a healthcare
+167 professional identified in division (b)(1)(A)(ii) of this Code section."
+H. B. 54 (SUB)
+- 7 -
+
+25 LC 52 0773S
+168 SECTION 7.
+169 Title 48 of the Official Code of Georgia Annotated, relating to revenue and taxation, is
+170 amended by revising paragraph (1) of subsection (a) of Code Section 48-7-29.2, relating to
+171 tax credits for qualified caregiving expenses, as follows:
+172 "(1) 'Qualified caregiving expenses' means payments by the taxpayer for home health
+173 agency services, personal care services, personal care attendant services, homemaker
+174 services, adult day care, respite care, or healthcare equipment and supplies which
+175 equipment and supplies have been determined to be medically necessary by a physician
+176 or a licensed physician assistant acting pursuant to the authority of subsection (e.1) of
+177 Code Section 43-34-103, which services, care, or equipment and supplies are:
+178 (A) Provided to the qualifying family member; and
+179 (B) Purchased or obtained from an organization or individual not related to the
+180 taxpayer or the qualifying family member."
+181 SECTION 8.
+182 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 54 (SUB)
+- 8 -
+
+[DELETED: 5L0,7,3,hthr4,2,hn a o h p a b a r a t s a t a l p a t o h h b r p ( o C S 1 r t t s]
+[DELETED: 5L  ' h a m a p a o p o o   M s s u t d o a p o a l a a p t t a o s ( o C]
+[DELETED: 5L]
+[DELETED: 5L  ' h h a m t a t d a m  ' m a i c l o a t p a s o a d b w t p a a m s]
+[DELETED: 5L c a a o r a t i d s o n a a r f o p d a w r p p t t C s  S s a i h p r t d s o h h a f w a l h b i s b p]
+[DELETED: 5L l i a f p f r o m M o M  A p m d t t h p i i t r p s t p  T o o f a w t]
+[DELETED: 5L b a h p i i s ( o t a b t b f a l p a a i i]
+[DELETED: 5L a d c r c o h e a s w  P o o f a o o i n r t t]

@@ -1,0 +1,271 @@
+Title: Senate Bill 64
+Official Title: Senate Bill 64
+Number of Sections: 1
+Source: versions - As introduced LC 55 0433
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0433
+By: Senators Dixon of the 45th, Albers of the 56th, Gooch of the 51st, Robertson of the 29th,
+Hickman of the 4th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 36 and 50 of the Official Code of Georgia Annotated, relating to local
+2 government and state government, respectively, so as to prohibit certain transactions between
+3 government entities and certain foreign persons; to prohibit government entities from
+4 purchasing or acquiring foreign unmanned aircraft systems; to prohibit the use of state funds
+5 in connection with such unmanned aircraft systems; to prohibit government entities from
+6 operating such unmanned aircraft systems; to prohibit foreign adversaries from submitting
+7 a proposal for a contract with a state agency for goods or services; to revise and provide for
+8 definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Title 36 of the Official Code of Georgia Annotated, relating to local government, is amended
+12 by adding a new Code section to read as follows:
+13 "36-84-2.
+14 (a) As used in this Code section, the term:
+15 (1) 'Covered foreign entity' means an individual, business entity, or foreign government,
+16 or any subsidiary or affiliate thereof, that is:
+S. B. 64
+- 1 -
+25 LC 55 0433
+17 (A) Domiciled in the People's Republic of China or the Russian Federation; and
+18 (B) Under the influence or control of the government of the People's Republic of China
+19 or the Russian Federation.
+20 (2) 'Local government entity' means any political subdivision of this state or any
+21 department, agency, board, commission, or authority of any such political subdivision.
+22 (3) 'Small unmanned aircraft system' means an unmanned, powered aircraft that:
+23 (A) Is operated without the possibility of direct human intervention from within or on
+24 the aircraft;
+25 (B) Can be expendable or recoverable; and
+26 (C) Weighs less than 55 pounds, including the weight of anything attached to or carried
+27 by the aircraft.
+28 (b) No local government entity shall purchase or otherwise acquire a small unmanned
+29 aircraft system that is manufactured or assembled by a covered foreign entity.
+30 (c) No state funds made available to any local government entity shall be used in
+31 connection with a small unmanned aircraft system that is manufactured or assembled by
+32 a covered foreign entity.
+33 (d) On or after January 1, 2026, no local government entity shall operate a small
+34 unmanned aircraft system that is manufactured or assembled by a covered foreign entity."
+35 SECTION 2.
+36 Title 50 of the Official Code of Georgia Annotated, relating to state government, is amended
+37 by revising Code Section 50-5-84.2, relating to contracting with companies owned by China,
+38 as follows:
+39 "50-5-84.2.
+40 (a) As used in this Code section, the term:
+41 (1) 'Company' means any sole proprietorship, organization, association, corporation,
+42 partnership, joint venture, limited partnership, limited liability partnership, limited
+S. B. 64
+- 2 -
+25 LC 55 0433
+43 liability company, or other entity or business association, including all wholly owned
+44 subsidiaries, majority owned subsidiaries, or parent companies, or affiliates of such
+45 entities or business associations, that exists for the purpose of making profit.
+46 (2) 'Company of concern' means a company in which the government of China has an
+47 ownership stake.
+48 (3) 'Foreign adversary' means the:
+49 (A) Republic of Cuba (Cuba);
+50 (B) Islamic Republic of Iran (Iran);
+51 (C) Democratic People's Republic of Korea (North Korea);
+52 (D) Russian Federation (Russia); and
+53 (E) Venezuelan politician Nicolás Maduro (Maduro Regime).
+54 (4) 'Government of China' means the People's Republic of China led by the Chinese
+55 Communist Party.
+56 (3)(5) 'Scrutinized company' means any company owned or operated by the government
+57 of China a foreign adversary.
+58 (b) A scrutinized company shall be ineligible to, and shall not, bid on or submit a proposal
+59 for a contract with a state agency for goods or services.
+60 (c) A company of concern shall be ineligible to, and shall not, bid on or submit a proposal
+61 for a contract, directly or through a third-party seller, with a state agency for goods or
+62 services, including, but not limited to, a contract for the procurement or purchase of
+63 computers, printers, connecting cables, or interoperable videoconferencing services used
+64 in connection with an office environment.
+65 (d) A state agency shall require a company that submits a bid or proposal with respect to
+66 a contract for goods or services to certify that the company is not a scrutinized company
+67 or a company of concern.
+68 (d)(e) If the Department of Administrative Services determines that a company has
+69 submitted a false certification under subsection (c) (d) of this Code section:
+S. B. 64
+- 3 -
+25 LC 55 0433
+70 (1) The company shall be liable for a civil penalty in an amount that is equal to the
+71 greater of $250,000.00 or twice the amount of the contract for which a bid or proposal
+72 was submitted;
+73 (2) The state agency or the Department of Administrative Services shall terminate the
+74 contract with the company; and
+75 (3) The company shall be ineligible to, and shall not, bid on a state contract."
+76 SECTION 3.
+77 Said title is further amended by adding new Code section to read as follows:
+78 "50-5-84.3.
+79 (a) As used in this Code section, the term:
+80 (1) 'Covered foreign entity' means an individual, business entity, or foreign government,
+81 or any subsidiary or affiliate thereof, that is:
+82 (A) Domiciled in the People's Republic of China or the Russian Federation; and
+83 (B) Under the influence or control of the government of the People's Republic of China
+84 or the Russian Federation.
+85 (2) 'Small unmanned aircraft system' means an unmanned, powered aircraft that:
+86 (A) Is operated without the possibility of direct human intervention from within or on
+87 the aircraft;
+88 (B) Can be expendable or recoverable; and
+89 (C) Weighs less than 55 pounds, including the weight of anything attached to or carried
+90 by the aircraft.
+91 (3) 'State agency' means a department, agency, board, commission, or authority of state
+92 government.
+93 (b) No state agency shall purchase or otherwise acquire a small unmanned aircraft system
+94 that is manufactured or assembled by a covered foreign entity.
+S. B. 64
+- 4 -
+25 LC 55 0433
+95 (c) No state funds made available to any state agency shall be used in connection with a
+96 small unmanned aircraft system that is manufactured or assembled by a covered foreign
+97 entity.
+98 (d) On or after January 1, 2026, no state agency shall operate a small unmanned aircraft
+99 system that is manufactured or assembled by a covered foreign entity."
+100 SECTION 4.
+101 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 64
+- 5 -
+[DELETED: 5L e a c f p t p g e f]
+[DELETED: 5L  ' g e m a p s o t s o a  N s f m a t a l g e s b u i  O o a J 1 2 n l g e s o a s j v l p l l p l]
+[DELETED: 5L  I t D o A S d t a c h]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0433
+Senate Bill 64
+By: Senators Dixon of the 45th, Albers of the 56th, Gooch of the 51st, Robertson of the 29th,
+Hickman of the 4th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 36 and 50 of the Official Code of Georgia Annotated, relating to local
+2 government and state government, respectively, so as to prohibit certain transactions between
+3 government entities and certain foreign persons; to prohibit government entities from
+4 purchasing or acquiring foreign unmanned aircraft systems; to prohibit the use of state funds
+5 in connection with such unmanned aircraft systems; to prohibit government entities from
+6 operating such unmanned aircraft systems; to prohibit foreign adversaries from submitting
+7 a proposal for a contract with a state agency for goods or services; to revise and provide for
+8 definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Title 36 of the Official Code of Georgia Annotated, relating to local government, is amended
+12 by adding a new Code section to read as follows:
+13 "36-84-2.
+14 (a) As used in this Code section, the term:
+15 (1) 'Covered foreign entity' means an individual, business entity, or foreign government,
+16 or any subsidiary or affiliate thereof, that is:
+S. B. 64
+- 1 -
+
+25 LC 55 0433
+17 (A) Domiciled in the People's Republic of China or the Russian Federation; and
+18 (B) Under the influence or control of the government of the People's Republic of China
+19 or the Russian Federation.
+20 (2) 'Local government entity' means any political subdivision of this state or any
+21 department, agency, board, commission, or authority of any such political subdivision.
+22 (3) 'Small unmanned aircraft system' means an unmanned, powered aircraft that:
+23 (A) Is operated without the possibility of direct human intervention from within or on
+24 the aircraft;
+25 (B) Can be expendable or recoverable; and
+26 (C) Weighs less than 55 pounds, including the weight of anything attached to or carried
+27 by the aircraft.
+28 (b) No local government entity shall purchase or otherwise acquire a small unmanned
+29 aircraft system that is manufactured or assembled by a covered foreign entity.
+30 (c) No state funds made available to any local government entity shall be used in
+31 connection with a small unmanned aircraft system that is manufactured or assembled by
+32 a covered foreign entity.
+33 (d) On or after January 1, 2026, no local government entity shall operate a small
+34 unmanned aircraft system that is manufactured or assembled by a covered foreign entity."
+35 SECTION 2.
+36 Title 50 of the Official Code of Georgia Annotated, relating to state government, is amended
+37 by revising Code Section 50-5-84.2, relating to contracting with companies owned by China,
+38 as follows:
+39 "50-5-84.2.
+40 (a) As used in this Code section, the term:
+41 (1) 'Company' means any sole proprietorship, organization, association, corporation,
+42 partnership, joint venture, limited partnership, limited liability partnership, limited
+S. B. 64
+- 2 -
+
+25 LC 55 0433
+43 liability company, or other entity or business association, including all wholly owned
+44 subsidiaries, majority owned subsidiaries, or parent companies, or affiliates of such
+45 entities or business associations, that exists for the purpose of making profit.
+46 (2) 'Company of concern' means a company in which the government of China has an
+47 ownership stake.
+48 (3) 'Foreign adversary' means the:
+49 (A) Republic of Cuba (Cuba);
+50 (B) Islamic Republic of Iran (Iran);
+51 (C) Democratic People's Republic of Korea (North Korea);
+52 (D) Russian Federation (Russia); and
+53 (E) Venezuelan politician Nicolás Maduro (Maduro Regime).
+54 (4) 'Government of China' means the People's Republic of China led by the Chinese
+55 Communist Party.
+56 (3)(5) 'Scrutinized company' means any company owned or operated by the government
+57 of China a foreign adversary.
+58 (b) A scrutinized company shall be ineligible to, and shall not, bid on or submit a proposal
+59 for a contract with a state agency for goods or services.
+60 (c) A company of concern shall be ineligible to, and shall not, bid on or submit a proposal
+61 for a contract, directly or through a third-party seller, with a state agency for goods or
+62 services, including, but not limited to, a contract for the procurement or purchase of
+63 computers, printers, connecting cables, or interoperable videoconferencing services used
+64 in connection with an office environment.
+65 (d) A state agency shall require a company that submits a bid or proposal with respect to
+66 a contract for goods or services to certify that the company is not a scrutinized company
+67 or a company of concern.
+68 (d)(e) If the Department of Administrative Services determines that a company has
+69 submitted a false certification under subsection (c) (d) of this Code section:
+S. B. 64
+- 3 -
+
+25 LC 55 0433
+70 (1) The company shall be liable for a civil penalty in an amount that is equal to the
+71 greater of $250,000.00 or twice the amount of the contract for which a bid or proposal
+72 was submitted;
+73 (2) The state agency or the Department of Administrative Services shall terminate the
+74 contract with the company; and
+75 (3) The company shall be ineligible to, and shall not, bid on a state contract."
+76 SECTION 3.
+77 Said title is further amended by adding new Code section to read as follows:
+78 "50-5-84.3.
+79 (a) As used in this Code section, the term:
+80 (1) 'Covered foreign entity' means an individual, business entity, or foreign government,
+81 or any subsidiary or affiliate thereof, that is:
+82 (A) Domiciled in the People's Republic of China or the Russian Federation; and
+83 (B) Under the influence or control of the government of the People's Republic of China
+84 or the Russian Federation.
+85 (2) 'Small unmanned aircraft system' means an unmanned, powered aircraft that:
+86 (A) Is operated without the possibility of direct human intervention from within or on
+87 the aircraft;
+88 (B) Can be expendable or recoverable; and
+89 (C) Weighs less than 55 pounds, including the weight of anything attached to or carried
+90 by the aircraft.
+91 (3) 'State agency' means a department, agency, board, commission, or authority of state
+92 government.
+93 (b) No state agency shall purchase or otherwise acquire a small unmanned aircraft system
+94 that is manufactured or assembled by a covered foreign entity.
+S. B. 64
+- 4 -
+
+25 LC 55 0433
+95 (c) No state funds made available to any state agency shall be used in connection with a
+96 small unmanned aircraft system that is manufactured or assembled by a covered foreign
+97 entity.
+98 (d) On or after January 1, 2026, no state agency shall operate a small unmanned aircraft
+99 system that is manufactured or assembled by a covered foreign entity."
+100 SECTION 4.
+101 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 64
+- 5 -
+
+[DELETED: 5L e a c f p t p g e f]
+[DELETED: 5L  ' g e m a p s o t s o a  N s f m a t a l g e s b u i  O o a J 1 2 n l g e s o a s j v l p l l p l]
+[DELETED: 5L  I t D o A S d t a c h]
+[DELETED: 5L]
+[DELETED: 5L]

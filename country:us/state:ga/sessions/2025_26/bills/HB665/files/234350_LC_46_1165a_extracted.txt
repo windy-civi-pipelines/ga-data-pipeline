@@ -1,0 +1,1202 @@
+Title: House Bill 665
+Official Title: House Bill 665
+Number of Sections: 1
+Source: versions - LC 46 1165/a
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+25 LC 46 1165
+By: Representatives McCollum of the 30th, Cooper of the 45th, Taylor of the 173rd, and
+Efstration of the 104th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 2A, Chapter 3, and Chapter 5 of Title 31 of the Official Code
+2 of Georgia Annotated, relating to general provisions of the Department of Public Health,
+3 county boards of health, and administration and enforcement, respectively, so as to transfer
+4 all authorities and responsibilities relating to environmental health from the county boards
+5 of health to the Department of Public Health; to provide for the continuation of all contracts
+6 or agreements; to provide that all rights, duties, and obligations related to environmental
+7 health are transferred; to transfer certain employees; to remove from county boards of health
+8 the powers and functions relating to environmental health; to describe responsibilities and
+9 authorities of the Department of Public Health related to environmental health; to provide
+10 for definitions; to provide for statutory construction; to amend Code Section 12-5-7 of the
+11 Official Code of Georgia Annotated, relating to local variances from state restrictions on
+12 outdoor watering, limitations on outdoor irrigation, and exceptions, so as to make a
+13 confirming revision; to provide for related matters; to provide for contingent effectiveness
+14 upon appropriation of funds; to repeal conflicting laws; and for other purposes.
+15 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 665
+- 1 -
+25 LC 46 1165
+16 SECTION 1.
+17 Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to
+18 general provisions of the Department of Public Health, is amended by adding a new Code
+19 section to read as follows:
+20 "31-2A-2.1.
+21 On and after January 1, 2028, the Department of Public Health shall be the successor to the
+22 duties of and shall carry out all of the functions and exercise all of the powers formerly
+23 held by the county boards of health pursuant to this article with regard to environmental
+24 health. The rights, privileges, entitlements, and duties of parties to contracts, leases,
+25 agreements, and other transactions related to environmental health entered into before
+26 January 1, 2028, by the county boards of health shall continue to exist and will, by
+27 operation of law, be assumed by the Department of Public Health on January 1, 2028; and
+28 none of these rights, privileges, entitlements, and duties are impaired or diminished by
+29 reason of the transfer of certain functions to the Department of Public Health. In all
+30 instances concerning environmental health, the Department of Public Health shall be
+31 substituted for the county boards of health, and the Department of Public Health shall
+32 succeed to the rights and duties under any such contracts, leases, agreements, and other
+33 transactions. All rules and regulations under the jurisdiction of the county boards of public
+34 health prior to January 1, 2028, will, by operation of law, be assumed by the Department
+35 of Public Health on January 1, 2028, unless such rules and regulations contradict the laws
+36 of this state or rules and regulations promulgated by the commissioner of public health.
+37 All employees of the county boards of public health whose work involves environmental
+38 health shall be transferred to the employment of the Department of Public Health, effective
+39 January 1, 2028. Notwithstanding any provision of law to the contrary, the accrued leave,
+40 rate of accrual, and any other aspects of employment benefits of such employees shall
+41 transfer to the Department of Public Health. The State Personnel Board and the Employees'
+H. B. 665
+- 2 -
+25 LC 46 1165
+42 Retirement System of Georgia shall be authorized to implement this Code section through
+43 the promulgation of rules and regulations."
+44 SECTION 2.
+45 Said article is further amended by revising Code Section 31-2A-11, relating to standards for
+46 sewage management systems, as follows:
+47 "31-2A-11.
+48 (a) As used in this Code section, the term:
+49 (1) 'Chamber system' means a system of chambers with each chamber being a molded
+50 polyolefin plastic, arch shaped, hollow structure with an exposed bottom area and solid
+51 top and louvered sidewall for infiltration of effluent into adjoining bottom and sidewall
+52 soil areas. Chambers may be of different sizes and configurations to obtain desired
+53 surface areas.
+54 (2) 'Conventional system' means a system traditionally used composed of perforated pipe
+55 surrounded by gravel or stone masking for the infiltration of effluent into adjoining
+56 bottom and side soil areas.
+57 (3) 'Existing on-site sewage management system' means a sewage management system
+58 previously constructed and currently functioning on the premises of the examined
+59 property.
+60 (3)(4) 'On-site sewage management system' means a sewage management system other
+61 than a public or community sewage treatment system serving one or more buildings,
+62 mobile homes, recreational vehicles, residences, or other facilities designed or used for
+63 human occupancy or congregation. Such term shall include, without limitation,
+64 conventional and chamber septic tank systems, privies, and experimental and alternative
+65 on-site sewage management systems which are designed to be physically incapable of a
+66 surface discharge of effluent that may be approved by the department.
+H. B. 665
+- 3 -
+25 LC 46 1165
+67 (4)(5) 'Prior approved system' means only a chamber system or conventional system or
+68 component of such system which is designed to be physically incapable of a surface
+69 discharge of effluent and which was properly approved pursuant to
+70 subparagraph (a)(2)(B) of this Code section, as such Code section became law on
+71 April 19, 1994, for use according to manufacturers' recommendations, prior to
+72 April 14, 1997.
+73 (5)(6) 'Unsatisfactory service' means documented substandard performance as compared
+74 to other approved systems or components.
+75 (b) The department shall have the authority as it deems necessary and proper to adopt
+76 state-wide regulations for on-site sewage management systems, including but not limited
+77 to experimental and alternative systems. The department is authorized to require that any
+78 such on-site sewage management system be examined and approved prior to allowing the
+79 use of such system in the state; provided, however, that any prior approved system shall
+80 continue to be approved for installation in every county of the state pursuant to the
+81 manufacturer's recommendations, including sizing of no less than 50 percent of trench
+82 length of a conventional system designed for equal flows in similar soil conditions. Upon
+83 written request of one-half or more of the health districts in the state, the department is
+84 authorized to require the reexamination of any such system or component thereof, provided
+85 that documentation is submitted indicating unsatisfactory service of such system or
+86 component thereof. Before any such examination or reexamination, the department may
+87 require the person, persons, or organization manufacturing or marketing the system to
+88 reimburse the department or its agent for the reasonable expenses of such examination.
+89 (c)(1) This subsection shall not be construed to prohibit the governing authority of any
+90 county or municipality in the state from adopting and enforcing codes at the local level;
+91 provided, however, that no county, municipality, or state agency may require any
+92 certified septic tank installer or certified septic tank pumper who has executed and
+93 deposited a bond as authorized in paragraph (2) of this subsection to give or furnish or
+H. B. 665
+- 4 -
+25 LC 46 1165
+94 execute any code compliance bond or similar bond for the purpose of ensuring that all
+95 construction, installation, or modifications are made or completed in compliance with the
+96 county or municipal ordinances or building and construction codes.
+97 (2) In order to protect the public from damages arising from any work by a certified
+98 septic tank installer or certified septic tank pumper that fails to comply with any state
+99 construction codes or with the ordinances or building and construction codes adopted by
+100 any county or municipal corporation, any such certified septic tank installer or certified
+101 septic tank pumper may execute and deposit with the judge of the probate court in the
+102 county of his or her principal place of business a bond in the sum of $10,000.00. Such
+103 bond shall be a cash bond of $10,000.00 or executed by a surety authorized and qualified
+104 to write surety bonds in the State of Georgia and shall be approved by the local county
+105 or municipal health department. Such bond shall be conditioned upon all work done or
+106 supervised by such certificate holder complying with the provisions of any state
+107 construction codes or any ordinances or building and construction codes of any county
+108 or municipal corporation wherein the work is performed. Action on such bond may be
+109 brought against the principal and surety thereon in the name of and for the benefit of any
+110 person who suffers damages as a consequence of said certificate holder's work not
+111 conforming to the requirements of any ordinances or building and construction codes;
+112 provided, however, that the aggregate liability of the surety to all persons so damaged
+113 shall in no event exceed the sum of such bond.
+114 (3) In any case where a bond is required under this subsection, the certified septic tank
+115 installer or certified septic tank pumper shall file a copy of the bond with the county or
+116 municipal health department in the political subdivision wherein the work is being
+117 performed.
+118 (4) The provisions of this subsection shall not apply to or affect any bonding
+119 requirements involving contracts for public works as provided in Chapter 10 of Title 13.
+H. B. 665
+- 5 -
+25 LC 46 1165
+120 (d) This Code section does not restrict the work of a plumber licensed by the State
+121 Construction Industry Licensing Board to access any on-site sewage management system
+122 for the purpose of servicing or repairing any plumbing system or connection to the on-site
+123 sewage management system.
+124 (e)(1) Any department official or other individual certified by the department to evaluate
+125 the status of a prospective or an existing on-site sewage management system shall do so
+126 by using an evaluation form provided by the department. Such evaluation shall follow
+127 standards set by the department. Completed evaluation forms shall be submitted to the
+128 local health department for record-keeping purposes.
+129 (2) Any county or municipal governing authority, mortgage company, or other
+130 requesting entity shall accept an existing on-site sewage management performance
+131 evaluation form from any individual authorized to complete such evaluation pursuant to
+132 paragraph (1) of this subsection."
+133 SECTION 3.
+134 Chapter 3 of Title 31 of the Official Code of Georgia Annotated, relating to county boards
+135 of health, is amended by adding a new Code section to read as follows:
+136 "31-3-1.1.
+137 As used in this chapter, the term environmental health' means the science and practice of
+138 preventing human injury and illness and promoting well-being by identifying and
+139 evaluating environmental sources and hazardous agents that may adversely affect human
+140 health and limiting exposures to hazardous physical, chemical, and biological agents in air,
+141 water, soil, food, and other environmental media or settings."
+142 SECTION 4.
+143 Said chapter is further amended by revising Code Section 31-3-4, relating to powers, as
+144 follows:
+H. B. 665
+- 6 -
+25 LC 46 1165
+145 "31-3-4.
+146 (a) The county board of health is empowered to:
+147 (1) Establish and adopt bylaws for its own governance. Meetings shall be held no less
+148 frequently than quarterly;
+149 (2) Exercise responsibility and authority in all matters within the county pertaining to
+150 health unless the responsibility for enforcement of such is by law that of another agency;
+151 (3) Take such steps as may be necessary to prevent and suppress disease and conditions
+152 deleterious to health and to determine compliance with health laws and rules, regulations,
+153 and standards adopted thereunder;
+154 (4) Adopt and enforce rules and regulations appropriate to its functions and powers,
+155 provided that such rules and regulations are not in conflict with the rules and regulations
+156 of the department. Such rules and regulations must shall be reasonably adapted to the
+157 purposes intended and must shall be within the purview of the powers and duties imposed
+158 upon the county board of health by this chapter;
+159 (5) Receive and administer all grants, gifts, moneys, and donations for purposes
+160 pertaining to health pursuant to this chapter;
+161 (6) Make contracts and establish fees for the provision of public health services provided
+162 by county boards of health, including but not limited to environmental health services,
+163 which fees may be charged to persons or to establishments and premises within the
+164 county for inspection of such establishments, premises, structures and appurtenances
+165 thereto, or for other county board of health services. All such fees may be used to defray
+166 costs of providing such local services and shall supplement but not replace state or federal
+167 funding. No person shall be denied services on the basis of that person's inability to pay.
+168 The scope of services, operating details, contracts, and fees approved by the county board
+169 of health shall also be approved by the district director of health. No fees for
+170 environmental health services may be charged unless the schedule of fees for such
+171 services has been approved by the county governing authority;
+H. B. 665
+- 7 -
+25 LC 46 1165
+172 (7) Contract with the Department of Public Health or other agencies for assistance in the
+173 performance of its functions and the exercise of its powers and for supplying services
+174 which are within its purview to perform, provided that such contracts and amendments
+175 thereto shall have first been approved by the department. In entering into any contracts
+176 to perform its functions and to exercise its powers, and for supplying services which are
+177 within its purview to perform, any county board of health or any health district created
+178 under the authority of Code Section 31-3-15 shall be considered an agency and such
+179 agency shall have the authority to contract with any other county board of health;
+180 combination of county boards of health; any other health district; public or private
+181 hospitals; hospital authorities; medical schools; training and educational institutions;
+182 departments and agencies of the state; county or municipal governments; persons,
+183 partnerships, corporations, and associations, public or private; the United States
+184 government or the government of any other state; or any other legal entity; and
+185 (8) The county board of health in each county of this state having a population of
+186 400,000 or more according to the United States decennial census of 1990 or any future
+187 such census is authorized to develop and implement activities for the prevention of
+188 injuries and incorporate injury prevention measures in rules and regulations which are
+189 within the purview of the county board of health to promulgate which shall be effective
+190 when adopted by an ordinance of the county governing authority.
+191 (b) Notwithstanding the provisions contained in subsection (a) of this Code section and
+192 Code Section 31-3-5, nothing contained in this Code section or Code Section 31-3-5 shall
+193 be construed to empower a county board of health to adopt any rules or regulations or
+194 provisions to enforce any rules or regulations pertaining to matters provided for or
+195 otherwise regulated pursuant to the provisions of Part 1 of Article 2 of Chapter 8 of
+196 Title 12, the 'Georgia Comprehensive Solid Waste Management Act,' as now or hereafter
+197 amended, or the rules and regulations promulgated pursuant to such part."
+H. B. 665
+- 8 -
+25 LC 46 1165
+198 SECTION 5.
+199 Said chapter is further amended by revising Code Section 31-3-5, relating to functions, as
+200 follows:
+201 "31-3-5.
+202 (a) Subject to the provisions of Code Section 31-2A-11 and subsection (b) of this Code
+203 section, each Each county board of health shall have and discharge, within its jurisdiction,
+204 subject to any valid local Act which shall remain in force and effect, the following
+205 functions:
+206 (1) To determine the health needs and resources of its jurisdiction by research and by
+207 collection, analysis, and evaluation of all data pertaining to the health of the community;
+208 (2) To develop, in cooperation with the department, programs, activities, and facilities
+209 responsive to the needs of its area;
+210 (3) To secure compliance with the rules and regulations of the department that have local
+211 application; and
+212 (4) To enforce, or cause enforcement of, all laws pertaining to health unless the
+213 responsibility for the enforcement of such laws is that of another agency.
+214 (b) Each county board of health shall have the power and duty to adopt regulations
+215 providing standards and requirements governing the installation of on-site sewage
+216 management systems within the incorporated and unincorporated area of the county,
+217 subject to the provisions of Code Section 31-2A-11, any rules and regulations promulgated
+218 under Code Section 31-2A-11, and subsection (d) of this Code section. Such regulations
+219 shall include and be limited to the following:
+220 (1) Specifying the locations within the incorporated and unincorporated area of the
+221 county where on-site sewage management systems may be installed;
+222 (2) Specifying the minimum lot size or land area which may be served by an on-site
+223 sewage management system based on scientific data regarding on-site sewage
+224 management systems;
+H. B. 665
+- 9 -
+25 LC 46 1165
+225 (3) Specifying the types of residences, buildings, or facilities which may be served by
+226 on-site sewage management systems;
+227 (4) Issuing permits for the installation of on-site sewage management systems prior to
+228 such installation;
+229 (5) Inspecting on-site sewage management system installations prior to the completion
+230 of the installation; and
+231 (6) Providing for ongoing maintenance of such systems, except for nonmechanical
+232 residential sewage management systems.
+233 (c) Nothing in this Code section or in Code Section 31-3-5.1 shall limit the power of a
+234 county or municipal governing authority to exercise its zoning powers or to establish
+235 minimum lot sizes larger than the minimum lot sizes specified pursuant to subsection (b)
+236 of this Code section.
+237 (d)(1) Any person may register with the department to conduct soil investigations and
+238 prepare soil reports of a site within the state for an on-site sewage management system
+239 who meets any one of the following criteria:
+240 (A) Qualifies as a soil classifier as defined in subparagraph (B) of paragraph (3) of this
+241 subsection;
+242 (B) Holds a valid certificate of registration as a professional engineer issued pursuant
+243 to Chapter 15 of Title 43 and is practicing within his or her area of engineering
+244 competency;
+245 (C) Holds a valid certificate of registration as a registered geologist issued pursuant to
+246 Chapter 19 of Title 43 and is practicing within his or her area of geologic competency;
+247 or
+248 (D) Is a soil and water conservation technician as defined in subparagraph (A) of
+249 paragraph (3) of this subsection.
+250 (2) Upon the submission of an evaluation of the suitability of a site within the state for
+251 an on-site sewage management system by such a person who is registered with the
+H. B. 665
+- 10 -
+25 LC 46 1165
+252 department, the county board of health shall be required to accept the evaluation unless
+253 such evaluation is found by the county board of health to be deficient or questionable.
+254 If the county board of health finds such evaluation to be deficient or questionable, the
+255 board shall, within three working days of making such finding, issue a written
+256 determination stating all deficiencies and all measures needed to correct the deficiencies.
+257 A copy of this determination shall be provided to the state director of environmental
+258 health.
+259 (3) As used in this subsection, the term:
+260 (A) 'Soil and water conservation technician' means a person employed as a soil and
+261 water conservation technician by a soil and water conservation district provided for in
+262 Article 2 of Chapter 6 of Title 2.
+263 (B) 'Soil classifier' means a person who:
+264 (i) Holds at least a bachelor of science degree from an accredited college or
+265 university with a major in soil science or a related field of science. This degree shall
+266 include 30 semester credit hours or equivalent quarter credit hours in the biological,
+267 physical, chemical, and earth sciences with a minimum of 15 semester credit hours
+268 or equivalent quarter hours in soil science courses meeting the following distribution:
+269 (I) A minimum of one course in soil classification, morphology, genesis, and
+270 mapping; and
+271 (II) The remaining soil science credits shall be in at least three of the following
+272 eight categories: introductory soil science; soil fertility; soil microbiology; soil
+273 chemistry; soil physics; soil management, soils and land use, or soils and the
+274 environment; soil mineralogy; or a three credit maximum in independent study,
+275 geology, or hydrology;
+276 (ii) Has at least four years of verifiable full-time or equivalent part-time experience.
+277 Two years of such experience, as determined by the department's soil classifiers
+278 advisory committee, shall have been obtained after meeting all the educational
+H. B. 665
+- 11 -
+25 LC 46 1165
+279 requirements of division (i) of this subparagraph under the supervision of a soil
+280 classifier who has met the education and experience requirements provided in this
+281 subparagraph and shall have been spent actively mapping, identifying, and classifying
+282 soil features and interpreting the influence of soil features on soil uses, including, but
+283 not limited to, conducting soil investigations for determining the suitability of sites
+284 for on-site sewage management systems as approved by the department's soil
+285 classifiers advisory committee. The remaining two years of such experience, as
+286 determined by the department's soil classifiers advisory committee, shall have
+287 occurred prior to, during, or after meeting all the educational requirements of
+288 division (i) of this subparagraph and shall have included the utilization of soil science
+289 concepts and techniques in mapping, identifying, and classifying soil features and
+290 interpreting the influence of soil features on soil uses, including, but not limited to,
+291 conducting soil investigations for determining the suitability of sites for on-site
+292 sewage management systems as approved by the department's soil classifiers advisory
+293 committee; and
+294 (iii) Has successfully passed a written examination pertaining to site investigations
+295 for on-site sewage management systems administered or approved by the department."
+296 SECTION 6.
+297 Said chapter is further amended by repealing Code Section 31-3-5.1, relating to conformity
+298 prerequisite to building permit.
+299 SECTION 7.
+300 Said chapter is further amended by repealing Code Section 31-3-5.2, relating to definition
+301 of "gray water" and lawful use.
+H. B. 665
+- 12 -
+25 LC 46 1165
+302 SECTION 8.
+303 Said chapter is further amended by repealing and reserving Code Section 31-3-11, relating
+304 to direction and supervision of staff.
+305 SECTION 9.
+306 Said chapter is further amended by revising Code Section 31-3-15, relating to establishment
+307 of health districts, as follows:
+308 "31-3-15.
+309 The department is authorized, with the consent of the boards of health and the county
+310 authorities of the counties involved, to establish health districts composed of one or more
+311 counties. To further the purposes of this Code section, county boards of health may
+312 contract with each other for the provision of multicounty services and also exercise any
+313 additional powers as authorized by paragraph (7) of subsection (a) of Code Section 31-3-4;
+314 and in the performance of such contracts a county board of health may utilize its employees
+315 in other counties."
+316 SECTION 10.
+317 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended by revising
+318 Chapter 4, which is reserved, as follows:
+319 "CHAPTER 4
+320 31-4-1.
+321 (a) As used in this chapter, the term:
+322 (1) 'Department' means the Department of Public Health.
+323 (2) 'Environmental health' shall have the same meaning as set forth in Code
+324 Section 31-3-1.1.
+H. B. 665
+- 13 -
+25 LC 46 1165
+325 (b) The Department of Public Health is empowered to:
+326 (1) Exercise responsibility and authority in all matters in this state and all counties within
+327 this state pertaining to environmental health unless the responsibility for enforcement of
+328 such is by law that of another agency;
+329 (2) Receive and administer all grants, gifts, moneys, and donations for purposes
+330 pertaining to environmental health pursuant to this chapter;
+331 (3) Make contracts and establish fees for the provision of environmental health services,
+332 which fees may be charged to persons or to establishments and premises for the
+333 inspection of such establishments, premises, structures and appurtenances thereto, or for
+334 other environmental health services; and
+335 (4) Contract with other agencies for assistance in the performance of its functions and
+336 the exercise of its powers and for supplying services which are within its purview to
+337 perform. In entering into any contracts to perform its functions and to exercise its
+338 powers, and for supplying services which are within its purview to perform, the
+339 department may contract with other agencies of the state; county or municipal
+340 governments; persons, partnerships, corporations, and associations, public or private; the
+341 United States government or the government of any other state; or any other legal
+342 entities.
+343 (c) Notwithstanding the provisions of subsection (b) of this Code section and Code
+344 Section 31-3-5, nothing contained in this chapter or Code Section 31-3-5 shall be construed
+345 to empower the Department of Public Health to adopt any rules or regulations or to enforce
+346 any rules or regulations pertaining to matters provided for or otherwise regulated pursuant
+347 to Part 1 of Article 2 of Chapter 8 of Title 12, the 'Georgia Comprehensive Solid Waste
+348 Management Act,' as now or hereafter amended, or the rules and regulations promulgated
+349 pursuant to such part. Reserved.
+H. B. 665
+- 14 -
+25 LC 46 1165
+350 31-4-2.
+351 (a) Subject to the provisions of Code Section 31-2A-11 and subsection (b) of this Code
+352 section, the Department of Public Health shall have and discharge, within this state, the
+353 following functions:
+354 (1) To determine environmental health needs and resources by research and by
+355 collection, analysis, and evaluation of all data pertaining to environmental health of each
+356 community in this state; and
+357 (2) To enforce, or cause enforcement of, all laws pertaining to environmental health
+358 unless the responsibility for the enforcement of such laws is that of another agency.
+359 (b) The department shall have the power and duty to adopt regulations providing standards
+360 and requirements governing the installation of on-site sewage management systems within
+361 the incorporated and unincorporated areas of a county, subject to the provisions of Code
+362 Section 31-2A-11, any rules and regulations promulgated under Code Section 31-2A-11,
+363 and subsection (e) of this Code section. Such regulations shall include the following:
+364 (1) Specifying the locations within the incorporated and unincorporated areas of a county
+365 where on-site sewage management systems may be installed;
+366 (2) Specifying the minimum lot size or land area which may be served by an on-site
+367 sewage management system based on scientific data regarding on-site sewage
+368 management systems;
+369 (3) Specifying the types of residences, buildings, or facilities which may be served by
+370 on-site sewage management systems;
+371 (4) Issuing permits for the installation of on-site sewage management systems prior to
+372 such installation;
+373 (5) Inspecting on-site sewage management system installations prior to the completion
+374 of the installation; and
+375 (6) Providing for ongoing maintenance of such systems, except for nonmechanical
+376 residential sewage management systems.
+H. B. 665
+- 15 -
+25 LC 46 1165
+377 (c) Nothing in subsection (b) of this Code section shall be construed to prohibit the
+378 adoption of different rules for different parts of the state due to differences in soil, terrain,
+379 or other considerations.
+380 (d) Nothing in this Code section shall be construed to limit the power of a county or
+381 municipal governing authority to exercise its zoning powers or to establish minimum lot
+382 sizes.
+383 (e)(1) Any person may register with the department to conduct soil investigations and
+384 prepare soil reports of a site within the state for an on-site sewage management system
+385 who meets any one of the following criteria:
+386 (A) Qualifies as a soil classifier as defined in subparagraph (B) of paragraph (3) of this
+387 subsection;
+388 (B) Holds a valid certificate of registration as a professional engineer issued pursuant
+389 to Chapter 15 of Title 43 and is practicing within his or her area of engineering
+390 competency;
+391 (C) Holds a valid certificate of registration as a registered geologist issued pursuant to
+392 Chapter 19 of Title 43 and is practicing within his or her area of geologic competency;
+393 or
+394 (D) Qualifies as a soil and water conservation technician as defined in
+395 subparagraph (A) of paragraph (3) of this subsection.
+396 (2) Upon the submission of an evaluation of the suitability of a site within the state for
+397 an on-site sewage management system by a person who is registered with the department,
+398 the department shall, within three business days of receiving such an evaluation, provide
+399 a written determination stating all deficiencies and all measures needed to correct the
+400 deficiencies. A copy of such determination shall be provided to the director of the
+401 Environmental Health Division of the Department of Public Health.
+402 (3) As used in this subsection, the term:
+H. B. 665
+- 16 -
+25 LC 46 1165
+403 (A) 'Soil and water conservation technician' means a person employed as a soil and
+404 water conservation technician by a soil and water conservation district provided for in
+405 Article 2 of Chapter 6 of Title 2.
+406 (B) 'Soil classifier' means a person who:
+407 (i) Holds at least a bachelor of science degree from an accredited college or
+408 university with a major in soil science or a related field of science. Such degree shall
+409 include 30 semester credit hours or equivalent quarter credit hours in the biological,
+410 physical, chemical, and earth sciences with a minimum of 15 semester credit hours
+411 or equivalent quarter hours in soil science courses meeting the following distribution:
+412 (I) A minimum of one course in soil classification, morphology, genesis, and
+413 mapping; and
+414 (II) The remaining soil science credits shall be in at least three of the following
+415 eight categories: introductory soil science; soil fertility; soil microbiology; soil
+416 chemistry; soil physics; soil management, soils and land use, or soils and the
+417 environment; soil mineralogy; or a three credit maximum in independent study,
+418 geology, or hydrology;
+419 (ii) Has at least four years of verifiable full-time or equivalent part-time experience.
+420 Two years of such experience, as determined by the department's soil classifiers
+421 advisory committee, shall have been obtained after meeting all the educational
+422 requirements of division (i) of this subparagraph under the supervision of a soil
+423 classifier who has met the education and experience requirements provided in this
+424 subparagraph and shall have been spent actively mapping, identifying, and classifying
+425 soil features and interpreting the influence of soil features on soil uses, including, but
+426 not limited to, conducting soil investigations for determining the suitability of sites
+427 for on-site sewage management systems as approved by the department's soil
+428 classifiers advisory committee. The remaining two years of such experience, as
+429 determined by the department's soil classifiers advisory committee, shall have
+H. B. 665
+- 17 -
+25 LC 46 1165
+430 occurred prior to, during, or after meeting all the educational requirements of
+431 division (i) of this subparagraph and shall have included the utilization of soil science
+432 concepts and techniques in mapping, identifying, and classifying soil features and
+433 interpreting the influence of soil features on soil uses, including, but not limited to,
+434 conducting soil investigations for determining the suitability of sites for on-site
+435 sewage management systems as approved by the department's soil classifiers advisory
+436 committee; and
+437 (iii) Has successfully passed a written examination pertaining to site investigations
+438 for on-site sewage management systems administered or approved by the department.
+439 31-4-3.
+440 No building permit for the construction of any residence, building, or other facility which
+441 is to be served by a sewage management system shall be issued by or pursuant to the
+442 authority of a city or county governing authority unless the sewage management system
+443 installation permit is in conformity with standards contained in Code Section 31-2A-11 for
+444 sewage management systems. No person, firm, corporation, or other entity shall install a
+445 sewage management system in violation of the provisions of Code Section 31-2A-11 or the
+446 regulations of the department. Each city or county governing authority shall provide by
+447 ordinance or resolution for the enforcement of the provisions of this Code section.
+448 31-4-4.
+449 (a) As used in this Code section, the term 'gray water' means waste water discharged from
+450 residential lavatories, bathtubs, showers, clothes washers, and laundry trays.
+451 (b) Private residential direct reuse of gray water shall be lawful if the following conditions
+452 are met:
+H. B. 665
+- 18 -
+25 LC 46 1165
+453 (1) Gray water originating from the residence shall be used and contained within the
+454 property boundary for household gardening, composting, lawn watering, or landscape
+455 irrigation;
+456 (2) Gray water shall not be used for irrigation of food plants;
+457 (3) The gray water shall not contain hazardous chemicals derived from activities such
+458 as cleaning car parts, washing greasy or oily rags, or disposing of waste solutions from
+459 home photography laboratories or similar hobbyist or home occupational activities;
+460 (4) The application of gray water shall be managed to minimize standing water on the
+461 surface;
+462 (5) The application of gray water shall be outside of a floodway;
+463 (6) The gray water shall not contain water used to wash diapers or similarly soiled or
+464 infectious garments unless the gray water is disinfected before irrigation; and
+465 (7) The gray water shall be applied only by hand watering using garden watering cans
+466 or similar hand-held containers.
+467 (c) The department shall adopt the provisions of subsection (b) of this Code section by
+468 regulation. Local governing bodies shall be authorized to punish violations of such
+469 regulations as local ordinance violations, provided that the penalty for each such violation
+470 shall not exceed a $100.00 fine.
+471 31-4-5.
+472 Each employee of the Department of Public Health whose duties include enforcing those
+473 environmental health laws of this state shall be subject to the direction and supervision of
+474 the state director of environmental health of such department. The activities of such
+475 employees with regard to environmental health shall be reported at least quarterly to the
+476 state director of environmental health within the Department of Public Health through a
+477 district director of environmental health. The state director shall make the personnel
+478 actions, including but not limited to termination, which the director deems appropriate for
+H. B. 665
+- 19 -
+25 LC 46 1165
+479 any employee's failure or refusal to comply with the direction of the state director in
+480 carrying out the environmental health employment duties of such employee."
+481 SECTION 11.
+482 Chapter 5 of Title 31 of the Official Code of Georgia Annotated, relating to administration
+483 and enforcement, is amended by adding a new Code section to read as follows:
+484 "31-5-1.1.
+485 Nothing in this chapter shall be construed to provide county boards of health with any
+486 authorities or responsibilities relating to environmental health."
+487 SECTION 12.
+488 Code Section 12-5-7 of the Official Code of Georgia Annotated, relating to local variances
+489 from state restrictions on outdoor watering, limitations on outdoor irrigation, and exceptions,
+490 is amended by revising subparagraph (a.1)(2)(C) as follows:
+491 "(C) Reuse of gray water in compliance with Code Section 31-3-5.2 31-4-4 and
+492 applicable local board of health regulations adopted pursuant thereto;"
+493 SECTION 13.
+494 This Act shall become effective only if, prior to January 1, 2027, funds are specifically
+495 appropriated for the purposes of this Act in an appropriations Act making specific reference
+496 to this Act and shall become effective when such funds so appropriated become available for
+497 expenditure.
+498 SECTION 14.
+499 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 665
+- 20 -
+[DELETED: 5L0,5,3,hthr4 w l o o i a e s a t m ]
+[DELETED: 5L 1 2 b t c b o h s c t e a w b]
+[DELETED: 5L c a c f o t p o t e o o c  S t s i w l]
+[DELETED: 5L o e a w w p a p t ( o t C s a s C s b l o 1 1 f u a t m r p t t b a f i i e c o t s p t t d i s i u s o s s o h t n c m o s a m r a]
+[DELETED: 5L b s c h c w t p o a s h d i t p s w t w i b  T p o t s s n a t o a a b]
+[DELETED: 5L  A c o m g a m c o o e s a a e o s m p h i a i a p w b i a]
+[DELETED: 5L  R a a a g g m a d f p h s a b a b t d d o h  N f f]
+[DELETED: 5L s h t a t c w a o c b o h a a o t s c o m g p c a a p o p t U S t e a r o r p t m p f o]
+[DELETED: 5L t a v l A w s r i f a e t f  T e o c e o a l p t h u t s a r g t i o o s s w t i a u a o t c m s b o s d r o s]
+[DELETED: 5L C 1 o T 4 a i p w h o h a o e]
+[DELETED: 5L s w t w d o m s f i a w  H a l a b o s d f a a c o s p s m s a l u o s a t c s h b o a m a t e]
+[DELETED: 5L o s m s a a b t d s b t d s c a c s h p t d o a m a t e r o s i f d t s o s f o]
+[DELETED: 5L  ' h s h t s m a s f i C]
+[DELETED: 5L  R a a a g g m a d f p f m b c t p o t e a p f t a f s s w a w i p t p t m c w o a o t s c o m S g o t g o a o s o a o l]
+[DELETED: 5L  T d e h n a r b r a b m s b o s d r o s]
+[DELETED: 5L C 1 o T 4 a i p w h o h a o e  Q a a s a w c t a d i]
+[DELETED: 5L  H a l a b o s d f a a c o s p s m s a l u o s a t c s h b o a m a t e o s m s a a b t d s b t d s c a c s h]
+[DELETED: 5L p t d o a m a t e r o s i f d t s o s f o]
+[DELETED: 5L  L g b s b a t p v o s]
+[DELETED: 5L 3]
+
+
+================================================================================
+
+Raw Text:
+25 LC 46 1165
+House Bill 665
+By: Representatives McCollum of the 30th, Cooper of the 45th, Taylor of the 173rd, and
+Efstration of the 104th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 2A, Chapter 3, and Chapter 5 of Title 31 of the Official Code
+2 of Georgia Annotated, relating to general provisions of the Department of Public Health,
+3 county boards of health, and administration and enforcement, respectively, so as to transfer
+4 all authorities and responsibilities relating to environmental health from the county boards
+5 of health to the Department of Public Health; to provide for the continuation of all contracts
+6 or agreements; to provide that all rights, duties, and obligations related to environmental
+7 health are transferred; to transfer certain employees; to remove from county boards of health
+8 the powers and functions relating to environmental health; to describe responsibilities and
+9 authorities of the Department of Public Health related to environmental health; to provide
+10 for definitions; to provide for statutory construction; to amend Code Section 12-5-7 of the
+11 Official Code of Georgia Annotated, relating to local variances from state restrictions on
+12 outdoor watering, limitations on outdoor irrigation, and exceptions, so as to make a
+13 confirming revision; to provide for related matters; to provide for contingent effectiveness
+14 upon appropriation of funds; to repeal conflicting laws; and for other purposes.
+15 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 665
+- 1 -
+
+25 LC 46 1165
+16 SECTION 1.
+17 Article 1 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to
+18 general provisions of the Department of Public Health, is amended by adding a new Code
+19 section to read as follows:
+20 "31-2A-2.1.
+21 On and after January 1, 2028, the Department of Public Health shall be the successor to the
+22 duties of and shall carry out all of the functions and exercise all of the powers formerly
+23 held by the county boards of health pursuant to this article with regard to environmental
+24 health. The rights, privileges, entitlements, and duties of parties to contracts, leases,
+25 agreements, and other transactions related to environmental health entered into before
+26 January 1, 2028, by the county boards of health shall continue to exist and will, by
+27 operation of law, be assumed by the Department of Public Health on January 1, 2028; and
+28 none of these rights, privileges, entitlements, and duties are impaired or diminished by
+29 reason of the transfer of certain functions to the Department of Public Health. In all
+30 instances concerning environmental health, the Department of Public Health shall be
+31 substituted for the county boards of health, and the Department of Public Health shall
+32 succeed to the rights and duties under any such contracts, leases, agreements, and other
+33 transactions. All rules and regulations under the jurisdiction of the county boards of public
+34 health prior to January 1, 2028, will, by operation of law, be assumed by the Department
+35 of Public Health on January 1, 2028, unless such rules and regulations contradict the laws
+36 of this state or rules and regulations promulgated by the commissioner of public health.
+37 All employees of the county boards of public health whose work involves environmental
+38 health shall be transferred to the employment of the Department of Public Health, effective
+39 January 1, 2028. Notwithstanding any provision of law to the contrary, the accrued leave,
+40 rate of accrual, and any other aspects of employment benefits of such employees shall
+41 transfer to the Department of Public Health. The State Personnel Board and the Employees'
+H. B. 665
+- 2 -
+
+25 LC 46 1165
+42 Retirement System of Georgia shall be authorized to implement this Code section through
+43 the promulgation of rules and regulations."
+44 SECTION 2.
+45 Said article is further amended by revising Code Section 31-2A-11, relating to standards for
+46 sewage management systems, as follows:
+47 "31-2A-11.
+48 (a) As used in this Code section, the term:
+49 (1) 'Chamber system' means a system of chambers with each chamber being a molded
+50 polyolefin plastic, arch shaped, hollow structure with an exposed bottom area and solid
+51 top and louvered sidewall for infiltration of effluent into adjoining bottom and sidewall
+52 soil areas. Chambers may be of different sizes and configurations to obtain desired
+53 surface areas.
+54 (2) 'Conventional system' means a system traditionally used composed of perforated pipe
+55 surrounded by gravel or stone masking for the infiltration of effluent into adjoining
+56 bottom and side soil areas.
+57 (3) 'Existing on-site sewage management system' means a sewage management system
+58 previously constructed and currently functioning on the premises of the examined
+59 property.
+60 (3)(4) 'On-site sewage management system' means a sewage management system other
+61 than a public or community sewage treatment system serving one or more buildings,
+62 mobile homes, recreational vehicles, residences, or other facilities designed or used for
+63 human occupancy or congregation. Such term shall include, without limitation,
+64 conventional and chamber septic tank systems, privies, and experimental and alternative
+65 on-site sewage management systems which are designed to be physically incapable of a
+66 surface discharge of effluent that may be approved by the department.
+H. B. 665
+- 3 -
+
+25 LC 46 1165
+67 (4)(5) 'Prior approved system' means only a chamber system or conventional system or
+68 component of such system which is designed to be physically incapable of a surface
+69 discharge of effluent and which was properly approved pursuant to
+70 subparagraph (a)(2)(B) of this Code section, as such Code section became law on
+71 April 19, 1994, for use according to manufacturers' recommendations, prior to
+72 April 14, 1997.
+73 (5)(6) 'Unsatisfactory service' means documented substandard performance as compared
+74 to other approved systems or components.
+75 (b) The department shall have the authority as it deems necessary and proper to adopt
+76 state-wide regulations for on-site sewage management systems, including but not limited
+77 to experimental and alternative systems. The department is authorized to require that any
+78 such on-site sewage management system be examined and approved prior to allowing the
+79 use of such system in the state; provided, however, that any prior approved system shall
+80 continue to be approved for installation in every county of the state pursuant to the
+81 manufacturer's recommendations, including sizing of no less than 50 percent of trench
+82 length of a conventional system designed for equal flows in similar soil conditions. Upon
+83 written request of one-half or more of the health districts in the state, the department is
+84 authorized to require the reexamination of any such system or component thereof, provided
+85 that documentation is submitted indicating unsatisfactory service of such system or
+86 component thereof. Before any such examination or reexamination, the department may
+87 require the person, persons, or organization manufacturing or marketing the system to
+88 reimburse the department or its agent for the reasonable expenses of such examination.
+89 (c)(1) This subsection shall not be construed to prohibit the governing authority of any
+90 county or municipality in the state from adopting and enforcing codes at the local level;
+91 provided, however, that no county, municipality, or state agency may require any
+92 certified septic tank installer or certified septic tank pumper who has executed and
+93 deposited a bond as authorized in paragraph (2) of this subsection to give or furnish or
+H. B. 665
+- 4 -
+
+25 LC 46 1165
+94 execute any code compliance bond or similar bond for the purpose of ensuring that all
+95 construction, installation, or modifications are made or completed in compliance with the
+96 county or municipal ordinances or building and construction codes.
+97 (2) In order to protect the public from damages arising from any work by a certified
+98 septic tank installer or certified septic tank pumper that fails to comply with any state
+99 construction codes or with the ordinances or building and construction codes adopted by
+100 any county or municipal corporation, any such certified septic tank installer or certified
+101 septic tank pumper may execute and deposit with the judge of the probate court in the
+102 county of his or her principal place of business a bond in the sum of $10,000.00. Such
+103 bond shall be a cash bond of $10,000.00 or executed by a surety authorized and qualified
+104 to write surety bonds in the State of Georgia and shall be approved by the local county
+105 or municipal health department. Such bond shall be conditioned upon all work done or
+106 supervised by such certificate holder complying with the provisions of any state
+107 construction codes or any ordinances or building and construction codes of any county
+108 or municipal corporation wherein the work is performed. Action on such bond may be
+109 brought against the principal and surety thereon in the name of and for the benefit of any
+110 person who suffers damages as a consequence of said certificate holder's work not
+111 conforming to the requirements of any ordinances or building and construction codes;
+112 provided, however, that the aggregate liability of the surety to all persons so damaged
+113 shall in no event exceed the sum of such bond.
+114 (3) In any case where a bond is required under this subsection, the certified septic tank
+115 installer or certified septic tank pumper shall file a copy of the bond with the county or
+116 municipal health department in the political subdivision wherein the work is being
+117 performed.
+118 (4) The provisions of this subsection shall not apply to or affect any bonding
+119 requirements involving contracts for public works as provided in Chapter 10 of Title 13.
+H. B. 665
+- 5 -
+
+25 LC 46 1165
+120 (d) This Code section does not restrict the work of a plumber licensed by the State
+121 Construction Industry Licensing Board to access any on-site sewage management system
+122 for the purpose of servicing or repairing any plumbing system or connection to the on-site
+123 sewage management system.
+124 (e)(1) Any department official or other individual certified by the department to evaluate
+125 the status of a prospective or an existing on-site sewage management system shall do so
+126 by using an evaluation form provided by the department. Such evaluation shall follow
+127 standards set by the department. Completed evaluation forms shall be submitted to the
+128 local health department for record-keeping purposes.
+129 (2) Any county or municipal governing authority, mortgage company, or other
+130 requesting entity shall accept an existing on-site sewage management performance
+131 evaluation form from any individual authorized to complete such evaluation pursuant to
+132 paragraph (1) of this subsection."
+133 SECTION 3.
+134 Chapter 3 of Title 31 of the Official Code of Georgia Annotated, relating to county boards
+135 of health, is amended by adding a new Code section to read as follows:
+136 "31-3-1.1.
+137 As used in this chapter, the term environmental health' means the science and practice of
+138 preventing human injury and illness and promoting well-being by identifying and
+139 evaluating environmental sources and hazardous agents that may adversely affect human
+140 health and limiting exposures to hazardous physical, chemical, and biological agents in air,
+141 water, soil, food, and other environmental media or settings."
+142 SECTION 4.
+143 Said chapter is further amended by revising Code Section 31-3-4, relating to powers, as
+144 follows:
+H. B. 665
+- 6 -
+
+25 LC 46 1165
+145 "31-3-4.
+146 (a) The county board of health is empowered to:
+147 (1) Establish and adopt bylaws for its own governance. Meetings shall be held no less
+148 frequently than quarterly;
+149 (2) Exercise responsibility and authority in all matters within the county pertaining to
+150 health unless the responsibility for enforcement of such is by law that of another agency;
+151 (3) Take such steps as may be necessary to prevent and suppress disease and conditions
+152 deleterious to health and to determine compliance with health laws and rules, regulations,
+153 and standards adopted thereunder;
+154 (4) Adopt and enforce rules and regulations appropriate to its functions and powers,
+155 provided that such rules and regulations are not in conflict with the rules and regulations
+156 of the department. Such rules and regulations must shall be reasonably adapted to the
+157 purposes intended and must shall be within the purview of the powers and duties imposed
+158 upon the county board of health by this chapter;
+159 (5) Receive and administer all grants, gifts, moneys, and donations for purposes
+160 pertaining to health pursuant to this chapter;
+161 (6) Make contracts and establish fees for the provision of public health services provided
+162 by county boards of health, including but not limited to environmental health services,
+163 which fees may be charged to persons or to establishments and premises within the
+164 county for inspection of such establishments, premises, structures and appurtenances
+165 thereto, or for other county board of health services. All such fees may be used to defray
+166 costs of providing such local services and shall supplement but not replace state or federal
+167 funding. No person shall be denied services on the basis of that person's inability to pay.
+168 The scope of services, operating details, contracts, and fees approved by the county board
+169 of health shall also be approved by the district director of health. No fees for
+170 environmental health services may be charged unless the schedule of fees for such
+171 services has been approved by the county governing authority;
+H. B. 665
+- 7 -
+
+25 LC 46 1165
+172 (7) Contract with the Department of Public Health or other agencies for assistance in the
+173 performance of its functions and the exercise of its powers and for supplying services
+174 which are within its purview to perform, provided that such contracts and amendments
+175 thereto shall have first been approved by the department. In entering into any contracts
+176 to perform its functions and to exercise its powers, and for supplying services which are
+177 within its purview to perform, any county board of health or any health district created
+178 under the authority of Code Section 31-3-15 shall be considered an agency and such
+179 agency shall have the authority to contract with any other county board of health;
+180 combination of county boards of health; any other health district; public or private
+181 hospitals; hospital authorities; medical schools; training and educational institutions;
+182 departments and agencies of the state; county or municipal governments; persons,
+183 partnerships, corporations, and associations, public or private; the United States
+184 government or the government of any other state; or any other legal entity; and
+185 (8) The county board of health in each county of this state having a population of
+186 400,000 or more according to the United States decennial census of 1990 or any future
+187 such census is authorized to develop and implement activities for the prevention of
+188 injuries and incorporate injury prevention measures in rules and regulations which are
+189 within the purview of the county board of health to promulgate which shall be effective
+190 when adopted by an ordinance of the county governing authority.
+191 (b) Notwithstanding the provisions contained in subsection (a) of this Code section and
+192 Code Section 31-3-5, nothing contained in this Code section or Code Section 31-3-5 shall
+193 be construed to empower a county board of health to adopt any rules or regulations or
+194 provisions to enforce any rules or regulations pertaining to matters provided for or
+195 otherwise regulated pursuant to the provisions of Part 1 of Article 2 of Chapter 8 of
+196 Title 12, the 'Georgia Comprehensive Solid Waste Management Act,' as now or hereafter
+197 amended, or the rules and regulations promulgated pursuant to such part."
+H. B. 665
+- 8 -
+
+25 LC 46 1165
+198 SECTION 5.
+199 Said chapter is further amended by revising Code Section 31-3-5, relating to functions, as
+200 follows:
+201 "31-3-5.
+202 (a) Subject to the provisions of Code Section 31-2A-11 and subsection (b) of this Code
+203 section, each Each county board of health shall have and discharge, within its jurisdiction,
+204 subject to any valid local Act which shall remain in force and effect, the following
+205 functions:
+206 (1) To determine the health needs and resources of its jurisdiction by research and by
+207 collection, analysis, and evaluation of all data pertaining to the health of the community;
+208 (2) To develop, in cooperation with the department, programs, activities, and facilities
+209 responsive to the needs of its area;
+210 (3) To secure compliance with the rules and regulations of the department that have local
+211 application; and
+212 (4) To enforce, or cause enforcement of, all laws pertaining to health unless the
+213 responsibility for the enforcement of such laws is that of another agency.
+214 (b) Each county board of health shall have the power and duty to adopt regulations
+215 providing standards and requirements governing the installation of on-site sewage
+216 management systems within the incorporated and unincorporated area of the county,
+217 subject to the provisions of Code Section 31-2A-11, any rules and regulations promulgated
+218 under Code Section 31-2A-11, and subsection (d) of this Code section. Such regulations
+219 shall include and be limited to the following:
+220 (1) Specifying the locations within the incorporated and unincorporated area of the
+221 county where on-site sewage management systems may be installed;
+222 (2) Specifying the minimum lot size or land area which may be served by an on-site
+223 sewage management system based on scientific data regarding on-site sewage
+224 management systems;
+H. B. 665
+- 9 -
+
+25 LC 46 1165
+225 (3) Specifying the types of residences, buildings, or facilities which may be served by
+226 on-site sewage management systems;
+227 (4) Issuing permits for the installation of on-site sewage management systems prior to
+228 such installation;
+229 (5) Inspecting on-site sewage management system installations prior to the completion
+230 of the installation; and
+231 (6) Providing for ongoing maintenance of such systems, except for nonmechanical
+232 residential sewage management systems.
+233 (c) Nothing in this Code section or in Code Section 31-3-5.1 shall limit the power of a
+234 county or municipal governing authority to exercise its zoning powers or to establish
+235 minimum lot sizes larger than the minimum lot sizes specified pursuant to subsection (b)
+236 of this Code section.
+237 (d)(1) Any person may register with the department to conduct soil investigations and
+238 prepare soil reports of a site within the state for an on-site sewage management system
+239 who meets any one of the following criteria:
+240 (A) Qualifies as a soil classifier as defined in subparagraph (B) of paragraph (3) of this
+241 subsection;
+242 (B) Holds a valid certificate of registration as a professional engineer issued pursuant
+243 to Chapter 15 of Title 43 and is practicing within his or her area of engineering
+244 competency;
+245 (C) Holds a valid certificate of registration as a registered geologist issued pursuant to
+246 Chapter 19 of Title 43 and is practicing within his or her area of geologic competency;
+247 or
+248 (D) Is a soil and water conservation technician as defined in subparagraph (A) of
+249 paragraph (3) of this subsection.
+250 (2) Upon the submission of an evaluation of the suitability of a site within the state for
+251 an on-site sewage management system by such a person who is registered with the
+H. B. 665
+- 10 -
+
+25 LC 46 1165
+252 department, the county board of health shall be required to accept the evaluation unless
+253 such evaluation is found by the county board of health to be deficient or questionable.
+254 If the county board of health finds such evaluation to be deficient or questionable, the
+255 board shall, within three working days of making such finding, issue a written
+256 determination stating all deficiencies and all measures needed to correct the deficiencies.
+257 A copy of this determination shall be provided to the state director of environmental
+258 health.
+259 (3) As used in this subsection, the term:
+260 (A) 'Soil and water conservation technician' means a person employed as a soil and
+261 water conservation technician by a soil and water conservation district provided for in
+262 Article 2 of Chapter 6 of Title 2.
+263 (B) 'Soil classifier' means a person who:
+264 (i) Holds at least a bachelor of science degree from an accredited college or
+265 university with a major in soil science or a related field of science. This degree shall
+266 include 30 semester credit hours or equivalent quarter credit hours in the biological,
+267 physical, chemical, and earth sciences with a minimum of 15 semester credit hours
+268 or equivalent quarter hours in soil science courses meeting the following distribution:
+269 (I) A minimum of one course in soil classification, morphology, genesis, and
+270 mapping; and
+271 (II) The remaining soil science credits shall be in at least three of the following
+272 eight categories: introductory soil science; soil fertility; soil microbiology; soil
+273 chemistry; soil physics; soil management, soils and land use, or soils and the
+274 environment; soil mineralogy; or a three credit maximum in independent study,
+275 geology, or hydrology;
+276 (ii) Has at least four years of verifiable full-time or equivalent part-time experience.
+277 Two years of such experience, as determined by the department's soil classifiers
+278 advisory committee, shall have been obtained after meeting all the educational
+H. B. 665
+- 11 -
+
+25 LC 46 1165
+279 requirements of division (i) of this subparagraph under the supervision of a soil
+280 classifier who has met the education and experience requirements provided in this
+281 subparagraph and shall have been spent actively mapping, identifying, and classifying
+282 soil features and interpreting the influence of soil features on soil uses, including, but
+283 not limited to, conducting soil investigations for determining the suitability of sites
+284 for on-site sewage management systems as approved by the department's soil
+285 classifiers advisory committee. The remaining two years of such experience, as
+286 determined by the department's soil classifiers advisory committee, shall have
+287 occurred prior to, during, or after meeting all the educational requirements of
+288 division (i) of this subparagraph and shall have included the utilization of soil science
+289 concepts and techniques in mapping, identifying, and classifying soil features and
+290 interpreting the influence of soil features on soil uses, including, but not limited to,
+291 conducting soil investigations for determining the suitability of sites for on-site
+292 sewage management systems as approved by the department's soil classifiers advisory
+293 committee; and
+294 (iii) Has successfully passed a written examination pertaining to site investigations
+295 for on-site sewage management systems administered or approved by the department."
+296 SECTION 6.
+297 Said chapter is further amended by repealing Code Section 31-3-5.1, relating to conformity
+298 prerequisite to building permit.
+299 SECTION 7.
+300 Said chapter is further amended by repealing Code Section 31-3-5.2, relating to definition
+301 of "gray water" and lawful use.
+H. B. 665
+- 12 -
+
+25 LC 46 1165
+302 SECTION 8.
+303 Said chapter is further amended by repealing and reserving Code Section 31-3-11, relating
+304 to direction and supervision of staff.
+305 SECTION 9.
+306 Said chapter is further amended by revising Code Section 31-3-15, relating to establishment
+307 of health districts, as follows:
+308 "31-3-15.
+309 The department is authorized, with the consent of the boards of health and the county
+310 authorities of the counties involved, to establish health districts composed of one or more
+311 counties. To further the purposes of this Code section, county boards of health may
+312 contract with each other for the provision of multicounty services and also exercise any
+313 additional powers as authorized by paragraph (7) of subsection (a) of Code Section 31-3-4;
+314 and in the performance of such contracts a county board of health may utilize its employees
+315 in other counties."
+316 SECTION 10.
+317 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended by revising
+318 Chapter 4, which is reserved, as follows:
+319 "CHAPTER 4
+320 31-4-1.
+321 (a) As used in this chapter, the term:
+322 (1) 'Department' means the Department of Public Health.
+323 (2) 'Environmental health' shall have the same meaning as set forth in Code
+324 Section 31-3-1.1.
+H. B. 665
+- 13 -
+
+25 LC 46 1165
+325 (b) The Department of Public Health is empowered to:
+326 (1) Exercise responsibility and authority in all matters in this state and all counties within
+327 this state pertaining to environmental health unless the responsibility for enforcement of
+328 such is by law that of another agency;
+329 (2) Receive and administer all grants, gifts, moneys, and donations for purposes
+330 pertaining to environmental health pursuant to this chapter;
+331 (3) Make contracts and establish fees for the provision of environmental health services,
+332 which fees may be charged to persons or to establishments and premises for the
+333 inspection of such establishments, premises, structures and appurtenances thereto, or for
+334 other environmental health services; and
+335 (4) Contract with other agencies for assistance in the performance of its functions and
+336 the exercise of its powers and for supplying services which are within its purview to
+337 perform. In entering into any contracts to perform its functions and to exercise its
+338 powers, and for supplying services which are within its purview to perform, the
+339 department may contract with other agencies of the state; county or municipal
+340 governments; persons, partnerships, corporations, and associations, public or private; the
+341 United States government or the government of any other state; or any other legal
+342 entities.
+343 (c) Notwithstanding the provisions of subsection (b) of this Code section and Code
+344 Section 31-3-5, nothing contained in this chapter or Code Section 31-3-5 shall be construed
+345 to empower the Department of Public Health to adopt any rules or regulations or to enforce
+346 any rules or regulations pertaining to matters provided for or otherwise regulated pursuant
+347 to Part 1 of Article 2 of Chapter 8 of Title 12, the 'Georgia Comprehensive Solid Waste
+348 Management Act,' as now or hereafter amended, or the rules and regulations promulgated
+349 pursuant to such part. Reserved.
+H. B. 665
+- 14 -
+
+25 LC 46 1165
+350 31-4-2.
+351 (a) Subject to the provisions of Code Section 31-2A-11 and subsection (b) of this Code
+352 section, the Department of Public Health shall have and discharge, within this state, the
+353 following functions:
+354 (1) To determine environmental health needs and resources by research and by
+355 collection, analysis, and evaluation of all data pertaining to environmental health of each
+356 community in this state; and
+357 (2) To enforce, or cause enforcement of, all laws pertaining to environmental health
+358 unless the responsibility for the enforcement of such laws is that of another agency.
+359 (b) The department shall have the power and duty to adopt regulations providing standards
+360 and requirements governing the installation of on-site sewage management systems within
+361 the incorporated and unincorporated areas of a county, subject to the provisions of Code
+362 Section 31-2A-11, any rules and regulations promulgated under Code Section 31-2A-11,
+363 and subsection (e) of this Code section. Such regulations shall include the following:
+364 (1) Specifying the locations within the incorporated and unincorporated areas of a county
+365 where on-site sewage management systems may be installed;
+366 (2) Specifying the minimum lot size or land area which may be served by an on-site
+367 sewage management system based on scientific data regarding on-site sewage
+368 management systems;
+369 (3) Specifying the types of residences, buildings, or facilities which may be served by
+370 on-site sewage management systems;
+371 (4) Issuing permits for the installation of on-site sewage management systems prior to
+372 such installation;
+373 (5) Inspecting on-site sewage management system installations prior to the completion
+374 of the installation; and
+375 (6) Providing for ongoing maintenance of such systems, except for nonmechanical
+376 residential sewage management systems.
+H. B. 665
+- 15 -
+
+25 LC 46 1165
+377 (c) Nothing in subsection (b) of this Code section shall be construed to prohibit the
+378 adoption of different rules for different parts of the state due to differences in soil, terrain,
+379 or other considerations.
+380 (d) Nothing in this Code section shall be construed to limit the power of a county or
+381 municipal governing authority to exercise its zoning powers or to establish minimum lot
+382 sizes.
+383 (e)(1) Any person may register with the department to conduct soil investigations and
+384 prepare soil reports of a site within the state for an on-site sewage management system
+385 who meets any one of the following criteria:
+386 (A) Qualifies as a soil classifier as defined in subparagraph (B) of paragraph (3) of this
+387 subsection;
+388 (B) Holds a valid certificate of registration as a professional engineer issued pursuant
+389 to Chapter 15 of Title 43 and is practicing within his or her area of engineering
+390 competency;
+391 (C) Holds a valid certificate of registration as a registered geologist issued pursuant to
+392 Chapter 19 of Title 43 and is practicing within his or her area of geologic competency;
+393 or
+394 (D) Qualifies as a soil and water conservation technician as defined in
+395 subparagraph (A) of paragraph (3) of this subsection.
+396 (2) Upon the submission of an evaluation of the suitability of a site within the state for
+397 an on-site sewage management system by a person who is registered with the department,
+398 the department shall, within three business days of receiving such an evaluation, provide
+399 a written determination stating all deficiencies and all measures needed to correct the
+400 deficiencies. A copy of such determination shall be provided to the director of the
+401 Environmental Health Division of the Department of Public Health.
+402 (3) As used in this subsection, the term:
+H. B. 665
+- 16 -
+
+25 LC 46 1165
+403 (A) 'Soil and water conservation technician' means a person employed as a soil and
+404 water conservation technician by a soil and water conservation district provided for in
+405 Article 2 of Chapter 6 of Title 2.
+406 (B) 'Soil classifier' means a person who:
+407 (i) Holds at least a bachelor of science degree from an accredited college or
+408 university with a major in soil science or a related field of science. Such degree shall
+409 include 30 semester credit hours or equivalent quarter credit hours in the biological,
+410 physical, chemical, and earth sciences with a minimum of 15 semester credit hours
+411 or equivalent quarter hours in soil science courses meeting the following distribution:
+412 (I) A minimum of one course in soil classification, morphology, genesis, and
+413 mapping; and
+414 (II) The remaining soil science credits shall be in at least three of the following
+415 eight categories: introductory soil science; soil fertility; soil microbiology; soil
+416 chemistry; soil physics; soil management, soils and land use, or soils and the
+417 environment; soil mineralogy; or a three credit maximum in independent study,
+418 geology, or hydrology;
+419 (ii) Has at least four years of verifiable full-time or equivalent part-time experience.
+420 Two years of such experience, as determined by the department's soil classifiers
+421 advisory committee, shall have been obtained after meeting all the educational
+422 requirements of division (i) of this subparagraph under the supervision of a soil
+423 classifier who has met the education and experience requirements provided in this
+424 subparagraph and shall have been spent actively mapping, identifying, and classifying
+425 soil features and interpreting the influence of soil features on soil uses, including, but
+426 not limited to, conducting soil investigations for determining the suitability of sites
+427 for on-site sewage management systems as approved by the department's soil
+428 classifiers advisory committee. The remaining two years of such experience, as
+429 determined by the department's soil classifiers advisory committee, shall have
+H. B. 665
+- 17 -
+
+25 LC 46 1165
+430 occurred prior to, during, or after meeting all the educational requirements of
+431 division (i) of this subparagraph and shall have included the utilization of soil science
+432 concepts and techniques in mapping, identifying, and classifying soil features and
+433 interpreting the influence of soil features on soil uses, including, but not limited to,
+434 conducting soil investigations for determining the suitability of sites for on-site
+435 sewage management systems as approved by the department's soil classifiers advisory
+436 committee; and
+437 (iii) Has successfully passed a written examination pertaining to site investigations
+438 for on-site sewage management systems administered or approved by the department.
+439 31-4-3.
+440 No building permit for the construction of any residence, building, or other facility which
+441 is to be served by a sewage management system shall be issued by or pursuant to the
+442 authority of a city or county governing authority unless the sewage management system
+443 installation permit is in conformity with standards contained in Code Section 31-2A-11 for
+444 sewage management systems. No person, firm, corporation, or other entity shall install a
+445 sewage management system in violation of the provisions of Code Section 31-2A-11 or the
+446 regulations of the department. Each city or county governing authority shall provide by
+447 ordinance or resolution for the enforcement of the provisions of this Code section.
+448 31-4-4.
+449 (a) As used in this Code section, the term 'gray water' means waste water discharged from
+450 residential lavatories, bathtubs, showers, clothes washers, and laundry trays.
+451 (b) Private residential direct reuse of gray water shall be lawful if the following conditions
+452 are met:
+H. B. 665
+- 18 -
+
+25 LC 46 1165
+453 (1) Gray water originating from the residence shall be used and contained within the
+454 property boundary for household gardening, composting, lawn watering, or landscape
+455 irrigation;
+456 (2) Gray water shall not be used for irrigation of food plants;
+457 (3) The gray water shall not contain hazardous chemicals derived from activities such
+458 as cleaning car parts, washing greasy or oily rags, or disposing of waste solutions from
+459 home photography laboratories or similar hobbyist or home occupational activities;
+460 (4) The application of gray water shall be managed to minimize standing water on the
+461 surface;
+462 (5) The application of gray water shall be outside of a floodway;
+463 (6) The gray water shall not contain water used to wash diapers or similarly soiled or
+464 infectious garments unless the gray water is disinfected before irrigation; and
+465 (7) The gray water shall be applied only by hand watering using garden watering cans
+466 or similar hand-held containers.
+467 (c) The department shall adopt the provisions of subsection (b) of this Code section by
+468 regulation. Local governing bodies shall be authorized to punish violations of such
+469 regulations as local ordinance violations, provided that the penalty for each such violation
+470 shall not exceed a $100.00 fine.
+471 31-4-5.
+472 Each employee of the Department of Public Health whose duties include enforcing those
+473 environmental health laws of this state shall be subject to the direction and supervision of
+474 the state director of environmental health of such department. The activities of such
+475 employees with regard to environmental health shall be reported at least quarterly to the
+476 state director of environmental health within the Department of Public Health through a
+477 district director of environmental health. The state director shall make the personnel
+478 actions, including but not limited to termination, which the director deems appropriate for
+H. B. 665
+- 19 -
+
+25 LC 46 1165
+479 any employee's failure or refusal to comply with the direction of the state director in
+480 carrying out the environmental health employment duties of such employee."
+481 SECTION 11.
+482 Chapter 5 of Title 31 of the Official Code of Georgia Annotated, relating to administration
+483 and enforcement, is amended by adding a new Code section to read as follows:
+484 "31-5-1.1.
+485 Nothing in this chapter shall be construed to provide county boards of health with any
+486 authorities or responsibilities relating to environmental health."
+487 SECTION 12.
+488 Code Section 12-5-7 of the Official Code of Georgia Annotated, relating to local variances
+489 from state restrictions on outdoor watering, limitations on outdoor irrigation, and exceptions,
+490 is amended by revising subparagraph (a.1)(2)(C) as follows:
+491 "(C) Reuse of gray water in compliance with Code Section 31-3-5.2 31-4-4 and
+492 applicable local board of health regulations adopted pursuant thereto;"
+493 SECTION 13.
+494 This Act shall become effective only if, prior to January 1, 2027, funds are specifically
+495 appropriated for the purposes of this Act in an appropriations Act making specific reference
+496 to this Act and shall become effective when such funds so appropriated become available for
+497 expenditure.
+498 SECTION 14.
+499 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 665
+- 20 -
+
+[DELETED: 5L0,5,3,hthr4 w l o o i a e s a t m ]
+[DELETED: 5L 1 2 b t c b o h s c t e a w b]
+[DELETED: 5L c a c f o t p o t e o o c  S t s i w l]
+[DELETED: 5L o e a w w p a p t ( o t C s a s C s b l o 1 1 f u a t m r p t t b a f i i e c o t s p t t d i s i u s o s s o h t n c m o s a m r a]
+[DELETED: 5L b s c h c w t p o a s h d i t p s w t w i b  T p o t s s n a t o a a b]
+[DELETED: 5L  A c o m g a m c o o e s a a e o s m p h i a i a p w b i a]
+[DELETED: 5L  R a a a g g m a d f p h s a b a b t d d o h  N f f]
+[DELETED: 5L s h t a t c w a o c b o h a a o t s c o m g p c a a p o p t U S t e a r o r p t m p f o]
+[DELETED: 5L t a v l A w s r i f a e t f  T e o c e o a l p t h u t s a r g t i o o s s w t i a u a o t c m s b o s d r o s]
+[DELETED: 5L C 1 o T 4 a i p w h o h a o e]
+[DELETED: 5L s w t w d o m s f i a w  H a l a b o s d f a a c o s p s m s a l u o s a t c s h b o a m a t e]
+[DELETED: 5L o s m s a a b t d s b t d s c a c s h p t d o a m a t e r o s i f d t s o s f o]
+[DELETED: 5L  ' h s h t s m a s f i C]
+[DELETED: 5L  R a a a g g m a d f p f m b c t p o t e a p f t a f s s w a w i p t p t m c w o a o t s c o m S g o t g o a o s o a o l]
+[DELETED: 5L  T d e h n a r b r a b m s b o s d r o s]
+[DELETED: 5L C 1 o T 4 a i p w h o h a o e  Q a a s a w c t a d i]
+[DELETED: 5L  H a l a b o s d f a a c o s p s m s a l u o s a t c s h b o a m a t e o s m s a a b t d s b t d s c a c s h]
+[DELETED: 5L p t d o a m a t e r o s i f d t s o s f o]
+[DELETED: 5L  L g b s b a t p v o s]
+[DELETED: 5L 3]

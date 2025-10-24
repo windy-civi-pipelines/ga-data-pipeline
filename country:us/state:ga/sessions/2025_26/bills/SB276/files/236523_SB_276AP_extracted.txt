@@ -1,0 +1,161 @@
+Title: Senate Bill 276
+Official Title: Senate Bill 276
+Number of Sections: 1
+Source: versions - SB 276/AP*
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0780
+By: Senators Echols of the 49th, Strickland of the 42nd, Hatchett of the 50th, Hufstetler of
+the 52nd, Tillery of the 19th and others
+AS PASSED
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 49-4-148 of the Official Code of Georgia Annotated, relating to
+2 recovery of medical assistance from third party liable for sickness, injury, disease, or
+3 disability, so as to revise certain provisions to comply with federal law; to bar liable
+4 third-party payers from refusing payment solely because a healthcare item or service did not
+5 receive prior authorization; to require a third-party payer to respond to an inquiry from the
+6 Department of Community Health regarding a healthcare claim within 60 days; to provide
+7 for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Code Section 49-4-148 of the Official Code of Georgia Annotated, relating to recovery of
+11 medical assistance from third party liable for sickness, injury, disease, or disability, is
+12 amended by revising subsection (b) as follows:
+13 "(b) All insurers, as defined in Code Section 33-24-57.1, including but not limited to group
+14 health plans as defined in Section 607(1) of the federal Employee Retirement Security Act
+15 of 1974, managed care entities as defined in Code Section 33-20A-3, which offer health
+16 benefit plans, as defined in Code Section 33-24-59.5, pharmacy benefits managers, as
+S. B. 276
+- 1 -
+25 LC 52 0780
+17 defined in Code Section 33-64-1, and any other parties that are, by statute, contract, or
+18 agreement, legally responsible for payment of a claim for a health care healthcare item or
+19 service shall comply with this subsection. Such entities set forth in this subsection shall:
+20 (1) Cooperate with the department in determining whether a person who is a recipient
+21 of medical assistance may be covered under that entity's health benefit plan and eligible
+22 to receive benefits thereunder for the medical services for which that medical assistance
+23 was provided and respond to any inquiry from the state regarding a claim for payment for
+24 any health care healthcare item or service submitted not later than three years after such
+25 item or service was provided;
+26 (2) Accept the department's authorization for the provision of medical services payment
+27 for a healthcare item or service on behalf of a recipient of medical assistance as the
+28 entity's third-party payer's authorization for the provision of those services and shall not
+29 refuse to pay for a healthcare item or service solely on the basis that the third-party payer
+30 did not previously authorize such item or service;
+31 (3) Respond to a department inquiry regarding the status of a claim for payment for any
+32 healthcare item or service within 60 days of receiving the inquiry;
+33 (3)(4) Comply with the requirements of Code Section 33-24-59.5, regarding the timely
+34 payment of claims submitted by the department for medical services provided to a
+35 recipient of medical assistance and covered by the health benefit plan, subject to the
+36 payment to the department of interest as provided in that Code section for failure to
+37 comply;
+38 (4)(5) Provide the department, on a quarterly basis, eligibility and claims payment data
+39 regarding applicants for medical assistance or recipients for medical assistance;
+40 (5)(6) Accept the assignment to the department or a recipient of medical assistance or
+41 any other entity of any rights to any payments for such medical care from a third party;
+42 and
+S. B. 276
+- 2 -
+25 LC 52 0780
+43 (6)(7) Agree not to deny a claim submitted by the department solely on the basis of the
+44 date of submission of the claim, type or format of the claim, or a failure to present proper
+45 documentation at the point-of-sale which is the basis of the claim, if:
+46 (A) The claim is submitted to the department within three years from when the item
+47 or service was furnished; and
+48 (B) Any action by the department to enforce its rights with respect to such claim
+49 commenced within six years of the department's submission of the claim.
+50 The requirements of paragraphs (2) and (3) (4) of this subsection shall only apply to a
+51 health benefit plan which is issued, issued for delivery, delivered, or renewed on or after
+52 April 28, 2001."
+53 SECTION 2.
+54 All laws and parts of laws in conflict with this Act are hereby repealed.
+S. B. 276
+- 3 -
+[DELETED: 5L o m a f t p l f s i d o s a t r c p t c w f l t b l]
+[DELETED: 5L s]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0780
+Senate Bill 276
+By: Senators Echols of the 49th, Strickland of the 42nd, Hatchett of the 50th, Hufstetler of
+the 52nd, Tillery of the 19th and others
+AS PASSED
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 49-4-148 of the Official Code of Georgia Annotated, relating to
+2 recovery of medical assistance from third party liable for sickness, injury, disease, or
+3 disability, so as to revise certain provisions to comply with federal law; to bar liable
+4 third-party payers from refusing payment solely because a healthcare item or service did not
+5 receive prior authorization; to require a third-party payer to respond to an inquiry from the
+6 Department of Community Health regarding a healthcare claim within 60 days; to provide
+7 for related matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Code Section 49-4-148 of the Official Code of Georgia Annotated, relating to recovery of
+11 medical assistance from third party liable for sickness, injury, disease, or disability, is
+12 amended by revising subsection (b) as follows:
+13 "(b) All insurers, as defined in Code Section 33-24-57.1, including but not limited to group
+14 health plans as defined in Section 607(1) of the federal Employee Retirement Security Act
+15 of 1974, managed care entities as defined in Code Section 33-20A-3, which offer health
+16 benefit plans, as defined in Code Section 33-24-59.5, pharmacy benefits managers, as
+S. B. 276
+- 1 -
+
+25 LC 52 0780
+17 defined in Code Section 33-64-1, and any other parties that are, by statute, contract, or
+18 agreement, legally responsible for payment of a claim for a health care healthcare item or
+19 service shall comply with this subsection. Such entities set forth in this subsection shall:
+20 (1) Cooperate with the department in determining whether a person who is a recipient
+21 of medical assistance may be covered under that entity's health benefit plan and eligible
+22 to receive benefits thereunder for the medical services for which that medical assistance
+23 was provided and respond to any inquiry from the state regarding a claim for payment for
+24 any health care healthcare item or service submitted not later than three years after such
+25 item or service was provided;
+26 (2) Accept the department's authorization for the provision of medical services payment
+27 for a healthcare item or service on behalf of a recipient of medical assistance as the
+28 entity's third-party payer's authorization for the provision of those services and shall not
+29 refuse to pay for a healthcare item or service solely on the basis that the third-party payer
+30 did not previously authorize such item or service;
+31 (3) Respond to a department inquiry regarding the status of a claim for payment for any
+32 healthcare item or service within 60 days of receiving the inquiry;
+33 (3)(4) Comply with the requirements of Code Section 33-24-59.5, regarding the timely
+34 payment of claims submitted by the department for medical services provided to a
+35 recipient of medical assistance and covered by the health benefit plan, subject to the
+36 payment to the department of interest as provided in that Code section for failure to
+37 comply;
+38 (4)(5) Provide the department, on a quarterly basis, eligibility and claims payment data
+39 regarding applicants for medical assistance or recipients for medical assistance;
+40 (5)(6) Accept the assignment to the department or a recipient of medical assistance or
+41 any other entity of any rights to any payments for such medical care from a third party;
+42 and
+S. B. 276
+- 2 -
+
+25 LC 52 0780
+43 (6)(7) Agree not to deny a claim submitted by the department solely on the basis of the
+44 date of submission of the claim, type or format of the claim, or a failure to present proper
+45 documentation at the point-of-sale which is the basis of the claim, if:
+46 (A) The claim is submitted to the department within three years from when the item
+47 or service was furnished; and
+48 (B) Any action by the department to enforce its rights with respect to such claim
+49 commenced within six years of the department's submission of the claim.
+50 The requirements of paragraphs (2) and (3) (4) of this subsection shall only apply to a
+51 health benefit plan which is issued, issued for delivery, delivered, or renewed on or after
+52 April 28, 2001."
+53 SECTION 2.
+54 All laws and parts of laws in conflict with this Act are hereby repealed.
+S. B. 276
+- 3 -
+
+[DELETED: 5L o m a f t p l f s i d o s a t r c p t c w f l t b l]
+[DELETED: 5L s]
+[DELETED: 5L]

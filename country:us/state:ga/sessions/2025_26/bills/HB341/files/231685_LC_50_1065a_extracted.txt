@@ -1,0 +1,181 @@
+Title: House Bill 341
+Official Title: House Bill 341
+Number of Sections: 1
+Source: versions - LC 50 1065/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 1065
+By: Representatives Newton of the 127th, Williamson of the 112th, Lumsden of the 12th,
+Kelley of the 16th, Taylor of the 173rd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to imposition, rate, computation, exemptions, and credits for income taxes, so as to
+3 create a tax credit for certain employers that offer individual coverage health reimbursement
+4 arrangements to employees; to provide for terms, conditions, and limitations; to provide for
+5 preapproval; to provide for aggregate annual limits; to provide for rules and regulations; to
+6 provide for definitions; to provide for related matters; to repeal conflicting laws; and for
+7 other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+11 imposition, rate, computation, exemptions, and credits for income taxes, is amended by
+12 revising Code Section 48-7-40.10, which is reserved, as follows:
+13 "48-7-40.10.
+14 (a) As used in this Code section, the term:
+15 (1) 'Covered employee' means an employee who is covered by an individual coverage
+16 health reimbursement arrangement provided by a qualified taxpayer.
+H. B. 341
+- 1 -
+25 LC 50 1065
+17 (2) 'Individual coverage health reimbursement arrangement' means a health
+18 reimbursement arrangement established pursuant to C.F.R. Section 146.123.
+19 (3) 'Qualified taxpayer' means any taxpayer with 100 or fewer employees that offers an
+20 individual coverage health reimbursement arrangement.
+21 (b) For taxable years beginning on or after January 1, 2026, a qualified taxpayer shall be
+22 allowed a tax credit against the tax imposed under this article for contributions to an
+23 individual coverage health reimbursement arrangement for employees who are residents
+24 of this state, provided that:
+25 (1) The qualified taxpayer contributed at least $100.00 per month to an individual
+26 coverage health reimbursement arrangement for each covered employee; and
+27 (2) The contribution made by the qualified taxpayer for each employee for which the
+28 qualified taxpayer is seeking a credit pursuant to this Code section is equal to or greater
+29 than the total amount of contributions to any employer sponsored health benefit plan
+30 made by the qualified taxpayer for such employee in the previous taxable year.
+31 (c)(1) The amount of the credit allowed pursuant to this Code section shall not exceed
+32 an amount equal to:
+33 (A) In the first three years a credit is claimed pursuant to this Code section, $600.00
+34 per covered employee;
+35 (B) In the fourth year a credit is claimed pursuant to this Code section, $400.00 per
+36 covered employee; and
+37 (C) In the fifth year a credit is claimed pursuant to this Code section, $200.00 per
+38 covered employee.
+39 (2) No qualified taxpayer shall be allowed a tax credit pursuant to this Code section for
+40 more than five total years.
+41 (d) The aggregate amount of tax credits allowed pursuant to this Code section shall not
+42 exceed $5 million in 2026. The aggregate amount of tax credits allowed pursuant to this
+H. B. 341
+- 2 -
+25 LC 50 1065
+43 Code section shall be increased by $5 million for any year for which the prior year's annual
+44 aggregate limit was reached.
+45 (e)(1) To be allowed a tax credit pursuant to this Code section, a taxpayer shall submit
+46 an application for preapproval no later than October 1 of the year preceding the year in
+47 which the credit pursuant to this Code section would be allowed.
+48 (2) The department shall require preapproval applications to contain such information
+49 as is necessary to substantiate a taxpayer's eligibility for tax credits allowed pursuant to
+50 this Code section.
+51 (3) The department shall review completed preapproval applications in the order in
+52 which such applications were received.
+53 (4) The department shall approve properly completed and timely submitted preapproval
+54 applications and shall issue preapproval certificates to approved taxpayers by
+55 November 1 of each year, certifying the amount of credits each such taxpayer is eligible
+56 to claim if the taxpayer meets the conditions of this Code section.
+57 (f) In no event shall the total amount of a tax credit allowed to any qualified taxpayer
+58 exceed such taxpayer's income tax liability; provided, however, that any unused tax credit
+59 shall be allowed the qualified taxpayer against up to such taxpayer's succeeding three years'
+60 tax liability. No such credit shall be allowed the qualified taxpayer against prior years' tax
+61 liability.
+62 (g) The department shall promulgate any rules and regulations necessary to implement and
+63 administer the provisions of this Code section. Reserved."
+64 SECTION 2.
+65 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 341
+- 3 -
+[DELETED: 5L7,2,2htht6,3,hr]
+[DELETED: 5L  ' c h r a m a h]
+[DELETED: 5L a s i p c t a t b]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 1065
+House Bill 341
+By: Representatives Newton of the 127th, Williamson of the 112th, Lumsden of the 12th,
+Kelley of the 16th, Taylor of the 173rd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated,
+2 relating to imposition, rate, computation, exemptions, and credits for income taxes, so as to
+3 create a tax credit for certain employers that offer individual coverage health reimbursement
+4 arrangements to employees; to provide for terms, conditions, and limitations; to provide for
+5 preapproval; to provide for aggregate annual limits; to provide for rules and regulations; to
+6 provide for definitions; to provide for related matters; to repeal conflicting laws; and for
+7 other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Article 2 of Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+11 imposition, rate, computation, exemptions, and credits for income taxes, is amended by
+12 revising Code Section 48-7-40.10, which is reserved, as follows:
+13 "48-7-40.10.
+14 (a) As used in this Code section, the term:
+15 (1) 'Covered employee' means an employee who is covered by an individual coverage
+16 health reimbursement arrangement provided by a qualified taxpayer.
+H. B. 341
+- 1 -
+
+25 LC 50 1065
+17 (2) 'Individual coverage health reimbursement arrangement' means a health
+18 reimbursement arrangement established pursuant to C.F.R. Section 146.123.
+19 (3) 'Qualified taxpayer' means any taxpayer with 100 or fewer employees that offers an
+20 individual coverage health reimbursement arrangement.
+21 (b) For taxable years beginning on or after January 1, 2026, a qualified taxpayer shall be
+22 allowed a tax credit against the tax imposed under this article for contributions to an
+23 individual coverage health reimbursement arrangement for employees who are residents
+24 of this state, provided that:
+25 (1) The qualified taxpayer contributed at least $100.00 per month to an individual
+26 coverage health reimbursement arrangement for each covered employee; and
+27 (2) The contribution made by the qualified taxpayer for each employee for which the
+28 qualified taxpayer is seeking a credit pursuant to this Code section is equal to or greater
+29 than the total amount of contributions to any employer sponsored health benefit plan
+30 made by the qualified taxpayer for such employee in the previous taxable year.
+31 (c)(1) The amount of the credit allowed pursuant to this Code section shall not exceed
+32 an amount equal to:
+33 (A) In the first three years a credit is claimed pursuant to this Code section, $600.00
+34 per covered employee;
+35 (B) In the fourth year a credit is claimed pursuant to this Code section, $400.00 per
+36 covered employee; and
+37 (C) In the fifth year a credit is claimed pursuant to this Code section, $200.00 per
+38 covered employee.
+39 (2) No qualified taxpayer shall be allowed a tax credit pursuant to this Code section for
+40 more than five total years.
+41 (d) The aggregate amount of tax credits allowed pursuant to this Code section shall not
+42 exceed $5 million in 2026. The aggregate amount of tax credits allowed pursuant to this
+H. B. 341
+- 2 -
+
+25 LC 50 1065
+43 Code section shall be increased by $5 million for any year for which the prior year's annual
+44 aggregate limit was reached.
+45 (e)(1) To be allowed a tax credit pursuant to this Code section, a taxpayer shall submit
+46 an application for preapproval no later than October 1 of the year preceding the year in
+47 which the credit pursuant to this Code section would be allowed.
+48 (2) The department shall require preapproval applications to contain such information
+49 as is necessary to substantiate a taxpayer's eligibility for tax credits allowed pursuant to
+50 this Code section.
+51 (3) The department shall review completed preapproval applications in the order in
+52 which such applications were received.
+53 (4) The department shall approve properly completed and timely submitted preapproval
+54 applications and shall issue preapproval certificates to approved taxpayers by
+55 November 1 of each year, certifying the amount of credits each such taxpayer is eligible
+56 to claim if the taxpayer meets the conditions of this Code section.
+57 (f) In no event shall the total amount of a tax credit allowed to any qualified taxpayer
+58 exceed such taxpayer's income tax liability; provided, however, that any unused tax credit
+59 shall be allowed the qualified taxpayer against up to such taxpayer's succeeding three years'
+60 tax liability. No such credit shall be allowed the qualified taxpayer against prior years' tax
+61 liability.
+62 (g) The department shall promulgate any rules and regulations necessary to implement and
+63 administer the provisions of this Code section. Reserved."
+64 SECTION 2.
+65 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 341
+- 3 -
+
+[DELETED: 5L7,2,2htht6,3,hr]
+[DELETED: 5L  ' c h r a m a h]
+[DELETED: 5L a s i p c t a t b]

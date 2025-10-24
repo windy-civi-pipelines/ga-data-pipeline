@@ -1,0 +1,824 @@
+Title: House Bill 650
+Official Title: House Bill 650
+Number of Sections: 1
+Source: versions - LC 55 0417/a
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0417
+By: Representatives Bell of the 75th, Gilliard of the 162nd, Paris of the 142nd, Jones of the 60th,
+Westbrook of the 163rd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 15, 43, 44, and 45 of the Official Code of Georgia Annotated, relating to
+2 courts, professions and businesses, property, and public officers and employees, respectively,
+3 so as to restore certain rights of individuals with criminal histories; to repeal the prohibition
+4 on felons serving on juries; to repeal the prohibition on felons serving on grand juries; to
+5 provide exceptions; to revise the grounds for the refusal to grant and revocation of
+6 professional licenses; to revise the grounds for the revocation or suspension of an auctioneer
+7 license; to revise the grounds for the suspension, revocation, or cancellation of a license or
+8 certificate of electrical contractors, plumbers, conditioned air contractors, low-voltage
+9 contractors, and utility contractors; to prohibit persons from refusing to lease residential
+10 dwellings to individuals based on such individuals' criminal histories; to revise the grounds
+11 for the denial of a notary public application; to provide for conforming changes; to provide
+12 an effective date; to provide a short title; to provide for related matters; to repeal conflicting
+13 laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 650
+- 1 -
+25 LC 55 0417
+15 PART I
+16 SECTION 1-1.
+17 This Act shall be known and may be cited as the "Presidential Felon Freedom Act."
+18 PART II
+19 SECTION 2-1.
+20 Title 15 of the Official Code of Georgia Annotated, relating to courts, is amended by revising
+21 Code Section 15-12-40, relating to ineligibility to serve as a trial juror, as follows:
+22 "15-12-40.
+23 Any person who has been convicted of a felony in a state or federal court who has not had
+24 his or her civil rights restored and any person who has been judicially determined to be
+25 mentally incompetent shall not be eligible to serve as a trial juror."
+26 SECTION 2-2.
+27 Said title is further amended in Code Section 15-12-40.1, relating to state-wide master jury
+28 list, driver's license information, list of registered voters, and random list of persons to
+29 comprise venire, by revising subsections (b), (f), and (g) as follows:
+30 "(b) On and after July 1, 2017, upon the council's request, the Department of Driver
+31 Services shall provide the council data showing the full name of all persons who are at
+32 least 18 years of age and residents of this state who have been issued a driver's license or
+33 personal identification card pursuant to Chapter 5 of Title 40. In addition to the person's
+34 full name, the Department of Driver Services shall include the person's address, city of
+35 residence, date of birth, gender, driver's license or personal identification card number, and,
+36 whenever racial information is collected by the Department of Driver Services, racial
+37 information. The Department of Driver Services shall provide the document issue date and
+H. B. 650
+- 2 -
+25 LC 55 0417
+38 document expiration date; shall indicate whether the document is a driver's license or a
+39 personal an identification card; and shall exclude persons whose driver's license has been
+40 suspended or revoked due to a felony conviction, whose driver's license has been expired
+41 for more than 730 days, or who have been identified as not being citizens of the United
+42 States. Such data shall also include a secure unique identifier, determined according to the
+43 specifications of the council in consultation with the Department of Driver Services, which
+44 shall be a representation of the last four digits of the social security number associated with
+45 each driver's license or personal identification card holder. The council shall provide the
+46 Department of Driver Services with the software required to generate such secure unique
+47 identifier. The Department of Driver Services shall also provide the names and identifying
+48 information specified by this subsection of persons convicted in this state or in another
+49 state of driving without a license. Such data shall be in electronic format as required by the
+50 council."
+51 "(f) On and after July 1, 2017, upon request by the council, the Department of Corrections
+52 shall provide to the council, without cost, data showing a list of the names of all persons
+53 who have been convicted of a felony in this state. In addition to the convicted person's full
+54 name, the data shall include the person's address, including the county of residence and ZIP
+55 Code, date of birth, gender, and, when such information is available, the convicted person's
+56 race. Such data shall also include a secure unique identifier, determined according to the
+57 specifications of the council in consultation with the Department of Corrections, which
+58 shall be a representation of the last four digits of the social security number associated with
+59 each convicted person. The council shall provide the Department of Corrections with the
+60 software required to generate such secure unique identifier. Such data shall be in electronic
+61 format as required by the council Reserved.
+62 (g) On and after July 1, 2017, upon request by the council, the State Board of Pardons and
+63 Paroles shall provide to the council, without cost, data showing a list of the names of all
+64 persons who have had his or her civil rights restored. In addition to the person's full name,
+H. B. 650
+- 3 -
+25 LC 55 0417
+65 the data shall include the person's address, including the county of residence and ZIP Code,
+66 date of birth, gender, and, when such information is available, the person's race. Such data
+67 shall also include a secure unique identifier, determined according to the specifications of
+68 the council in consultation with the State Board of Pardons and Paroles, which shall be a
+69 representation of the last four digits of the social security number associated with each
+70 person. The council shall provide the State Board of Pardons and Paroles with the software
+71 required to generate such secure unique identifier. Such data shall be in electronic format
+72 as required by the council Reserved."
+73 SECTION 2-3.
+74 Said title is further amended in Code Section 15-12-60, relating to qualifications of grand
+75 jurors and impact of ineligibility, by revising subsection (c) as follows:
+76 "(c) The following individuals shall not be eligible to serve as a grand juror:
+77 (1) Any individual who has been convicted of a felony in a state or federal court who has
+78 not had his or her civil rights restored;
+79 (2) Any individual who has been judicially determined to be mentally incompetent shall
+80 not be eligible to serve as a grant juror;
+81 (3) Any individual charged with a felony offense and who is in a pretrial release
+82 program, a pretrial release and diversion program, or a pretrial intervention and diversion
+83 program, as provided for in Article 4 of Chapter 18 of Title 15 or Article 4 of Chapter 3
+84 of Title 42 or pursuant to Uniform Superior Court Rule 27, a similar diversion program
+85 from another state, or a similar federal court diversion program for a felony offense;
+86 (4) Any individual sentenced for a felony offense pursuant to Code Section 16-13-2 who
+87 has not completed the terms of his or her sentence;
+88 (5) Any individual serving a sentence for a felony offense pursuant to Article 3 of
+89 Chapter 8 of Title 42 or serving a first offender sentence for a felony offense pursuant to
+90 another state's law; and
+H. B. 650
+- 4 -
+25 LC 55 0417
+91 (6) Any individual who is participating in a drug court division, mental health court
+92 division, veterans court division, a similar court program from another state, or a similar
+93 federal court program for a felony offense."
+94 SECTION 2-4.
+95 Said title is further amended in Code Section 15-12-163, relating to challenges for cause,
+96 hearing of evidence, and when objection made be had to a juror, by revising subsection (b)
+97 as follows:
+98 "(b) The state or the accused may make any of the following objections to the juror:
+99 (1) That the juror is not a citizen, resident in the county;
+100 (2) That the juror is under 18 years of age;
+101 (3) That the juror is incompetent to serve because of mental illness or intellectual
+102 disability, or that the juror is intoxicated;
+103 (4) That the juror is so near of kin to the prosecutor, the accused, or the victim as to
+104 disqualify the juror by law from serving on the jury; or
+105 (5) That the juror has been convicted of a felony in a federal court or any court of a state
+106 of the United States and the juror's civil rights have not been restored; or
+107 (6) That the juror is unable to communicate in the English language."
+108 PART III
+109 SECTION 3-1.
+110 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+111 is amended in Code Section 43-1-19, relating to refusal to grant, revocation, and
+112 reinstatement of licenses by professional licensing boards, surrender, and probationary
+113 license, by revising paragraphs (3) and (4) of subsection (a) and subsection (q) as follows:
+H. B. 650
+- 5 -
+25 LC 55 0417
+114 "(3) Been convicted of any felony or of any crime involving moral turpitude in the courts
+115 of this state or any other state, territory, or country or in the courts of the United States;
+116 as used in this paragraph, paragraph (4) of this subsection, and subsection (q) of this Code
+117 section, the term 'felony' shall include any offense which, if committed in this state,
+118 would be deemed a felony, without regard to its designation elsewhere; and, as used in
+119 this paragraph and subsection (q) of this Code section, the term 'conviction' shall include
+120 a finding or verdict of guilty or a plea of guilty, regardless of whether an appeal of the
+121 conviction has been sought Reserved;
+122 (4)(A) Been arrested, charged, and sentenced for the commission of any felony, or any
+123 crime involving moral turpitude, when:
+124 (i) A sentence for such offense was imposed pursuant to Article 3 of Chapter 8 of
+125 Title 42 or another state's first offender laws;
+126 (ii) A sentence for such offense was imposed pursuant to subsection (a) or (c) of
+127 Code Section 16-13-2;
+128 (iii) A sentence for such offense was imposed as a result of a plea of nolo contendere;
+129 or
+130 (iv) An adjudication of guilt or sentence was otherwise withheld or not entered on the
+131 charge.
+132 (B) An order entered pursuant to subsection (a) or (c) of Code Section 16-13-2,
+133 Article 3 of Chapter 8 of Title 42, or another state's first offender treatment order shall
+134 be conclusive evidence of an arrest and sentencing for such offense Reserved;"
+135 "(q)(1) Notwithstanding paragraphs (3) and (4) of subsection (a) of this Code section or
+136 any other provision of law, and unless Unless a felony or crime involving moral turpitude
+137 directly relates to the occupation for which the license is sought or held, no professional
+138 licensing board shall refuse to grant a license to an applicant therefor or shall revoke the
+139 license of an individual licensed by that board due solely or in part to such applicant's or
+140 licensee's:
+H. B. 650
+- 6 -
+25 LC 55 0417
+141 (A) Conviction of any felony or any crime involving moral turpitude, whether it
+142 occurred in the courts of this state or any other state, territory, or country or in the
+143 courts of the United States;
+144 (B) Arrest, charge, and sentence for the commission of such offense;
+145 (C) Sentence for such offense pursuant to Article 3 of Chapter 8 of Title 42 or another
+146 state's first offender laws;
+147 (D) Sentence for such offense pursuant to subsection (a) or (c) of Code
+148 Section 16-13-2;
+149 (E) Sentence for such offense as a result of a plea of nolo contendere;
+150 (F) Adjudication of guilt or sentence was otherwise withheld or not entered; or
+151 (G) Being under supervision by a community supervision officer, as such term is
+152 defined in Code Section 42-3-1, for a conviction of any felony or any crime involving
+153 moral turpitude, whether it occurred in the courts of this state or any other state,
+154 territory, or country or in the courts of the United States, so long as such individual was
+155 not convicted of a felony violation of Chapter 5 of Title 16 nor convicted of a crime
+156 requiring registration on the state sexual offender registry.
+157 (2) In determining if a felony or crime involving moral turpitude directly relates to the
+158 occupation for which the license is sought or held, the professional licensing board shall
+159 consider:
+160 (A) The nature and seriousness of such felony or crime involving moral turpitude and
+161 the relationship of such felony or crime involving moral turpitude to the occupation for
+162 which the license is sought or held;
+163 (B) The age of the individual at the time such felony or crime involving moral
+164 turpitude was committed;
+165 (C) The length of time elapsed since such felony or crime involving moral turpitude
+166 was committed;
+H. B. 650
+- 7 -
+25 LC 55 0417
+167 (D) All circumstances relative to such felony or crime involving moral turpitude,
+168 including, but not limited to, mitigating circumstances or social conditions surrounding
+169 the commission of such felony or crime involving moral turpitude; and
+170 (E) Evidence of rehabilitation and present fitness to perform the duties of the
+171 occupation for which the license is sought or held.
+172 (3) As used in this subsection, the term 'felony' shall include any offense which, if
+173 committed in this state, would be deemed a felony, without regard to its designation
+174 elsewhere; and the term 'conviction' shall include a finding or verdict of guilty or a plea
+175 of guilty, regardless of whether an appeal of the conviction has been sought."
+176 SECTION 3-2.
+177 Said title is further amended by revising Code Section 43-1-27, relating to licensee required
+178 to notify licensing authority of felony conviction, as follows:
+179 "43-1-27.
+180 Any licensed individual who is convicted under the laws of this state, the United States, or
+181 any other state, territory, or country of a felony as defined in paragraph (3) of
+182 subsection (a)(q) of Code Section 43-1-19 shall be required to notify the appropriate
+183 licensing authority of the conviction within ten days of the conviction. The failure of a
+184 licensed individual to notify the appropriate licensing authority of a conviction shall be
+185 considered grounds for revocation of his or her license, permit, registration, certification,
+186 or other authorization to conduct a licensed profession."
+187 SECTION 3-3.
+188 Said title is further amended in Code Section 43-3-27, relating to notification of conviction,
+189 time limit, and suspension relative to accountants, by revising subsection (a) as follows:
+190 "(a) Any individual issued a license or certification under this chapter or providing services
+191 under substantial equivalency practice privileges and convicted under the laws of this state,
+H. B. 650
+- 8 -
+25 LC 55 0417
+192 the United States, any other state, or any other country of a felony as defined in
+193 paragraph (3) of subsection (a)(q) of Code Section 43-1-19 shall be required to notify the
+194 board of such conviction within 30 days of such conviction. The failure of such individual
+195 to notify the board of a conviction shall be considered grounds for revocation of his or her
+196 license or other authorization issued pursuant to this chapter."
+197 SECTION 3-4.
+198 Said title is further amended in Code Section 43-6-18, relating to grounds for revocation or
+199 suspension of an auctioneer license and censure of licensees, by revising paragraphs (4), (6),
+200 and (7) as follows:
+201 "(4) Being convicted in a court of competent jurisdiction of this or any other state of a
+202 criminal offense involving moral turpitude or a felony Reserved;"
+203 "(6) Any conduct of any auctioneer in connection with his or her auction business which
+204 demonstrates bad faith, dishonesty, incompetency, or untruthfulness;
+205 (7) Any conduct of an auctioneer in connection with his or her auction business which
+206 demonstrates improper, fraudulent, or dishonest dealings;"
+207 SECTION 3-5.
+208 Said title is further amended in Code Section 43-10-20, relating to teaching of barbering or
+209 the practice of a cosmetologist in prisons and certification of registration, by revising
+210 subsection (b) as follows:
+211 "(b) The board shall be required to test an inmate who is an applicant for a certificate or
+212 registration under this chapter who has completed successfully a barber or cosmetologist
+213 training program operated by the Department of Corrections and who meets the
+214 requirements stated in Code Section 43-10-9. If such inmate passes the applicable written
+215 and practical examinations, the board may issue the appropriate certificate of registration
+216 to such inmate after consideration of all requirements under Code Sections 43-10-9
+H. B. 650
+- 9 -
+25 LC 55 0417
+217 and 43-1-19; provided, however, that the board shall not apply the provisions of paragraph
+218 (4) of subsection (a) of Code Section 43-1-19 to such inmate based solely upon such
+219 person's status as an inmate and shall apply such provisions in the same manner as would
+220 otherwise be applicable to an applicant who is not an inmate."
+221 SECTION 3-6.
+222 Said title is further amended in Code Section 43-14-6, relating to powers and duties of
+223 divisions relative to electrical contractors, plumbers, conditioned air contractors, low-voltage
+224 contractors, and utility contractors, by revising paragraph (4) of subsection (a) as follows:
+225 "(4) After notice and hearing, have the power to reprimand any person, licensee, or
+226 certificate holder, or to suspend, revoke, or cancel the license or certificate of or refuse
+227 to grant, renew, or restore a license or certificate to any person, licensee, or certificate
+228 holder upon any one of the following grounds:
+229 (A) The commission of any false, fraudulent, or deceitful act or the use of any forged,
+230 false, or fraudulent document in connection with the license or certificate requirements
+231 of this chapter or the rules and regulations of the board;
+232 (B) Failure at any time to comply with the requirements for a license or certificate
+233 under this chapter or the rules and regulations of the board;
+234 (C) Habitual intemperance in the use of alcoholic spirits, narcotics, or stimulants to
+235 such an extent as to render the license or certificate holder unsafe or unfit to practice
+236 any profession licensed or certified under this chapter;
+237 (D) Engaging in any dishonorable or unethical conduct in connection with a practice
+238 or profession licensed or certified under this chapter that is likely to deceive, defraud,
+239 or harm the public;
+240 (E) Knowingly performing any act which in any way assists an unlicensed or
+241 noncertified person to practice such profession;
+H. B. 650
+- 10 -
+25 LC 55 0417
+242 (F) Violating, directly or indirectly, or assisting in or abetting any violation of any
+243 provision of this chapter or any rule or regulation of the board;
+244 (G) The performance of any faulty, inadequate, inefficient, or unsafe electrical,
+245 plumbing, low-voltage contracting, utility contracting, or conditioned air contracting
+246 likely to endanger life, health, or property. The performance of any work that does not
+247 comply with the standards set by state codes or by local codes in jurisdictions where
+248 such codes are adopted, provided that such local codes are as stringent as the state
+249 codes, or by other codes or regulations which have been adopted by the board, shall be
+250 prima-facie evidence of the faulty, inadequate, inefficient, or unsafe character of such
+251 electrical, plumbing, low-voltage contracting, utility contracting, or conditioned air
+252 contracting; provided, however, that the board, in its sole discretion, for good cause
+253 shown and under such conditions as it may prescribe, may restore a license to any
+254 person whose license has been suspended or revoked;
+255 (H) With respect to utility contractors, the bidding by such a utility contractor in excess
+256 of license coverage; or
+257 (I) With respect to utility contractors, violations of Chapter 9 of Title 25;"
+258 SECTION 3-7.
+259 Said title is further amended in Code Section 43-24A-9, relating to provisional permits
+260 relative to massage therapy practice, by revising paragraph (4) of subsection (a) as follows:
+261 "(4) Has not been convicted of a felony in the courts of this state, any other state,
+262 territory, or country, or in the courts of the United States, including, but not limited to,
+263 a plea of nolo contendere entered to such charge or the affording of first offender
+264 treatment to any such charge in the same manner as provided in paragraph (4) of
+265 subsection (a) of Code Section 43-1-19 pursuant to Article 3 of Chapter 8 of Title 42 or
+266 another state's first offender laws."
+H. B. 650
+- 11 -
+25 LC 55 0417
+267 PART IV
+268 SECTION 4-1.
+269 Title 44 of the Official Code of Georgia Annotated, relating to property, is amended by
+270 adding a new Code section to read as follows:
+271 "44-7-3.1.
+272 (a) As used in this Code section, the term 'residential dwelling' or 'dwelling' means a
+273 structure or part of a structure that is designed or used for human habitation. Such term
+274 shall include, without limitation, a single-family home, a townhome, a mobile home, an
+275 apartment, and an individual condominium unit.
+276 (b) No owner of a residential dwelling who offers such dwelling for lease or solicits offers
+277 for the lease of such dwelling shall refuse to lease such dwelling to an individual based
+278 solely on such individual's criminal history; provided, however, that nothing in this
+279 subsection shall prohibit a person from refusing to lease a residential dwelling to any
+280 individual based solely or in part on such individual:
+281 (1) Having been convicted of any offense that requires such individual to register on the
+282 state sexual offender registry pursuant to Code Section 42-1-12;
+283 (2) Being a sexual offender, as defined in Code Section 42-1-12; or
+284 (3) Being included on the state sexual offender registry of this state, on the National Sex
+285 Offender Registry, or on the sexual offender registry or child abuse registry of any other
+286 state, a United States territory, the District of Columbia, or any American Indian tribe.
+287 (c) A violation of subsection (b) of this Code section shall constitute an unfair and
+288 deceptive act or practice under Part 2 of Article 15 of Chapter 1 of Title 10, the 'Fair
+289 Business Practices Act of 1975,' and all public and private remedies available under such
+290 part shall be available with regard to such a violation."
+H. B. 650
+- 12 -
+25 LC 55 0417
+291 PART V
+292 SECTION 5-1.
+293 Title 45 of the Official Code of Georgia Annotated, relating to public officers and employees,
+294 is amended in Code Section 45-17-2.1, relating to application to be a notary and
+295 endorsements and declarations, by revising paragraph (2) of subsection (a) as follows:
+296 "(2) The applicant shall sign and swear or affirm as outlined in paragraph (2) of
+297 subsection (b) of this Code section to the truthfulness of the application which shall state:
+298 (A) That the applicant resides or works or has a business in the county of application
+299 and the address of the residence or business. The applicant shall use his or her
+300 residential address for purposes of the application and may only use a business address
+301 for the application if the applicant is applying pursuant to the provisions of Code
+302 Section 45-17-7;
+303 (B) That the applicant is at least 18 years old;
+304 (C) That the applicant can read and write the English language;
+305 (D) That the applicant has an operating telephone number; and
+306 (E) All denials, revocations, suspensions, restrictions, or resignations of a notary
+307 commission held by the applicant; and
+308 (F) All criminal convictions of the applicant, including any plea of nolo contendere,
+309 except minor traffic violations."
+310 SECTION 5-2.
+311 Said title is further amended by revising Code Section 45-17-2.3, relating to grant or denial
+312 of commission or recommission, grounds, and unauthorized practice of law, as follows:
+313 "45-17-2.3.
+314 (a) After an applicant submits to the clerk of superior court of the county the application,
+315 endorsements, and declaration of applicant as required in Code Section 45-17-2.1, the clerk
+H. B. 650
+- 13 -
+25 LC 55 0417
+316 of superior court shall either grant or deny a commission or recommission as a notary
+317 public within ten days following the applicant's submission of the necessary documents.
+318 (b) The clerk of superior court may in his or her discretion deny a commission or
+319 recommission to an applicant based on any of the following grounds:
+320 (1) The applicant's criminal history;
+321 (2) Revocation, suspension, or restriction of any notary commission or professional
+322 license issued to the applicant by this or any other state;
+323 (3)(2) The commission in this or any state of any act enumerated in subsection (a) of
+324 Code Section 45-17-15, whether or not criminal penalties or commission suspension or
+325 revocation resulted; or
+326 (4)(3) The applicant is found by the State Bar of Georgia, a court of this state, or a court
+327 of any other state to have engaged in the unauthorized practice of law.
+328 (c) Any applicant who is denied a notarial commission or recommission by the clerk of
+329 superior court shall upon demand be allowed a hearing and adjudication before the superior
+330 court clerk with a right of de novo appeal to the superior court, such appeal to be
+331 determined by the court without the intervention of a jury."
+332 PART VI
+333 SECTION 6-1.
+334 This Act shall become effective upon its approval by the Governor or upon its becoming law
+335 without such approval.
+336 SECTION 6-2.
+337 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 650
+- 14 -
+[DELETED: 5L5,2,2,0hndndt3, e t r t g f t r t g a r o o e c p c a c l]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L  A i c w a f o a w i i a p r]
+[DELETED: 5L a i C S 4 r t r t g r a o l b p l b s a p]
+[DELETED: 5L]
+[DELETED: 5L  S f s o p t s ( o ( o C  T a o t i a t t s f o c i m]
+[DELETED: 5L  E o r a p f t p t d o t o s t o c o a f a d i p ( o]
+[DELETED: 5L U S a o s o a o c o a f a d i p o a c i p a c o r b r p o b t D o C a w m t s i a c o a r u C S 4]
+[DELETED: 5L  K p a a w i a w a a u o]
+[DELETED: 5L  T p o a f i i o u e p o n c e t s c o t a o f o t a s c i t s m a p i p ( o]
+[DELETED: 5L o s i c h p h t n i t]
+[DELETED: 5L a i C S 4 r t a t b a n a  T a s s a s o a a o i p ( o t a o t r o b  T a s u h o h]
+[DELETED: 5L  T c o s c m i h o h d d a c o c w a r o d n a t t s c s a t b]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0417
+House Bill 650
+By: Representatives Bell of the 75th, Gilliard of the 162nd, Paris of the 142nd, Jones of the 60th,
+Westbrook of the 163rd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 15, 43, 44, and 45 of the Official Code of Georgia Annotated, relating to
+2 courts, professions and businesses, property, and public officers and employees, respectively,
+3 so as to restore certain rights of individuals with criminal histories; to repeal the prohibition
+4 on felons serving on juries; to repeal the prohibition on felons serving on grand juries; to
+5 provide exceptions; to revise the grounds for the refusal to grant and revocation of
+6 professional licenses; to revise the grounds for the revocation or suspension of an auctioneer
+7 license; to revise the grounds for the suspension, revocation, or cancellation of a license or
+8 certificate of electrical contractors, plumbers, conditioned air contractors, low-voltage
+9 contractors, and utility contractors; to prohibit persons from refusing to lease residential
+10 dwellings to individuals based on such individuals' criminal histories; to revise the grounds
+11 for the denial of a notary public application; to provide for conforming changes; to provide
+12 an effective date; to provide a short title; to provide for related matters; to repeal conflicting
+13 laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 650
+- 1 -
+
+25 LC 55 0417
+15 PART I
+16 SECTION 1-1.
+17 This Act shall be known and may be cited as the "Presidential Felon Freedom Act."
+18 PART II
+19 SECTION 2-1.
+20 Title 15 of the Official Code of Georgia Annotated, relating to courts, is amended by revising
+21 Code Section 15-12-40, relating to ineligibility to serve as a trial juror, as follows:
+22 "15-12-40.
+23 Any person who has been convicted of a felony in a state or federal court who has not had
+24 his or her civil rights restored and any person who has been judicially determined to be
+25 mentally incompetent shall not be eligible to serve as a trial juror."
+26 SECTION 2-2.
+27 Said title is further amended in Code Section 15-12-40.1, relating to state-wide master jury
+28 list, driver's license information, list of registered voters, and random list of persons to
+29 comprise venire, by revising subsections (b), (f), and (g) as follows:
+30 "(b) On and after July 1, 2017, upon the council's request, the Department of Driver
+31 Services shall provide the council data showing the full name of all persons who are at
+32 least 18 years of age and residents of this state who have been issued a driver's license or
+33 personal identification card pursuant to Chapter 5 of Title 40. In addition to the person's
+34 full name, the Department of Driver Services shall include the person's address, city of
+35 residence, date of birth, gender, driver's license or personal identification card number, and,
+36 whenever racial information is collected by the Department of Driver Services, racial
+37 information. The Department of Driver Services shall provide the document issue date and
+H. B. 650
+- 2 -
+
+25 LC 55 0417
+38 document expiration date; shall indicate whether the document is a driver's license or a
+39 personal an identification card; and shall exclude persons whose driver's license has been
+40 suspended or revoked due to a felony conviction, whose driver's license has been expired
+41 for more than 730 days, or who have been identified as not being citizens of the United
+42 States. Such data shall also include a secure unique identifier, determined according to the
+43 specifications of the council in consultation with the Department of Driver Services, which
+44 shall be a representation of the last four digits of the social security number associated with
+45 each driver's license or personal identification card holder. The council shall provide the
+46 Department of Driver Services with the software required to generate such secure unique
+47 identifier. The Department of Driver Services shall also provide the names and identifying
+48 information specified by this subsection of persons convicted in this state or in another
+49 state of driving without a license. Such data shall be in electronic format as required by the
+50 council."
+51 "(f) On and after July 1, 2017, upon request by the council, the Department of Corrections
+52 shall provide to the council, without cost, data showing a list of the names of all persons
+53 who have been convicted of a felony in this state. In addition to the convicted person's full
+54 name, the data shall include the person's address, including the county of residence and ZIP
+55 Code, date of birth, gender, and, when such information is available, the convicted person's
+56 race. Such data shall also include a secure unique identifier, determined according to the
+57 specifications of the council in consultation with the Department of Corrections, which
+58 shall be a representation of the last four digits of the social security number associated with
+59 each convicted person. The council shall provide the Department of Corrections with the
+60 software required to generate such secure unique identifier. Such data shall be in electronic
+61 format as required by the council Reserved.
+62 (g) On and after July 1, 2017, upon request by the council, the State Board of Pardons and
+63 Paroles shall provide to the council, without cost, data showing a list of the names of all
+64 persons who have had his or her civil rights restored. In addition to the person's full name,
+H. B. 650
+- 3 -
+
+25 LC 55 0417
+65 the data shall include the person's address, including the county of residence and ZIP Code,
+66 date of birth, gender, and, when such information is available, the person's race. Such data
+67 shall also include a secure unique identifier, determined according to the specifications of
+68 the council in consultation with the State Board of Pardons and Paroles, which shall be a
+69 representation of the last four digits of the social security number associated with each
+70 person. The council shall provide the State Board of Pardons and Paroles with the software
+71 required to generate such secure unique identifier. Such data shall be in electronic format
+72 as required by the council Reserved."
+73 SECTION 2-3.
+74 Said title is further amended in Code Section 15-12-60, relating to qualifications of grand
+75 jurors and impact of ineligibility, by revising subsection (c) as follows:
+76 "(c) The following individuals shall not be eligible to serve as a grand juror:
+77 (1) Any individual who has been convicted of a felony in a state or federal court who has
+78 not had his or her civil rights restored;
+79 (2) Any individual who has been judicially determined to be mentally incompetent shall
+80 not be eligible to serve as a grant juror;
+81 (3) Any individual charged with a felony offense and who is in a pretrial release
+82 program, a pretrial release and diversion program, or a pretrial intervention and diversion
+83 program, as provided for in Article 4 of Chapter 18 of Title 15 or Article 4 of Chapter 3
+84 of Title 42 or pursuant to Uniform Superior Court Rule 27, a similar diversion program
+85 from another state, or a similar federal court diversion program for a felony offense;
+86 (4) Any individual sentenced for a felony offense pursuant to Code Section 16-13-2 who
+87 has not completed the terms of his or her sentence;
+88 (5) Any individual serving a sentence for a felony offense pursuant to Article 3 of
+89 Chapter 8 of Title 42 or serving a first offender sentence for a felony offense pursuant to
+90 another state's law; and
+H. B. 650
+- 4 -
+
+25 LC 55 0417
+91 (6) Any individual who is participating in a drug court division, mental health court
+92 division, veterans court division, a similar court program from another state, or a similar
+93 federal court program for a felony offense."
+94 SECTION 2-4.
+95 Said title is further amended in Code Section 15-12-163, relating to challenges for cause,
+96 hearing of evidence, and when objection made be had to a juror, by revising subsection (b)
+97 as follows:
+98 "(b) The state or the accused may make any of the following objections to the juror:
+99 (1) That the juror is not a citizen, resident in the county;
+100 (2) That the juror is under 18 years of age;
+101 (3) That the juror is incompetent to serve because of mental illness or intellectual
+102 disability, or that the juror is intoxicated;
+103 (4) That the juror is so near of kin to the prosecutor, the accused, or the victim as to
+104 disqualify the juror by law from serving on the jury; or
+105 (5) That the juror has been convicted of a felony in a federal court or any court of a state
+106 of the United States and the juror's civil rights have not been restored; or
+107 (6) That the juror is unable to communicate in the English language."
+108 PART III
+109 SECTION 3-1.
+110 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+111 is amended in Code Section 43-1-19, relating to refusal to grant, revocation, and
+112 reinstatement of licenses by professional licensing boards, surrender, and probationary
+113 license, by revising paragraphs (3) and (4) of subsection (a) and subsection (q) as follows:
+H. B. 650
+- 5 -
+
+25 LC 55 0417
+114 "(3) Been convicted of any felony or of any crime involving moral turpitude in the courts
+115 of this state or any other state, territory, or country or in the courts of the United States;
+116 as used in this paragraph, paragraph (4) of this subsection, and subsection (q) of this Code
+117 section, the term 'felony' shall include any offense which, if committed in this state,
+118 would be deemed a felony, without regard to its designation elsewhere; and, as used in
+119 this paragraph and subsection (q) of this Code section, the term 'conviction' shall include
+120 a finding or verdict of guilty or a plea of guilty, regardless of whether an appeal of the
+121 conviction has been sought Reserved;
+122 (4)(A) Been arrested, charged, and sentenced for the commission of any felony, or any
+123 crime involving moral turpitude, when:
+124 (i) A sentence for such offense was imposed pursuant to Article 3 of Chapter 8 of
+125 Title 42 or another state's first offender laws;
+126 (ii) A sentence for such offense was imposed pursuant to subsection (a) or (c) of
+127 Code Section 16-13-2;
+128 (iii) A sentence for such offense was imposed as a result of a plea of nolo contendere;
+129 or
+130 (iv) An adjudication of guilt or sentence was otherwise withheld or not entered on the
+131 charge.
+132 (B) An order entered pursuant to subsection (a) or (c) of Code Section 16-13-2,
+133 Article 3 of Chapter 8 of Title 42, or another state's first offender treatment order shall
+134 be conclusive evidence of an arrest and sentencing for such offense Reserved;"
+135 "(q)(1) Notwithstanding paragraphs (3) and (4) of subsection (a) of this Code section or
+136 any other provision of law, and unless Unless a felony or crime involving moral turpitude
+137 directly relates to the occupation for which the license is sought or held, no professional
+138 licensing board shall refuse to grant a license to an applicant therefor or shall revoke the
+139 license of an individual licensed by that board due solely or in part to such applicant's or
+140 licensee's:
+H. B. 650
+- 6 -
+
+25 LC 55 0417
+141 (A) Conviction of any felony or any crime involving moral turpitude, whether it
+142 occurred in the courts of this state or any other state, territory, or country or in the
+143 courts of the United States;
+144 (B) Arrest, charge, and sentence for the commission of such offense;
+145 (C) Sentence for such offense pursuant to Article 3 of Chapter 8 of Title 42 or another
+146 state's first offender laws;
+147 (D) Sentence for such offense pursuant to subsection (a) or (c) of Code
+148 Section 16-13-2;
+149 (E) Sentence for such offense as a result of a plea of nolo contendere;
+150 (F) Adjudication of guilt or sentence was otherwise withheld or not entered; or
+151 (G) Being under supervision by a community supervision officer, as such term is
+152 defined in Code Section 42-3-1, for a conviction of any felony or any crime involving
+153 moral turpitude, whether it occurred in the courts of this state or any other state,
+154 territory, or country or in the courts of the United States, so long as such individual was
+155 not convicted of a felony violation of Chapter 5 of Title 16 nor convicted of a crime
+156 requiring registration on the state sexual offender registry.
+157 (2) In determining if a felony or crime involving moral turpitude directly relates to the
+158 occupation for which the license is sought or held, the professional licensing board shall
+159 consider:
+160 (A) The nature and seriousness of such felony or crime involving moral turpitude and
+161 the relationship of such felony or crime involving moral turpitude to the occupation for
+162 which the license is sought or held;
+163 (B) The age of the individual at the time such felony or crime involving moral
+164 turpitude was committed;
+165 (C) The length of time elapsed since such felony or crime involving moral turpitude
+166 was committed;
+H. B. 650
+- 7 -
+
+25 LC 55 0417
+167 (D) All circumstances relative to such felony or crime involving moral turpitude,
+168 including, but not limited to, mitigating circumstances or social conditions surrounding
+169 the commission of such felony or crime involving moral turpitude; and
+170 (E) Evidence of rehabilitation and present fitness to perform the duties of the
+171 occupation for which the license is sought or held.
+172 (3) As used in this subsection, the term 'felony' shall include any offense which, if
+173 committed in this state, would be deemed a felony, without regard to its designation
+174 elsewhere; and the term 'conviction' shall include a finding or verdict of guilty or a plea
+175 of guilty, regardless of whether an appeal of the conviction has been sought."
+176 SECTION 3-2.
+177 Said title is further amended by revising Code Section 43-1-27, relating to licensee required
+178 to notify licensing authority of felony conviction, as follows:
+179 "43-1-27.
+180 Any licensed individual who is convicted under the laws of this state, the United States, or
+181 any other state, territory, or country of a felony as defined in paragraph (3) of
+182 subsection (a)(q) of Code Section 43-1-19 shall be required to notify the appropriate
+183 licensing authority of the conviction within ten days of the conviction. The failure of a
+184 licensed individual to notify the appropriate licensing authority of a conviction shall be
+185 considered grounds for revocation of his or her license, permit, registration, certification,
+186 or other authorization to conduct a licensed profession."
+187 SECTION 3-3.
+188 Said title is further amended in Code Section 43-3-27, relating to notification of conviction,
+189 time limit, and suspension relative to accountants, by revising subsection (a) as follows:
+190 "(a) Any individual issued a license or certification under this chapter or providing services
+191 under substantial equivalency practice privileges and convicted under the laws of this state,
+H. B. 650
+- 8 -
+
+25 LC 55 0417
+192 the United States, any other state, or any other country of a felony as defined in
+193 paragraph (3) of subsection (a)(q) of Code Section 43-1-19 shall be required to notify the
+194 board of such conviction within 30 days of such conviction. The failure of such individual
+195 to notify the board of a conviction shall be considered grounds for revocation of his or her
+196 license or other authorization issued pursuant to this chapter."
+197 SECTION 3-4.
+198 Said title is further amended in Code Section 43-6-18, relating to grounds for revocation or
+199 suspension of an auctioneer license and censure of licensees, by revising paragraphs (4), (6),
+200 and (7) as follows:
+201 "(4) Being convicted in a court of competent jurisdiction of this or any other state of a
+202 criminal offense involving moral turpitude or a felony Reserved;"
+203 "(6) Any conduct of any auctioneer in connection with his or her auction business which
+204 demonstrates bad faith, dishonesty, incompetency, or untruthfulness;
+205 (7) Any conduct of an auctioneer in connection with his or her auction business which
+206 demonstrates improper, fraudulent, or dishonest dealings;"
+207 SECTION 3-5.
+208 Said title is further amended in Code Section 43-10-20, relating to teaching of barbering or
+209 the practice of a cosmetologist in prisons and certification of registration, by revising
+210 subsection (b) as follows:
+211 "(b) The board shall be required to test an inmate who is an applicant for a certificate or
+212 registration under this chapter who has completed successfully a barber or cosmetologist
+213 training program operated by the Department of Corrections and who meets the
+214 requirements stated in Code Section 43-10-9. If such inmate passes the applicable written
+215 and practical examinations, the board may issue the appropriate certificate of registration
+216 to such inmate after consideration of all requirements under Code Sections 43-10-9
+H. B. 650
+- 9 -
+
+25 LC 55 0417
+217 and 43-1-19; provided, however, that the board shall not apply the provisions of paragraph
+218 (4) of subsection (a) of Code Section 43-1-19 to such inmate based solely upon such
+219 person's status as an inmate and shall apply such provisions in the same manner as would
+220 otherwise be applicable to an applicant who is not an inmate."
+221 SECTION 3-6.
+222 Said title is further amended in Code Section 43-14-6, relating to powers and duties of
+223 divisions relative to electrical contractors, plumbers, conditioned air contractors, low-voltage
+224 contractors, and utility contractors, by revising paragraph (4) of subsection (a) as follows:
+225 "(4) After notice and hearing, have the power to reprimand any person, licensee, or
+226 certificate holder, or to suspend, revoke, or cancel the license or certificate of or refuse
+227 to grant, renew, or restore a license or certificate to any person, licensee, or certificate
+228 holder upon any one of the following grounds:
+229 (A) The commission of any false, fraudulent, or deceitful act or the use of any forged,
+230 false, or fraudulent document in connection with the license or certificate requirements
+231 of this chapter or the rules and regulations of the board;
+232 (B) Failure at any time to comply with the requirements for a license or certificate
+233 under this chapter or the rules and regulations of the board;
+234 (C) Habitual intemperance in the use of alcoholic spirits, narcotics, or stimulants to
+235 such an extent as to render the license or certificate holder unsafe or unfit to practice
+236 any profession licensed or certified under this chapter;
+237 (D) Engaging in any dishonorable or unethical conduct in connection with a practice
+238 or profession licensed or certified under this chapter that is likely to deceive, defraud,
+239 or harm the public;
+240 (E) Knowingly performing any act which in any way assists an unlicensed or
+241 noncertified person to practice such profession;
+H. B. 650
+- 10 -
+
+25 LC 55 0417
+242 (F) Violating, directly or indirectly, or assisting in or abetting any violation of any
+243 provision of this chapter or any rule or regulation of the board;
+244 (G) The performance of any faulty, inadequate, inefficient, or unsafe electrical,
+245 plumbing, low-voltage contracting, utility contracting, or conditioned air contracting
+246 likely to endanger life, health, or property. The performance of any work that does not
+247 comply with the standards set by state codes or by local codes in jurisdictions where
+248 such codes are adopted, provided that such local codes are as stringent as the state
+249 codes, or by other codes or regulations which have been adopted by the board, shall be
+250 prima-facie evidence of the faulty, inadequate, inefficient, or unsafe character of such
+251 electrical, plumbing, low-voltage contracting, utility contracting, or conditioned air
+252 contracting; provided, however, that the board, in its sole discretion, for good cause
+253 shown and under such conditions as it may prescribe, may restore a license to any
+254 person whose license has been suspended or revoked;
+255 (H) With respect to utility contractors, the bidding by such a utility contractor in excess
+256 of license coverage; or
+257 (I) With respect to utility contractors, violations of Chapter 9 of Title 25;"
+258 SECTION 3-7.
+259 Said title is further amended in Code Section 43-24A-9, relating to provisional permits
+260 relative to massage therapy practice, by revising paragraph (4) of subsection (a) as follows:
+261 "(4) Has not been convicted of a felony in the courts of this state, any other state,
+262 territory, or country, or in the courts of the United States, including, but not limited to,
+263 a plea of nolo contendere entered to such charge or the affording of first offender
+264 treatment to any such charge in the same manner as provided in paragraph (4) of
+265 subsection (a) of Code Section 43-1-19 pursuant to Article 3 of Chapter 8 of Title 42 or
+266 another state's first offender laws."
+H. B. 650
+- 11 -
+
+25 LC 55 0417
+267 PART IV
+268 SECTION 4-1.
+269 Title 44 of the Official Code of Georgia Annotated, relating to property, is amended by
+270 adding a new Code section to read as follows:
+271 "44-7-3.1.
+272 (a) As used in this Code section, the term 'residential dwelling' or 'dwelling' means a
+273 structure or part of a structure that is designed or used for human habitation. Such term
+274 shall include, without limitation, a single-family home, a townhome, a mobile home, an
+275 apartment, and an individual condominium unit.
+276 (b) No owner of a residential dwelling who offers such dwelling for lease or solicits offers
+277 for the lease of such dwelling shall refuse to lease such dwelling to an individual based
+278 solely on such individual's criminal history; provided, however, that nothing in this
+279 subsection shall prohibit a person from refusing to lease a residential dwelling to any
+280 individual based solely or in part on such individual:
+281 (1) Having been convicted of any offense that requires such individual to register on the
+282 state sexual offender registry pursuant to Code Section 42-1-12;
+283 (2) Being a sexual offender, as defined in Code Section 42-1-12; or
+284 (3) Being included on the state sexual offender registry of this state, on the National Sex
+285 Offender Registry, or on the sexual offender registry or child abuse registry of any other
+286 state, a United States territory, the District of Columbia, or any American Indian tribe.
+287 (c) A violation of subsection (b) of this Code section shall constitute an unfair and
+288 deceptive act or practice under Part 2 of Article 15 of Chapter 1 of Title 10, the 'Fair
+289 Business Practices Act of 1975,' and all public and private remedies available under such
+290 part shall be available with regard to such a violation."
+H. B. 650
+- 12 -
+
+25 LC 55 0417
+291 PART V
+292 SECTION 5-1.
+293 Title 45 of the Official Code of Georgia Annotated, relating to public officers and employees,
+294 is amended in Code Section 45-17-2.1, relating to application to be a notary and
+295 endorsements and declarations, by revising paragraph (2) of subsection (a) as follows:
+296 "(2) The applicant shall sign and swear or affirm as outlined in paragraph (2) of
+297 subsection (b) of this Code section to the truthfulness of the application which shall state:
+298 (A) That the applicant resides or works or has a business in the county of application
+299 and the address of the residence or business. The applicant shall use his or her
+300 residential address for purposes of the application and may only use a business address
+301 for the application if the applicant is applying pursuant to the provisions of Code
+302 Section 45-17-7;
+303 (B) That the applicant is at least 18 years old;
+304 (C) That the applicant can read and write the English language;
+305 (D) That the applicant has an operating telephone number; and
+306 (E) All denials, revocations, suspensions, restrictions, or resignations of a notary
+307 commission held by the applicant; and
+308 (F) All criminal convictions of the applicant, including any plea of nolo contendere,
+309 except minor traffic violations."
+310 SECTION 5-2.
+311 Said title is further amended by revising Code Section 45-17-2.3, relating to grant or denial
+312 of commission or recommission, grounds, and unauthorized practice of law, as follows:
+313 "45-17-2.3.
+314 (a) After an applicant submits to the clerk of superior court of the county the application,
+315 endorsements, and declaration of applicant as required in Code Section 45-17-2.1, the clerk
+H. B. 650
+- 13 -
+
+25 LC 55 0417
+316 of superior court shall either grant or deny a commission or recommission as a notary
+317 public within ten days following the applicant's submission of the necessary documents.
+318 (b) The clerk of superior court may in his or her discretion deny a commission or
+319 recommission to an applicant based on any of the following grounds:
+320 (1) The applicant's criminal history;
+321 (2) Revocation, suspension, or restriction of any notary commission or professional
+322 license issued to the applicant by this or any other state;
+323 (3)(2) The commission in this or any state of any act enumerated in subsection (a) of
+324 Code Section 45-17-15, whether or not criminal penalties or commission suspension or
+325 revocation resulted; or
+326 (4)(3) The applicant is found by the State Bar of Georgia, a court of this state, or a court
+327 of any other state to have engaged in the unauthorized practice of law.
+328 (c) Any applicant who is denied a notarial commission or recommission by the clerk of
+329 superior court shall upon demand be allowed a hearing and adjudication before the superior
+330 court clerk with a right of de novo appeal to the superior court, such appeal to be
+331 determined by the court without the intervention of a jury."
+332 PART VI
+333 SECTION 6-1.
+334 This Act shall become effective upon its approval by the Governor or upon its becoming law
+335 without such approval.
+336 SECTION 6-2.
+337 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 650
+- 14 -
+
+[DELETED: 5L5,2,2,0hndndt3, e t r t g f t r t g a r o o e c p c a c l]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L  A i c w a f o a w i i a p r]
+[DELETED: 5L a i C S 4 r t r t g r a o l b p l b s a p]
+[DELETED: 5L]
+[DELETED: 5L  S f s o p t s ( o ( o C  T a o t i a t t s f o c i m]
+[DELETED: 5L  E o r a p f t p t d o t o s t o c o a f a d i p ( o]
+[DELETED: 5L U S a o s o a o c o a f a d i p o a c i p a c o r b r p o b t D o C a w m t s i a c o a r u C S 4]
+[DELETED: 5L  K p a a w i a w a a u o]
+[DELETED: 5L  T p o a f i i o u e p o n c e t s c o t a o f o t a s c i t s m a p i p ( o]
+[DELETED: 5L o s i c h p h t n i t]
+[DELETED: 5L a i C S 4 r t a t b a n a  T a s s a s o a a o i p ( o t a o t r o b  T a s u h o h]
+[DELETED: 5L  T c o s c m i h o h d d a c o c w a r o d n a t t s c s a t b]

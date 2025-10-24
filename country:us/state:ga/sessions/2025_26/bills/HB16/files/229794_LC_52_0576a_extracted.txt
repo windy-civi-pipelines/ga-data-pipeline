@@ -1,0 +1,737 @@
+Title: House Bill 16
+Official Title: House Bill 16
+Number of Sections: 1
+Source: versions - LC 52 0576/a
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0576
+By: Representatives Schofield of the 63rd, McClain of the 109th, Scott of the 76th, Davis of
+the 87th, and Glaize of the 67th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial
+2 relations, so as to provide protections for warehouse distribution center workers; to provide
+3 for a short title; to provide for definitions; to require a covered employer to provide to a
+4 covered employee in a warehouse distribution center a written description of any quota or
+5 workplace surveillance; to prohibit unlawful quotas; to provide for paid break time for rest;
+6 to provide for appropriate training; to limit the collection and use of employee work speed
+7 data; to provide for record retention and cooperation with the Department of Labor; to
+8 provide for a right to request records; to provide for notice; to prohibit unlawful retaliation;
+9 to provide for a complaints process; to provide for enforcement; to provide for a private
+10 cause of action; to provide for rules and regulations; to provide for assessments and appeals;
+11 to provide for related matters; to provide for an effective date; to repeal conflicting laws; and
+12 for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+14 SECTION 1.
+15 Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial relations,
+16 is amended by revising Chapter 11, which is designated as reserved, as follows:
+H. B. 16
+- 1 -
+25 LC 52 0576
+17 "CHAPTER 11
+18 34-11-1.
+19 This chapter shall be known and may be cited as the 'Warehouse Worker Protection Act.'
+20 Reserved.
+21 34-11-2.
+22 As used in this chapter, the term:
+23 (1) 'Adverse employment action' means a change by the covered employer in the
+24 compensation, terms, conditions, or privileges of the job of the covered employee that,
+25 from the perspective of a reasonable person, puts the covered employee in a materially
+26 adverse position than prior to the change, including termination, a reduction in benefits,
+27 disciplinary action, demotion, promotion, transfer, imposition of a work schedule more
+28 burdensome to the covered employee, reduction of scheduled hours, adjustment in ability
+29 for promotion, or other modifications to compensation, terms, conditions, or privileges
+30 of employment.
+31 (2) 'Commissioner' means the Commissioner of Labor.
+32 (3) 'Covered employee' means an individual who is employed by a covered employer for
+33 the performance of work at a warehouse distribution center and is subject to a quota while
+34 performing work at such center.
+35 (4) 'Covered employer' means a person that is engaged in commerce, in the production
+36 of goods for commerce, or in an enterprise engaged in commerce or in the production of
+37 goods for commerce, including a contractor, subcontractor, temporary service firm,
+38 staffing agency, independent contractor, employee leasing entity, or similar entity and
+39 that employs a covered employee for the performance of work at a warehouse distribution
+40 center.
+H. B. 16
+- 2 -
+25 LC 52 0576
+41 (5) 'Defined time period' means any unit of time measurement equal to or less than one
+42 day, including hours, minutes, and seconds and any fraction thereof.
+43 (6) 'Department' means the Department of Labor.
+44 (7) 'Designated employee representative' means any representative designated by a
+45 covered employee, including but not limited to an employee representative that has a
+46 collective bargaining relationship with the covered employer of the covered employee.
+47 (8) 'Employee work speed data' means information a covered employer collects, stores,
+48 analyzes, or interprets relating to the performance of work by a covered employee of the
+49 covered employer for a quota, including information with respect to the following
+50 criteria:
+51 (A) Quantities of tasks performed by the covered employee;
+52 (B) Quantities of items or materials handled or produced by the covered employee;
+53 (C) Rates or speeds of tasks performed by the covered employee;
+54 (D) Measurements or metrics of covered employee performance in relation to a quota;
+55 or
+56 (E) Time categorized with respect to the covered employee as performing tasks or not
+57 performing tasks.
+58 (9) 'Quota' means an express or implied performance standard or performance target,
+59 including such a standard or target used to rank or compare a covered employee in
+60 relation to the performance of another covered employee or in relation to the past
+61 performance of the covered employee, where:
+62 (A) A covered employee is actually or effectively assigned, required, or expected
+63 within a defined time period, with or without any reasonable accommodation provided
+64 under federal, state, or local law, to perform a quantified number of tasks or at a
+65 specified productivity speed or handle or produce a quantified amount of material
+66 without a certain number of errors or defects, and such assignment, requirement, or
+H. B. 16
+- 3 -
+25 LC 52 0576
+67 expectation is measured at the individual or group level for such defined time period;
+68 or
+69 (B) A covered employer categorizes, measures, records, or tallies the time a covered
+70 employee is performing and not performing tasks within a defined time period or
+71 increments of time within a defined time period.
+72 (10) 'Warehouse distribution center' means an establishment in Georgia as defined by
+73 any of the following North American Industry Classification System Codes in effect on
+74 January 1, 2025: 493, for warehousing and storage; 423, for merchant wholesalers,
+75 durable goods; 424, for merchant wholesalers, nondurable goods; 454110, for electronic
+76 shopping and mail-order houses; and 492110, for couriers and express delivery services.
+77 (11) 'Workplace surveillance' means any surveillance by a covered employer, whether
+78 on duty or off duty, with respect to a covered employee, including the detection,
+79 monitoring, interception, collection, exploitation, preservation, protection, transmission,
+80 or retention of data concerning activities or communications with respect to the covered
+81 employee, including through the use of a product or service marketed, or that can be used,
+82 for such purposes, such as a computer, telephone, wire, radio, camera, sensor,
+83 electromagnetic, photoelectronic, handheld or wearable device, or photo-optical system.
+84 34-11-3.
+85 (a) A covered employer shall provide to each covered employee a written description of
+86 each quota to which each covered employee is subject, including but not limited to:
+87 (1) The quantified number of tasks to be performed or materials to be produced or
+88 handled or other performance measures within the defined time period for the quota;
+89 (2) Any potential discipline or adverse employment action that could result from failure
+90 to meet the quota;
+91 (3) How performance targets or performance standards for the quota are calculated;
+H. B. 16
+- 4 -
+25 LC 52 0576
+92 (4) Whether there is any incentive or bonus program associated with meeting or
+93 exceeding the quota and, if applicable, how the incentive or bonus program operates; and
+94 (5) How the quota is monitored, including a description of what employee work speed
+95 data are being collected; how the employee work speed data are being collected,
+96 including a description of any workplace surveillance technology used on the covered
+97 employee by the covered employer; where and when the employee work speed data are
+98 being collected; the frequency of the collection; where the storage of the employee work
+99 speed data is located; the business purposes for which the employee work speed data are
+100 being used; and the identity of any third party used for such workplace surveillance, to
+101 which data from such workplace surveillance is transferred, and from which data of the
+102 covered employee is or may be purchased or acquired.
+103 (b) A covered employer shall provide the written description required under subsection (a)
+104 of this Code section as follows:
+105 (1) To a covered employee upon hire;
+106 (2) To all covered employees no later than July 1, 2025;
+107 (3) To a covered employee not less than two days prior to a change that results in a
+108 different quota than the most recent written description provided to the covered
+109 employee; and
+110 (4) To a covered employee prior to and when a covered employer takes an adverse
+111 employment action against the covered employee in whole or in part for failure to meet
+112 a quota.
+113 (c) The written description required under this Code section shall be understandable, in
+114 plain language, and either in the covered employee's preferred language or in the language
+115 the covered employer regularly uses to communicate with the covered employee.
+116 34-11-4.
+117 (a) A covered employer shall not require a covered employee to meet a quota that:
+H. B. 16
+- 5 -
+25 LC 52 0576
+118 (1) Prevents compliance with any meal breaks, rest periods, or other breaks required by
+119 federal, state, or local law; compliance with health and safety provisions required by
+120 federal, state, or local law; the use of bathroom facilities, including reasonable travel time
+121 to and from bathroom facilities; or compliance with a covered employee's right to
+122 reasonable accommodations or nondiscrimination as required by federal, state, or local
+123 law;
+124 (2) Measures the total output or performance for the covered employee over an
+125 increment of time that is shorter than one day or measures and evaluates the output or
+126 performance of a covered employee during any paid or unpaid break to which the covered
+127 employee is entitled;
+128 (3) Is based solely on ranking the performance of the covered employee in relation to the
+129 performance of another covered employee or in relation to the past performance of that
+130 covered employee; or
+131 (4) Is based on continuously measuring, recording, or tallying increments of time within
+132 a defined time period during which a covered employee is or is not doing a particular
+133 activity.
+134 (b) A covered employer shall not take an adverse employment action against a covered
+135 employee for failure to meet a quota that violates subsection (a) of this Code section or for
+136 failure to meet a quota for which the covered employee did not receive the written
+137 description required under Code Section 34-11-3.
+138 34-11-5.
+139 (a) A covered employer shall provide to each covered employee not less than one 15
+140 minute paid break time every four hours of work, to be paid at the regular rate at which the
+141 covered employee is employed.
+142 (b) A covered employer shall not retaliate against a covered employee for requesting or
+143 taking the paid break time provided for in subsection (a) of this Code section.
+H. B. 16
+- 6 -
+25 LC 52 0576
+144 (c) A covered employer shall provide information or training to all covered employees on
+145 the following:
+146 (1) The name of each individual on the covered employer's safety committee;
+147 (2) The warehouse distribution center's ergonomic program;
+148 (3) The early signs and symptoms of musculoskeletal injuries and the procedures for
+149 reporting them;
+150 (4) The procedures for reporting injuries, incidents, and other hazards; and
+151 (5) Any requirements the Commissioner provides by rule.
+152 (d) The training in subsection (c) of this Code section shall be provided to a new hire prior
+153 to starting work and to covered employees no later than July 1, 2025, and as such training
+154 is updated but not less than annually thereafter.
+155 34-11-6.
+156 (a) A covered employer shall not collect, use, maintain, or transfer data regarding a
+157 covered employee to establish, maintain, or use employee work speed data except as
+158 strictly necessary to monitor the compliance of the covered employee with a quota.
+159 (b) A covered employer shall not disclose any information collected on a covered
+160 employee with respect to a quota to any other covered employee except as strictly
+161 necessary to fulfill a specific and reasonable business rationale of the covered employer.
+162 34-11-7.
+163 (a) A covered employer shall establish, maintain, and preserve contemporaneous, true, and
+164 accurate records of the following:
+165 (1) The employee work speed data for each covered employee;
+166 (2) The aggregate employee work speed data for covered employees at the same
+167 warehouse distribution center; and
+168 (3) The written descriptions of the quotas a covered employee was provided.
+H. B. 16
+- 7 -
+25 LC 52 0576
+169 (b) The records provided for in subsection (a) of this Code section shall be maintained and
+170 preserved throughout the duration of each covered employee's period of employment and
+171 shall be made available to the Commissioner upon request.
+172 (c) The records provided for in subsection (a) of this Code section relating to the
+173 six-month period prior to the date of the covered employee's separation shall be preserved
+174 for at least three years subsequent to the date of such employee's separation and shall be
+175 made available to the Commissioner upon request.
+176 (d) A covered employer shall enable a covered employee to supplement the employee
+177 work speed data for the covered employee by recording any reason the covered employee
+178 provides for any defined time period during which the covered employee was not
+179 performing work related tasks.
+180 (e) A covered employer shall enable a covered employee to review and request correction
+181 of the employee work speed data for such employee, and a covered employer shall
+182 investigate and determine whether the employee work speed data for such employee is
+183 inaccurate. A covered employer shall promptly correct any inaccurate data, notify the
+184 covered employee of the determination and correction, review and adjust any adverse
+185 employment action that was partially or solely based on the inaccurate data, and notify the
+186 covered employee of the adjustment.
+187 (f) Nothing in this Code section shall require a covered employer to keep records provided
+188 for in this Code section if such employer does not use quotas or monitor employee work
+189 speed data.
+190 34-11-8.
+191 (a) A current covered employee has the right to request a written description of each quota
+192 to which the covered employee is subject, a copy of the employee work speed data for the
+193 covered employee, and a copy of the prior six months of aggregate employee work speed
+194 data for similar employees at the same warehouse distribution center.
+H. B. 16
+- 8 -
+25 LC 52 0576
+195 (b) A former covered employee has the right to request within three years subsequent to
+196 the date of separation from a covered employer a written description of the quota for the
+197 covered employee at the date of separation, a copy of the employee work speed data for the
+198 covered employee the six months prior to the date of separation, and a copy of aggregate
+199 employee work speed data for similar employees at the same warehouse distribution center
+200 for the six months prior to the date of separation.
+201 (c) The records requested pursuant to this Code section shall be provided at no cost to the
+202 current or former covered employee.
+203 (d) A covered employer shall provide any records requested pursuant to this Code section
+204 as soon as practicable, provided that the requested written descriptions of the quota shall
+205 be provided no later than two business days following the date of the receipt of the request
+206 and the requested personal work speed data and aggregated work speed data shall be
+207 provided no later than seven business days following the date of the receipt of the request.
+208 (e) Any records provided under this Code section shall be understandable, in plain
+209 language, and either in the covered employee's preferred language or in the language the
+210 covered employer regularly uses to communicate with such covered employee.
+211 (f) Nothing in this Code section shall require a covered employer to use quotas or monitor
+212 employee work speed data or to provide such information if such employer does not
+213 otherwise use quotas or monitor such information.
+214 34-11-9.
+215 (a) No later than July 1, 2025, and upon hire, a covered employer shall provide written
+216 notice regarding the rights of covered employees under this chapter to each covered
+217 employee.
+218 (b) No later than July 1, 2025, a covered employer shall display a notice regarding the
+219 rights of covered employees under this chapter in a conspicuous and accessible location in
+220 the warehouse distribution center of the covered employer.
+H. B. 16
+- 9 -
+25 LC 52 0576
+221 (c) The notices required under this Code section shall be understandable, in plain
+222 language, and either in the covered employee's preferred language or in the language the
+223 covered employer regularly uses to communicate with such covered employee.
+224 (d) The Commissioner shall provide for the design and content of the notices by rule.
+225 34-11-10.
+226 (a) A covered employer shall not discharge, retaliate, discriminate, or take an adverse
+227 employment action against a covered employee for exercising or for being perceived as
+228 exercising a right conferred under this chapter.
+229 (b) A covered employer shall not prevent a covered employee from exercising a right
+230 under this chapter or take an action that might reasonably deter a covered employee from
+231 asserting a right conferred under this chapter.
+232 (c) The protections provided under this Code section shall apply to any covered employee
+233 who mistakenly but in good faith alleges a violation under this chapter. A complaint or
+234 other communication by a covered employee may be the exercise of a protected right under
+235 this Code section regardless of whether the complaint or communication is in writing or
+236 makes explicit reference to anything in this chapter.
+237 (d) If a covered employer takes an adverse employment action against a covered employee
+238 within 90 days of the covered employee engaging or attempting to engage in a protected
+239 activity, such action shall establish a rebuttable presumption that the action is an adverse
+240 employment action in violation of this Code section. Such presumption may be rebutted
+241 by clear and convincing evidence that the covered employer took such action for other
+242 permissible reasons and was not motivated by the covered employee's engaging or
+243 attempting to engage in a protected activity.
+H. B. 16
+- 10 -
+25 LC 52 0576
+244 34-11-11.
+245 (a) No later than July 1, 2025, the Commissioner shall implement and maintain a
+246 streamlined process for accepting, evaluating, and responding to complaints regarding
+247 violations of this chapter. Such process shall be posted on the department's website in a
+248 prominent location.
+249 (b) Any covered employee or his or her designated employee representative may file with
+250 the department a complaint alleging a violation of this chapter and requesting an
+251 investigation of such complaint. The department shall not investigate an alleged violation
+252 that occurred more than three years before the date that the complaint was filed. After an
+253 investigation, the Commissioner shall issue either a citation and notice of assessment or a
+254 determination of compliance to the covered employee and the covered employer detailing
+255 such finding.
+256 (c) The department may request a covered employer perform a self-audit of records or may
+257 initiate an examination without a complaint to ensure compliance with this chapter. When
+258 the examination is made by an examiner who is not a regular employee of the department,
+259 the person examined shall pay the reasonable charges for such services. After review of
+260 documentation from a self-audit or an examination, the Commissioner shall issue either a
+261 citation and notice of assessment or a determination of compliance to the covered employer
+262 detailing such finding.
+263 (d)(1) An individual or his or her designated employee representative may institute a
+264 civil action in superior court within three years of an alleged violation. To prevail, the
+265 claimant must establish by a preponderance of the evidence that the protected action was
+266 a motivating factor for retaliation.
+267 (2) In any action brought pursuant to this subsection, the court may order any or all of
+268 the following relief in favor of the prevailing claimant:
+269 (A) An injunction restraining the continued violation;
+H. B. 16
+- 11 -
+25 LC 52 0576
+270 (B) Reinstatement of the claimant to the same or equivalent position held before the
+271 retaliation;
+272 (C) Reinstatement of full fringe benefits and seniority rights;
+273 (D) Compensation for lost wages, benefits, and other remuneration;
+274 (E) Any other relief allowable by law; and
+275 (F) Reasonable attorney's fees, court costs, and expenses.
+276 34-11-12.
+277 (a) The Commissioner shall promulgate rules and regulations necessary to implement the
+278 provisions of this chapter and shall be authorized to enforce the provisions of this chapter
+279 and to assess civil penalties, in compliance with the requirements of Chapter 13 of Title 50,
+280 the 'Georgia Administrative Procedure Act.'
+281 (b) The Commissioner shall have the authority to impose an assessment of up to $2,000.00
+282 for each and every act in violation of this chapter or the rules, regulations, or orders of the
+283 Commissioner, unless the Commissioner designates an act as a serious, willful, or repeated
+284 violation, in which case the assessment imposed may be increased to an amount up to
+285 $5,000.00 for each and every act in violation.
+286 (c) Any person aggrieved by an order or an act of the Commissioner under this chapter
+287 may, within 15 days of notice thereof, request a hearing before an administrative law judge
+288 of the Office of State Administrative Hearings, pursuant to Chapter 13 of Title 50, the
+289 'Georgia Administrative Procedure Act.'
+290 (d) It shall be the duty of the Attorney General and the district attorneys of their respective
+291 judicial circuits, upon request of the Commissioner or any of his or her authorized
+292 representatives, to prosecute any violation of the law which is made the duty of the
+293 Commissioner to enforce."
+H. B. 16
+- 12 -
+25 LC 52 0576
+294 SECTION 2.
+295 This Act shall become effective upon its approval by the Governor or upon its becoming law
+296 without such approval.
+297 SECTION 3.
+298 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 16
+- 13 -
+[DELETED: 5L3,9,6,dtht7,7ht]
+[DELETED: 5L  ' e a m a c b t c e i t]
+[DELETED: 5L e f a q i i w r t t f t t p o a c e o i r t t p]
+[DELETED: 5L d o o d w r t a c e i t d s p s a a c t w r c s]
+[DELETED: 5L  W t i a i o b p a w m o a b c h t e w s d a b c q t t m r w d p t t c]
+[DELETED: 5L a f b f o c w a c e r t  M t t o o p f t c e o a t m a q f w t c e d n r t w]
+[DELETED: 5L  A c e s n d a i c o a c w r t a q t a o c e e a s  T a e w s d f c e a t s]
+[DELETED: 5L  T r p f i s ( o t C s r t t f a d t p d w t c e w n t e w s d f s e a a c e s]
+[DELETED: 5L  A r p u t C s s b u i p r t r o c e u t c t e c]
+[DELETED: 5L  T n r u t C s s b u i p r a w n m b t c e e o]
+[DELETED: 5L  N l t J 1 2 t C s i a m  d a c a a v o t c a r a]
+[DELETED: 5L c u r o t C o a o h o h a t p a v o t l w i m t d o t]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0576
+House Bill 16
+By: Representatives Schofield of the 63rd, McClain of the 109th, Scott of the 76th, Davis of
+the 87th, and Glaize of the 67th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial
+2 relations, so as to provide protections for warehouse distribution center workers; to provide
+3 for a short title; to provide for definitions; to require a covered employer to provide to a
+4 covered employee in a warehouse distribution center a written description of any quota or
+5 workplace surveillance; to prohibit unlawful quotas; to provide for paid break time for rest;
+6 to provide for appropriate training; to limit the collection and use of employee work speed
+7 data; to provide for record retention and cooperation with the Department of Labor; to
+8 provide for a right to request records; to provide for notice; to prohibit unlawful retaliation;
+9 to provide for a complaints process; to provide for enforcement; to provide for a private
+10 cause of action; to provide for rules and regulations; to provide for assessments and appeals;
+11 to provide for related matters; to provide for an effective date; to repeal conflicting laws; and
+12 for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+14 SECTION 1.
+15 Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial relations,
+16 is amended by revising Chapter 11, which is designated as reserved, as follows:
+H. B. 16
+- 1 -
+
+25 LC 52 0576
+17 "CHAPTER 11
+18 34-11-1.
+19 This chapter shall be known and may be cited as the 'Warehouse Worker Protection Act.'
+20 Reserved.
+21 34-11-2.
+22 As used in this chapter, the term:
+23 (1) 'Adverse employment action' means a change by the covered employer in the
+24 compensation, terms, conditions, or privileges of the job of the covered employee that,
+25 from the perspective of a reasonable person, puts the covered employee in a materially
+26 adverse position than prior to the change, including termination, a reduction in benefits,
+27 disciplinary action, demotion, promotion, transfer, imposition of a work schedule more
+28 burdensome to the covered employee, reduction of scheduled hours, adjustment in ability
+29 for promotion, or other modifications to compensation, terms, conditions, or privileges
+30 of employment.
+31 (2) 'Commissioner' means the Commissioner of Labor.
+32 (3) 'Covered employee' means an individual who is employed by a covered employer for
+33 the performance of work at a warehouse distribution center and is subject to a quota while
+34 performing work at such center.
+35 (4) 'Covered employer' means a person that is engaged in commerce, in the production
+36 of goods for commerce, or in an enterprise engaged in commerce or in the production of
+37 goods for commerce, including a contractor, subcontractor, temporary service firm,
+38 staffing agency, independent contractor, employee leasing entity, or similar entity and
+39 that employs a covered employee for the performance of work at a warehouse distribution
+40 center.
+H. B. 16
+- 2 -
+
+25 LC 52 0576
+41 (5) 'Defined time period' means any unit of time measurement equal to or less than one
+42 day, including hours, minutes, and seconds and any fraction thereof.
+43 (6) 'Department' means the Department of Labor.
+44 (7) 'Designated employee representative' means any representative designated by a
+45 covered employee, including but not limited to an employee representative that has a
+46 collective bargaining relationship with the covered employer of the covered employee.
+47 (8) 'Employee work speed data' means information a covered employer collects, stores,
+48 analyzes, or interprets relating to the performance of work by a covered employee of the
+49 covered employer for a quota, including information with respect to the following
+50 criteria:
+51 (A) Quantities of tasks performed by the covered employee;
+52 (B) Quantities of items or materials handled or produced by the covered employee;
+53 (C) Rates or speeds of tasks performed by the covered employee;
+54 (D) Measurements or metrics of covered employee performance in relation to a quota;
+55 or
+56 (E) Time categorized with respect to the covered employee as performing tasks or not
+57 performing tasks.
+58 (9) 'Quota' means an express or implied performance standard or performance target,
+59 including such a standard or target used to rank or compare a covered employee in
+60 relation to the performance of another covered employee or in relation to the past
+61 performance of the covered employee, where:
+62 (A) A covered employee is actually or effectively assigned, required, or expected
+63 within a defined time period, with or without any reasonable accommodation provided
+64 under federal, state, or local law, to perform a quantified number of tasks or at a
+65 specified productivity speed or handle or produce a quantified amount of material
+66 without a certain number of errors or defects, and such assignment, requirement, or
+H. B. 16
+- 3 -
+
+25 LC 52 0576
+67 expectation is measured at the individual or group level for such defined time period;
+68 or
+69 (B) A covered employer categorizes, measures, records, or tallies the time a covered
+70 employee is performing and not performing tasks within a defined time period or
+71 increments of time within a defined time period.
+72 (10) 'Warehouse distribution center' means an establishment in Georgia as defined by
+73 any of the following North American Industry Classification System Codes in effect on
+74 January 1, 2025: 493, for warehousing and storage; 423, for merchant wholesalers,
+75 durable goods; 424, for merchant wholesalers, nondurable goods; 454110, for electronic
+76 shopping and mail-order houses; and 492110, for couriers and express delivery services.
+77 (11) 'Workplace surveillance' means any surveillance by a covered employer, whether
+78 on duty or off duty, with respect to a covered employee, including the detection,
+79 monitoring, interception, collection, exploitation, preservation, protection, transmission,
+80 or retention of data concerning activities or communications with respect to the covered
+81 employee, including through the use of a product or service marketed, or that can be used,
+82 for such purposes, such as a computer, telephone, wire, radio, camera, sensor,
+83 electromagnetic, photoelectronic, handheld or wearable device, or photo-optical system.
+84 34-11-3.
+85 (a) A covered employer shall provide to each covered employee a written description of
+86 each quota to which each covered employee is subject, including but not limited to:
+87 (1) The quantified number of tasks to be performed or materials to be produced or
+88 handled or other performance measures within the defined time period for the quota;
+89 (2) Any potential discipline or adverse employment action that could result from failure
+90 to meet the quota;
+91 (3) How performance targets or performance standards for the quota are calculated;
+H. B. 16
+- 4 -
+
+25 LC 52 0576
+92 (4) Whether there is any incentive or bonus program associated with meeting or
+93 exceeding the quota and, if applicable, how the incentive or bonus program operates; and
+94 (5) How the quota is monitored, including a description of what employee work speed
+95 data are being collected; how the employee work speed data are being collected,
+96 including a description of any workplace surveillance technology used on the covered
+97 employee by the covered employer; where and when the employee work speed data are
+98 being collected; the frequency of the collection; where the storage of the employee work
+99 speed data is located; the business purposes for which the employee work speed data are
+100 being used; and the identity of any third party used for such workplace surveillance, to
+101 which data from such workplace surveillance is transferred, and from which data of the
+102 covered employee is or may be purchased or acquired.
+103 (b) A covered employer shall provide the written description required under subsection (a)
+104 of this Code section as follows:
+105 (1) To a covered employee upon hire;
+106 (2) To all covered employees no later than July 1, 2025;
+107 (3) To a covered employee not less than two days prior to a change that results in a
+108 different quota than the most recent written description provided to the covered
+109 employee; and
+110 (4) To a covered employee prior to and when a covered employer takes an adverse
+111 employment action against the covered employee in whole or in part for failure to meet
+112 a quota.
+113 (c) The written description required under this Code section shall be understandable, in
+114 plain language, and either in the covered employee's preferred language or in the language
+115 the covered employer regularly uses to communicate with the covered employee.
+116 34-11-4.
+117 (a) A covered employer shall not require a covered employee to meet a quota that:
+H. B. 16
+- 5 -
+
+25 LC 52 0576
+118 (1) Prevents compliance with any meal breaks, rest periods, or other breaks required by
+119 federal, state, or local law; compliance with health and safety provisions required by
+120 federal, state, or local law; the use of bathroom facilities, including reasonable travel time
+121 to and from bathroom facilities; or compliance with a covered employee's right to
+122 reasonable accommodations or nondiscrimination as required by federal, state, or local
+123 law;
+124 (2) Measures the total output or performance for the covered employee over an
+125 increment of time that is shorter than one day or measures and evaluates the output or
+126 performance of a covered employee during any paid or unpaid break to which the covered
+127 employee is entitled;
+128 (3) Is based solely on ranking the performance of the covered employee in relation to the
+129 performance of another covered employee or in relation to the past performance of that
+130 covered employee; or
+131 (4) Is based on continuously measuring, recording, or tallying increments of time within
+132 a defined time period during which a covered employee is or is not doing a particular
+133 activity.
+134 (b) A covered employer shall not take an adverse employment action against a covered
+135 employee for failure to meet a quota that violates subsection (a) of this Code section or for
+136 failure to meet a quota for which the covered employee did not receive the written
+137 description required under Code Section 34-11-3.
+138 34-11-5.
+139 (a) A covered employer shall provide to each covered employee not less than one 15
+140 minute paid break time every four hours of work, to be paid at the regular rate at which the
+141 covered employee is employed.
+142 (b) A covered employer shall not retaliate against a covered employee for requesting or
+143 taking the paid break time provided for in subsection (a) of this Code section.
+H. B. 16
+- 6 -
+
+25 LC 52 0576
+144 (c) A covered employer shall provide information or training to all covered employees on
+145 the following:
+146 (1) The name of each individual on the covered employer's safety committee;
+147 (2) The warehouse distribution center's ergonomic program;
+148 (3) The early signs and symptoms of musculoskeletal injuries and the procedures for
+149 reporting them;
+150 (4) The procedures for reporting injuries, incidents, and other hazards; and
+151 (5) Any requirements the Commissioner provides by rule.
+152 (d) The training in subsection (c) of this Code section shall be provided to a new hire prior
+153 to starting work and to covered employees no later than July 1, 2025, and as such training
+154 is updated but not less than annually thereafter.
+155 34-11-6.
+156 (a) A covered employer shall not collect, use, maintain, or transfer data regarding a
+157 covered employee to establish, maintain, or use employee work speed data except as
+158 strictly necessary to monitor the compliance of the covered employee with a quota.
+159 (b) A covered employer shall not disclose any information collected on a covered
+160 employee with respect to a quota to any other covered employee except as strictly
+161 necessary to fulfill a specific and reasonable business rationale of the covered employer.
+162 34-11-7.
+163 (a) A covered employer shall establish, maintain, and preserve contemporaneous, true, and
+164 accurate records of the following:
+165 (1) The employee work speed data for each covered employee;
+166 (2) The aggregate employee work speed data for covered employees at the same
+167 warehouse distribution center; and
+168 (3) The written descriptions of the quotas a covered employee was provided.
+H. B. 16
+- 7 -
+
+25 LC 52 0576
+169 (b) The records provided for in subsection (a) of this Code section shall be maintained and
+170 preserved throughout the duration of each covered employee's period of employment and
+171 shall be made available to the Commissioner upon request.
+172 (c) The records provided for in subsection (a) of this Code section relating to the
+173 six-month period prior to the date of the covered employee's separation shall be preserved
+174 for at least three years subsequent to the date of such employee's separation and shall be
+175 made available to the Commissioner upon request.
+176 (d) A covered employer shall enable a covered employee to supplement the employee
+177 work speed data for the covered employee by recording any reason the covered employee
+178 provides for any defined time period during which the covered employee was not
+179 performing work related tasks.
+180 (e) A covered employer shall enable a covered employee to review and request correction
+181 of the employee work speed data for such employee, and a covered employer shall
+182 investigate and determine whether the employee work speed data for such employee is
+183 inaccurate. A covered employer shall promptly correct any inaccurate data, notify the
+184 covered employee of the determination and correction, review and adjust any adverse
+185 employment action that was partially or solely based on the inaccurate data, and notify the
+186 covered employee of the adjustment.
+187 (f) Nothing in this Code section shall require a covered employer to keep records provided
+188 for in this Code section if such employer does not use quotas or monitor employee work
+189 speed data.
+190 34-11-8.
+191 (a) A current covered employee has the right to request a written description of each quota
+192 to which the covered employee is subject, a copy of the employee work speed data for the
+193 covered employee, and a copy of the prior six months of aggregate employee work speed
+194 data for similar employees at the same warehouse distribution center.
+H. B. 16
+- 8 -
+
+25 LC 52 0576
+195 (b) A former covered employee has the right to request within three years subsequent to
+196 the date of separation from a covered employer a written description of the quota for the
+197 covered employee at the date of separation, a copy of the employee work speed data for the
+198 covered employee the six months prior to the date of separation, and a copy of aggregate
+199 employee work speed data for similar employees at the same warehouse distribution center
+200 for the six months prior to the date of separation.
+201 (c) The records requested pursuant to this Code section shall be provided at no cost to the
+202 current or former covered employee.
+203 (d) A covered employer shall provide any records requested pursuant to this Code section
+204 as soon as practicable, provided that the requested written descriptions of the quota shall
+205 be provided no later than two business days following the date of the receipt of the request
+206 and the requested personal work speed data and aggregated work speed data shall be
+207 provided no later than seven business days following the date of the receipt of the request.
+208 (e) Any records provided under this Code section shall be understandable, in plain
+209 language, and either in the covered employee's preferred language or in the language the
+210 covered employer regularly uses to communicate with such covered employee.
+211 (f) Nothing in this Code section shall require a covered employer to use quotas or monitor
+212 employee work speed data or to provide such information if such employer does not
+213 otherwise use quotas or monitor such information.
+214 34-11-9.
+215 (a) No later than July 1, 2025, and upon hire, a covered employer shall provide written
+216 notice regarding the rights of covered employees under this chapter to each covered
+217 employee.
+218 (b) No later than July 1, 2025, a covered employer shall display a notice regarding the
+219 rights of covered employees under this chapter in a conspicuous and accessible location in
+220 the warehouse distribution center of the covered employer.
+H. B. 16
+- 9 -
+
+25 LC 52 0576
+221 (c) The notices required under this Code section shall be understandable, in plain
+222 language, and either in the covered employee's preferred language or in the language the
+223 covered employer regularly uses to communicate with such covered employee.
+224 (d) The Commissioner shall provide for the design and content of the notices by rule.
+225 34-11-10.
+226 (a) A covered employer shall not discharge, retaliate, discriminate, or take an adverse
+227 employment action against a covered employee for exercising or for being perceived as
+228 exercising a right conferred under this chapter.
+229 (b) A covered employer shall not prevent a covered employee from exercising a right
+230 under this chapter or take an action that might reasonably deter a covered employee from
+231 asserting a right conferred under this chapter.
+232 (c) The protections provided under this Code section shall apply to any covered employee
+233 who mistakenly but in good faith alleges a violation under this chapter. A complaint or
+234 other communication by a covered employee may be the exercise of a protected right under
+235 this Code section regardless of whether the complaint or communication is in writing or
+236 makes explicit reference to anything in this chapter.
+237 (d) If a covered employer takes an adverse employment action against a covered employee
+238 within 90 days of the covered employee engaging or attempting to engage in a protected
+239 activity, such action shall establish a rebuttable presumption that the action is an adverse
+240 employment action in violation of this Code section. Such presumption may be rebutted
+241 by clear and convincing evidence that the covered employer took such action for other
+242 permissible reasons and was not motivated by the covered employee's engaging or
+243 attempting to engage in a protected activity.
+H. B. 16
+- 10 -
+
+25 LC 52 0576
+244 34-11-11.
+245 (a) No later than July 1, 2025, the Commissioner shall implement and maintain a
+246 streamlined process for accepting, evaluating, and responding to complaints regarding
+247 violations of this chapter. Such process shall be posted on the department's website in a
+248 prominent location.
+249 (b) Any covered employee or his or her designated employee representative may file with
+250 the department a complaint alleging a violation of this chapter and requesting an
+251 investigation of such complaint. The department shall not investigate an alleged violation
+252 that occurred more than three years before the date that the complaint was filed. After an
+253 investigation, the Commissioner shall issue either a citation and notice of assessment or a
+254 determination of compliance to the covered employee and the covered employer detailing
+255 such finding.
+256 (c) The department may request a covered employer perform a self-audit of records or may
+257 initiate an examination without a complaint to ensure compliance with this chapter. When
+258 the examination is made by an examiner who is not a regular employee of the department,
+259 the person examined shall pay the reasonable charges for such services. After review of
+260 documentation from a self-audit or an examination, the Commissioner shall issue either a
+261 citation and notice of assessment or a determination of compliance to the covered employer
+262 detailing such finding.
+263 (d)(1) An individual or his or her designated employee representative may institute a
+264 civil action in superior court within three years of an alleged violation. To prevail, the
+265 claimant must establish by a preponderance of the evidence that the protected action was
+266 a motivating factor for retaliation.
+267 (2) In any action brought pursuant to this subsection, the court may order any or all of
+268 the following relief in favor of the prevailing claimant:
+269 (A) An injunction restraining the continued violation;
+H. B. 16
+- 11 -
+
+25 LC 52 0576
+270 (B) Reinstatement of the claimant to the same or equivalent position held before the
+271 retaliation;
+272 (C) Reinstatement of full fringe benefits and seniority rights;
+273 (D) Compensation for lost wages, benefits, and other remuneration;
+274 (E) Any other relief allowable by law; and
+275 (F) Reasonable attorney's fees, court costs, and expenses.
+276 34-11-12.
+277 (a) The Commissioner shall promulgate rules and regulations necessary to implement the
+278 provisions of this chapter and shall be authorized to enforce the provisions of this chapter
+279 and to assess civil penalties, in compliance with the requirements of Chapter 13 of Title 50,
+280 the 'Georgia Administrative Procedure Act.'
+281 (b) The Commissioner shall have the authority to impose an assessment of up to $2,000.00
+282 for each and every act in violation of this chapter or the rules, regulations, or orders of the
+283 Commissioner, unless the Commissioner designates an act as a serious, willful, or repeated
+284 violation, in which case the assessment imposed may be increased to an amount up to
+285 $5,000.00 for each and every act in violation.
+286 (c) Any person aggrieved by an order or an act of the Commissioner under this chapter
+287 may, within 15 days of notice thereof, request a hearing before an administrative law judge
+288 of the Office of State Administrative Hearings, pursuant to Chapter 13 of Title 50, the
+289 'Georgia Administrative Procedure Act.'
+290 (d) It shall be the duty of the Attorney General and the district attorneys of their respective
+291 judicial circuits, upon request of the Commissioner or any of his or her authorized
+292 representatives, to prosecute any violation of the law which is made the duty of the
+293 Commissioner to enforce."
+H. B. 16
+- 12 -
+
+25 LC 52 0576
+294 SECTION 2.
+295 This Act shall become effective upon its approval by the Governor or upon its becoming law
+296 without such approval.
+297 SECTION 3.
+298 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 16
+- 13 -
+
+[DELETED: 5L3,9,6,dtht7,7ht]
+[DELETED: 5L  ' e a m a c b t c e i t]
+[DELETED: 5L e f a q i i w r t t f t t p o a c e o i r t t p]
+[DELETED: 5L d o o d w r t a c e i t d s p s a a c t w r c s]
+[DELETED: 5L  W t i a i o b p a w m o a b c h t e w s d a b c q t t m r w d p t t c]
+[DELETED: 5L a f b f o c w a c e r t  M t t o o p f t c e o a t m a q f w t c e d n r t w]
+[DELETED: 5L  A c e s n d a i c o a c w r t a q t a o c e e a s  T a e w s d f c e a t s]
+[DELETED: 5L  T r p f i s ( o t C s r t t f a d t p d w t c e w n t e w s d f s e a a c e s]
+[DELETED: 5L  A r p u t C s s b u i p r t r o c e u t c t e c]
+[DELETED: 5L  T n r u t C s s b u i p r a w n m b t c e e o]
+[DELETED: 5L  N l t J 1 2 t C s i a m  d a c a a v o t c a r a]
+[DELETED: 5L c u r o t C o a o h o h a t p a v o t l w i m t d o t]
+[DELETED: 5L]

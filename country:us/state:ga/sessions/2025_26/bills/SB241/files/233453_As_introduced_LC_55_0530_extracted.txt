@@ -1,0 +1,1603 @@
+Title: Senate Bill 241
+Official Title: Senate Bill 241
+Number of Sections: 1
+Source: versions - As introduced LC 55 0530
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0530
+By: Senators Williams of the 25th, Anderson of the 24th, Mallow of the 2nd, Robertson of
+the 29th and Parent of the 44th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 18 of Title 43 of the Official Code of Georgia Annotated, relating to
+2 funeral directors and establishments, embalmers, and crematories, so as to provide for the
+3 organic human reduction as a means of disposing of deceased human bodies; to provide
+4 identification requirements for deceased human bodies that are to undergo organic human
+5 reduction; to require the licensure of organic human reduction facilities; to provide
+6 exceptions; to provide for requirements of organic human reduction facilities; to provide for
+7 requirements of organic human reduction; to provide for the disposition of unclaimed
+8 organically reduced remains; to provide definitions; to amend Titles 10, 31, and 36 of the
+9 Official Code of Georgia Annotated, relating to commerce and trade, health, and local
+10 government, respectively, so as to require a disposition permit for the organic human
+11 reduction of a dead human body or fetus; to provide for the burial at sea of organically
+12 reduced remains; to provide for the notification that organically reduced remains are ready
+13 for disposition; to provide that the disposition of organically reduced remains shall not
+14 constitute the offense of abandonment of a dead human body; to provide conforming
+15 changes; to provide for related matters; to provide an effective date; to repeal conflicting
+16 laws; and for other purposes.
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 241
+- 1 -
+25 LC 55 0530
+18 PART I
+19 SECTION 1-1.
+20 Chapter 18 of Title 43 of the Official Code of Georgia Annotated, relating to funeral
+21 directors and establishments, embalmers, and crematories, is amended by revising Code
+22 Section 43-18-1, relating to definitions, as follows:
+23 "43-18-1.
+24 As used in this article, the term:
+25 (1) 'Alternative container' means any receptacle or enclosure which is of sufficient
+26 strength to be used to hold and to transport a dead human body. Such term does not
+27 include a casket.
+28 (2) 'Apprentice' means a person who practices embalming, funeral directing, or both,
+29 under the direct supervision of a funeral director, embalmer, or both, in this state.
+30 (3) 'Board' means the State Board of Funeral Service.
+31 (4) 'Casket' means a container which is designed for the encasement and viewing of a
+32 dead human body.
+33 (5) 'Cremation' means the reduction of the dead human body to residue by intense heat
+34 or any mechanical, chemical, thermal, or other professionally accepted process. Such
+35 term Cremation also includes any other mechanical, chemical, thermal, or other
+36 professionally accepted process whereby human remains dead human bodies are
+37 pulverized, burned, recremated, or otherwise further reduced in size or quantity. Such
+38 term does not include organic human reduction.
+39 (5.1) 'Cremation device' means a retort, vat, or container in which dead human bodies
+40 are cremated by traditional flame, alkaline hydrolysis, or other means approved by the
+41 board.
+S. B. 241
+- 2 -
+25 LC 55 0530
+42 (6) 'Crematory' means any place where cremation is performed, other than a hospital,
+43 clinic, laboratory, or other facility authorized by the Department of Community Health
+44 for such purposes.
+45 (7) 'Direct supervision' means that the embalmer, funeral director, or both, are present
+46 and overseeing the activities of the apprentice.
+47 (8) 'Embalmer' means a person who practices embalming or uses in connection with that
+48 such person's name the words 'embalmer,' 'licensed embalmer,' 'undertaker,' or 'mortician'
+49 or offers or holds himself or herself out as offering such services.
+50 (9) 'Final disposition' means the final disposal of a dead human body whether it is by, but
+51 not limited to, earth interment, above-ground interment, cremation, organic human
+52 reduction, burial at sea, or delivery to a medical institution for lawful dissection if the
+53 such medical institution assumes responsibility for disposal.
+54 (10) 'Funeral' or 'funeral services' means the observances, services, or ceremonies held
+55 for dead human bodies and includes any service relating to the transportation, embalming,
+56 cremation, organic human reduction, and interment of a dead human body.
+57 (11) 'Funeral director' means a person who practices funeral directing or uses in
+58 connection with that such person's name or with a picture of that such person the words
+59 'funeral director,' 'licensed funeral director,' 'undertaker,' or 'mortician' or offers or holds
+60 himself or herself out as offering such services.
+61 (12) 'Funeral director in full and continuous charge' means a funeral director who is
+62 approved by the board to assume full responsibility for the operations of a particular
+63 funeral establishment, organic human reduction facility, or crematory and who shall
+64 ensure that said such establishment complies with the provisions of this article and with
+65 all rules promulgated pursuant thereto to this article.
+66 (13) 'Funeral establishment' means a place where embalming or funeral directing is
+67 practiced and which is open to the public and transacting business relating to funeral
+68 services.
+S. B. 241
+- 3 -
+25 LC 55 0530
+69 (14) 'Funeral merchandise' means the goods that may only be sold or offered for sale by
+70 a funeral director working in a funeral establishment, organic human reduction facility,
+71 or crematory and includes, but is not limited to, a casket or alternative container, but does
+72 not include an outer burial container or cemetery marker.
+73 (15) 'Funeral service contract' means a written or oral agreement between a funeral
+74 director or funeral establishment, organic human reduction facility, or crematory and a
+75 legally authorized person for the embalming, funeral, or final disposition of a dead human
+76 body.
+77 (16) 'Legally authorized person' means the deceased's surviving spouse, a son or
+78 daughter who is 18 years of age or older; the deceased's parent, a brother or sister who
+79 is 18 years of age or older; any other person who is 18 years of age or older and who is
+80 in the next degree of kinship to the deceased; the deceased's legal guardian or personal
+81 representative; or a public health officer.
+82 (16.1) 'Organic human reduction' means the contained, accelerated conversion of dead
+83 human bodies to soil.
+84 (16.2) 'Organic human reduction container' means a container in which organic human
+85 reduction occurs.
+86 (16.3) 'Organic human reduction facility' means a location where organic human
+87 reduction is performed.
+88 (16.4) 'Organically reduced remains' means the resulting residue of a dead human body
+89 that has undergone organic human reduction.
+90 (17) 'Outer burial container' means an enclosure into which a casket is placed, including,
+91 but not limited to, a vault made of concrete, steel, fiberglass, or copper,; a sectional
+92 concrete enclosure,; a crypt,; or a wooden enclosure.
+93 (18) 'Practice of embalming' or 'embalming' means disinfecting or preserving or
+94 attempting to disinfect or preserve dead human bodies by replacing certain body fluids
+95 with preserving and disinfecting chemicals.
+S. B. 241
+- 4 -
+25 LC 55 0530
+96 (19) 'Practice of funeral directing' or 'funeral directing' means making or directing, at
+97 need or preneed, arrangements for the preparation and transportation of dead human
+98 bodies for final disposition and the supervision and direction of all funeral services.
+99 (20) 'Retort' means a furnace where dead human bodies are cremated.
+100 (21) 'Soliciting' means the making of any uninvited contact with another person by a
+101 funeral director or by a funeral director's agent, assistant, employer, or employee for the
+102 purpose of the sale of funeral services or merchandise but shall not mean. Such term
+103 shall not include any advertising which is directed to the public in general."
+104 SECTION 1-2.
+105 Said chapter is further amended in Code Section 43-18-5, relating to unlawful acts and
+106 exemption, by revising subsections (b) and (d) as follows:
+107 "(b) Any person, firm, or corporation who that has control of a funeral establishment,
+108 organic human reduction facility, or crematory and fails to obtain licensure as required by
+109 this article, upon conviction thereof, may be fined not less than $100.00 nor more than
+110 $500.00 for each violation. Each day that the funeral establishment, organic human
+111 reduction facility, or crematory is operated in violation of this article shall be deemed to
+112 be a separate and distinct offense."
+113 "(d) It shall be unlawful for any person, firm, or corporation or any officer, agent, or
+114 employee of such person, firm, or corporation engaged in the practice of funeral directing
+115 or embalming funeral or crematory business to give, or contract to give, either directly or
+116 indirectly, any reward, commission, compensation, or anything of value to any person,
+117 firm, or corporation for the purpose of, or as an inducement to, such person, firm, or
+118 corporation to persuade or induce any person to use or employ such funeral director or
+119 embalmer in or about the preparation for burial or conducting the burial of any deceased
+120 person engaged in the practice of funeral directing or embalming in or about the provision
+121 of funeral services."
+S. B. 241
+- 5 -
+25 LC 55 0530
+122 SECTION 1-3.
+123 Said chapter is further amended by revising Code Section 43-18-8, relating to identification
+124 of body or remains of deceased and affidavit required for cremated remains, as follows:
+125 "43-18-8.
+126 (a)(1) The funeral director or person in charge of final disposition of a dead human body
+127 shall, prior to the interment, organic human reduction, or cremation of such dead human
+128 body, affix on the ankle or wrist of the deceased a tag of durable, noncorroding material
+129 permanently marked with the name of the deceased, the date of death, the social security
+130 number of the deceased, the county and state of death, and the serial number of any
+131 prosthesis removed from the dead human body by the funeral establishment, organic
+132 human reduction facility, or crematory.
+133 (2) No funeral director in charge of a crematory or organic human reduction facility shall
+134 permit any dead human body to be on the premises of the crematory or organic human
+135 reduction facility without the dead human body being identified as provided by this
+136 subsection, except when the body is placed in a cremation device or organic human
+137 reduction container; and the tag shall be removed from the body and kept in a regular
+138 location near the cremation device or organic human reduction container during
+139 cremation or the organic human reduction and thereafter placed atop the cremated or
+140 organically reduced remains on the inside of the vessel and any liner therein. The vessel
+141 containing cremated or organically reduced remains shall be plainly labeled on the
+142 outside so as to identify the deceased with the same information, excluding social security
+143 number, as is required to be on the tag inside the vessel and so as to identify the name of
+144 the person or firm to which such remains are to be delivered or released.
+145 (3) Tags and labels used for purposes of this subsection shall be in such standard forms
+146 as prescribed by the board. If the religious faith of the deceased prohibits such means of
+147 identification, alternative means of identification of the body may be used.
+S. B. 241
+- 6 -
+25 LC 55 0530
+148 (b) A crematory or an organic human reduction facility may deliver or release cremated
+149 or organically reduced remains to a funeral establishment or a legally authorized person.
+150 The funeral director in charge of a crematory or an organic human reduction facility shall
+151 provide to the funeral establishment or legally authorized person to whom cremated or
+152 organically reduced remains are delivered or released, at the time of such delivery or
+153 release, a written statement an affidavit, on such standard form as prescribed by the board,
+154 signed and verified by such funeral director before a person authorized to administer oaths
+155 and attesting that the vessel contains substantially the remains of the deceased identified
+156 in accordance with subsection (a) of this Code section.
+157 (c) No funeral establishment shall accept or take delivery of any cremated or organically
+158 reduced remains from any crematory or organic human reduction facility unless the vessel
+159 containing such remains is labeled as required by paragraph (2) of subsection (a) of this
+160 Code section and is accompanied by the affidavit required by subsection (b) of this Code
+161 section, which vessel and affidavit shall be provided by the funeral establishment to a
+162 legally authorized person upon delivery or release of the cremated or organically reduced
+163 remains."
+164 SECTION 1-4.
+165 Said chapter is further amended by revising Code Section 43-18-9, relating to disposition of
+166 veterans' cremated remains, as follows:
+167 "43-18-9.
+168 (a) As used in this Code section, the term:
+169 (1) 'Veteran' means a resident of this state who qualifies as a veteran under the rules of
+170 the United States Department of Veterans Affairs and who was discharged under
+171 conditions other than dishonorable.
+172 (2) 'Veterans' organization' means the Department of Veterans Service, the National
+173 Cemetery Administration's National Cemetery Scheduling Office, or any association or
+S. B. 241
+- 7 -
+25 LC 55 0530
+174 other entity organized for the benefit of veterans that has been recognized or chartered
+175 by the United States Congress, such as the American Legion, the Legion of Honor, the
+176 Patriot Guard, the Missing in America Project, and the Vietnam Veterans of America.
+177 (b) The funeral director shall make a reasonable effort to determine whether any dead
+178 human body submitted for final disposition by cremation or organic human reduction is
+179 that of a deceased veteran.
+180 (c) The funeral director shall, at the time the cremation or organic human reduction
+181 authorization form is signed:
+182 (1) Inquire as to whether the legally authorized person has information or belief as to
+183 whether the deceased is a veteran; and
+184 (2) Notify the legally authorized person of the responsibilities of the funeral director
+185 under this Code section.
+186 (d) If the funeral director is unable to determine with certainty whether the deceased was
+187 a veteran through an inquiry with the legally authorized agent person, then any veterans'
+188 organization shall be allowed access to all information available from the United States
+189 Department of Veterans Affairs regarding the deceased in the possession of the funeral
+190 director in charge of the crematory or organic human reduction facility so that any veterans'
+191 organization may attempt to determine whether the deceased is a veteran. If any veterans'
+192 organization that is allowed access to information pursuant to this Code section discovers
+193 that the deceased is a veteran, the such veterans' organization shall notify the funeral
+194 director.
+195 (e)(1) If the funeral director determines that the deceased is a veteran from information
+196 provided by the legally authorized person, any veterans' organization, or otherwise, then
+197 such funeral director shall immediately notify the legally authorized person of such
+198 finding and shall advise that the deceased person may be eligible to be interred at an
+199 appropriate veterans' cemetery.
+S. B. 241
+- 8 -
+25 LC 55 0530
+200 (2) If the funeral director determines that the deceased is a veteran from information
+201 provided by the legally authorized person, any veterans' organization, or otherwise, and
+202 the cremated or organically reduced remains are not claimed by a legally authorized
+203 person, then the funeral director shall hold any such cremated or organically reduced
+204 remains for at least 60 days. After 60 days, the funeral director shall send written notice
+205 to the legally authorized person who signed the cremation or organic human reduction
+206 authorization form requesting disposition instructions. If the funeral director does not
+207 receive a written response from the legally authorized person within 30 days of sending
+208 a such written notice, then the funeral director shall contact a veterans' organization so
+209 that arrangements for the disposition of the cremated or organically reduced remains of
+210 the veteran may be made in a state or national veterans' cemetery.
+211 (f) Nothing in this Code section shall delay the authorized cremation or organic human
+212 reduction of a deceased's remains.
+213 (g)(1) A funeral director complying with this Code section shall be immune from any
+214 criminal or civil liability regarding:
+215 (A) The determination of a deceased's status as a veteran;
+216 (B) The release of information relating to the determination of a deceased's status as
+217 a veteran;
+218 (C) The availability of interment or inurnment for a deceased veteran; or
+219 (D) The release of cremated or organically reduced remains to a veterans' cemetery.
+220 (2) A funeral director shall be immune from civil liability for any act or omission under
+221 this Code section except for willful or wanton misconduct.
+222 (h) A veterans' organization shall be immune from civil liability for any act or omission
+223 related to the disposition of cremated or organically reduced remains under this Code
+224 section except for willful or wanton misconduct."
+S. B. 241
+- 9 -
+25 LC 55 0530
+225 SECTION 1-5.
+226 Said chapter is further amended in Code Section 43-18-22, relating to election of president
+227 of the State Board of Funeral Service, meetings, reimbursement of members, and conflicts
+228 of interest, by revising subsection (d) as follows:
+229 "(d) No board inspector shall own, operate, or be employed by any funeral establishment,
+230 organic human reduction facility, or crematory, or perform any services on behalf thereof
+231 without prior approval by the board and the division director. The provisions of this
+232 subsection However, this shall not prohibit any board member from acting as an inspector
+233 as authorized in this article."
+234 SECTION 1-6.
+235 Said chapter is further amended by revising Code Section 43-18-46, relating to grounds for
+236 denial or revocation of license or registration and other discipline, as follows:
+237 "43-18-46.
+238 In addition to the authority provided in Code Section 43-1-19 Chapter 1 of this title, the
+239 board may refuse to grant a license to operate a funeral establishment, organic human
+240 reduction facility, or crematory or to practice embalming or funeral directing, may refuse
+241 to grant a registration to serve as an apprentice, or may revoke, suspend, fine, or otherwise
+242 discipline a licensee or registrant upon any of the following grounds:
+243 (1) The employment of fraud or deception in applying for a license or registration or in
+244 passing the examination provided for in this article;
+245 (2) Issuance of a license or registration through error;
+246 (3) Conviction of a crime involving moral turpitude;
+247 (4) The practice of embalming or funeral directing under a false name or the
+248 impersonation of another embalmer, funeral director, or apprentice of a like or different
+249 name;
+S. B. 241
+- 10 -
+25 LC 55 0530
+250 (5) The making of a false statement or representation regarding the qualifications,
+251 training, or experience of any applicant;
+252 (6) The making of a misrepresentation of any kind regarding any funeral merchandise;
+253 (7) Directly or indirectly, by gifts or otherwise, committing the offense of buying
+254 business or paying a commission or making gifts, directly or indirectly, for the purpose
+255 of securing business to any physician or hospital, or to any institution where death occurs,
+256 or to any hospital superintendent, nurse, intern, or employee of any hospital, nursing
+257 home, or other institution where death occurs; or to any coroner or other government
+258 official;
+259 (8) Gross or willful malpractice or gross neglect in the practice of embalming, or funeral
+260 directing, or cremating;
+261 (9) Signing a death certificate as having embalmed or prepared a body for burial or
+262 preservation when in fact someone else performed such embalming or preparation;
+263 (10) Interfering, either directly or indirectly, with a licensed embalmer or funeral director
+264 having legal charge of a dead human body;
+265 (11) Using any statements that mislead or deceive the public including, but not limited
+266 to, false or misleading statements regarding a legal or cemetery requirement, funeral
+267 merchandise, funeral services, or in the operation of a funeral establishment, organic
+268 human reduction facility, or crematory;
+269 (12) Failing to fulfill the terms of a funeral service contract;
+270 (13) Disregarding a decedent's dignity, right to privacy, or right to confidentiality unless
+271 compelled by law to do otherwise;
+272 (14) Using profane, indecent, or obscene language in the presence of a dead human body,
+273 or within the immediate hearing of the family or relatives of a deceased, whose body has
+274 not yet been interred or otherwise disposed;
+275 (15) Failing to turn assigned benefits in excess of charges incurred over to the assignee
+276 of the deceased within ten working days of receipt of the such assigned funds;
+S. B. 241
+- 11 -
+25 LC 55 0530
+277 (16) Refusing to surrender promptly the custody of a dead human body upon the express
+278 order of the person lawfully entitled to the custody;
+279 (17) Failing to have the charges rendered to be in compliance with those listed in the
+280 funeral establishment general price list, the casket price list, the outer burial container list,
+281 or the funeral service contract price list;
+282 (18) Aiding or abetting an unlicensed person to practice under this article;
+283 (19) Promoting or participating in a burial society, burial association, burial certificate
+284 plan, or burial membership plan;
+285 (20) Soliciting, as defined in paragraph (21) of Code Section 43-18-1;
+286 (21) Presenting a false certification of work done by an apprentice or as an apprentice;
+287 (22) Willfully violating any state law or regulation; any law or regulation of the Federal
+288 Trade Commission law or regulation;, the Occupational Safety and Health Administration
+289 law or regulation;, the Department of Public Health law or regulation;, or the
+290 Environmental Protection Agency law or regulation; or any municipal or county
+291 ordinance or regulation that affects the handling, custody, care, or transportation of dead
+292 human bodies, including, but not limited to, the disposal of equipment, residual fluids,
+293 or medical wastes;
+294 (23) Knowingly making any misleading, deceptive, untrue, or fraudulent representation
+295 in the practice of funeral directing or embalming or in any document connected therewith
+296 to such practice;
+297 (24) Discriminating in the provision of services because on the basis of race, creed,
+298 color, religion, gender, or national origin;
+299 (25) Failing to safeguard all personal properties that were obtained from dead human
+300 remains bodies and failing to dispose of same as directed by a legally authorized person;
+301 (26) Failing to refund moneys due as a result of overpayment by an insurance company
+302 or other third party;
+S. B. 241
+- 12 -
+25 LC 55 0530
+303 (27) Engaging in any unprofessional, immoral, unethical, deceptive, or deleterious
+304 conduct or practice harmful to the public, which conduct or practice that materially
+305 affects the fitness of the licensee or registrant to practice in the funeral business, or is of
+306 a nature likely to jeopardize the interest of the general public, which conduct or practice
+307 that need not have resulted in actual injury to any person or be directly related to the
+308 practice of funeral directing or embalming but shows that the person has committed any
+309 act or omission which is indicative of bad moral character or untrustworthiness;
+310 unprofessional conduct. Unprofessional conduct or practice shall also include any
+311 departure from or failure to conform to the minimal reasonable standards of acceptable
+312 and prevailing practice of funeral services;
+313 (28) Engaging in any practice whereby a person who is both a funeral director and a
+314 coroner or who is both a funeral director and a minister presents that person as a funeral
+315 director to a legally authorized person when death is imminent or after death occurs prior
+316 to when the legally authorized person selects a funeral director or funeral establishment,
+317 organic human reduction facility, or crematory which will handle the dead human body;
+318 (29) Practicing embalming or funeral directing or operating a funeral establishment,
+319 organic human reduction facility, or crematory prior to the board's having approved an
+320 application for licensure; or
+321 (30) Failing to satisfy the funeral director in full and continuous charge requirements as
+322 set out in Code Section 43-18-71 or the funeral establishment, crematory, or organic
+323 human reduction facility requirements as set out in Code Section Sections 43-18-70,
+324 43-18-72, and 43-18-72.1, respectively."
+325 SECTION 1-7.
+326 Said chapter is further amended in Code Section 43-18-70, relating to practice at licensed
+327 funeral establishment or crematory, facilities, and living quarters, by revising subsections (a)
+328 and (d) as follows:
+S. B. 241
+- 13 -
+25 LC 55 0530
+329 "(a) No embalmer or funeral director shall engage in the practice of embalming or funeral
+330 directing at a funeral establishment, organic human reduction facility, or crematory which
+331 is not licensed by the board."
+332 "(d) If the a funeral director resides in the a funeral establishment to be accessible to the
+333 community for purposes of satisfying the requirements of funeral director in full and
+334 continuous charge, the living quarters in the funeral establishment must shall include at a
+335 minimum furnished sleeping quarters, cooking, refrigerating, and bathing facilities."
+336 SECTION 1-8.
+337 Said chapter is further amended in Code Section 43-18-71, relating to funeral establishments
+338 and crematories to be licensed and to employ licensed funeral director and display of name
+339 and license of funeral director, by revising subsection (a) as follows:
+340 "(a) It shall be unlawful for any person, firm, corporation, or association to operate a
+341 funeral establishment, organic human reduction facility, or crematory engaged in the
+342 business of funeral directing or embalming or cremating providing funeral services without
+343 first obtaining a license from the board in accordance with this article. The board shall not
+344 issue a license to any funeral establishment, organic human reduction facility, or crematory
+345 unless such funeral establishment, organic human reduction facility, or crematory shall
+346 employ the service of a funeral director licensed in accordance with this article, who shall
+347 be the funeral director in full and continuous charge of the establishment and who is a
+348 resident of this state. There shall be conspicuously displayed in each funeral establishment,
+349 organic human reduction facility, and crematory the name and license of the funeral
+350 director in full and continuous charge. A funeral director who is in full and continuous
+351 charge shall:
+352 (1) Assume full responsibility for the supervision and operation of the funeral
+353 establishment, organic human reduction facility, or crematory for which that person has
+354 been designated as the funeral director in full and continuous charge;
+S. B. 241
+- 14 -
+25 LC 55 0530
+355 (2) Act as funeral director for only one funeral establishment, organic human reduction
+356 facility, or crematory; and
+357 (3) Spend a minimum of 40 hours per week in the employ and operation of the
+358 establishment and be accessible and available to the community."
+359 SECTION 1-9.
+360 Said chapter is further amended by adding a new Code section to read as follows:
+361 "43-18-72.1.
+362 (a)(1) It shall be unlawful for any person, firm, corporation, or association to operate an
+363 organic human reduction facility without first obtaining a separate license for such
+364 purpose from the board in accordance with this article. The organic human reduction
+365 facility shall be at a specific address or location and shall meet the following
+366 requirements and have the following minimum equipment, facilities, and personnel:
+367 (A) A room with seating for a minimum of 30 people in which funeral services may
+368 be conducted;
+369 (B) A display room containing an adequate supply of containers in which organically
+370 reduced remains are placed;
+371 (C) Rolling stock consisting of at least one operable motor hearse either owned or
+372 leased by said firm with current Georgia registration;
+373 (D) At least one operable organic human reduction container;
+374 (E) At least one operable processing station for grinding of organically reduced
+375 remains;
+376 (F) At least one church truck; and
+377 (G) Not be located within 1,000 feet of a residential subdivision platted and recorded
+378 in the office of the clerk of the superior court of a county in which such residential
+379 subdivision is located.
+S. B. 241
+- 15 -
+25 LC 55 0530
+380 (2)(A) The provisions of subparagraphs (A), (B), and (F) of paragraph (1) of this
+381 subsection shall not apply to organic human reduction facilities which provide organic
+382 human reduction services only to other funeral establishments.
+383 (B) The provision of paragraph (G) of paragraph (1) of this subsection shall only apply
+384 to the issuance or renewal of any license on or after July 1, 2025, for any stand-alone
+385 organic human reduction facility that was not in operation as of July 1, 2025. As used
+386 in this subparagraph, the term 'stand-alone organic human reduction facility' means an
+387 organic human reduction facility that is not located on or adjacent to a tract or parcel
+388 of land which contains a funeral establishment.
+389 (b) The board may adopt and enforce such rules and regulations as may be reasonable and
+390 necessary to provide for the sanitary disposal of dead human bodies by organic human
+391 reduction and prevent the spread of disease and to protect the health, safety, and welfare
+392 of the people of this state. Such rules and regulations may include required inspections of
+393 any organic human reduction container by the manufacturer or other authorized repair
+394 company once every five years to ensure proper operations.
+395 (c) Application for licensure of an organic human reduction facility shall be made upon
+396 a form approved by the board and shall be accompanied by an application fee. No license
+397 shall be issued unless the organic human reduction facility meets all the requirements set
+398 forth by this Code section and by the board.
+399 (d) The board shall adopt rules requiring each organic human reduction facility to submit
+400 periodic reports to the board in a standard form which include the names of deceased
+401 persons whose bodies underwent organic human reduction at the facility and the types of
+402 organic human reduction containers used.
+403 (e)(1) No more than one dead human body shall be placed in an organic human reduction
+404 container at one time unless written permission has been received from the person
+405 possessing legal responsibility for the final disposition of the dead human body.
+S. B. 241
+- 16 -
+25 LC 55 0530
+406 (2) Upon completion of the organic human reduction process, the organically reduced
+407 remains shall be pulverized until no single fragment is recognizable as skeletal tissue.
+408 Such pulverized remains shall then be transferred to a container or multiple containers,
+409 if so requested by the legally authorized person, and delivered to the legally authorized
+410 person or otherwise disposed of in accordance with the provisions of Code Section
+411 43-18-80.
+412 (f) Nothing in this article shall require a funeral establishment or crematory for which a
+413 valid license to operate is in effect on July 1, 2025, to have a separate license to operate as
+414 an organic human reduction facility until on and after the renewal date of such license to
+415 operate a funeral establishment or crematory which first occurs after July 1, 2025, but such
+416 funeral establishment or crematory, if performing organic human reduction, shall comply
+417 with all the minimum equipment and facilities requirements and all other statutes, rules,
+418 and regulations relating to organic human reduction and organic human reduction
+419 facilities."
+420 SECTION 1-10.
+421 Said chapter is further amended by revising Code Sections 43-18-73, 43-18-74, and
+422 43-18-75, relating to renewal of licenses for the operation of funeral establishments and
+423 crematories and changes in ownership; transferability of licenses; and inspections,
+424 suspension or revocation of license, and other disciplinary actions, respectively, as follows:
+425 "43-18-73.
+426 (a) Licenses for the operation of funeral establishments, organic human reduction
+427 facilities, and of crematories shall expire biennially unless the owner or proprietor of a
+428 licensed funeral establishment, organic human reduction facility, or crematory applies to
+429 the board to renew the license prior to its expiration. The application shall show the name
+430 of the funeral establishment, organic human reduction facility, or crematory; the names and
+431 addresses of all owners or, if the owner is a corporation, the names and addresses of all
+S. B. 241
+- 17 -
+25 LC 55 0530
+432 officers and directors of the corporation; and the names of all licensed embalmers and
+433 funeral directors who own or are employed by such funeral establishment, organic human
+434 reduction facility, or crematory or are otherwise connected therewith to such establishment,
+435 facility, or crematory, together with the date of issue and the number of the license number
+436 of each registered embalmer and funeral director as required. If the renewal fee prescribed
+437 by the board has been paid and the funeral establishment, organic human reduction facility,
+438 or crematory meets all the other requirements of provided for in this article, the board shall
+439 issue a license; otherwise it shall be unlawful for any funeral establishment, organic human
+440 reduction facility, or crematory to operate in this state. Nothing in this Code section shall
+441 be construed to require an organic human reduction facility or a crematory to employ an
+442 embalmer in order to be licensed.
+443 (b) Whenever there is a change in ownership of a funeral establishment, organic human
+444 reduction facility, or crematory, the board shall be notified within 15 days prior to the
+445 proposed change upon a form provided by the board.
+446 43-18-74.
+447 Licenses for funeral establishments, organic human reduction facilities, or crematories shall
+448 be issued to such enterprises establishments, facilities, or crematories at their location at
+449 the time of issuance. Such license shall not be transferable to another location of any such
+450 establishment, facility, or crematory.
+451 43-18-75.
+452 (a) The board shall provide for inspections from time to time, but not less frequently than
+453 annually, of the premises of funeral establishments, organic human reduction facilities, and
+454 crematories for purposes of ensuring compliance with the provisions of this article and any
+455 rules or regulations issued pursuant thereto, and every such firm establishment, facility, and
+456 crematory shall submit to such inspections. The board is authorized to contract with any
+S. B. 241
+- 18 -
+25 LC 55 0530
+457 one or more county boards of health, and each county board of health is authorized to
+458 contract with the board, for the provision of inspection services on behalf of the board for
+459 purposes of this subsection.
+460 (b) The license of any funeral establishment, organic human reduction facility, or
+461 crematory may be suspended, revoked, or put on probation, or fines may be imposed by the
+462 board if the evidence produced before it at a hearing indicates that the funeral
+463 establishment, organic human reduction facility, or crematory has violated any of the
+464 provisions of this article or any rules or regulations issued pursuant thereto. The board
+465 shall comply with Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act,' in
+466 relation to such hearing; and the. The licensee shall have the right to appeal any decision
+467 of the board in accordance with Chapter 13 of Title 50, the 'Georgia Administrative
+468 Procedure Act.'"
+469 SECTION 1-11.
+470 Said chapter is further amended by revising Code Sections 43-18-77, 43-18-78, 43-18-79,
+471 and 43-18-80, relating to funeral establishment or crematory temporarily without services of
+472 funeral director, temporary destruction of licensed funeral establishment or crematory and
+473 temporary location during grace period, death of license holder, and authorizing agent,
+474 statement specifying disposition of cremated remains, and shipment of remains, respectively,
+475 as follows:
+476 "43-18-77.
+477 In the event that a funeral establishment, organic human reduction facility, or crematory
+478 is temporarily without the services of a funeral director in full and continuous charge, upon
+479 notice by the funeral establishment, organic human reduction facility, or crematory to the
+480 board within five days following the last day of service by such funeral director, the board
+481 shall grant the funeral establishment, organic human reduction facility, or crematory a 90
+482 day grace period in which to have a funeral director in full and continuous charge approved
+S. B. 241
+- 19 -
+25 LC 55 0530
+483 by the board before any action may be taken by the board to revoke or terminate the funeral
+484 establishment's, organic human reduction facility's, or crematory's license. The board may,
+485 in its discretion, upon application by the funeral establishment, organic human reduction
+486 facility, or crematory, grant one additional 90 day grace period upon showing of good
+487 cause. Grace periods totaling not more than 180 days may be granted during any two-year
+488 period beginning the first day on which the grace period was granted. Failure to have a
+489 funeral director in full and continuous charge shall be grounds for the revocation or
+490 suspension of any license, after notice and hearing.
+491 43-18-78.
+492 In the event any funeral establishment, organic human reduction facility, or crematory is
+493 temporarily destroyed by fire, flood, or other natural catastrophe, upon notice by the
+494 funeral establishment, organic human reduction facility, or crematory to the board within
+495 five days following the destruction, the board may grant the funeral establishment, organic
+496 human reduction facility, or crematory a 90 day grace period to use a board approved
+497 temporary location while reconstructing the previous destroyed location, provided the
+498 funeral establishment, organic human reduction facility, or crematory complies with all
+499 other provisions of this article and the rules of the board. The board may, in its discretion,
+500 upon application by the funeral establishment, organic human reduction facility, or
+501 crematory, grant additional 90 day grace periods upon showing of good cause.
+502 43-18-79.
+503 No funeral establishment, organic human reduction facility, or crematory license shall
+504 terminate upon the death of the holder thereof but shall pass to the legal representative of
+505 the deceased or, if there is no legal representative, to the widow of the deceased who may
+506 continue to operate the establishment, facility, or crematory for the unexpired time of the
+507 license.
+S. B. 241
+- 20 -
+25 LC 55 0530
+508 43-18-80.
+509 (a) As used in For the purposes of this Code section, the term 'authorizing agent' means
+510 a person legally entitled to authorize the cremation of human remains organic human
+511 reduction or cremation of a dead human body.
+512 (b) The authorizing agent shall provide to the funeral establishment, organic human
+513 reduction facility, or crematory in which the organic human reduction or cremation
+514 arrangements are made a signed statement specifying the ultimate disposition of the
+515 organically reduced remains or cremated remains, if known. A copy of this such statement
+516 shall be retained by the funeral establishment, organic human reduction facility, or
+517 crematory offering or conducting the organic human reduction or cremation.
+518 (c) Organically reduced remains or cremation Cremated remains shall be shipped only by
+519 a method that has an internal tracking system available and that provides a receipt signed
+520 by the person accepting delivery.
+521 (d) The authorizing agent shall be responsible for the disposition of the organically
+522 reduced remains or cremated remains. If, after 60 days from the date the organic human
+523 reduction is completed or the date of cremation, the authorizing agent or his or her
+524 representative has not specified the ultimate disposition or claimed the organically reduced
+525 or cremated remains, the funeral establishment or, organic human reduction facility,
+526 crematory, or other entity in possession of the organically reduced remains or cremated
+527 remains shall send a notification to the authorizing agent notifying him or her that, pursuant
+528 to this subsection, failure to respond to such notification and specify the final ultimate
+529 disposition of the cremains organically reduced remains or cremated remains within 30
+530 days of the transmission of such notice shall authorize the funeral establishment, organic
+531 human reduction facility, crematory, or other entity to make arrangements for the
+532 disposition of the cremains such remains. If, after 30 days, the funeral establishment,
+533 organic human reduction facility, crematory or entity in possession of the organically
+534 reduced remains or cremated remains has not received instructions from the authorizing
+S. B. 241
+- 21 -
+25 LC 55 0530
+535 agent describing a specific method of disposing of the cremains such remains, the funeral
+536 establishment, organic human reduction facility, crematory or entity in possession of the
+537 cremains such remains shall be authorized to dispose of the organically reduced remains
+538 or cremated remains in a dignified and humane manner by entombing such cremains in a
+539 crypt or underground the entombment, internment, or scattering of such remains in
+540 accordance with local and state law or by storage in the funeral establishment, organic
+541 human reduction facility, crematory, or location of the entity in possession of the remains.
+542 The final resting place of the cremains organically reduced remains or cremated remains
+543 shall be clearly marked, unless such remains are scattered, and recorded by the funeral
+544 establishment entombing the cremains, organic human reduction facility, crematory, or
+545 entity that disposed of such remains. Any costs or fees incurred to entomb, inter, scatter,
+546 or disinter the cremains such remains shall be the responsibility of the authorizing agent;
+547 provided, however, that such cost shall not exceed $100.00."
+548 PART II
+549 SECTION 2-1.
+550 Title 10 of the Official Code of Georgia Annotated, relating to commerce and trade, is
+551 amended in Code Section 10-14-3, relating to definitions relative to cemetery and funeral
+552 services, by revising paragraph (12) as follows:
+553 "(12) 'Cremation' includes any mechanical, chemical, thermal, or other professionally
+554 accepted process whereby a deceased human being is reduced to ashes. Such term
+555 Cremation also includes any other mechanical, chemical, thermal, or other professionally
+556 accepted process whereby human remains dead human bodies are pulverized, burned,
+557 recremated, or otherwise further reduced in size or quantity, including organic human
+558 reduction as such term is defined in Code Section 43-18-1."
+S. B. 241
+- 22 -
+25 LC 55 0530
+559 SECTION 2-2.
+560 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended in Code
+561 31-10-1, relating to definitions relative to vital records, by revising paragraph (6) and adding
+562 a new paragraph to read as follows:
+563 "(6) 'Final disposition' means the burial, interment, cremation, removal from the state,
+564 or other authorized disposition of a dead body or fetus, including organic human
+565 reduction."
+566 "(11.1) 'Organic human reduction' shall have the same meaning as set forth in Code
+567 Section 43-18-1."
+568 SECTION 2-3.
+569 Said title is further amended in Code 31-10-20, relating to permits for disposition,
+570 disinterment, and reinterment, by revising subsection (a) as follows:
+571 "(a) The funeral director or person acting as such or other person who that first assumes
+572 custody of a dead body or fetus shall obtain a disposition permit for cremation or removal
+573 the cremation or organic human reduction of such body or fetus or the removal of such
+574 body or fetus from the state. A disposition permit may be required within the state by local
+575 authorities."
+576 SECTION 2-4.
+577 Said title is further amended in Code 31-10-28, relating to institutions to keep vital records,
+578 by revising subsection (c) as follows:
+579 "(c) A funeral director, embalmer, sexton, or other person who that removes from the place
+580 of death, transports, or makes final disposition of a dead body or fetus, in addition to filing
+581 any certificate or other report required by this chapter or regulations promulgated
+582 hereunder, shall keep a record which shall identify the body and such information
+S. B. 241
+- 23 -
+25 LC 55 0530
+583 pertaining to receipt, removal, delivery, burial, or cremation or final disposition of such
+584 body as may be required by regulations adopted by the department."
+585 SECTION 2-5.
+586 Said title is further amended by revising Code 31-21-4, relating to burial at sea of cremated
+587 remains, notification that cremated remains are ready for interment, and unclaimed cremated
+588 remains, as follows:
+589 "31-21-4.
+590 (a)(1) Cremated remains or organically reduced remains may be taken by boat from any
+591 harbor in this state, or by air, for burial at sea at a point not less than three miles from the
+592 nearest shoreline. Cremated; provided, however, that such remains shall be removed
+593 from their container before such remains are buried at sea.
+594 (2) Any person who that buries at sea, either from a boat or from the air, any human
+595 cremated remains cremated remains or organically reduced remains of a dead human
+596 body shall carry out the burial services within 50 days from the reduction of the dead
+597 human body to cremated remains or organically reduced remains and shall file with the
+598 local registrar of births, deaths, and other vital records in the county nearest the point
+599 where the such remains were buried a verified statement containing the name of the
+600 deceased person, the time and place of death, the place at which the cremated remains or
+601 organically reduced remains were buried, and any other information that the local
+602 registrar may require. Burial services may be delayed until weather conditions improve
+603 if inclement weather prevents safe burial.
+604 (b) Any person who that requests that a dead human body be cremated or organically
+605 reduced shall provide the funeral establishment or other person responsible for the
+606 cremation or organic human reduction an address at which such person can be notified
+607 when the cremated remains or organically reduced remains are ready for interment.
+608 Notification or other ultimate disposition. Such notification shall be made by first-class
+S. B. 241
+- 24 -
+25 LC 55 0530
+609 mail to such person at the address provided. If the cremated remains or organically
+610 reduced remains are not claimed for interment or other disposition within 60 days from the
+611 date that the notification is mailed, such remains shall be turned over to the coroner to be
+612 interred in a plot or niche in a cemetery where indigents are buried may be disposed of in
+613 accordance with the provisions of Code Section 43-18-80."
+614 SECTION 2-6.
+615 Said title is further amended in Code 31-21-44.1, relating to abuse of a dead body, by
+616 revising paragraph (1) of subsection (a) as follows:
+617 "(a)(1) A person commits the offense of abuse of a dead human body if, prior to
+618 interment or other final disposition of a dead human body and except as otherwise
+619 authorized by law, such person willfully defaces a dead such dead human body while the
+620 dead human body is lying in state or is prepared for burial, showing, or cremation, or
+621 other final disposition whether in a funeral establishment, place of worship, home, or
+622 other facility for lying in state or at a grave site. The lawful presence of the offender at
+623 a place where the dead human body is abused shall not be a defense to a prosecution
+624 under this Code section."
+625 SECTION 2-7.
+626 Said title is further amended in Code 31-21-44.2, relating to throwing away or abandonment
+627 of dead bodies and punishment, by revising paragraph (2) of subsection (a) as follows:
+628 "(2) It shall not be an offense under this subsection to make final disposition of a dead
+629 human body or portion of such dead human body under a death certificate issued under
+630 Chapter 10 of this title or the law of another jurisdiction by interment, entombment,
+631 inurnment, scattering of cremated remains or organically reduced remains, burial at sea,
+632 or any means otherwise authorized by law; nor shall it be an offense under this subsection
+633 for any law enforcement personnel, medical or medical laboratory personnel, hospital
+S. B. 241
+- 25 -
+25 LC 55 0530
+634 personnel, coroner or medical examiner, funeral director, embalmer, organic human
+635 reduction facility operator, crematory operator, or cemetery operator to perform those
+636 duties or acts relating to possession or disposition of a dead human body or portion of
+637 such dead human body which are otherwise imposed or authorized by law or lawful
+638 contract; nor shall use of a dead human body or portion of such dead human body at or
+639 by an accredited medical school, dental school, college, or university for education,
+640 research, or advancement of medical or dental science or therapy be an offense under this
+641 subsection."
+642 SECTION 2-8.
+643 Title 36 of the Official Code of Georgia Annotated, relating to local government, is amended
+644 by revising Code Section 36-12-5, relating to interment or cremation of deceased indigents,
+645 as follows:
+646 "36-12-5.
+647 (a) Whenever any person individual dies in this state and the decedent, his or her family,
+648 and his or her immediate kindred are indigent and unable to provide for the decedent's
+649 decent interment, or cremation, or other final disposition, the governing authority of the
+650 county wherein the death occurs where the death occurred shall make available from
+651 county funds a sum sufficient to provide a decent interment, or cremation, or other final
+652 disposition of the deceased indigent person individual or to reimburse such person
+653 individual's immediate kindred as may have expended the cost thereof of such decent
+654 internment, cremation, or other final disposition voluntarily, the exact amount thereof to
+655 be determined by the governing authority of the county but shall not exceed the lesser of
+656 the actual costs of interment, or cremation, or other final disposition.
+657 (b) The Department of Corrections is authorized to reimburse the governing authority of
+658 the county where expenditures have been made in accordance with this Code section for
+659 the burial, or cremation, or other final disposition of any inmate under the authority,
+S. B. 241
+- 26 -
+25 LC 55 0530
+660 jurisdiction, or control of the Department of Corrections; but provided, however, that in no
+661 case shall the governing authority of the county be entitled to reimbursement where the
+662 decedent was in the custody of a county correctional institution or other county correctional
+663 facility."
+664 PART III
+665 SECTION 3-1.
+666 This Act shall become effective on July 1, 2025.
+667 SECTION 3-2.
+668 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 241
+- 27 -
+[DELETED: 5L t r t l o o h r f t p o o h r t p f t d o u r s a t r a d p f t o h t o o a o a d h b t p c]
+[DELETED: 5L 1 o T 4 o t O C o G A r t f C a i a o m c t o o a p w h r d h b a]
+[DELETED: 5L l t e i a i c o h  ' d m a p w p f d o u i]
+[DELETED: 5L  ' a p m t d s s a s o  ' h r f m a l w o h  ' o e o ' m d o p o]
+[DELETED: 5L o h]
+[DELETED: 5L n t c d o o h r c d]
+[DELETED: 5L U S D o V A a w w d u]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L  T p o e o f d u a f n o t]
+[DELETED: 5L]
+[DELETED: 5L o r t D o P H l o r o t P A l o r o a m o c]
+[DELETED: 5L o o w i i o b m c o u c  U c o p s a i a]
+[DELETED: 5L  A f r f t s a o o t f]
+[DELETED: 5L  S a m o 4 h p w i t e a o o t s b a a s a o l a s m t f  A l o o p s f g o o r]
+[DELETED: 5L a o t u w p h b r f t p]
+[DELETED: 5L r r t o h r a o h r c i f a b r C S 4 4 a a c i o t o l a i  L f t o o f e o h r]
+[DELETED: 5L]
+[DELETED: 5L  T l o a f e o h r f o i t e p b i a a h i t t f C]
+[DELETED: 5L d a b t f e o h r f o]
+[DELETED: 5L f o c i w t o h r o c a m a s s s t u d o t b r b t f e o h r f o i c o t d o c t a a o h o h c r t f e o o h r f r f c o o e t m a f t]
+[DELETED: 5L o u t e i o s o s r i]
+[DELETED: 5L o a d o a d b o f i o h t i f a i C 3 r t p f d c o o r r b t c o r p s k a r w s i t b a s i]
+[DELETED: 5L r r w b a a o i t t l s p t f e o o p r f t t c r o o r r a r f i]
+[DELETED: 5L  A p c t o o a o a d h b i p t]
+[DELETED: 5L o t d i p i o t r s p]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0530
+Senate Bill 241
+By: Senators Williams of the 25th, Anderson of the 24th, Mallow of the 2nd, Robertson of
+the 29th and Parent of the 44th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 18 of Title 43 of the Official Code of Georgia Annotated, relating to
+2 funeral directors and establishments, embalmers, and crematories, so as to provide for the
+3 organic human reduction as a means of disposing of deceased human bodies; to provide
+4 identification requirements for deceased human bodies that are to undergo organic human
+5 reduction; to require the licensure of organic human reduction facilities; to provide
+6 exceptions; to provide for requirements of organic human reduction facilities; to provide for
+7 requirements of organic human reduction; to provide for the disposition of unclaimed
+8 organically reduced remains; to provide definitions; to amend Titles 10, 31, and 36 of the
+9 Official Code of Georgia Annotated, relating to commerce and trade, health, and local
+10 government, respectively, so as to require a disposition permit for the organic human
+11 reduction of a dead human body or fetus; to provide for the burial at sea of organically
+12 reduced remains; to provide for the notification that organically reduced remains are ready
+13 for disposition; to provide that the disposition of organically reduced remains shall not
+14 constitute the offense of abandonment of a dead human body; to provide conforming
+15 changes; to provide for related matters; to provide an effective date; to repeal conflicting
+16 laws; and for other purposes.
+17 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+S. B. 241
+- 1 -
+
+25 LC 55 0530
+18 PART I
+19 SECTION 1-1.
+20 Chapter 18 of Title 43 of the Official Code of Georgia Annotated, relating to funeral
+21 directors and establishments, embalmers, and crematories, is amended by revising Code
+22 Section 43-18-1, relating to definitions, as follows:
+23 "43-18-1.
+24 As used in this article, the term:
+25 (1) 'Alternative container' means any receptacle or enclosure which is of sufficient
+26 strength to be used to hold and to transport a dead human body. Such term does not
+27 include a casket.
+28 (2) 'Apprentice' means a person who practices embalming, funeral directing, or both,
+29 under the direct supervision of a funeral director, embalmer, or both, in this state.
+30 (3) 'Board' means the State Board of Funeral Service.
+31 (4) 'Casket' means a container which is designed for the encasement and viewing of a
+32 dead human body.
+33 (5) 'Cremation' means the reduction of the dead human body to residue by intense heat
+34 or any mechanical, chemical, thermal, or other professionally accepted process. Such
+35 term Cremation also includes any other mechanical, chemical, thermal, or other
+36 professionally accepted process whereby human remains dead human bodies are
+37 pulverized, burned, recremated, or otherwise further reduced in size or quantity. Such
+38 term does not include organic human reduction.
+39 (5.1) 'Cremation device' means a retort, vat, or container in which dead human bodies
+40 are cremated by traditional flame, alkaline hydrolysis, or other means approved by the
+41 board.
+S. B. 241
+- 2 -
+
+25 LC 55 0530
+42 (6) 'Crematory' means any place where cremation is performed, other than a hospital,
+43 clinic, laboratory, or other facility authorized by the Department of Community Health
+44 for such purposes.
+45 (7) 'Direct supervision' means that the embalmer, funeral director, or both, are present
+46 and overseeing the activities of the apprentice.
+47 (8) 'Embalmer' means a person who practices embalming or uses in connection with that
+48 such person's name the words 'embalmer,' 'licensed embalmer,' 'undertaker,' or 'mortician'
+49 or offers or holds himself or herself out as offering such services.
+50 (9) 'Final disposition' means the final disposal of a dead human body whether it is by, but
+51 not limited to, earth interment, above-ground interment, cremation, organic human
+52 reduction, burial at sea, or delivery to a medical institution for lawful dissection if the
+53 such medical institution assumes responsibility for disposal.
+54 (10) 'Funeral' or 'funeral services' means the observances, services, or ceremonies held
+55 for dead human bodies and includes any service relating to the transportation, embalming,
+56 cremation, organic human reduction, and interment of a dead human body.
+57 (11) 'Funeral director' means a person who practices funeral directing or uses in
+58 connection with that such person's name or with a picture of that such person the words
+59 'funeral director,' 'licensed funeral director,' 'undertaker,' or 'mortician' or offers or holds
+60 himself or herself out as offering such services.
+61 (12) 'Funeral director in full and continuous charge' means a funeral director who is
+62 approved by the board to assume full responsibility for the operations of a particular
+63 funeral establishment, organic human reduction facility, or crematory and who shall
+64 ensure that said such establishment complies with the provisions of this article and with
+65 all rules promulgated pursuant thereto to this article.
+66 (13) 'Funeral establishment' means a place where embalming or funeral directing is
+67 practiced and which is open to the public and transacting business relating to funeral
+68 services.
+S. B. 241
+- 3 -
+
+25 LC 55 0530
+69 (14) 'Funeral merchandise' means the goods that may only be sold or offered for sale by
+70 a funeral director working in a funeral establishment, organic human reduction facility,
+71 or crematory and includes, but is not limited to, a casket or alternative container, but does
+72 not include an outer burial container or cemetery marker.
+73 (15) 'Funeral service contract' means a written or oral agreement between a funeral
+74 director or funeral establishment, organic human reduction facility, or crematory and a
+75 legally authorized person for the embalming, funeral, or final disposition of a dead human
+76 body.
+77 (16) 'Legally authorized person' means the deceased's surviving spouse, a son or
+78 daughter who is 18 years of age or older; the deceased's parent, a brother or sister who
+79 is 18 years of age or older; any other person who is 18 years of age or older and who is
+80 in the next degree of kinship to the deceased; the deceased's legal guardian or personal
+81 representative; or a public health officer.
+82 (16.1) 'Organic human reduction' means the contained, accelerated conversion of dead
+83 human bodies to soil.
+84 (16.2) 'Organic human reduction container' means a container in which organic human
+85 reduction occurs.
+86 (16.3) 'Organic human reduction facility' means a location where organic human
+87 reduction is performed.
+88 (16.4) 'Organically reduced remains' means the resulting residue of a dead human body
+89 that has undergone organic human reduction.
+90 (17) 'Outer burial container' means an enclosure into which a casket is placed, including,
+91 but not limited to, a vault made of concrete, steel, fiberglass, or copper,; a sectional
+92 concrete enclosure,; a crypt,; or a wooden enclosure.
+93 (18) 'Practice of embalming' or 'embalming' means disinfecting or preserving or
+94 attempting to disinfect or preserve dead human bodies by replacing certain body fluids
+95 with preserving and disinfecting chemicals.
+S. B. 241
+- 4 -
+
+25 LC 55 0530
+96 (19) 'Practice of funeral directing' or 'funeral directing' means making or directing, at
+97 need or preneed, arrangements for the preparation and transportation of dead human
+98 bodies for final disposition and the supervision and direction of all funeral services.
+99 (20) 'Retort' means a furnace where dead human bodies are cremated.
+100 (21) 'Soliciting' means the making of any uninvited contact with another person by a
+101 funeral director or by a funeral director's agent, assistant, employer, or employee for the
+102 purpose of the sale of funeral services or merchandise but shall not mean. Such term
+103 shall not include any advertising which is directed to the public in general."
+104 SECTION 1-2.
+105 Said chapter is further amended in Code Section 43-18-5, relating to unlawful acts and
+106 exemption, by revising subsections (b) and (d) as follows:
+107 "(b) Any person, firm, or corporation who that has control of a funeral establishment,
+108 organic human reduction facility, or crematory and fails to obtain licensure as required by
+109 this article, upon conviction thereof, may be fined not less than $100.00 nor more than
+110 $500.00 for each violation. Each day that the funeral establishment, organic human
+111 reduction facility, or crematory is operated in violation of this article shall be deemed to
+112 be a separate and distinct offense."
+113 "(d) It shall be unlawful for any person, firm, or corporation or any officer, agent, or
+114 employee of such person, firm, or corporation engaged in the practice of funeral directing
+115 or embalming funeral or crematory business to give, or contract to give, either directly or
+116 indirectly, any reward, commission, compensation, or anything of value to any person,
+117 firm, or corporation for the purpose of, or as an inducement to, such person, firm, or
+118 corporation to persuade or induce any person to use or employ such funeral director or
+119 embalmer in or about the preparation for burial or conducting the burial of any deceased
+120 person engaged in the practice of funeral directing or embalming in or about the provision
+121 of funeral services."
+S. B. 241
+- 5 -
+
+25 LC 55 0530
+122 SECTION 1-3.
+123 Said chapter is further amended by revising Code Section 43-18-8, relating to identification
+124 of body or remains of deceased and affidavit required for cremated remains, as follows:
+125 "43-18-8.
+126 (a)(1) The funeral director or person in charge of final disposition of a dead human body
+127 shall, prior to the interment, organic human reduction, or cremation of such dead human
+128 body, affix on the ankle or wrist of the deceased a tag of durable, noncorroding material
+129 permanently marked with the name of the deceased, the date of death, the social security
+130 number of the deceased, the county and state of death, and the serial number of any
+131 prosthesis removed from the dead human body by the funeral establishment, organic
+132 human reduction facility, or crematory.
+133 (2) No funeral director in charge of a crematory or organic human reduction facility shall
+134 permit any dead human body to be on the premises of the crematory or organic human
+135 reduction facility without the dead human body being identified as provided by this
+136 subsection, except when the body is placed in a cremation device or organic human
+137 reduction container; and the tag shall be removed from the body and kept in a regular
+138 location near the cremation device or organic human reduction container during
+139 cremation or the organic human reduction and thereafter placed atop the cremated or
+140 organically reduced remains on the inside of the vessel and any liner therein. The vessel
+141 containing cremated or organically reduced remains shall be plainly labeled on the
+142 outside so as to identify the deceased with the same information, excluding social security
+143 number, as is required to be on the tag inside the vessel and so as to identify the name of
+144 the person or firm to which such remains are to be delivered or released.
+145 (3) Tags and labels used for purposes of this subsection shall be in such standard forms
+146 as prescribed by the board. If the religious faith of the deceased prohibits such means of
+147 identification, alternative means of identification of the body may be used.
+S. B. 241
+- 6 -
+
+25 LC 55 0530
+148 (b) A crematory or an organic human reduction facility may deliver or release cremated
+149 or organically reduced remains to a funeral establishment or a legally authorized person.
+150 The funeral director in charge of a crematory or an organic human reduction facility shall
+151 provide to the funeral establishment or legally authorized person to whom cremated or
+152 organically reduced remains are delivered or released, at the time of such delivery or
+153 release, a written statement an affidavit, on such standard form as prescribed by the board,
+154 signed and verified by such funeral director before a person authorized to administer oaths
+155 and attesting that the vessel contains substantially the remains of the deceased identified
+156 in accordance with subsection (a) of this Code section.
+157 (c) No funeral establishment shall accept or take delivery of any cremated or organically
+158 reduced remains from any crematory or organic human reduction facility unless the vessel
+159 containing such remains is labeled as required by paragraph (2) of subsection (a) of this
+160 Code section and is accompanied by the affidavit required by subsection (b) of this Code
+161 section, which vessel and affidavit shall be provided by the funeral establishment to a
+162 legally authorized person upon delivery or release of the cremated or organically reduced
+163 remains."
+164 SECTION 1-4.
+165 Said chapter is further amended by revising Code Section 43-18-9, relating to disposition of
+166 veterans' cremated remains, as follows:
+167 "43-18-9.
+168 (a) As used in this Code section, the term:
+169 (1) 'Veteran' means a resident of this state who qualifies as a veteran under the rules of
+170 the United States Department of Veterans Affairs and who was discharged under
+171 conditions other than dishonorable.
+172 (2) 'Veterans' organization' means the Department of Veterans Service, the National
+173 Cemetery Administration's National Cemetery Scheduling Office, or any association or
+S. B. 241
+- 7 -
+
+25 LC 55 0530
+174 other entity organized for the benefit of veterans that has been recognized or chartered
+175 by the United States Congress, such as the American Legion, the Legion of Honor, the
+176 Patriot Guard, the Missing in America Project, and the Vietnam Veterans of America.
+177 (b) The funeral director shall make a reasonable effort to determine whether any dead
+178 human body submitted for final disposition by cremation or organic human reduction is
+179 that of a deceased veteran.
+180 (c) The funeral director shall, at the time the cremation or organic human reduction
+181 authorization form is signed:
+182 (1) Inquire as to whether the legally authorized person has information or belief as to
+183 whether the deceased is a veteran; and
+184 (2) Notify the legally authorized person of the responsibilities of the funeral director
+185 under this Code section.
+186 (d) If the funeral director is unable to determine with certainty whether the deceased was
+187 a veteran through an inquiry with the legally authorized agent person, then any veterans'
+188 organization shall be allowed access to all information available from the United States
+189 Department of Veterans Affairs regarding the deceased in the possession of the funeral
+190 director in charge of the crematory or organic human reduction facility so that any veterans'
+191 organization may attempt to determine whether the deceased is a veteran. If any veterans'
+192 organization that is allowed access to information pursuant to this Code section discovers
+193 that the deceased is a veteran, the such veterans' organization shall notify the funeral
+194 director.
+195 (e)(1) If the funeral director determines that the deceased is a veteran from information
+196 provided by the legally authorized person, any veterans' organization, or otherwise, then
+197 such funeral director shall immediately notify the legally authorized person of such
+198 finding and shall advise that the deceased person may be eligible to be interred at an
+199 appropriate veterans' cemetery.
+S. B. 241
+- 8 -
+
+25 LC 55 0530
+200 (2) If the funeral director determines that the deceased is a veteran from information
+201 provided by the legally authorized person, any veterans' organization, or otherwise, and
+202 the cremated or organically reduced remains are not claimed by a legally authorized
+203 person, then the funeral director shall hold any such cremated or organically reduced
+204 remains for at least 60 days. After 60 days, the funeral director shall send written notice
+205 to the legally authorized person who signed the cremation or organic human reduction
+206 authorization form requesting disposition instructions. If the funeral director does not
+207 receive a written response from the legally authorized person within 30 days of sending
+208 a such written notice, then the funeral director shall contact a veterans' organization so
+209 that arrangements for the disposition of the cremated or organically reduced remains of
+210 the veteran may be made in a state or national veterans' cemetery.
+211 (f) Nothing in this Code section shall delay the authorized cremation or organic human
+212 reduction of a deceased's remains.
+213 (g)(1) A funeral director complying with this Code section shall be immune from any
+214 criminal or civil liability regarding:
+215 (A) The determination of a deceased's status as a veteran;
+216 (B) The release of information relating to the determination of a deceased's status as
+217 a veteran;
+218 (C) The availability of interment or inurnment for a deceased veteran; or
+219 (D) The release of cremated or organically reduced remains to a veterans' cemetery.
+220 (2) A funeral director shall be immune from civil liability for any act or omission under
+221 this Code section except for willful or wanton misconduct.
+222 (h) A veterans' organization shall be immune from civil liability for any act or omission
+223 related to the disposition of cremated or organically reduced remains under this Code
+224 section except for willful or wanton misconduct."
+S. B. 241
+- 9 -
+
+25 LC 55 0530
+225 SECTION 1-5.
+226 Said chapter is further amended in Code Section 43-18-22, relating to election of president
+227 of the State Board of Funeral Service, meetings, reimbursement of members, and conflicts
+228 of interest, by revising subsection (d) as follows:
+229 "(d) No board inspector shall own, operate, or be employed by any funeral establishment,
+230 organic human reduction facility, or crematory, or perform any services on behalf thereof
+231 without prior approval by the board and the division director. The provisions of this
+232 subsection However, this shall not prohibit any board member from acting as an inspector
+233 as authorized in this article."
+234 SECTION 1-6.
+235 Said chapter is further amended by revising Code Section 43-18-46, relating to grounds for
+236 denial or revocation of license or registration and other discipline, as follows:
+237 "43-18-46.
+238 In addition to the authority provided in Code Section 43-1-19 Chapter 1 of this title, the
+239 board may refuse to grant a license to operate a funeral establishment, organic human
+240 reduction facility, or crematory or to practice embalming or funeral directing, may refuse
+241 to grant a registration to serve as an apprentice, or may revoke, suspend, fine, or otherwise
+242 discipline a licensee or registrant upon any of the following grounds:
+243 (1) The employment of fraud or deception in applying for a license or registration or in
+244 passing the examination provided for in this article;
+245 (2) Issuance of a license or registration through error;
+246 (3) Conviction of a crime involving moral turpitude;
+247 (4) The practice of embalming or funeral directing under a false name or the
+248 impersonation of another embalmer, funeral director, or apprentice of a like or different
+249 name;
+S. B. 241
+- 10 -
+
+25 LC 55 0530
+250 (5) The making of a false statement or representation regarding the qualifications,
+251 training, or experience of any applicant;
+252 (6) The making of a misrepresentation of any kind regarding any funeral merchandise;
+253 (7) Directly or indirectly, by gifts or otherwise, committing the offense of buying
+254 business or paying a commission or making gifts, directly or indirectly, for the purpose
+255 of securing business to any physician or hospital, or to any institution where death occurs,
+256 or to any hospital superintendent, nurse, intern, or employee of any hospital, nursing
+257 home, or other institution where death occurs; or to any coroner or other government
+258 official;
+259 (8) Gross or willful malpractice or gross neglect in the practice of embalming, or funeral
+260 directing, or cremating;
+261 (9) Signing a death certificate as having embalmed or prepared a body for burial or
+262 preservation when in fact someone else performed such embalming or preparation;
+263 (10) Interfering, either directly or indirectly, with a licensed embalmer or funeral director
+264 having legal charge of a dead human body;
+265 (11) Using any statements that mislead or deceive the public including, but not limited
+266 to, false or misleading statements regarding a legal or cemetery requirement, funeral
+267 merchandise, funeral services, or in the operation of a funeral establishment, organic
+268 human reduction facility, or crematory;
+269 (12) Failing to fulfill the terms of a funeral service contract;
+270 (13) Disregarding a decedent's dignity, right to privacy, or right to confidentiality unless
+271 compelled by law to do otherwise;
+272 (14) Using profane, indecent, or obscene language in the presence of a dead human body,
+273 or within the immediate hearing of the family or relatives of a deceased, whose body has
+274 not yet been interred or otherwise disposed;
+275 (15) Failing to turn assigned benefits in excess of charges incurred over to the assignee
+276 of the deceased within ten working days of receipt of the such assigned funds;
+S. B. 241
+- 11 -
+
+25 LC 55 0530
+277 (16) Refusing to surrender promptly the custody of a dead human body upon the express
+278 order of the person lawfully entitled to the custody;
+279 (17) Failing to have the charges rendered to be in compliance with those listed in the
+280 funeral establishment general price list, the casket price list, the outer burial container list,
+281 or the funeral service contract price list;
+282 (18) Aiding or abetting an unlicensed person to practice under this article;
+283 (19) Promoting or participating in a burial society, burial association, burial certificate
+284 plan, or burial membership plan;
+285 (20) Soliciting, as defined in paragraph (21) of Code Section 43-18-1;
+286 (21) Presenting a false certification of work done by an apprentice or as an apprentice;
+287 (22) Willfully violating any state law or regulation; any law or regulation of the Federal
+288 Trade Commission law or regulation;, the Occupational Safety and Health Administration
+289 law or regulation;, the Department of Public Health law or regulation;, or the
+290 Environmental Protection Agency law or regulation; or any municipal or county
+291 ordinance or regulation that affects the handling, custody, care, or transportation of dead
+292 human bodies, including, but not limited to, the disposal of equipment, residual fluids,
+293 or medical wastes;
+294 (23) Knowingly making any misleading, deceptive, untrue, or fraudulent representation
+295 in the practice of funeral directing or embalming or in any document connected therewith
+296 to such practice;
+297 (24) Discriminating in the provision of services because on the basis of race, creed,
+298 color, religion, gender, or national origin;
+299 (25) Failing to safeguard all personal properties that were obtained from dead human
+300 remains bodies and failing to dispose of same as directed by a legally authorized person;
+301 (26) Failing to refund moneys due as a result of overpayment by an insurance company
+302 or other third party;
+S. B. 241
+- 12 -
+
+25 LC 55 0530
+303 (27) Engaging in any unprofessional, immoral, unethical, deceptive, or deleterious
+304 conduct or practice harmful to the public, which conduct or practice that materially
+305 affects the fitness of the licensee or registrant to practice in the funeral business, or is of
+306 a nature likely to jeopardize the interest of the general public, which conduct or practice
+307 that need not have resulted in actual injury to any person or be directly related to the
+308 practice of funeral directing or embalming but shows that the person has committed any
+309 act or omission which is indicative of bad moral character or untrustworthiness;
+310 unprofessional conduct. Unprofessional conduct or practice shall also include any
+311 departure from or failure to conform to the minimal reasonable standards of acceptable
+312 and prevailing practice of funeral services;
+313 (28) Engaging in any practice whereby a person who is both a funeral director and a
+314 coroner or who is both a funeral director and a minister presents that person as a funeral
+315 director to a legally authorized person when death is imminent or after death occurs prior
+316 to when the legally authorized person selects a funeral director or funeral establishment,
+317 organic human reduction facility, or crematory which will handle the dead human body;
+318 (29) Practicing embalming or funeral directing or operating a funeral establishment,
+319 organic human reduction facility, or crematory prior to the board's having approved an
+320 application for licensure; or
+321 (30) Failing to satisfy the funeral director in full and continuous charge requirements as
+322 set out in Code Section 43-18-71 or the funeral establishment, crematory, or organic
+323 human reduction facility requirements as set out in Code Section Sections 43-18-70,
+324 43-18-72, and 43-18-72.1, respectively."
+325 SECTION 1-7.
+326 Said chapter is further amended in Code Section 43-18-70, relating to practice at licensed
+327 funeral establishment or crematory, facilities, and living quarters, by revising subsections (a)
+328 and (d) as follows:
+S. B. 241
+- 13 -
+
+25 LC 55 0530
+329 "(a) No embalmer or funeral director shall engage in the practice of embalming or funeral
+330 directing at a funeral establishment, organic human reduction facility, or crematory which
+331 is not licensed by the board."
+332 "(d) If the a funeral director resides in the a funeral establishment to be accessible to the
+333 community for purposes of satisfying the requirements of funeral director in full and
+334 continuous charge, the living quarters in the funeral establishment must shall include at a
+335 minimum furnished sleeping quarters, cooking, refrigerating, and bathing facilities."
+336 SECTION 1-8.
+337 Said chapter is further amended in Code Section 43-18-71, relating to funeral establishments
+338 and crematories to be licensed and to employ licensed funeral director and display of name
+339 and license of funeral director, by revising subsection (a) as follows:
+340 "(a) It shall be unlawful for any person, firm, corporation, or association to operate a
+341 funeral establishment, organic human reduction facility, or crematory engaged in the
+342 business of funeral directing or embalming or cremating providing funeral services without
+343 first obtaining a license from the board in accordance with this article. The board shall not
+344 issue a license to any funeral establishment, organic human reduction facility, or crematory
+345 unless such funeral establishment, organic human reduction facility, or crematory shall
+346 employ the service of a funeral director licensed in accordance with this article, who shall
+347 be the funeral director in full and continuous charge of the establishment and who is a
+348 resident of this state. There shall be conspicuously displayed in each funeral establishment,
+349 organic human reduction facility, and crematory the name and license of the funeral
+350 director in full and continuous charge. A funeral director who is in full and continuous
+351 charge shall:
+352 (1) Assume full responsibility for the supervision and operation of the funeral
+353 establishment, organic human reduction facility, or crematory for which that person has
+354 been designated as the funeral director in full and continuous charge;
+S. B. 241
+- 14 -
+
+25 LC 55 0530
+355 (2) Act as funeral director for only one funeral establishment, organic human reduction
+356 facility, or crematory; and
+357 (3) Spend a minimum of 40 hours per week in the employ and operation of the
+358 establishment and be accessible and available to the community."
+359 SECTION 1-9.
+360 Said chapter is further amended by adding a new Code section to read as follows:
+361 "43-18-72.1.
+362 (a)(1) It shall be unlawful for any person, firm, corporation, or association to operate an
+363 organic human reduction facility without first obtaining a separate license for such
+364 purpose from the board in accordance with this article. The organic human reduction
+365 facility shall be at a specific address or location and shall meet the following
+366 requirements and have the following minimum equipment, facilities, and personnel:
+367 (A) A room with seating for a minimum of 30 people in which funeral services may
+368 be conducted;
+369 (B) A display room containing an adequate supply of containers in which organically
+370 reduced remains are placed;
+371 (C) Rolling stock consisting of at least one operable motor hearse either owned or
+372 leased by said firm with current Georgia registration;
+373 (D) At least one operable organic human reduction container;
+374 (E) At least one operable processing station for grinding of organically reduced
+375 remains;
+376 (F) At least one church truck; and
+377 (G) Not be located within 1,000 feet of a residential subdivision platted and recorded
+378 in the office of the clerk of the superior court of a county in which such residential
+379 subdivision is located.
+S. B. 241
+- 15 -
+
+25 LC 55 0530
+380 (2)(A) The provisions of subparagraphs (A), (B), and (F) of paragraph (1) of this
+381 subsection shall not apply to organic human reduction facilities which provide organic
+382 human reduction services only to other funeral establishments.
+383 (B) The provision of paragraph (G) of paragraph (1) of this subsection shall only apply
+384 to the issuance or renewal of any license on or after July 1, 2025, for any stand-alone
+385 organic human reduction facility that was not in operation as of July 1, 2025. As used
+386 in this subparagraph, the term 'stand-alone organic human reduction facility' means an
+387 organic human reduction facility that is not located on or adjacent to a tract or parcel
+388 of land which contains a funeral establishment.
+389 (b) The board may adopt and enforce such rules and regulations as may be reasonable and
+390 necessary to provide for the sanitary disposal of dead human bodies by organic human
+391 reduction and prevent the spread of disease and to protect the health, safety, and welfare
+392 of the people of this state. Such rules and regulations may include required inspections of
+393 any organic human reduction container by the manufacturer or other authorized repair
+394 company once every five years to ensure proper operations.
+395 (c) Application for licensure of an organic human reduction facility shall be made upon
+396 a form approved by the board and shall be accompanied by an application fee. No license
+397 shall be issued unless the organic human reduction facility meets all the requirements set
+398 forth by this Code section and by the board.
+399 (d) The board shall adopt rules requiring each organic human reduction facility to submit
+400 periodic reports to the board in a standard form which include the names of deceased
+401 persons whose bodies underwent organic human reduction at the facility and the types of
+402 organic human reduction containers used.
+403 (e)(1) No more than one dead human body shall be placed in an organic human reduction
+404 container at one time unless written permission has been received from the person
+405 possessing legal responsibility for the final disposition of the dead human body.
+S. B. 241
+- 16 -
+
+25 LC 55 0530
+406 (2) Upon completion of the organic human reduction process, the organically reduced
+407 remains shall be pulverized until no single fragment is recognizable as skeletal tissue.
+408 Such pulverized remains shall then be transferred to a container or multiple containers,
+409 if so requested by the legally authorized person, and delivered to the legally authorized
+410 person or otherwise disposed of in accordance with the provisions of Code Section
+411 43-18-80.
+412 (f) Nothing in this article shall require a funeral establishment or crematory for which a
+413 valid license to operate is in effect on July 1, 2025, to have a separate license to operate as
+414 an organic human reduction facility until on and after the renewal date of such license to
+415 operate a funeral establishment or crematory which first occurs after July 1, 2025, but such
+416 funeral establishment or crematory, if performing organic human reduction, shall comply
+417 with all the minimum equipment and facilities requirements and all other statutes, rules,
+418 and regulations relating to organic human reduction and organic human reduction
+419 facilities."
+420 SECTION 1-10.
+421 Said chapter is further amended by revising Code Sections 43-18-73, 43-18-74, and
+422 43-18-75, relating to renewal of licenses for the operation of funeral establishments and
+423 crematories and changes in ownership; transferability of licenses; and inspections,
+424 suspension or revocation of license, and other disciplinary actions, respectively, as follows:
+425 "43-18-73.
+426 (a) Licenses for the operation of funeral establishments, organic human reduction
+427 facilities, and of crematories shall expire biennially unless the owner or proprietor of a
+428 licensed funeral establishment, organic human reduction facility, or crematory applies to
+429 the board to renew the license prior to its expiration. The application shall show the name
+430 of the funeral establishment, organic human reduction facility, or crematory; the names and
+431 addresses of all owners or, if the owner is a corporation, the names and addresses of all
+S. B. 241
+- 17 -
+
+25 LC 55 0530
+432 officers and directors of the corporation; and the names of all licensed embalmers and
+433 funeral directors who own or are employed by such funeral establishment, organic human
+434 reduction facility, or crematory or are otherwise connected therewith to such establishment,
+435 facility, or crematory, together with the date of issue and the number of the license number
+436 of each registered embalmer and funeral director as required. If the renewal fee prescribed
+437 by the board has been paid and the funeral establishment, organic human reduction facility,
+438 or crematory meets all the other requirements of provided for in this article, the board shall
+439 issue a license; otherwise it shall be unlawful for any funeral establishment, organic human
+440 reduction facility, or crematory to operate in this state. Nothing in this Code section shall
+441 be construed to require an organic human reduction facility or a crematory to employ an
+442 embalmer in order to be licensed.
+443 (b) Whenever there is a change in ownership of a funeral establishment, organic human
+444 reduction facility, or crematory, the board shall be notified within 15 days prior to the
+445 proposed change upon a form provided by the board.
+446 43-18-74.
+447 Licenses for funeral establishments, organic human reduction facilities, or crematories shall
+448 be issued to such enterprises establishments, facilities, or crematories at their location at
+449 the time of issuance. Such license shall not be transferable to another location of any such
+450 establishment, facility, or crematory.
+451 43-18-75.
+452 (a) The board shall provide for inspections from time to time, but not less frequently than
+453 annually, of the premises of funeral establishments, organic human reduction facilities, and
+454 crematories for purposes of ensuring compliance with the provisions of this article and any
+455 rules or regulations issued pursuant thereto, and every such firm establishment, facility, and
+456 crematory shall submit to such inspections. The board is authorized to contract with any
+S. B. 241
+- 18 -
+
+25 LC 55 0530
+457 one or more county boards of health, and each county board of health is authorized to
+458 contract with the board, for the provision of inspection services on behalf of the board for
+459 purposes of this subsection.
+460 (b) The license of any funeral establishment, organic human reduction facility, or
+461 crematory may be suspended, revoked, or put on probation, or fines may be imposed by the
+462 board if the evidence produced before it at a hearing indicates that the funeral
+463 establishment, organic human reduction facility, or crematory has violated any of the
+464 provisions of this article or any rules or regulations issued pursuant thereto. The board
+465 shall comply with Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act,' in
+466 relation to such hearing; and the. The licensee shall have the right to appeal any decision
+467 of the board in accordance with Chapter 13 of Title 50, the 'Georgia Administrative
+468 Procedure Act.'"
+469 SECTION 1-11.
+470 Said chapter is further amended by revising Code Sections 43-18-77, 43-18-78, 43-18-79,
+471 and 43-18-80, relating to funeral establishment or crematory temporarily without services of
+472 funeral director, temporary destruction of licensed funeral establishment or crematory and
+473 temporary location during grace period, death of license holder, and authorizing agent,
+474 statement specifying disposition of cremated remains, and shipment of remains, respectively,
+475 as follows:
+476 "43-18-77.
+477 In the event that a funeral establishment, organic human reduction facility, or crematory
+478 is temporarily without the services of a funeral director in full and continuous charge, upon
+479 notice by the funeral establishment, organic human reduction facility, or crematory to the
+480 board within five days following the last day of service by such funeral director, the board
+481 shall grant the funeral establishment, organic human reduction facility, or crematory a 90
+482 day grace period in which to have a funeral director in full and continuous charge approved
+S. B. 241
+- 19 -
+
+25 LC 55 0530
+483 by the board before any action may be taken by the board to revoke or terminate the funeral
+484 establishment's, organic human reduction facility's, or crematory's license. The board may,
+485 in its discretion, upon application by the funeral establishment, organic human reduction
+486 facility, or crematory, grant one additional 90 day grace period upon showing of good
+487 cause. Grace periods totaling not more than 180 days may be granted during any two-year
+488 period beginning the first day on which the grace period was granted. Failure to have a
+489 funeral director in full and continuous charge shall be grounds for the revocation or
+490 suspension of any license, after notice and hearing.
+491 43-18-78.
+492 In the event any funeral establishment, organic human reduction facility, or crematory is
+493 temporarily destroyed by fire, flood, or other natural catastrophe, upon notice by the
+494 funeral establishment, organic human reduction facility, or crematory to the board within
+495 five days following the destruction, the board may grant the funeral establishment, organic
+496 human reduction facility, or crematory a 90 day grace period to use a board approved
+497 temporary location while reconstructing the previous destroyed location, provided the
+498 funeral establishment, organic human reduction facility, or crematory complies with all
+499 other provisions of this article and the rules of the board. The board may, in its discretion,
+500 upon application by the funeral establishment, organic human reduction facility, or
+501 crematory, grant additional 90 day grace periods upon showing of good cause.
+502 43-18-79.
+503 No funeral establishment, organic human reduction facility, or crematory license shall
+504 terminate upon the death of the holder thereof but shall pass to the legal representative of
+505 the deceased or, if there is no legal representative, to the widow of the deceased who may
+506 continue to operate the establishment, facility, or crematory for the unexpired time of the
+507 license.
+S. B. 241
+- 20 -
+
+25 LC 55 0530
+508 43-18-80.
+509 (a) As used in For the purposes of this Code section, the term 'authorizing agent' means
+510 a person legally entitled to authorize the cremation of human remains organic human
+511 reduction or cremation of a dead human body.
+512 (b) The authorizing agent shall provide to the funeral establishment, organic human
+513 reduction facility, or crematory in which the organic human reduction or cremation
+514 arrangements are made a signed statement specifying the ultimate disposition of the
+515 organically reduced remains or cremated remains, if known. A copy of this such statement
+516 shall be retained by the funeral establishment, organic human reduction facility, or
+517 crematory offering or conducting the organic human reduction or cremation.
+518 (c) Organically reduced remains or cremation Cremated remains shall be shipped only by
+519 a method that has an internal tracking system available and that provides a receipt signed
+520 by the person accepting delivery.
+521 (d) The authorizing agent shall be responsible for the disposition of the organically
+522 reduced remains or cremated remains. If, after 60 days from the date the organic human
+523 reduction is completed or the date of cremation, the authorizing agent or his or her
+524 representative has not specified the ultimate disposition or claimed the organically reduced
+525 or cremated remains, the funeral establishment or, organic human reduction facility,
+526 crematory, or other entity in possession of the organically reduced remains or cremated
+527 remains shall send a notification to the authorizing agent notifying him or her that, pursuant
+528 to this subsection, failure to respond to such notification and specify the final ultimate
+529 disposition of the cremains organically reduced remains or cremated remains within 30
+530 days of the transmission of such notice shall authorize the funeral establishment, organic
+531 human reduction facility, crematory, or other entity to make arrangements for the
+532 disposition of the cremains such remains. If, after 30 days, the funeral establishment,
+533 organic human reduction facility, crematory or entity in possession of the organically
+534 reduced remains or cremated remains has not received instructions from the authorizing
+S. B. 241
+- 21 -
+
+25 LC 55 0530
+535 agent describing a specific method of disposing of the cremains such remains, the funeral
+536 establishment, organic human reduction facility, crematory or entity in possession of the
+537 cremains such remains shall be authorized to dispose of the organically reduced remains
+538 or cremated remains in a dignified and humane manner by entombing such cremains in a
+539 crypt or underground the entombment, internment, or scattering of such remains in
+540 accordance with local and state law or by storage in the funeral establishment, organic
+541 human reduction facility, crematory, or location of the entity in possession of the remains.
+542 The final resting place of the cremains organically reduced remains or cremated remains
+543 shall be clearly marked, unless such remains are scattered, and recorded by the funeral
+544 establishment entombing the cremains, organic human reduction facility, crematory, or
+545 entity that disposed of such remains. Any costs or fees incurred to entomb, inter, scatter,
+546 or disinter the cremains such remains shall be the responsibility of the authorizing agent;
+547 provided, however, that such cost shall not exceed $100.00."
+548 PART II
+549 SECTION 2-1.
+550 Title 10 of the Official Code of Georgia Annotated, relating to commerce and trade, is
+551 amended in Code Section 10-14-3, relating to definitions relative to cemetery and funeral
+552 services, by revising paragraph (12) as follows:
+553 "(12) 'Cremation' includes any mechanical, chemical, thermal, or other professionally
+554 accepted process whereby a deceased human being is reduced to ashes. Such term
+555 Cremation also includes any other mechanical, chemical, thermal, or other professionally
+556 accepted process whereby human remains dead human bodies are pulverized, burned,
+557 recremated, or otherwise further reduced in size or quantity, including organic human
+558 reduction as such term is defined in Code Section 43-18-1."
+S. B. 241
+- 22 -
+
+25 LC 55 0530
+559 SECTION 2-2.
+560 Title 31 of the Official Code of Georgia Annotated, relating to health, is amended in Code
+561 31-10-1, relating to definitions relative to vital records, by revising paragraph (6) and adding
+562 a new paragraph to read as follows:
+563 "(6) 'Final disposition' means the burial, interment, cremation, removal from the state,
+564 or other authorized disposition of a dead body or fetus, including organic human
+565 reduction."
+566 "(11.1) 'Organic human reduction' shall have the same meaning as set forth in Code
+567 Section 43-18-1."
+568 SECTION 2-3.
+569 Said title is further amended in Code 31-10-20, relating to permits for disposition,
+570 disinterment, and reinterment, by revising subsection (a) as follows:
+571 "(a) The funeral director or person acting as such or other person who that first assumes
+572 custody of a dead body or fetus shall obtain a disposition permit for cremation or removal
+573 the cremation or organic human reduction of such body or fetus or the removal of such
+574 body or fetus from the state. A disposition permit may be required within the state by local
+575 authorities."
+576 SECTION 2-4.
+577 Said title is further amended in Code 31-10-28, relating to institutions to keep vital records,
+578 by revising subsection (c) as follows:
+579 "(c) A funeral director, embalmer, sexton, or other person who that removes from the place
+580 of death, transports, or makes final disposition of a dead body or fetus, in addition to filing
+581 any certificate or other report required by this chapter or regulations promulgated
+582 hereunder, shall keep a record which shall identify the body and such information
+S. B. 241
+- 23 -
+
+25 LC 55 0530
+583 pertaining to receipt, removal, delivery, burial, or cremation or final disposition of such
+584 body as may be required by regulations adopted by the department."
+585 SECTION 2-5.
+586 Said title is further amended by revising Code 31-21-4, relating to burial at sea of cremated
+587 remains, notification that cremated remains are ready for interment, and unclaimed cremated
+588 remains, as follows:
+589 "31-21-4.
+590 (a)(1) Cremated remains or organically reduced remains may be taken by boat from any
+591 harbor in this state, or by air, for burial at sea at a point not less than three miles from the
+592 nearest shoreline. Cremated; provided, however, that such remains shall be removed
+593 from their container before such remains are buried at sea.
+594 (2) Any person who that buries at sea, either from a boat or from the air, any human
+595 cremated remains cremated remains or organically reduced remains of a dead human
+596 body shall carry out the burial services within 50 days from the reduction of the dead
+597 human body to cremated remains or organically reduced remains and shall file with the
+598 local registrar of births, deaths, and other vital records in the county nearest the point
+599 where the such remains were buried a verified statement containing the name of the
+600 deceased person, the time and place of death, the place at which the cremated remains or
+601 organically reduced remains were buried, and any other information that the local
+602 registrar may require. Burial services may be delayed until weather conditions improve
+603 if inclement weather prevents safe burial.
+604 (b) Any person who that requests that a dead human body be cremated or organically
+605 reduced shall provide the funeral establishment or other person responsible for the
+606 cremation or organic human reduction an address at which such person can be notified
+607 when the cremated remains or organically reduced remains are ready for interment.
+608 Notification or other ultimate disposition. Such notification shall be made by first-class
+S. B. 241
+- 24 -
+
+25 LC 55 0530
+609 mail to such person at the address provided. If the cremated remains or organically
+610 reduced remains are not claimed for interment or other disposition within 60 days from the
+611 date that the notification is mailed, such remains shall be turned over to the coroner to be
+612 interred in a plot or niche in a cemetery where indigents are buried may be disposed of in
+613 accordance with the provisions of Code Section 43-18-80."
+614 SECTION 2-6.
+615 Said title is further amended in Code 31-21-44.1, relating to abuse of a dead body, by
+616 revising paragraph (1) of subsection (a) as follows:
+617 "(a)(1) A person commits the offense of abuse of a dead human body if, prior to
+618 interment or other final disposition of a dead human body and except as otherwise
+619 authorized by law, such person willfully defaces a dead such dead human body while the
+620 dead human body is lying in state or is prepared for burial, showing, or cremation, or
+621 other final disposition whether in a funeral establishment, place of worship, home, or
+622 other facility for lying in state or at a grave site. The lawful presence of the offender at
+623 a place where the dead human body is abused shall not be a defense to a prosecution
+624 under this Code section."
+625 SECTION 2-7.
+626 Said title is further amended in Code 31-21-44.2, relating to throwing away or abandonment
+627 of dead bodies and punishment, by revising paragraph (2) of subsection (a) as follows:
+628 "(2) It shall not be an offense under this subsection to make final disposition of a dead
+629 human body or portion of such dead human body under a death certificate issued under
+630 Chapter 10 of this title or the law of another jurisdiction by interment, entombment,
+631 inurnment, scattering of cremated remains or organically reduced remains, burial at sea,
+632 or any means otherwise authorized by law; nor shall it be an offense under this subsection
+633 for any law enforcement personnel, medical or medical laboratory personnel, hospital
+S. B. 241
+- 25 -
+
+25 LC 55 0530
+634 personnel, coroner or medical examiner, funeral director, embalmer, organic human
+635 reduction facility operator, crematory operator, or cemetery operator to perform those
+636 duties or acts relating to possession or disposition of a dead human body or portion of
+637 such dead human body which are otherwise imposed or authorized by law or lawful
+638 contract; nor shall use of a dead human body or portion of such dead human body at or
+639 by an accredited medical school, dental school, college, or university for education,
+640 research, or advancement of medical or dental science or therapy be an offense under this
+641 subsection."
+642 SECTION 2-8.
+643 Title 36 of the Official Code of Georgia Annotated, relating to local government, is amended
+644 by revising Code Section 36-12-5, relating to interment or cremation of deceased indigents,
+645 as follows:
+646 "36-12-5.
+647 (a) Whenever any person individual dies in this state and the decedent, his or her family,
+648 and his or her immediate kindred are indigent and unable to provide for the decedent's
+649 decent interment, or cremation, or other final disposition, the governing authority of the
+650 county wherein the death occurs where the death occurred shall make available from
+651 county funds a sum sufficient to provide a decent interment, or cremation, or other final
+652 disposition of the deceased indigent person individual or to reimburse such person
+653 individual's immediate kindred as may have expended the cost thereof of such decent
+654 internment, cremation, or other final disposition voluntarily, the exact amount thereof to
+655 be determined by the governing authority of the county but shall not exceed the lesser of
+656 the actual costs of interment, or cremation, or other final disposition.
+657 (b) The Department of Corrections is authorized to reimburse the governing authority of
+658 the county where expenditures have been made in accordance with this Code section for
+659 the burial, or cremation, or other final disposition of any inmate under the authority,
+S. B. 241
+- 26 -
+
+25 LC 55 0530
+660 jurisdiction, or control of the Department of Corrections; but provided, however, that in no
+661 case shall the governing authority of the county be entitled to reimbursement where the
+662 decedent was in the custody of a county correctional institution or other county correctional
+663 facility."
+664 PART III
+665 SECTION 3-1.
+666 This Act shall become effective on July 1, 2025.
+667 SECTION 3-2.
+668 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 241
+- 27 -
+
+[DELETED: 5L t r t l o o h r f t p o o h r t p f t d o u r s a t r a d p f t o h t o o a o a d h b t p c]
+[DELETED: 5L 1 o T 4 o t O C o G A r t f C a i a o m c t o o a p w h r d h b a]
+[DELETED: 5L l t e i a i c o h  ' d m a p w p f d o u i]
+[DELETED: 5L  ' a p m t d s s a s o  ' h r f m a l w o h  ' o e o ' m d o p o]
+[DELETED: 5L o h]
+[DELETED: 5L n t c d o o h r c d]
+[DELETED: 5L U S D o V A a w w d u]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L  T p o e o f d u a f n o t]
+[DELETED: 5L]
+[DELETED: 5L o r t D o P H l o r o t P A l o r o a m o c]
+[DELETED: 5L o o w i i o b m c o u c  U c o p s a i a]
+[DELETED: 5L  A f r f t s a o o t f]
+[DELETED: 5L  S a m o 4 h p w i t e a o o t s b a a s a o l a s m t f  A l o o p s f g o o r]
+[DELETED: 5L a o t u w p h b r f t p]
+[DELETED: 5L r r t o h r a o h r c i f a b r C S 4 4 a a c i o t o l a i  L f t o o f e o h r]
+[DELETED: 5L]
+[DELETED: 5L  T l o a f e o h r f o i t e p b i a a h i t t f C]
+[DELETED: 5L d a b t f e o h r f o]
+[DELETED: 5L f o c i w t o h r o c a m a s s s t u d o t b r b t f e o h r f o i c o t d o c t a a o h o h c r t f e o o h r f r f c o o e t m a f t]
+[DELETED: 5L o u t e i o s o s r i]
+[DELETED: 5L o a d o a d b o f i o h t i f a i C 3 r t p f d c o o r r b t c o r p s k a r w s i t b a s i]
+[DELETED: 5L r r w b a a o i t t l s p t f e o o p r f t t c r o o r r a r f i]
+[DELETED: 5L  A p c t o o a o a d h b i p t]
+[DELETED: 5L o t d i p i o t r s p]
+[DELETED: 5L]

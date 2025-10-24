@@ -1,0 +1,391 @@
+Title: House Bill 488
+Official Title: House Bill 488
+Number of Sections: 1
+Source: versions - LC 46 1115/a
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+25 LC 46 1115
+By: Representatives Westbrook of the 163rd, Miller of the 62nd, Oliver of the 84th, Lim of the
+98th, Park of the 107th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 3 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated,
+2 relating to perinatal facilities, so as to explicitly prohibit limited services pregnancy centers
+3 from engaging in false or misleading advertising about the products or services provided at
+4 such centers; to provide for definitions; to provide for enforcement; to provide for notice and
+5 procedures; to provide for penalties; to provide for cause of action; to provide for a short
+6 title; to provide for legislative findings; to provide for related matters; to repeal conflicting
+7 laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 This Act shall be known and may be cited as the "Pregnancy Center Fraud Prevention Act."
+11 SECTION 2.
+12 The General Assembly finds and declares that:
+13 (1) Pregnant individuals are entitled to honest, accurate, and timely information when
+14 seeking reproductive healthcare;
+H. B. 488
+- 1 -
+25 LC 46 1115
+15 (2) Limited services pregnancy centers typically advertise themselves as providers of
+16 comprehensive healthcare. However, most limited services pregnancy centers do not
+17 employ licensed medical professionals or provide referrals for emergency contraception
+18 or abortion care;
+19 (3) Some limited services pregnancy centers use deceptive advertising tactics to target and
+20 acquire clients from historically marginalized groups, including Black, Indigenous, and
+21 other people of color; those living in rural areas; LGBTQ+ communities; students; people
+22 with lower incomes; and people for whom English is not their first language;
+23 (4) According to the American Medical Association's Journal of Ethics, limited services
+24 pregnancy centers, also known as antiabortion centers or "crisis pregnancy centers," often
+25 aim "to prevent abortions by persuading people that adoption or parenting is a better
+26 option";
+27 (5) Some limited services pregnancy centers go so far as to advertise medication abortion
+28 reversal, a dangerous and deceptive practice that is not supported by science or clinical
+29 standards, according to the American College of Obstetricians and Gynecologists;
+30 (6) The State of Georgia respects the right of limited services pregnancy centers to counsel
+31 against abortions, if the centers are otherwise operating in compliance with this chapter,
+32 and the state does not intend by this chapter to regulate, limit, or curtail such advocacy;
+33 (7) Time is a critical factor for individuals seeking reproductive healthcare, and no one
+34 should be deceived, manipulated, or face unnecessary delays when seeking support or
+35 healthcare during pregnancy; and
+36 (8) The State of Georgia has determined that there exists a need to regulate false and
+37 misleading advertising by limited services pregnancy centers offering limited services.
+H. B. 488
+- 2 -
+25 LC 46 1115
+38 SECTION 3.
+39 Article 3 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to
+40 perinatal facilities, is amended by revising Code Section 31-2A-51, relating to definitions,
+41 as follows:
+42 "31-2A-51.
+43 As used in this article, the term:
+44 (1) 'Advertising' means representations by way of any medium whatsoever about a
+45 product or service, regardless of whether such product or service is offered for payment
+46 or will result in profit, for individuals who are or may be pregnant, including, but not
+47 limited to, representations made directly to consumers; marketing practices;
+48 communication in any print medium such as newspapers, magazines, mailers, or
+49 handouts; any broadcast medium such as television or radio; telephone marketing; or
+50 advertising over the internet through public websites and website advertisements.
+51 (2) 'Client' means an individual who is inquiring about or seeking services at a limited
+52 services pregnancy center.
+53 (1)(3) 'Designated facility' means a perinatal facility that has been inspected and
+54 approved by the department pursuant to this article as meeting its established criteria for
+55 a particular maternal or neonatal level of care.
+56 (4) 'Emergency contraception' means Levonorgestrel or any other drug, drug regimen,
+57 or device used to prevent pregnancy when administered after sexual contact, including
+58 prescription and over-the-counter hormonal emergency contraception.
+59 (5) 'Health information' means any oral or written information in any form or medium
+60 that relates to health insurance or the past, present, or future physical or mental health or
+61 condition of a client.
+62 (6) 'Limited services pregnancy center' means a pregnancy services center that does not
+63 directly provide abortions or emergency contraception, and does not provide referrals to
+64 clients for such services.
+H. B. 488
+- 3 -
+25 LC 46 1115
+65 (2)(7) 'Perinatal facility' means a hospital, clinic, or birthing center that provides
+66 maternal or neonatal healthcare healthcare services.
+67 (8) 'Pregnancy services center' means a facility, licensed or unlicensed and including a
+68 mobile facility, where the primary purpose is to provide products or services to
+69 individuals who are or may be pregnant; that either offers pregnancy counseling and
+70 pregnancy testing or diagnosis; obstetric ultrasounds, obstetric sonograms, or prenatal
+71 care to pregnant people; or has the appearance of a medical facility. A pregnancy
+72 services center has the appearance of a medical facility if two or more of the following
+73 factors are present:
+74 (A) The facility offers pregnancy testing or pregnancy diagnosis;
+75 (B) The facility has staff or volunteers who wear medical attire or uniforms;
+76 (C) The facility contains one or more examination tables;
+77 (D) The facility contains a private or semiprivate room or area containing medical
+78 supplies or medical instruments;
+79 (E) The facility has staff or volunteers who collect health information from clients; or
+80 (F) The facility is located on the same premises as a state licensed medical facility or
+81 provider or shares facility space with a state licensed medical provider.
+82 (9) 'Premises' means land and improvements or appurtenances or any part thereof.
+83 (10) 'Prenatal care' means services consisting of physical examinations, pelvic
+84 examinations, or clinical laboratory services provided to an individual who is or who may
+85 be pregnant.
+86 (11) 'Clinical laboratory services' refers to the microbiological, serological, chemical,
+87 hematological, biophysical, cytological or pathological examination of materials derived
+88 from the human body, for the purposes of obtaining information for the diagnosis,
+89 prevention, or treatment of a disease or the assessment of health condition."
+H. B. 488
+- 4 -
+25 LC 46 1115
+90 SECTION 4.
+91 Said article is further amended by revising Code Section 31-2A-56, relating to advertisement
+92 prohibited unless designated by department, as follows:
+93 "31-2A-56.
+94 (a) No person or facility may advertise to the public, by way of any medium whatsoever,
+95 that it is a designated facility or has achieved a particular level of maternal or neonatal care
+96 according to the criteria established pursuant to this article, unless it has been designated
+97 as such by the department.
+98 (b) No person or limited services pregnancy center shall disseminate or cause to be
+99 disseminated before the public in Georgia, or disseminate or cause to be disseminated
+100 before the public anywhere from Georgia, any advertising about the actual or proposed
+101 products or services available at a limited services pregnancy center if the center knows or,
+102 by the exercise of reasonable care, should know that such advertising is untrue or deceptive
+103 whether by a statement or omission, or misleading to the public about the nature of the
+104 products or services provided.
+105 (c) The Attorney General and local district attorneys with jurisdiction may enforce the
+106 provisions of this Code section through a civil action in any court of competent jurisdiction.
+107 Before filing an action under this Code section, the Attorney General or local district
+108 attorney with jurisdiction shall give written notice of the violation to the person or limited
+109 services pregnancy center. The written notice shall indicate that the person or limited
+110 services pregnancy center has ten days in which to correct the false, misleading, or
+111 deceptive advertising. If the person or limited services pregnancy center has not responded
+112 to the written notice within ten days of receiving such notice or refuses to correct the false,
+113 misleading, or deceptive advertising within that period, the Attorney General or local
+114 district attorney with jurisdiction may file the civil action.
+115 (d) The Attorney General or local district attorney with jurisdiction may apply to any court
+116 of jurisdiction for injunctive relief compelling compliance with any provision of this Code
+H. B. 488
+- 5 -
+25 LC 46 1115
+117 section and for any additional equitable relief or for a court order requiring, but not limited
+118 to, any of the following from the person or limited services pregnancy center:
+119 (1) Paying for and disseminating appropriate corrective advertising in the same form as
+120 the false, misleading, or deceptive advertising;
+121 (2) Posting a notice on its premises, in a location clearly noticeable from the waiting
+122 area, examination area, or both, stating:
+123 (A) Whether there is a licensed medical doctor, registered nurse, or other licensed
+124 medical practitioner on staff at the center; and
+125 (B) Whether abortion, emergency contraception, or referrals for abortion or emergency
+126 contraception are available at the center;
+127 (3) Paying restitution to any person or persons who are adversely affected by a violation
+128 or violations of this Code section; or
+129 (4) Any other narrowly tailored relief that the court deems necessary to remedy the
+130 adverse effects of the false, misleading, or deceptive advertising on persons seeking
+131 pregnancy related products or services.
+132 (e) Upon a finding by a court of competent jurisdiction that a person or limited services
+133 pregnancy center has violated this Code section:
+134 (1) The department shall amend printed materials and materials available on the state's
+135 public website developed under Code Section 31-9A-4 to remove contact information for
+136 the limited services pregnancy center found to be in violation of this Code section; and
+137 (2) The state shall be entitled to recover civil penalties from each and every party
+138 responsible for the violation of not less than $500.00 and not more than $5,000.00 per
+139 violation. In addition, if the state prevails, it shall be entitled to reasonable attorney's fees
+140 and costs pursuant to order of the court.
+141 (f) Any person claiming to be injured by the false, misleading, or deceptive advertising of
+142 a limited services pregnancy center may bring a cause of action in any court of competent
+143 jurisdiction for any and all of the following remedies: compensatory and punitive damages,
+H. B. 488
+- 6 -
+25 LC 46 1115
+144 injunctive and declaratory relief; attorney's fees and costs, and such other relief as a court
+145 deems appropriate.
+146 (g) The Attorney General shall develop, a portal on its public website to receive, review,
+147 and investigate public complaints of noncompliance.
+148 (h) Such portal shall be verified through user testing to be understandable for someone
+149 with a fifth grade reading level, accessible to people with disabilities, and take an average
+150 user no more than ten minutes to complete the complaint form."
+151 SECTION 5.
+152 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 488
+- 7 -
+[DELETED: 5L3,2,4,dndt8,7,ht]
+[DELETED: 5L]
+[DELETED: 5L t r m d t c m p i a p m s a n m m o  ' f m a p f t h b i a]
+[DELETED: 5L  ' f m a h c o b c t p f w t p p i t p p o s t  ' c m s c o p e p t h b f t p o o i f t d]
+[DELETED: 5L p c h t d i w t c t f m o]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 46 1115
+House Bill 488
+By: Representatives Westbrook of the 163rd, Miller of the 62nd, Oliver of the 84th, Lim of the
+98th, Park of the 107th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 3 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated,
+2 relating to perinatal facilities, so as to explicitly prohibit limited services pregnancy centers
+3 from engaging in false or misleading advertising about the products or services provided at
+4 such centers; to provide for definitions; to provide for enforcement; to provide for notice and
+5 procedures; to provide for penalties; to provide for cause of action; to provide for a short
+6 title; to provide for legislative findings; to provide for related matters; to repeal conflicting
+7 laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 This Act shall be known and may be cited as the "Pregnancy Center Fraud Prevention Act."
+11 SECTION 2.
+12 The General Assembly finds and declares that:
+13 (1) Pregnant individuals are entitled to honest, accurate, and timely information when
+14 seeking reproductive healthcare;
+H. B. 488
+- 1 -
+
+25 LC 46 1115
+15 (2) Limited services pregnancy centers typically advertise themselves as providers of
+16 comprehensive healthcare. However, most limited services pregnancy centers do not
+17 employ licensed medical professionals or provide referrals for emergency contraception
+18 or abortion care;
+19 (3) Some limited services pregnancy centers use deceptive advertising tactics to target and
+20 acquire clients from historically marginalized groups, including Black, Indigenous, and
+21 other people of color; those living in rural areas; LGBTQ+ communities; students; people
+22 with lower incomes; and people for whom English is not their first language;
+23 (4) According to the American Medical Association's Journal of Ethics, limited services
+24 pregnancy centers, also known as antiabortion centers or "crisis pregnancy centers," often
+25 aim "to prevent abortions by persuading people that adoption or parenting is a better
+26 option";
+27 (5) Some limited services pregnancy centers go so far as to advertise medication abortion
+28 reversal, a dangerous and deceptive practice that is not supported by science or clinical
+29 standards, according to the American College of Obstetricians and Gynecologists;
+30 (6) The State of Georgia respects the right of limited services pregnancy centers to counsel
+31 against abortions, if the centers are otherwise operating in compliance with this chapter,
+32 and the state does not intend by this chapter to regulate, limit, or curtail such advocacy;
+33 (7) Time is a critical factor for individuals seeking reproductive healthcare, and no one
+34 should be deceived, manipulated, or face unnecessary delays when seeking support or
+35 healthcare during pregnancy; and
+36 (8) The State of Georgia has determined that there exists a need to regulate false and
+37 misleading advertising by limited services pregnancy centers offering limited services.
+H. B. 488
+- 2 -
+
+25 LC 46 1115
+38 SECTION 3.
+39 Article 3 of Chapter 2A of Title 31 of the Official Code of Georgia Annotated, relating to
+40 perinatal facilities, is amended by revising Code Section 31-2A-51, relating to definitions,
+41 as follows:
+42 "31-2A-51.
+43 As used in this article, the term:
+44 (1) 'Advertising' means representations by way of any medium whatsoever about a
+45 product or service, regardless of whether such product or service is offered for payment
+46 or will result in profit, for individuals who are or may be pregnant, including, but not
+47 limited to, representations made directly to consumers; marketing practices;
+48 communication in any print medium such as newspapers, magazines, mailers, or
+49 handouts; any broadcast medium such as television or radio; telephone marketing; or
+50 advertising over the internet through public websites and website advertisements.
+51 (2) 'Client' means an individual who is inquiring about or seeking services at a limited
+52 services pregnancy center.
+53 (1)(3) 'Designated facility' means a perinatal facility that has been inspected and
+54 approved by the department pursuant to this article as meeting its established criteria for
+55 a particular maternal or neonatal level of care.
+56 (4) 'Emergency contraception' means Levonorgestrel or any other drug, drug regimen,
+57 or device used to prevent pregnancy when administered after sexual contact, including
+58 prescription and over-the-counter hormonal emergency contraception.
+59 (5) 'Health information' means any oral or written information in any form or medium
+60 that relates to health insurance or the past, present, or future physical or mental health or
+61 condition of a client.
+62 (6) 'Limited services pregnancy center' means a pregnancy services center that does not
+63 directly provide abortions or emergency contraception, and does not provide referrals to
+64 clients for such services.
+H. B. 488
+- 3 -
+
+25 LC 46 1115
+65 (2)(7) 'Perinatal facility' means a hospital, clinic, or birthing center that provides
+66 maternal or neonatal healthcare healthcare services.
+67 (8) 'Pregnancy services center' means a facility, licensed or unlicensed and including a
+68 mobile facility, where the primary purpose is to provide products or services to
+69 individuals who are or may be pregnant; that either offers pregnancy counseling and
+70 pregnancy testing or diagnosis; obstetric ultrasounds, obstetric sonograms, or prenatal
+71 care to pregnant people; or has the appearance of a medical facility. A pregnancy
+72 services center has the appearance of a medical facility if two or more of the following
+73 factors are present:
+74 (A) The facility offers pregnancy testing or pregnancy diagnosis;
+75 (B) The facility has staff or volunteers who wear medical attire or uniforms;
+76 (C) The facility contains one or more examination tables;
+77 (D) The facility contains a private or semiprivate room or area containing medical
+78 supplies or medical instruments;
+79 (E) The facility has staff or volunteers who collect health information from clients; or
+80 (F) The facility is located on the same premises as a state licensed medical facility or
+81 provider or shares facility space with a state licensed medical provider.
+82 (9) 'Premises' means land and improvements or appurtenances or any part thereof.
+83 (10) 'Prenatal care' means services consisting of physical examinations, pelvic
+84 examinations, or clinical laboratory services provided to an individual who is or who may
+85 be pregnant.
+86 (11) 'Clinical laboratory services' refers to the microbiological, serological, chemical,
+87 hematological, biophysical, cytological or pathological examination of materials derived
+88 from the human body, for the purposes of obtaining information for the diagnosis,
+89 prevention, or treatment of a disease or the assessment of health condition."
+H. B. 488
+- 4 -
+
+25 LC 46 1115
+90 SECTION 4.
+91 Said article is further amended by revising Code Section 31-2A-56, relating to advertisement
+92 prohibited unless designated by department, as follows:
+93 "31-2A-56.
+94 (a) No person or facility may advertise to the public, by way of any medium whatsoever,
+95 that it is a designated facility or has achieved a particular level of maternal or neonatal care
+96 according to the criteria established pursuant to this article, unless it has been designated
+97 as such by the department.
+98 (b) No person or limited services pregnancy center shall disseminate or cause to be
+99 disseminated before the public in Georgia, or disseminate or cause to be disseminated
+100 before the public anywhere from Georgia, any advertising about the actual or proposed
+101 products or services available at a limited services pregnancy center if the center knows or,
+102 by the exercise of reasonable care, should know that such advertising is untrue or deceptive
+103 whether by a statement or omission, or misleading to the public about the nature of the
+104 products or services provided.
+105 (c) The Attorney General and local district attorneys with jurisdiction may enforce the
+106 provisions of this Code section through a civil action in any court of competent jurisdiction.
+107 Before filing an action under this Code section, the Attorney General or local district
+108 attorney with jurisdiction shall give written notice of the violation to the person or limited
+109 services pregnancy center. The written notice shall indicate that the person or limited
+110 services pregnancy center has ten days in which to correct the false, misleading, or
+111 deceptive advertising. If the person or limited services pregnancy center has not responded
+112 to the written notice within ten days of receiving such notice or refuses to correct the false,
+113 misleading, or deceptive advertising within that period, the Attorney General or local
+114 district attorney with jurisdiction may file the civil action.
+115 (d) The Attorney General or local district attorney with jurisdiction may apply to any court
+116 of jurisdiction for injunctive relief compelling compliance with any provision of this Code
+H. B. 488
+- 5 -
+
+25 LC 46 1115
+117 section and for any additional equitable relief or for a court order requiring, but not limited
+118 to, any of the following from the person or limited services pregnancy center:
+119 (1) Paying for and disseminating appropriate corrective advertising in the same form as
+120 the false, misleading, or deceptive advertising;
+121 (2) Posting a notice on its premises, in a location clearly noticeable from the waiting
+122 area, examination area, or both, stating:
+123 (A) Whether there is a licensed medical doctor, registered nurse, or other licensed
+124 medical practitioner on staff at the center; and
+125 (B) Whether abortion, emergency contraception, or referrals for abortion or emergency
+126 contraception are available at the center;
+127 (3) Paying restitution to any person or persons who are adversely affected by a violation
+128 or violations of this Code section; or
+129 (4) Any other narrowly tailored relief that the court deems necessary to remedy the
+130 adverse effects of the false, misleading, or deceptive advertising on persons seeking
+131 pregnancy related products or services.
+132 (e) Upon a finding by a court of competent jurisdiction that a person or limited services
+133 pregnancy center has violated this Code section:
+134 (1) The department shall amend printed materials and materials available on the state's
+135 public website developed under Code Section 31-9A-4 to remove contact information for
+136 the limited services pregnancy center found to be in violation of this Code section; and
+137 (2) The state shall be entitled to recover civil penalties from each and every party
+138 responsible for the violation of not less than $500.00 and not more than $5,000.00 per
+139 violation. In addition, if the state prevails, it shall be entitled to reasonable attorney's fees
+140 and costs pursuant to order of the court.
+141 (f) Any person claiming to be injured by the false, misleading, or deceptive advertising of
+142 a limited services pregnancy center may bring a cause of action in any court of competent
+143 jurisdiction for any and all of the following remedies: compensatory and punitive damages,
+H. B. 488
+- 6 -
+
+25 LC 46 1115
+144 injunctive and declaratory relief; attorney's fees and costs, and such other relief as a court
+145 deems appropriate.
+146 (g) The Attorney General shall develop, a portal on its public website to receive, review,
+147 and investigate public complaints of noncompliance.
+148 (h) Such portal shall be verified through user testing to be understandable for someone
+149 with a fifth grade reading level, accessible to people with disabilities, and take an average
+150 user no more than ten minutes to complete the complaint form."
+151 SECTION 5.
+152 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 488
+- 7 -
+
+[DELETED: 5L3,2,4,dndt8,7,ht]
+[DELETED: 5L]
+[DELETED: 5L t r m d t c m p i a p m s a n m m o  ' f m a p f t h b i a]
+[DELETED: 5L  ' f m a h c o b c t p f w t p p i t p p o s t  ' c m s c o p e p t h b f t p o o i f t d]
+[DELETED: 5L p c h t d i w t c t f m o]
+[DELETED: 5L]
+[DELETED: 5L]

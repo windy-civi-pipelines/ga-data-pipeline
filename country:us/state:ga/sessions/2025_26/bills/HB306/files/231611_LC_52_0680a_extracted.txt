@@ -1,0 +1,491 @@
+Title: House Bill 306
+Official Title: House Bill 306
+Number of Sections: 1
+Source: versions - LC 52 0680/a
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0680
+By: Representatives Miller of the 62nd, Willis of the 55th, Crawford of the 89th, McClain of
+the 109th, Holcomb of the 101st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial
+2 relations, so as to provide for a cause of action for workplace harassment and retaliation; to
+3 provide for definitions; to provide for certain facts to be determined at trial by a jury; to
+4 provide for an affirmative defense; to provide for a statute of limitations; to provide for relief
+5 and damages; to provide for related matters; to provide for an effective date; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial relations,
+10 is amended by revising Chapter 5A, relating to sexual harassment in government workplaces,
+11 as follows:
+12 "CHAPTER 5A
+13 34-5A-1.
+14 As used in this chapter, the term:
+H. B. 306
+- 1 -
+25 LC 52 0680
+15 (1) 'Adverse employment action' means a material change in the terms or conditions of
+16 employment that puts a claimant in a worse position. Such term includes termination,
+17 suspension, demotion, and transfer or reassignment to an inferior or objectively less
+18 desirable position, duties, or work schedule.
+19 (2) 'Anti-harassment policy' means a set of guidelines and procedures that an employer
+20 implements to prevent and address workplace harassment and retaliation by supervisors,
+21 co-workers, and third parties.
+22 (3) 'Claimant' means an individual who works for salary, wages, or other remuneration
+23 for an employer and brings a claim under this chapter.
+24 (4) 'Co-worker' means an individual other than the claimant who works or provides
+25 services to the same employer as the claimant but who is not a supervisor for such
+26 employer.
+27 (5) 'Employer' means an entity or its agent engaged in business that pays ten or more
+28 individuals who work for salary, wages, or other remuneration in this state. Such term
+29 shall not include the federal government, state government, any political subdivision of
+30 this state, or a quasi-governmental entity.
+31 (6) 'Protected activity' means an action that is protected by law. Such term includes
+32 when a claimant has:
+33 (A) Opposed workplace harassment;
+34 (B) Made a formal complaint regarding workplace harassment to the employer, made
+35 a report or a charge or filed a complaint related to workplace harassment with the
+36 United States Equal Employment Opportunity Commission, or filed a lawsuit related
+37 to workplace harassment in a court of law;
+38 (C) Instituted, caused to be instituted, assisted in, or participated in any manner in an
+39 investigation, proceeding, hearing, or action related to workplace harassment which is
+40 undertaken by the employer, the United States Equal Employment Opportunity
+41 Commission, or a court of law; or
+H. B. 306
+- 2 -
+25 LC 52 0680
+42 (D) Provided information, has testified, or is known by the employer to be planning to
+43 testify in any manner in any such investigation, proceeding, hearing, or action
+44 undertaken by the employer, the United States Equal Employment Opportunity
+45 Commission, or a court of law.
+46 (7) 'Protected characteristic' means an individual's race, color, religion, sex, national
+47 origin, age, disability, or genetic information.
+48 (8) 'Retaliation' means an adverse employment action taken against a claimant as
+49 punishment for the claimant engaging in a protected activity or advocating for
+50 employment protections provided under this chapter.
+51 (9) 'Sexual harassment' 'sexual harassment' means sexual advances, requests for sexual
+52 favors, sexual or sex-based sex based conduct, or any other unwelcome and offensive
+53 conduct of a sexual nature where:
+54 (A) Submission to the conduct involved is made, implicitly or explicitly, a term or
+55 condition of work;
+56 (B) Submission to or rejection of the conduct is used as the basis for a personnel
+57 decision affecting the individual's work; or
+58 (C) Such conduct creates an intimidating, hostile, or offensive work environment,;
+59 provided, however, that an intimidating, hostile, or offensive work environment is not
+60 created when the conduct does not rise above the level of what a reasonable person
+61 would consider merely tactless, inconsiderate, overfamiliar, or otherwise impolite,
+62 particularly with regard to the totality of the circumstances.
+63 (10) 'Supervisor' means any individual who has authority to undertake or recommend
+64 tangible employment decisions affecting a claimant or to direct the claimant's work
+65 activities.
+66 (11) 'Workplace' means any work related setting, including, but not limited to, online or
+67 mobile communications by a claimant, co-worker, or supervisor.
+H. B. 306
+- 3 -
+25 LC 52 0680
+68 (12) 'Workplace harassment' means unwelcome and offensive conduct based on a
+69 protected characteristic, including sexual harassment, at a claimant's workplace that
+70 negatively impacts a claimant's employment. Such term includes conduct at a claimant's
+71 workplace where:
+72 (A) Submission to the conduct involved is made, implicitly or explicitly, a term or
+73 condition of work;
+74 (B) Submission to or rejection of the conduct is used as the basis for a personnel
+75 decision affecting the individual's work; or
+76 (C) Such conduct creates an intimidating, hostile, or abusive work environment;
+77 provided, however, that an intimidating, hostile, or abusive work environment is not
+78 created when the conduct does not rise above the level of what a reasonable person
+79 would consider merely tactless, inconsiderate, overfamiliar, or otherwise impolite,
+80 particularly with regard to the totality of the circumstances.
+81 34-5A-2.
+82 (a) Any individual working for a county, municipality, or consolidated government as an
+83 employee or in a similar capacity shall have a cause of action for retaliation against the
+84 county, municipality, or consolidated government if such county, municipality, or
+85 consolidated government has discharged, suspended, demoted, or taken any other an
+86 adverse employment action against the individual in the terms or conditions of the work
+87 relationship because the individual has:
+88 (1) Opposed sexual harassment;
+89 (2) Made a report or a charge, or filed any complaint related to sexual harassment;
+90 (3) Instituted, or caused to be instituted, assisted in, or participated in any manner in any
+91 investigation, proceeding, hearing, or action related to sexual harassment; or
+H. B. 306
+- 4 -
+25 LC 52 0680
+92 (4) Provided information, has testified, or is known by the county, municipality, or
+93 consolidated government to be planning to testify in any manner in any such
+94 investigation, proceeding, hearing, or action related to sexual harassment.
+95 (b) Such individual may institute such a civil action in accordance with the provisions of
+96 paragraph (1) of subsection (e) of Code Section 45-1-4, and a court may order any or all
+97 of the relief described in paragraph (2) of subsection (e) and subsection (f) of Code
+98 Section 45-1-4.
+99 (c) Nothing in this Code section shall be interpreted to prohibit the county, municipality,
+100 or consolidated government from taking appropriate corrective or remedial action against
+101 any individual who it determines has engaged in or facilitated sexual harassment.
+102 (d) A county, municipality, or consolidated government may mitigate liability for
+103 retaliation if it shows that, acting in good faith, it exercised reasonable care to prevent and
+104 promptly address sexual harassment as provided in Code Section 34-5A-4.
+105 (e) All facts necessary to establish liability for a cause of action as provided in
+106 subsection (a) of this Code section shall be determined at trial by a jury.
+107 34-5A-3.
+108 (a) A claimant aggrieved by workplace harassment shall have a cause of action for
+109 workplace harassment against:
+110 (1) A supervisor, co-worker, or third party when such individual engaged in workplace
+111 harassment of the claimant;
+112 (2) An employer when a co-worker or third party engaged in workplace harassment of
+113 the claimant and the employer's negligence exposed the claimant to a risk of such
+114 harassment; and
+115 (3) An employer when a supervisor engaged in workplace harassment of claimant.
+H. B. 306
+- 5 -
+25 LC 52 0680
+116 (b) An employer may mitigate liability for workplace harassment if it shows that, acting
+117 in good faith, it exercised reasonable care to prevent and promptly address workplace
+118 harassment as provided in Code Section 34-5A-4.
+119 (c) All facts necessary to establish liability for a cause of action as provided in this Code
+120 section shall be determined at trial by a jury.
+121 34-5A-4.
+122 (a) An employer may mitigate liability for workplace harassment or retaliation when the
+123 employer shows that, acting in good faith, it exercised reasonable care to prevent and
+124 promptly address workplace harassment and retaliation.
+125 (b) An employer shall be deemed to have exercised reasonable care to prevent and
+126 promptly address workplace harassment and retaliation when it has:
+127 (1) Adopted a written anti-harassment policy that establishes policies and procedures
+128 concerning unlawful discrimination and harassment. Such policy shall contain at least:
+129 (A) A statement that any workplace harassment will not be tolerated and that discipline
+130 will be enforced against individuals engaging in workplace harassment;
+131 (B) A statement that retaliation against those who disclose, report, participate in an
+132 investigation of, or otherwise challenge or oppose workplace harassment is prohibited;
+133 (C) A statement that the employer will promptly and impartially investigate complaints
+134 alleging workplace harassment or retaliation;
+135 (D) Definitions of protected activity, protected characteristics, retaliation, sexual
+136 harassment, and workplace harassment;
+137 (E) A description of the process for filing internal complaints alleging workplace
+138 harassment or retaliation;
+139 (F) The contact information of the person to whom complaints alleging workplace
+140 harassment or retaliation should be made and an alternative channel, if the alleged
+141 harasser or retaliator is such person; and
+H. B. 306
+- 6 -
+25 LC 52 0680
+142 (G) A statement that the employer may take remedial measures during the investigation
+143 of an allegation of workplace harassment or retaliation and in the event of verified
+144 workplace harassment or retaliation;
+145 (2) Disseminated the anti-harassment policy to all employees, including the claimant;
+146 (3) Followed policies and procedures for workplace harassment and retaliation contained
+147 in the anti-harassment policy and as required by law;
+148 (4) Trained supervisors on steps to prevent and correct workplace harassment and
+149 retaliation when it is observed and steps to take when workplace harassment or retaliation
+150 is reported to a supervisor;
+151 (5) Promptly disciplined individuals who engaged in workplace harassment or retaliation
+152 to deter future harassment and retaliation;
+153 (6) Promptly disciplined supervisors who knowingly allowed workplace harassment or
+154 retaliation to occur or continue; and
+155 (7) Stopped workplace harassment or retaliation that the employer knew or should have
+156 known occurred.
+157 (c) All facts necessary to establish an affirmative defense against liability as provided in
+158 this Code section shall be determined at trial by a jury.
+159 34-5A-5.
+160 (a) Except as provided for in Code Section 34-5A-2, a claimant shall have a cause of
+161 action for retaliation against a supervisor or employer when such supervisor or employer
+162 took an adverse employment action against the claimant because such claimant engaged
+163 in a protected activity.
+164 (b) An employer may mitigate liability for retaliation if it shows that, acting in good faith,
+165 it exercised reasonable care to prevent and promptly address retaliation as provided in Code
+166 Section 34-5A-4.
+H. B. 306
+- 7 -
+25 LC 52 0680
+167 (c) All facts necessary to establish liability for a cause of action as provided in
+168 subsection (a) of this Code section shall be determined at trial by a jury.
+169 34-5A-6.
+170 (a) Any claimant's action for workplace harassment as provided for in Code
+171 Section 34-5A-3 shall commence within two years from the date of the most recent
+172 incident.
+173 (b) Any claimant's action for retaliation as provided for in Code Section 34-5A-2
+174 or 34-5A-5 shall commence within one year after discovering the retaliation or within three
+175 years after the retaliation, whichever is earlier.
+176 34-5A-7.
+177 (a) In an action brought pursuant to this chapter, the court may order any relief it deems
+178 appropriate to make the claimant whole, including, but not limited to, compensation for lost
+179 wages, front pay or reinstatement, benefits, other remuneration, compensatory damages,
+180 punitive damages, reasonable attorney and witness fees, court costs, and other related
+181 expenses. A court may grant as relief a permanent or temporary injunction, temporary
+182 restraining order, or other order, including an order enjoining the defendant from engaging
+183 in such practice or ordering such continuing remedial action as may be appropriate.
+184 (b) Punitive damages shall not be available if a jury determines that the employer has
+185 substantively complied with Code Section 35-5A-4.
+186 (c) The provisions of this chapter shall be construed as being in addition to, and in no way
+187 denying, altering, or amending, any other civil or criminal rights or remedies at law or in
+188 equity or notice requirements provided under any other provision of law."
+H. B. 306
+- 8 -
+25 LC 52 0680
+189 SECTION 2.
+190 This Act shall become effective upon its approval by the Governor or upon its becoming law
+191 without such approval.
+192 SECTION 3.
+193 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 306
+- 9 -
+[DELETED: 5L2,5,9,dtht9,1,hs]
+[DELETED: 5L b t e t U S E E O]
+[DELETED: 5L i a m i a s i p h o a b t e t U S E E O  ' m a a e a t a a c a f t c e i a p a o a f]
+[DELETED: 5L  ' h m u a o c b o  m o c g i s c m o g h d s d o t a o a]
+[DELETED: 5L g t b p t t i a m i a s (  A c m o c g m m l f  A f n t e l f a c o a a p i c a t e n e t c t a r o s]
+[DELETED: 5L d t  D o p a p c r s]
+[DELETED: 5L]
+[DELETED: 5L  A f n t e l f a c o a a p i  A c a f w h a p f i C 3 s c w t y f t d o t m r  A c a f r a p f i C S 3]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0680
+House Bill 306
+By: Representatives Miller of the 62nd, Willis of the 55th, Crawford of the 89th, McClain of
+the 109th, Holcomb of the 101st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial
+2 relations, so as to provide for a cause of action for workplace harassment and retaliation; to
+3 provide for definitions; to provide for certain facts to be determined at trial by a jury; to
+4 provide for an affirmative defense; to provide for a statute of limitations; to provide for relief
+5 and damages; to provide for related matters; to provide for an effective date; to repeal
+6 conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Title 34 of the Official Code of Georgia Annotated, relating to labor and industrial relations,
+10 is amended by revising Chapter 5A, relating to sexual harassment in government workplaces,
+11 as follows:
+12 "CHAPTER 5A
+13 34-5A-1.
+14 As used in this chapter, the term:
+H. B. 306
+- 1 -
+
+25 LC 52 0680
+15 (1) 'Adverse employment action' means a material change in the terms or conditions of
+16 employment that puts a claimant in a worse position. Such term includes termination,
+17 suspension, demotion, and transfer or reassignment to an inferior or objectively less
+18 desirable position, duties, or work schedule.
+19 (2) 'Anti-harassment policy' means a set of guidelines and procedures that an employer
+20 implements to prevent and address workplace harassment and retaliation by supervisors,
+21 co-workers, and third parties.
+22 (3) 'Claimant' means an individual who works for salary, wages, or other remuneration
+23 for an employer and brings a claim under this chapter.
+24 (4) 'Co-worker' means an individual other than the claimant who works or provides
+25 services to the same employer as the claimant but who is not a supervisor for such
+26 employer.
+27 (5) 'Employer' means an entity or its agent engaged in business that pays ten or more
+28 individuals who work for salary, wages, or other remuneration in this state. Such term
+29 shall not include the federal government, state government, any political subdivision of
+30 this state, or a quasi-governmental entity.
+31 (6) 'Protected activity' means an action that is protected by law. Such term includes
+32 when a claimant has:
+33 (A) Opposed workplace harassment;
+34 (B) Made a formal complaint regarding workplace harassment to the employer, made
+35 a report or a charge or filed a complaint related to workplace harassment with the
+36 United States Equal Employment Opportunity Commission, or filed a lawsuit related
+37 to workplace harassment in a court of law;
+38 (C) Instituted, caused to be instituted, assisted in, or participated in any manner in an
+39 investigation, proceeding, hearing, or action related to workplace harassment which is
+40 undertaken by the employer, the United States Equal Employment Opportunity
+41 Commission, or a court of law; or
+H. B. 306
+- 2 -
+
+25 LC 52 0680
+42 (D) Provided information, has testified, or is known by the employer to be planning to
+43 testify in any manner in any such investigation, proceeding, hearing, or action
+44 undertaken by the employer, the United States Equal Employment Opportunity
+45 Commission, or a court of law.
+46 (7) 'Protected characteristic' means an individual's race, color, religion, sex, national
+47 origin, age, disability, or genetic information.
+48 (8) 'Retaliation' means an adverse employment action taken against a claimant as
+49 punishment for the claimant engaging in a protected activity or advocating for
+50 employment protections provided under this chapter.
+51 (9) 'Sexual harassment' 'sexual harassment' means sexual advances, requests for sexual
+52 favors, sexual or sex-based sex based conduct, or any other unwelcome and offensive
+53 conduct of a sexual nature where:
+54 (A) Submission to the conduct involved is made, implicitly or explicitly, a term or
+55 condition of work;
+56 (B) Submission to or rejection of the conduct is used as the basis for a personnel
+57 decision affecting the individual's work; or
+58 (C) Such conduct creates an intimidating, hostile, or offensive work environment,;
+59 provided, however, that an intimidating, hostile, or offensive work environment is not
+60 created when the conduct does not rise above the level of what a reasonable person
+61 would consider merely tactless, inconsiderate, overfamiliar, or otherwise impolite,
+62 particularly with regard to the totality of the circumstances.
+63 (10) 'Supervisor' means any individual who has authority to undertake or recommend
+64 tangible employment decisions affecting a claimant or to direct the claimant's work
+65 activities.
+66 (11) 'Workplace' means any work related setting, including, but not limited to, online or
+67 mobile communications by a claimant, co-worker, or supervisor.
+H. B. 306
+- 3 -
+
+25 LC 52 0680
+68 (12) 'Workplace harassment' means unwelcome and offensive conduct based on a
+69 protected characteristic, including sexual harassment, at a claimant's workplace that
+70 negatively impacts a claimant's employment. Such term includes conduct at a claimant's
+71 workplace where:
+72 (A) Submission to the conduct involved is made, implicitly or explicitly, a term or
+73 condition of work;
+74 (B) Submission to or rejection of the conduct is used as the basis for a personnel
+75 decision affecting the individual's work; or
+76 (C) Such conduct creates an intimidating, hostile, or abusive work environment;
+77 provided, however, that an intimidating, hostile, or abusive work environment is not
+78 created when the conduct does not rise above the level of what a reasonable person
+79 would consider merely tactless, inconsiderate, overfamiliar, or otherwise impolite,
+80 particularly with regard to the totality of the circumstances.
+81 34-5A-2.
+82 (a) Any individual working for a county, municipality, or consolidated government as an
+83 employee or in a similar capacity shall have a cause of action for retaliation against the
+84 county, municipality, or consolidated government if such county, municipality, or
+85 consolidated government has discharged, suspended, demoted, or taken any other an
+86 adverse employment action against the individual in the terms or conditions of the work
+87 relationship because the individual has:
+88 (1) Opposed sexual harassment;
+89 (2) Made a report or a charge, or filed any complaint related to sexual harassment;
+90 (3) Instituted, or caused to be instituted, assisted in, or participated in any manner in any
+91 investigation, proceeding, hearing, or action related to sexual harassment; or
+H. B. 306
+- 4 -
+
+25 LC 52 0680
+92 (4) Provided information, has testified, or is known by the county, municipality, or
+93 consolidated government to be planning to testify in any manner in any such
+94 investigation, proceeding, hearing, or action related to sexual harassment.
+95 (b) Such individual may institute such a civil action in accordance with the provisions of
+96 paragraph (1) of subsection (e) of Code Section 45-1-4, and a court may order any or all
+97 of the relief described in paragraph (2) of subsection (e) and subsection (f) of Code
+98 Section 45-1-4.
+99 (c) Nothing in this Code section shall be interpreted to prohibit the county, municipality,
+100 or consolidated government from taking appropriate corrective or remedial action against
+101 any individual who it determines has engaged in or facilitated sexual harassment.
+102 (d) A county, municipality, or consolidated government may mitigate liability for
+103 retaliation if it shows that, acting in good faith, it exercised reasonable care to prevent and
+104 promptly address sexual harassment as provided in Code Section 34-5A-4.
+105 (e) All facts necessary to establish liability for a cause of action as provided in
+106 subsection (a) of this Code section shall be determined at trial by a jury.
+107 34-5A-3.
+108 (a) A claimant aggrieved by workplace harassment shall have a cause of action for
+109 workplace harassment against:
+110 (1) A supervisor, co-worker, or third party when such individual engaged in workplace
+111 harassment of the claimant;
+112 (2) An employer when a co-worker or third party engaged in workplace harassment of
+113 the claimant and the employer's negligence exposed the claimant to a risk of such
+114 harassment; and
+115 (3) An employer when a supervisor engaged in workplace harassment of claimant.
+H. B. 306
+- 5 -
+
+25 LC 52 0680
+116 (b) An employer may mitigate liability for workplace harassment if it shows that, acting
+117 in good faith, it exercised reasonable care to prevent and promptly address workplace
+118 harassment as provided in Code Section 34-5A-4.
+119 (c) All facts necessary to establish liability for a cause of action as provided in this Code
+120 section shall be determined at trial by a jury.
+121 34-5A-4.
+122 (a) An employer may mitigate liability for workplace harassment or retaliation when the
+123 employer shows that, acting in good faith, it exercised reasonable care to prevent and
+124 promptly address workplace harassment and retaliation.
+125 (b) An employer shall be deemed to have exercised reasonable care to prevent and
+126 promptly address workplace harassment and retaliation when it has:
+127 (1) Adopted a written anti-harassment policy that establishes policies and procedures
+128 concerning unlawful discrimination and harassment. Such policy shall contain at least:
+129 (A) A statement that any workplace harassment will not be tolerated and that discipline
+130 will be enforced against individuals engaging in workplace harassment;
+131 (B) A statement that retaliation against those who disclose, report, participate in an
+132 investigation of, or otherwise challenge or oppose workplace harassment is prohibited;
+133 (C) A statement that the employer will promptly and impartially investigate complaints
+134 alleging workplace harassment or retaliation;
+135 (D) Definitions of protected activity, protected characteristics, retaliation, sexual
+136 harassment, and workplace harassment;
+137 (E) A description of the process for filing internal complaints alleging workplace
+138 harassment or retaliation;
+139 (F) The contact information of the person to whom complaints alleging workplace
+140 harassment or retaliation should be made and an alternative channel, if the alleged
+141 harasser or retaliator is such person; and
+H. B. 306
+- 6 -
+
+25 LC 52 0680
+142 (G) A statement that the employer may take remedial measures during the investigation
+143 of an allegation of workplace harassment or retaliation and in the event of verified
+144 workplace harassment or retaliation;
+145 (2) Disseminated the anti-harassment policy to all employees, including the claimant;
+146 (3) Followed policies and procedures for workplace harassment and retaliation contained
+147 in the anti-harassment policy and as required by law;
+148 (4) Trained supervisors on steps to prevent and correct workplace harassment and
+149 retaliation when it is observed and steps to take when workplace harassment or retaliation
+150 is reported to a supervisor;
+151 (5) Promptly disciplined individuals who engaged in workplace harassment or retaliation
+152 to deter future harassment and retaliation;
+153 (6) Promptly disciplined supervisors who knowingly allowed workplace harassment or
+154 retaliation to occur or continue; and
+155 (7) Stopped workplace harassment or retaliation that the employer knew or should have
+156 known occurred.
+157 (c) All facts necessary to establish an affirmative defense against liability as provided in
+158 this Code section shall be determined at trial by a jury.
+159 34-5A-5.
+160 (a) Except as provided for in Code Section 34-5A-2, a claimant shall have a cause of
+161 action for retaliation against a supervisor or employer when such supervisor or employer
+162 took an adverse employment action against the claimant because such claimant engaged
+163 in a protected activity.
+164 (b) An employer may mitigate liability for retaliation if it shows that, acting in good faith,
+165 it exercised reasonable care to prevent and promptly address retaliation as provided in Code
+166 Section 34-5A-4.
+H. B. 306
+- 7 -
+
+25 LC 52 0680
+167 (c) All facts necessary to establish liability for a cause of action as provided in
+168 subsection (a) of this Code section shall be determined at trial by a jury.
+169 34-5A-6.
+170 (a) Any claimant's action for workplace harassment as provided for in Code
+171 Section 34-5A-3 shall commence within two years from the date of the most recent
+172 incident.
+173 (b) Any claimant's action for retaliation as provided for in Code Section 34-5A-2
+174 or 34-5A-5 shall commence within one year after discovering the retaliation or within three
+175 years after the retaliation, whichever is earlier.
+176 34-5A-7.
+177 (a) In an action brought pursuant to this chapter, the court may order any relief it deems
+178 appropriate to make the claimant whole, including, but not limited to, compensation for lost
+179 wages, front pay or reinstatement, benefits, other remuneration, compensatory damages,
+180 punitive damages, reasonable attorney and witness fees, court costs, and other related
+181 expenses. A court may grant as relief a permanent or temporary injunction, temporary
+182 restraining order, or other order, including an order enjoining the defendant from engaging
+183 in such practice or ordering such continuing remedial action as may be appropriate.
+184 (b) Punitive damages shall not be available if a jury determines that the employer has
+185 substantively complied with Code Section 35-5A-4.
+186 (c) The provisions of this chapter shall be construed as being in addition to, and in no way
+187 denying, altering, or amending, any other civil or criminal rights or remedies at law or in
+188 equity or notice requirements provided under any other provision of law."
+H. B. 306
+- 8 -
+
+25 LC 52 0680
+189 SECTION 2.
+190 This Act shall become effective upon its approval by the Governor or upon its becoming law
+191 without such approval.
+192 SECTION 3.
+193 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 306
+- 9 -
+
+[DELETED: 5L2,5,9,dtht9,1,hs]
+[DELETED: 5L b t e t U S E E O]
+[DELETED: 5L i a m i a s i p h o a b t e t U S E E O  ' m a a e a t a a c a f t c e i a p a o a f]
+[DELETED: 5L  ' h m u a o c b o  m o c g i s c m o g h d s d o t a o a]
+[DELETED: 5L g t b p t t i a m i a s (  A c m o c g m m l f  A f n t e l f a c o a a p i c a t e n e t c t a r o s]
+[DELETED: 5L d t  D o p a p c r s]
+[DELETED: 5L]
+[DELETED: 5L  A f n t e l f a c o a a p i  A c a f w h a p f i C 3 s c w t y f t d o t m r  A c a f r a p f i C S 3]
+[DELETED: 5L]

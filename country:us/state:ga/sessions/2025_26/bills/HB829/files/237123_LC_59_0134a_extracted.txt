@@ -1,0 +1,179 @@
+Title: House Bill 829
+Official Title: House Bill 829
+Number of Sections: 1
+Source: versions - LC 59 0134/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 59 0134
+By: Representatives Beckles of the 96th, Hugley of the 141st, Frye of the 122nd, Williams of
+the 168th, Flournoy of the 74th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to
+2 elementary and secondary education, so as to require the Department of Education to publish
+3 guidance relating to best practices for secure browsing and parental controls; to amend
+4 Chapter 5 of Title 39 of the Official Code of Georgia Annotated, relating to online internet
+5 safety, so as to require the Attorney General publish an annual report documenting its
+6 enforcement actions relating to online safety; to provide for related matters; to repeal
+7 conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to elementary and
+11 secondary education, is amended by revising Code Section 20-2-149, relating to programs
+12 for educating students regarding online internet safety, as follows:
+13 "20-2-149.
+14 (a)(1) The Department of Education shall develop model programs for educating
+15 students regarding online safety while using the internet, taking into consideration
+16 educational materials on this topic developed by other states as well as any other
+H. B. 829
+- 1 -
+25 LC 59 0134
+17 materials suggested by education experts, child psychologists, and technology companies
+18 that promote child online safety issues.
+19 (2) The model programs provided for in this subsection shall include one or more model
+20 programs for students in grades six through 12 which:
+21 (A) Shall include instruction regarding:
+22 (i) The social, emotional, and physical effects of social media on users;
+23 (ii) The effects of social media on the mental health of users, particularly teenagers;
+24 (iii) The distribution of disinformation and misinformation on social media;
+25 (iv) How social media influences thoughts and behaviors;
+26 (v) The permanency and risks of sharing materials online;
+27 (vi) The dangers of viewing material harmful to minors;
+28 (vii) Age verification procedures on websites and social media;
+29 (viii) How to maintain personal security and identify cyberbullying, predatory
+30 behavior, and human trafficking on the internet and social media; and
+31 (vii)(ix) How to report suspicious behavior encountered on the internet and social
+32 media to appropriate persons and authorities; and
+33 (B) May include information regarding the benefits of social media use, such as
+34 supporting career readiness for future academic or employment opportunities, sharing
+35 information with familiar family and friends, and safely connecting with other users
+36 with similar interests.
+37 (3) The Department of Education shall periodically update the model programs provided
+38 for in this subsection to reflect changes in internet and social media use, emergent
+39 technologies, social and psychological research, and information concerning new threats
+40 to teenagers and young adults using social media platforms and other online
+41 communication technologies.
+42 (4) The Department of Education shall publish on its website information relating to the
+43 model programs provided for in this Code section, including recommended curricula and
+H. B. 829
+- 2 -
+25 LC 59 0134
+44 instructional materials as updated periodically as provided in this subsection, along with
+45 guidance relating to best practices for secure browsing and parental controls. The
+46 Department of Education shall provide technical assistance in addition to such model
+47 programs and recommended curricula and instructional materials to aid any local board
+48 of education that may elect to incorporate one or more components of internet and social
+49 media safety into its instructional program.
+50 (5) The Department of Education shall evaluate the report published by the Attorney
+51 General pursuant to subsection (g) of Code Section 39-5-5 in assessing the reach and
+52 impact of online safety education efforts.
+53 (b) Each local board of education may incorporate into its instructional program a
+54 component on online internet safety, including social media safety, to be taught on a
+55 schedule as determined by the local board of education."
+56 SECTION 2.
+57 Chapter 5 of Title 39 of the Official Code of Georgia Annotated, relating to online internet
+58 safety, is amended by adding a new subsection to Code Section 39-5-5, relating to
+59 commercial entity age verification, access to material harmful to minors, data retention,
+60 penalties, and exclusions, to read as follows:
+61 "(g) The Attorney General shall publish an annual report documenting enforcement actions
+62 taken under this Code section."
+63 SECTION 3.
+64 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 829
+- 3 -
+[DELETED: 5L6,1,2,hstn8,4,ht a r t o s t p f r m t r  T D o E s d m p f e r o s w u t i t i c m o t t d b o s a w a a o]
+[DELETED: 5L  H t m p s a i c p t a y a u s m p a o o]
+[DELETED: 5L r t b p f s b a p c  T  E l b o e m i i i i p  i a b a a n s t C S 3 r t]
+
+
+================================================================================
+
+Raw Text:
+25 LC 59 0134
+House Bill 829
+By: Representatives Beckles of the 96th, Hugley of the 141st, Frye of the 122nd, Williams of
+the 168th, Flournoy of the 74th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to
+2 elementary and secondary education, so as to require the Department of Education to publish
+3 guidance relating to best practices for secure browsing and parental controls; to amend
+4 Chapter 5 of Title 39 of the Official Code of Georgia Annotated, relating to online internet
+5 safety, so as to require the Attorney General publish an annual report documenting its
+6 enforcement actions relating to online safety; to provide for related matters; to repeal
+7 conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to elementary and
+11 secondary education, is amended by revising Code Section 20-2-149, relating to programs
+12 for educating students regarding online internet safety, as follows:
+13 "20-2-149.
+14 (a)(1) The Department of Education shall develop model programs for educating
+15 students regarding online safety while using the internet, taking into consideration
+16 educational materials on this topic developed by other states as well as any other
+H. B. 829
+- 1 -
+
+25 LC 59 0134
+17 materials suggested by education experts, child psychologists, and technology companies
+18 that promote child online safety issues.
+19 (2) The model programs provided for in this subsection shall include one or more model
+20 programs for students in grades six through 12 which:
+21 (A) Shall include instruction regarding:
+22 (i) The social, emotional, and physical effects of social media on users;
+23 (ii) The effects of social media on the mental health of users, particularly teenagers;
+24 (iii) The distribution of disinformation and misinformation on social media;
+25 (iv) How social media influences thoughts and behaviors;
+26 (v) The permanency and risks of sharing materials online;
+27 (vi) The dangers of viewing material harmful to minors;
+28 (vii) Age verification procedures on websites and social media;
+29 (viii) How to maintain personal security and identify cyberbullying, predatory
+30 behavior, and human trafficking on the internet and social media; and
+31 (vii)(ix) How to report suspicious behavior encountered on the internet and social
+32 media to appropriate persons and authorities; and
+33 (B) May include information regarding the benefits of social media use, such as
+34 supporting career readiness for future academic or employment opportunities, sharing
+35 information with familiar family and friends, and safely connecting with other users
+36 with similar interests.
+37 (3) The Department of Education shall periodically update the model programs provided
+38 for in this subsection to reflect changes in internet and social media use, emergent
+39 technologies, social and psychological research, and information concerning new threats
+40 to teenagers and young adults using social media platforms and other online
+41 communication technologies.
+42 (4) The Department of Education shall publish on its website information relating to the
+43 model programs provided for in this Code section, including recommended curricula and
+H. B. 829
+- 2 -
+
+25 LC 59 0134
+44 instructional materials as updated periodically as provided in this subsection, along with
+45 guidance relating to best practices for secure browsing and parental controls. The
+46 Department of Education shall provide technical assistance in addition to such model
+47 programs and recommended curricula and instructional materials to aid any local board
+48 of education that may elect to incorporate one or more components of internet and social
+49 media safety into its instructional program.
+50 (5) The Department of Education shall evaluate the report published by the Attorney
+51 General pursuant to subsection (g) of Code Section 39-5-5 in assessing the reach and
+52 impact of online safety education efforts.
+53 (b) Each local board of education may incorporate into its instructional program a
+54 component on online internet safety, including social media safety, to be taught on a
+55 schedule as determined by the local board of education."
+56 SECTION 2.
+57 Chapter 5 of Title 39 of the Official Code of Georgia Annotated, relating to online internet
+58 safety, is amended by adding a new subsection to Code Section 39-5-5, relating to
+59 commercial entity age verification, access to material harmful to minors, data retention,
+60 penalties, and exclusions, to read as follows:
+61 "(g) The Attorney General shall publish an annual report documenting enforcement actions
+62 taken under this Code section."
+63 SECTION 3.
+64 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 829
+- 3 -
+
+[DELETED: 5L6,1,2,hstn8,4,ht a r t o s t p f r m t r  T D o E s d m p f e r o s w u t i t i c m o t t d b o s a w a a o]
+[DELETED: 5L  H t m p s a i c p t a y a u s m p a o o]
+[DELETED: 5L r t b p f s b a p c  T  E l b o e m i i i i p  i a b a a n s t C S 3 r t]

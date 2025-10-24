@@ -1,0 +1,175 @@
+Title: Senate Bill 198
+Official Title: Senate Bill 198
+Number of Sections: 1
+Source: versions - As introduced LC 56 0312
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 56 0312
+By: Senators Albers of the 56th, Kirkpatrick of the 32nd, Williams of the 25th, Summers of
+the 13th, Cowsert of the 46th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 6 of Title 47 of the Official Code of Georgia Annotated, relating to the
+2 Georgia Legislative Retirement System, so as to provide for the board of trustees of the
+3 system to increase benefit multipliers for members; to provide for the system to maintain a
+4 minimum 120 percent funded ratio; to provide for conditions for such benefit multiplier
+5 increases; to provide for automatic increases in employee contributions proportional to
+6 benefit multiplier increases; to allow for members who joined after 2009 to receive benefit
+7 multiplier increases; to provide for definitions; to provide for conforming changes; to provide
+8 conditions for an effective date and automatic repeal; to provide for related matters; to repeal
+9 conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Chapter 6 of Title 47 of the Official Code of Georgia Annotated, relating to the Georgia
+13 Legislative Retirement System, is amended in Code Section 47-6-1, relating to definitions,
+14 by adding new paragraphs to read as follows:
+S. B. 198
+- 1 -
+25 LC 56 0312
+15 "(2.1) 'Benefit multiplier' means the amount of money that is multiplied by a member's
+16 creditable service or presiding creditable service in order to calculate such member's
+17 monthly service retirement allowance."
+18 "(5.1) 'Funded ratio' means actuarial value of plan assets divided by the actuarial accrued
+19 liability of such plan as of the most recent actuarial valuation approved by the board."
+20 SECTION 2.
+21 Said chapter is further amended in Code Section 47-6-80, relating to eligibility and
+22 application for a retirement allowance, early retirement, monthly retirement allowance,
+23 amount of retirement allowance, compliance with federal tax laws, and increases in
+24 retirement allowance, by repealing subsection (f) in its entirety and by revising subsection
+25 (g) as follows:
+26 "(g)(f) Notwithstanding any other provision of this Code section Except as provided in
+27 Code Section 47-6-86, no member who becomes a member of this retirement system on
+28 or after July 1, 2009, shall be entitled to receive any postretirement benefit adjustment."
+29 SECTION 3.
+30 Said chapter is further amended by adding a new Code section to read as follows:
+31 "47-6-86.
+32 (a) Notwithstanding any other provision of this Code section, the provisions of this Code
+33 section shall not apply while the funded ratio of the system is below 120 percent.
+34 (b) The board shall be required to provide benefit increases in order to maintain the system
+35 as close to a 120 percent funded ratio as is practicable.
+36 (c) The board is authorized to increase the benefit multipliers provided for in Code
+37 Section 47-6-80 for persons retiring under this chapter. Such an increase shall:
+S. B. 198
+- 2 -
+25 LC 56 0312
+38 (1) Not lower the funded ratio of the system below 120 percent, based on the
+39 recommendation of the actuary of the board;
+40 (2) Be provided exclusively to all members receiving a benefit calculated under
+41 subsection (d) of Code Section 47-6-80, so long as the benefit multipliers for creditable
+42 service and presiding creditable service, respectively, are less than the benefit multipliers
+43 for creditable service and presiding creditable service, respectively, provided for in
+44 subsection (c.1) of Code Section 47-6-80;
+45 (3) Be provided to all members receiving a benefit calculated under subsection (c.1)
+46 or (d) of Code Section 47-6-80, so long as the benefit multipliers for creditable service
+47 and presiding creditable service, respectively, are equal between the two groups of
+48 members; or
+49 (4) Provide for an increase in a benefit multiplier for creditable service of not less
+50 than $1.00.
+51 (d) For each increase in the benefit multiplier for creditable service pursuant to this Code
+52 section, the benefit multiplier for presiding creditable service and the member contribution
+53 provided for in subsection (a.1) of Code Section 47-6-60 shall be increased by an amount
+54 proportional to any increase in the multiplier."
+55 SECTION 4.
+56 This Act shall become effective on July 1, 2026, only if it is determined to have been
+57 concurrently funded as provided in Chapter 20 of Title 47 of the Official Code of Georgia
+58 Annotated, the "Public Retirement Systems Standards Law"; otherwise, this Act shall not
+59 become effective and shall be automatically repealed in its entirety on July 1, 2026, as
+60 required by subsection (a) of Code Section 47-20-50.
+61 SECTION 5.
+62 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 198
+- 3 -
+[DELETED: 5L]
+[DELETED: 5L c i f a i C S 4 r t e a o r a c w f t l a i i]
+[DELETED: 5L  N l t f r o t s b 1 p b o t  B p e t a m r a b c u e]
+
+
+================================================================================
+
+Raw Text:
+25 LC 56 0312
+Senate Bill 198
+By: Senators Albers of the 56th, Kirkpatrick of the 32nd, Williams of the 25th, Summers of
+the 13th, Cowsert of the 46th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 6 of Title 47 of the Official Code of Georgia Annotated, relating to the
+2 Georgia Legislative Retirement System, so as to provide for the board of trustees of the
+3 system to increase benefit multipliers for members; to provide for the system to maintain a
+4 minimum 120 percent funded ratio; to provide for conditions for such benefit multiplier
+5 increases; to provide for automatic increases in employee contributions proportional to
+6 benefit multiplier increases; to allow for members who joined after 2009 to receive benefit
+7 multiplier increases; to provide for definitions; to provide for conforming changes; to provide
+8 conditions for an effective date and automatic repeal; to provide for related matters; to repeal
+9 conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Chapter 6 of Title 47 of the Official Code of Georgia Annotated, relating to the Georgia
+13 Legislative Retirement System, is amended in Code Section 47-6-1, relating to definitions,
+14 by adding new paragraphs to read as follows:
+S. B. 198
+- 1 -
+
+25 LC 56 0312
+15 "(2.1) 'Benefit multiplier' means the amount of money that is multiplied by a member's
+16 creditable service or presiding creditable service in order to calculate such member's
+17 monthly service retirement allowance."
+18 "(5.1) 'Funded ratio' means actuarial value of plan assets divided by the actuarial accrued
+19 liability of such plan as of the most recent actuarial valuation approved by the board."
+20 SECTION 2.
+21 Said chapter is further amended in Code Section 47-6-80, relating to eligibility and
+22 application for a retirement allowance, early retirement, monthly retirement allowance,
+23 amount of retirement allowance, compliance with federal tax laws, and increases in
+24 retirement allowance, by repealing subsection (f) in its entirety and by revising subsection
+25 (g) as follows:
+26 "(g)(f) Notwithstanding any other provision of this Code section Except as provided in
+27 Code Section 47-6-86, no member who becomes a member of this retirement system on
+28 or after July 1, 2009, shall be entitled to receive any postretirement benefit adjustment."
+29 SECTION 3.
+30 Said chapter is further amended by adding a new Code section to read as follows:
+31 "47-6-86.
+32 (a) Notwithstanding any other provision of this Code section, the provisions of this Code
+33 section shall not apply while the funded ratio of the system is below 120 percent.
+34 (b) The board shall be required to provide benefit increases in order to maintain the system
+35 as close to a 120 percent funded ratio as is practicable.
+36 (c) The board is authorized to increase the benefit multipliers provided for in Code
+37 Section 47-6-80 for persons retiring under this chapter. Such an increase shall:
+S. B. 198
+- 2 -
+
+25 LC 56 0312
+38 (1) Not lower the funded ratio of the system below 120 percent, based on the
+39 recommendation of the actuary of the board;
+40 (2) Be provided exclusively to all members receiving a benefit calculated under
+41 subsection (d) of Code Section 47-6-80, so long as the benefit multipliers for creditable
+42 service and presiding creditable service, respectively, are less than the benefit multipliers
+43 for creditable service and presiding creditable service, respectively, provided for in
+44 subsection (c.1) of Code Section 47-6-80;
+45 (3) Be provided to all members receiving a benefit calculated under subsection (c.1)
+46 or (d) of Code Section 47-6-80, so long as the benefit multipliers for creditable service
+47 and presiding creditable service, respectively, are equal between the two groups of
+48 members; or
+49 (4) Provide for an increase in a benefit multiplier for creditable service of not less
+50 than $1.00.
+51 (d) For each increase in the benefit multiplier for creditable service pursuant to this Code
+52 section, the benefit multiplier for presiding creditable service and the member contribution
+53 provided for in subsection (a.1) of Code Section 47-6-60 shall be increased by an amount
+54 proportional to any increase in the multiplier."
+55 SECTION 4.
+56 This Act shall become effective on July 1, 2026, only if it is determined to have been
+57 concurrently funded as provided in Chapter 20 of Title 47 of the Official Code of Georgia
+58 Annotated, the "Public Retirement Systems Standards Law"; otherwise, this Act shall not
+59 become effective and shall be automatically repealed in its entirety on July 1, 2026, as
+60 required by subsection (a) of Code Section 47-20-50.
+61 SECTION 5.
+62 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 198
+- 3 -
+
+[DELETED: 5L]
+[DELETED: 5L c i f a i C S 4 r t e a o r a c w f t l a i i]
+[DELETED: 5L  N l t f r o t s b 1 p b o t  B p e t a m r a b c u e]

@@ -1,0 +1,163 @@
+Title: The House Committee on Technology and Infrastructure Innovation offers the following
+Official Title: The House Committee on Technology and Infrastructure Innovation offers the following
+Number of Sections: 1
+Source: versions - LC 39 4575S/hs
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4575S
+substitute to HB 58:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 6 of the Official Code of Georgia Annotated, relating to general
+2 provisions relative to aviation, so as to prohibit certain actions by operators of unmanned
+3 aircraft systems; to provide for a penalty; to provide for applicability; to provide for
+4 definitions; to provide for related matters; to provide for an effective date; to repeal
+5 conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 1 of Title 6 of the Official Code of Georgia Annotated, relating to general provisions
+9 relative to aviation, is amended by revising Code Section 6-1-4, relating to unmanned aircraft
+10 system defined, preemption for unmanned aircraft systems, and operations, as follows:
+11 "6-1-4.
+12 (a)(1) As used in this Code section, the term 'unmanned:
+13 (1) 'Ticketed entertainment event' means any music, sporting, or performing arts event
+14 or a public fireworks exhibition or display permitted pursuant to Chapter 10 of Title 25
+15 held in a location with gated entries or barriers that prevent access to the general public
+H. B. 58 (SUB)
+- 1 -
+25 LC 39 4575S
+16 and in which a revocable license that has been issued by an owner, operator, or lessee of
+17 such property is required for attendance at such event.
+18 (2) 'Unmanned aircraft system' means a:
+19 (A) A powered, aerial vehicle that:
+20 (A)(i) Does not carry a human operator and is operated without the possibility of
+21 direct human intervention from within or on the aircraft;
+22 (B)(ii) Uses aerodynamic forces to provide vehicle lift;
+23 (C)(iii) Can fly autonomously or be piloted remotely; and
+24 (D)(iv) Can be expendable or recoverable.
+25 (2)(B) Such term shall not include a satellite.
+26 (b) Any ordinance, resolution, regulation, or policy of any county, municipality, or other
+27 political subdivision of this state regulating the testing or operation of unmanned aircraft
+28 systems shall be deemed preempted and shall be null, void, and of no force and effect;
+29 provided, however, that a county, municipality, or other political subdivision of this state
+30 may:
+31 (1) Enforce any ordinance that was adopted on or before April 1, 2017;
+32 (2) Adopt an ordinance that enforces Federal Aviation Administration restrictions; or
+33 (3) Adopt an ordinance that provides for or prohibits the launch or intentional landing
+34 of an unmanned aircraft system from or on its public property except with respect to the
+35 operation of an unmanned aircraft system for commercial purposes.
+36 (c) The state, through agency or departmental rules and regulations, may provide for or
+37 prohibit the launch or intentional landing of an unmanned aircraft system from or on its
+38 public property.
+39 (d)(1) It shall be unlawful to operate an unmanned aircraft system within 400 feet of or
+40 above a ticketed entertainment event.
+41 (2) A person who violates this subsection shall be guilty of the unauthorized operation
+42 of an unmanned aircraft system and shall be punished as for a misdemeanor.
+H. B. 58 (SUB)
+- 2 -
+25 LC 39 4575S
+43 (3) This subsection shall not apply when a person who operates an unmanned aircraft
+44 system:
+45 (A) Has obtained consent by any person with legal authority over a ticketed
+46 entertainment event;
+47 (B) Is authorized by federal regulations to operate an unmanned aircraft system and is
+48 operating such system in a lawful manner and consistent with federal regulations;
+49 (C) Is an employee of the property where the ticketed entertainment event is held and
+50 is conducting official business; or
+51 (D) Is an employee of a water, sewer, electrical, telephone, cable, or other regulated
+52 utility service provider and is conducting official business."
+53 SECTION 2.
+54 This Act shall become effective upon its approval by the Governor or upon its becoming law
+55 without such approval.
+56 SECTION 3.
+57 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 58 (SUB)
+- 3 -
+[DELETED: 5LTpa s t p f a p t p f a t p fd t p f r m t p f a e d t rcBSCr0s162(3(4o5h]
+[DELETED: 5L6a7s8(9(0(1d2(3(4(5(6(7p8s9p0m1(2(3(4o5o6(7p8p0a1(2o]
+[DELETED: 5L3(4s5(  H o c b a p w l a o a t6e7(8o9(0i1(2u3S4T5w6S7A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4575S
+The House Committee on Technology and Infrastructure Innovation offers the following
+substitute to HB 58:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 6 of the Official Code of Georgia Annotated, relating to general
+2 provisions relative to aviation, so as to prohibit certain actions by operators of unmanned
+3 aircraft systems; to provide for a penalty; to provide for applicability; to provide for
+4 definitions; to provide for related matters; to provide for an effective date; to repeal
+5 conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 1 of Title 6 of the Official Code of Georgia Annotated, relating to general provisions
+9 relative to aviation, is amended by revising Code Section 6-1-4, relating to unmanned aircraft
+10 system defined, preemption for unmanned aircraft systems, and operations, as follows:
+11 "6-1-4.
+12 (a)(1) As used in this Code section, the term 'unmanned:
+13 (1) 'Ticketed entertainment event' means any music, sporting, or performing arts event
+14 or a public fireworks exhibition or display permitted pursuant to Chapter 10 of Title 25
+15 held in a location with gated entries or barriers that prevent access to the general public
+H. B. 58 (SUB)
+- 1 -
+
+25 LC 39 4575S
+16 and in which a revocable license that has been issued by an owner, operator, or lessee of
+17 such property is required for attendance at such event.
+18 (2) 'Unmanned aircraft system' means a:
+19 (A) A powered, aerial vehicle that:
+20 (A)(i) Does not carry a human operator and is operated without the possibility of
+21 direct human intervention from within or on the aircraft;
+22 (B)(ii) Uses aerodynamic forces to provide vehicle lift;
+23 (C)(iii) Can fly autonomously or be piloted remotely; and
+24 (D)(iv) Can be expendable or recoverable.
+25 (2)(B) Such term shall not include a satellite.
+26 (b) Any ordinance, resolution, regulation, or policy of any county, municipality, or other
+27 political subdivision of this state regulating the testing or operation of unmanned aircraft
+28 systems shall be deemed preempted and shall be null, void, and of no force and effect;
+29 provided, however, that a county, municipality, or other political subdivision of this state
+30 may:
+31 (1) Enforce any ordinance that was adopted on or before April 1, 2017;
+32 (2) Adopt an ordinance that enforces Federal Aviation Administration restrictions; or
+33 (3) Adopt an ordinance that provides for or prohibits the launch or intentional landing
+34 of an unmanned aircraft system from or on its public property except with respect to the
+35 operation of an unmanned aircraft system for commercial purposes.
+36 (c) The state, through agency or departmental rules and regulations, may provide for or
+37 prohibit the launch or intentional landing of an unmanned aircraft system from or on its
+38 public property.
+39 (d)(1) It shall be unlawful to operate an unmanned aircraft system within 400 feet of or
+40 above a ticketed entertainment event.
+41 (2) A person who violates this subsection shall be guilty of the unauthorized operation
+42 of an unmanned aircraft system and shall be punished as for a misdemeanor.
+H. B. 58 (SUB)
+- 2 -
+
+25 LC 39 4575S
+43 (3) This subsection shall not apply when a person who operates an unmanned aircraft
+44 system:
+45 (A) Has obtained consent by any person with legal authority over a ticketed
+46 entertainment event;
+47 (B) Is authorized by federal regulations to operate an unmanned aircraft system and is
+48 operating such system in a lawful manner and consistent with federal regulations;
+49 (C) Is an employee of the property where the ticketed entertainment event is held and
+50 is conducting official business; or
+51 (D) Is an employee of a water, sewer, electrical, telephone, cable, or other regulated
+52 utility service provider and is conducting official business."
+53 SECTION 2.
+54 This Act shall become effective upon its approval by the Governor or upon its becoming law
+55 without such approval.
+56 SECTION 3.
+57 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 58 (SUB)
+- 3 -
+
+[DELETED: 5LTpa s t p f a p t p f a t p fd t p f r m t p f a e d t rcBSCr0s162(3(4o5h]
+[DELETED: 5L6a7s8(9(0(1d2(3(4(5(6(7p8s9p0m1(2(3(4o5o6(7p8p0a1(2o]
+[DELETED: 5L3(4s5(  H o c b a p w l a o a t6e7(8o9(0i1(2u3S4T5w6S7A]

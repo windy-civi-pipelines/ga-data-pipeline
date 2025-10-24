@@ -1,0 +1,495 @@
+Title: Senate Bill 72
+Official Title: Senate Bill 72
+Number of Sections: 1
+Source: versions - As Passed Senate
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0746S (SCS)
+By: Senators Brass of the 6th, Kirkpatrick of the 32nd, Dolezal of the 27th, Strickland of the
+42nd, Walker III of the 20th and others
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 52 of Title 31 of the Official Code of Georgia Annotated, relating to
+2 terminally ill patient's right to try investigational drugs, biological products, and devices, so
+3 as to expand access to individualized investigational treatments to patients who have
+4 severely debilitating or life-threatening illnesses; to provide for definitions; to provide for
+5 eligibility criteria; to provide for written informed consent; to allow certain manufacturers
+6 or eligible facilities to make available individualized investigational treatments; to provide
+7 that coverage is not mandatory; to prohibit the sanctions against a physician's license; to
+8 provide exemption to liability for certain charges; to provide for statutory construction; to
+9 provide for related matters; to provide for a short title; to repeal conflicting laws; and for
+10 other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 This Act shall be known and may be cited as the "Hope for Georgia Patients Act."
+S. B. 72
+- 1 -
+25 LC 52 0746S (SCS)
+14 SECTION 2.
+15 Chapter 52 of Title 31 of the Official Code of Georgia Annotated, relating to terminally ill
+16 patient's right to try investigational drugs, biological products, and devices, is amended by
+17 designating Code Sections 31-52-1 through 31-52-10, the "Georgia Right to Try Act," as
+18 Article 1.
+19 SECTION 3.
+20 Said chapter is further amended by replacing "chapter" with "article" wherever the former
+21 appears in:
+22 (1) Code Section 31-52-1, relating to short title;
+23 (2) Code Section 31-52-4, relating to eligibility criteria;
+24 (3) Code Section 31-52-6, relating to manufacturers permitted to make investigational
+25 drugs, biological products, or devices available;
+26 (4) Code Section 31-52-7, relating to coverage under health benefit plan permitted but not
+27 required;
+28 (5) Code Section 31-52-8, relating to physician immunity from sanction for
+29 recommending, prescribing, or treating with investigational drugs, biological products, or
+30 devices; and
+31 (6) Code Section 31-52-10, relating to statutory construction.
+32 SECTION 4.
+33 Said chapter is further amended by revising Code Section 31-52-3, relating to definitions, as
+34 follows:
+35 "31-52-3.
+36 As used in this chapter article, the term:
+37 (1) 'Eligible patient' means a person who meets the requirements of Code
+38 Section 31-52-4.
+S. B. 72
+- 2 -
+25 LC 52 0746S (SCS)
+39 (2) 'Investigational drug, biological product, or device' means a drug, biological product,
+40 or device which has successfully completed Phase I of a federal Food and Drug
+41 Administration approved clinical trial but has not yet been approved for general use by
+42 the federal Food and Drug Administration and currently remains under investigation in
+43 a federal Food and Drug Administration approved clinical trial.
+44 (3) 'Physician' means a person licensed to practice medicine pursuant to Article 2 of
+45 Chapter 34 of Title 43.
+46 (4) 'Terminal illness' means a disease that, without life-sustaining procedures, will result
+47 in death in the near future and is not considered by a treating physician to be reversible
+48 even with administration of current federal Food and Drug Administration approved and
+49 available treatments.
+50 (5) 'Written informed consent' means a written document that:
+51 (A) Is signed by the patient; parent, if the patient is a minor; legal guardian; or health
+52 care healthcare agent designated by the patient in an advance directive for health care
+53 healthcare executed pursuant to Chapter 32 of Title 31 this title;
+54 (B) Is attested to by the patient's physician and a witness; and
+55 (C) Meets the requirements of Code Section 31-52-5."
+56 SECTION 5.
+57 Said chapter is further amended by adding a new article to read as follows:
+58 "ARTICLE 2
+59 31-52-20.
+60 As used in this article, the term:
+61 (1) 'Eligible facility' means an institution that is currently operating under the
+62 Federalwide Assurance for the Protection of Human Subjects under 42 U.S.C.
+S. B. 72
+- 3 -
+25 LC 52 0746S (SCS)
+63 Section 289(a) and 45 C.F.R. Part 46 and is subject to federal laws, regulations, policies,
+64 and guidelines, including renewals and updates.
+65 (2) 'Eligible patient' means a person who meets the requirements of Code
+66 Section 31-52-21.
+67 (3) 'Individualized investigational treatment' means a drug, biological product, or device
+68 that is unique to and produced exclusively for an individual patient based on his or her
+69 own genetic profile. Such term includes, but is not limited to, individualized gene
+70 therapy, individualized investigational antisense oligonucleotides, and individualized
+71 neoantigen vaccines or individualized neoantigen therapy. Such term includes any drug,
+72 biological product, or device derived from human perinatal tissues, cells, and secreted
+73 factors, provided that such substances are not obtained from an abortion. Such term does
+74 not include any drug, biological product, or device derived from human primary or
+75 secondary embryonic stem cells or cell lines.
+76 (4) 'Life-threatening illness' means a disease or condition where the likelihood of death
+77 is high unless the course of the disease is interrupted or a disease or condition with a
+78 potentially fatal outcome, where the end point of clinical trial analysis is survival. Such
+79 term shall not include the natural process of aging.
+80 (5) 'Manufacturer' means a person or entity engaged in the manufacturing of
+81 individualized investigational treatments in an eligible facility.
+82 (6) 'Physician' means a person licensed to practice medicine pursuant to Article 2 of
+83 Chapter 34 of Title 43.
+84 (7) 'Severely debilitating illness' means a disease or condition that causes major
+85 irreversible morbidity.
+86 (8) 'Written informed consent' means a written document that:
+87 (A) Is signed by the patient; parent, if the patient is a minor; legal guardian; or
+88 healthcare agent designated by the patient in an advance directive for healthcare
+89 executed pursuant to Chapter 32 of this title;
+S. B. 72
+- 4 -
+25 LC 52 0746S (SCS)
+90 (B) Is attested to by the patient's physician and a witness; and
+91 (C) Meets the requirements of Code Section 31-52-22.
+92 31-52-21.
+93 In order for a person to be considered an eligible patient to access an individualized
+94 investigational treatment pursuant to this article, a physician must document in writing that
+95 the person:
+96 (1) Has a life-threatening or severely debilitating illness;
+97 (2) Has, in consultation with the physician, considered all other treatment options
+98 currently approved by the United States Food and Drug Administration;
+99 (3) Has been given a recommendation by the physician for an individualized
+100 investigational treatment based on an analysis of such patient's genomic sequence, human
+101 chromosomes, deoxyribonucleic acid, ribonucleic acid, genes, gene products such as
+102 enzymes and other types of proteins, or metabolites; and
+103 (4) Has given written informed consent for the use of the individualized investigational
+104 treatment.
+105 31-52-22.
+106 Written informed consent shall, at a minimum, include the following:
+107 (1) A description of the currently approved products and treatments for the
+108 life-threatening or severely debilitating illness from which the patient suffers;
+109 (2) An attestation that the patient concurs with his or her physician in believing that all
+110 currently approved and conventionally recognized treatments are unlikely to prolong the
+111 patient's life, and the known risks of the individualized investigational treatment are not
+112 greater than the probable outcome of the patient's illness;
+113 (3) Clear identification of the specific proposed individualized investigational treatment
+114 that the patient is seeking to use;
+S. B. 72
+- 5 -
+25 LC 52 0746S (SCS)
+115 (4) A description of the potential best and worst outcomes of using the individualized
+116 investigational treatment and a realistic description of the most likely outcome. The
+117 description shall include the possibility that new, unanticipated, different, or worse
+118 symptoms might result and that death could be hastened by the proposed treatment. The
+119 description shall be based on the physician's knowledge of the proposed treatment in
+120 conjunction with an awareness of the patient's condition;
+121 (5) A statement that the patient understands that his or her health benefit plan or
+122 third-party administrator is not obligated to pay for the individualized investigational
+123 treatment, or any care or treatment consequent to the use of such treatment, unless such
+124 health benefit plan or third-party administrator is specifically required to do so by law or
+125 contract;
+126 (6) A statement that the patient understands that his or her eligibility for hospice care
+127 may be withdrawn if he or she begins treatment with the individualized investigational
+128 treatment but that such hospice care may be reinstated if such treatment ends and he or
+129 she meets hospice eligibility requirements; and
+130 (7) A statement that the patient understands that he or she is liable for all expenses
+131 consequent to the use of the individualized investigational treatment and that such
+132 liability extends to the patient's estate, unless a contract between the patient and the
+133 manufacturer of the individualized investigational treatment states otherwise, except as
+134 provided for in Code Section 31-52-27.
+135 31-52-23.
+136 (a) A manufacturer or an eligible entity may make available an individualized
+137 investigational treatment to an eligible patient, and an eligible patient may request such
+138 treatment from such manufacturer or facility pursuant to this article; provided, however,
+139 that nothing in this article shall be construed to require that such manufacturer or facility
+140 make available such treatment to such patient.
+S. B. 72
+- 6 -
+25 LC 52 0746S (SCS)
+141 (b) A manufacturer or an eligible facility may provide an individualized investigational
+142 treatment to an eligible patient:
+143 (1) Without receiving compensation; or
+144 (2) With the requirement that the eligible patient pays the costs of or the costs associated
+145 with the manufacture of the individualized investigational treatment.
+146 31-52-24.
+147 (a) A health benefit plan or governmental agency may provide coverage for the cost of any
+148 individualized investigational treatment pursuant to this article; provided, however, that
+149 nothing in this article shall be construed to require a health benefit plan or governmental
+150 agency to provide coverage for the cost of any individualized investigational treatment or
+151 related cost of services associated with the use, care, or treatment of an eligible patient
+152 associated with such individualized investigational treatment pursuant to this article.
+153 (b) A hospital or other healthcare facility is not required to provide new or additional
+154 services associated with any individualized investigational treatment unless approved by
+155 such hospital or facility.
+156 31-52-25.
+157 (a) The Georgia Composite Medical Board shall not revoke, suspend, sanction, fail to
+158 renew, or take any other action against a physician's license solely based on such
+159 physician's recommendation, prescription, or treatment of an eligible patient with an
+160 individualized investigational treatment pursuant to this article.
+161 (b) The Department of Community Health shall not take action against a healthcare
+162 provider's Medicare certification based solely on such provider's recommendation that an
+163 eligible patient have access to an individualized investigational treatment.
+S. B. 72
+- 7 -
+25 LC 52 0746S (SCS)
+164 31-52-26.
+165 No official, employee, or agent of the state shall block or attempt to block an eligible
+166 patient's access to an individualized investigational treatment. Counseling, advice, or a
+167 recommendation for treatment consistent with medical standards of care shall not be
+168 construed as a violation of this Code section.
+169 31-52-27.
+170 (a) This article shall not be construed to create a private cause of action against a
+171 manufacturer, eligible facility, or any other person or entity involved in the care of an
+172 eligible patient using any individualized investigational treatment for any harm done to
+173 such patient resulting from the individualized investigational treatment if such
+174 manufacturer, facility, person, or entity complied in good faith with the terms of this article
+175 and exercised reasonable care.
+176 (b) This article shall not be construed to create a private cause of action against a physician
+177 who refuses to recommend an individualized investigational treatment for any otherwise
+178 eligible patient.
+179 (c) Any person or entity involved in the care of an eligible patient using an individualized
+180 investigational treatment shall not be liable for injury or death to such patient as a result of
+181 such treatment under Code Section 51-1-27 or Chapter 4 of Title 51, unless it is shown that
+182 the person or entity failed to obtain written informed consent in compliance with Code
+183 Section 31-52-22.
+184 (d) This article shall not be construed to affect any required healthcare coverage under
+185 Title 33 for patients in clinical trials.
+186 (e) If an eligible patient's death is proximately caused by an individualized investigational
+187 treatment, such patient's estate, heirs, or devisees are not liable for any debt remaining after
+188 payment by insurance for charges directly incurred for such treatment; provided, however,
+189 that this subsection does not provide an exemption to liability for charges for
+S. B. 72
+- 8 -
+25 LC 52 0746S (SCS)
+190 nonexperimental treatments provided to the patient, including nonexperimental treatments
+191 rendered to the patient due to complications or consequences of the individualized
+192 investigational treatment."
+193 SECTION 6.
+194 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 72
+- 9 -
+[DELETED: 5L t e a t i i t t p w h]
+[DELETED: 5L  C S 3 r t p i f s f  ' p m a p w m t r o C]
+[DELETED: 5L d w h s c P I o a f F a D  ' f m a i t i c o u t A f t P o H S u 4 U]
+[DELETED: 5L  ' p m a p w m t r o C  ' m a p o e e i t m o  ' d i m a d o c t c m a d b t p i a a d f h]
+[DELETED: 5L  H i c w t p c a o t o  H b g a r b t p f a i  A d o t c a p a t f t]
+[DELETED: 5L s i t p t n u d o w  A s t t p u t h o h h b p o t t u o t i i t a t s  A m o a e e m m a a i]
+[DELETED: 5L o t a o a a a p l s b o s r p o t o a e p w a]
+[DELETED: 5L  T a s n b c t c a p c o a a  p r f t i i t i s t s d n p a e t l f c f]
+[DELETED: 5L t t p d t c o c o t i]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0746S (SCS)
+Senate Bill 72
+By: Senators Brass of the 6th, Kirkpatrick of the 32nd, Dolezal of the 27th, Strickland of the
+42nd, Walker III of the 20th and others
+AS PASSED SENATE
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 52 of Title 31 of the Official Code of Georgia Annotated, relating to
+2 terminally ill patient's right to try investigational drugs, biological products, and devices, so
+3 as to expand access to individualized investigational treatments to patients who have
+4 severely debilitating or life-threatening illnesses; to provide for definitions; to provide for
+5 eligibility criteria; to provide for written informed consent; to allow certain manufacturers
+6 or eligible facilities to make available individualized investigational treatments; to provide
+7 that coverage is not mandatory; to prohibit the sanctions against a physician's license; to
+8 provide exemption to liability for certain charges; to provide for statutory construction; to
+9 provide for related matters; to provide for a short title; to repeal conflicting laws; and for
+10 other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 This Act shall be known and may be cited as the "Hope for Georgia Patients Act."
+S. B. 72
+- 1 -
+
+25 LC 52 0746S (SCS)
+14 SECTION 2.
+15 Chapter 52 of Title 31 of the Official Code of Georgia Annotated, relating to terminally ill
+16 patient's right to try investigational drugs, biological products, and devices, is amended by
+17 designating Code Sections 31-52-1 through 31-52-10, the "Georgia Right to Try Act," as
+18 Article 1.
+19 SECTION 3.
+20 Said chapter is further amended by replacing "chapter" with "article" wherever the former
+21 appears in:
+22 (1) Code Section 31-52-1, relating to short title;
+23 (2) Code Section 31-52-4, relating to eligibility criteria;
+24 (3) Code Section 31-52-6, relating to manufacturers permitted to make investigational
+25 drugs, biological products, or devices available;
+26 (4) Code Section 31-52-7, relating to coverage under health benefit plan permitted but not
+27 required;
+28 (5) Code Section 31-52-8, relating to physician immunity from sanction for
+29 recommending, prescribing, or treating with investigational drugs, biological products, or
+30 devices; and
+31 (6) Code Section 31-52-10, relating to statutory construction.
+32 SECTION 4.
+33 Said chapter is further amended by revising Code Section 31-52-3, relating to definitions, as
+34 follows:
+35 "31-52-3.
+36 As used in this chapter article, the term:
+37 (1) 'Eligible patient' means a person who meets the requirements of Code
+38 Section 31-52-4.
+S. B. 72
+- 2 -
+
+25 LC 52 0746S (SCS)
+39 (2) 'Investigational drug, biological product, or device' means a drug, biological product,
+40 or device which has successfully completed Phase I of a federal Food and Drug
+41 Administration approved clinical trial but has not yet been approved for general use by
+42 the federal Food and Drug Administration and currently remains under investigation in
+43 a federal Food and Drug Administration approved clinical trial.
+44 (3) 'Physician' means a person licensed to practice medicine pursuant to Article 2 of
+45 Chapter 34 of Title 43.
+46 (4) 'Terminal illness' means a disease that, without life-sustaining procedures, will result
+47 in death in the near future and is not considered by a treating physician to be reversible
+48 even with administration of current federal Food and Drug Administration approved and
+49 available treatments.
+50 (5) 'Written informed consent' means a written document that:
+51 (A) Is signed by the patient; parent, if the patient is a minor; legal guardian; or health
+52 care healthcare agent designated by the patient in an advance directive for health care
+53 healthcare executed pursuant to Chapter 32 of Title 31 this title;
+54 (B) Is attested to by the patient's physician and a witness; and
+55 (C) Meets the requirements of Code Section 31-52-5."
+56 SECTION 5.
+57 Said chapter is further amended by adding a new article to read as follows:
+58 "ARTICLE 2
+59 31-52-20.
+60 As used in this article, the term:
+61 (1) 'Eligible facility' means an institution that is currently operating under the
+62 Federalwide Assurance for the Protection of Human Subjects under 42 U.S.C.
+S. B. 72
+- 3 -
+
+25 LC 52 0746S (SCS)
+63 Section 289(a) and 45 C.F.R. Part 46 and is subject to federal laws, regulations, policies,
+64 and guidelines, including renewals and updates.
+65 (2) 'Eligible patient' means a person who meets the requirements of Code
+66 Section 31-52-21.
+67 (3) 'Individualized investigational treatment' means a drug, biological product, or device
+68 that is unique to and produced exclusively for an individual patient based on his or her
+69 own genetic profile. Such term includes, but is not limited to, individualized gene
+70 therapy, individualized investigational antisense oligonucleotides, and individualized
+71 neoantigen vaccines or individualized neoantigen therapy. Such term includes any drug,
+72 biological product, or device derived from human perinatal tissues, cells, and secreted
+73 factors, provided that such substances are not obtained from an abortion. Such term does
+74 not include any drug, biological product, or device derived from human primary or
+75 secondary embryonic stem cells or cell lines.
+76 (4) 'Life-threatening illness' means a disease or condition where the likelihood of death
+77 is high unless the course of the disease is interrupted or a disease or condition with a
+78 potentially fatal outcome, where the end point of clinical trial analysis is survival. Such
+79 term shall not include the natural process of aging.
+80 (5) 'Manufacturer' means a person or entity engaged in the manufacturing of
+81 individualized investigational treatments in an eligible facility.
+82 (6) 'Physician' means a person licensed to practice medicine pursuant to Article 2 of
+83 Chapter 34 of Title 43.
+84 (7) 'Severely debilitating illness' means a disease or condition that causes major
+85 irreversible morbidity.
+86 (8) 'Written informed consent' means a written document that:
+87 (A) Is signed by the patient; parent, if the patient is a minor; legal guardian; or
+88 healthcare agent designated by the patient in an advance directive for healthcare
+89 executed pursuant to Chapter 32 of this title;
+S. B. 72
+- 4 -
+
+25 LC 52 0746S (SCS)
+90 (B) Is attested to by the patient's physician and a witness; and
+91 (C) Meets the requirements of Code Section 31-52-22.
+92 31-52-21.
+93 In order for a person to be considered an eligible patient to access an individualized
+94 investigational treatment pursuant to this article, a physician must document in writing that
+95 the person:
+96 (1) Has a life-threatening or severely debilitating illness;
+97 (2) Has, in consultation with the physician, considered all other treatment options
+98 currently approved by the United States Food and Drug Administration;
+99 (3) Has been given a recommendation by the physician for an individualized
+100 investigational treatment based on an analysis of such patient's genomic sequence, human
+101 chromosomes, deoxyribonucleic acid, ribonucleic acid, genes, gene products such as
+102 enzymes and other types of proteins, or metabolites; and
+103 (4) Has given written informed consent for the use of the individualized investigational
+104 treatment.
+105 31-52-22.
+106 Written informed consent shall, at a minimum, include the following:
+107 (1) A description of the currently approved products and treatments for the
+108 life-threatening or severely debilitating illness from which the patient suffers;
+109 (2) An attestation that the patient concurs with his or her physician in believing that all
+110 currently approved and conventionally recognized treatments are unlikely to prolong the
+111 patient's life, and the known risks of the individualized investigational treatment are not
+112 greater than the probable outcome of the patient's illness;
+113 (3) Clear identification of the specific proposed individualized investigational treatment
+114 that the patient is seeking to use;
+S. B. 72
+- 5 -
+
+25 LC 52 0746S (SCS)
+115 (4) A description of the potential best and worst outcomes of using the individualized
+116 investigational treatment and a realistic description of the most likely outcome. The
+117 description shall include the possibility that new, unanticipated, different, or worse
+118 symptoms might result and that death could be hastened by the proposed treatment. The
+119 description shall be based on the physician's knowledge of the proposed treatment in
+120 conjunction with an awareness of the patient's condition;
+121 (5) A statement that the patient understands that his or her health benefit plan or
+122 third-party administrator is not obligated to pay for the individualized investigational
+123 treatment, or any care or treatment consequent to the use of such treatment, unless such
+124 health benefit plan or third-party administrator is specifically required to do so by law or
+125 contract;
+126 (6) A statement that the patient understands that his or her eligibility for hospice care
+127 may be withdrawn if he or she begins treatment with the individualized investigational
+128 treatment but that such hospice care may be reinstated if such treatment ends and he or
+129 she meets hospice eligibility requirements; and
+130 (7) A statement that the patient understands that he or she is liable for all expenses
+131 consequent to the use of the individualized investigational treatment and that such
+132 liability extends to the patient's estate, unless a contract between the patient and the
+133 manufacturer of the individualized investigational treatment states otherwise, except as
+134 provided for in Code Section 31-52-27.
+135 31-52-23.
+136 (a) A manufacturer or an eligible entity may make available an individualized
+137 investigational treatment to an eligible patient, and an eligible patient may request such
+138 treatment from such manufacturer or facility pursuant to this article; provided, however,
+139 that nothing in this article shall be construed to require that such manufacturer or facility
+140 make available such treatment to such patient.
+S. B. 72
+- 6 -
+
+25 LC 52 0746S (SCS)
+141 (b) A manufacturer or an eligible facility may provide an individualized investigational
+142 treatment to an eligible patient:
+143 (1) Without receiving compensation; or
+144 (2) With the requirement that the eligible patient pays the costs of or the costs associated
+145 with the manufacture of the individualized investigational treatment.
+146 31-52-24.
+147 (a) A health benefit plan or governmental agency may provide coverage for the cost of any
+148 individualized investigational treatment pursuant to this article; provided, however, that
+149 nothing in this article shall be construed to require a health benefit plan or governmental
+150 agency to provide coverage for the cost of any individualized investigational treatment or
+151 related cost of services associated with the use, care, or treatment of an eligible patient
+152 associated with such individualized investigational treatment pursuant to this article.
+153 (b) A hospital or other healthcare facility is not required to provide new or additional
+154 services associated with any individualized investigational treatment unless approved by
+155 such hospital or facility.
+156 31-52-25.
+157 (a) The Georgia Composite Medical Board shall not revoke, suspend, sanction, fail to
+158 renew, or take any other action against a physician's license solely based on such
+159 physician's recommendation, prescription, or treatment of an eligible patient with an
+160 individualized investigational treatment pursuant to this article.
+161 (b) The Department of Community Health shall not take action against a healthcare
+162 provider's Medicare certification based solely on such provider's recommendation that an
+163 eligible patient have access to an individualized investigational treatment.
+S. B. 72
+- 7 -
+
+25 LC 52 0746S (SCS)
+164 31-52-26.
+165 No official, employee, or agent of the state shall block or attempt to block an eligible
+166 patient's access to an individualized investigational treatment. Counseling, advice, or a
+167 recommendation for treatment consistent with medical standards of care shall not be
+168 construed as a violation of this Code section.
+169 31-52-27.
+170 (a) This article shall not be construed to create a private cause of action against a
+171 manufacturer, eligible facility, or any other person or entity involved in the care of an
+172 eligible patient using any individualized investigational treatment for any harm done to
+173 such patient resulting from the individualized investigational treatment if such
+174 manufacturer, facility, person, or entity complied in good faith with the terms of this article
+175 and exercised reasonable care.
+176 (b) This article shall not be construed to create a private cause of action against a physician
+177 who refuses to recommend an individualized investigational treatment for any otherwise
+178 eligible patient.
+179 (c) Any person or entity involved in the care of an eligible patient using an individualized
+180 investigational treatment shall not be liable for injury or death to such patient as a result of
+181 such treatment under Code Section 51-1-27 or Chapter 4 of Title 51, unless it is shown that
+182 the person or entity failed to obtain written informed consent in compliance with Code
+183 Section 31-52-22.
+184 (d) This article shall not be construed to affect any required healthcare coverage under
+185 Title 33 for patients in clinical trials.
+186 (e) If an eligible patient's death is proximately caused by an individualized investigational
+187 treatment, such patient's estate, heirs, or devisees are not liable for any debt remaining after
+188 payment by insurance for charges directly incurred for such treatment; provided, however,
+189 that this subsection does not provide an exemption to liability for charges for
+S. B. 72
+- 8 -
+
+25 LC 52 0746S (SCS)
+190 nonexperimental treatments provided to the patient, including nonexperimental treatments
+191 rendered to the patient due to complications or consequences of the individualized
+192 investigational treatment."
+193 SECTION 6.
+194 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 72
+- 9 -
+
+[DELETED: 5L t e a t i i t t p w h]
+[DELETED: 5L  C S 3 r t p i f s f  ' p m a p w m t r o C]
+[DELETED: 5L d w h s c P I o a f F a D  ' f m a i t i c o u t A f t P o H S u 4 U]
+[DELETED: 5L  ' p m a p w m t r o C  ' m a p o e e i t m o  ' d i m a d o c t c m a d b t p i a a d f h]
+[DELETED: 5L  H i c w t p c a o t o  H b g a r b t p f a i  A d o t c a p a t f t]
+[DELETED: 5L s i t p t n u d o w  A s t t p u t h o h h b p o t t u o t i i t a t s  A m o a e e m m a a i]
+[DELETED: 5L o t a o a a a p l s b o s r p o t o a e p w a]
+[DELETED: 5L  T a s n b c t c a p c o a a  p r f t i i t i s t s d n p a e t l f c f]
+[DELETED: 5L t t p d t c o c o t i]

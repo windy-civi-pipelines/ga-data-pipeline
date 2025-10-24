@@ -1,0 +1,1004 @@
+Title: The Senate Committee on State and Local Governmental Operations - General offered the
+Official Title: The Senate Committee on State and Local Governmental Operations - General offered the
+Number of Sections: 1
+Source: versions - Sen Ctee Sub LC 47 3595S
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+25 LC 47 3595S
+following substitute to HB 155:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 7 of Chapter 36 of Title 36 of the Official Code of Georgia Annotated,
+2 relating to procedure for resolving annexation disputes, so as to revise procedures for the
+3 selection and objection to arbitrators; to revise how arbitration panels report their findings
+4 and recommendations; to revise provisions relating to compensation of arbitrators; to amend
+5 Article 2 of Chapter 6 of Title 5 of the Official Code of Georgia Annotated, relating to
+6 appellate practice, and Chapter 66 of Title 36 of the Official Code of Georgia Annotated,
+7 relating to zoning procedures as pertaining to counties and municipal corporations, so as to
+8 provide for the appeal of superior court decisions on zoning decisions of counties and
+9 municipal corporations; to repeal provisions authorizing administrative officers to exercise
+10 zoning powers; to repeal provisions authorizing quasi-judicial boards and agencies to hear
+11 and render decisions on applications for special administrative permits and conditional
+12 permits; to revise definitions; to provide for related matters; to provide for effective dates and
+13 applicability; to repeal conflicting laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+- 1 -
+25 LC 47 3595S
+15 PART I
+16 SECTION 1-1.
+17 Article 7 of Chapter 36 of Title 36 of the Official Code of Georgia Annotated, relating to
+18 procedure for resolving annexation disputes, is amended by revising Code Section
+19 36-36-114, relating to arbitration panel, composition and membership, assistance in
+20 formulating record, and regulation, as follows:
+21 "36-36-114.
+22 (a) Not later than the fifteenth calendar twentieth business day following the date that the
+23 department received the first receives an objection of a proposed annexation as provided
+24 for in Code Section 36-36-113, an arbitration a panel of five arbitrators shall be appointed
+25 by the department using the selection process detailed as provided in subsection (c) of this
+26 Code section.
+27 (b)(1) The arbitration panel shall be composed of five members to be selected as
+28 provided in this subsection. The department shall develop and maintain three pools of
+29 potential arbitrators, comprised as follows:
+30 (A) One one pool which consists of persons who are currently or within the previous
+31 six years have been municipal elected officials, managers, or administrators;
+32 (B) One one pool which consists of persons who are currently or within the previous
+33 six years have been county elected officials, managers, or administrators; and
+34 (C) One one pool which consists of persons with a master's degree or higher in public
+35 administration or planning and who are currently employed by an institution of higher
+36 learning in this state, other than the Carl Vinson Institute of Government of the
+37 University of Georgia.
+38 (2) Each The pool shall be sufficiently large to ensure as nearly as practicable that no
+39 person shall be required to serve on more than four panels in any one calendar year and
+40 serve on no more than one panel in any given county in any one calendar year.
+- 2 -
+25 LC 47 3595S
+41 (3) The department is authorized to coordinate with the Georgia Municipal Association,
+42 the Association County Commissioners of Georgia, the Council of Local Governments,
+43 and similar organizations in developing and maintaining such pools.
+44 (c)(1) Within 15 business days of the date that the department first receives an objection
+45 of a proposed annexation as provided for in Code Section 36-36-113, Upon receiving
+46 notice of a disputed annexation, the department shall choose at random four names
+47 submit to the county and municipal corporations a list of 11 potential arbitrators
+48 consisting of four potential arbitrators randomly selected by the department from the pool
+49 of municipal officials, four names potential arbitrators randomly selected by the
+50 department from the pool of county officials, and three names potential arbitrators
+51 randomly selected by the department from the pool of academics; provided, however, that
+52 the department shall ensure that none of such selections shall include a person who:
+53 (A) Is is a resident of the county which has interposed the objection or any municipal
+54 corporation located wholly or partially in such county,;
+55 (B) Actively seeks employment in the county which has interposed the objection or
+56 any municipal corporation located wholly or partially in such county;
+57 (C) Is or has been employed within the preceding six years by the county which has
+58 interposed the objection or any municipal corporation located wholly or partially in
+59 such county; or
+60 (D) Has and further provided that none of such selections shall include a person who
+61 has already served on four other arbitration panels in the then-current calendar year.
+62 (2) Until noon on the twentieth business day following the date that the department
+63 receives the notice of disputed annexation:
+64 (A) The municipal corporation shall be permitted to strike or excuse up to two of the
+65 names chosen four arbitrators that were randomly selected by the department from the
+66 county officials pool by submitting written notice of any such strikes to the department;
+- 3 -
+25 LC 47 3595S
+67 (B) The the county shall be permitted to strike or excuse up to two of the names chosen
+68 four arbitrators that were randomly selected by the department from the municipal
+69 officials pool by submitting written notice of any such strikes to the department; and
+70 (C) The the county and municipal corporation corporations shall each be permitted to
+71 strike or excuse one of the names chosen three arbitrators that were randomly selected
+72 by the department from the academic pool by submitting written notice of any such
+73 strikes to the department.
+74 (3) At the close of the period for permitted strikes as allowed in paragraph (2) of this
+75 subsection, the department shall finalize the arbitration panel for the given annexation
+76 dispute by appointing:
+77 (A) Two arbitrators from the county officials subset identified in subparagraph (A) of
+78 paragraph (2) of this subsection who were not stricken;
+79 (B) Two arbitrators from the municipal officials subset identified in subparagraph (B)
+80 of paragraph (2) of this subsection who were not stricken; and
+81 (C) One arbitrator from the academic subset identified in subparagraph (C) of
+82 paragraph (2) of this subsection who was not stricken.
+83 (4) In the event that more than the required number of arbitrators remains within any
+84 given subset, the department shall randomly appoint the number of arbitrators needed for
+85 such subset from among those arbitrators remaining within such subset.
+86 (5) In the event that an arbitrator refuses or becomes unable to serve on a given panel to
+87 which he or she has been appointed pursuant to paragraph (3) of this subsection, the
+88 department shall randomly appoint a new arbitrator to such panel by randomly selecting
+89 an eligible arbitrator from the specific pool of arbitrators from which the original
+90 arbitrator was randomly selected under paragraph (1) of this subsection; provided,
+91 however, that such new arbitrator shall not have been previously stricken by the county
+92 or municipality.
+- 4 -
+25 LC 47 3595S
+93 (d) Prior to being eligible to serve on any of the three pools, persons interested in serving
+94 on such panels shall receive joint training in alternative dispute resolution together with
+95 zoning and land use training, which may be designed and overseen by the Carl Vinson
+96 Institute of Government of the University of Georgia in conjunction with the Association
+97 County Commissioners of Georgia and the Georgia Municipal Association, provided such
+98 training is available. Provided that the General Assembly appropriates sufficient funds in
+99 an applicable fiscal year, the Carl Vinson Institute of Government of the University of
+100 Georgia shall provide at least one training program per year to train new potential panel
+101 members.
+102 (e) At the time any person is selected to serve on a panel for any particular annexation
+103 dispute, he or she shall sign the following oath: 'I do solemnly swear or affirm that I will
+104 faithfully perform my duties as an arbitrator in a fair and impartial manner without favor
+105 or affection to any party, and that I have not and will not have any ex parte communication
+106 regarding the facts and circumstances of the matters to be determined, other than
+107 communications with my fellow arbitrators, and will only consider, in making my
+108 determination, those matters which may lawfully come before me.'
+109 (f) The department shall develop and maintain a list of court reporters and hearing officers
+110 that may be employed by the department at the request of an arbitration panel to assist the
+111 panel in formulating the record before the panel. An arbitration panel may by majority
+112 vote of its members elect to employ court reporters and hearing officers from such list.
+113 Any costs or charges related to the employment of court reporters and hearing officers
+114 pursuant to this subsection shall be evenly divided between the city and the county.
+115 (g) The department shall promulgate rules and regulations to provide for uniform
+116 procedures and operations of arbitration panels established pursuant to this article.
+117 Notwithstanding any provision of Chapter 13 of Title 50, the 'Georgia Administrative
+118 Procedure Act,' to the contrary, such proposed rules and regulations shall be submitted to
+- 5 -
+25 LC 47 3595S
+119 the chairperson of the House Governmental Affairs Committee and the Senate Committee
+120 on State and Local Government Operations."
+121 SECTION 1-2.
+122 Said article is further amended by revising Code Section 36-36-115, relating to meetings of
+123 arbitration panel, duties, findings and recommendations, and compensation, as follows:
+124 "36-36-115.
+125 (a)(1)(A) The arbitration panel appointed pursuant to Code Section 36-36-114 shall
+126 meet as soon after appointment as practicable and shall receive evidence and argument
+127 from the municipal corporation, the county, and the applicant or property owner and
+128 shall by majority vote render a decision which shall be binding on all parties to the
+129 dispute as provided for in this article not later than 60 days following such appointment,
+130 provided that the chairperson of the arbitration panel shall be authorized to extend such
+131 deadline one time for a period of up to ten business days.; provided, however, that
+132 Notwithstanding anything in this subparagraph to the contrary, the municipal
+133 corporation and county may by mutual agreement, postpone the arbitration procession
+134 for a period of up to 180 days to negotiate a potential settlement, and such
+135 postponement shall stay the 60 day deadline provided herein.
+136 (B) Meetings of the panel may occur in person, virtually, or via teleconference. The
+137 meetings of the panel in which evidence is submitted or arguments of the parties are
+138 made, whether such meeting is in person, virtual, or via teleconference, shall be open
+139 to the public pursuant to Chapter 14 of Title 50.
+140 (C) The panel shall first determine the validity of the grounds for objection as specified
+141 in the objection. If an objection involves the financial impact on the county as a result
+142 of a change in zoning or land use or the provision of maintenance of infrastructure, the
+143 panel shall quantify such impact in terms of cost. As to any objection which the panel
+144 has determined to be valid, the panel, in its findings, may establish reasonable zoning,
+- 6 -
+25 LC 47 3595S
+145 land use, or density conditions applicable to the annexation and propose any reasonable
+146 mitigating measures as to an objection pertaining to infrastructure demands.
+147 (2) In arriving at its determination, the panel shall consider:
+148 (A) The existing comprehensive land use plans of both the county and city;
+149 (B) The existing land use patterns in the area of the subject property;
+150 (C) The existing zoning patterns in the area of the subject property;
+151 (D) Each jurisdiction's provision of infrastructure to the area of the subject property
+152 and to the areas in the vicinity of the subject property;
+153 (E) Whether the county has approved similar changes in intensity or allowable uses on
+154 similar developments in other unincorporated areas of the county;
+155 (F) Whether the county has approved similar developments in other unincorporated
+156 areas of the county which have a similar impact on infrastructure as complained of by
+157 the county in its objection; and
+158 (G) Whether the infrastructure or capital outlay project which is claimed adversely
+159 impacted by the county in its objection was funded by a county-wide tax.
+160 (3) The county shall provide supporting evidence that its objection is consistent with its
+161 land use plan and the pattern of existing land uses and zonings in the area of the subject
+162 property, which may include, but not be limited to, adopted planning documents and
+163 capital or infrastructure plans.
+164 (4) The cost of the arbitration shall be equally divided between the city and the county;
+165 provided, however, that if the panel determines that any party has advanced a position
+166 that is not valid, the costs shall be borne by the party or parties that have advanced such
+167 position.
+168 (5) The reasonable costs of participation in the arbitration process of the property owner
+169 or owners whose property is at issue shall be borne by the county and the city in the same
+170 proportion as costs are apportioned under paragraph (4) of this subsection.
+- 7 -
+25 LC 47 3595S
+171 (6) The panel shall deliver its written findings and recommendations to the parties and
+172 the department by verifiable delivery. The written findings and recommendations shall
+173 include a signed statement for each panel member as to whether or not he or she voted
+174 in support of or against such findings and recommendations. The department shall
+175 maintain a data base and record of arbitration panel results and at least annually publish
+176 a report on such decisions and make such report freely available on the department's
+177 website.
+178 (b) If the decision of the panel contains zoning, land use, or density conditions, the
+179 findings and recommendations of the panel shall be recorded in the deed records of the
+180 county with a caption describing the name of the current owner of the property, recording
+181 reference of the current owner's acquisition deed and a general description of the property,
+182 and plainly showing the expiration date of any restrictions or conditions.
+183 (c) The arbitration panel shall be dissolved on the tenth day after it renders its findings and
+184 recommendations but may be reconvened as provided in Code Section 36-36-116.
+185 (d) Notwithstanding the provisions of subsection (b) of Code Section 45-7-21, the
+186 members of the arbitration panel shall receive the same per diem, expenses, and allowances
+187 for their service on the panel as authorized by law for members of the General Assembly
+188 plus $100.00 in total for all days of service for serving on an arbitration panel.
+189 (e) If the panel so agrees, any one or more additional annexation disputes which may arise
+190 between the parties prior to the panel's initial meeting may be consolidated for the purpose
+191 of judicial economy if there are similar issues of location or similar objections raised to
+192 such other annexations or the property to be annexed in such other annexations is
+193 within 2,500 feet of the subject property."
+- 8 -
+25 LC 47 3595S
+194 PART II
+195 SECTION 2-1.
+196 Article 2 of Chapter 6 of Title 5 of the Official Code of Georgia Annotated, relating to
+197 appellate practice, is amended by revising subsection (a) of Code Section 5-6-34, relating to
+198 judgments and rulings deemed directly appealable, procedure for review of judgments,
+199 orders, or decisions not subject to direct appeal, scope of review, hearings in criminal cases
+200 involving a capital offense for which death penalty is sought, and appeals involving
+201 nonmonetary judgments in child custody cases, as follows:
+202 "(a) Appeals may be taken to the Supreme Court and the Court of Appeals from the
+203 following judgments and rulings of the superior courts, the Georgia State-wide Business
+204 Court, the constitutional city courts, and such other courts or tribunals from which appeals
+205 are authorized by the Constitution and laws of this state:
+206 (1) All final judgments, that is to say, where the case is no longer pending in the court
+207 below, except as provided in Code Section 5-6-35;
+208 (2) All judgments involving applications for discharge in bail trover and contempt cases;
+209 (3) All judgments or orders directing that an accounting be had;
+210 (4) All judgments or orders granting or refusing applications for receivers or for
+211 interlocutory or final injunctions;
+212 (5) All judgments or orders granting or refusing applications for attachment against
+213 fraudulent debtors;
+214 (6) Any ruling on a motion which would be dispositive if granted with respect to a
+215 defense that the action is barred by Code Section 16-11-173;
+216 (7) All judgments or orders granting or refusing to grant mandamus or any other
+217 extraordinary remedy, except with respect to temporary restraining orders;
+218 (8) All judgments or orders refusing applications for dissolution of corporations created
+219 by the superior courts;
+- 9 -
+25 LC 47 3595S
+220 (9) All judgments or orders sustaining motions to dismiss a caveat to the probate of a
+221 will;
+222 (10) All judgments or orders entered pursuant to subsection (c) of Code
+223 Section 17-10-6.2;
+224 (11) All judgments or orders in child custody cases awarding, refusing to change, or
+225 modifying child custody or holding or declining to hold persons in contempt of such child
+226 custody judgment or orders;
+227 (12) All judgments or orders entered pursuant to Code Section 35-3-37; and
+228 (13) All judgments or orders entered pursuant to Code Section 9-11-11.1; and
+229 (14) All final judgments or orders reviewing a zoning decision, as such term is defined
+230 in paragraph (4) of Code Section 36-66-3."
+231 SECTION 2-2.
+232 Said article is further amended by revising subsection (a) of Code Section 5-6-35, relating
+233 to cases requiring application for appeal, requirements for application, exhibits, response,
+234 issuance of appellate court order regarding appeal, procedure, supersedeas, jurisdiction of
+235 appeal, and appeals involving nonmonetary judgments in custody cases, as follows:
+236 "(a) Appeals in the following cases shall be taken as provided in this Code section:
+237 (1) Appeals from decisions of the superior courts reviewing decisions of the State Board
+238 of Workers' Compensation, the State Board of Education, auditors, state and local
+239 administrative agencies, and lower courts, and quasi-judicial decisions of boards or
+240 agencies of local governments, including those defined in paragraphs (1.1) and (1.2) of
+241 Code Section 36-66-3 by petition for review; provided, however, that this provision shall
+242 not apply to decisions of the Public Service Commission and probate courts and to cases
+243 involving ad valorem taxes and condemnations;
+244 (2) Appeals from judgments or orders in divorce, alimony, and other domestic relations
+245 cases including, but not limited to, granting or refusing a divorce or temporary or
+- 10 -
+25 LC 47 3595S
+246 permanent alimony or holding or declining to hold persons in contempt of such alimony
+247 judgment or orders;
+248 (3) Appeals from cases involving distress or dispossessory warrants in which the only
+249 issue to be resolved is the amount of rent due and such amount is $2,500.00 or less;
+250 (4) Appeals from cases involving garnishment or attachment, except as provided in
+251 paragraph (5) of subsection (a) of Code Section 5-6-34;
+252 (5) Appeals from orders revoking probation;
+253 (5.1) Appeals from decisions of superior courts reviewing decisions of the Sexual
+254 Offender Risk Review Board;
+255 (5.2) Appeals from decisions of superior courts granting or denying petitions for release
+256 pursuant to Code Section 42-1-19;
+257 (6) Appeals in all actions for damages in which the judgment is $10,000.00 or less;
+258 (7) Appeals, when separate from an original appeal, from the denial of an extraordinary
+259 motion for new trial;
+260 (8) Appeals from orders under subsection (d) of Code Section 9-11-60 denying a motion
+261 to set aside a judgment or under subsection (e) of Code Section 9-11-60 denying relief
+262 upon a complaint in equity to set aside a judgment;
+263 (9) Appeals from orders granting or denying temporary restraining orders;
+264 (10) Appeals from awards of attorney's fees or expenses of litigation under Code
+265 Section 9-15-14;
+266 (11) Appeals from decisions of the state courts reviewing decisions of the magistrate
+267 courts by de novo proceedings so long as the subject matter is not otherwise subject to
+268 a right of direct appeal;
+269 (12) Appeals from orders terminating parental rights; and
+270 (13) Appeals from orders under subsection (a) of Code Section 44-14-610 granting or
+271 denying an objection to the filing of a lis pendens or granting or denying a motion
+272 canceling a lis pendens."
+- 11 -
+25 LC 47 3595S
+273 SECTION 2-3.
+274 Chapter 66 of Title 36 of the Official Code of Georgia Annotated, relating to zoning
+275 procedures as pertaining to counties and municipal corporations, is amended by revising
+276 paragraph (1) of subsection (b) of Code Section 36-66-2, relating to legislative purpose and
+277 local government zoning powers, and by adding a new paragraph to read as follows:
+278 "(1) Provide by ordinance or resolution for such administrative officers, boards, or
+279 agencies as may be expedient for the efficient exercise of delegated, quasi-judicial zoning
+280 powers and to establish procedures and notice requirements for hearings before such
+281 quasi-judicial officers, boards, or agencies that are consistent with the minimum
+282 procedures provided for in this chapter to assure due process is afforded the general
+283 public; and"
+284 SECTION 2-4.
+285 Said chapter is further amended by revising paragraphs (1.1) and (4) of Code
+286 Section 36-66-3, relating to definitions, and by adding a new paragraph to read as follows:
+287 "(1.1) 'Quasi-judicial officers, boards, or agencies' means an officer, board, or agency
+288 appointed by a local government to exercise delegated, quasi-judicial zoning powers
+289 including hearing appeals of administrative decisions by such officers, boards, or
+290 agencies and hearing and rendering decisions on applications for variances, special
+291 administrative permits, special exceptions, conditional use permits, or other similar
+292 permits not enumerated herein as a zoning decision, pursuant to standards for the exercise
+293 of such quasi-judicial authority adopted by a local government any board or agency
+294 designated by ordinance to make quasi-judicial decisions.
+295 (1.2) 'Quasi-judicial decision' means a final quasi-judicial action that is the exercise of
+296 quasi-judicial land use powers, including hearing appeals of administrative decisions and
+297 hearing and rendering decisions on applications for variances, administrative permits, or
+298 other similar permits not enumerated herein as a zoning decision, pursuant to standards
+- 12 -
+25 LC 47 3595S
+299 for the exercise of such quasi-judicial authority adopted by a local government. Such
+300 term does not include permits issued or decisions made by administrative staff pursuant
+301 to the authority designated by ordinance which contains an express right to appeal to a
+302 local government board or authority which is subject to these provisions applicable to
+303 quasi-judicial decisions."
+304 "(4) 'Zoning decision' means final legislative action by a local government which results
+305 in:
+306 (A) The adoption or repeal of a zoning ordinance;
+307 (B) The adoption of an amendment to a zoning ordinance which changes the text of the
+308 zoning ordinance;
+309 (C) The adoption or denial of an amendment to a zoning ordinance to rezone property
+310 from one zoning classification to another;
+311 (D) The adoption or denial of an amendment to a zoning ordinance by a municipal
+312 local government to zone property to be annexed into the municipality;
+313 (E) The grant or denial of a permit relating to an application for a special use of
+314 property; or
+315 (F) The grant or denial of an application for a variance or the imposition or
+316 modification of conditions concurrent and in conjunction with a decision pursuant to
+317 subparagraph (C) or (E) of this paragraph, or a subsequent modification to such a
+318 variance or condition."
+319 SECTION 2-5.
+320 Said chapter is further amended by revising subsections (b), (c), (g), and (h) of Code
+321 Section 36-66-4, relating to adoption of hearing policies and procedures and standards for
+322 exercise of zoning power, as follows:
+323 "(b) If a zoning decision of a local government is for the rezoning of property and the
+324 rezoning is initiated by a party other than the local government, then:
+- 13 -
+25 LC 47 3595S
+325 (1) The notice, in addition to the requirements of subsection (a) of this Code section,
+326 shall include the location of the property, the present zoning classification of the property,
+327 and the proposed zoning classification of the property; and
+328 (2) A sign containing information required by local ordinance or resolution shall be
+329 placed in a conspicuous location on the property not less than 15 days nor more than 45
+330 days prior to the date of the hearing.
+331 (c) If the zoning decision of a local government is for the rezoning of property and the
+332 amendment to the zoning ordinance to accomplish the rezoning is defeated denied by the
+333 local government, then the same property may not again be considered for rezoning until
+334 the expiration of at least six months immediately following the defeat denial of the
+335 rezoning by the local government or the conclusion of related judicial proceedings."
+336 "(g) A local government delegating decision-making power to a quasi-judicial officer,
+337 board, or agency shall provide for a hearing on each proposed action described in
+338 paragraph (1.1) (1.2) of Code Section 36-66-3. Notice of such hearing shall be provided
+339 at least 30 15 but not more than 45 days prior to the quasi-judicial hearing, with such notice
+340 being made as provided for in subsection (a) of this Code section and with additional notice
+341 being mailed to the owner of the property that is the subject of the proposed action.
+342 (h)(1) Notwithstanding any other provisions of this chapter to the contrary, when a
+343 proposed zoning decision relates to an amendment of the zoning ordinance to revise one
+344 or more zoning classifications or definitions relating to single-family residential uses of
+345 property so as to authorize multifamily uses of property pursuant to such classification
+346 or definitions, or to grant blanket permission, under certain or all circumstances, for
+347 property owners to deviate from the existing zoning requirements of a single-family
+348 residential zoning, such zoning decision shall be adopted in the following manner:
+349 (A) The zoning decision shall be adopted at two regular meetings of the local
+350 government making the zoning decision, during a period of not less than 21 at least 15
+351 but not more than 45 days apart; and
+- 14 -
+25 LC 47 3595S
+352 (B) Prior to the first meeting provided for in subparagraph (A) of this paragraph, at
+353 least two public hearings shall be held on the proposed action. Such public hearings
+354 shall be held at least three months and not more than nine months prior to the date of
+355 final action on the zoning decision. Furthermore, at least one of the public hearings
+356 shall be held between the hours of 5:00 P.M. and 8:00 P.M. The hearings required by
+357 this paragraph shall be in addition to any hearing required under subsection (a) of this
+358 Code section. The local government shall give notice of such hearing by:
+359 (i) Posting notice on each affected premises in the manner prescribed by
+360 subsection (b) of this Code section; provided, however, that when more than 500
+361 parcels are affected, in which case posting notice is required every 500 feet in the
+362 affected area; and
+363 (ii) Publishing in a newspaper of general circulation within the territorial boundaries
+364 of the local government a notice of each hearing at least 15 days and not more than 45
+365 days prior to the date of the hearing.
+366 Both the posted notice and the published notice shall include a prominent statement that
+367 the proposed zoning decision relates to or will authorize multifamily uses or give blanket
+368 permission to the property owner to deviate from the zoning requirements of a
+369 single-family residential zoning of property in classification previously relating to
+370 single-family residential uses. The published notice shall be at least nine column inches
+371 in size and shall not be located in the classified advertising section of the newspaper. The
+372 notice shall state that a copy of the proposed amendment is on file in the office of the
+373 clerk or the recording officer of the local government and in the office of the clerk of the
+374 superior court of the county of the legal situs of the local government for the purpose of
+375 examination and inspection by the public. The local government shall furnish anyone,
+376 upon written request, a copy of the proposed amendment, at no cost.
+377 (2) The provisions of paragraph (1) of this subsection shall also apply to any zoning
+378 decisions that provide for the abolition of all single-family residential zoning
+- 15 -
+25 LC 47 3595S
+379 classifications within the territorial boundaries of a local government or zoning decisions
+380 that result in the rezoning of all property zoned for single-family residential uses within
+381 the territorial boundaries of a local government to multifamily residential uses of
+382 property.
+383 (3) This subsection shall not apply to zoning decisions for the rezoning of property from
+384 a single-family residential use of property to a multifamily residential use of property
+385 when the rezoning is initiated by the owner or authorized agent of the owner of such
+386 property or when the local government adopts a zoning ordinance or zoning map
+387 applicable to the entire land area under the governance of the local government, as
+388 opposed to a subset of parcels of land under the governance of the local government."
+389 SECTION 2-6.
+390 Said chapter is further amended by revising subsections (b.1) and (c) of Code
+391 Section 36-66-5, relating to adoption of hearing policies and procedures and standards for
+392 exercise of zoning power, as follows:
+393 "(b.1) In addition to policies and procedures required by subsection (a) of this Code
+394 section, each local government providing for a quasi-judicial officer's, board's, board's or
+395 agency's grant, denial, or review of a quasi-judicial matter may shall adopt specific
+396 standards and criteria governing the exercise of such quasi-judicial decision-making
+397 authority, and such standards shall include the factors by which the local government
+398 directs the evaluation of a quasi-judicial matter. Such standards shall be printed and copies
+399 thereof made available for distribution to the general public.
+400 (c) The policies and procedures required by subsection (a) of this Code section and the
+401 adoption of standards required by subsection subsections (b) and permitted by subsection
+402 (b.1) of this Code section shall be included in and adopted as part of the zoning ordinance.
+403 Prior to the adoption of any zoning ordinance enacted on or after July 1, 2022, a local
+404 government shall conduct a public hearing on a proposed action which may be advertised
+- 16 -
+25 LC 47 3595S
+405 and held concurrent with the hearing required by subsection (a) of Code Section 36-66-4
+406 for the adoption of a zoning ordinance. The provisions of subsection (a) of Code Section
+407 36-66-4 relating to notices of public hearings for the purposes of that subsection shall also
+408 apply to public hearings required by this subsection."
+409 SECTION 2-7.
+410 Said chapter is further amended by revising paragraph (2) of subsection (a) of Code
+411 Section 36-66-5.1, relating to judicial review and procedures, as follows:
+412 "(2) Quasi-judicial decisions as described in this chapter and zoning decisions under
+413 subparagraph (E) of paragraph (4) of Code Section 36-66-3 shall be subject to appellate
+414 review by the superior court pursuant to its appellate jurisdiction from a lower judicatory
+415 body and shall be brought by way of a petition for such review as provided for in Title 5.
+416 Such matters shall be reviewed on the record which shall be brought to the superior court
+417 as provided in Title 5."
+418 PART III
+419 SECTION 3-1.
+420 (a) Part I of this Act shall become effective on January 1, 2026.
+421 (b) Part II of this Act shall become effective on July 1, 2025, and shall apply to all zoning
+422 and quasi-judicial decisions occurring on and after such date; provided, however, that no
+423 zoning or quasi-judicial decision occurring prior to December 31, 2026, shall be rendered
+424 invalid or void if a local government fails to implement the provisions set out in Code
+425 Section 36-66-5.1.
+426 (c) Part III of this Act shall become effective on July 1, 2025.
+- 17 -
+25 LC 47 3595S
+427 SECTION 3-2.
+428 All laws and parts of laws in conflict with this Act are repealed.
+- 18 -
+[DELETED: 5LTrsaAarpm0z1a2p3a4B]
+[DELETED: 5L5P6S7A8p f r a d i a b r C S93 r t a p c a m a i0f132(3d4f5b6C7(  T a p s b c o f m t b s a8p9p0(1s2(3s4(5a6l i t s o t t C V I o G o t7U8(9p0s]
+[DELETED: 5L1(2t3a4(5o6n7s t t c a m c a l o 1 p a8c9o m o f n p a r s b t0d f t p o c o a t n p a1r2t3(4c5(6a7(8i9s0(1h2(3r4(5n6c]
+[DELETED: 5L7(8f9o0(1s2b3s4(5s6d7(8p9(0o1(  O a f t a s i i s ( o2p3(4g5s6(7w8d9a e a f t s p o a f w t o0a w r s u p ( o t s p1h2o]
+[DELETED: 5L3(4o5z6I7C8t9a0G1m2(3d4f5o6r t f a c o t m t b d o t7c w m f a a w o c i m m8d9(0t1p2v3A4p5(  T d s p r a r t p f u6p a o o a p e p t t a7N8P]
+[DELETED: 5L9t0o1S2S3a435(6m7f8s9d0p1d2N a i t s t t c t m3c4f a p o u t 1 d t n a p s a s5p6(7m8m9t0(1i2o3p4h]
+[DELETED: 5L5l6m7(8(9(0(1(2a3(4s5(6a7t8(9i0(1l2p3c4(5p6t7p8(9o0p]
+[DELETED: 5L1(2t3i4i5m6a7w8(9f0c1r2a3(4r5(  N t p o s ( o C S 4 t6m7f89(0b1o2s o a o t p t b a i s o a i3w]
+[DELETED: 5L4P5S6A7a8j9o0i a c o f w d p i s a a i1n2(3f4C5a6(7b8(9(0(  A j o o g o r a f r o f1i2(3f4(5d6(  A j o o g o r t g m o a o7e8(9b]
+[DELETED: 5L0(1w2(  A j o o e p t s ( o C3S4(5m6c7(8(9(0i1S2S3t4i5a6(7(8o W C t S B o E a s a l9a0a1C2n3i4(5c i b n l t g o r a d o t o]
+[DELETED: 5L6p7j8(9i0(1p2(3(4O5(6p7(8(9m0(1t2u3(4(  A f a o a f o e o l u C5S6(7c8a9(0(1d2c]
+[DELETED: 5L3S4C 6 o T 3 o t O C o G A r t z5p6p7l8(9a0p1q o b o a t a c w t m2p3p4S5S c i f a b r p ( a ( o C6S7(8a9i h a o a d b s o b o0a1a p s e c u p o o s2p3o4d5(6q7h8o]
+[DELETED: 5L9f0t1t2l3q4(5i6(7(8z9(0f1(2l3(4p5(  T g o d o a a f a v o t i o6m7s8v9S0S c i f a b r s ( ( ( a ( o C1S2e3(4r]
+[DELETED: 5L5(6s7a8(9p0d1(2a3l4t e o a l s m i f t d d o t5r6(7b o a s p f a h o e p a d i8p9a0b1b2(3p4o5p6o7p8r9(  T z d s b a a t r m o t l0g1b]
+[DELETED: 5L2(3l4s5f6s7t8C9(  P n o e a p i t m p b0s1p2a3(4o5d6B8p t t p o t d f t z r o 9s r z o p i c p r t0s1i2n3c4s5e6u7(8d t p f t a o a s r z]
+[DELETED: 5L9c0t1t t b o a l g t m r u o2p3(4a5w6p o w t l g a a z o o z m7a8o9S0S c i f a b r s ( a ( o C1S2e3(4s5a g d o r o a q m m s a s6s a c g t e o s q d7a8d9t0(1a2(3P4g]
+[DELETED: 5L5a6f738a9S0S c i f a b r p ( o s ( o C1S2(3s4r5b6S7a8P9S0(1(2a3z4i5S6(]
+[DELETED: 5L7S8A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 47 3595S
+The Senate Committee on State and Local Governmental Operations - General offered the
+following substitute to HB 155:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 7 of Chapter 36 of Title 36 of the Official Code of Georgia Annotated,
+2 relating to procedure for resolving annexation disputes, so as to revise procedures for the
+3 selection and objection to arbitrators; to revise how arbitration panels report their findings
+4 and recommendations; to revise provisions relating to compensation of arbitrators; to amend
+5 Article 2 of Chapter 6 of Title 5 of the Official Code of Georgia Annotated, relating to
+6 appellate practice, and Chapter 66 of Title 36 of the Official Code of Georgia Annotated,
+7 relating to zoning procedures as pertaining to counties and municipal corporations, so as to
+8 provide for the appeal of superior court decisions on zoning decisions of counties and
+9 municipal corporations; to repeal provisions authorizing administrative officers to exercise
+10 zoning powers; to repeal provisions authorizing quasi-judicial boards and agencies to hear
+11 and render decisions on applications for special administrative permits and conditional
+12 permits; to revise definitions; to provide for related matters; to provide for effective dates and
+13 applicability; to repeal conflicting laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+- 1 -
+
+25 LC 47 3595S
+15 PART I
+16 SECTION 1-1.
+17 Article 7 of Chapter 36 of Title 36 of the Official Code of Georgia Annotated, relating to
+18 procedure for resolving annexation disputes, is amended by revising Code Section
+19 36-36-114, relating to arbitration panel, composition and membership, assistance in
+20 formulating record, and regulation, as follows:
+21 "36-36-114.
+22 (a) Not later than the fifteenth calendar twentieth business day following the date that the
+23 department received the first receives an objection of a proposed annexation as provided
+24 for in Code Section 36-36-113, an arbitration a panel of five arbitrators shall be appointed
+25 by the department using the selection process detailed as provided in subsection (c) of this
+26 Code section.
+27 (b)(1) The arbitration panel shall be composed of five members to be selected as
+28 provided in this subsection. The department shall develop and maintain three pools of
+29 potential arbitrators, comprised as follows:
+30 (A) One one pool which consists of persons who are currently or within the previous
+31 six years have been municipal elected officials, managers, or administrators;
+32 (B) One one pool which consists of persons who are currently or within the previous
+33 six years have been county elected officials, managers, or administrators; and
+34 (C) One one pool which consists of persons with a master's degree or higher in public
+35 administration or planning and who are currently employed by an institution of higher
+36 learning in this state, other than the Carl Vinson Institute of Government of the
+37 University of Georgia.
+38 (2) Each The pool shall be sufficiently large to ensure as nearly as practicable that no
+39 person shall be required to serve on more than four panels in any one calendar year and
+40 serve on no more than one panel in any given county in any one calendar year.
+- 2 -
+
+25 LC 47 3595S
+41 (3) The department is authorized to coordinate with the Georgia Municipal Association,
+42 the Association County Commissioners of Georgia, the Council of Local Governments,
+43 and similar organizations in developing and maintaining such pools.
+44 (c)(1) Within 15 business days of the date that the department first receives an objection
+45 of a proposed annexation as provided for in Code Section 36-36-113, Upon receiving
+46 notice of a disputed annexation, the department shall choose at random four names
+47 submit to the county and municipal corporations a list of 11 potential arbitrators
+48 consisting of four potential arbitrators randomly selected by the department from the pool
+49 of municipal officials, four names potential arbitrators randomly selected by the
+50 department from the pool of county officials, and three names potential arbitrators
+51 randomly selected by the department from the pool of academics; provided, however, that
+52 the department shall ensure that none of such selections shall include a person who:
+53 (A) Is is a resident of the county which has interposed the objection or any municipal
+54 corporation located wholly or partially in such county,;
+55 (B) Actively seeks employment in the county which has interposed the objection or
+56 any municipal corporation located wholly or partially in such county;
+57 (C) Is or has been employed within the preceding six years by the county which has
+58 interposed the objection or any municipal corporation located wholly or partially in
+59 such county; or
+60 (D) Has and further provided that none of such selections shall include a person who
+61 has already served on four other arbitration panels in the then-current calendar year.
+62 (2) Until noon on the twentieth business day following the date that the department
+63 receives the notice of disputed annexation:
+64 (A) The municipal corporation shall be permitted to strike or excuse up to two of the
+65 names chosen four arbitrators that were randomly selected by the department from the
+66 county officials pool by submitting written notice of any such strikes to the department;
+- 3 -
+
+25 LC 47 3595S
+67 (B) The the county shall be permitted to strike or excuse up to two of the names chosen
+68 four arbitrators that were randomly selected by the department from the municipal
+69 officials pool by submitting written notice of any such strikes to the department; and
+70 (C) The the county and municipal corporation corporations shall each be permitted to
+71 strike or excuse one of the names chosen three arbitrators that were randomly selected
+72 by the department from the academic pool by submitting written notice of any such
+73 strikes to the department.
+74 (3) At the close of the period for permitted strikes as allowed in paragraph (2) of this
+75 subsection, the department shall finalize the arbitration panel for the given annexation
+76 dispute by appointing:
+77 (A) Two arbitrators from the county officials subset identified in subparagraph (A) of
+78 paragraph (2) of this subsection who were not stricken;
+79 (B) Two arbitrators from the municipal officials subset identified in subparagraph (B)
+80 of paragraph (2) of this subsection who were not stricken; and
+81 (C) One arbitrator from the academic subset identified in subparagraph (C) of
+82 paragraph (2) of this subsection who was not stricken.
+83 (4) In the event that more than the required number of arbitrators remains within any
+84 given subset, the department shall randomly appoint the number of arbitrators needed for
+85 such subset from among those arbitrators remaining within such subset.
+86 (5) In the event that an arbitrator refuses or becomes unable to serve on a given panel to
+87 which he or she has been appointed pursuant to paragraph (3) of this subsection, the
+88 department shall randomly appoint a new arbitrator to such panel by randomly selecting
+89 an eligible arbitrator from the specific pool of arbitrators from which the original
+90 arbitrator was randomly selected under paragraph (1) of this subsection; provided,
+91 however, that such new arbitrator shall not have been previously stricken by the county
+92 or municipality.
+- 4 -
+
+25 LC 47 3595S
+93 (d) Prior to being eligible to serve on any of the three pools, persons interested in serving
+94 on such panels shall receive joint training in alternative dispute resolution together with
+95 zoning and land use training, which may be designed and overseen by the Carl Vinson
+96 Institute of Government of the University of Georgia in conjunction with the Association
+97 County Commissioners of Georgia and the Georgia Municipal Association, provided such
+98 training is available. Provided that the General Assembly appropriates sufficient funds in
+99 an applicable fiscal year, the Carl Vinson Institute of Government of the University of
+100 Georgia shall provide at least one training program per year to train new potential panel
+101 members.
+102 (e) At the time any person is selected to serve on a panel for any particular annexation
+103 dispute, he or she shall sign the following oath: 'I do solemnly swear or affirm that I will
+104 faithfully perform my duties as an arbitrator in a fair and impartial manner without favor
+105 or affection to any party, and that I have not and will not have any ex parte communication
+106 regarding the facts and circumstances of the matters to be determined, other than
+107 communications with my fellow arbitrators, and will only consider, in making my
+108 determination, those matters which may lawfully come before me.'
+109 (f) The department shall develop and maintain a list of court reporters and hearing officers
+110 that may be employed by the department at the request of an arbitration panel to assist the
+111 panel in formulating the record before the panel. An arbitration panel may by majority
+112 vote of its members elect to employ court reporters and hearing officers from such list.
+113 Any costs or charges related to the employment of court reporters and hearing officers
+114 pursuant to this subsection shall be evenly divided between the city and the county.
+115 (g) The department shall promulgate rules and regulations to provide for uniform
+116 procedures and operations of arbitration panels established pursuant to this article.
+117 Notwithstanding any provision of Chapter 13 of Title 50, the 'Georgia Administrative
+118 Procedure Act,' to the contrary, such proposed rules and regulations shall be submitted to
+- 5 -
+
+25 LC 47 3595S
+119 the chairperson of the House Governmental Affairs Committee and the Senate Committee
+120 on State and Local Government Operations."
+121 SECTION 1-2.
+122 Said article is further amended by revising Code Section 36-36-115, relating to meetings of
+123 arbitration panel, duties, findings and recommendations, and compensation, as follows:
+124 "36-36-115.
+125 (a)(1)(A) The arbitration panel appointed pursuant to Code Section 36-36-114 shall
+126 meet as soon after appointment as practicable and shall receive evidence and argument
+127 from the municipal corporation, the county, and the applicant or property owner and
+128 shall by majority vote render a decision which shall be binding on all parties to the
+129 dispute as provided for in this article not later than 60 days following such appointment,
+130 provided that the chairperson of the arbitration panel shall be authorized to extend such
+131 deadline one time for a period of up to ten business days.; provided, however, that
+132 Notwithstanding anything in this subparagraph to the contrary, the municipal
+133 corporation and county may by mutual agreement, postpone the arbitration procession
+134 for a period of up to 180 days to negotiate a potential settlement, and such
+135 postponement shall stay the 60 day deadline provided herein.
+136 (B) Meetings of the panel may occur in person, virtually, or via teleconference. The
+137 meetings of the panel in which evidence is submitted or arguments of the parties are
+138 made, whether such meeting is in person, virtual, or via teleconference, shall be open
+139 to the public pursuant to Chapter 14 of Title 50.
+140 (C) The panel shall first determine the validity of the grounds for objection as specified
+141 in the objection. If an objection involves the financial impact on the county as a result
+142 of a change in zoning or land use or the provision of maintenance of infrastructure, the
+143 panel shall quantify such impact in terms of cost. As to any objection which the panel
+144 has determined to be valid, the panel, in its findings, may establish reasonable zoning,
+- 6 -
+
+25 LC 47 3595S
+145 land use, or density conditions applicable to the annexation and propose any reasonable
+146 mitigating measures as to an objection pertaining to infrastructure demands.
+147 (2) In arriving at its determination, the panel shall consider:
+148 (A) The existing comprehensive land use plans of both the county and city;
+149 (B) The existing land use patterns in the area of the subject property;
+150 (C) The existing zoning patterns in the area of the subject property;
+151 (D) Each jurisdiction's provision of infrastructure to the area of the subject property
+152 and to the areas in the vicinity of the subject property;
+153 (E) Whether the county has approved similar changes in intensity or allowable uses on
+154 similar developments in other unincorporated areas of the county;
+155 (F) Whether the county has approved similar developments in other unincorporated
+156 areas of the county which have a similar impact on infrastructure as complained of by
+157 the county in its objection; and
+158 (G) Whether the infrastructure or capital outlay project which is claimed adversely
+159 impacted by the county in its objection was funded by a county-wide tax.
+160 (3) The county shall provide supporting evidence that its objection is consistent with its
+161 land use plan and the pattern of existing land uses and zonings in the area of the subject
+162 property, which may include, but not be limited to, adopted planning documents and
+163 capital or infrastructure plans.
+164 (4) The cost of the arbitration shall be equally divided between the city and the county;
+165 provided, however, that if the panel determines that any party has advanced a position
+166 that is not valid, the costs shall be borne by the party or parties that have advanced such
+167 position.
+168 (5) The reasonable costs of participation in the arbitration process of the property owner
+169 or owners whose property is at issue shall be borne by the county and the city in the same
+170 proportion as costs are apportioned under paragraph (4) of this subsection.
+- 7 -
+
+25 LC 47 3595S
+171 (6) The panel shall deliver its written findings and recommendations to the parties and
+172 the department by verifiable delivery. The written findings and recommendations shall
+173 include a signed statement for each panel member as to whether or not he or she voted
+174 in support of or against such findings and recommendations. The department shall
+175 maintain a data base and record of arbitration panel results and at least annually publish
+176 a report on such decisions and make such report freely available on the department's
+177 website.
+178 (b) If the decision of the panel contains zoning, land use, or density conditions, the
+179 findings and recommendations of the panel shall be recorded in the deed records of the
+180 county with a caption describing the name of the current owner of the property, recording
+181 reference of the current owner's acquisition deed and a general description of the property,
+182 and plainly showing the expiration date of any restrictions or conditions.
+183 (c) The arbitration panel shall be dissolved on the tenth day after it renders its findings and
+184 recommendations but may be reconvened as provided in Code Section 36-36-116.
+185 (d) Notwithstanding the provisions of subsection (b) of Code Section 45-7-21, the
+186 members of the arbitration panel shall receive the same per diem, expenses, and allowances
+187 for their service on the panel as authorized by law for members of the General Assembly
+188 plus $100.00 in total for all days of service for serving on an arbitration panel.
+189 (e) If the panel so agrees, any one or more additional annexation disputes which may arise
+190 between the parties prior to the panel's initial meeting may be consolidated for the purpose
+191 of judicial economy if there are similar issues of location or similar objections raised to
+192 such other annexations or the property to be annexed in such other annexations is
+193 within 2,500 feet of the subject property."
+- 8 -
+
+25 LC 47 3595S
+194 PART II
+195 SECTION 2-1.
+196 Article 2 of Chapter 6 of Title 5 of the Official Code of Georgia Annotated, relating to
+197 appellate practice, is amended by revising subsection (a) of Code Section 5-6-34, relating to
+198 judgments and rulings deemed directly appealable, procedure for review of judgments,
+199 orders, or decisions not subject to direct appeal, scope of review, hearings in criminal cases
+200 involving a capital offense for which death penalty is sought, and appeals involving
+201 nonmonetary judgments in child custody cases, as follows:
+202 "(a) Appeals may be taken to the Supreme Court and the Court of Appeals from the
+203 following judgments and rulings of the superior courts, the Georgia State-wide Business
+204 Court, the constitutional city courts, and such other courts or tribunals from which appeals
+205 are authorized by the Constitution and laws of this state:
+206 (1) All final judgments, that is to say, where the case is no longer pending in the court
+207 below, except as provided in Code Section 5-6-35;
+208 (2) All judgments involving applications for discharge in bail trover and contempt cases;
+209 (3) All judgments or orders directing that an accounting be had;
+210 (4) All judgments or orders granting or refusing applications for receivers or for
+211 interlocutory or final injunctions;
+212 (5) All judgments or orders granting or refusing applications for attachment against
+213 fraudulent debtors;
+214 (6) Any ruling on a motion which would be dispositive if granted with respect to a
+215 defense that the action is barred by Code Section 16-11-173;
+216 (7) All judgments or orders granting or refusing to grant mandamus or any other
+217 extraordinary remedy, except with respect to temporary restraining orders;
+218 (8) All judgments or orders refusing applications for dissolution of corporations created
+219 by the superior courts;
+- 9 -
+
+25 LC 47 3595S
+220 (9) All judgments or orders sustaining motions to dismiss a caveat to the probate of a
+221 will;
+222 (10) All judgments or orders entered pursuant to subsection (c) of Code
+223 Section 17-10-6.2;
+224 (11) All judgments or orders in child custody cases awarding, refusing to change, or
+225 modifying child custody or holding or declining to hold persons in contempt of such child
+226 custody judgment or orders;
+227 (12) All judgments or orders entered pursuant to Code Section 35-3-37; and
+228 (13) All judgments or orders entered pursuant to Code Section 9-11-11.1; and
+229 (14) All final judgments or orders reviewing a zoning decision, as such term is defined
+230 in paragraph (4) of Code Section 36-66-3."
+231 SECTION 2-2.
+232 Said article is further amended by revising subsection (a) of Code Section 5-6-35, relating
+233 to cases requiring application for appeal, requirements for application, exhibits, response,
+234 issuance of appellate court order regarding appeal, procedure, supersedeas, jurisdiction of
+235 appeal, and appeals involving nonmonetary judgments in custody cases, as follows:
+236 "(a) Appeals in the following cases shall be taken as provided in this Code section:
+237 (1) Appeals from decisions of the superior courts reviewing decisions of the State Board
+238 of Workers' Compensation, the State Board of Education, auditors, state and local
+239 administrative agencies, and lower courts, and quasi-judicial decisions of boards or
+240 agencies of local governments, including those defined in paragraphs (1.1) and (1.2) of
+241 Code Section 36-66-3 by petition for review; provided, however, that this provision shall
+242 not apply to decisions of the Public Service Commission and probate courts and to cases
+243 involving ad valorem taxes and condemnations;
+244 (2) Appeals from judgments or orders in divorce, alimony, and other domestic relations
+245 cases including, but not limited to, granting or refusing a divorce or temporary or
+- 10 -
+
+25 LC 47 3595S
+246 permanent alimony or holding or declining to hold persons in contempt of such alimony
+247 judgment or orders;
+248 (3) Appeals from cases involving distress or dispossessory warrants in which the only
+249 issue to be resolved is the amount of rent due and such amount is $2,500.00 or less;
+250 (4) Appeals from cases involving garnishment or attachment, except as provided in
+251 paragraph (5) of subsection (a) of Code Section 5-6-34;
+252 (5) Appeals from orders revoking probation;
+253 (5.1) Appeals from decisions of superior courts reviewing decisions of the Sexual
+254 Offender Risk Review Board;
+255 (5.2) Appeals from decisions of superior courts granting or denying petitions for release
+256 pursuant to Code Section 42-1-19;
+257 (6) Appeals in all actions for damages in which the judgment is $10,000.00 or less;
+258 (7) Appeals, when separate from an original appeal, from the denial of an extraordinary
+259 motion for new trial;
+260 (8) Appeals from orders under subsection (d) of Code Section 9-11-60 denying a motion
+261 to set aside a judgment or under subsection (e) of Code Section 9-11-60 denying relief
+262 upon a complaint in equity to set aside a judgment;
+263 (9) Appeals from orders granting or denying temporary restraining orders;
+264 (10) Appeals from awards of attorney's fees or expenses of litigation under Code
+265 Section 9-15-14;
+266 (11) Appeals from decisions of the state courts reviewing decisions of the magistrate
+267 courts by de novo proceedings so long as the subject matter is not otherwise subject to
+268 a right of direct appeal;
+269 (12) Appeals from orders terminating parental rights; and
+270 (13) Appeals from orders under subsection (a) of Code Section 44-14-610 granting or
+271 denying an objection to the filing of a lis pendens or granting or denying a motion
+272 canceling a lis pendens."
+- 11 -
+
+25 LC 47 3595S
+273 SECTION 2-3.
+274 Chapter 66 of Title 36 of the Official Code of Georgia Annotated, relating to zoning
+275 procedures as pertaining to counties and municipal corporations, is amended by revising
+276 paragraph (1) of subsection (b) of Code Section 36-66-2, relating to legislative purpose and
+277 local government zoning powers, and by adding a new paragraph to read as follows:
+278 "(1) Provide by ordinance or resolution for such administrative officers, boards, or
+279 agencies as may be expedient for the efficient exercise of delegated, quasi-judicial zoning
+280 powers and to establish procedures and notice requirements for hearings before such
+281 quasi-judicial officers, boards, or agencies that are consistent with the minimum
+282 procedures provided for in this chapter to assure due process is afforded the general
+283 public; and"
+284 SECTION 2-4.
+285 Said chapter is further amended by revising paragraphs (1.1) and (4) of Code
+286 Section 36-66-3, relating to definitions, and by adding a new paragraph to read as follows:
+287 "(1.1) 'Quasi-judicial officers, boards, or agencies' means an officer, board, or agency
+288 appointed by a local government to exercise delegated, quasi-judicial zoning powers
+289 including hearing appeals of administrative decisions by such officers, boards, or
+290 agencies and hearing and rendering decisions on applications for variances, special
+291 administrative permits, special exceptions, conditional use permits, or other similar
+292 permits not enumerated herein as a zoning decision, pursuant to standards for the exercise
+293 of such quasi-judicial authority adopted by a local government any board or agency
+294 designated by ordinance to make quasi-judicial decisions.
+295 (1.2) 'Quasi-judicial decision' means a final quasi-judicial action that is the exercise of
+296 quasi-judicial land use powers, including hearing appeals of administrative decisions and
+297 hearing and rendering decisions on applications for variances, administrative permits, or
+298 other similar permits not enumerated herein as a zoning decision, pursuant to standards
+- 12 -
+
+25 LC 47 3595S
+299 for the exercise of such quasi-judicial authority adopted by a local government. Such
+300 term does not include permits issued or decisions made by administrative staff pursuant
+301 to the authority designated by ordinance which contains an express right to appeal to a
+302 local government board or authority which is subject to these provisions applicable to
+303 quasi-judicial decisions."
+304 "(4) 'Zoning decision' means final legislative action by a local government which results
+305 in:
+306 (A) The adoption or repeal of a zoning ordinance;
+307 (B) The adoption of an amendment to a zoning ordinance which changes the text of the
+308 zoning ordinance;
+309 (C) The adoption or denial of an amendment to a zoning ordinance to rezone property
+310 from one zoning classification to another;
+311 (D) The adoption or denial of an amendment to a zoning ordinance by a municipal
+312 local government to zone property to be annexed into the municipality;
+313 (E) The grant or denial of a permit relating to an application for a special use of
+314 property; or
+315 (F) The grant or denial of an application for a variance or the imposition or
+316 modification of conditions concurrent and in conjunction with a decision pursuant to
+317 subparagraph (C) or (E) of this paragraph, or a subsequent modification to such a
+318 variance or condition."
+319 SECTION 2-5.
+320 Said chapter is further amended by revising subsections (b), (c), (g), and (h) of Code
+321 Section 36-66-4, relating to adoption of hearing policies and procedures and standards for
+322 exercise of zoning power, as follows:
+323 "(b) If a zoning decision of a local government is for the rezoning of property and the
+324 rezoning is initiated by a party other than the local government, then:
+- 13 -
+
+25 LC 47 3595S
+325 (1) The notice, in addition to the requirements of subsection (a) of this Code section,
+326 shall include the location of the property, the present zoning classification of the property,
+327 and the proposed zoning classification of the property; and
+328 (2) A sign containing information required by local ordinance or resolution shall be
+329 placed in a conspicuous location on the property not less than 15 days nor more than 45
+330 days prior to the date of the hearing.
+331 (c) If the zoning decision of a local government is for the rezoning of property and the
+332 amendment to the zoning ordinance to accomplish the rezoning is defeated denied by the
+333 local government, then the same property may not again be considered for rezoning until
+334 the expiration of at least six months immediately following the defeat denial of the
+335 rezoning by the local government or the conclusion of related judicial proceedings."
+336 "(g) A local government delegating decision-making power to a quasi-judicial officer,
+337 board, or agency shall provide for a hearing on each proposed action described in
+338 paragraph (1.1) (1.2) of Code Section 36-66-3. Notice of such hearing shall be provided
+339 at least 30 15 but not more than 45 days prior to the quasi-judicial hearing, with such notice
+340 being made as provided for in subsection (a) of this Code section and with additional notice
+341 being mailed to the owner of the property that is the subject of the proposed action.
+342 (h)(1) Notwithstanding any other provisions of this chapter to the contrary, when a
+343 proposed zoning decision relates to an amendment of the zoning ordinance to revise one
+344 or more zoning classifications or definitions relating to single-family residential uses of
+345 property so as to authorize multifamily uses of property pursuant to such classification
+346 or definitions, or to grant blanket permission, under certain or all circumstances, for
+347 property owners to deviate from the existing zoning requirements of a single-family
+348 residential zoning, such zoning decision shall be adopted in the following manner:
+349 (A) The zoning decision shall be adopted at two regular meetings of the local
+350 government making the zoning decision, during a period of not less than 21 at least 15
+351 but not more than 45 days apart; and
+- 14 -
+
+25 LC 47 3595S
+352 (B) Prior to the first meeting provided for in subparagraph (A) of this paragraph, at
+353 least two public hearings shall be held on the proposed action. Such public hearings
+354 shall be held at least three months and not more than nine months prior to the date of
+355 final action on the zoning decision. Furthermore, at least one of the public hearings
+356 shall be held between the hours of 5:00 P.M. and 8:00 P.M. The hearings required by
+357 this paragraph shall be in addition to any hearing required under subsection (a) of this
+358 Code section. The local government shall give notice of such hearing by:
+359 (i) Posting notice on each affected premises in the manner prescribed by
+360 subsection (b) of this Code section; provided, however, that when more than 500
+361 parcels are affected, in which case posting notice is required every 500 feet in the
+362 affected area; and
+363 (ii) Publishing in a newspaper of general circulation within the territorial boundaries
+364 of the local government a notice of each hearing at least 15 days and not more than 45
+365 days prior to the date of the hearing.
+366 Both the posted notice and the published notice shall include a prominent statement that
+367 the proposed zoning decision relates to or will authorize multifamily uses or give blanket
+368 permission to the property owner to deviate from the zoning requirements of a
+369 single-family residential zoning of property in classification previously relating to
+370 single-family residential uses. The published notice shall be at least nine column inches
+371 in size and shall not be located in the classified advertising section of the newspaper. The
+372 notice shall state that a copy of the proposed amendment is on file in the office of the
+373 clerk or the recording officer of the local government and in the office of the clerk of the
+374 superior court of the county of the legal situs of the local government for the purpose of
+375 examination and inspection by the public. The local government shall furnish anyone,
+376 upon written request, a copy of the proposed amendment, at no cost.
+377 (2) The provisions of paragraph (1) of this subsection shall also apply to any zoning
+378 decisions that provide for the abolition of all single-family residential zoning
+- 15 -
+
+25 LC 47 3595S
+379 classifications within the territorial boundaries of a local government or zoning decisions
+380 that result in the rezoning of all property zoned for single-family residential uses within
+381 the territorial boundaries of a local government to multifamily residential uses of
+382 property.
+383 (3) This subsection shall not apply to zoning decisions for the rezoning of property from
+384 a single-family residential use of property to a multifamily residential use of property
+385 when the rezoning is initiated by the owner or authorized agent of the owner of such
+386 property or when the local government adopts a zoning ordinance or zoning map
+387 applicable to the entire land area under the governance of the local government, as
+388 opposed to a subset of parcels of land under the governance of the local government."
+389 SECTION 2-6.
+390 Said chapter is further amended by revising subsections (b.1) and (c) of Code
+391 Section 36-66-5, relating to adoption of hearing policies and procedures and standards for
+392 exercise of zoning power, as follows:
+393 "(b.1) In addition to policies and procedures required by subsection (a) of this Code
+394 section, each local government providing for a quasi-judicial officer's, board's, board's or
+395 agency's grant, denial, or review of a quasi-judicial matter may shall adopt specific
+396 standards and criteria governing the exercise of such quasi-judicial decision-making
+397 authority, and such standards shall include the factors by which the local government
+398 directs the evaluation of a quasi-judicial matter. Such standards shall be printed and copies
+399 thereof made available for distribution to the general public.
+400 (c) The policies and procedures required by subsection (a) of this Code section and the
+401 adoption of standards required by subsection subsections (b) and permitted by subsection
+402 (b.1) of this Code section shall be included in and adopted as part of the zoning ordinance.
+403 Prior to the adoption of any zoning ordinance enacted on or after July 1, 2022, a local
+404 government shall conduct a public hearing on a proposed action which may be advertised
+- 16 -
+
+25 LC 47 3595S
+405 and held concurrent with the hearing required by subsection (a) of Code Section 36-66-4
+406 for the adoption of a zoning ordinance. The provisions of subsection (a) of Code Section
+407 36-66-4 relating to notices of public hearings for the purposes of that subsection shall also
+408 apply to public hearings required by this subsection."
+409 SECTION 2-7.
+410 Said chapter is further amended by revising paragraph (2) of subsection (a) of Code
+411 Section 36-66-5.1, relating to judicial review and procedures, as follows:
+412 "(2) Quasi-judicial decisions as described in this chapter and zoning decisions under
+413 subparagraph (E) of paragraph (4) of Code Section 36-66-3 shall be subject to appellate
+414 review by the superior court pursuant to its appellate jurisdiction from a lower judicatory
+415 body and shall be brought by way of a petition for such review as provided for in Title 5.
+416 Such matters shall be reviewed on the record which shall be brought to the superior court
+417 as provided in Title 5."
+418 PART III
+419 SECTION 3-1.
+420 (a) Part I of this Act shall become effective on January 1, 2026.
+421 (b) Part II of this Act shall become effective on July 1, 2025, and shall apply to all zoning
+422 and quasi-judicial decisions occurring on and after such date; provided, however, that no
+423 zoning or quasi-judicial decision occurring prior to December 31, 2026, shall be rendered
+424 invalid or void if a local government fails to implement the provisions set out in Code
+425 Section 36-66-5.1.
+426 (c) Part III of this Act shall become effective on July 1, 2025.
+- 17 -
+
+25 LC 47 3595S
+427 SECTION 3-2.
+428 All laws and parts of laws in conflict with this Act are repealed.
+- 18 -
+
+[DELETED: 5LTrsaAarpm0z1a2p3a4B]
+[DELETED: 5L5P6S7A8p f r a d i a b r C S93 r t a p c a m a i0f132(3d4f5b6C7(  T a p s b c o f m t b s a8p9p0(1s2(3s4(5a6l i t s o t t C V I o G o t7U8(9p0s]
+[DELETED: 5L1(2t3a4(5o6n7s t t c a m c a l o 1 p a8c9o m o f n p a r s b t0d f t p o c o a t n p a1r2t3(4c5(6a7(8i9s0(1h2(3r4(5n6c]
+[DELETED: 5L7(8f9o0(1s2b3s4(5s6d7(8p9(0o1(  O a f t a s i i s ( o2p3(4g5s6(7w8d9a e a f t s p o a f w t o0a w r s u p ( o t s p1h2o]
+[DELETED: 5L3(4o5z6I7C8t9a0G1m2(3d4f5o6r t f a c o t m t b d o t7c w m f a a w o c i m m8d9(0t1p2v3A4p5(  T d s p r a r t p f u6p a o o a p e p t t a7N8P]
+[DELETED: 5L9t0o1S2S3a435(6m7f8s9d0p1d2N a i t s t t c t m3c4f a p o u t 1 d t n a p s a s5p6(7m8m9t0(1i2o3p4h]
+[DELETED: 5L5l6m7(8(9(0(1(2a3(4s5(6a7t8(9i0(1l2p3c4(5p6t7p8(9o0p]
+[DELETED: 5L1(2t3i4i5m6a7w8(9f0c1r2a3(4r5(  N t p o s ( o C S 4 t6m7f89(0b1o2s o a o t p t b a i s o a i3w]
+[DELETED: 5L4P5S6A7a8j9o0i a c o f w d p i s a a i1n2(3f4C5a6(7b8(9(0(  A j o o g o r a f r o f1i2(3f4(5d6(  A j o o g o r t g m o a o7e8(9b]
+[DELETED: 5L0(1w2(  A j o o e p t s ( o C3S4(5m6c7(8(9(0i1S2S3t4i5a6(7(8o W C t S B o E a s a l9a0a1C2n3i4(5c i b n l t g o r a d o t o]
+[DELETED: 5L6p7j8(9i0(1p2(3(4O5(6p7(8(9m0(1t2u3(4(  A f a o a f o e o l u C5S6(7c8a9(0(1d2c]
+[DELETED: 5L3S4C 6 o T 3 o t O C o G A r t z5p6p7l8(9a0p1q o b o a t a c w t m2p3p4S5S c i f a b r p ( a ( o C6S7(8a9i h a o a d b s o b o0a1a p s e c u p o o s2p3o4d5(6q7h8o]
+[DELETED: 5L9f0t1t2l3q4(5i6(7(8z9(0f1(2l3(4p5(  T g o d o a a f a v o t i o6m7s8v9S0S c i f a b r s ( ( ( a ( o C1S2e3(4r]
+[DELETED: 5L5(6s7a8(9p0d1(2a3l4t e o a l s m i f t d d o t5r6(7b o a s p f a h o e p a d i8p9a0b1b2(3p4o5p6o7p8r9(  T z d s b a a t r m o t l0g1b]
+[DELETED: 5L2(3l4s5f6s7t8C9(  P n o e a p i t m p b0s1p2a3(4o5d6B8p t t p o t d f t z r o 9s r z o p i c p r t0s1i2n3c4s5e6u7(8d t p f t a o a s r z]
+[DELETED: 5L9c0t1t t b o a l g t m r u o2p3(4a5w6p o w t l g a a z o o z m7a8o9S0S c i f a b r s ( a ( o C1S2e3(4s5a g d o r o a q m m s a s6s a c g t e o s q d7a8d9t0(1a2(3P4g]
+[DELETED: 5L5a6f738a9S0S c i f a b r p ( o s ( o C1S2(3s4r5b6S7a8P9S0(1(2a3z4i5S6(]
+[DELETED: 5L7S8A]

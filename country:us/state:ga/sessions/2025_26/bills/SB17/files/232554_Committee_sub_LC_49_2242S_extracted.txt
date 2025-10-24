@@ -1,0 +1,218 @@
+Title: The Senate Committee on Education and Youth offered the following
+Official Title: The Senate Committee on Education and Youth offered the following
+Number of Sections: 1
+Source: versions - Committee sub LC 49 2242S
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25 LC 49 2242S
+substitute to SB 17:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 11 of Chapter 2 of Title 20 and Article 10 of Chapter 3 of Title 38 of the
+2 Official Code of Georgia Annotated, relating to public school property and facilities and
+3 state-wide first responder building mapping information system, respectively, so as to enact
+4 "Ricky and Alyssa's Law"; to require public and private schools to implement a mobile panic
+5 alert system capable of connecting disparate emergency services technologies to ensure
+6 real-time coordination between multiple state and local first responder agencies in the event
+7 of a school security emergency; to provide for the implementation of additional strategies or
+8 systems; to provide for exceptions; to require public and private schools to procure school
+9 mapping data; to provide for requirements of such school mapping data; to authorize the
+10 Georgia Emergency Management and Homeland Security Agency to adopt rules and
+11 regulations for the requirements for school mapping data; to provide for immunity from civil
+12 liability; to provide for a definition; to provide for related matters; to provide an effective
+13 date; to repeal conflicting laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+15 SECTION 1.
+16 This Act shall be known and may be cited as "Ricky and Alyssa's Law."
+- 1 -
+25 LC 49 2242S
+17 SECTION 2.
+18 Article 11 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to
+19 public school property and facilities, is amended by adding a new part to read as follows:
+20 "Part 4
+21 20-2-590.
+22 (a) Not later than July 1, 2026, each public and private school shall implement a mobile
+23 panic alert system capable of:
+24 (1) Connecting disparate emergency services technologies to ensure real-time
+25 coordination between multiple local and state law enforcement and first responder
+26 agencies. Such system shall be known as the 'Alyssa's Alert' and shall integrate with the
+27 technology used in each local public safety answering point, including, but not limited
+28 to, Next Generation 9-1-1, as such term is defined in Code Section 38-3-181, to transmit
+29 911 calls and mobile activations; and
+30 (2) Integrating with the school mapping data required in Code Section 38-3-154.
+31 (b) In addition to the requirements of subsection (a) of this Code section, each local school
+32 system may implement additional strategies or systems to ensure real-time coordination
+33 between multiple first responder agencies in the event of a school security emergency.
+34 (c) No local school system shall be required to procure or implement new or additional
+35 capabilities if, as of July 1, 2026, such local school system has a functioning mobile panic
+36 alert system in place with capabilities that meet the requirements of subsection (a) of this
+37 Code section."
+- 2 -
+25 LC 49 2242S
+38 SECTION 3.
+39 Article 10 of Chapter 3 of Title 38 of the Official Code of Georgia Annotated, relating to
+40 state-wide first responder building mapping information system, is amended by adding a new
+41 paragraph to Code Section 38-3-151, relating to definitions, to read as follows:
+42 "(4) 'School mapping data' means building information, floor plans, and aerial imagery
+43 of any public or private school."
+44 SECTION 4.
+45 Said article is further amended by adding a new Code section to read as follows:
+46 "38-3-154.
+47 (a) Not later than July 1, 2026, each public and private school shall procure school
+48 mapping data which shall:
+49 (1) Be in formats that conform to and integrate with software platforms utilized in local
+50 public safety answering points and by local, state, and federal public safety agencies that
+51 respond to emergencies at schools and that do not require such agencies to purchase
+52 additional software or provide payment in order to view or access such data;
+53 (2) Be in formats capable of being printed, shared electronically, and, if requested,
+54 digitally integrated into interactive mobile platforms;
+55 (3) Be verified for accuracy by July 1 each year by the entity producing such school
+56 mapping data by means of an in-person inspection of each school;
+57 (4) Identify and label access points of each building interior, including, but not limited
+58 to, rooms, doors, stairwells, and hallways, each of which shall include any identifiers or
+59 names utilized by staff and students;
+60 (5) Identify and label locations of critical utilities, key boxes, automated external
+61 defibrillators, and trauma kits or other emergency response aids; and
+62 (6) Identify and label areas at or near each school, including parking areas, athletic fields,
+63 surrounding roads, outbuildings, and neighboring properties.
+- 3 -
+25 LC 49 2242S
+64 (b) Any future updates to school mapping data provided for in this Code section shall
+65 conform to and integrate with software platforms utilized in local public safety answering
+66 points and by local, state, and federal public safety agencies that provide emergency
+67 services to each school.
+68 (c) The agency shall be authorized to develop rules and regulations for the requirements
+69 for school mapping data, including, but not limited to, standards for the use of school
+70 mapping data, encryption of such data, and transmission of such data over secure methods
+71 to law enforcement officers, firefighters, and other authorized emergency first responders.
+72 (d) Information provided to the agency under this Code section shall be exempt from
+73 public disclosure to the extent provided in Code Section 50-18-72.
+74 (e)(1) Local boards of education, local school systems, public and private schools, and
+75 local governments and agencies shall be immune from civil liability for any damages
+76 arising out of the creation and use of the school mapping data.
+77 (2) Employees of local boards of education, local school systems, and local governments
+78 and agencies shall be immune from civil liability for any damages arising out of the
+79 creation and use of the school mapping data unless it is shown that such employee acted
+80 with gross negligence or bad faith."
+81 SECTION 5.
+82 This Act shall become effective July 1, 2025.
+83 SECTION 6.
+84 All laws and parts of laws in conflict with this Act are repealed.
+- 4 -
+[DELETED: 5LTOs"arosm0G E M a H S A t a r a1r2l3d4B5S6T]
+[DELETED: 5L7S8A9p0P122(3p4(  C d e s t t e r5c b m l a s l e a f r6a7t8t990(1(2s3b4(5c6a7C]
+[DELETED: 5L8S9A0s1p2(3o4S5S637(8m9(0p1r2a3(4d5(6m7(8t9n0(  I a l l o c u k b a e1d2(3s]
+[DELETED: 5L4(5c6p7s8(9f0m1t2(3p4(5l6a7(8a9c0w1S2T3S4A]
+
+
+================================================================================
+
+Raw Text:
+25 LC 49 2242S
+The Senate Committee on Education and Youth offered the following
+substitute to SB 17:
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 11 of Chapter 2 of Title 20 and Article 10 of Chapter 3 of Title 38 of the
+2 Official Code of Georgia Annotated, relating to public school property and facilities and
+3 state-wide first responder building mapping information system, respectively, so as to enact
+4 "Ricky and Alyssa's Law"; to require public and private schools to implement a mobile panic
+5 alert system capable of connecting disparate emergency services technologies to ensure
+6 real-time coordination between multiple state and local first responder agencies in the event
+7 of a school security emergency; to provide for the implementation of additional strategies or
+8 systems; to provide for exceptions; to require public and private schools to procure school
+9 mapping data; to provide for requirements of such school mapping data; to authorize the
+10 Georgia Emergency Management and Homeland Security Agency to adopt rules and
+11 regulations for the requirements for school mapping data; to provide for immunity from civil
+12 liability; to provide for a definition; to provide for related matters; to provide an effective
+13 date; to repeal conflicting laws; and for other purposes.
+14 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+15 SECTION 1.
+16 This Act shall be known and may be cited as "Ricky and Alyssa's Law."
+- 1 -
+
+25 LC 49 2242S
+17 SECTION 2.
+18 Article 11 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to
+19 public school property and facilities, is amended by adding a new part to read as follows:
+20 "Part 4
+21 20-2-590.
+22 (a) Not later than July 1, 2026, each public and private school shall implement a mobile
+23 panic alert system capable of:
+24 (1) Connecting disparate emergency services technologies to ensure real-time
+25 coordination between multiple local and state law enforcement and first responder
+26 agencies. Such system shall be known as the 'Alyssa's Alert' and shall integrate with the
+27 technology used in each local public safety answering point, including, but not limited
+28 to, Next Generation 9-1-1, as such term is defined in Code Section 38-3-181, to transmit
+29 911 calls and mobile activations; and
+30 (2) Integrating with the school mapping data required in Code Section 38-3-154.
+31 (b) In addition to the requirements of subsection (a) of this Code section, each local school
+32 system may implement additional strategies or systems to ensure real-time coordination
+33 between multiple first responder agencies in the event of a school security emergency.
+34 (c) No local school system shall be required to procure or implement new or additional
+35 capabilities if, as of July 1, 2026, such local school system has a functioning mobile panic
+36 alert system in place with capabilities that meet the requirements of subsection (a) of this
+37 Code section."
+- 2 -
+
+25 LC 49 2242S
+38 SECTION 3.
+39 Article 10 of Chapter 3 of Title 38 of the Official Code of Georgia Annotated, relating to
+40 state-wide first responder building mapping information system, is amended by adding a new
+41 paragraph to Code Section 38-3-151, relating to definitions, to read as follows:
+42 "(4) 'School mapping data' means building information, floor plans, and aerial imagery
+43 of any public or private school."
+44 SECTION 4.
+45 Said article is further amended by adding a new Code section to read as follows:
+46 "38-3-154.
+47 (a) Not later than July 1, 2026, each public and private school shall procure school
+48 mapping data which shall:
+49 (1) Be in formats that conform to and integrate with software platforms utilized in local
+50 public safety answering points and by local, state, and federal public safety agencies that
+51 respond to emergencies at schools and that do not require such agencies to purchase
+52 additional software or provide payment in order to view or access such data;
+53 (2) Be in formats capable of being printed, shared electronically, and, if requested,
+54 digitally integrated into interactive mobile platforms;
+55 (3) Be verified for accuracy by July 1 each year by the entity producing such school
+56 mapping data by means of an in-person inspection of each school;
+57 (4) Identify and label access points of each building interior, including, but not limited
+58 to, rooms, doors, stairwells, and hallways, each of which shall include any identifiers or
+59 names utilized by staff and students;
+60 (5) Identify and label locations of critical utilities, key boxes, automated external
+61 defibrillators, and trauma kits or other emergency response aids; and
+62 (6) Identify and label areas at or near each school, including parking areas, athletic fields,
+63 surrounding roads, outbuildings, and neighboring properties.
+- 3 -
+
+25 LC 49 2242S
+64 (b) Any future updates to school mapping data provided for in this Code section shall
+65 conform to and integrate with software platforms utilized in local public safety answering
+66 points and by local, state, and federal public safety agencies that provide emergency
+67 services to each school.
+68 (c) The agency shall be authorized to develop rules and regulations for the requirements
+69 for school mapping data, including, but not limited to, standards for the use of school
+70 mapping data, encryption of such data, and transmission of such data over secure methods
+71 to law enforcement officers, firefighters, and other authorized emergency first responders.
+72 (d) Information provided to the agency under this Code section shall be exempt from
+73 public disclosure to the extent provided in Code Section 50-18-72.
+74 (e)(1) Local boards of education, local school systems, public and private schools, and
+75 local governments and agencies shall be immune from civil liability for any damages
+76 arising out of the creation and use of the school mapping data.
+77 (2) Employees of local boards of education, local school systems, and local governments
+78 and agencies shall be immune from civil liability for any damages arising out of the
+79 creation and use of the school mapping data unless it is shown that such employee acted
+80 with gross negligence or bad faith."
+81 SECTION 5.
+82 This Act shall become effective July 1, 2025.
+83 SECTION 6.
+84 All laws and parts of laws in conflict with this Act are repealed.
+- 4 -
+
+[DELETED: 5LTOs"arosm0G E M a H S A t a r a1r2l3d4B5S6T]
+[DELETED: 5L7S8A9p0P122(3p4(  C d e s t t e r5c b m l a s l e a f r6a7t8t990(1(2s3b4(5c6a7C]
+[DELETED: 5L8S9A0s1p2(3o4S5S637(8m9(0p1r2a3(4d5(6m7(8t9n0(  I a l l o c u k b a e1d2(3s]
+[DELETED: 5L4(5c6p7s8(9f0m1t2(3p4(5l6a7(8a9c0w1S2T3S4A]

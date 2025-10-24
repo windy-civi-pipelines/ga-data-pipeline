@@ -1,0 +1,147 @@
+Title: Senate Bill 128
+Official Title: Senate Bill 128
+Number of Sections: 1
+Source: versions - As introduced LC 61 0103
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 61 0103
+By: Senators Esteves of the 35th, Jones II of the 22nd, Jackson of the 41st, Parent of the 44th,
+Halpern of the 39th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated,
+2 relating to the "Quality Basic Education Act," so as to provide for grants to eligible local
+3 units of administration for students living in poverty; to provide for definitions; to provide
+4 for the calculation of grant amounts; to provide that a minimum required portion of grant
+5 funds be used by local units of administration for direct program expenditures for the benefit
+6 of students living in poverty; to provide for related matters; to repeal conflicting laws; and
+7 for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to the
+11 "Quality Basic Education Act," is amended in Part 5, relating to program weights and
+12 funding requirements, by adding a new Code section to read as follows:
+13 "20-2-192.
+14 (a) As used in this Code section, the term:
+S. B. 128
+- 1 -
+25 LC 61 0103
+15 (1) 'Student in foster care' means a student enrolled in a public school who is placed in
+16 a foster family home, child care institution, or another substitute care setting approved
+17 by the Department of Human Services or Division of Family and Children Services.
+18 (2) 'Student living in poverty' means a student enrolled in a public school who meets one
+19 or more of the following criteria:
+20 (A) Lives in a family unit directly certified to be receiving Supplemental Nutrition
+21 Assistance Program (SNAP) benefits;
+22 (B) Lives in a family unit directly certified to be receiving Temporary Assistance for
+23 Needy Families (TANF) benefits;
+24 (C) Is a student in foster care; or
+25 (D) Is a student without stable housing.
+26 (3) 'Student without stable housing' means a student enrolled in a public school who
+27 meets the definition of the term 'homeless children and youths' under the federal
+28 McKinney-Vento Homeless Assistance Act, codified at 42 U.S.C. Section 11301, et seq.,
+29 in force and effect as of January 1, 2025.
+30 (b) The State Board of Education shall provide grants to eligible local units of
+31 administration for the purpose of supplementing services and instruction to students living
+32 in poverty, subject to appropriations by the General Assembly. Such grants shall be
+33 provided beyond those funds to which local units of administration otherwise are entitled
+34 to by the provisions of this article and other statutes. The State Board of Education shall
+35 establish the manner by which a local unit of administration shall demonstrate that it is
+36 eligible to receive a grant under this Code section.
+37 (c) The Department of Education shall calculate the grant amount for each eligible local
+38 unit of administration to be used under this Code section by multiplying the total number
+39 of students living in poverty who are enrolled in such eligible local unit of administration
+40 as of the date of the initial enrollment count each year as set forth in Code Section 20-2-160
+41 by an amount equal to 25 percent of the base amount calculated as set forth in Code Section
+S. B. 128
+- 2 -
+25 LC 61 0103
+42 20-2-161. At least 90 percent of the grant funds received by an eligible local unit of
+43 administration under this Code section shall be used for direct program expenditures for
+44 the benefit of students living in poverty for which the grant is provided under this Code
+45 section. Any portion of that 90 percent not so expended shall be returned to the State
+46 Board of Education."
+47 SECTION 2.
+48 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 128
+- 3 -
+[DELETED: 5L]
+[DELETED: 5L t d o t t ' c a y u t f  T S B o E s p g t e l u o]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 61 0103
+Senate Bill 128
+By: Senators Esteves of the 35th, Jones II of the 22nd, Jackson of the 41st, Parent of the 44th,
+Halpern of the 39th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated,
+2 relating to the "Quality Basic Education Act," so as to provide for grants to eligible local
+3 units of administration for students living in poverty; to provide for definitions; to provide
+4 for the calculation of grant amounts; to provide that a minimum required portion of grant
+5 funds be used by local units of administration for direct program expenditures for the benefit
+6 of students living in poverty; to provide for related matters; to repeal conflicting laws; and
+7 for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to the
+11 "Quality Basic Education Act," is amended in Part 5, relating to program weights and
+12 funding requirements, by adding a new Code section to read as follows:
+13 "20-2-192.
+14 (a) As used in this Code section, the term:
+S. B. 128
+- 1 -
+
+25 LC 61 0103
+15 (1) 'Student in foster care' means a student enrolled in a public school who is placed in
+16 a foster family home, child care institution, or another substitute care setting approved
+17 by the Department of Human Services or Division of Family and Children Services.
+18 (2) 'Student living in poverty' means a student enrolled in a public school who meets one
+19 or more of the following criteria:
+20 (A) Lives in a family unit directly certified to be receiving Supplemental Nutrition
+21 Assistance Program (SNAP) benefits;
+22 (B) Lives in a family unit directly certified to be receiving Temporary Assistance for
+23 Needy Families (TANF) benefits;
+24 (C) Is a student in foster care; or
+25 (D) Is a student without stable housing.
+26 (3) 'Student without stable housing' means a student enrolled in a public school who
+27 meets the definition of the term 'homeless children and youths' under the federal
+28 McKinney-Vento Homeless Assistance Act, codified at 42 U.S.C. Section 11301, et seq.,
+29 in force and effect as of January 1, 2025.
+30 (b) The State Board of Education shall provide grants to eligible local units of
+31 administration for the purpose of supplementing services and instruction to students living
+32 in poverty, subject to appropriations by the General Assembly. Such grants shall be
+33 provided beyond those funds to which local units of administration otherwise are entitled
+34 to by the provisions of this article and other statutes. The State Board of Education shall
+35 establish the manner by which a local unit of administration shall demonstrate that it is
+36 eligible to receive a grant under this Code section.
+37 (c) The Department of Education shall calculate the grant amount for each eligible local
+38 unit of administration to be used under this Code section by multiplying the total number
+39 of students living in poverty who are enrolled in such eligible local unit of administration
+40 as of the date of the initial enrollment count each year as set forth in Code Section 20-2-160
+41 by an amount equal to 25 percent of the base amount calculated as set forth in Code Section
+S. B. 128
+- 2 -
+
+25 LC 61 0103
+42 20-2-161. At least 90 percent of the grant funds received by an eligible local unit of
+43 administration under this Code section shall be used for direct program expenditures for
+44 the benefit of students living in poverty for which the grant is provided under this Code
+45 section. Any portion of that 90 percent not so expended shall be returned to the State
+46 Board of Education."
+47 SECTION 2.
+48 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 128
+- 3 -
+
+[DELETED: 5L]
+[DELETED: 5L t d o t t ' c a y u t f  T S B o E s p g t e l u o]
+[DELETED: 5L]

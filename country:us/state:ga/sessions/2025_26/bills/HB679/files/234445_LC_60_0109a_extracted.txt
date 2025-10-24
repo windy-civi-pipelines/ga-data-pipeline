@@ -1,0 +1,214 @@
+Title: House Bill 679
+Official Title: House Bill 679
+Number of Sections: 1
+Source: versions - LC 60 0109/a
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25 LC 60 0109
+By: Representatives Sanchez of the 42nd, Frye of the 122nd, Cummings of the 39th, Bell of the
+75th, and Taylor of the 92nd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 8 of Title 13 of the Official Code of Georgia Annotated, relating to illegal
+2 and void contracts generally, so as to prohibit certain agreements involving rental
+3 price-fixing as unenforceable contracts in general restraint of trade with respect to residential
+4 rental properties; to provide for a criminal penalty; to provide for statutory construction; to
+5 provide for a short title; to provide for an effective date and applicability; to provide for
+6 related matters; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "End Rental Price-Fixing Act."
+10 SECTION 2.
+11 The General Assembly finds that there is a housing crisis in Georgia. For many years, the
+12 cost of living in Georgia has been low, providing benefits to existing Georgians and
+13 encouraging future residents to move to Georgia. However, the cost of housing in Georgia
+14 has begun to rise steeply. One factor in this recent increase is coordination among landlords
+15 to fix rental prices. In 2024, the U.S. Department of Justice sued a Georgia landlord over
+H. B. 679
+- 1 -
+25 LC 60 0109
+16 price-fixing. This coordination not only undermines market competition, but it also threatens
+17 the financial well-being of Georgians. The General Assembly finds, therefore, that this Act
+18 is necessary to protect the general welfare of Georgians.
+19 SECTION 3.
+20 Chapter 8 of Title 13 of the Official Code of Georgia Annotated, relating to illegal and void
+21 contracts generally, is amended by adding a new Code section to read as follows:
+22 "13-8-5.
+23 (a) As used in this Code section, the term:
+24 (1) 'Agreement' means any contract, combination, or other agreement, whether verbal or
+25 written.
+26 (2) 'Coordinator' means an individual who uses or causes to be used a system, software,
+27 or process that performs a coordinating function for one or more landlords that compete
+28 in the same or a similar market, including a landlord that is performing a coordinating
+29 function for the landlord's own benefit.
+30 (3) 'Landlord' means the owner, lessor, or sublessor of a residential property or any
+31 person designated as an agent or representative of the owner, lessor, or sublessor,
+32 including, but not limited to, an agent, a resident manager, or a designated property
+33 manager.
+34 (4) 'Person' means any individual, partnership, association, firm, public or private
+35 corporation, trust, or unincorporated organization. Such term shall include a coordinator
+36 or a landlord.
+37 (5) 'Price-fixing' means any agreement between two or more landlords that compete in
+38 the same or a similar market to raise, lower, change, maintain, or otherwise manipulate
+39 the rental price of two or more residential properties based on a price-fixing function.
+40 (6) 'Price-fixing function' means:
+H. B. 679
+- 2 -
+25 LC 60 0109
+41 (A) Collecting historical or contemporaneous rental prices, supply levels, or rental
+42 agreement termination and renewal dates of residential properties, including nonpublic
+43 information, from two or more landlords that compete in the same or a similar market;
+44 (B) Analyzing or processing the information described in subparagraph (A) of this
+45 paragraph through the use of a system, software, or process that uses computation,
+46 including, but not limited to, a computational process that uses machine learning or
+47 other artificial intelligence techniques; and
+48 (C) Recommending rental prices, rental agreement renewal terms, or ideal occupancy
+49 levels to a landlord.
+50 (7) 'Rental agreement' means any lease, rental, or other written agreement entered into
+51 by a landlord and a tenant in order for such tenant to lease, sublease, let, or accept a grant
+52 for consideration the right to possess and enjoy the use of a residential property.
+53 (8) 'Rental price' means any consideration a tenant must pay in order to lease, sublease,
+54 let, or accept a grant of the right to possess and enjoy the use of a residential property
+55 either for a fixed time or at the will of the landlord.
+56 (9) 'Residential property' means any building, structure, or portion thereof which is used
+57 or occupied as, or designed or intended for use or occupancy as, a residence.
+58 (b) No person shall enter into or cause to be entered into an agreement involving
+59 price-fixing. Any such agreement shall be deemed an unenforceable contract in general
+60 restraint of trade as provided in Code Section 13-8-2, and any person that enters into or
+61 causes to be entered into such an agreement shall, upon conviction thereof, be guilty of a
+62 felony and be punished by imprisonment for not less than one nor more than five years, or
+63 by a fine of not less than $1,000.00 nor more than $5,000.00, or by both imprisonment and
+64 fine.
+65 (c) No landlord shall set rental prices based on a price-fixing function.
+66 (d) Nothing in this Code section shall be construed to apply to, impair, or otherwise
+67 prohibit actions taken by a person or any federal, state, or local governmental entity, or any
+H. B. 679
+- 3 -
+25 LC 60 0109
+68 official, employee, or agent thereof, while in the exercise or performance of any power or
+69 duty imposed by a federal or state affordable or low-income housing law, program, or
+70 initiative."
+71 SECTION 4.
+72 This Act shall become effective upon its approval by the Governor or upon its becoming law
+73 without such approval and shall apply to all agreements related to residential property
+74 entered into on or after such date and to all renewals, modifications, or extensions of such
+75 agreements entered into on or after such date.
+76 SECTION 5.
+77 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 679
+- 4 -
+[DELETED: 5L2,2,9,dndt5,2hn v c g s a t p c a i r o l i G h b l p b t e G a]
+[DELETED: 5L d a a a o r o t o l o s  ' m a i p a f p o p]
+[DELETED: 5L  N p s e i o c t b e i a a i]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 60 0109
+House Bill 679
+By: Representatives Sanchez of the 42nd, Frye of the 122nd, Cummings of the 39th, Bell of the
+75th, and Taylor of the 92nd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 8 of Title 13 of the Official Code of Georgia Annotated, relating to illegal
+2 and void contracts generally, so as to prohibit certain agreements involving rental
+3 price-fixing as unenforceable contracts in general restraint of trade with respect to residential
+4 rental properties; to provide for a criminal penalty; to provide for statutory construction; to
+5 provide for a short title; to provide for an effective date and applicability; to provide for
+6 related matters; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "End Rental Price-Fixing Act."
+10 SECTION 2.
+11 The General Assembly finds that there is a housing crisis in Georgia. For many years, the
+12 cost of living in Georgia has been low, providing benefits to existing Georgians and
+13 encouraging future residents to move to Georgia. However, the cost of housing in Georgia
+14 has begun to rise steeply. One factor in this recent increase is coordination among landlords
+15 to fix rental prices. In 2024, the U.S. Department of Justice sued a Georgia landlord over
+H. B. 679
+- 1 -
+
+25 LC 60 0109
+16 price-fixing. This coordination not only undermines market competition, but it also threatens
+17 the financial well-being of Georgians. The General Assembly finds, therefore, that this Act
+18 is necessary to protect the general welfare of Georgians.
+19 SECTION 3.
+20 Chapter 8 of Title 13 of the Official Code of Georgia Annotated, relating to illegal and void
+21 contracts generally, is amended by adding a new Code section to read as follows:
+22 "13-8-5.
+23 (a) As used in this Code section, the term:
+24 (1) 'Agreement' means any contract, combination, or other agreement, whether verbal or
+25 written.
+26 (2) 'Coordinator' means an individual who uses or causes to be used a system, software,
+27 or process that performs a coordinating function for one or more landlords that compete
+28 in the same or a similar market, including a landlord that is performing a coordinating
+29 function for the landlord's own benefit.
+30 (3) 'Landlord' means the owner, lessor, or sublessor of a residential property or any
+31 person designated as an agent or representative of the owner, lessor, or sublessor,
+32 including, but not limited to, an agent, a resident manager, or a designated property
+33 manager.
+34 (4) 'Person' means any individual, partnership, association, firm, public or private
+35 corporation, trust, or unincorporated organization. Such term shall include a coordinator
+36 or a landlord.
+37 (5) 'Price-fixing' means any agreement between two or more landlords that compete in
+38 the same or a similar market to raise, lower, change, maintain, or otherwise manipulate
+39 the rental price of two or more residential properties based on a price-fixing function.
+40 (6) 'Price-fixing function' means:
+H. B. 679
+- 2 -
+
+25 LC 60 0109
+41 (A) Collecting historical or contemporaneous rental prices, supply levels, or rental
+42 agreement termination and renewal dates of residential properties, including nonpublic
+43 information, from two or more landlords that compete in the same or a similar market;
+44 (B) Analyzing or processing the information described in subparagraph (A) of this
+45 paragraph through the use of a system, software, or process that uses computation,
+46 including, but not limited to, a computational process that uses machine learning or
+47 other artificial intelligence techniques; and
+48 (C) Recommending rental prices, rental agreement renewal terms, or ideal occupancy
+49 levels to a landlord.
+50 (7) 'Rental agreement' means any lease, rental, or other written agreement entered into
+51 by a landlord and a tenant in order for such tenant to lease, sublease, let, or accept a grant
+52 for consideration the right to possess and enjoy the use of a residential property.
+53 (8) 'Rental price' means any consideration a tenant must pay in order to lease, sublease,
+54 let, or accept a grant of the right to possess and enjoy the use of a residential property
+55 either for a fixed time or at the will of the landlord.
+56 (9) 'Residential property' means any building, structure, or portion thereof which is used
+57 or occupied as, or designed or intended for use or occupancy as, a residence.
+58 (b) No person shall enter into or cause to be entered into an agreement involving
+59 price-fixing. Any such agreement shall be deemed an unenforceable contract in general
+60 restraint of trade as provided in Code Section 13-8-2, and any person that enters into or
+61 causes to be entered into such an agreement shall, upon conviction thereof, be guilty of a
+62 felony and be punished by imprisonment for not less than one nor more than five years, or
+63 by a fine of not less than $1,000.00 nor more than $5,000.00, or by both imprisonment and
+64 fine.
+65 (c) No landlord shall set rental prices based on a price-fixing function.
+66 (d) Nothing in this Code section shall be construed to apply to, impair, or otherwise
+67 prohibit actions taken by a person or any federal, state, or local governmental entity, or any
+H. B. 679
+- 3 -
+
+25 LC 60 0109
+68 official, employee, or agent thereof, while in the exercise or performance of any power or
+69 duty imposed by a federal or state affordable or low-income housing law, program, or
+70 initiative."
+71 SECTION 4.
+72 This Act shall become effective upon its approval by the Governor or upon its becoming law
+73 without such approval and shall apply to all agreements related to residential property
+74 entered into on or after such date and to all renewals, modifications, or extensions of such
+75 agreements entered into on or after such date.
+76 SECTION 5.
+77 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 679
+- 4 -
+
+[DELETED: 5L2,2,9,dndt5,2hn v c g s a t p c a i r o l i G h b l p b t e G a]
+[DELETED: 5L d a a a o r o t o l o s  ' m a i p a f p o p]
+[DELETED: 5L  N p s e i o c t b e i a a i]
+[DELETED: 5L]

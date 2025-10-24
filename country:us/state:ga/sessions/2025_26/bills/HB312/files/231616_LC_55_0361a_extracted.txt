@@ -1,0 +1,320 @@
+Title: House Bill 312
+Official Title: House Bill 312
+Number of Sections: 1
+Source: versions - LC 55 0361/a
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0361
+By: Representatives Schofield of the 63rd, Scott of the 76th, McClain of the 109th, and Davis
+of the 87th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 7 of Chapter 8 of Title 34 of the Official Code of Georgia Annotated,
+2 relating to employment security benefits, so as to allow applicants for benefits to obtain their
+3 personnel files when their claims are contested by their former employers; to provide for
+4 definitions; to require the Department of Labor to modify the separation notice; to sanction
+5 employers who fail to timely deliver personnel files; to prohibit the admissibility of certain
+6 separation notices; to require the Commissioner of Labor to enact rules or regulations; to
+7 provide for related matters; to provide for a short title; to provide for an effective date; to
+8 repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Employee Empowerment and
+12 Transparency Act."
+13 SECTION 2.
+14 Article 7 of Chapter 8 of Title 34 of the Official Code of Georgia Annotated, relating to
+15 employment security benefits, is amended by adding a new Code section to read as follows:
+H. B. 312
+- 1 -
+25 LC 55 0361
+16 "34-8-200.
+17 (a) As used in this Code section, the term:
+18 (1) 'Claimant' means a separated employee whose employer that separated him or her
+19 from employment is a contesting employer.
+20 (2) 'Contesting employer' means an employer that has indicated on a separation notice
+21 that it contends that the separated employee cannot establish the existence of any of the
+22 statutory grounds set forth in subparagraph (B) of paragraph (2) of Code
+23 Section 34-8-194.
+24 (3) 'Contesting employer's representative' means the individual who signed the separation
+25 notice on behalf of the contesting employer.
+26 (4) 'Deficiency notice' means a claimant's written notice contending that the personnel
+27 file that is the subject of the written demand was not timely delivered.
+28 (5) 'Mailing address' means a street or route address or post office box address.
+29 (6) 'Personnel file' means:
+30 (A) The entire unredacted personnel or employment record made or kept by a
+31 contesting employer relating to a claimant, including, but not limited to, records
+32 required to be maintained under Code Section 34-2-11, in addition to records relating
+33 to hiring, promotion, demotion, transfer, layoff, separation, and termination; or
+34 (B) A portion of such personnel or employment record made or kept by the contesting
+35 employer when a written demand requests such designated portion of the personnel or
+36 employment record.
+37 Such term shall not include any documents separately maintained by an employer in a
+38 medical file.
+39 (7) 'Proof of delivery' means documentary proof that a contesting employer has sent the
+40 claimant's personnel file via the delivery method specified in the written demand.
+41 (8) 'Proof of payment' means a copy of a money order receipt, bank transaction, or
+42 confirmation of a payment by credit card or debit card.
+H. B. 312
+- 2 -
+25 LC 55 0361
+43 (9) 'Separated employee' means an employee who is separated from employment
+44 whether voluntarily or involuntarily.
+45 (10) 'Separation notice' means the form that must be completed pursuant to
+46 subsection (c) of Code Section 34-8-190 for each employee who leaves an employer's
+47 employment regardless of the reason for separation. Such term shall not include any
+48 forms that are completed for reasons of partial unemployment or mass separation.
+49 (11) 'Signed writing' means either an email with the claimant's name in the body of the
+50 email or a paper document with the claimant's signature affixed thereto.
+51 (12) 'Statutory fee' means payment in the form of a money order, bank transaction, debit
+52 card, or credit card in the amount of $30.00 when a claimant requests delivery of his or
+53 her personnel file via electronic means and $40.00 when a claimant requests delivery of
+54 his or her personnel file to a mailing address.
+55 (13) 'Written demand' means a signed writing by the claimant that demands a copy of the
+56 claimant's personnel file as designated by the claimant and that specifies the method of
+57 delivery.
+58 (b) Any claimant separated from employment on and after October 1, 2025, shall be
+59 entitled to receive from the contesting employer a copy of his or her personnel file.
+60 (c) No later than September 30, 2025, the department shall modify the separation notice
+61 to include:
+62 (1) A section where an employer can indicate whether it contends that the separated
+63 employee can or cannot establish the existence of any of the statutory grounds set forth
+64 in subparagraph (B) of paragraph (2) of Code Section 34-8-194; and
+65 (2) An obvious notation that a separated employee is entitled to demand delivery of his
+66 or her personnel file pursuant to this Code section if the employer has indicated on the
+67 separation form that it contends that the separated employee cannot establish the
+68 existence of any of the statutory grounds set forth in subparagraph (B) of paragraph (2)
+H. B. 312
+- 3 -
+25 LC 55 0361
+69 of Code Section 34-8-194. Such notation shall advise the separated employee of the
+70 deadline established in subsection (e) of this Code section.
+71 (d) On and after October 1, 2025, a separated employee shall be deemed to have
+72 established the existence of one or more of the statutory grounds set forth in
+73 subparagraph (B) of paragraph (2) of Code Section 34-8-194 if the completed separation
+74 notice relating to the separated employee does not indicate that the employer contends that
+75 the separated employee cannot establish the existence of any such statutory grounds.
+76 (e) To be entitled to receive his or her personnel file from a contesting employer, a
+77 claimant shall send a written demand to the contesting employer's representative. Such
+78 written demand shall be sent no later than ten calendar days after the claimant's receipt of
+79 the separation notice.
+80 (f) The written demand shall:
+81 (1) Indicate whether the claimant desires to receive his or her personnel file in electronic
+82 format via email or in paper format via delivery to a mailing address; and
+83 (2) Include the applicable statutory fee.
+84 (g) Within five business days of receiving a written demand and the applicable statutory
+85 fee, a contesting employer shall be required to deliver the claimant's personnel file via the
+86 delivery method specified in the written demand and to maintain such proof of delivery.
+87 (h) A claimant who contends that a contesting employer failed to timely deliver his or her
+88 personnel file shall simultaneously send a deficiency notice to the contesting employer's
+89 representative and to the department no later than 14 calendar days after the date on which
+90 the personnel file was required to be delivered. The deficiency notice shall include proof
+91 of payment. A failure to timely and simultaneously send a deficiency notice to the
+92 contesting employer's representative and the department or a failure to include proof of
+93 payment shall extinguish a claimant's ability under this Code section to obtain his or her
+94 personnel file.
+H. B. 312
+- 4 -
+25 LC 55 0361
+95 (i) Within seven business days of receiving a deficiency notice, the contesting employer
+96 shall be required to provide proof of delivery to the claimant and to the department. The
+97 date of receipt of the deficiency notice shall be deemed to be three business days after the
+98 date the claimant sends a copy of the deficiency notice to the contesting employer's
+99 representative whether by email or mail.
+100 (j) Provided that a claimant's deficiency notice complies with subsection (h) of this Code
+101 section, a contesting employer shall, in connection with a claim for benefits filed by the
+102 claimant, be prohibited from applying for reconsideration of the initial determination of
+103 benefits pursuant to Code Section 34-8-192 or otherwise appealing a determination that the
+104 claimant is entitled to benefits if the contesting employer:
+105 (1) Fails to produce proof of delivery by the deadline specified in subsection (i) of this
+106 Code section; or
+107 (2) Proof of delivery establishes that the contesting employer failed to deliver to the
+108 claimant the personnel file within the time period established in subsection (g) of this
+109 Code section.
+110 (k) A separation notice indicating that an employer contends that a separated employee can
+111 establish one or more of the statutory grounds set forth in subparagraph (B) of
+112 paragraph (2) of Code Section 34-8-194 shall not be admissible against the employer in any
+113 proceeding before a court of this state or the United States or before any local, state, or
+114 federal administrative agency, other than a proceeding instituted under this chapter.
+115 (l) The Commissioner shall promulgate rules and regulations necessary to implement and
+116 effectuate the provisions of this Code section."
+117 SECTION 3.
+118 This Act shall become effective upon its approval by the Governor or upon its becoming law
+119 without such approval.
+H. B. 312
+- 5 -
+25 LC 55 0361
+120 SECTION 4.
+121 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 312
+- 6 -
+[DELETED: 5L3,6,9,dtht7 A s b k a m b c a t " E a]
+[DELETED: 5L g s f i s ( o p ( o C  T e u p o e r m o k b  e r t a c i b n l t r]
+[DELETED: 5L  ' e m a e w i s f e  ' n m t f t m b c p t f t i c t t s e c e t]
+[DELETED: 5L  O a a O 1 2 a s e s b d t h t e o o o m o t s g s f i p  A f t t a s s a d n t t]
+[DELETED: 5L t c s a c o t d n t t e o o m o t s g s f i s ( o]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0361
+House Bill 312
+By: Representatives Schofield of the 63rd, Scott of the 76th, McClain of the 109th, and Davis
+of the 87th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 7 of Chapter 8 of Title 34 of the Official Code of Georgia Annotated,
+2 relating to employment security benefits, so as to allow applicants for benefits to obtain their
+3 personnel files when their claims are contested by their former employers; to provide for
+4 definitions; to require the Department of Labor to modify the separation notice; to sanction
+5 employers who fail to timely deliver personnel files; to prohibit the admissibility of certain
+6 separation notices; to require the Commissioner of Labor to enact rules or regulations; to
+7 provide for related matters; to provide for a short title; to provide for an effective date; to
+8 repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 This Act shall be known and may be cited as the "Employee Empowerment and
+12 Transparency Act."
+13 SECTION 2.
+14 Article 7 of Chapter 8 of Title 34 of the Official Code of Georgia Annotated, relating to
+15 employment security benefits, is amended by adding a new Code section to read as follows:
+H. B. 312
+- 1 -
+
+25 LC 55 0361
+16 "34-8-200.
+17 (a) As used in this Code section, the term:
+18 (1) 'Claimant' means a separated employee whose employer that separated him or her
+19 from employment is a contesting employer.
+20 (2) 'Contesting employer' means an employer that has indicated on a separation notice
+21 that it contends that the separated employee cannot establish the existence of any of the
+22 statutory grounds set forth in subparagraph (B) of paragraph (2) of Code
+23 Section 34-8-194.
+24 (3) 'Contesting employer's representative' means the individual who signed the separation
+25 notice on behalf of the contesting employer.
+26 (4) 'Deficiency notice' means a claimant's written notice contending that the personnel
+27 file that is the subject of the written demand was not timely delivered.
+28 (5) 'Mailing address' means a street or route address or post office box address.
+29 (6) 'Personnel file' means:
+30 (A) The entire unredacted personnel or employment record made or kept by a
+31 contesting employer relating to a claimant, including, but not limited to, records
+32 required to be maintained under Code Section 34-2-11, in addition to records relating
+33 to hiring, promotion, demotion, transfer, layoff, separation, and termination; or
+34 (B) A portion of such personnel or employment record made or kept by the contesting
+35 employer when a written demand requests such designated portion of the personnel or
+36 employment record.
+37 Such term shall not include any documents separately maintained by an employer in a
+38 medical file.
+39 (7) 'Proof of delivery' means documentary proof that a contesting employer has sent the
+40 claimant's personnel file via the delivery method specified in the written demand.
+41 (8) 'Proof of payment' means a copy of a money order receipt, bank transaction, or
+42 confirmation of a payment by credit card or debit card.
+H. B. 312
+- 2 -
+
+25 LC 55 0361
+43 (9) 'Separated employee' means an employee who is separated from employment
+44 whether voluntarily or involuntarily.
+45 (10) 'Separation notice' means the form that must be completed pursuant to
+46 subsection (c) of Code Section 34-8-190 for each employee who leaves an employer's
+47 employment regardless of the reason for separation. Such term shall not include any
+48 forms that are completed for reasons of partial unemployment or mass separation.
+49 (11) 'Signed writing' means either an email with the claimant's name in the body of the
+50 email or a paper document with the claimant's signature affixed thereto.
+51 (12) 'Statutory fee' means payment in the form of a money order, bank transaction, debit
+52 card, or credit card in the amount of $30.00 when a claimant requests delivery of his or
+53 her personnel file via electronic means and $40.00 when a claimant requests delivery of
+54 his or her personnel file to a mailing address.
+55 (13) 'Written demand' means a signed writing by the claimant that demands a copy of the
+56 claimant's personnel file as designated by the claimant and that specifies the method of
+57 delivery.
+58 (b) Any claimant separated from employment on and after October 1, 2025, shall be
+59 entitled to receive from the contesting employer a copy of his or her personnel file.
+60 (c) No later than September 30, 2025, the department shall modify the separation notice
+61 to include:
+62 (1) A section where an employer can indicate whether it contends that the separated
+63 employee can or cannot establish the existence of any of the statutory grounds set forth
+64 in subparagraph (B) of paragraph (2) of Code Section 34-8-194; and
+65 (2) An obvious notation that a separated employee is entitled to demand delivery of his
+66 or her personnel file pursuant to this Code section if the employer has indicated on the
+67 separation form that it contends that the separated employee cannot establish the
+68 existence of any of the statutory grounds set forth in subparagraph (B) of paragraph (2)
+H. B. 312
+- 3 -
+
+25 LC 55 0361
+69 of Code Section 34-8-194. Such notation shall advise the separated employee of the
+70 deadline established in subsection (e) of this Code section.
+71 (d) On and after October 1, 2025, a separated employee shall be deemed to have
+72 established the existence of one or more of the statutory grounds set forth in
+73 subparagraph (B) of paragraph (2) of Code Section 34-8-194 if the completed separation
+74 notice relating to the separated employee does not indicate that the employer contends that
+75 the separated employee cannot establish the existence of any such statutory grounds.
+76 (e) To be entitled to receive his or her personnel file from a contesting employer, a
+77 claimant shall send a written demand to the contesting employer's representative. Such
+78 written demand shall be sent no later than ten calendar days after the claimant's receipt of
+79 the separation notice.
+80 (f) The written demand shall:
+81 (1) Indicate whether the claimant desires to receive his or her personnel file in electronic
+82 format via email or in paper format via delivery to a mailing address; and
+83 (2) Include the applicable statutory fee.
+84 (g) Within five business days of receiving a written demand and the applicable statutory
+85 fee, a contesting employer shall be required to deliver the claimant's personnel file via the
+86 delivery method specified in the written demand and to maintain such proof of delivery.
+87 (h) A claimant who contends that a contesting employer failed to timely deliver his or her
+88 personnel file shall simultaneously send a deficiency notice to the contesting employer's
+89 representative and to the department no later than 14 calendar days after the date on which
+90 the personnel file was required to be delivered. The deficiency notice shall include proof
+91 of payment. A failure to timely and simultaneously send a deficiency notice to the
+92 contesting employer's representative and the department or a failure to include proof of
+93 payment shall extinguish a claimant's ability under this Code section to obtain his or her
+94 personnel file.
+H. B. 312
+- 4 -
+
+25 LC 55 0361
+95 (i) Within seven business days of receiving a deficiency notice, the contesting employer
+96 shall be required to provide proof of delivery to the claimant and to the department. The
+97 date of receipt of the deficiency notice shall be deemed to be three business days after the
+98 date the claimant sends a copy of the deficiency notice to the contesting employer's
+99 representative whether by email or mail.
+100 (j) Provided that a claimant's deficiency notice complies with subsection (h) of this Code
+101 section, a contesting employer shall, in connection with a claim for benefits filed by the
+102 claimant, be prohibited from applying for reconsideration of the initial determination of
+103 benefits pursuant to Code Section 34-8-192 or otherwise appealing a determination that the
+104 claimant is entitled to benefits if the contesting employer:
+105 (1) Fails to produce proof of delivery by the deadline specified in subsection (i) of this
+106 Code section; or
+107 (2) Proof of delivery establishes that the contesting employer failed to deliver to the
+108 claimant the personnel file within the time period established in subsection (g) of this
+109 Code section.
+110 (k) A separation notice indicating that an employer contends that a separated employee can
+111 establish one or more of the statutory grounds set forth in subparagraph (B) of
+112 paragraph (2) of Code Section 34-8-194 shall not be admissible against the employer in any
+113 proceeding before a court of this state or the United States or before any local, state, or
+114 federal administrative agency, other than a proceeding instituted under this chapter.
+115 (l) The Commissioner shall promulgate rules and regulations necessary to implement and
+116 effectuate the provisions of this Code section."
+117 SECTION 3.
+118 This Act shall become effective upon its approval by the Governor or upon its becoming law
+119 without such approval.
+H. B. 312
+- 5 -
+
+25 LC 55 0361
+120 SECTION 4.
+121 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 312
+- 6 -
+
+[DELETED: 5L3,6,9,dtht7 A s b k a m b c a t " E a]
+[DELETED: 5L g s f i s ( o p ( o C  T e u p o e r m o k b  e r t a c i b n l t r]
+[DELETED: 5L  ' e m a e w i s f e  ' n m t f t m b c p t f t i c t t s e c e t]
+[DELETED: 5L  O a a O 1 2 a s e s b d t h t e o o o m o t s g s f i p  A f t t a s s a d n t t]
+[DELETED: 5L t c s a c o t d n t t e o o m o t s g s f i s ( o]
+[DELETED: 5L]
