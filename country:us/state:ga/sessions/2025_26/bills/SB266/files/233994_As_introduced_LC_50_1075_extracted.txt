@@ -1,0 +1,139 @@
+Title: Senate Bill 266
+Official Title: Senate Bill 266
+Number of Sections: 1
+Source: versions - As introduced LC 50 1075
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 50 1075
+By: Senators Esteves of the 35th, Gooch of the 51st, Brass of the 6th, Jones II of the 22nd,
+Still of the 48th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 11 of Chapter 3 of Title 20 of the Official Code of Georgia Annotated,
+2 relating to the Georgia Higher Education Savings Plan, so as to revise the maximum amount
+3 of contributions allowed per beneficiary of savings trust accounts for higher education
+4 expenses; to amend Code Section 48-7-27 of the Official Code of Georgia Annotated,
+5 relating to computation of taxable net income, so as to revise the deduction for contributions
+6 to savings trust accounts; to provide for a short title; to provide for related matters; to provide
+7 for an effective date; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 This Act shall be known and may be cited as the "College Success 529 Expansion Act."
+11 SECTION 2.
+12 Article 11 of Chapter 3 of Title 20 of the Official Code of Georgia Annotated, relating to the
+13 Georgia Higher Education Savings Plan, is amended by revising paragraph (1) of subsection
+14 (b) of Code Section 20-3-634, relating to savings trust accounts, availability, and terms and
+15 provisions, as follows:
+S. B. 266
+- 1 -
+25 LC 50 1075
+16 "(1) The maximum and minimum contribution allowed on behalf of each beneficiary for
+17 the payment of qualified higher education expenses at eligible institutions as defined in
+18 Section 529 of the Internal Revenue Code of 1986 or other applicable federal law;
+19 provided, however, that no additional contributions may be made to a savings trust
+20 account when the total account balance for all accounts for the beneficiary equals or
+21 exceeds $235,000.00 a reasonable maximum amount as determined by the board based
+22 on current and anticipated education expenses;"
+23 SECTION 3.
+24 Code Section 48-7-27 of the Official Code of Georgia Annotated, relating to computation of
+25 taxable net income, is amended by revising paragraph (11.1) of subsection (a) as follows:
+26 "(11.1) For taxable years beginning on or after January 1, 2020 2026:
+27 (A) An amount equal to the amount of contributions to a savings trust account
+28 established pursuant to Article 11 of Chapter 3 of Title 20 on behalf of the designated
+29 beneficiary, but not exceeding $4,000.00 $5,000.00 per beneficiary;
+30 (B) If the contributor files a separate return or single return, the sum of contributions
+31 constituting deductions on the contributor's return under this paragraph shall not exceed
+32 $4,000.00 $5,000.00 per beneficiary;
+33 (C) If the contributor files a joint return, the sum of contributions constituting
+34 deductions on the contributor's return under this paragraph shall not exceed $8,000.00
+35 $10,000.00 per beneficiary; and
+36 (D) For purposes of this paragraph, contributions or payments for any such taxable
+37 year may be made during or after such taxable year but on or before the deadline for
+38 making contributions to an individual retirement account under federal law for such
+39 taxable year;"
+S. B. 266
+- 2 -
+25 LC 50 1075
+40 SECTION 4.
+41 This Act shall become effective upon its approval by the Governor or upon its becoming law
+42 without such approval.
+43 SECTION 5.
+44 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 266
+- 3 -
+[DELETED: 5L]
+[DELETED: 5L  A a e t t a o c t a s t a  I t c f a j r t s o c c]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 50 1075
+Senate Bill 266
+By: Senators Esteves of the 35th, Gooch of the 51st, Brass of the 6th, Jones II of the 22nd,
+Still of the 48th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 11 of Chapter 3 of Title 20 of the Official Code of Georgia Annotated,
+2 relating to the Georgia Higher Education Savings Plan, so as to revise the maximum amount
+3 of contributions allowed per beneficiary of savings trust accounts for higher education
+4 expenses; to amend Code Section 48-7-27 of the Official Code of Georgia Annotated,
+5 relating to computation of taxable net income, so as to revise the deduction for contributions
+6 to savings trust accounts; to provide for a short title; to provide for related matters; to provide
+7 for an effective date; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 This Act shall be known and may be cited as the "College Success 529 Expansion Act."
+11 SECTION 2.
+12 Article 11 of Chapter 3 of Title 20 of the Official Code of Georgia Annotated, relating to the
+13 Georgia Higher Education Savings Plan, is amended by revising paragraph (1) of subsection
+14 (b) of Code Section 20-3-634, relating to savings trust accounts, availability, and terms and
+15 provisions, as follows:
+S. B. 266
+- 1 -
+
+25 LC 50 1075
+16 "(1) The maximum and minimum contribution allowed on behalf of each beneficiary for
+17 the payment of qualified higher education expenses at eligible institutions as defined in
+18 Section 529 of the Internal Revenue Code of 1986 or other applicable federal law;
+19 provided, however, that no additional contributions may be made to a savings trust
+20 account when the total account balance for all accounts for the beneficiary equals or
+21 exceeds $235,000.00 a reasonable maximum amount as determined by the board based
+22 on current and anticipated education expenses;"
+23 SECTION 3.
+24 Code Section 48-7-27 of the Official Code of Georgia Annotated, relating to computation of
+25 taxable net income, is amended by revising paragraph (11.1) of subsection (a) as follows:
+26 "(11.1) For taxable years beginning on or after January 1, 2020 2026:
+27 (A) An amount equal to the amount of contributions to a savings trust account
+28 established pursuant to Article 11 of Chapter 3 of Title 20 on behalf of the designated
+29 beneficiary, but not exceeding $4,000.00 $5,000.00 per beneficiary;
+30 (B) If the contributor files a separate return or single return, the sum of contributions
+31 constituting deductions on the contributor's return under this paragraph shall not exceed
+32 $4,000.00 $5,000.00 per beneficiary;
+33 (C) If the contributor files a joint return, the sum of contributions constituting
+34 deductions on the contributor's return under this paragraph shall not exceed $8,000.00
+35 $10,000.00 per beneficiary; and
+36 (D) For purposes of this paragraph, contributions or payments for any such taxable
+37 year may be made during or after such taxable year but on or before the deadline for
+38 making contributions to an individual retirement account under federal law for such
+39 taxable year;"
+S. B. 266
+- 2 -
+
+25 LC 50 1075
+40 SECTION 4.
+41 This Act shall become effective upon its approval by the Governor or upon its becoming law
+42 without such approval.
+43 SECTION 5.
+44 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 266
+- 3 -
+
+[DELETED: 5L]
+[DELETED: 5L  A a e t t a o c t a s t a  I t c f a j r t s o c c]
+[DELETED: 5L]

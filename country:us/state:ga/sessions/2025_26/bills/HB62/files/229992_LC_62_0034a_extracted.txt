@@ -1,0 +1,708 @@
+Title: House Bill 62
+Official Title: House Bill 62
+Number of Sections: 1
+Source: versions - LC 62 0034/a
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+25 LC 62 0034
+By: Representatives Scott of the 76th, Davis of the 87th, and Schofield of the 63rd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Articles 3 and 6 of Chapter 3 of Title 44 of the Official Code of Georgia
+2 Annotated, relating to condominium associations and property owners' associations,
+3 respectively, so as to provide requirements for board members for condominium associations
+4 and property owners' associations; to provide for allocation of votes; to provide for proxies;
+5 to provide for quorums; to provide for residency for board members; to provide for size
+6 requirements for boards; to provide for board elections, filing, and certification; to provide
+7 for contests of election results; to provide for annual registration requirements for such
+8 associations; to provide for a short title; to provide for a purpose; to provide for related
+9 matters; to provide for an effective date and applicability; to provide for severability; to
+10 repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 This Act shall be known as the "Georgia HOA Accountability and Community
+14 Empowerment Act (HACEA)."
+H. B. 62
+- 1 -
+25 LC 62 0034
+15 SECTION 2.
+16 The purpose of this Act is to establish fair, transparent, and enforceable regulations for
+17 homeowners' associations, including condominium associations and property owner's
+18 associations, to ensure accountability, enhance resident engagement, and protect the interests
+19 of community members.
+20 SECTION 3.
+21 Article 3 of Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to
+22 condominiums, is amended by revising paragraph (8) of subsection (a) of Code
+23 Section 44-3-77, relating to contents of declaration, as follows:
+24 "(8) The allocation to each unit of a number of votes in the association of one vote in
+25 accordance with Code Section 44-3-79."
+26 SECTION 4.
+27 Said article is further amended by revising Code Section 44-3-79, relating to
+28 allocation – votes in association, how votes cast, and majority vote requirements, as follows:
+29 "44-3-79.
+30 (a) The declaration shall allocate a number of votes in the association to each unit depicted
+31 on plats or plans that comply with subsections (a) and (b) of Code Section 44-3-83. The
+32 allocation of such votes may be by percentage, fraction, formula, or any other method
+33 which indicates the relative voting power allocated to each unit. If an equal vote is
+34 allocated to each unit, the declaration may merely so state. All of the votes in the
+35 association shall be allocated among the units depicted on such plats or plans and shall be
+36 subject to reallocation as provided in this article one vote to each unit.
+37 (b) Since a unit owner may be more than one person, if only one of those persons is
+38 present at a meeting of the association or is voting by proxy, ballot, or written consent, that
+39 such person shall be entitled to cast the votes vote pertaining to that unit. However, if more
+H. B. 62
+- 2 -
+25 LC 62 0034
+40 than one of those such persons is are present or each executes a proxy, ballot, or written
+41 consent, the vote pertaining to that unit shall be cast only in accordance with their
+42 unanimous agreement unless the condominium instruments expressly provide otherwise;
+43 and such consent shall be conclusively presumed if any one of them purports to cast the
+44 votes vote pertaining to that unit without protest being made immediately by any of the
+45 others to the person presiding over the meeting or vote.
+46 (c) The votes vote pertaining to any unit may, and, in the case of any unit owner not a
+47 natural person or persons, shall, be cast pursuant to a proxy or proxies duly executed by or
+48 on behalf of the unit owner or, in cases where the unit owner is more than one person, by
+49 or on behalf of the joint owners of the unit. No such proxy shall be revocable except as
+50 provided in Code Section 14-2-722 or 14-3-724 or by written notice delivered to the
+51 association by the unit owner or by any joint owners of a unit. Any proxy shall be void if
+52 it is not dated or if it purports to be revocable without such notice. Any proxy shall also
+53 reasonably identify the unit owner or owners and the unit for which it is a proxy. If such
+54 proxy does not reasonably identify the unit owner or owners and the unit for which it is a
+55 proxy, such proxy shall be void.
+56 (d) Except in the case of any condominium of which no part is restricted exclusively to
+57 residential use, if 50 percent or more of the votes in the association pertain to 25 percent
+58 or less of the condominium units, then in any case where a majority vote is required by the
+59 condominium instruments or by this article the requirement for such a majority shall be
+60 deemed to include, in addition to the specified majority of the votes, assent by the unit
+61 owners of a like majority of the condominium units.
+62 (e)(d) Anything in this Code section to the contrary notwithstanding, no votes vote in the
+63 association shall be deemed to pertain to any condominium unit during such time as the
+64 unit owner thereof is the association nor shall any vote be allocated to any condominium
+65 unit unless the condominium unit is depicted on plats or plans that comply with
+66 subsections (a) and (b) of Code Section 44-3-83. Except to the extent otherwise expressly
+H. B. 62
+- 3 -
+25 LC 62 0034
+67 provided or permitted by this article, the votes vote allocated to any condominium unit
+68 shall not be altered."
+69 SECTION 5.
+70 Said article is further amended by revising Code Sections 44-3-103 and 44-3-104, relating
+71 to quorums at meetings of association or board and directors and officers and eligibility,
+72 respectively, as follows;
+73 "44-3-103.
+74 (a) Unless the condominium instruments or bylaws provide otherwise, a quorum shall be
+75 deemed present throughout any meeting, except the annual meeting, of the members of the
+76 association if persons entitled to cast more than one-third of the votes are present at the
+77 beginning of the meeting. Unless the condominium instruments or bylaws specify a larger
+78 percentage, the presence of persons entitled to cast one-half of the votes of the board of
+79 directors shall constitute a quorum for the transaction of any business at any meeting of the
+80 board.
+81 (b) A quorum shall be deemed present throughout any annual meeting of the members of
+82 the association. Decisions and elections may proceed regardless of the number of members
+83 of the association in attendance at such meeting.
+84 44-3-104.
+85 (a) If the condominium instruments provide that any member of the board of directors or
+86 any officer of the association must be a unit owner, then, notwithstanding paragraph (1) of
+87 subsection (a) of Code Section 44-3-75, the Members of a board of directors or any officer
+88 of an association shall be a unit owner with residency in the community. A unit owner
+89 establishes residency by being a unit owner of a condominium governed by the
+90 condominium association, paying utilities for the unit, using the unit address for voter
+91 registration, and listing the unit on his or her driver's license or other government
+H. B. 62
+- 4 -
+25 LC 62 0034
+92 identification. Nonresident individuals shall not be eligible to serve on the board. The
+93 term 'unit owner' in such context shall, unless the condominium instruments otherwise
+94 provide, be deemed to include, without limitation, any shareholder, director, officer, partner
+95 in, or trustee of any person who is, either alone or in conjunction with any other person or
+96 persons, a unit owner. Any individual who would not be eligible to serve as a member of
+97 the board of directors or officer were he or she not a shareholder, director, officer, partner
+98 in, or trustee of such a person shall be deemed to have disqualified himself or herself from
+99 continuing in office if he or she ceases to have any such affiliation with that such person.
+100 (b) A board of directors shall consist of three or more individuals. Only one individual
+101 residing in a unit shall be eligible to serve on such board at any time.
+102 (c) The association shall provide proof of meeting the minimum number of board members
+103 as part of filing its annual registration for the Secretary of State pursuant to Code
+104 Section 14-2-1622 or Code Section 14-3-1622.
+105 (d) Failure to meet the requirements in subsection (c) of this Code section shall subject the
+106 condominium association to administrative suspension by the Secretary of State until the
+107 following conditions are met:
+108 (1) A successful election is held to reinstate the board with at least three members; and
+109 (2) A reinstatement request providing proof of meeting the minimum number of board
+110 members is submitted and approved by the Secretary of State."
+111 SECTION 6.
+112 Said article is further amended by adding new Code sections to read as follows:
+113 "44-3-104.1.
+114 (a) Elections of board members shall be held not less frequently than annually. Board
+115 members shall be elected by winning a majority of the voting units. Elections shall be held
+116 in accordance with the term limits set forth in the association's bylaws.
+H. B. 62
+- 5 -
+25 LC 62 0034
+117 (b) Ballots shall include the names of candidates and shall be given to each voting
+118 member, including such members voting by proxy.
+119 (c) The association shall maintain electronic scans of each ballot to be made available for
+120 inspection by unit owners for one year following any election for board members.
+121 (d) Election results shall be filed with the Secretary of State's Corporations Division
+122 within 30 days of such election.
+123 (e) The Secretary of State shall certify election results not fewer than 30 days nor more
+124 than 45 days after such election or more than 15 days after the Secretary of State's
+125 Corporations Division resolves election contests, whichever is later. The Secretary of
+126 State's Corporations Division shall maintain certified election records for at least three
+127 years after certification.
+128 44-3-104.2.
+129 (a) A petition to contest the result of an election provided for in Code Section 44-3-104.1
+130 shall be filed with the Secretary of State's Corporations Division by a unit owner within
+131 seven days of an association filing an election result with such division. Such petition shall
+132 allege:
+133 (1) The contestant's qualification to institute the contest;
+134 (2) The contestant's desire to contest the result of such election;
+135 (3) The name of each person who was a candidate at such election;
+136 (4) Each ground of contest;
+137 (5) The date the association filed the result of such election with the Secretary of State's
+138 Corporations Division;
+139 (6) The relief sought; and
+140 (7) Such other facts as are necessary to provide a full, particular, and explicit statement
+141 of such contest.
+H. B. 62
+- 6 -
+25 LC 62 0034
+142 (b) Such contestant may file documentation and other evidence to support the contest with
+143 the petition.
+144 (c) The petition shall be verified by the affidavit of each contestant. Such affidavit shall
+145 be taken and subscribed before some person authorized by law to administer oaths and
+146 shall state that the contestant believes the facts alleged therein are true and that according
+147 to the best of his or her knowledge and belief the contested result of the election is incorrect
+148 and the petition to contest the same is made in good faith.
+149 (d) Upon the filing of a petition provided for in this Code section, the Secretary of State's
+150 Corporations Division shall issue to the association notice requiring the association to
+151 answer such petition by a day to be fixed in such notice not more than ten days nor fewer
+152 than five days after the service of such notice. Such notice shall be sent to the association
+153 by certified mail.
+154 (e) After the filing of a petition and answer, the Secretary of State's Corporations Division
+155 shall render a decision on the petition not more than 15 days after the filing of such answer.
+156 When a contestant prevails, the election for board members shall be repeated. When the
+157 association prevails, the results of such election shall stand as filed with the Secretary of
+158 State's Corporations Division.
+159 (f) Petitions filed pursuant to this Code section after the Secretary of State's Corporations
+160 Division has certified the election but on or before seven days after the association filed the
+161 election result shall be deemed timely.
+162 44-3-104.3.
+163 The Secretary of State is authorized to investigate complaints, enforce compliance, and
+164 impose penalties for violations of this Act."
+H. B. 62
+- 7 -
+25 LC 62 0034
+165 SECTION 7.
+166 Article 6 of Chapter 3 of Title 44, relating to property owners' associations, is amended by
+167 revising Code Section 44-3-224, relating to voting at association meetings, as follows:
+168 "44-3-224.
+169 (a) The declaration shall allocate one vote to each lot.
+170 (a)(b) Since a lot owner may be more than one person, if only one of those persons is
+171 present at a meeting of the association, or is voting by proxy, ballot, or written consent, that
+172 such person shall be entitled to cast the votes vote pertaining to that lot. However, if more
+173 than one of those such persons is are present, or each executes a proxy, ballot, or written
+174 consent, the vote pertaining to that lot shall be cast only in accordance with their
+175 unanimous agreement unless the instrument expressly provides otherwise; and such
+176 consent shall be conclusively presumed if any one of them purports to cast the votes vote
+177 pertaining to that lot without protest being made immediately by any of the others to the
+178 person presiding over the meeting or vote.
+179 (b)(c) The votes vote pertaining to any lot may, and, in the case of any lot owner not a
+180 natural person or persons, shall, be cast pursuant to a proxy or proxies duly executed by or
+181 on behalf of the lot owner or, in cases where the lot owner is more than one person, by or
+182 on behalf of the joint owners of the lot. No such proxy shall be revocable except as
+183 provided in Code Section 14-2-722 or Code Section 14-3-724 or by written notice
+184 delivered to the association by the lot owner or by any joint owners of a lot. Any proxy
+185 shall be void if it is not dated or if it purports to be revocable without such notice. Any
+186 proxy shall reasonably identify the lot owner or owners and the lot for which it is a proxy.
+187 If such proxy does not reasonably identify the lot owner or owners and the lot for which
+188 it is a proxy, such proxy shall be void."
+189 SECTION 8.
+190 Said article is further amended by adding new Code sections to read as follows:
+H. B. 62
+- 8 -
+25 LC 62 0034
+191 "44-3-227.1.
+192 (a) Members of a board or any officer of an association shall be a lot owner with residency
+193 in the community. A lot owner establishes residency by being a lot owner of property
+194 governed by the property owners' association, paying utilities for the lot, using the lot
+195 address for voter registration, and listing the lot on his or her driver's license or other
+196 government identification. Nonresident individuals shall not be eligible to serve on the
+197 board. The term 'lot owner' in such context shall, unless the instrument otherwise provides,
+198 be deemed to include, without limitation, any shareholder, director, officer, partner in, or
+199 trustee of any person who is, either alone or in conjunction with any other person or
+200 persons, a lot owner. Any individual who would not be eligible to serve as a board member
+201 or officer were he or she not a shareholder, director, officer, partner in, or trustee of such
+202 a person shall be deemed to have disqualified himself or herself from continuing in office
+203 if he or she ceases to have any such affiliation with such person.
+204 (b) A board shall consist of three or more individuals. Only one individual residing on a
+205 property shall be eligible to serve on a board at any time.
+206 (c) The association shall provide proof of meeting the minimum number of board members
+207 as part of filing its annual registration for the Secretary of State pursuant to Code
+208 Section 14-2-1622 or Code Section 16-3-1622.
+209 (d) Failure to meet the requirements in subsection (c) of this Code section shall subject the
+210 property owner's association to administrative suspension by the Secretary of State until
+211 the following conditions are met:
+212 (1) A successful election is held to reinstate the board with at least three members; and
+213 (2) A reinstatement request providing proof of meeting the minimum number of board
+214 members is submitted and approved by the Secretary of State.
+H. B. 62
+- 9 -
+25 LC 62 0034
+215 44-3-227.2.
+216 (a) Elections of board members shall be held not less frequently than annually. Board
+217 members shall be elected by winning a majority of the voting lot owners. Elections shall
+218 be held in accordance with the term limits set forth in the association's bylaws.
+219 (b) Ballots shall include the names of candidates and shall be given to each voting
+220 member, including such members voting by proxy.
+221 (c) The association shall maintain electronic scans of each ballot to be made available for
+222 inspection by lot owners following any election for board members.
+223 (d) Election results shall be filed with the Secretary of State's Corporations Division
+224 within 30 days of such election.
+225 (e) The Secretary of State shall certify board election results not fewer than 30 days nor
+226 more than 45 days after such election or more than 15 days after the Secretary of State's
+227 Corporations Division resolves election contests, whichever is later. The Secretary of
+228 State's Corporations Division shall maintain certified election records for at least three
+229 years after certification.
+230 44-3-227.3.
+231 (a) A petition to contest the election result shall be filed with the Secretary of State's
+232 Corporations Division by a lot owner within seven days of an association filing an election
+233 result with such division. Such petition shall allege:
+234 (1) The contestant's qualification to institute the contest;
+235 (2) The contestant's desire to contest the result of such election;
+236 (3) The name of each person who was a candidate at such election;
+237 (4) Each ground of contest;
+238 (5) The date the association filed the result with the Secretary of State's Corporations
+239 Division;
+240 (6) The relief sought; and
+H. B. 62
+- 10 -
+25 LC 62 0034
+241 (7) Such other facts as are necessary to provide a full, particular, and explicit statement
+242 of such contest.
+243 (b) Such contestant may file documentation and other evidence to support the contest with
+244 the petition.
+245 (c) The petition shall be verified by the affidavit of each contestant. Such affidavit shall
+246 be taken and subscribed before some person authorized by law to administer oaths and
+247 shall state that the contestant believes the facts alleged therein are true and that according
+248 to the best of his or her knowledge and belief the contested result of the election is incorrect
+249 and the petition to contest the same is made in good faith.
+250 (d) Upon the filing of a petition provided for in this Code section, the Secretary of State's
+251 Corporations Division shall issue to the association notice requiring the association to
+252 answer such petition by a day to be fixed in such notice not more than ten days nor fewer
+253 than five days after the service of such notice. Such notice shall be sent to the association
+254 by certified mail.
+255 (e) After the filing of a petition and answer, the Secretary of State's Corporations Division
+256 shall render a decision on the petition not more than 15 days after such filing of the answer.
+257 When a contestant prevails, the election for the board members shall be repeated. When
+258 the association prevails, the results of such election shall stand as filed with the Secretary
+259 of State's Corporations Division.
+260 (f) Petitions filed pursuant to this Code section after the Secretary of State's Corporations
+261 Division has certified the election but on or before seven days after the association filed the
+262 election result shall be deemed timely.
+263 44-3-227.4.
+264 The Secretary of State is authorized to investigate complaints, enforce compliance, and
+265 impose penalties for violations of this Act."
+H. B. 62
+- 11 -
+25 LC 62 0034
+266 SECTION 9.
+267 Said article is further amended by revising Code Section 44-3-228, relating to presence of
+268 quorums at meetings, as follows:
+269 "44-3-228.
+270 (a) Unless the instrument or bylaws provide otherwise, a quorum shall be deemed present
+271 throughout any meeting, except the annual meeting, of the members of the association if
+272 persons entitled to cast more than one-third of the votes are present at the beginning of the
+273 meeting. Unless the instrument or bylaws specify a larger percentage, the presence of
+274 persons entitled to cast one-half of the votes of the board of directors shall constitute a
+275 quorum for the transaction of business at any meeting of the board.
+276 (b) A quorum shall be deemed present throughout any annual meeting of the members of
+277 the association. Decisions and elections may proceed regardless of the number of members
+278 of the association in attendance at such meeting."
+279 SECTION 10.
+280 This Act shall become effective six months after its approval by the Governor and shall apply
+281 to any condominium association or property owners' association created on or after such date,
+282 any association election held on or after such date, any annual meeting held on or after such
+283 date, and any annual registration filed on or after such date.
+284 SECTION 11.
+285 The provisions of this Act are severable, and if any of its provisions shall be held
+286 unconstitutional by any court of competent jurisdiction, the decision of such court shall not
+287 affect or impair any of the remaining provisions.
+288 SECTION 12.
+289 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 62
+- 12 -
+[DELETED: 5L6,7,3hthr a A 3 a 6 o C 3 o T 4 o t O C o G r t c a a p o a A s b k a t " H A a C]
+[DELETED: 5L a i c a a p o i a b r p ( o s ( o C a i f a b r C S 4 r t i t r v p a t e u I a e v i t e u t d m m s s A o t v i t]
+[DELETED: 5L t v p t t u s b c o i a w t u t c u i d o p o p t c w]
+[DELETED: 5L r b b a u o o a c g b t a l t u o h o h d l o o g]
+[DELETED: 5L p o f i a r f t S o S p t C]
+[DELETED: 5L i 4 d a s e o m t 1 d a t S o S]
+[DELETED: 5L]
+[DELETED: 5L t v p t t l s b c o i a w t a u t i e p o a s i C S 1 o C S 1 o b w n]
+[DELETED: 5L p o f i a r f t S o S p t C]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L p o t A a s a i a o i p s b h]
+
+
+================================================================================
+
+Raw Text:
+25 LC 62 0034
+House Bill 62
+By: Representatives Scott of the 76th, Davis of the 87th, and Schofield of the 63rd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Articles 3 and 6 of Chapter 3 of Title 44 of the Official Code of Georgia
+2 Annotated, relating to condominium associations and property owners' associations,
+3 respectively, so as to provide requirements for board members for condominium associations
+4 and property owners' associations; to provide for allocation of votes; to provide for proxies;
+5 to provide for quorums; to provide for residency for board members; to provide for size
+6 requirements for boards; to provide for board elections, filing, and certification; to provide
+7 for contests of election results; to provide for annual registration requirements for such
+8 associations; to provide for a short title; to provide for a purpose; to provide for related
+9 matters; to provide for an effective date and applicability; to provide for severability; to
+10 repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 This Act shall be known as the "Georgia HOA Accountability and Community
+14 Empowerment Act (HACEA)."
+H. B. 62
+- 1 -
+
+25 LC 62 0034
+15 SECTION 2.
+16 The purpose of this Act is to establish fair, transparent, and enforceable regulations for
+17 homeowners' associations, including condominium associations and property owner's
+18 associations, to ensure accountability, enhance resident engagement, and protect the interests
+19 of community members.
+20 SECTION 3.
+21 Article 3 of Chapter 3 of Title 44 of the Official Code of Georgia Annotated, relating to
+22 condominiums, is amended by revising paragraph (8) of subsection (a) of Code
+23 Section 44-3-77, relating to contents of declaration, as follows:
+24 "(8) The allocation to each unit of a number of votes in the association of one vote in
+25 accordance with Code Section 44-3-79."
+26 SECTION 4.
+27 Said article is further amended by revising Code Section 44-3-79, relating to
+28 allocation – votes in association, how votes cast, and majority vote requirements, as follows:
+29 "44-3-79.
+30 (a) The declaration shall allocate a number of votes in the association to each unit depicted
+31 on plats or plans that comply with subsections (a) and (b) of Code Section 44-3-83. The
+32 allocation of such votes may be by percentage, fraction, formula, or any other method
+33 which indicates the relative voting power allocated to each unit. If an equal vote is
+34 allocated to each unit, the declaration may merely so state. All of the votes in the
+35 association shall be allocated among the units depicted on such plats or plans and shall be
+36 subject to reallocation as provided in this article one vote to each unit.
+37 (b) Since a unit owner may be more than one person, if only one of those persons is
+38 present at a meeting of the association or is voting by proxy, ballot, or written consent, that
+39 such person shall be entitled to cast the votes vote pertaining to that unit. However, if more
+H. B. 62
+- 2 -
+
+25 LC 62 0034
+40 than one of those such persons is are present or each executes a proxy, ballot, or written
+41 consent, the vote pertaining to that unit shall be cast only in accordance with their
+42 unanimous agreement unless the condominium instruments expressly provide otherwise;
+43 and such consent shall be conclusively presumed if any one of them purports to cast the
+44 votes vote pertaining to that unit without protest being made immediately by any of the
+45 others to the person presiding over the meeting or vote.
+46 (c) The votes vote pertaining to any unit may, and, in the case of any unit owner not a
+47 natural person or persons, shall, be cast pursuant to a proxy or proxies duly executed by or
+48 on behalf of the unit owner or, in cases where the unit owner is more than one person, by
+49 or on behalf of the joint owners of the unit. No such proxy shall be revocable except as
+50 provided in Code Section 14-2-722 or 14-3-724 or by written notice delivered to the
+51 association by the unit owner or by any joint owners of a unit. Any proxy shall be void if
+52 it is not dated or if it purports to be revocable without such notice. Any proxy shall also
+53 reasonably identify the unit owner or owners and the unit for which it is a proxy. If such
+54 proxy does not reasonably identify the unit owner or owners and the unit for which it is a
+55 proxy, such proxy shall be void.
+56 (d) Except in the case of any condominium of which no part is restricted exclusively to
+57 residential use, if 50 percent or more of the votes in the association pertain to 25 percent
+58 or less of the condominium units, then in any case where a majority vote is required by the
+59 condominium instruments or by this article the requirement for such a majority shall be
+60 deemed to include, in addition to the specified majority of the votes, assent by the unit
+61 owners of a like majority of the condominium units.
+62 (e)(d) Anything in this Code section to the contrary notwithstanding, no votes vote in the
+63 association shall be deemed to pertain to any condominium unit during such time as the
+64 unit owner thereof is the association nor shall any vote be allocated to any condominium
+65 unit unless the condominium unit is depicted on plats or plans that comply with
+66 subsections (a) and (b) of Code Section 44-3-83. Except to the extent otherwise expressly
+H. B. 62
+- 3 -
+
+25 LC 62 0034
+67 provided or permitted by this article, the votes vote allocated to any condominium unit
+68 shall not be altered."
+69 SECTION 5.
+70 Said article is further amended by revising Code Sections 44-3-103 and 44-3-104, relating
+71 to quorums at meetings of association or board and directors and officers and eligibility,
+72 respectively, as follows;
+73 "44-3-103.
+74 (a) Unless the condominium instruments or bylaws provide otherwise, a quorum shall be
+75 deemed present throughout any meeting, except the annual meeting, of the members of the
+76 association if persons entitled to cast more than one-third of the votes are present at the
+77 beginning of the meeting. Unless the condominium instruments or bylaws specify a larger
+78 percentage, the presence of persons entitled to cast one-half of the votes of the board of
+79 directors shall constitute a quorum for the transaction of any business at any meeting of the
+80 board.
+81 (b) A quorum shall be deemed present throughout any annual meeting of the members of
+82 the association. Decisions and elections may proceed regardless of the number of members
+83 of the association in attendance at such meeting.
+84 44-3-104.
+85 (a) If the condominium instruments provide that any member of the board of directors or
+86 any officer of the association must be a unit owner, then, notwithstanding paragraph (1) of
+87 subsection (a) of Code Section 44-3-75, the Members of a board of directors or any officer
+88 of an association shall be a unit owner with residency in the community. A unit owner
+89 establishes residency by being a unit owner of a condominium governed by the
+90 condominium association, paying utilities for the unit, using the unit address for voter
+91 registration, and listing the unit on his or her driver's license or other government
+H. B. 62
+- 4 -
+
+25 LC 62 0034
+92 identification. Nonresident individuals shall not be eligible to serve on the board. The
+93 term 'unit owner' in such context shall, unless the condominium instruments otherwise
+94 provide, be deemed to include, without limitation, any shareholder, director, officer, partner
+95 in, or trustee of any person who is, either alone or in conjunction with any other person or
+96 persons, a unit owner. Any individual who would not be eligible to serve as a member of
+97 the board of directors or officer were he or she not a shareholder, director, officer, partner
+98 in, or trustee of such a person shall be deemed to have disqualified himself or herself from
+99 continuing in office if he or she ceases to have any such affiliation with that such person.
+100 (b) A board of directors shall consist of three or more individuals. Only one individual
+101 residing in a unit shall be eligible to serve on such board at any time.
+102 (c) The association shall provide proof of meeting the minimum number of board members
+103 as part of filing its annual registration for the Secretary of State pursuant to Code
+104 Section 14-2-1622 or Code Section 14-3-1622.
+105 (d) Failure to meet the requirements in subsection (c) of this Code section shall subject the
+106 condominium association to administrative suspension by the Secretary of State until the
+107 following conditions are met:
+108 (1) A successful election is held to reinstate the board with at least three members; and
+109 (2) A reinstatement request providing proof of meeting the minimum number of board
+110 members is submitted and approved by the Secretary of State."
+111 SECTION 6.
+112 Said article is further amended by adding new Code sections to read as follows:
+113 "44-3-104.1.
+114 (a) Elections of board members shall be held not less frequently than annually. Board
+115 members shall be elected by winning a majority of the voting units. Elections shall be held
+116 in accordance with the term limits set forth in the association's bylaws.
+H. B. 62
+- 5 -
+
+25 LC 62 0034
+117 (b) Ballots shall include the names of candidates and shall be given to each voting
+118 member, including such members voting by proxy.
+119 (c) The association shall maintain electronic scans of each ballot to be made available for
+120 inspection by unit owners for one year following any election for board members.
+121 (d) Election results shall be filed with the Secretary of State's Corporations Division
+122 within 30 days of such election.
+123 (e) The Secretary of State shall certify election results not fewer than 30 days nor more
+124 than 45 days after such election or more than 15 days after the Secretary of State's
+125 Corporations Division resolves election contests, whichever is later. The Secretary of
+126 State's Corporations Division shall maintain certified election records for at least three
+127 years after certification.
+128 44-3-104.2.
+129 (a) A petition to contest the result of an election provided for in Code Section 44-3-104.1
+130 shall be filed with the Secretary of State's Corporations Division by a unit owner within
+131 seven days of an association filing an election result with such division. Such petition shall
+132 allege:
+133 (1) The contestant's qualification to institute the contest;
+134 (2) The contestant's desire to contest the result of such election;
+135 (3) The name of each person who was a candidate at such election;
+136 (4) Each ground of contest;
+137 (5) The date the association filed the result of such election with the Secretary of State's
+138 Corporations Division;
+139 (6) The relief sought; and
+140 (7) Such other facts as are necessary to provide a full, particular, and explicit statement
+141 of such contest.
+H. B. 62
+- 6 -
+
+25 LC 62 0034
+142 (b) Such contestant may file documentation and other evidence to support the contest with
+143 the petition.
+144 (c) The petition shall be verified by the affidavit of each contestant. Such affidavit shall
+145 be taken and subscribed before some person authorized by law to administer oaths and
+146 shall state that the contestant believes the facts alleged therein are true and that according
+147 to the best of his or her knowledge and belief the contested result of the election is incorrect
+148 and the petition to contest the same is made in good faith.
+149 (d) Upon the filing of a petition provided for in this Code section, the Secretary of State's
+150 Corporations Division shall issue to the association notice requiring the association to
+151 answer such petition by a day to be fixed in such notice not more than ten days nor fewer
+152 than five days after the service of such notice. Such notice shall be sent to the association
+153 by certified mail.
+154 (e) After the filing of a petition and answer, the Secretary of State's Corporations Division
+155 shall render a decision on the petition not more than 15 days after the filing of such answer.
+156 When a contestant prevails, the election for board members shall be repeated. When the
+157 association prevails, the results of such election shall stand as filed with the Secretary of
+158 State's Corporations Division.
+159 (f) Petitions filed pursuant to this Code section after the Secretary of State's Corporations
+160 Division has certified the election but on or before seven days after the association filed the
+161 election result shall be deemed timely.
+162 44-3-104.3.
+163 The Secretary of State is authorized to investigate complaints, enforce compliance, and
+164 impose penalties for violations of this Act."
+H. B. 62
+- 7 -
+
+25 LC 62 0034
+165 SECTION 7.
+166 Article 6 of Chapter 3 of Title 44, relating to property owners' associations, is amended by
+167 revising Code Section 44-3-224, relating to voting at association meetings, as follows:
+168 "44-3-224.
+169 (a) The declaration shall allocate one vote to each lot.
+170 (a)(b) Since a lot owner may be more than one person, if only one of those persons is
+171 present at a meeting of the association, or is voting by proxy, ballot, or written consent, that
+172 such person shall be entitled to cast the votes vote pertaining to that lot. However, if more
+173 than one of those such persons is are present, or each executes a proxy, ballot, or written
+174 consent, the vote pertaining to that lot shall be cast only in accordance with their
+175 unanimous agreement unless the instrument expressly provides otherwise; and such
+176 consent shall be conclusively presumed if any one of them purports to cast the votes vote
+177 pertaining to that lot without protest being made immediately by any of the others to the
+178 person presiding over the meeting or vote.
+179 (b)(c) The votes vote pertaining to any lot may, and, in the case of any lot owner not a
+180 natural person or persons, shall, be cast pursuant to a proxy or proxies duly executed by or
+181 on behalf of the lot owner or, in cases where the lot owner is more than one person, by or
+182 on behalf of the joint owners of the lot. No such proxy shall be revocable except as
+183 provided in Code Section 14-2-722 or Code Section 14-3-724 or by written notice
+184 delivered to the association by the lot owner or by any joint owners of a lot. Any proxy
+185 shall be void if it is not dated or if it purports to be revocable without such notice. Any
+186 proxy shall reasonably identify the lot owner or owners and the lot for which it is a proxy.
+187 If such proxy does not reasonably identify the lot owner or owners and the lot for which
+188 it is a proxy, such proxy shall be void."
+189 SECTION 8.
+190 Said article is further amended by adding new Code sections to read as follows:
+H. B. 62
+- 8 -
+
+25 LC 62 0034
+191 "44-3-227.1.
+192 (a) Members of a board or any officer of an association shall be a lot owner with residency
+193 in the community. A lot owner establishes residency by being a lot owner of property
+194 governed by the property owners' association, paying utilities for the lot, using the lot
+195 address for voter registration, and listing the lot on his or her driver's license or other
+196 government identification. Nonresident individuals shall not be eligible to serve on the
+197 board. The term 'lot owner' in such context shall, unless the instrument otherwise provides,
+198 be deemed to include, without limitation, any shareholder, director, officer, partner in, or
+199 trustee of any person who is, either alone or in conjunction with any other person or
+200 persons, a lot owner. Any individual who would not be eligible to serve as a board member
+201 or officer were he or she not a shareholder, director, officer, partner in, or trustee of such
+202 a person shall be deemed to have disqualified himself or herself from continuing in office
+203 if he or she ceases to have any such affiliation with such person.
+204 (b) A board shall consist of three or more individuals. Only one individual residing on a
+205 property shall be eligible to serve on a board at any time.
+206 (c) The association shall provide proof of meeting the minimum number of board members
+207 as part of filing its annual registration for the Secretary of State pursuant to Code
+208 Section 14-2-1622 or Code Section 16-3-1622.
+209 (d) Failure to meet the requirements in subsection (c) of this Code section shall subject the
+210 property owner's association to administrative suspension by the Secretary of State until
+211 the following conditions are met:
+212 (1) A successful election is held to reinstate the board with at least three members; and
+213 (2) A reinstatement request providing proof of meeting the minimum number of board
+214 members is submitted and approved by the Secretary of State.
+H. B. 62
+- 9 -
+
+25 LC 62 0034
+215 44-3-227.2.
+216 (a) Elections of board members shall be held not less frequently than annually. Board
+217 members shall be elected by winning a majority of the voting lot owners. Elections shall
+218 be held in accordance with the term limits set forth in the association's bylaws.
+219 (b) Ballots shall include the names of candidates and shall be given to each voting
+220 member, including such members voting by proxy.
+221 (c) The association shall maintain electronic scans of each ballot to be made available for
+222 inspection by lot owners following any election for board members.
+223 (d) Election results shall be filed with the Secretary of State's Corporations Division
+224 within 30 days of such election.
+225 (e) The Secretary of State shall certify board election results not fewer than 30 days nor
+226 more than 45 days after such election or more than 15 days after the Secretary of State's
+227 Corporations Division resolves election contests, whichever is later. The Secretary of
+228 State's Corporations Division shall maintain certified election records for at least three
+229 years after certification.
+230 44-3-227.3.
+231 (a) A petition to contest the election result shall be filed with the Secretary of State's
+232 Corporations Division by a lot owner within seven days of an association filing an election
+233 result with such division. Such petition shall allege:
+234 (1) The contestant's qualification to institute the contest;
+235 (2) The contestant's desire to contest the result of such election;
+236 (3) The name of each person who was a candidate at such election;
+237 (4) Each ground of contest;
+238 (5) The date the association filed the result with the Secretary of State's Corporations
+239 Division;
+240 (6) The relief sought; and
+H. B. 62
+- 10 -
+
+25 LC 62 0034
+241 (7) Such other facts as are necessary to provide a full, particular, and explicit statement
+242 of such contest.
+243 (b) Such contestant may file documentation and other evidence to support the contest with
+244 the petition.
+245 (c) The petition shall be verified by the affidavit of each contestant. Such affidavit shall
+246 be taken and subscribed before some person authorized by law to administer oaths and
+247 shall state that the contestant believes the facts alleged therein are true and that according
+248 to the best of his or her knowledge and belief the contested result of the election is incorrect
+249 and the petition to contest the same is made in good faith.
+250 (d) Upon the filing of a petition provided for in this Code section, the Secretary of State's
+251 Corporations Division shall issue to the association notice requiring the association to
+252 answer such petition by a day to be fixed in such notice not more than ten days nor fewer
+253 than five days after the service of such notice. Such notice shall be sent to the association
+254 by certified mail.
+255 (e) After the filing of a petition and answer, the Secretary of State's Corporations Division
+256 shall render a decision on the petition not more than 15 days after such filing of the answer.
+257 When a contestant prevails, the election for the board members shall be repeated. When
+258 the association prevails, the results of such election shall stand as filed with the Secretary
+259 of State's Corporations Division.
+260 (f) Petitions filed pursuant to this Code section after the Secretary of State's Corporations
+261 Division has certified the election but on or before seven days after the association filed the
+262 election result shall be deemed timely.
+263 44-3-227.4.
+264 The Secretary of State is authorized to investigate complaints, enforce compliance, and
+265 impose penalties for violations of this Act."
+H. B. 62
+- 11 -
+
+25 LC 62 0034
+266 SECTION 9.
+267 Said article is further amended by revising Code Section 44-3-228, relating to presence of
+268 quorums at meetings, as follows:
+269 "44-3-228.
+270 (a) Unless the instrument or bylaws provide otherwise, a quorum shall be deemed present
+271 throughout any meeting, except the annual meeting, of the members of the association if
+272 persons entitled to cast more than one-third of the votes are present at the beginning of the
+273 meeting. Unless the instrument or bylaws specify a larger percentage, the presence of
+274 persons entitled to cast one-half of the votes of the board of directors shall constitute a
+275 quorum for the transaction of business at any meeting of the board.
+276 (b) A quorum shall be deemed present throughout any annual meeting of the members of
+277 the association. Decisions and elections may proceed regardless of the number of members
+278 of the association in attendance at such meeting."
+279 SECTION 10.
+280 This Act shall become effective six months after its approval by the Governor and shall apply
+281 to any condominium association or property owners' association created on or after such date,
+282 any association election held on or after such date, any annual meeting held on or after such
+283 date, and any annual registration filed on or after such date.
+284 SECTION 11.
+285 The provisions of this Act are severable, and if any of its provisions shall be held
+286 unconstitutional by any court of competent jurisdiction, the decision of such court shall not
+287 affect or impair any of the remaining provisions.
+288 SECTION 12.
+289 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 62
+- 12 -
+
+[DELETED: 5L6,7,3hthr a A 3 a 6 o C 3 o T 4 o t O C o G r t c a a p o a A s b k a t " H A a C]
+[DELETED: 5L a i c a a p o i a b r p ( o s ( o C a i f a b r C S 4 r t i t r v p a t e u I a e v i t e u t d m m s s A o t v i t]
+[DELETED: 5L t v p t t u s b c o i a w t u t c u i d o p o p t c w]
+[DELETED: 5L r b b a u o o a c g b t a l t u o h o h d l o o g]
+[DELETED: 5L p o f i a r f t S o S p t C]
+[DELETED: 5L i 4 d a s e o m t 1 d a t S o S]
+[DELETED: 5L]
+[DELETED: 5L t v p t t l s b c o i a w t a u t i e p o a s i C S 1 o C S 1 o b w n]
+[DELETED: 5L p o f i a r f t S o S p t C]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L p o t A a s a i a o i p s b h]

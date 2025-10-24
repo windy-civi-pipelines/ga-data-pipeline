@@ -1,0 +1,1645 @@
+Title: House Bill 36 (AS PASSED HOUSE AND SENATE)
+Official Title: House Bill 36 (AS PASSED HOUSE AND SENATE)
+Number of Sections: 1
+Source: versions - HB 36/AP*
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+25 HB 36/AP
+By: Representatives Leverett of the 123rd, Scoggins of the 14th, Kelley of the 16th, Oliver of
+the 84th, Powell of the 33rd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 29 of the Official Code of Georgia Annotated, relating to guardian and ward,
+2 so as to revise the list of providers who are authorized to participate in the processes for
+3 appointment of a guardian for an adult, the modification and termination of such
+4 guardianship, and the appointment of emergency guardian; to revise the list of providers who
+5 are authorized to participate in the processes for appointment of a conservator for an adult,
+6 the modification and termination of such conservatorship, and the appointment of emergency
+7 conservator; to provide for limitations on the powers and duties of certain emergency
+8 conservators; to revise and provide for definitions; to provide for related matters; to repeal
+9 conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Title 29 of the Official Code of Georgia Annotated, relating to guardian and ward, is
+13 amended by revising paragraph (10) of Code Section 29-1-1, relating to definitions, as
+14 follows:
+15 "(10) 'Licensed clinical social worker' means a social worker who is licensed as such in
+16 accordance with the provisions of Chapter 10A of Title 43."
+H. B. 36
+- 1 -
+25 HB 36/AP
+17 SECTION 2.
+18 Said title is further amended in Code Section 29-4-1, relating to prerequisite findings prior
+19 to appointment of guardian for adult and extent of guardianship, by adding a new paragraph
+20 to subsection (e) to read as follows:
+21 "(3) An adult shall not be presumed to be in need of a guardian solely because of a
+22 finding that the adult has one or more developmental disabilities as defined in
+23 paragraph (8) of Code Section 37-1-1."
+24 SECTION 3.
+25 Said title is further amended in Code Section 29-4-10, relating to petition for appointment
+26 of guardian and requirements for petition, by revising paragraph (1) of subsection (c) as
+27 follows:
+28 "(c)(1) The petition shall be sworn to by two or more petitioners or shall be supported
+29 by an affidavit of a physician licensed to practice medicine under Chapter 34 of Title 43,
+30 a psychologist licensed to practice under Chapter 39 of Title 43, a physician assistant
+31 licensed under Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+32 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+33 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+34 social worker, or, if the proposed ward is a patient in any federal medical facility in which
+35 such a physician, psychologist, or physician assistant, nurse practitioner, clinical nurse
+36 specialist in psychiatric/mental health, professional counselor, or licensed clinical social
+37 worker is not available, a physician, psychologist, or physician assistant, nurse
+38 practitioner, clinical nurse specialist in psychiatric/mental health, professional counselor,
+39 or licensed clinical social worker who is authorized to practice in that such federal
+40 facility."
+H. B. 36
+- 2 -
+25 HB 36/AP
+41 SECTION 4.
+42 Said title is further amended in Code Section 29-4-11, relating to prerequisite judicial finding
+43 of probable cause, notice, petition, evaluations, and reporting requirements for appointment
+44 for guardians for adults, by revising subsection (d) as follows:
+45 "(d)(1) If the petition is not dismissed under pursuant to subsection (b) of this Code
+46 section, the court shall appoint an evaluating physician evaluator who shall be a physician
+47 licensed to practice medicine under Chapter 34 of Title 43, a psychologist licensed to
+48 practice under Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of
+49 Title 43, a nurse practitioner or clinical nurse specialist in psychiatric/mental health
+50 licensed or registered under Chapter 26 of Title 43, a professional counselor licensed
+51 under Chapter 10A of Title 43, or a licensed clinical social worker, or, if the proposed
+52 ward is a patient in any federal medical facility in which such a physician, psychologist,
+53 or physician assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental
+54 health, professional counselor, or licensed clinical social worker is not available, a
+55 physician, psychologist, or physician assistant, nurse practitioner, clinical nurse specialist
+56 in psychiatric/mental health, professional counselor, or licensed clinical social worker
+57 who is authorized to practice in that such federal facility, other than the physician,
+58 psychologist, or physician assistant, nurse practitioner, clinical nurse specialist in
+59 psychiatric/mental health, professional counselor, or licensed clinical social worker who
+60 completed the affidavit attached to the petition pursuant to subsection (c) of Code Section
+61 29-4-10.
+62 (2) When evaluating the proposed ward, the physician, psychologist, or physician
+63 assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental health,
+64 professional counselor, or licensed clinical social worker shall explain the purpose of the
+65 evaluation to the proposed ward. The proposed ward may remain silent. Any statements
+66 made by the proposed ward during the evaluation shall be privileged and shall be
+67 inadmissable as evidence in any proceeding other than a proceeding under this chapter.
+H. B. 36
+- 3 -
+25 HB 36/AP
+68 The proposed ward's legal counsel shall have the right to be present but shall not
+69 participate in the evaluation.
+70 (3) The evaluation shall be conducted with as little interference with the proposed ward's
+71 activities as possible. The evaluation shall take place at the place and time set in the
+72 notice to the proposed ward and the his or her legal counsel and the time set shall not be
+73 sooner than the fifth day after the service of notice on the proposed ward. The court,
+74 however, shall have the exclusive power to change the place and time of the examination
+75 at any time upon reasonable notice being given to the proposed ward and to his or her
+76 legal counsel. If the proposed ward fails to appear, the court may order that the proposed
+77 ward be taken directly to and from a medical facility or the office of the physician,
+78 psychologist, or physician assistant, nurse practitioner, clinical nurse specialist in
+79 psychiatric/mental health, professional counselor, or licensed clinical social worker for
+80 purposes of evaluation only. The evaluation shall be conducted during the normal
+81 business hours of the facility or office and the proposed ward shall not be detained in the
+82 facility or office overnight. The evaluation may include, but not be limited to:
+83 (A) A self-report from the proposed ward, if possible;
+84 (B) Questions and observations of the proposed ward to assess the functional abilities
+85 of the proposed ward;
+86 (C) A review of the records for the proposed ward, including, but not limited to,
+87 medical records, medication charts, and other available records;
+88 (D) An assessment of cultural factors and language barriers that may impact the
+89 proposed ward's abilities and living environment; and
+90 (E) All other factors the evaluator determines to be appropriate to the evaluation.
+91 (4) A written report shall be filed with the court no later than seven days after the
+92 evaluation, and the court shall serve a copy of the report by first-class mail upon the
+93 proposed ward and the proposed ward's legal counsel and, if any, the guardian ad litem
+94 if appointed.
+H. B. 36
+- 4 -
+25 HB 36/AP
+95 (5) The report shall be signed under oath by the physician, psychologist, or licensed
+96 clinical social worker evaluator and shall:
+97 (A) State the circumstances and duration of the evaluation, including a summary of
+98 questions or tests utilized, and the elements of the evaluation;
+99 (B) List all persons and other sources of information consulted in evaluating the
+100 proposed ward;
+101 (C) Describe the proposed ward's mental and physical state and condition, including
+102 all observed facts considered by the physician or psychologist or licensed clinical social
+103 worker evaluator;
+104 (D) Describe the overall social condition of the proposed ward, including support, care,
+105 education, and well-being; and
+106 (E) Describe the needs of the proposed ward and their foreseeable duration.
+107 (6) The proposed ward's legal counsel may file a written response to the evaluation,
+108 provided the response is filed no later than the date of the commencement of the hearing
+109 on the petition for guardianship. The response may include, but is not limited to,
+110 independent evaluations, affidavits of individuals with personal knowledge of the
+111 proposed ward, and a statement of applicable law. In the response, the proposed ward's
+112 legal counsel may also challenge the sufficiency and weight of the results and
+113 conclusions of the evaluation and written report and the qualifications, experience, or
+114 abilities of the person performing the evaluation."
+115 SECTION 5.
+116 Said title is further amended in Code Section 29-4-12, relating to judicial review of pleadings
+117 and evaluation report, findings, and hearing, by revising subsection (d) as follows:
+118 "(d)(1) The hearing shall be held in a courtroom or, for good cause shown, at such other
+119 place as the court may choose. At the request of the proposed ward or the proposed
+120 ward's legal counsel and for good cause shown, the court may exercise its discretion to
+H. B. 36
+- 5 -
+25 HB 36/AP
+121 exclude the public from the hearing and the record shall reflect the court's action. The
+122 proposed ward or the proposed ward's legal counsel may waive the appearance of the
+123 proposed ward at the hearing.
+124 (2) The hearing shall be recorded by either a certified court reporter or a sound-recording
+125 device. The recording shall be retained for not less than 45 days from the date of the
+126 entry of the order described in Code Section 29-4-13.
+127 (3) The court shall apply the rules of evidence applicable in civil cases.
+128 (4) At the hearing, the proposed ward may also challenge, by appropriate evidence and
+129 argument, the sufficiency and weight of the results and conclusions of the evaluation and
+130 written report and the qualifications, experience, or abilities of the person performing the
+131 evaluation. The proposed ward shall have the right to present such evidence and
+132 argument regardless of whether the proposed ward's legal counsel raised such matters in
+133 a written response submitted by the proposed ward's legal counsel pursuant to
+134 paragraph (6) of subsection (d) of Code Section 29-4-11.
+135 (5) The court shall utilize the criteria in Code Section 29-4-1 to determine whether there
+136 is clear and convincing evidence of the need for a guardianship in light of the evidence
+137 taken at the hearing. In addition, the court may consider the evaluation report and any
+138 response filed or argument and evidence presented by the proposed ward. The burden
+139 of proof shall be upon the petitioner.
+140 (6) If the court finds that the proposed ward has one or more developmental disabilities
+141 as defined in paragraph (8) of Code Section 37-1-1, the court shall not find that there is
+142 a need for a guardianship unless the evidence shows by clear and convincing evidence
+143 that, due to such developmental disability or disabilities and other factors that may be
+144 present, the proposed ward lacks sufficient capacity to make or communicate significant
+145 responsible decisions concerning his or her health or safety.
+146 (5)(7) Upon determination of the need for a guardianship, the court shall determine the
+147 powers, if any, which are to be retained by the proposed ward, in accordance with the
+H. B. 36
+- 6 -
+25 HB 36/AP
+148 provisions of Code Section 29-4-21 and whether any additional powers are to be granted
+149 to the guardian, pursuant to the provisions of subsection (b) of Code Section 29-4-23.
+150 (6)(8) If the court determines that a guardianship is necessary and the proposed ward is
+151 present, the proposed ward may suggest any individual as guardian. The court shall
+152 select as guardian the individual who will serve the best interest of the ward.
+153 (7)(9) In any procedure under this chapter in which the judge of the court is unable to
+154 hear a case within the time required for such hearing, the judge shall appoint an
+155 individual to hear the case and exercise all the jurisdiction of the court in the case. Any
+156 individual appointed shall be a member of the State Bar of Georgia who is qualified to
+157 serve as the probate judge in that county and who is, in the opinion of the appointing
+158 judge, qualified for the duties by training and experience. The appointment may be made
+159 on a case-by-case basis or by making a standing appointment of one or more individuals.
+160 Any individual who receives a standing appointment shall serve at the pleasure of the
+161 judge who makes the appointment or the judge's successor in office. The compensation
+162 of an individual appointed shall be as agreed upon by the judge who makes the
+163 appointment and the individual appointed, with the approval of the governing authority
+164 of the county for which the individual is appointed, and shall be paid from county funds.
+165 All fees collected for the service of the appointed individual shall be paid into the general
+166 funds of the county."
+167 SECTION 6.
+168 Said title is further amended in Code Section 29-4-14, relating to petition for appointment
+169 of emergency guardian of an adult and requirements of petition, by revising paragraph (1)
+170 of subsection (d) as follows:
+171 "(d)(1) The petition shall be sworn to by two or more petitioners or shall be supported
+172 by an affidavit of a physician licensed to practice medicine under Chapter 34 of Title 43,
+173 a psychologist licensed to practice under Chapter 39 of Title 43, a physician assistant
+H. B. 36
+- 7 -
+25 HB 36/AP
+174 licensed under Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+175 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+176 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+177 social worker, or, if the proposed ward is a patient in any federal medical facility in which
+178 such a physician, psychologist, or physician assistant, nurse practitioner, clinical nurse
+179 specialist in psychiatric/mental health, professional counselor, or licensed clinical social
+180 worker is not available, a physician, psychologist, or physician assistant, nurse
+181 practitioner, clinical nurse specialist in psychiatric/mental health, professional counselor,
+182 or licensed clinical social worker authorized to practice in that such federal facility."
+183 SECTION 7.
+184 Said title is further amended in Code Section 29-4-15, relating to prerequisite findings prior
+185 to appointment of emergency guardian, evaluation, notice, and hearing, by revising
+186 subsection (c) as follows:
+187 "(c) If the court determines that there is probable cause to believe that the proposed ward
+188 is in need of an emergency guardian, the court shall:
+189 (1) Immediately appoint legal counsel to represent the proposed ward at the emergency
+190 hearing, which counsel may be the same counsel who is appointed to represent the
+191 proposed ward in the hearing on the petition for guardianship or conservatorship, if any
+192 such petition has been filed, and shall inform counsel of the appointment;
+193 (2) Order an emergency hearing to be conducted not sooner than three days nor later than
+194 five days after the filing of the petition;
+195 (3) Order an evaluation of the proposed ward by a physician an evaluator who shall be
+196 a physician licensed to practice medicine under Chapter 34 of Title 43, a psychologist
+197 licensed to practice under Chapter 39 of Title 43, a physician assistant licensed under
+198 Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+199 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+H. B. 36
+- 8 -
+25 HB 36/AP
+200 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+201 social worker, other than the physician, psychologist, or physician assistant, nurse
+202 practitioner, clinical nurse specialist in psychiatric/mental health, professional counselor,
+203 or licensed clinical social worker who completed the affidavit attached to the petition
+204 pursuant to paragraph (1) of subsection (d) of Code Section 29-4-10. The evaluation
+205 shall be conducted within 72 hours of the time the order was issued and a written report
+206 shall be furnished to the court and made available to the parties within this time frame,
+207 which evaluation and report shall be governed by the provisions of subsection (d) of Code
+208 Section 29-4-11;
+209 (4) Immediately notify the proposed ward of the proceedings by service of all pleadings
+210 on the proposed ward, which notice shall:
+211 (A) Be served personally on the proposed ward by an officer of the court and shall not
+212 be served by mail;
+213 (B) Inform the proposed ward that a petition has been filed to have an emergency
+214 guardian appointed for the proposed ward, that the proposed ward has the right to attend
+215 any hearing that is held, and that, if an emergency guardian is appointed, the proposed
+216 ward may lose important rights to control the management of the proposed ward's
+217 person;
+218 (C) Inform the proposed ward of the place and time at which the proposed ward shall
+219 submit to the evaluation provided for by paragraph (3) of this subsection;
+220 (D) Inform the proposed ward of the appointment of legal counsel; and
+221 (E) Inform the proposed ward of the date and time of the hearing on the emergency
+222 guardianship; and
+223 (5) Appoint an emergency guardian to serve until the emergency hearing, with or without
+224 prior notice to the proposed ward, if the threatened risk is so immediate and the potential
+225 harm so irreparable that any delay is unreasonable and the existence of the threatened risk
+226 and potential for irreparable harm is certified by the affidavit of a physician licensed to
+H. B. 36
+- 9 -
+25 HB 36/AP
+227 practice medicine under Chapter 34 of Title 43, a psychologist licensed to practice under
+228 Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of Title 43, a
+229 nurse practitioner or clinical nurse specialist in psychiatric/mental health licensed or
+230 registered under Chapter 26 of Title 43, a professional counselor licensed under Chapter
+231 10A of Title 43, or a licensed clinical social worker. Appointment of an emergency
+232 guardian under this paragraph is not a final determination of the proposed ward's need for
+233 a nonemergency guardian. Any emergency guardian appointed under this paragraph shall
+234 have only those powers and duties specifically enumerated in the letters of emergency
+235 guardianship, and the powers and duties shall not exceed those absolutely necessary to
+236 respond to the immediate threatened risk to the ward."
+237 SECTION 8.
+238 Said title is further amended by revising Code Section 29-4-16, relating to conduct of
+239 emergency guardianship hearing and limitations on emergency guardianship, as follows:
+240 "29-4-16.
+241 (a) The court shall conduct the emergency guardianship hearing, at the time and date set
+242 forth in its order, to determine whether there is clear and convincing evidence of the need
+243 for an emergency guardianship in light of the evidence taken at the hearing. In addition to
+244 the evidence at the hearing, the court may consider the evaluation report and any response
+245 filed by the proposed ward. The proposed ward may also challenge, by appropriate
+246 evidence and argument, the sufficiency and weight of the results and conclusions of the
+247 evaluation and written report and the qualifications, experience, or abilities of the person
+248 performing the evaluation. The burden of proof shall be upon the petitioner. Upon the
+249 consent of the petitioner and the proposed ward, the court may grant a continuance of the
+250 case for a period not to exceed 30 days.
+251 (b) If the court at the emergency hearing finds that an emergency guardianship is
+252 necessary, the court shall order the emergency guardianship; provided, however, that:
+H. B. 36
+- 10 -
+25 HB 36/AP
+253 (1) Any emergency guardian shall have only those powers and duties specifically
+254 enumerated in the letters of emergency guardianship and the powers and duties shall not
+255 exceed those absolutely necessary to respond to the immediate threatened risk to the
+256 ward;
+257 (2) The court may order the emergency guardian to make any report the court requires;
+258 (3) If the court finds that the proposed ward has one or more developmental disabilities
+259 as defined in paragraph (8) of Code Section 37-1-1, the court shall not find that there is
+260 a need for an emergency guardianship unless the evidence shows by clear and convincing
+261 evidence that, due to such developmental disability or disabilities and other factors that
+262 may be present, the proposed ward lacks sufficient capacity to make or communicate
+263 significant responsible decisions concerning his or her health or safety and there is an
+264 immediate and substantial risk of death or serious physical injury, illness, or disease
+265 unless an emergency guardian is appointed; and
+266 (3)(4) The emergency guardianship shall terminate on the earliest of:
+267 (A) The court's removal of the emergency guardian, with or without cause;
+268 (B) The effective date of the appointment of a guardian;
+269 (C) Unless otherwise specified in the order of dismissal, the dismissal of a petition for
+270 appointment of a guardian;
+271 (D) The date specified for the termination in the order appointing the emergency
+272 guardian;
+273 (E) Sixty days from the date of appointment of the emergency guardian, provided that
+274 the court had jurisdiction to issue such order under paragraph (1) of Code
+275 Section 29-11-12; or
+276 (F) Ninety days from the date of appointment of the emergency guardian, provided that
+277 the court had jurisdiction to issue such order under paragraph (2) or (3) of Code
+278 Section 29-11-12."
+H. B. 36
+- 11 -
+25 HB 36/AP
+279 SECTION 9.
+280 Said title is further amended in Code Section 29-4-41, relating to modification of
+281 guardianship, by revising subsection (b) as follows:
+282 "(b) If the petition for modification alleges a significant change in the capacity of the ward,
+283 it must be supported either by the affidavits of two persons who have knowledge of the
+284 ward, one of whom may be the petitioner, or of a physician licensed to practice medicine
+285 under Chapter 34 of Title 43, a psychologist licensed to practice under Chapter 39 of
+286 Title 43, a physician assistant licensed under Chapter 34 of Title 43, a nurse practitioner
+287 or clinical nurse specialist in psychiatric/mental health licensed or registered under
+288 Chapter 26 of Title 43, a professional counselor licensed under Chapter 10A of Title 43,
+289 or a licensed clinical social worker, setting forth the supporting facts and determinations.
+290 If, after reviewing the petition and the affidavits, the court determines that there is no
+291 probable cause to believe that there has been a significant change in the capacity of the
+292 ward, the court shall dismiss the petition. If the petition is not dismissed, the court shall
+293 order that an evaluation be conducted, in accordance with the provisions of subsection (d)
+294 of Code Section 29-4-11. If, after reviewing the evaluation report, the court finds that there
+295 is no probable cause to believe that there has been a significant change in the capacity of
+296 the ward, the court shall dismiss the petition. If the petition is not dismissed, the court shall
+297 schedule a hearing, with notice as the court deems appropriate."
+298 SECTION 10.
+299 Said title is further amended in Code Section 29-4-42, relating to termination of
+300 guardianship, required evidence, burden of proof, and return of property, by revising
+301 subsection (b) as follows:
+302 "(b) A petition for termination must be supported either by the affidavits of two persons
+303 who have knowledge of the ward, one of whom may be the petitioner, or of a physician
+304 licensed to practice medicine under Chapter 34 of Title 43, a psychologist licensed to
+H. B. 36
+- 12 -
+25 HB 36/AP
+305 practice under Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of
+306 Title 43, a nurse practitioner or clinical nurse specialist in psychiatric/mental health
+307 licensed or registered under Chapter 26 of Title 43, a professional counselor licensed under
+308 Chapter 10A of Title 43, or a licensed clinical social worker, setting forth the supporting
+309 facts and determinations. If, after reviewing the petition and the affidavits, the court
+310 determines that there is no probable cause to believe that the guardianship should be
+311 terminated, the court shall dismiss the petition. If the petition is not dismissed, the court
+312 shall order that an evaluation be conducted, in accordance with the provisions of subsection
+313 (d) of Code Section 29-4-11. If, after reviewing the evaluation report, the court finds that
+314 there is no probable cause to believe that the guardianship should be terminated, the court
+315 shall dismiss the petition. If the petition is not dismissed, the court shall schedule a
+316 hearing, with such notice as the court deems appropriate."
+317 SECTION 11.
+318 Said title is further amended in Code Section 29-4-70, relating to right of ward to appeal,
+319 procedure, and appointment of emergency guardian, by revising subsection (d) as follows:
+320 "(d) Pending any appeal, the superior court or a probate court that is described in
+321 paragraph (2) of Code Section 15-9-120 may appoint an emergency guardian with such
+322 powers and duties as are described in Code Section 29-4-16; provided, however, that an
+323 emergency guardian may be appointed only upon the filing of an affidavit of a physician
+324 licensed to practice medicine under Chapter 34 of Title 43, a psychologist licensed to
+325 practice under Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of
+326 Title 43, a nurse practitioner or clinical nurse specialist in psychiatric/mental health
+327 licensed or registered under Chapter 26 of Title 43, a professional counselor licensed under
+328 Chapter 10A of Title 43, or a licensed clinical social worker, setting forth the existence of
+329 the emergency circumstances described in subsection (d) of Code Section 29-4-14 and after
+H. B. 36
+- 13 -
+25 HB 36/AP
+330 a hearing at which other evidence may be presented. The appointment of an emergency
+331 guardian is not appealable."
+332 SECTION 12.
+333 Said title is further amended in Code Section 29-5-1, relating to conservator for adults, best
+334 interest of the adult, no presumption of need for conservator, and objective of
+335 conservatorship, by adding a new paragraph to subsection (e) to read as follows:
+336 "(3) An adult shall not be presumed to be in need of a conservator solely because of a
+337 finding that the adult has one or more developmental disabilities as defined in paragraph
+338 (8) of Code Section 37-1-1."
+339 SECTION 13.
+340 Said title is further amended in Code Section 29-5-10, relating to petition for appointment
+341 of conservator and requirements of petition, by revising paragraph (1) of subsection (c) as
+342 follows:
+343 "(c)(1) The petition shall be sworn to by two or more petitioners or shall be supported
+344 by an affidavit of a physician licensed to practice medicine under Chapter 34 of Title 43,
+345 a psychologist licensed to practice under Chapter 39 of Title 43, a physician assistant
+346 licensed under Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+347 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+348 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+349 social worker, or, if the proposed ward is a patient in any federal medical facility in which
+350 such a physician, psychologist, or physician assistant, nurse practitioner, clinical nurse
+351 specialist in psychiatric/mental health, professional counselor, or licensed clinical social
+352 worker is not available, a physician, psychologist, or physician assistant, nurse
+353 practitioner, clinical nurse specialist in psychiatric/mental health, professional counselor,
+354 or licensed clinical social worker authorized to practice in that such federal facility."
+H. B. 36
+- 14 -
+25 HB 36/AP
+355 SECTION 14.
+356 Said title is further amended in Code Section 29-5-11, relating to prerequisite finding prior
+357 to appointment of conservator, notice, evaluation, and written report, by revising
+358 subsection (d) as follows:
+359 "(d)(1) If the petition is not dismissed pursuant to subsection (b) of this Code section, the
+360 court shall appoint an evaluating physician evaluator who shall be a physician licensed
+361 to practice medicine under Chapter 34 of Title 43, a psychologist licensed to practice
+362 under Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of Title 43,
+363 a nurse practitioner or clinical nurse specialist in psychiatric/mental health licensed or
+364 registered under Chapter 26 of Title 43, a professional counselor licensed under Chapter
+365 10A of Title 43, or a licensed clinical social worker, or, if the proposed ward is a patient
+366 in any federal medical facility in which such a physician, psychologist, or physician
+367 assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental health,
+368 professional counselor, or licensed clinical social worker is not available, a physician,
+369 psychologist, or physician assistant, nurse practitioner, clinical nurse specialist in
+370 psychiatric/mental health, professional counselor, or licensed clinical social worker
+371 authorized to practice in that such federal facility other than the physician, psychologist,
+372 or physician assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental
+373 health, professional counselor, or licensed clinical social worker who completed the
+374 affidavit attached to the petition pursuant to subsection (c) of Code Section 29-5-10.
+375 (2) When evaluating the proposed ward, the physician, psychologist, or physician
+376 assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental health,
+377 professional counselor, or licensed clinical social worker shall explain the purpose of the
+378 evaluation to the proposed ward. The proposed ward may remain silent. Any statements
+379 made by the proposed ward during the evaluation shall be privileged and shall be
+380 inadmissable as evidence in any proceeding other than a proceeding under this chapter.
+H. B. 36
+- 15 -
+25 HB 36/AP
+381 The proposed ward's legal counsel shall have the right to be present but shall not
+382 participate in the evaluation.
+383 (3) The evaluation shall be conducted with as little interference with the proposed ward's
+384 activities as possible. The evaluation shall take place at the place and time set in the
+385 notice to the proposed ward and to his or her legal counsel and the time set shall not be
+386 sooner than the fifth day after the service of notice on the proposed ward. The court,
+387 however, shall have the exclusive power to change the place and time of the examination
+388 at any time upon reasonable notice being given to the proposed ward and to his or her
+389 legal counsel. If the proposed ward fails to appear, the court may order that the proposed
+390 ward be taken directly to and from a medical facility, office of a physician, psychologist,
+391 or physician assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental
+392 health, professional counselor, or licensed clinical social worker for purposes of
+393 evaluation only. The evaluation shall be conducted during the normal business hours of
+394 the facility or office, and the proposed ward shall not be detained in the facility or office
+395 overnight. The evaluation may include, but not be limited to:
+396 (A) A self-report from the proposed ward, if possible;
+397 (B) Questions and observations of the proposed ward to assess the functional abilities
+398 of the proposed ward;
+399 (C) A review of the records for the proposed ward, including, but not limited to,
+400 medical records, medication charts, and other available records;
+401 (D) An assessment of cultural factors and language barriers that may impact the
+402 proposed ward's abilities and living environment; and
+403 (E) All other factors the evaluator determines to be appropriate to the evaluation.
+404 (4) A written report shall be filed with the court no later than seven days after the
+405 evaluation, and the court shall serve a copy of the report by first-class mail upon the
+406 proposed ward and the proposed ward's legal counsel and guardian ad litem, if appointed.
+H. B. 36
+- 16 -
+25 HB 36/AP
+407 (5) The report shall be signed under oath by the physician, psychologist, or licensed
+408 clinical social worker evaluator and shall:
+409 (A) State the circumstances and duration of the evaluation, including a summary of
+410 questions or tests utilized, and the elements of the evaluation;
+411 (B) List all persons and other sources of information consulted in evaluating the
+412 proposed ward;
+413 (C) Describe the proposed ward's mental and physical state and condition, including
+414 all observed facts considered by the physician, psychologist, or licensed clinical social
+415 worker evaluator;
+416 (D) Describe the overall social condition of the proposed ward, including support, care,
+417 education, and well-being; and
+418 (E) Describe the needs of the proposed ward and their foreseeable duration.
+419 (6) The proposed ward's legal counsel may file a written response to the evaluation,
+420 provided the response is filed no later than the date of the commencement of the hearing
+421 on the petition for conservatorship. The response may include, but is not limited to,
+422 independent evaluations, affidavits of individuals with personal knowledge of the
+423 proposed ward, and a statement of applicable law. In the response, the proposed ward's
+424 legal counsel may also challenge the sufficiency and weight of the results and
+425 conclusions of the evaluation and written report and the qualifications, experience, or
+426 abilities of the person performing the evaluation."
+427 SECTION 15.
+428 Said title is further amended in Code Section 29-5-12, relating to judicial review and
+429 proceedings, by revising subsection (d) as follows:
+430 (d)(1) The hearing shall be held in a courtroom or, for good cause shown, at any other
+431 place as the court may set. At the request of the proposed ward or the proposed ward's
+432 legal counsel and for good cause shown, the court may exercise its discretion to exclude
+H. B. 36
+- 17 -
+25 HB 36/AP
+433 the public from the hearing and the record shall reflect the court's action. The proposed
+434 ward or the proposed ward's legal counsel may waive the appearance of the proposed
+435 ward at the hearing.
+436 (2) The hearing shall be recorded by either a certified court reporter or a sound-recording
+437 device. The recording shall be retained for not less than 45 days from the date of the
+438 entry of the order described in Code Section 29-5-138.
+439 (3) The court shall apply the rules of evidence applicable in civil cases.
+440 (4) At the hearing, the proposed ward may also challenge, by appropriate evidence and
+441 argument, the sufficiency and weight of the results and conclusions of the evaluation and
+442 written report and the qualifications, experience, or abilities of the person performing the
+443 evaluation. The proposed ward shall have the right to present such evidence and
+444 argument regardless of whether the proposed ward's legal counsel raised such matters in
+445 a written response submitted by the proposed ward's legal counsel pursuant to
+446 paragraph (6) of subsection (d) of Code Section 29-5-11.
+447 (5) The court shall utilize the criteria in Code Section 29-5-1 to determine whether there
+448 is clear and convincing evidence of the need for a conservatorship in light of the evidence
+449 taken at the hearing. In addition to the evidence at the hearing, the court may consider
+450 the evaluation report and any response filed by the proposed ward. The burden of proof
+451 shall be upon the petitioner.
+452 (6) If the court finds that the proposed ward has one or more developmental disabilities
+453 as defined in paragraph (8) of Code Section 37-1-1, the court shall not find that there is
+454 a need for a conservatorship unless the evidence shows by clear and convincing evidence
+455 that, due to such developmental disability or disabilities and other factors that may be
+456 present, the proposed ward lacks sufficient capacity to make or communicate significant
+457 responsible decisions concerning the management of his or her property.
+458 (5)(7) Upon determination of the need for a conservatorship, the court shall determine
+459 the powers, if any, which are to be retained by the proposed ward, in accordance with the
+H. B. 36
+- 18 -
+25 HB 36/AP
+460 provisions of Code Section 29-5-21 and whether any additional powers shall be granted
+461 to the conservator pursuant to the provisions of subsections (b) and (c) of Code
+462 Section 29-5-23.
+463 (6)(8) If the court determines that a conservatorship is necessary and the proposed ward
+464 is present, the proposed ward may suggest any person as conservator. The court shall
+465 select as conservator the person who shall serve the best interest of the ward.
+466 (7)(9) In any procedure under this chapter in which the judge of the court is unable to
+467 hear a case within the time required for a hearing on the petition for conservatorship, the
+468 judge shall appoint an individual to serve to hear the case and exercise all the jurisdiction
+469 of the court in the case. Any individual so appointed shall be a member of the State Bar
+470 of Georgia who is qualified to serve as the probate judge in that county and who is, in the
+471 opinion of the appointing judge, qualified for the duties by training and experience. The
+472 appointment may be made on a case-by-case basis or by making a standing appointment
+473 of one or more individuals. Any individual who receives a standing appointment shall
+474 serve at the pleasure of the judge who makes the appointment or the judge's successor in
+475 office. The compensation of an individual so appointed shall be as agreed upon by the
+476 judge who makes the appointment and the individual appointed, with the approval of the
+477 governing authority of the county for which the individual is appointed, and shall be paid
+478 from county funds. All fees collected for the service of the appointed individual shall be
+479 paid into the general funds of the county."
+480 SECTION 16.
+481 Said title is further amended in Code Section 29-5-14, relating to appointment of emergency
+482 conservator and requirements of petition, by revising paragraph (1) of subsection (d) as
+483 follows:
+484 "(d)(1) The petition shall be sworn to by two or more petitioners or shall be supported
+485 by an affidavit of a physician licensed to practice medicine under Chapter 34 of Title 43,
+H. B. 36
+- 19 -
+25 HB 36/AP
+486 a psychologist licensed to practice under Chapter 39 of Title 43, a physician assistant
+487 licensed under Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+488 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+489 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+490 social worker, or, if the proposed ward is a patient in any federal medical facility in which
+491 such a physician, psychologist, or physician assistant, nurse practitioner, clinical nurse
+492 specialist in psychiatric/mental health, professional counselor, or licensed clinical social
+493 worker is not available, a physician, psychologist, or physician assistant, nurse
+494 practitioner, clinical nurse specialist in psychiatric/mental health, professional counselor,
+495 or licensed clinical social worker authorized to practice in that such federal facility."
+496 SECTION 17.
+497 Said title is further amended in Code Section 29-5-15, relating to review of petition,
+498 dismissal, and requirements of court upon finding need for emergency conservator, by
+499 revising subsection (c) as follows:
+500 "(c) If the court determines that there is probable cause to believe that the proposed ward
+501 is in need of an emergency conservator, the court shall:
+502 (1) Immediately appoint legal counsel to represent the proposed ward at the emergency
+503 hearing, which counsel may be the same counsel who is appointed to represent the
+504 proposed ward in the hearing on the petition for guardianship or conservatorship, if any
+505 such petition has been filed, and shall inform counsel of the appointment;
+506 (2) Order an emergency hearing to be conducted not sooner than three days nor later than
+507 five days after the filing of the petition;
+508 (3) Order an evaluation of the proposed ward by a physician an evaluator who shall be
+509 a physician licensed to practice medicine under Chapter 34 of Title 43, a psychologist
+510 licensed to practice under Chapter 39 of Title 43, a physician assistant licensed under
+511 Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+H. B. 36
+- 20 -
+25 HB 36/AP
+512 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+513 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+514 social worker, other than the physician, psychologist, or physician assistant, nurse
+515 practitioner, clinical nurse specialist in psychiatric/mental health, professional counselor,
+516 or licensed clinical social worker who completed the affidavit attached to the petition
+517 pursuant to paragraph (1) of subsection (d) of Code Section 29-5-10, to. Such evaluation
+518 shall be conducted within 72 hours of the time such order was issued, and a written report
+519 to shall be furnished to the court and made available to the parties within 72 hours such
+520 time, which evaluation and report shall be governed by the provisions of subsection (d)
+521 of Code Section 29-5-14 29-5-11;
+522 (4) Immediately notify the proposed ward of the proceedings by service of all pleadings
+523 on the proposed ward, which notice shall:
+524 (A) Be served personally on the proposed ward by an officer of the court and shall not
+525 be served by mail;
+526 (B) Inform the proposed ward that a petition has been filed to have an emergency
+527 conservator appointed for the proposed ward, that the proposed ward has the right to
+528 attend any hearing that is held, and that, if an emergency conservator is appointed, the
+529 proposed ward may lose important rights to control the management of the proposed
+530 ward's property;
+531 (C) Inform the proposed ward of the place and time at which the proposed ward shall
+532 submit to the evaluation provided for by paragraph (3) of this subsection;
+533 (D) Inform the proposed ward of the appointment of legal counsel; and
+534 (E) Inform the proposed ward of the date and time of the hearing on the emergency
+535 conservatorship; and
+536 (5) Appoint an emergency conservator to serve until the emergency hearing, with or
+537 without prior notice to the proposed ward, if the threatened risk is so immediate and the
+538 potential harm so irreparable that any delay is unreasonable and the existence of the
+H. B. 36
+- 21 -
+25 HB 36/AP
+539 threatened risk and potential for irreparable harm is certified by the affidavit of a
+540 physician licensed to practice medicine under Chapter 34 of Title 43, a psychologist
+541 licensed to practice under Chapter 39 of Title 43, a physician assistant licensed under
+542 Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+543 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+544 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+545 social worker; provided, however, that, pending the emergency hearing, the court shall
+546 order that no withdrawals may be made from any account on the authority of the
+547 proposed ward's signature without the court's prior approval and that the emergency
+548 conservator shall not expend any funds of the proposed ward without prior court
+549 approval. Appointment of an emergency conservator under this paragraph is not a final
+550 determination of the proposed ward's need for a nonemergency conservator. Any
+551 emergency conservator appointed under this paragraph shall have only those powers and
+552 duties specifically enumerated in the letters of emergency conservatorship; such powers
+553 and duties shall not exceed those absolutely necessary to respond to the immediate
+554 threatened risk to the ward; and such powers and duties shall be subject to the limitations
+555 provided in this paragraph regarding the expenditures of funds of the ward."
+556 SECTION 18.
+557 Said title is further amended by revising Code Section 29-5-16, relating to emergency
+558 conservatorship hearing and limitations on powers of emergency conservator, as follows:
+559 "29-5-16.
+560 (a) The court shall conduct the emergency conservatorship hearing at the time and date set
+561 forth in its order to determine whether there is clear and convincing evidence of the need
+562 for an emergency conservatorship in light of the evidence taken at the hearing. In addition
+563 to the evidence at the hearing, the court may consider the evaluation report and any
+564 response filed by the proposed ward. The proposed ward may also challenge, by
+H. B. 36
+- 22 -
+25 HB 36/AP
+565 appropriate evidence and argument, the sufficiency and weight of the results and
+566 conclusions of the evaluation and written report and the qualifications, experience, or
+567 abilities of the person performing the evaluation. The burden of proof shall be upon the
+568 petitioner. Upon the consent of the petitioner and the proposed ward, the court may grant
+569 a continuance of the case for a period not to exceed 30 days.
+570 (b) If the court at the emergency hearing finds that an emergency conservatorship is
+571 necessary, the court shall order the emergency conservatorship; provided, however, that:
+572 (1) Any emergency conservator shall have only those powers and duties specifically
+573 enumerated in the letters of emergency conservatorship and the powers and duties shall
+574 not exceed those absolutely necessary to respond to the immediate threatened risk to the
+575 ward;
+576 (2) The court may order the emergency conservator to make any report the court
+577 requires;
+578 (3) If the court finds that the proposed ward has one or more developmental disabilities
+579 as defined in paragraph (8) of Code Section 37-1-1, the court shall not find that there is
+580 a need for an emergency conservatorship unless the evidence shows by clear and
+581 convincing evidence that, due to such developmental disability or disabilities and other
+582 factors that may be present, the proposed ward lacks sufficient capacity to make or
+583 communicate significant responsible decisions concerning the management of his or her
+584 property and there is an immediate and substantial risk of irreparable waste or dissipation
+585 of the proposed ward's property unless an emergency conservator is appointed; and
+586 (3)(4) The emergency conservatorship shall terminate on the earliest of:
+587 (A) The court's removal of the emergency conservator, with or without cause;
+588 (B) The effective date of the appointment of a conservator;
+589 (C) Unless otherwise specified in the order of dismissal, the dismissal of a petition for
+590 appointment of a conservator;
+H. B. 36
+- 23 -
+25 HB 36/AP
+591 (D) The date specified for the termination in the order appointing the emergency
+592 conservator; or
+593 (E) Sixty days from the date of appointment of the emergency conservator."
+594 SECTION 19.
+595 Said title is further amended in Code Section 29-5-23, relating to authority of conservator
+596 and cooperation with guardian or other interested parties, by revising paragraph (13) of
+597 subsection (a) and paragraph (5) of subsection (c) as follows:
+598 "(13) Compromise any contested or doubtful claim for or against the ward if the
+599 proposed gross settlement as defined in Code Section 29-3-3 is in the amount
+600 of $25,000.00 or less, provided that, for purposes of this paragraph, the term 'gross
+601 settlement' means the present value of all amounts paid or to be paid in settlement of the
+602 claim, including cash, medical expenses, expenses of litigation, attorney's fees, and any
+603 amounts allocated to a structured settlement or other similar financial arrangement; and"
+604 "(5) To compromise a contested or doubtful claim for or against the ward if the proposed
+605 gross settlement as defined in Code Section 29-3-3 is more than $25,000.00, provided
+606 that, for purposes of this paragraph, the term 'gross settlement' means the present value
+607 of all amounts paid or to be paid in settlement of the claim, including cash, medical
+608 expenses, expenses of litigation, attorney's fees, and any amounts allocated to a structured
+609 settlement or other similar financial arrangement;"
+610 SECTION 20.
+611 Said title is further amended in Code Section 29-5-71, relating to modification of
+612 conservatorship, contents of petition for modification, and burden of proof, by revising
+613 subsection (b) as follows:
+614 "(b) If the petition for modification alleges a significant change in the capacity of the ward,
+615 it must be supported either by the affidavits of two persons who have knowledge of the
+H. B. 36
+- 24 -
+25 HB 36/AP
+616 ward, one of whom may be the petitioner, or of a physician licensed to practice medicine
+617 under Chapter 34 of Title 43, a psychologist licensed to practice under Chapter 39 of Title
+618 43, a physician assistant licensed under Chapter 34 of Title 43, a nurse practitioner or
+619 clinical nurse specialist in psychiatric/mental health licensed or registered under Chapter 26
+620 of Title 43, a professional counselor licensed under Chapter 10A of Title 43, or a licensed
+621 clinical social worker, setting forth the supporting facts and determinations. If, after
+622 reviewing the petition and the affidavits, the court determines that there is no probable
+623 cause to believe that there has been a significant change in the capacity of the ward, the
+624 court shall dismiss the petition. If the petition is not dismissed, the court shall order that
+625 an evaluation be conducted, in accordance with the provisions of subsection (d) of Code
+626 Section 29-5-11. If, after reviewing the evaluation report, the court finds that there is no
+627 probable cause to believe that there has been a significant change in the capacity of the
+628 ward, the court shall dismiss the petition. If the petition is not dismissed, the court shall
+629 schedule a hearing, with such notice as the court deems appropriate."
+630 SECTION 21.
+631 Said title is further amended in Code Section 29-5-72, relating to termination of
+632 conservatorship, required evidence to support, burden of proof, and death of ward, by
+633 revising subsection (b) as follows:
+634 "(b) A petition for termination must be supported either by the affidavits of two persons
+635 who have knowledge of the ward, one of whom may be the petitioner, or of a physician
+636 licensed to practice medicine under Chapter 34 of Title 43, a psychologist licensed to
+637 practice under Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of
+638 Title 43, a nurse practitioner or clinical nurse specialist in psychiatric/mental health
+639 licensed or registered under Chapter 26 of Title 43, a professional counselor licensed under
+640 Chapter 10A of Title 43, or a licensed clinical social worker, setting forth the supporting
+641 facts and determinations. If, after reviewing the petition and the affidavits, the court
+H. B. 36
+- 25 -
+25 HB 36/AP
+642 determines that there is no probable cause to believe that the conservatorship should be
+643 terminated, the court shall dismiss the petition. If the petition is not dismissed, the court
+644 shall order that an evaluation be conducted in accordance with the provisions of
+645 subsection (d) of Code Section 29-5-11. If, after reviewing the evaluation report, the court
+646 finds that there is no probable cause to believe that the conservatorship should be
+647 terminated, the court shall dismiss the petition. If the petition is not dismissed, the court
+648 shall schedule a hearing with such notice as the court deems appropriate."
+649 SECTION 22.
+650 Said title is further amended in Code Section 29-5-110, relating to proceedings for appeal,
+651 appointment of guardians ad litem, bond and security prior to removal, liability of surety of
+652 predecessor conservator, and jurisdiction, by revising subsection (d) as follows:
+653 "(d) Pending any appeal, the superior court or a probate court that is described in
+654 paragraph (2) of Code Section 15-9-120 may appoint an emergency conservator with
+655 powers and duties as are described in Code Section 29-5-16; provided, however, that such
+656 emergency conservator may be appointed only upon the filing of an affidavit of a physician
+657 licensed to practice medicine under Chapter 34 of Title 43, a psychologist licensed to
+658 practice under Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of
+659 Title 43, a nurse practitioner or clinical nurse specialist in psychiatric/mental health
+660 licensed or registered under Chapter 26 of Title 43, a professional counselor licensed under
+661 Chapter 10A of Title 43, or a licensed clinical social worker, setting forth the existence of
+662 the emergency circumstances described in subsection (d) of Code Section 29-5-14 and after
+663 a hearing at which other evidence may be presented. The appointment of an emergency
+664 conservator is not appealable."
+665 SECTION 23.
+H. B. 36
+- 26 -
+25 HB 36/AP
+666 Said title is further amended by revising Code Section 29-9-16, relating to compensation to
+667 physicians, psychologists, or licensed clinical social workers, as follows:
+668 "29-9-16.
+669 (a) For the evaluation or examination required by subsection (d) of Code Section 29-4-11,
+670 subsection (c) of Code Section 29-4-15, subsection (b) of Code Section 29-4-42,
+671 subsection (d) of Code Section 29-5-11, subsection (c) of Code Section 29-5-15, or
+672 subsection (b) of Code Section 29-5-71, the evaluating physician, psychologist, or
+673 physician assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental health,
+674 professional counselor, or licensed clinical social worker shall receive a reasonable fee
+675 commensurate with the task performed, plus actual expenses.
+676 (b) In the event the attendance of the evaluating physician, psychologist, or physician
+677 assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental health,
+678 professional counselor, or licensed clinical social worker shall be required by the court for
+679 a hearing under subsection (d) of Code Section 29-4-12, subsection (a) of Code Section
+680 29-4-16, subsection (b) of Code Section 29-4-42, subsection (d) of Code Section 29-5-12,
+681 subsection (a) of Code Section 29-5-16, or subsection (b) of Code Section 29-5-71, other
+682 than pursuant to a subpoena requested by a party to the proceeding, the evaluating
+683 physician, psychologist, or physician assistant, nurse practitioner, clinical nurse specialist
+684 in psychiatric/mental health, professional counselor, or licensed clinical social worker shall
+685 receive a reasonable fee commensurate with the task performed, plus actual expenses.
+686 (c) All fees and expenses payable under subsection (a) or (b) of this Code section shall be
+687 assessed by the court and paid in accordance with the provisions of Code Section 29-9-3."
+688 SECTION 24.
+689 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 36
+- 27 -
+[DELETED: 5H3,4,6,dtht4,3,hr o a g f a a t m a t o s t p f l o t p a d o c e 2 o t O C o G A r t g a w i]
+[DELETED: 5H t t a h o o m d d a d i h l o r u C 2 o T 4  i n a a p p o p a n]
+[DELETED: 5H p c o l c s w i n a  o p a n p c n s i  W e t p w t p p o p n p c n s i p h b t p w d t e s b p a s b]
+[DELETED: 5H p w l c s h t r t b p b s n o p a n p c n s i]
+[DELETED: 5H t p f g  T r m i b i n l t e a o i w p k o t c m a c t s a w o t r a]
+[DELETED: 5H  T p w s h t r t p s e a w r s b t p w l c p t]
+[DELETED: 5H a c w t t r f s h t j s a a a i a s b a a u b t j w m t]
+[DELETED: 5H h l o r u C 2 o T 4  i n a a p p o p a n a o e g e n a h b r 3 o T 4 a n p o c n s i h l o r u C 2 o T 4 ]
+[DELETED: 5H w o t t p p o p a n]
+[DELETED: 5H  I t c a t e h f t a e g i]
+[DELETED: 5H  A e g s h o t p a d s c h j t i s o u p ( o C]
+[DELETED: 5H t i f a i C S 2 r t m o c n s i p h l o r u t i f a i C S 2 r t t o r e b o p a r o p b r]
+[DELETED: 5H 4 a n p o c n s i p h  P a a t s c o a p c t i d i 4 a n p o c n s i p h]
+[DELETED: 5H o t a n p o n f c a o o h l o r u C 2 o T 4  i n a a p p o p a n]
+[DELETED: 5H a o c n e a w r b r n p c n s i p h o p a n p c n s i h p c o l c s w  W e t p w t p p o p n p c n s i p h b t p w d t e s b p a s b]
+[DELETED: 5H p w l c s h t r t b p b s n p c o l c s w f p o]
+[DELETED: 5H e a o i w p k o t c m a c t s a w o t r a t i f a i C S 2 r t j r a]
+[DELETED: 5H  T p w s h t r t p s e a w r s b t p w l c p t]
+[DELETED: 5H t c p t t p o s ( a ( o C]
+[DELETED: 5H h l o r u C 2 o T 4  i n a a p p o p a n t i f a i C S 2 r t r o p 3 o T 4 a n p o c n s i]
+[DELETED: 5H h l o r u C 2 o T 4  w o t t p p o p a n]
+[DELETED: 5H r a p f i h i c b t a o  3 o T 4 a n p o c n s i h l o r u C 2 o T 4  t n w m b m f a a o t a o t s n e a f o t p w w p c o t p w n f a n c  A f b t p w  T p w m a c b]
+[DELETED: 5H e a a t s a w o t r a  T c m o t e c t m a r t c n f a e c u t e s b c a]
+[DELETED: 5H  C a c o d c f o a t w i t g s a d i C S 2 i i t a t i f a i C S 2 r t m o]
+[DELETED: 5H t i f a i C S 2 r t t o r e t s b o p a d o w b 4 a n p o c n s i p h]
+[DELETED: 5H o t a e b c i a w t p o t t i n p c t b t t c s b  P a a t s c o a p c t i d i 4 a n p o c n s i p h]
+[DELETED: 5H ( o C S 2 s ( o C S 2 ( o C S 2 s ( o C S 2 o ( o C S 2 t e p p o n p c n s i p h p t a s r b a p t t p t e]
+
+
+================================================================================
+
+Raw Text:
+25 HB 36/AP
+House Bill 36 (AS PASSED HOUSE AND SENATE)
+By: Representatives Leverett of the 123rd, Scoggins of the 14th, Kelley of the 16th, Oliver of
+the 84th, Powell of the 33rd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 29 of the Official Code of Georgia Annotated, relating to guardian and ward,
+2 so as to revise the list of providers who are authorized to participate in the processes for
+3 appointment of a guardian for an adult, the modification and termination of such
+4 guardianship, and the appointment of emergency guardian; to revise the list of providers who
+5 are authorized to participate in the processes for appointment of a conservator for an adult,
+6 the modification and termination of such conservatorship, and the appointment of emergency
+7 conservator; to provide for limitations on the powers and duties of certain emergency
+8 conservators; to revise and provide for definitions; to provide for related matters; to repeal
+9 conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Title 29 of the Official Code of Georgia Annotated, relating to guardian and ward, is
+13 amended by revising paragraph (10) of Code Section 29-1-1, relating to definitions, as
+14 follows:
+15 "(10) 'Licensed clinical social worker' means a social worker who is licensed as such in
+16 accordance with the provisions of Chapter 10A of Title 43."
+H. B. 36
+- 1 -
+
+25 HB 36/AP
+17 SECTION 2.
+18 Said title is further amended in Code Section 29-4-1, relating to prerequisite findings prior
+19 to appointment of guardian for adult and extent of guardianship, by adding a new paragraph
+20 to subsection (e) to read as follows:
+21 "(3) An adult shall not be presumed to be in need of a guardian solely because of a
+22 finding that the adult has one or more developmental disabilities as defined in
+23 paragraph (8) of Code Section 37-1-1."
+24 SECTION 3.
+25 Said title is further amended in Code Section 29-4-10, relating to petition for appointment
+26 of guardian and requirements for petition, by revising paragraph (1) of subsection (c) as
+27 follows:
+28 "(c)(1) The petition shall be sworn to by two or more petitioners or shall be supported
+29 by an affidavit of a physician licensed to practice medicine under Chapter 34 of Title 43,
+30 a psychologist licensed to practice under Chapter 39 of Title 43, a physician assistant
+31 licensed under Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+32 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+33 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+34 social worker, or, if the proposed ward is a patient in any federal medical facility in which
+35 such a physician, psychologist, or physician assistant, nurse practitioner, clinical nurse
+36 specialist in psychiatric/mental health, professional counselor, or licensed clinical social
+37 worker is not available, a physician, psychologist, or physician assistant, nurse
+38 practitioner, clinical nurse specialist in psychiatric/mental health, professional counselor,
+39 or licensed clinical social worker who is authorized to practice in that such federal
+40 facility."
+H. B. 36
+- 2 -
+
+25 HB 36/AP
+41 SECTION 4.
+42 Said title is further amended in Code Section 29-4-11, relating to prerequisite judicial finding
+43 of probable cause, notice, petition, evaluations, and reporting requirements for appointment
+44 for guardians for adults, by revising subsection (d) as follows:
+45 "(d)(1) If the petition is not dismissed under pursuant to subsection (b) of this Code
+46 section, the court shall appoint an evaluating physician evaluator who shall be a physician
+47 licensed to practice medicine under Chapter 34 of Title 43, a psychologist licensed to
+48 practice under Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of
+49 Title 43, a nurse practitioner or clinical nurse specialist in psychiatric/mental health
+50 licensed or registered under Chapter 26 of Title 43, a professional counselor licensed
+51 under Chapter 10A of Title 43, or a licensed clinical social worker, or, if the proposed
+52 ward is a patient in any federal medical facility in which such a physician, psychologist,
+53 or physician assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental
+54 health, professional counselor, or licensed clinical social worker is not available, a
+55 physician, psychologist, or physician assistant, nurse practitioner, clinical nurse specialist
+56 in psychiatric/mental health, professional counselor, or licensed clinical social worker
+57 who is authorized to practice in that such federal facility, other than the physician,
+58 psychologist, or physician assistant, nurse practitioner, clinical nurse specialist in
+59 psychiatric/mental health, professional counselor, or licensed clinical social worker who
+60 completed the affidavit attached to the petition pursuant to subsection (c) of Code Section
+61 29-4-10.
+62 (2) When evaluating the proposed ward, the physician, psychologist, or physician
+63 assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental health,
+64 professional counselor, or licensed clinical social worker shall explain the purpose of the
+65 evaluation to the proposed ward. The proposed ward may remain silent. Any statements
+66 made by the proposed ward during the evaluation shall be privileged and shall be
+67 inadmissable as evidence in any proceeding other than a proceeding under this chapter.
+H. B. 36
+- 3 -
+
+25 HB 36/AP
+68 The proposed ward's legal counsel shall have the right to be present but shall not
+69 participate in the evaluation.
+70 (3) The evaluation shall be conducted with as little interference with the proposed ward's
+71 activities as possible. The evaluation shall take place at the place and time set in the
+72 notice to the proposed ward and the his or her legal counsel and the time set shall not be
+73 sooner than the fifth day after the service of notice on the proposed ward. The court,
+74 however, shall have the exclusive power to change the place and time of the examination
+75 at any time upon reasonable notice being given to the proposed ward and to his or her
+76 legal counsel. If the proposed ward fails to appear, the court may order that the proposed
+77 ward be taken directly to and from a medical facility or the office of the physician,
+78 psychologist, or physician assistant, nurse practitioner, clinical nurse specialist in
+79 psychiatric/mental health, professional counselor, or licensed clinical social worker for
+80 purposes of evaluation only. The evaluation shall be conducted during the normal
+81 business hours of the facility or office and the proposed ward shall not be detained in the
+82 facility or office overnight. The evaluation may include, but not be limited to:
+83 (A) A self-report from the proposed ward, if possible;
+84 (B) Questions and observations of the proposed ward to assess the functional abilities
+85 of the proposed ward;
+86 (C) A review of the records for the proposed ward, including, but not limited to,
+87 medical records, medication charts, and other available records;
+88 (D) An assessment of cultural factors and language barriers that may impact the
+89 proposed ward's abilities and living environment; and
+90 (E) All other factors the evaluator determines to be appropriate to the evaluation.
+91 (4) A written report shall be filed with the court no later than seven days after the
+92 evaluation, and the court shall serve a copy of the report by first-class mail upon the
+93 proposed ward and the proposed ward's legal counsel and, if any, the guardian ad litem
+94 if appointed.
+H. B. 36
+- 4 -
+
+25 HB 36/AP
+95 (5) The report shall be signed under oath by the physician, psychologist, or licensed
+96 clinical social worker evaluator and shall:
+97 (A) State the circumstances and duration of the evaluation, including a summary of
+98 questions or tests utilized, and the elements of the evaluation;
+99 (B) List all persons and other sources of information consulted in evaluating the
+100 proposed ward;
+101 (C) Describe the proposed ward's mental and physical state and condition, including
+102 all observed facts considered by the physician or psychologist or licensed clinical social
+103 worker evaluator;
+104 (D) Describe the overall social condition of the proposed ward, including support, care,
+105 education, and well-being; and
+106 (E) Describe the needs of the proposed ward and their foreseeable duration.
+107 (6) The proposed ward's legal counsel may file a written response to the evaluation,
+108 provided the response is filed no later than the date of the commencement of the hearing
+109 on the petition for guardianship. The response may include, but is not limited to,
+110 independent evaluations, affidavits of individuals with personal knowledge of the
+111 proposed ward, and a statement of applicable law. In the response, the proposed ward's
+112 legal counsel may also challenge the sufficiency and weight of the results and
+113 conclusions of the evaluation and written report and the qualifications, experience, or
+114 abilities of the person performing the evaluation."
+115 SECTION 5.
+116 Said title is further amended in Code Section 29-4-12, relating to judicial review of pleadings
+117 and evaluation report, findings, and hearing, by revising subsection (d) as follows:
+118 "(d)(1) The hearing shall be held in a courtroom or, for good cause shown, at such other
+119 place as the court may choose. At the request of the proposed ward or the proposed
+120 ward's legal counsel and for good cause shown, the court may exercise its discretion to
+H. B. 36
+- 5 -
+
+25 HB 36/AP
+121 exclude the public from the hearing and the record shall reflect the court's action. The
+122 proposed ward or the proposed ward's legal counsel may waive the appearance of the
+123 proposed ward at the hearing.
+124 (2) The hearing shall be recorded by either a certified court reporter or a sound-recording
+125 device. The recording shall be retained for not less than 45 days from the date of the
+126 entry of the order described in Code Section 29-4-13.
+127 (3) The court shall apply the rules of evidence applicable in civil cases.
+128 (4) At the hearing, the proposed ward may also challenge, by appropriate evidence and
+129 argument, the sufficiency and weight of the results and conclusions of the evaluation and
+130 written report and the qualifications, experience, or abilities of the person performing the
+131 evaluation. The proposed ward shall have the right to present such evidence and
+132 argument regardless of whether the proposed ward's legal counsel raised such matters in
+133 a written response submitted by the proposed ward's legal counsel pursuant to
+134 paragraph (6) of subsection (d) of Code Section 29-4-11.
+135 (5) The court shall utilize the criteria in Code Section 29-4-1 to determine whether there
+136 is clear and convincing evidence of the need for a guardianship in light of the evidence
+137 taken at the hearing. In addition, the court may consider the evaluation report and any
+138 response filed or argument and evidence presented by the proposed ward. The burden
+139 of proof shall be upon the petitioner.
+140 (6) If the court finds that the proposed ward has one or more developmental disabilities
+141 as defined in paragraph (8) of Code Section 37-1-1, the court shall not find that there is
+142 a need for a guardianship unless the evidence shows by clear and convincing evidence
+143 that, due to such developmental disability or disabilities and other factors that may be
+144 present, the proposed ward lacks sufficient capacity to make or communicate significant
+145 responsible decisions concerning his or her health or safety.
+146 (5)(7) Upon determination of the need for a guardianship, the court shall determine the
+147 powers, if any, which are to be retained by the proposed ward, in accordance with the
+H. B. 36
+- 6 -
+
+25 HB 36/AP
+148 provisions of Code Section 29-4-21 and whether any additional powers are to be granted
+149 to the guardian, pursuant to the provisions of subsection (b) of Code Section 29-4-23.
+150 (6)(8) If the court determines that a guardianship is necessary and the proposed ward is
+151 present, the proposed ward may suggest any individual as guardian. The court shall
+152 select as guardian the individual who will serve the best interest of the ward.
+153 (7)(9) In any procedure under this chapter in which the judge of the court is unable to
+154 hear a case within the time required for such hearing, the judge shall appoint an
+155 individual to hear the case and exercise all the jurisdiction of the court in the case. Any
+156 individual appointed shall be a member of the State Bar of Georgia who is qualified to
+157 serve as the probate judge in that county and who is, in the opinion of the appointing
+158 judge, qualified for the duties by training and experience. The appointment may be made
+159 on a case-by-case basis or by making a standing appointment of one or more individuals.
+160 Any individual who receives a standing appointment shall serve at the pleasure of the
+161 judge who makes the appointment or the judge's successor in office. The compensation
+162 of an individual appointed shall be as agreed upon by the judge who makes the
+163 appointment and the individual appointed, with the approval of the governing authority
+164 of the county for which the individual is appointed, and shall be paid from county funds.
+165 All fees collected for the service of the appointed individual shall be paid into the general
+166 funds of the county."
+167 SECTION 6.
+168 Said title is further amended in Code Section 29-4-14, relating to petition for appointment
+169 of emergency guardian of an adult and requirements of petition, by revising paragraph (1)
+170 of subsection (d) as follows:
+171 "(d)(1) The petition shall be sworn to by two or more petitioners or shall be supported
+172 by an affidavit of a physician licensed to practice medicine under Chapter 34 of Title 43,
+173 a psychologist licensed to practice under Chapter 39 of Title 43, a physician assistant
+H. B. 36
+- 7 -
+
+25 HB 36/AP
+174 licensed under Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+175 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+176 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+177 social worker, or, if the proposed ward is a patient in any federal medical facility in which
+178 such a physician, psychologist, or physician assistant, nurse practitioner, clinical nurse
+179 specialist in psychiatric/mental health, professional counselor, or licensed clinical social
+180 worker is not available, a physician, psychologist, or physician assistant, nurse
+181 practitioner, clinical nurse specialist in psychiatric/mental health, professional counselor,
+182 or licensed clinical social worker authorized to practice in that such federal facility."
+183 SECTION 7.
+184 Said title is further amended in Code Section 29-4-15, relating to prerequisite findings prior
+185 to appointment of emergency guardian, evaluation, notice, and hearing, by revising
+186 subsection (c) as follows:
+187 "(c) If the court determines that there is probable cause to believe that the proposed ward
+188 is in need of an emergency guardian, the court shall:
+189 (1) Immediately appoint legal counsel to represent the proposed ward at the emergency
+190 hearing, which counsel may be the same counsel who is appointed to represent the
+191 proposed ward in the hearing on the petition for guardianship or conservatorship, if any
+192 such petition has been filed, and shall inform counsel of the appointment;
+193 (2) Order an emergency hearing to be conducted not sooner than three days nor later than
+194 five days after the filing of the petition;
+195 (3) Order an evaluation of the proposed ward by a physician an evaluator who shall be
+196 a physician licensed to practice medicine under Chapter 34 of Title 43, a psychologist
+197 licensed to practice under Chapter 39 of Title 43, a physician assistant licensed under
+198 Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+199 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+H. B. 36
+- 8 -
+
+25 HB 36/AP
+200 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+201 social worker, other than the physician, psychologist, or physician assistant, nurse
+202 practitioner, clinical nurse specialist in psychiatric/mental health, professional counselor,
+203 or licensed clinical social worker who completed the affidavit attached to the petition
+204 pursuant to paragraph (1) of subsection (d) of Code Section 29-4-10. The evaluation
+205 shall be conducted within 72 hours of the time the order was issued and a written report
+206 shall be furnished to the court and made available to the parties within this time frame,
+207 which evaluation and report shall be governed by the provisions of subsection (d) of Code
+208 Section 29-4-11;
+209 (4) Immediately notify the proposed ward of the proceedings by service of all pleadings
+210 on the proposed ward, which notice shall:
+211 (A) Be served personally on the proposed ward by an officer of the court and shall not
+212 be served by mail;
+213 (B) Inform the proposed ward that a petition has been filed to have an emergency
+214 guardian appointed for the proposed ward, that the proposed ward has the right to attend
+215 any hearing that is held, and that, if an emergency guardian is appointed, the proposed
+216 ward may lose important rights to control the management of the proposed ward's
+217 person;
+218 (C) Inform the proposed ward of the place and time at which the proposed ward shall
+219 submit to the evaluation provided for by paragraph (3) of this subsection;
+220 (D) Inform the proposed ward of the appointment of legal counsel; and
+221 (E) Inform the proposed ward of the date and time of the hearing on the emergency
+222 guardianship; and
+223 (5) Appoint an emergency guardian to serve until the emergency hearing, with or without
+224 prior notice to the proposed ward, if the threatened risk is so immediate and the potential
+225 harm so irreparable that any delay is unreasonable and the existence of the threatened risk
+226 and potential for irreparable harm is certified by the affidavit of a physician licensed to
+H. B. 36
+- 9 -
+
+25 HB 36/AP
+227 practice medicine under Chapter 34 of Title 43, a psychologist licensed to practice under
+228 Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of Title 43, a
+229 nurse practitioner or clinical nurse specialist in psychiatric/mental health licensed or
+230 registered under Chapter 26 of Title 43, a professional counselor licensed under Chapter
+231 10A of Title 43, or a licensed clinical social worker. Appointment of an emergency
+232 guardian under this paragraph is not a final determination of the proposed ward's need for
+233 a nonemergency guardian. Any emergency guardian appointed under this paragraph shall
+234 have only those powers and duties specifically enumerated in the letters of emergency
+235 guardianship, and the powers and duties shall not exceed those absolutely necessary to
+236 respond to the immediate threatened risk to the ward."
+237 SECTION 8.
+238 Said title is further amended by revising Code Section 29-4-16, relating to conduct of
+239 emergency guardianship hearing and limitations on emergency guardianship, as follows:
+240 "29-4-16.
+241 (a) The court shall conduct the emergency guardianship hearing, at the time and date set
+242 forth in its order, to determine whether there is clear and convincing evidence of the need
+243 for an emergency guardianship in light of the evidence taken at the hearing. In addition to
+244 the evidence at the hearing, the court may consider the evaluation report and any response
+245 filed by the proposed ward. The proposed ward may also challenge, by appropriate
+246 evidence and argument, the sufficiency and weight of the results and conclusions of the
+247 evaluation and written report and the qualifications, experience, or abilities of the person
+248 performing the evaluation. The burden of proof shall be upon the petitioner. Upon the
+249 consent of the petitioner and the proposed ward, the court may grant a continuance of the
+250 case for a period not to exceed 30 days.
+251 (b) If the court at the emergency hearing finds that an emergency guardianship is
+252 necessary, the court shall order the emergency guardianship; provided, however, that:
+H. B. 36
+- 10 -
+
+25 HB 36/AP
+253 (1) Any emergency guardian shall have only those powers and duties specifically
+254 enumerated in the letters of emergency guardianship and the powers and duties shall not
+255 exceed those absolutely necessary to respond to the immediate threatened risk to the
+256 ward;
+257 (2) The court may order the emergency guardian to make any report the court requires;
+258 (3) If the court finds that the proposed ward has one or more developmental disabilities
+259 as defined in paragraph (8) of Code Section 37-1-1, the court shall not find that there is
+260 a need for an emergency guardianship unless the evidence shows by clear and convincing
+261 evidence that, due to such developmental disability or disabilities and other factors that
+262 may be present, the proposed ward lacks sufficient capacity to make or communicate
+263 significant responsible decisions concerning his or her health or safety and there is an
+264 immediate and substantial risk of death or serious physical injury, illness, or disease
+265 unless an emergency guardian is appointed; and
+266 (3)(4) The emergency guardianship shall terminate on the earliest of:
+267 (A) The court's removal of the emergency guardian, with or without cause;
+268 (B) The effective date of the appointment of a guardian;
+269 (C) Unless otherwise specified in the order of dismissal, the dismissal of a petition for
+270 appointment of a guardian;
+271 (D) The date specified for the termination in the order appointing the emergency
+272 guardian;
+273 (E) Sixty days from the date of appointment of the emergency guardian, provided that
+274 the court had jurisdiction to issue such order under paragraph (1) of Code
+275 Section 29-11-12; or
+276 (F) Ninety days from the date of appointment of the emergency guardian, provided that
+277 the court had jurisdiction to issue such order under paragraph (2) or (3) of Code
+278 Section 29-11-12."
+H. B. 36
+- 11 -
+
+25 HB 36/AP
+279 SECTION 9.
+280 Said title is further amended in Code Section 29-4-41, relating to modification of
+281 guardianship, by revising subsection (b) as follows:
+282 "(b) If the petition for modification alleges a significant change in the capacity of the ward,
+283 it must be supported either by the affidavits of two persons who have knowledge of the
+284 ward, one of whom may be the petitioner, or of a physician licensed to practice medicine
+285 under Chapter 34 of Title 43, a psychologist licensed to practice under Chapter 39 of
+286 Title 43, a physician assistant licensed under Chapter 34 of Title 43, a nurse practitioner
+287 or clinical nurse specialist in psychiatric/mental health licensed or registered under
+288 Chapter 26 of Title 43, a professional counselor licensed under Chapter 10A of Title 43,
+289 or a licensed clinical social worker, setting forth the supporting facts and determinations.
+290 If, after reviewing the petition and the affidavits, the court determines that there is no
+291 probable cause to believe that there has been a significant change in the capacity of the
+292 ward, the court shall dismiss the petition. If the petition is not dismissed, the court shall
+293 order that an evaluation be conducted, in accordance with the provisions of subsection (d)
+294 of Code Section 29-4-11. If, after reviewing the evaluation report, the court finds that there
+295 is no probable cause to believe that there has been a significant change in the capacity of
+296 the ward, the court shall dismiss the petition. If the petition is not dismissed, the court shall
+297 schedule a hearing, with notice as the court deems appropriate."
+298 SECTION 10.
+299 Said title is further amended in Code Section 29-4-42, relating to termination of
+300 guardianship, required evidence, burden of proof, and return of property, by revising
+301 subsection (b) as follows:
+302 "(b) A petition for termination must be supported either by the affidavits of two persons
+303 who have knowledge of the ward, one of whom may be the petitioner, or of a physician
+304 licensed to practice medicine under Chapter 34 of Title 43, a psychologist licensed to
+H. B. 36
+- 12 -
+
+25 HB 36/AP
+305 practice under Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of
+306 Title 43, a nurse practitioner or clinical nurse specialist in psychiatric/mental health
+307 licensed or registered under Chapter 26 of Title 43, a professional counselor licensed under
+308 Chapter 10A of Title 43, or a licensed clinical social worker, setting forth the supporting
+309 facts and determinations. If, after reviewing the petition and the affidavits, the court
+310 determines that there is no probable cause to believe that the guardianship should be
+311 terminated, the court shall dismiss the petition. If the petition is not dismissed, the court
+312 shall order that an evaluation be conducted, in accordance with the provisions of subsection
+313 (d) of Code Section 29-4-11. If, after reviewing the evaluation report, the court finds that
+314 there is no probable cause to believe that the guardianship should be terminated, the court
+315 shall dismiss the petition. If the petition is not dismissed, the court shall schedule a
+316 hearing, with such notice as the court deems appropriate."
+317 SECTION 11.
+318 Said title is further amended in Code Section 29-4-70, relating to right of ward to appeal,
+319 procedure, and appointment of emergency guardian, by revising subsection (d) as follows:
+320 "(d) Pending any appeal, the superior court or a probate court that is described in
+321 paragraph (2) of Code Section 15-9-120 may appoint an emergency guardian with such
+322 powers and duties as are described in Code Section 29-4-16; provided, however, that an
+323 emergency guardian may be appointed only upon the filing of an affidavit of a physician
+324 licensed to practice medicine under Chapter 34 of Title 43, a psychologist licensed to
+325 practice under Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of
+326 Title 43, a nurse practitioner or clinical nurse specialist in psychiatric/mental health
+327 licensed or registered under Chapter 26 of Title 43, a professional counselor licensed under
+328 Chapter 10A of Title 43, or a licensed clinical social worker, setting forth the existence of
+329 the emergency circumstances described in subsection (d) of Code Section 29-4-14 and after
+H. B. 36
+- 13 -
+
+25 HB 36/AP
+330 a hearing at which other evidence may be presented. The appointment of an emergency
+331 guardian is not appealable."
+332 SECTION 12.
+333 Said title is further amended in Code Section 29-5-1, relating to conservator for adults, best
+334 interest of the adult, no presumption of need for conservator, and objective of
+335 conservatorship, by adding a new paragraph to subsection (e) to read as follows:
+336 "(3) An adult shall not be presumed to be in need of a conservator solely because of a
+337 finding that the adult has one or more developmental disabilities as defined in paragraph
+338 (8) of Code Section 37-1-1."
+339 SECTION 13.
+340 Said title is further amended in Code Section 29-5-10, relating to petition for appointment
+341 of conservator and requirements of petition, by revising paragraph (1) of subsection (c) as
+342 follows:
+343 "(c)(1) The petition shall be sworn to by two or more petitioners or shall be supported
+344 by an affidavit of a physician licensed to practice medicine under Chapter 34 of Title 43,
+345 a psychologist licensed to practice under Chapter 39 of Title 43, a physician assistant
+346 licensed under Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+347 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+348 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+349 social worker, or, if the proposed ward is a patient in any federal medical facility in which
+350 such a physician, psychologist, or physician assistant, nurse practitioner, clinical nurse
+351 specialist in psychiatric/mental health, professional counselor, or licensed clinical social
+352 worker is not available, a physician, psychologist, or physician assistant, nurse
+353 practitioner, clinical nurse specialist in psychiatric/mental health, professional counselor,
+354 or licensed clinical social worker authorized to practice in that such federal facility."
+H. B. 36
+- 14 -
+
+25 HB 36/AP
+355 SECTION 14.
+356 Said title is further amended in Code Section 29-5-11, relating to prerequisite finding prior
+357 to appointment of conservator, notice, evaluation, and written report, by revising
+358 subsection (d) as follows:
+359 "(d)(1) If the petition is not dismissed pursuant to subsection (b) of this Code section, the
+360 court shall appoint an evaluating physician evaluator who shall be a physician licensed
+361 to practice medicine under Chapter 34 of Title 43, a psychologist licensed to practice
+362 under Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of Title 43,
+363 a nurse practitioner or clinical nurse specialist in psychiatric/mental health licensed or
+364 registered under Chapter 26 of Title 43, a professional counselor licensed under Chapter
+365 10A of Title 43, or a licensed clinical social worker, or, if the proposed ward is a patient
+366 in any federal medical facility in which such a physician, psychologist, or physician
+367 assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental health,
+368 professional counselor, or licensed clinical social worker is not available, a physician,
+369 psychologist, or physician assistant, nurse practitioner, clinical nurse specialist in
+370 psychiatric/mental health, professional counselor, or licensed clinical social worker
+371 authorized to practice in that such federal facility other than the physician, psychologist,
+372 or physician assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental
+373 health, professional counselor, or licensed clinical social worker who completed the
+374 affidavit attached to the petition pursuant to subsection (c) of Code Section 29-5-10.
+375 (2) When evaluating the proposed ward, the physician, psychologist, or physician
+376 assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental health,
+377 professional counselor, or licensed clinical social worker shall explain the purpose of the
+378 evaluation to the proposed ward. The proposed ward may remain silent. Any statements
+379 made by the proposed ward during the evaluation shall be privileged and shall be
+380 inadmissable as evidence in any proceeding other than a proceeding under this chapter.
+H. B. 36
+- 15 -
+
+25 HB 36/AP
+381 The proposed ward's legal counsel shall have the right to be present but shall not
+382 participate in the evaluation.
+383 (3) The evaluation shall be conducted with as little interference with the proposed ward's
+384 activities as possible. The evaluation shall take place at the place and time set in the
+385 notice to the proposed ward and to his or her legal counsel and the time set shall not be
+386 sooner than the fifth day after the service of notice on the proposed ward. The court,
+387 however, shall have the exclusive power to change the place and time of the examination
+388 at any time upon reasonable notice being given to the proposed ward and to his or her
+389 legal counsel. If the proposed ward fails to appear, the court may order that the proposed
+390 ward be taken directly to and from a medical facility, office of a physician, psychologist,
+391 or physician assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental
+392 health, professional counselor, or licensed clinical social worker for purposes of
+393 evaluation only. The evaluation shall be conducted during the normal business hours of
+394 the facility or office, and the proposed ward shall not be detained in the facility or office
+395 overnight. The evaluation may include, but not be limited to:
+396 (A) A self-report from the proposed ward, if possible;
+397 (B) Questions and observations of the proposed ward to assess the functional abilities
+398 of the proposed ward;
+399 (C) A review of the records for the proposed ward, including, but not limited to,
+400 medical records, medication charts, and other available records;
+401 (D) An assessment of cultural factors and language barriers that may impact the
+402 proposed ward's abilities and living environment; and
+403 (E) All other factors the evaluator determines to be appropriate to the evaluation.
+404 (4) A written report shall be filed with the court no later than seven days after the
+405 evaluation, and the court shall serve a copy of the report by first-class mail upon the
+406 proposed ward and the proposed ward's legal counsel and guardian ad litem, if appointed.
+H. B. 36
+- 16 -
+
+25 HB 36/AP
+407 (5) The report shall be signed under oath by the physician, psychologist, or licensed
+408 clinical social worker evaluator and shall:
+409 (A) State the circumstances and duration of the evaluation, including a summary of
+410 questions or tests utilized, and the elements of the evaluation;
+411 (B) List all persons and other sources of information consulted in evaluating the
+412 proposed ward;
+413 (C) Describe the proposed ward's mental and physical state and condition, including
+414 all observed facts considered by the physician, psychologist, or licensed clinical social
+415 worker evaluator;
+416 (D) Describe the overall social condition of the proposed ward, including support, care,
+417 education, and well-being; and
+418 (E) Describe the needs of the proposed ward and their foreseeable duration.
+419 (6) The proposed ward's legal counsel may file a written response to the evaluation,
+420 provided the response is filed no later than the date of the commencement of the hearing
+421 on the petition for conservatorship. The response may include, but is not limited to,
+422 independent evaluations, affidavits of individuals with personal knowledge of the
+423 proposed ward, and a statement of applicable law. In the response, the proposed ward's
+424 legal counsel may also challenge the sufficiency and weight of the results and
+425 conclusions of the evaluation and written report and the qualifications, experience, or
+426 abilities of the person performing the evaluation."
+427 SECTION 15.
+428 Said title is further amended in Code Section 29-5-12, relating to judicial review and
+429 proceedings, by revising subsection (d) as follows:
+430 (d)(1) The hearing shall be held in a courtroom or, for good cause shown, at any other
+431 place as the court may set. At the request of the proposed ward or the proposed ward's
+432 legal counsel and for good cause shown, the court may exercise its discretion to exclude
+H. B. 36
+- 17 -
+
+25 HB 36/AP
+433 the public from the hearing and the record shall reflect the court's action. The proposed
+434 ward or the proposed ward's legal counsel may waive the appearance of the proposed
+435 ward at the hearing.
+436 (2) The hearing shall be recorded by either a certified court reporter or a sound-recording
+437 device. The recording shall be retained for not less than 45 days from the date of the
+438 entry of the order described in Code Section 29-5-138.
+439 (3) The court shall apply the rules of evidence applicable in civil cases.
+440 (4) At the hearing, the proposed ward may also challenge, by appropriate evidence and
+441 argument, the sufficiency and weight of the results and conclusions of the evaluation and
+442 written report and the qualifications, experience, or abilities of the person performing the
+443 evaluation. The proposed ward shall have the right to present such evidence and
+444 argument regardless of whether the proposed ward's legal counsel raised such matters in
+445 a written response submitted by the proposed ward's legal counsel pursuant to
+446 paragraph (6) of subsection (d) of Code Section 29-5-11.
+447 (5) The court shall utilize the criteria in Code Section 29-5-1 to determine whether there
+448 is clear and convincing evidence of the need for a conservatorship in light of the evidence
+449 taken at the hearing. In addition to the evidence at the hearing, the court may consider
+450 the evaluation report and any response filed by the proposed ward. The burden of proof
+451 shall be upon the petitioner.
+452 (6) If the court finds that the proposed ward has one or more developmental disabilities
+453 as defined in paragraph (8) of Code Section 37-1-1, the court shall not find that there is
+454 a need for a conservatorship unless the evidence shows by clear and convincing evidence
+455 that, due to such developmental disability or disabilities and other factors that may be
+456 present, the proposed ward lacks sufficient capacity to make or communicate significant
+457 responsible decisions concerning the management of his or her property.
+458 (5)(7) Upon determination of the need for a conservatorship, the court shall determine
+459 the powers, if any, which are to be retained by the proposed ward, in accordance with the
+H. B. 36
+- 18 -
+
+25 HB 36/AP
+460 provisions of Code Section 29-5-21 and whether any additional powers shall be granted
+461 to the conservator pursuant to the provisions of subsections (b) and (c) of Code
+462 Section 29-5-23.
+463 (6)(8) If the court determines that a conservatorship is necessary and the proposed ward
+464 is present, the proposed ward may suggest any person as conservator. The court shall
+465 select as conservator the person who shall serve the best interest of the ward.
+466 (7)(9) In any procedure under this chapter in which the judge of the court is unable to
+467 hear a case within the time required for a hearing on the petition for conservatorship, the
+468 judge shall appoint an individual to serve to hear the case and exercise all the jurisdiction
+469 of the court in the case. Any individual so appointed shall be a member of the State Bar
+470 of Georgia who is qualified to serve as the probate judge in that county and who is, in the
+471 opinion of the appointing judge, qualified for the duties by training and experience. The
+472 appointment may be made on a case-by-case basis or by making a standing appointment
+473 of one or more individuals. Any individual who receives a standing appointment shall
+474 serve at the pleasure of the judge who makes the appointment or the judge's successor in
+475 office. The compensation of an individual so appointed shall be as agreed upon by the
+476 judge who makes the appointment and the individual appointed, with the approval of the
+477 governing authority of the county for which the individual is appointed, and shall be paid
+478 from county funds. All fees collected for the service of the appointed individual shall be
+479 paid into the general funds of the county."
+480 SECTION 16.
+481 Said title is further amended in Code Section 29-5-14, relating to appointment of emergency
+482 conservator and requirements of petition, by revising paragraph (1) of subsection (d) as
+483 follows:
+484 "(d)(1) The petition shall be sworn to by two or more petitioners or shall be supported
+485 by an affidavit of a physician licensed to practice medicine under Chapter 34 of Title 43,
+H. B. 36
+- 19 -
+
+25 HB 36/AP
+486 a psychologist licensed to practice under Chapter 39 of Title 43, a physician assistant
+487 licensed under Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+488 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+489 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+490 social worker, or, if the proposed ward is a patient in any federal medical facility in which
+491 such a physician, psychologist, or physician assistant, nurse practitioner, clinical nurse
+492 specialist in psychiatric/mental health, professional counselor, or licensed clinical social
+493 worker is not available, a physician, psychologist, or physician assistant, nurse
+494 practitioner, clinical nurse specialist in psychiatric/mental health, professional counselor,
+495 or licensed clinical social worker authorized to practice in that such federal facility."
+496 SECTION 17.
+497 Said title is further amended in Code Section 29-5-15, relating to review of petition,
+498 dismissal, and requirements of court upon finding need for emergency conservator, by
+499 revising subsection (c) as follows:
+500 "(c) If the court determines that there is probable cause to believe that the proposed ward
+501 is in need of an emergency conservator, the court shall:
+502 (1) Immediately appoint legal counsel to represent the proposed ward at the emergency
+503 hearing, which counsel may be the same counsel who is appointed to represent the
+504 proposed ward in the hearing on the petition for guardianship or conservatorship, if any
+505 such petition has been filed, and shall inform counsel of the appointment;
+506 (2) Order an emergency hearing to be conducted not sooner than three days nor later than
+507 five days after the filing of the petition;
+508 (3) Order an evaluation of the proposed ward by a physician an evaluator who shall be
+509 a physician licensed to practice medicine under Chapter 34 of Title 43, a psychologist
+510 licensed to practice under Chapter 39 of Title 43, a physician assistant licensed under
+511 Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+H. B. 36
+- 20 -
+
+25 HB 36/AP
+512 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+513 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+514 social worker, other than the physician, psychologist, or physician assistant, nurse
+515 practitioner, clinical nurse specialist in psychiatric/mental health, professional counselor,
+516 or licensed clinical social worker who completed the affidavit attached to the petition
+517 pursuant to paragraph (1) of subsection (d) of Code Section 29-5-10, to. Such evaluation
+518 shall be conducted within 72 hours of the time such order was issued, and a written report
+519 to shall be furnished to the court and made available to the parties within 72 hours such
+520 time, which evaluation and report shall be governed by the provisions of subsection (d)
+521 of Code Section 29-5-14 29-5-11;
+522 (4) Immediately notify the proposed ward of the proceedings by service of all pleadings
+523 on the proposed ward, which notice shall:
+524 (A) Be served personally on the proposed ward by an officer of the court and shall not
+525 be served by mail;
+526 (B) Inform the proposed ward that a petition has been filed to have an emergency
+527 conservator appointed for the proposed ward, that the proposed ward has the right to
+528 attend any hearing that is held, and that, if an emergency conservator is appointed, the
+529 proposed ward may lose important rights to control the management of the proposed
+530 ward's property;
+531 (C) Inform the proposed ward of the place and time at which the proposed ward shall
+532 submit to the evaluation provided for by paragraph (3) of this subsection;
+533 (D) Inform the proposed ward of the appointment of legal counsel; and
+534 (E) Inform the proposed ward of the date and time of the hearing on the emergency
+535 conservatorship; and
+536 (5) Appoint an emergency conservator to serve until the emergency hearing, with or
+537 without prior notice to the proposed ward, if the threatened risk is so immediate and the
+538 potential harm so irreparable that any delay is unreasonable and the existence of the
+H. B. 36
+- 21 -
+
+25 HB 36/AP
+539 threatened risk and potential for irreparable harm is certified by the affidavit of a
+540 physician licensed to practice medicine under Chapter 34 of Title 43, a psychologist
+541 licensed to practice under Chapter 39 of Title 43, a physician assistant licensed under
+542 Chapter 34 of Title 43, a nurse practitioner or clinical nurse specialist in
+543 psychiatric/mental health licensed or registered under Chapter 26 of Title 43, a
+544 professional counselor licensed under Chapter 10A of Title 43, or a licensed clinical
+545 social worker; provided, however, that, pending the emergency hearing, the court shall
+546 order that no withdrawals may be made from any account on the authority of the
+547 proposed ward's signature without the court's prior approval and that the emergency
+548 conservator shall not expend any funds of the proposed ward without prior court
+549 approval. Appointment of an emergency conservator under this paragraph is not a final
+550 determination of the proposed ward's need for a nonemergency conservator. Any
+551 emergency conservator appointed under this paragraph shall have only those powers and
+552 duties specifically enumerated in the letters of emergency conservatorship; such powers
+553 and duties shall not exceed those absolutely necessary to respond to the immediate
+554 threatened risk to the ward; and such powers and duties shall be subject to the limitations
+555 provided in this paragraph regarding the expenditures of funds of the ward."
+556 SECTION 18.
+557 Said title is further amended by revising Code Section 29-5-16, relating to emergency
+558 conservatorship hearing and limitations on powers of emergency conservator, as follows:
+559 "29-5-16.
+560 (a) The court shall conduct the emergency conservatorship hearing at the time and date set
+561 forth in its order to determine whether there is clear and convincing evidence of the need
+562 for an emergency conservatorship in light of the evidence taken at the hearing. In addition
+563 to the evidence at the hearing, the court may consider the evaluation report and any
+564 response filed by the proposed ward. The proposed ward may also challenge, by
+H. B. 36
+- 22 -
+
+25 HB 36/AP
+565 appropriate evidence and argument, the sufficiency and weight of the results and
+566 conclusions of the evaluation and written report and the qualifications, experience, or
+567 abilities of the person performing the evaluation. The burden of proof shall be upon the
+568 petitioner. Upon the consent of the petitioner and the proposed ward, the court may grant
+569 a continuance of the case for a period not to exceed 30 days.
+570 (b) If the court at the emergency hearing finds that an emergency conservatorship is
+571 necessary, the court shall order the emergency conservatorship; provided, however, that:
+572 (1) Any emergency conservator shall have only those powers and duties specifically
+573 enumerated in the letters of emergency conservatorship and the powers and duties shall
+574 not exceed those absolutely necessary to respond to the immediate threatened risk to the
+575 ward;
+576 (2) The court may order the emergency conservator to make any report the court
+577 requires;
+578 (3) If the court finds that the proposed ward has one or more developmental disabilities
+579 as defined in paragraph (8) of Code Section 37-1-1, the court shall not find that there is
+580 a need for an emergency conservatorship unless the evidence shows by clear and
+581 convincing evidence that, due to such developmental disability or disabilities and other
+582 factors that may be present, the proposed ward lacks sufficient capacity to make or
+583 communicate significant responsible decisions concerning the management of his or her
+584 property and there is an immediate and substantial risk of irreparable waste or dissipation
+585 of the proposed ward's property unless an emergency conservator is appointed; and
+586 (3)(4) The emergency conservatorship shall terminate on the earliest of:
+587 (A) The court's removal of the emergency conservator, with or without cause;
+588 (B) The effective date of the appointment of a conservator;
+589 (C) Unless otherwise specified in the order of dismissal, the dismissal of a petition for
+590 appointment of a conservator;
+H. B. 36
+- 23 -
+
+25 HB 36/AP
+591 (D) The date specified for the termination in the order appointing the emergency
+592 conservator; or
+593 (E) Sixty days from the date of appointment of the emergency conservator."
+594 SECTION 19.
+595 Said title is further amended in Code Section 29-5-23, relating to authority of conservator
+596 and cooperation with guardian or other interested parties, by revising paragraph (13) of
+597 subsection (a) and paragraph (5) of subsection (c) as follows:
+598 "(13) Compromise any contested or doubtful claim for or against the ward if the
+599 proposed gross settlement as defined in Code Section 29-3-3 is in the amount
+600 of $25,000.00 or less, provided that, for purposes of this paragraph, the term 'gross
+601 settlement' means the present value of all amounts paid or to be paid in settlement of the
+602 claim, including cash, medical expenses, expenses of litigation, attorney's fees, and any
+603 amounts allocated to a structured settlement or other similar financial arrangement; and"
+604 "(5) To compromise a contested or doubtful claim for or against the ward if the proposed
+605 gross settlement as defined in Code Section 29-3-3 is more than $25,000.00, provided
+606 that, for purposes of this paragraph, the term 'gross settlement' means the present value
+607 of all amounts paid or to be paid in settlement of the claim, including cash, medical
+608 expenses, expenses of litigation, attorney's fees, and any amounts allocated to a structured
+609 settlement or other similar financial arrangement;"
+610 SECTION 20.
+611 Said title is further amended in Code Section 29-5-71, relating to modification of
+612 conservatorship, contents of petition for modification, and burden of proof, by revising
+613 subsection (b) as follows:
+614 "(b) If the petition for modification alleges a significant change in the capacity of the ward,
+615 it must be supported either by the affidavits of two persons who have knowledge of the
+H. B. 36
+- 24 -
+
+25 HB 36/AP
+616 ward, one of whom may be the petitioner, or of a physician licensed to practice medicine
+617 under Chapter 34 of Title 43, a psychologist licensed to practice under Chapter 39 of Title
+618 43, a physician assistant licensed under Chapter 34 of Title 43, a nurse practitioner or
+619 clinical nurse specialist in psychiatric/mental health licensed or registered under Chapter 26
+620 of Title 43, a professional counselor licensed under Chapter 10A of Title 43, or a licensed
+621 clinical social worker, setting forth the supporting facts and determinations. If, after
+622 reviewing the petition and the affidavits, the court determines that there is no probable
+623 cause to believe that there has been a significant change in the capacity of the ward, the
+624 court shall dismiss the petition. If the petition is not dismissed, the court shall order that
+625 an evaluation be conducted, in accordance with the provisions of subsection (d) of Code
+626 Section 29-5-11. If, after reviewing the evaluation report, the court finds that there is no
+627 probable cause to believe that there has been a significant change in the capacity of the
+628 ward, the court shall dismiss the petition. If the petition is not dismissed, the court shall
+629 schedule a hearing, with such notice as the court deems appropriate."
+630 SECTION 21.
+631 Said title is further amended in Code Section 29-5-72, relating to termination of
+632 conservatorship, required evidence to support, burden of proof, and death of ward, by
+633 revising subsection (b) as follows:
+634 "(b) A petition for termination must be supported either by the affidavits of two persons
+635 who have knowledge of the ward, one of whom may be the petitioner, or of a physician
+636 licensed to practice medicine under Chapter 34 of Title 43, a psychologist licensed to
+637 practice under Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of
+638 Title 43, a nurse practitioner or clinical nurse specialist in psychiatric/mental health
+639 licensed or registered under Chapter 26 of Title 43, a professional counselor licensed under
+640 Chapter 10A of Title 43, or a licensed clinical social worker, setting forth the supporting
+641 facts and determinations. If, after reviewing the petition and the affidavits, the court
+H. B. 36
+- 25 -
+
+25 HB 36/AP
+642 determines that there is no probable cause to believe that the conservatorship should be
+643 terminated, the court shall dismiss the petition. If the petition is not dismissed, the court
+644 shall order that an evaluation be conducted in accordance with the provisions of
+645 subsection (d) of Code Section 29-5-11. If, after reviewing the evaluation report, the court
+646 finds that there is no probable cause to believe that the conservatorship should be
+647 terminated, the court shall dismiss the petition. If the petition is not dismissed, the court
+648 shall schedule a hearing with such notice as the court deems appropriate."
+649 SECTION 22.
+650 Said title is further amended in Code Section 29-5-110, relating to proceedings for appeal,
+651 appointment of guardians ad litem, bond and security prior to removal, liability of surety of
+652 predecessor conservator, and jurisdiction, by revising subsection (d) as follows:
+653 "(d) Pending any appeal, the superior court or a probate court that is described in
+654 paragraph (2) of Code Section 15-9-120 may appoint an emergency conservator with
+655 powers and duties as are described in Code Section 29-5-16; provided, however, that such
+656 emergency conservator may be appointed only upon the filing of an affidavit of a physician
+657 licensed to practice medicine under Chapter 34 of Title 43, a psychologist licensed to
+658 practice under Chapter 39 of Title 43, a physician assistant licensed under Chapter 34 of
+659 Title 43, a nurse practitioner or clinical nurse specialist in psychiatric/mental health
+660 licensed or registered under Chapter 26 of Title 43, a professional counselor licensed under
+661 Chapter 10A of Title 43, or a licensed clinical social worker, setting forth the existence of
+662 the emergency circumstances described in subsection (d) of Code Section 29-5-14 and after
+663 a hearing at which other evidence may be presented. The appointment of an emergency
+664 conservator is not appealable."
+665 SECTION 23.
+H. B. 36
+- 26 -
+
+25 HB 36/AP
+666 Said title is further amended by revising Code Section 29-9-16, relating to compensation to
+667 physicians, psychologists, or licensed clinical social workers, as follows:
+668 "29-9-16.
+669 (a) For the evaluation or examination required by subsection (d) of Code Section 29-4-11,
+670 subsection (c) of Code Section 29-4-15, subsection (b) of Code Section 29-4-42,
+671 subsection (d) of Code Section 29-5-11, subsection (c) of Code Section 29-5-15, or
+672 subsection (b) of Code Section 29-5-71, the evaluating physician, psychologist, or
+673 physician assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental health,
+674 professional counselor, or licensed clinical social worker shall receive a reasonable fee
+675 commensurate with the task performed, plus actual expenses.
+676 (b) In the event the attendance of the evaluating physician, psychologist, or physician
+677 assistant, nurse practitioner, clinical nurse specialist in psychiatric/mental health,
+678 professional counselor, or licensed clinical social worker shall be required by the court for
+679 a hearing under subsection (d) of Code Section 29-4-12, subsection (a) of Code Section
+680 29-4-16, subsection (b) of Code Section 29-4-42, subsection (d) of Code Section 29-5-12,
+681 subsection (a) of Code Section 29-5-16, or subsection (b) of Code Section 29-5-71, other
+682 than pursuant to a subpoena requested by a party to the proceeding, the evaluating
+683 physician, psychologist, or physician assistant, nurse practitioner, clinical nurse specialist
+684 in psychiatric/mental health, professional counselor, or licensed clinical social worker shall
+685 receive a reasonable fee commensurate with the task performed, plus actual expenses.
+686 (c) All fees and expenses payable under subsection (a) or (b) of this Code section shall be
+687 assessed by the court and paid in accordance with the provisions of Code Section 29-9-3."
+688 SECTION 24.
+689 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 36
+- 27 -
+
+[DELETED: 5H3,4,6,dtht4,3,hr o a g f a a t m a t o s t p f l o t p a d o c e 2 o t O C o G A r t g a w i]
+[DELETED: 5H t t a h o o m d d a d i h l o r u C 2 o T 4  i n a a p p o p a n]
+[DELETED: 5H p c o l c s w i n a  o p a n p c n s i  W e t p w t p p o p n p c n s i p h b t p w d t e s b p a s b]
+[DELETED: 5H p w l c s h t r t b p b s n o p a n p c n s i]
+[DELETED: 5H t p f g  T r m i b i n l t e a o i w p k o t c m a c t s a w o t r a]
+[DELETED: 5H  T p w s h t r t p s e a w r s b t p w l c p t]
+[DELETED: 5H a c w t t r f s h t j s a a a i a s b a a u b t j w m t]
+[DELETED: 5H h l o r u C 2 o T 4  i n a a p p o p a n a o e g e n a h b r 3 o T 4 a n p o c n s i h l o r u C 2 o T 4 ]
+[DELETED: 5H w o t t p p o p a n]
+[DELETED: 5H  I t c a t e h f t a e g i]
+[DELETED: 5H  A e g s h o t p a d s c h j t i s o u p ( o C]
+[DELETED: 5H t i f a i C S 2 r t m o c n s i p h l o r u t i f a i C S 2 r t t o r e b o p a r o p b r]
+[DELETED: 5H 4 a n p o c n s i p h  P a a t s c o a p c t i d i 4 a n p o c n s i p h]
+[DELETED: 5H o t a n p o n f c a o o h l o r u C 2 o T 4  i n a a p p o p a n]
+[DELETED: 5H a o c n e a w r b r n p c n s i p h o p a n p c n s i h p c o l c s w  W e t p w t p p o p n p c n s i p h b t p w d t e s b p a s b]
+[DELETED: 5H p w l c s h t r t b p b s n p c o l c s w f p o]
+[DELETED: 5H e a o i w p k o t c m a c t s a w o t r a t i f a i C S 2 r t j r a]
+[DELETED: 5H  T p w s h t r t p s e a w r s b t p w l c p t]
+[DELETED: 5H t c p t t p o s ( a ( o C]
+[DELETED: 5H h l o r u C 2 o T 4  i n a a p p o p a n t i f a i C S 2 r t r o p 3 o T 4 a n p o c n s i]
+[DELETED: 5H h l o r u C 2 o T 4  w o t t p p o p a n]
+[DELETED: 5H r a p f i h i c b t a o  3 o T 4 a n p o c n s i h l o r u C 2 o T 4  t n w m b m f a a o t a o t s n e a f o t p w w p c o t p w n f a n c  A f b t p w  T p w m a c b]
+[DELETED: 5H e a a t s a w o t r a  T c m o t e c t m a r t c n f a e c u t e s b c a]
+[DELETED: 5H  C a c o d c f o a t w i t g s a d i C S 2 i i t a t i f a i C S 2 r t m o]
+[DELETED: 5H t i f a i C S 2 r t t o r e t s b o p a d o w b 4 a n p o c n s i p h]
+[DELETED: 5H o t a e b c i a w t p o t t i n p c t b t t c s b  P a a t s c o a p c t i d i 4 a n p o c n s i p h]
+[DELETED: 5H ( o C S 2 s ( o C S 2 ( o C S 2 s ( o C S 2 o ( o C S 2 t e p p o n p c n s i p h p t a s r b a p t t p t e]

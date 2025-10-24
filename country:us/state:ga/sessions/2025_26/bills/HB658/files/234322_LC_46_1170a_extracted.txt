@@ -1,0 +1,208 @@
+Title: House Bill 658
+Official Title: House Bill 658
+Number of Sections: 1
+Source: versions - LC 46 1170/a
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25 LC 46 1170
+By: Representatives Holcomb of the 101st, Hugley of the 141st, Miller of the 62nd, Au of the
+50th, Draper of the 90th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+2 insurance generally, so as to provide for certain consumer protections contingent upon the
+3 repeal of the Patient Protection and Affordable Care Act; to provide for definitions; to
+4 provide that preventive services shall be included at no additional cost to the insured; to
+5 include dependents in coverage up to age 26; to prohibit a health benefit policy issued in this
+6 state from imposing an annual or lifetime limit of coverage; to provide for exceptions; to
+7 provide for a right to appeal; to provide for applicability; to provide for related matters; to
+8 repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to insurance
+12 generally, is amended by adding a new Code section to read as follows:
+13 "33-24-59.34.
+14 (a) As used in this Code section, the term:
+15 (1) 'Cost-sharing amount' means the share of costs an insured person is required to pay
+16 under a health benefit plan for certain covered healthcare services which may include
+H. B. 658
+- 1 -
+25 LC 46 1170
+17 deductibles, coinsurance, copayments, or other similar charges, but does not include
+18 premium payments.
+19 (2) 'Essential health benefits' means:
+20 (A) Ambulatory patient services;
+21 (B) Chronic disease management;
+22 (C) Emergency services;
+23 (D) Hospitalization;
+24 (E) Laboratory services;
+25 (F) Maternity and newborn care;
+26 (G) Mental health and substance use disorder services;
+27 (H) Pediatric services, including oral and vision care for children;
+28 (I) Prescription drugs; and
+29 (J) Rehabilitative and habilitative services and devices.
+30 The terms listed in subparagraphs (A) through (J) of this paragraph shall be further
+31 defined through regulations to be promulgated by the Commissioner which shall be based
+32 on the federal Patient Protection and Affordable Care Act, 42 U.S.C. Section 18001 et
+33 seq., as it existed immediately prior to being repealed.
+34 (3) 'Health benefit plan' means any hospital, health, or medical expense insurance policy,
+35 hospital or medical service contract, employee welfare benefit plan, contract or
+36 agreement with a health maintenance organization, subscriber contract or agreement, or
+37 preferred provider organization. Such term shall also include any health insurance plan
+38 established under Article 1 of Chapter 18 of Title 45.
+39 (4) 'Preventive services' means screening tests, counseling, and preventive medicines,
+40 or treatments provided or conducted to prevent a medical illness or condition prior to
+41 symptoms or physical manifestations of such medical illness or condition.
+42 (b) No health benefit plan shall be offered or issued in this state which:
+H. B. 658
+- 2 -
+25 LC 46 1170
+43 (1) Limits or restricts payment of benefits for any medical illness or condition solely
+44 because such illness or condition preexisted the application for such plan. This
+45 preexisting condition exclusion prohibition shall also prohibit insurers of health benefit
+46 plans from denying an application for insurance coverage due to the existence of a
+47 preexisting condition or charging an applicant with a preexisting condition a higher
+48 premium than a similar applicant without such condition would be charged, due to the
+49 existence of such condition;
+50 (2) Does not cover preventive services as described in the federal Patient Protection and
+51 federal Patient Protection and Affordable Care Act, 42 U.S.C. Section 18001 et seq., as
+52 it existed immediately prior to being repealed. Such coverage shall be provided without
+53 any cost-sharing amount being charged to the insured;
+54 (3) Imposes an annual or lifetime limit on the provision of essential health benefits;
+55 (4) Does not offer coverage of any person who is a dependent child of an insured parent
+56 or guardian, up to and including age 26, so long as the coverage of such insured parent
+57 or guardian continues in effect and such child remains a dependent of such parent or
+58 guardian. Upon such child becoming 26 years of age, the insurer of such child's parent
+59 or guardian shall open a special enrollment period of 30 days, during which time such
+60 child may enroll with such insurer; or
+61 (5) Allows the insurer to cancel or nonrenew such plan for any reason other than the
+62 failure to pay any premium when due or the intentional provision of false or incomplete
+63 information on the application.
+64 (6) Allows for any underwriting other than that allowed by the federal Patient Protection
+65 and Affordable Care Act, 42 U.S.C. Section 18001 et seq., as it existed immediately prior
+66 to being repealed.
+67 (c) This Code section shall apply to all policies, contracts, and certificates executed,
+68 delivered, issued for delivery, continued, renewed, and only upon the repeal of the federal
+69 Patient Protection and Affordable Care Act, 42 U.S.C. Section 18001 et seq."
+H. B. 658
+- 3 -
+25 LC 46 1170
+70 SECTION 2.
+71 This Act shall become effective only upon the repeal of the federal Patient Protection and
+72 Affordable Care Act.
+73 SECTION 3.
+74 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 658
+- 4 -
+[DELETED: 5L1,1,2,tstn0,0,ht]
+[DELETED: 5L o m s c e w b p c o]
+[DELETED: 5L s i o c p t a f s p  T]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 46 1170
+House Bill 658
+By: Representatives Holcomb of the 101st, Hugley of the 141st, Miller of the 62nd, Au of the
+50th, Draper of the 90th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+2 insurance generally, so as to provide for certain consumer protections contingent upon the
+3 repeal of the Patient Protection and Affordable Care Act; to provide for definitions; to
+4 provide that preventive services shall be included at no additional cost to the insured; to
+5 include dependents in coverage up to age 26; to prohibit a health benefit policy issued in this
+6 state from imposing an annual or lifetime limit of coverage; to provide for exceptions; to
+7 provide for a right to appeal; to provide for applicability; to provide for related matters; to
+8 repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to insurance
+12 generally, is amended by adding a new Code section to read as follows:
+13 "33-24-59.34.
+14 (a) As used in this Code section, the term:
+15 (1) 'Cost-sharing amount' means the share of costs an insured person is required to pay
+16 under a health benefit plan for certain covered healthcare services which may include
+H. B. 658
+- 1 -
+
+25 LC 46 1170
+17 deductibles, coinsurance, copayments, or other similar charges, but does not include
+18 premium payments.
+19 (2) 'Essential health benefits' means:
+20 (A) Ambulatory patient services;
+21 (B) Chronic disease management;
+22 (C) Emergency services;
+23 (D) Hospitalization;
+24 (E) Laboratory services;
+25 (F) Maternity and newborn care;
+26 (G) Mental health and substance use disorder services;
+27 (H) Pediatric services, including oral and vision care for children;
+28 (I) Prescription drugs; and
+29 (J) Rehabilitative and habilitative services and devices.
+30 The terms listed in subparagraphs (A) through (J) of this paragraph shall be further
+31 defined through regulations to be promulgated by the Commissioner which shall be based
+32 on the federal Patient Protection and Affordable Care Act, 42 U.S.C. Section 18001 et
+33 seq., as it existed immediately prior to being repealed.
+34 (3) 'Health benefit plan' means any hospital, health, or medical expense insurance policy,
+35 hospital or medical service contract, employee welfare benefit plan, contract or
+36 agreement with a health maintenance organization, subscriber contract or agreement, or
+37 preferred provider organization. Such term shall also include any health insurance plan
+38 established under Article 1 of Chapter 18 of Title 45.
+39 (4) 'Preventive services' means screening tests, counseling, and preventive medicines,
+40 or treatments provided or conducted to prevent a medical illness or condition prior to
+41 symptoms or physical manifestations of such medical illness or condition.
+42 (b) No health benefit plan shall be offered or issued in this state which:
+H. B. 658
+- 2 -
+
+25 LC 46 1170
+43 (1) Limits or restricts payment of benefits for any medical illness or condition solely
+44 because such illness or condition preexisted the application for such plan. This
+45 preexisting condition exclusion prohibition shall also prohibit insurers of health benefit
+46 plans from denying an application for insurance coverage due to the existence of a
+47 preexisting condition or charging an applicant with a preexisting condition a higher
+48 premium than a similar applicant without such condition would be charged, due to the
+49 existence of such condition;
+50 (2) Does not cover preventive services as described in the federal Patient Protection and
+51 federal Patient Protection and Affordable Care Act, 42 U.S.C. Section 18001 et seq., as
+52 it existed immediately prior to being repealed. Such coverage shall be provided without
+53 any cost-sharing amount being charged to the insured;
+54 (3) Imposes an annual or lifetime limit on the provision of essential health benefits;
+55 (4) Does not offer coverage of any person who is a dependent child of an insured parent
+56 or guardian, up to and including age 26, so long as the coverage of such insured parent
+57 or guardian continues in effect and such child remains a dependent of such parent or
+58 guardian. Upon such child becoming 26 years of age, the insurer of such child's parent
+59 or guardian shall open a special enrollment period of 30 days, during which time such
+60 child may enroll with such insurer; or
+61 (5) Allows the insurer to cancel or nonrenew such plan for any reason other than the
+62 failure to pay any premium when due or the intentional provision of false or incomplete
+63 information on the application.
+64 (6) Allows for any underwriting other than that allowed by the federal Patient Protection
+65 and Affordable Care Act, 42 U.S.C. Section 18001 et seq., as it existed immediately prior
+66 to being repealed.
+67 (c) This Code section shall apply to all policies, contracts, and certificates executed,
+68 delivered, issued for delivery, continued, renewed, and only upon the repeal of the federal
+69 Patient Protection and Affordable Care Act, 42 U.S.C. Section 18001 et seq."
+H. B. 658
+- 3 -
+
+25 LC 46 1170
+70 SECTION 2.
+71 This Act shall become effective only upon the repeal of the federal Patient Protection and
+72 Affordable Care Act.
+73 SECTION 3.
+74 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 658
+- 4 -
+
+[DELETED: 5L1,1,2,tstn0,0,ht]
+[DELETED: 5L o m s c e w b p c o]
+[DELETED: 5L s i o c p t a f s p  T]
+[DELETED: 5L]

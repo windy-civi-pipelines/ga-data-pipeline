@@ -1,0 +1,360 @@
+Title: Senate Bill 249
+Official Title: Senate Bill 249
+Number of Sections: 1
+Source: versions - As introduced LC 49 2283
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 49 2283
+By: Senators Dixon of the 45th, Anavitarte of the 31st, Burns of the 23rd, Harbin of the 16th,
+Hickman of the 4th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 2 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia
+2 Annotated, relating to competencies and core curriculum under the "Quality Basic Education
+3 Act," so as to provide that, beginning in the 2031-2032 school year, a computer science
+4 course shall be a high school graduation requirement; to provide for certain computer science
+5 courses to be substituted for units of credit graduation requirements in certain other subject
+6 areas; to provide for such exception; to revise legislative findings; to provide for related
+7 matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Part 2 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated,
+11 relating to competencies and core curriculum under the "Quality Basic Education Act," is
+12 amended by revising Code Section 20-2-149.3, relating to requirements for computer science
+13 education, as follows:
+14 "20-2-149.3.
+15 (a) The General Assembly finds that:
+S. B. 249
+- 1 -
+25 LC 49 2283
+16 (1) Education in computer science is a critical need for the students of Georgia for the
+17 twenty-first century; and
+18 (2) Less than 0.5 percent of high school graduates have taken a computer science course;
+19 (3) There are thousands of unfulfilled computer science jobs in the state; and
+20 (4) The logical critical thinking skills taught by computer science are now very valuable
+21 in many noncomputer science jobs, as technology has become embedded in most
+22 professions.
+23 (b) As used in this Code section, the term:
+24 (1) 'Computer science' means the study of computers, algorithmic processes, coding,
+25 artificial intelligence, emerging technologies, and logical critical thinking, including
+26 computer principles, their hardware and software designs, their implementation, and their
+27 impact on society.
+28 (2) 'Computer science courses and content' means high school courses that teach
+29 computer science as stand-alone implementations and middle school courses that provide
+30 instruction in computer science in stand-alone implementations or by being embedded
+31 in other subjects and focus on how to create and understand technology, rather than by
+32 simply using technology.
+33 (3) 'High-quality professional learning' means professional development activities that:
+34 (A) Clarify the conceptual foundations of computer science;
+35 (B) Teach research based practices, including hands-on and inquiry based learning; and
+36 (C) Are intended for teachers with or without prior exposure to computer science.
+37 (4) 'High-quality professional learning providers' means institutions of higher education
+38 in this state, local school systems, nonprofit organizations, or private entities that have
+39 successfully designed, implemented, and scaled high-quality professional learning for
+40 teachers and are approved or recommended by the State Board of Education in
+41 coordination with the Department of Education.
+42 (5) 'Offer' means providing a course taught by a computer science teacher:
+S. B. 249
+- 2 -
+25 LC 49 2283
+43 (A) Who is onsite at the physical location of the school; or
+44 (B) Who is not onsite at the physical location of the school but conducts the course
+45 through virtual means with a proctor onsite at the physical location of the school.
+46 (c)(1) Beginning in the 2022-2023 school year:
+47 (A) Each local school system shall provide that at least one high school in its school
+48 system offer a course in computer science;
+49 (B) Each local school system shall provide that all middle schools in its school system
+50 offer instruction in exploratory computer science;
+51 (C) Each state charter school that serves high school students shall offer a course in
+52 computer science;
+53 (D) Each state charter school that serves middle school students shall offer instruction
+54 in exploratory computer science;
+55 (E) Each local school system may provide that all elementary schools in its school
+56 system offer instruction in exploratory computer science; and
+57 (F) Each state charter school that serves elementary school students may offer
+58 instruction in exploratory computer science.
+59 (2) Beginning in the 2023-2024 school year, each local school system shall provide that
+60 at least 50 percent of the high schools in its school system offer a course in computer
+61 science.
+62 (3) Beginning in the 2024-2025 school year, each local school system shall provide that
+63 all high schools in its school system offer a course in computer science.
+64 (4)(A) Beginning in the 2031-2032 school year, each local board of education shall
+65 require all students, as a condition of graduation from high school, to complete a course
+66 in computer science or a career, technical, and agricultural education (CTAE) course
+67 embedded with computer science which meets the requirements provided in
+68 subparagraph (B) of this paragraph.
+S. B. 249
+- 3 -
+25 LC 49 2283
+69 (B) The course required in subparagraph (A) of this paragraph may be earned by
+70 students in any of grades eight through 12 and shall:
+71 (i) Meet or exceed the content standards and any other requirements prescribed by
+72 the State Board of Education for such courses;
+73 (ii) Be made available in a traditional classroom setting, a blended learning
+74 environment, or an online or other technology based format that is tailored to meet the
+75 needs of each participating student; and
+76 (iii) Not increase the number of credits required for graduation.
+77 (C)(i) Except as provided in division (ii) of this subparagraph, a full-credit computer
+78 science course that meets the requirements provided in subparagraph (B) of this
+79 paragraph shall be eligible to satisfy the course required in subparagraph (A) of this
+80 paragraph and one unit of credit graduation requirement for one of the following:
+81 (I) One unit of math credit; provided, however, that such unit of credit shall not be
+82 a substitute for Algebra: Concepts and Connections or its equivalent, Geometry:
+83 Concepts and Connections or its equivalent, or Advanced Algebra: Concepts and
+84 Connections or its equivalent;
+85 (II) One unit of science credit; provided, however, that such unit of credit shall not
+86 be a substitute for any biology or physical science requirements;
+87 (III) One unit of CTAE credit;
+88 (IV) One unit of Modern Language or Latin credit;
+89 (V) One unit of Fine Arts credit; or
+90 (VI) One unit of elective credit.
+91 (ii) A student may be permitted to earn more than one unit of credit graduation
+92 requirement by completing more than one computer science course that implements
+93 a minimum course of instruction based on content standards prescribed by the State
+94 Board of Education and which is separate and distinct from such other computer
+95 science course completed by such student, and such student may be permitted to use
+S. B. 249
+- 4 -
+25 LC 49 2283
+96 multiple units of credit to offset other graduation requirements as provided in this
+97 subparagraph; provided, however, that a student shall not be permitted to offset more
+98 than one unit of math credit and one unit of science credit; and, provided further, that
+99 there shall be no limit to the number of offsets permitted for units of CTAE or elective
+100 credits.
+101 (D)(i) Except as provided in division (ii) of this subparagraph, a full-credit CTAE
+102 course embedded with computer science that meets the requirements provided in
+103 subparagraph (B) of this paragraph shall be eligible to satisfy the full-credit course
+104 required in subparagraph (A) of this paragraph and one unit of credit graduation
+105 requirement for one of the following:
+106 (I) One unit of CTAE credit; or
+107 (II) One unit of elective credit.
+108 (ii) A student may be permitted to earn more than one unit of credit graduation
+109 requirement by completing more than one CTAE course embedded with computer
+110 science that implements a minimum course of instruction based on content standards
+111 prescribed by the State Board of Education and which is separate and distinct from
+112 such other computer science course completed by such student, and such student may
+113 be permitted to use multiple units of credit to offset other graduation requirements as
+114 provided in this subparagraph.
+115 (E) The Department of Education shall establish, and the State Board of Education
+116 shall approve, the minimum criteria by with a CTAE course embedded with computer
+117 science may be approved.
+118 (d) The Department of Education shall ensure that the Georgia Virtual School operated
+119 pursuant to Code Section 20-2-319.1 has sufficient capacity to enable schools to utilize
+120 computer science courses to meet the needs of such schools as a result of this Code section.
+S. B. 249
+- 5 -
+25 LC 49 2283
+121 (e)(1) Subject to appropriations, grants shall be provided to eligible entities to deliver
+122 professional development programs for teachers providing instruction in computer
+123 science courses and content.
+124 (2) Eligible entities shall include local school systems, consortia of local school systems,
+125 local charter schools, state charter schools, and high-quality professional learning
+126 providers working in partnership with local school systems.
+127 (3) Criteria for grant awards to eligible entities pursuant to this subsection shall include:
+128 (A) The number of teachers in a local school system that require training and the
+129 number of teachers in a local school system that have already received training; and
+130 (B) The willingness of local school systems to make available their teachers who have
+131 received training in computer science courses and content to provide computer science
+132 instruction in another local school system or systems.
+133 (4) The Department of Education shall submit a report on December 1 of each year to
+134 the Governor, the Lieutenant Governor, the Speaker of the House of Representatives, the
+135 chairperson of the Senate Education and Youth Committee, and the chairperson of the
+136 House Committee on Education. Such report shall include the number of teachers
+137 trained, the number of schools offering training, the number of students served and the
+138 demographics of such students, and a list of the eligible entities that provided the
+139 training."
+140 SECTION 2.
+141 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 249
+- 6 -
+[DELETED: 5L]
+[DELETED: 5L m n s j a t h b e i m  ' s c a c m h s c t t a a a o r b t S B o E i]
+[DELETED: 5L  E s c s t s e s s m o w c s w m t r p i]
+[DELETED: 5L  B m a i a t c s a b l]
+[DELETED: 5L]
+[DELETED: 5L d p f t p i i c c s s c s a h p l o s s a a l o t e e t p t]
+
+
+================================================================================
+
+Raw Text:
+25 LC 49 2283
+Senate Bill 249
+By: Senators Dixon of the 45th, Anavitarte of the 31st, Burns of the 23rd, Harbin of the 16th,
+Hickman of the 4th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 2 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia
+2 Annotated, relating to competencies and core curriculum under the "Quality Basic Education
+3 Act," so as to provide that, beginning in the 2031-2032 school year, a computer science
+4 course shall be a high school graduation requirement; to provide for certain computer science
+5 courses to be substituted for units of credit graduation requirements in certain other subject
+6 areas; to provide for such exception; to revise legislative findings; to provide for related
+7 matters; to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 Part 2 of Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated,
+11 relating to competencies and core curriculum under the "Quality Basic Education Act," is
+12 amended by revising Code Section 20-2-149.3, relating to requirements for computer science
+13 education, as follows:
+14 "20-2-149.3.
+15 (a) The General Assembly finds that:
+S. B. 249
+- 1 -
+
+25 LC 49 2283
+16 (1) Education in computer science is a critical need for the students of Georgia for the
+17 twenty-first century; and
+18 (2) Less than 0.5 percent of high school graduates have taken a computer science course;
+19 (3) There are thousands of unfulfilled computer science jobs in the state; and
+20 (4) The logical critical thinking skills taught by computer science are now very valuable
+21 in many noncomputer science jobs, as technology has become embedded in most
+22 professions.
+23 (b) As used in this Code section, the term:
+24 (1) 'Computer science' means the study of computers, algorithmic processes, coding,
+25 artificial intelligence, emerging technologies, and logical critical thinking, including
+26 computer principles, their hardware and software designs, their implementation, and their
+27 impact on society.
+28 (2) 'Computer science courses and content' means high school courses that teach
+29 computer science as stand-alone implementations and middle school courses that provide
+30 instruction in computer science in stand-alone implementations or by being embedded
+31 in other subjects and focus on how to create and understand technology, rather than by
+32 simply using technology.
+33 (3) 'High-quality professional learning' means professional development activities that:
+34 (A) Clarify the conceptual foundations of computer science;
+35 (B) Teach research based practices, including hands-on and inquiry based learning; and
+36 (C) Are intended for teachers with or without prior exposure to computer science.
+37 (4) 'High-quality professional learning providers' means institutions of higher education
+38 in this state, local school systems, nonprofit organizations, or private entities that have
+39 successfully designed, implemented, and scaled high-quality professional learning for
+40 teachers and are approved or recommended by the State Board of Education in
+41 coordination with the Department of Education.
+42 (5) 'Offer' means providing a course taught by a computer science teacher:
+S. B. 249
+- 2 -
+
+25 LC 49 2283
+43 (A) Who is onsite at the physical location of the school; or
+44 (B) Who is not onsite at the physical location of the school but conducts the course
+45 through virtual means with a proctor onsite at the physical location of the school.
+46 (c)(1) Beginning in the 2022-2023 school year:
+47 (A) Each local school system shall provide that at least one high school in its school
+48 system offer a course in computer science;
+49 (B) Each local school system shall provide that all middle schools in its school system
+50 offer instruction in exploratory computer science;
+51 (C) Each state charter school that serves high school students shall offer a course in
+52 computer science;
+53 (D) Each state charter school that serves middle school students shall offer instruction
+54 in exploratory computer science;
+55 (E) Each local school system may provide that all elementary schools in its school
+56 system offer instruction in exploratory computer science; and
+57 (F) Each state charter school that serves elementary school students may offer
+58 instruction in exploratory computer science.
+59 (2) Beginning in the 2023-2024 school year, each local school system shall provide that
+60 at least 50 percent of the high schools in its school system offer a course in computer
+61 science.
+62 (3) Beginning in the 2024-2025 school year, each local school system shall provide that
+63 all high schools in its school system offer a course in computer science.
+64 (4)(A) Beginning in the 2031-2032 school year, each local board of education shall
+65 require all students, as a condition of graduation from high school, to complete a course
+66 in computer science or a career, technical, and agricultural education (CTAE) course
+67 embedded with computer science which meets the requirements provided in
+68 subparagraph (B) of this paragraph.
+S. B. 249
+- 3 -
+
+25 LC 49 2283
+69 (B) The course required in subparagraph (A) of this paragraph may be earned by
+70 students in any of grades eight through 12 and shall:
+71 (i) Meet or exceed the content standards and any other requirements prescribed by
+72 the State Board of Education for such courses;
+73 (ii) Be made available in a traditional classroom setting, a blended learning
+74 environment, or an online or other technology based format that is tailored to meet the
+75 needs of each participating student; and
+76 (iii) Not increase the number of credits required for graduation.
+77 (C)(i) Except as provided in division (ii) of this subparagraph, a full-credit computer
+78 science course that meets the requirements provided in subparagraph (B) of this
+79 paragraph shall be eligible to satisfy the course required in subparagraph (A) of this
+80 paragraph and one unit of credit graduation requirement for one of the following:
+81 (I) One unit of math credit; provided, however, that such unit of credit shall not be
+82 a substitute for Algebra: Concepts and Connections or its equivalent, Geometry:
+83 Concepts and Connections or its equivalent, or Advanced Algebra: Concepts and
+84 Connections or its equivalent;
+85 (II) One unit of science credit; provided, however, that such unit of credit shall not
+86 be a substitute for any biology or physical science requirements;
+87 (III) One unit of CTAE credit;
+88 (IV) One unit of Modern Language or Latin credit;
+89 (V) One unit of Fine Arts credit; or
+90 (VI) One unit of elective credit.
+91 (ii) A student may be permitted to earn more than one unit of credit graduation
+92 requirement by completing more than one computer science course that implements
+93 a minimum course of instruction based on content standards prescribed by the State
+94 Board of Education and which is separate and distinct from such other computer
+95 science course completed by such student, and such student may be permitted to use
+S. B. 249
+- 4 -
+
+25 LC 49 2283
+96 multiple units of credit to offset other graduation requirements as provided in this
+97 subparagraph; provided, however, that a student shall not be permitted to offset more
+98 than one unit of math credit and one unit of science credit; and, provided further, that
+99 there shall be no limit to the number of offsets permitted for units of CTAE or elective
+100 credits.
+101 (D)(i) Except as provided in division (ii) of this subparagraph, a full-credit CTAE
+102 course embedded with computer science that meets the requirements provided in
+103 subparagraph (B) of this paragraph shall be eligible to satisfy the full-credit course
+104 required in subparagraph (A) of this paragraph and one unit of credit graduation
+105 requirement for one of the following:
+106 (I) One unit of CTAE credit; or
+107 (II) One unit of elective credit.
+108 (ii) A student may be permitted to earn more than one unit of credit graduation
+109 requirement by completing more than one CTAE course embedded with computer
+110 science that implements a minimum course of instruction based on content standards
+111 prescribed by the State Board of Education and which is separate and distinct from
+112 such other computer science course completed by such student, and such student may
+113 be permitted to use multiple units of credit to offset other graduation requirements as
+114 provided in this subparagraph.
+115 (E) The Department of Education shall establish, and the State Board of Education
+116 shall approve, the minimum criteria by with a CTAE course embedded with computer
+117 science may be approved.
+118 (d) The Department of Education shall ensure that the Georgia Virtual School operated
+119 pursuant to Code Section 20-2-319.1 has sufficient capacity to enable schools to utilize
+120 computer science courses to meet the needs of such schools as a result of this Code section.
+S. B. 249
+- 5 -
+
+25 LC 49 2283
+121 (e)(1) Subject to appropriations, grants shall be provided to eligible entities to deliver
+122 professional development programs for teachers providing instruction in computer
+123 science courses and content.
+124 (2) Eligible entities shall include local school systems, consortia of local school systems,
+125 local charter schools, state charter schools, and high-quality professional learning
+126 providers working in partnership with local school systems.
+127 (3) Criteria for grant awards to eligible entities pursuant to this subsection shall include:
+128 (A) The number of teachers in a local school system that require training and the
+129 number of teachers in a local school system that have already received training; and
+130 (B) The willingness of local school systems to make available their teachers who have
+131 received training in computer science courses and content to provide computer science
+132 instruction in another local school system or systems.
+133 (4) The Department of Education shall submit a report on December 1 of each year to
+134 the Governor, the Lieutenant Governor, the Speaker of the House of Representatives, the
+135 chairperson of the Senate Education and Youth Committee, and the chairperson of the
+136 House Committee on Education. Such report shall include the number of teachers
+137 trained, the number of schools offering training, the number of students served and the
+138 demographics of such students, and a list of the eligible entities that provided the
+139 training."
+140 SECTION 2.
+141 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 249
+- 6 -
+
+[DELETED: 5L]
+[DELETED: 5L m n s j a t h b e i m  ' s c a c m h s c t t a a a o r b t S B o E i]
+[DELETED: 5L  E s c s t s e s s m o w c s w m t r p i]
+[DELETED: 5L  B m a i a t c s a b l]
+[DELETED: 5L]
+[DELETED: 5L d p f t p i i c c s s c s a h p l o s s a a l o t e e t p t]

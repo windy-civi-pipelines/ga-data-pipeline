@@ -1,0 +1,169 @@
+Title: House Bill 543
+Official Title: House Bill 543
+Number of Sections: 1
+Source: versions - LC 61 0133/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 61 0133
+By: Representatives Berry of the 56th, McQueen of the 61st, Bell of the 75th, Dawson of the
+65th, and Herring of the 145th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 1 of Title 20 of the Official Code of Georgia Annotated,
+2 relating to general provisions relative to education, so as to require testing of drinking water
+3 in child care learning centers and schools for lead contamination; to provide for notice and
+4 reporting of test results and remediation plans; to provide for definitions; to provide for rules
+5 and regulations; to provide for an exemption; to prohibit waivers; to provide for related
+6 matters; to provide a short title; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "Get the Lead Out of School Drinking
+10 Water Act."
+11 SECTION 2.
+12 Article 1 of Chapter 1 of Title 20 of the Official Code of Georgia Annotated, relating to
+13 general provisions relative to education, is amended by adding a new Code section to read
+14 as follows:
+H. B. 543
+- 1 -
+25 LC 61 0133
+15 "20-1-12.
+16 (a) As used in this Code section, the term:
+17 (1) 'Child care learning center' shall have the same meaning as set forth in Code
+18 Section 20-1A-2.
+19 (2) 'Lead contamination' means a lead concentration level of five parts per billion or
+20 greater.
+21 (3) 'School' means any public or private primary or secondary school.
+22 (b) No later than July 1, 2026, every child care learning center and every school shall
+23 conduct testing of drinking water outlets for lead contamination and develop a remediation
+24 plan for any lead contamination identified. Remediation shall be completed as soon as
+25 practicable, and remediation plans shall include a timeline for the completion of such
+26 remediation. Such testing and remediation shall be conducted in accordance with rules and
+27 regulations established pursuant to subsection (d) of this Code section.
+28 (c) Where a finding of lead contamination is made, a child care learning center or school
+29 shall:
+30 (1) Provide written notice of test results and the remediation plan to parents or guardians
+31 of children and students and to staff members;
+32 (2) Post such test results and remediation plan in a prominent location at the child care
+33 learning center or school or on such center's or school's public website;
+34 (3) Submit such test results and remediation plan to the Department of Public Health;
+35 and
+36 (4) Provide an intermediate or alternate source of drinking water that does not contain
+37 lead contamination.
+38 (d) The Department of Public Health, in consultation with the Environmental Protection
+39 Division of the Department of Natural Resources, the Department of Education, and the
+40 Department of Early Care and Learning, shall establish rules and regulations no later than
+41 January 1, 2026, regarding the testing of drinking water outlets and the remediation of lead
+H. B. 543
+- 2 -
+25 LC 61 0133
+42 contamination as required pursuant to this Code section. Such rules and regulations shall
+43 include, but not be limited to, minimum criteria for testing drinking water, entities that are
+44 authorized to analyze drinking water samples, and any intermediate or alternate water
+45 sources required during remediation.
+46 (e) Subject to appropriations or other available funding, the Department of Education shall
+47 be authorized to provide grants to child care learning centers and schools in order to assist
+48 such child care learning centers and schools in complying with the requirements of this
+49 Code section.
+50 (f) Child care learning centers and schools which are classified as public water systems
+51 pursuant to 40 C.F.R. Parts 141-142 as such regulations existed on January 1, 2025, shall
+52 be exempt from this Code section.
+53 (g) This Code section shall not be subject to waivers pursuant to Code Section 20-2-82 for
+54 a strategic waivers school system; Code Section 20-2-244 for a local board of education;
+55 Code Section 20-2-2063.2 for a charter system; or Code Section 20-2-2065 for a charter
+56 school established pursuant to Article 31 or Article 31A of Chapter 2 of this title, a charter
+57 system, or schools within a charter system."
+58 SECTION 3.
+59 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 543
+- 3 -
+[DELETED: 5L6,1,5,hstt5,5ht]
+[DELETED: 5L  ' c l c s h t s m a s f i C]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 61 0133
+House Bill 543
+By: Representatives Berry of the 56th, McQueen of the 61st, Bell of the 75th, Dawson of the
+65th, and Herring of the 145th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 1 of Title 20 of the Official Code of Georgia Annotated,
+2 relating to general provisions relative to education, so as to require testing of drinking water
+3 in child care learning centers and schools for lead contamination; to provide for notice and
+4 reporting of test results and remediation plans; to provide for definitions; to provide for rules
+5 and regulations; to provide for an exemption; to prohibit waivers; to provide for related
+6 matters; to provide a short title; to repeal conflicting laws; and for other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 This Act shall be known and may be cited as the "Get the Lead Out of School Drinking
+10 Water Act."
+11 SECTION 2.
+12 Article 1 of Chapter 1 of Title 20 of the Official Code of Georgia Annotated, relating to
+13 general provisions relative to education, is amended by adding a new Code section to read
+14 as follows:
+H. B. 543
+- 1 -
+
+25 LC 61 0133
+15 "20-1-12.
+16 (a) As used in this Code section, the term:
+17 (1) 'Child care learning center' shall have the same meaning as set forth in Code
+18 Section 20-1A-2.
+19 (2) 'Lead contamination' means a lead concentration level of five parts per billion or
+20 greater.
+21 (3) 'School' means any public or private primary or secondary school.
+22 (b) No later than July 1, 2026, every child care learning center and every school shall
+23 conduct testing of drinking water outlets for lead contamination and develop a remediation
+24 plan for any lead contamination identified. Remediation shall be completed as soon as
+25 practicable, and remediation plans shall include a timeline for the completion of such
+26 remediation. Such testing and remediation shall be conducted in accordance with rules and
+27 regulations established pursuant to subsection (d) of this Code section.
+28 (c) Where a finding of lead contamination is made, a child care learning center or school
+29 shall:
+30 (1) Provide written notice of test results and the remediation plan to parents or guardians
+31 of children and students and to staff members;
+32 (2) Post such test results and remediation plan in a prominent location at the child care
+33 learning center or school or on such center's or school's public website;
+34 (3) Submit such test results and remediation plan to the Department of Public Health;
+35 and
+36 (4) Provide an intermediate or alternate source of drinking water that does not contain
+37 lead contamination.
+38 (d) The Department of Public Health, in consultation with the Environmental Protection
+39 Division of the Department of Natural Resources, the Department of Education, and the
+40 Department of Early Care and Learning, shall establish rules and regulations no later than
+41 January 1, 2026, regarding the testing of drinking water outlets and the remediation of lead
+H. B. 543
+- 2 -
+
+25 LC 61 0133
+42 contamination as required pursuant to this Code section. Such rules and regulations shall
+43 include, but not be limited to, minimum criteria for testing drinking water, entities that are
+44 authorized to analyze drinking water samples, and any intermediate or alternate water
+45 sources required during remediation.
+46 (e) Subject to appropriations or other available funding, the Department of Education shall
+47 be authorized to provide grants to child care learning centers and schools in order to assist
+48 such child care learning centers and schools in complying with the requirements of this
+49 Code section.
+50 (f) Child care learning centers and schools which are classified as public water systems
+51 pursuant to 40 C.F.R. Parts 141-142 as such regulations existed on January 1, 2025, shall
+52 be exempt from this Code section.
+53 (g) This Code section shall not be subject to waivers pursuant to Code Section 20-2-82 for
+54 a strategic waivers school system; Code Section 20-2-244 for a local board of education;
+55 Code Section 20-2-2063.2 for a charter system; or Code Section 20-2-2065 for a charter
+56 school established pursuant to Article 31 or Article 31A of Chapter 2 of this title, a charter
+57 system, or schools within a charter system."
+58 SECTION 3.
+59 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 543
+- 3 -
+
+[DELETED: 5L6,1,5,hstt5,5ht]
+[DELETED: 5L  ' c l c s h t s m a s f i C]
+[DELETED: 5L]

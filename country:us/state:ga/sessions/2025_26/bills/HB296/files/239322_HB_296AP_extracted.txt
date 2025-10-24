@@ -1,0 +1,356 @@
+Title: House Bill 296 (AS PASSED HOUSE AND SENATE)
+Official Title: House Bill 296 (AS PASSED HOUSE AND SENATE)
+Number of Sections: 1
+Source: versions - HB 296/AP*
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 HB 296/AP
+By: Representatives Gaines of the 120th, Corbett of the 174th, Kelley of the 16th, Blackmon
+of the 146th, Wiedower of the 121st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 21-2-417 of the Official Code of Georgia Annotated, relating to
+2 presentation of proper identification to poll workers, swearing of statement when unable to
+3 produce, use of provisional ballots, and penalty for false swearing, so as to require the
+4 presentation of a Georgia driver's license as proper identification at a polling place be in a
+5 physical format; to amend Article 1 of Chapter 2 of Title 27 of the Official Code of Georgia
+6 Annotated, relating to hunting, trapping, or fishing, so as to require the presentation of
+7 driver's license in physical format for issuance of a fishing, hunting, or trapping license or
+8 lifetime sportsman's license; to amend Article 2 of Chapter 5 of Title 40 of the Official Code
+9 of Georgia Annotated, relating to issuance, expiration, and renewal of drivers' licenses, so
+10 as to provide that presentation of a driver's license in a certain electronic format satisfies the
+11 requirement to possess a driver's license while operating a motor vehicle; to prohibit the
+12 compelling of a licensee to produce a wireless telecommunications device to a law
+13 enforcement officer; to require the provision of equipment and the implementation of
+14 technology capable of verifying validity of driver's licenses in such electronic formats; to
+15 amend Code Section 48-5C-1 of the Official Code of Georgia Annotated, relating to
+16 alternative ad valorem taxation of motor vehicles and title ad valorem tax fee, so as to
+17 provide for an alternative method for payment of title ad valorem tax for certain modified
+H. B. 296
+- 1 -
+25 HB 296/AP
+18 rental vehicles; to provide for definitions; to provide for related matters; to repeal conflicting
+19 laws; and for other purposes.
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+21 SECTION 1.
+22 Code Section 21-2-417 of the Official Code of Georgia Annotated, relating to presentation
+23 of proper identification to poll workers, swearing of statement when unable to produce, use
+24 of provisional ballots, and penalty for false swearing, is amended by revising subsection (a)
+25 as follows:
+26 "(a) Except as provided in subsection (c) of this Code section, each elector shall present
+27 proper identification to a poll worker at or prior to completion of a voter's certificate at any
+28 polling place and prior to such person's admission to the enclosed space at such polling
+29 place. Proper identification shall consist of any one of the following:
+30 (1) A Georgia driver's license in a physical format which was properly issued by the
+31 appropriate state agency Department of Driver Services;
+32 (2) A valid Georgia voter identification card issued under Code Section 21-2-417.1 or
+33 other valid identification card issued by a branch, department, agency, or entity of the
+34 State of Georgia, any other state, or the United States authorized by law to issue personal
+35 identification, provided that such identification card contains a photograph of the elector;
+36 (3) A valid United States passport;
+37 (4) A valid employee identification card containing a photograph of the elector and
+38 issued by any branch, department, agency, or entity of the United States government, this
+39 state, or any county, municipality, board, authority, or other entity of this state;
+40 (5) A valid United States military identification card, provided that such identification
+41 card contains a photograph of the elector; or
+42 (6) A valid tribal identification card containing a photograph of the elector."
+H. B. 296
+- 2 -
+25 HB 296/AP
+43 SECTION 2.
+44 Article 1 of Chapter 2 of Title 27 of the Official Code of Georgia Annotated, relating to
+45 hunting, trapping, or fishing, is amended in Code Section 27-2-2, relating to issuance and
+46 sale of hunting, fishing, and trapping licenses, withdrawal of agents' authority to sell licenses,
+47 and optional participation in anatomical gift program, by revising subsection (d) as follows:
+48 "(d) Prior to selling any license, except for a license sold over the telephone by an
+49 approved telephone license agent or over the Internet internet by an approved Internet
+50 internet license agent, each license agent shall require each person desiring to purchase a
+51 license to display a driver's license in a physical format or equally reliable identification
+52 of the individual and the current residence and age of such individual. In the event the
+53 department determines that a license agent has intentionally or negligently sold a resident
+54 license to a person who is a nonresident or who is underage, the department may
+55 immediately withdraw the authority of such license agent to issue and sell licenses on
+56 behalf of the department, provided that the department shall not withdraw the license
+57 agent's authority until the license agent has been given ten days' written notice of intention
+58 to withdraw authority setting forth the reason or reasons for the withdrawal and giving the
+59 license agent a hearing in the county of said agent's residence on the reasons for
+60 withdrawal."
+61 SECTION 3.
+62 Said article is further amended in Code Section 27-2-3.1, relating to hunting licenses,
+63 sportsman's license, license card carrier requirement, and creation of lifetime sportsman's
+64 licenses, by revising subparagraph (c)(4)(A) as follows:
+65 "(4)(A) For purposes of procuring a lifetime sportsman's license, the term 'residency'
+66 means a domicile within Georgia for a minimum of three consecutive months
+67 immediately prior to procuring such license. Satisfactory evidence of residency shall
+68 consist of a current Georgia driver's license in a physical format or official Georgia
+H. B. 296
+- 3 -
+25 HB 296/AP
+69 identification card issued by the Department of Driver Services; provided, however,
+70 that no license or identification card issued pursuant to Code Section 40-5-21.1 shall
+71 satisfy the requirements of this paragraph."
+72 SECTION 4.
+73 Article 2 of Chapter 5 of Title 40 of the Official Code of Georgia Annotated, relating to
+74 issuance, expiration, and renewal of drivers' licenses, is amended by revising Code
+75 Section 40-5-29, relating to license to be carried and exhibited on demand, as follows:
+76 "40-5-29.
+77 (a) Every licensee shall have his or her driver's license in his or her immediate possession
+78 at all times when operating a motor vehicle. Any person who has a receipt issued by the
+79 department reflecting issuance, renewal, replacement, or reinstatement of his or her driver's
+80 license in his or her immediate possession shall be considered to have such license in his
+81 or her immediate possession if such is confirmed to be valid by the department or through
+82 the Georgia Crime Information Center. The department may establish by rule and
+83 regulation the term of such receipt. Notwithstanding the foregoing, no receipt issued by
+84 the department shall be accepted as proof of such person's identity for any other purpose,
+85 including but not limited to proof of voter identification or proof of age for purposes of
+86 purchasing alcoholic beverages.
+87 (b)(1) Every licensee required pursuant to subsection (a) of this Code section to possess
+88 his or her license shall display his or her license upon the demand of a law enforcement
+89 officer. When records of the department indicate that a license has been issued in an
+90 electronic format, a law enforcement officer may demand such display be made by
+91 physical format. In such instances, if a law enforcement officer demands display of the
+92 physical format, the licensee the department has issued a licensee a license in an
+93 electronic format and a law enforcement officer possesses the proper equipment, such law
+94 enforcement officer shall accept such license upon a wireless telecommunications device
+H. B. 296
+- 4 -
+25 HB 296/AP
+95 as satisfactory proof of compliance with the requirements of this Code section. A
+96 licensee issued a license in an electronic format shall not be compelled to display an
+97 electronic format of his or her license nor release his or her wireless telecommunications
+98 device to the officer. A refusal to comply with such demand not only shall constitute a
+99 violation of this subsection but shall also give rise to a presumption of a violation of
+100 subsection (a) of this Code section and of Code Section 40-5-20 when such licensee
+101 displays the physical format of his or her license upon the demand of a law enforcement
+102 officer.
+103 (2) Any person utilizing a wireless telecommunications device to display his or her
+104 license in electronic format in order to comply with subsection (a) of this Code section
+105 shall not be considered to have consented to a search of such device by a law enforcement
+106 officer. No person shall be compelled to release his or her wireless telecommunications
+107 device to a law enforcement officer pursuant to this Code section.
+108 (3) As used in For purposes of this subsection, the term 'wireless telecommunications
+109 device' shall have the same meaning as provided set forth in Code Section 40-6-241.
+110 (4) By July 1, 2027, all law enforcement officers shall acquire equipment capable of
+111 verifying a license issued in an electronic format.
+112 (c) A person convicted of a violation of subsection (a) of this Code section shall be fined
+113 no more than $10.00 if he or she produces in court a license theretofore issued to him or
+114 her and valid at the time of his or her arrest."
+115 SECTION 5.
+116 Code Section 48-5C-1 of the Official Code of Georgia Annotated, relating to alternative ad
+117 valorem taxation of motor vehicles and title ad valorem tax fee, is amended in subsection (d)
+118 by repealing paragraph (7.1) and by adding a new paragraph to read as follows:
+119 "(19)(A) As used in this paragraph, the term:
+H. B. 296
+- 5 -
+25 HB 296/AP
+120 (i) 'For-hire charter bus or motor coach' means a motor vehicle designed for carrying
+121 more than 15 passengers and used for the transportation of persons for compensation.
+122 (ii) 'Special modified rental vehicle' means a motor vehicle that has been significantly
+123 modified at a manufacturing facility in this state, provided that:
+124 (I) Such manufacturing facility is operated by the owner of such motor vehicle;
+125 (II) Such owner primarily uses such motor vehicle by renting or leasing it without
+126 a driver to businesses;
+127 (III) Such rental or lease transactions are subject to Georgia state and local sales
+128 and use taxes; and
+129 (IV) Such owner provides the department with an affidavit affirming that the
+130 vehicle has been significantly modified and that the other qualifications of this
+131 definition have been met for such vehicle.
+132 (B) In the case of for-hire charter buses or motor coaches or special modified rental
+133 vehicles, the person applying for a certificate of title shall be required to pay title ad
+134 valorem tax fees in the amount of 50 percent of the amount which would otherwise be
+135 due and payable under this subsection at the time of filing the application for a
+136 certificate of title, and the remaining 50 percent shall be paid within 12 months
+137 following the filing of such application."
+138 SECTION 6.
+139 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 296
+- 6 -
+[DELETED: 5H0,4,6,htht6,1,hs o a l t p a w t d t a l o t r t p o e a t i o C S 4 o t O C o G A r t]
+[DELETED: 5H]
+[DELETED: 5H a t a p w i a n o w i u t d m a a h i t c o s a r o t r f a i f a i C S 2 r t h l a d w G f a m o t c m]
+[DELETED: 5H e a r o d l i a b r C G C I C  T d m e b r a f t l t d h i a l a l i a]
+[DELETED: 5H]
+[DELETED: 5H a p u t s a t t o f t a f  o t a t r 5 p s b p w 1 m]
+
+
+================================================================================
+
+Raw Text:
+25 HB 296/AP
+House Bill 296 (AS PASSED HOUSE AND SENATE)
+By: Representatives Gaines of the 120th, Corbett of the 174th, Kelley of the 16th, Blackmon
+of the 146th, Wiedower of the 121st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Code Section 21-2-417 of the Official Code of Georgia Annotated, relating to
+2 presentation of proper identification to poll workers, swearing of statement when unable to
+3 produce, use of provisional ballots, and penalty for false swearing, so as to require the
+4 presentation of a Georgia driver's license as proper identification at a polling place be in a
+5 physical format; to amend Article 1 of Chapter 2 of Title 27 of the Official Code of Georgia
+6 Annotated, relating to hunting, trapping, or fishing, so as to require the presentation of
+7 driver's license in physical format for issuance of a fishing, hunting, or trapping license or
+8 lifetime sportsman's license; to amend Article 2 of Chapter 5 of Title 40 of the Official Code
+9 of Georgia Annotated, relating to issuance, expiration, and renewal of drivers' licenses, so
+10 as to provide that presentation of a driver's license in a certain electronic format satisfies the
+11 requirement to possess a driver's license while operating a motor vehicle; to prohibit the
+12 compelling of a licensee to produce a wireless telecommunications device to a law
+13 enforcement officer; to require the provision of equipment and the implementation of
+14 technology capable of verifying validity of driver's licenses in such electronic formats; to
+15 amend Code Section 48-5C-1 of the Official Code of Georgia Annotated, relating to
+16 alternative ad valorem taxation of motor vehicles and title ad valorem tax fee, so as to
+17 provide for an alternative method for payment of title ad valorem tax for certain modified
+H. B. 296
+- 1 -
+
+25 HB 296/AP
+18 rental vehicles; to provide for definitions; to provide for related matters; to repeal conflicting
+19 laws; and for other purposes.
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+21 SECTION 1.
+22 Code Section 21-2-417 of the Official Code of Georgia Annotated, relating to presentation
+23 of proper identification to poll workers, swearing of statement when unable to produce, use
+24 of provisional ballots, and penalty for false swearing, is amended by revising subsection (a)
+25 as follows:
+26 "(a) Except as provided in subsection (c) of this Code section, each elector shall present
+27 proper identification to a poll worker at or prior to completion of a voter's certificate at any
+28 polling place and prior to such person's admission to the enclosed space at such polling
+29 place. Proper identification shall consist of any one of the following:
+30 (1) A Georgia driver's license in a physical format which was properly issued by the
+31 appropriate state agency Department of Driver Services;
+32 (2) A valid Georgia voter identification card issued under Code Section 21-2-417.1 or
+33 other valid identification card issued by a branch, department, agency, or entity of the
+34 State of Georgia, any other state, or the United States authorized by law to issue personal
+35 identification, provided that such identification card contains a photograph of the elector;
+36 (3) A valid United States passport;
+37 (4) A valid employee identification card containing a photograph of the elector and
+38 issued by any branch, department, agency, or entity of the United States government, this
+39 state, or any county, municipality, board, authority, or other entity of this state;
+40 (5) A valid United States military identification card, provided that such identification
+41 card contains a photograph of the elector; or
+42 (6) A valid tribal identification card containing a photograph of the elector."
+H. B. 296
+- 2 -
+
+25 HB 296/AP
+43 SECTION 2.
+44 Article 1 of Chapter 2 of Title 27 of the Official Code of Georgia Annotated, relating to
+45 hunting, trapping, or fishing, is amended in Code Section 27-2-2, relating to issuance and
+46 sale of hunting, fishing, and trapping licenses, withdrawal of agents' authority to sell licenses,
+47 and optional participation in anatomical gift program, by revising subsection (d) as follows:
+48 "(d) Prior to selling any license, except for a license sold over the telephone by an
+49 approved telephone license agent or over the Internet internet by an approved Internet
+50 internet license agent, each license agent shall require each person desiring to purchase a
+51 license to display a driver's license in a physical format or equally reliable identification
+52 of the individual and the current residence and age of such individual. In the event the
+53 department determines that a license agent has intentionally or negligently sold a resident
+54 license to a person who is a nonresident or who is underage, the department may
+55 immediately withdraw the authority of such license agent to issue and sell licenses on
+56 behalf of the department, provided that the department shall not withdraw the license
+57 agent's authority until the license agent has been given ten days' written notice of intention
+58 to withdraw authority setting forth the reason or reasons for the withdrawal and giving the
+59 license agent a hearing in the county of said agent's residence on the reasons for
+60 withdrawal."
+61 SECTION 3.
+62 Said article is further amended in Code Section 27-2-3.1, relating to hunting licenses,
+63 sportsman's license, license card carrier requirement, and creation of lifetime sportsman's
+64 licenses, by revising subparagraph (c)(4)(A) as follows:
+65 "(4)(A) For purposes of procuring a lifetime sportsman's license, the term 'residency'
+66 means a domicile within Georgia for a minimum of three consecutive months
+67 immediately prior to procuring such license. Satisfactory evidence of residency shall
+68 consist of a current Georgia driver's license in a physical format or official Georgia
+H. B. 296
+- 3 -
+
+25 HB 296/AP
+69 identification card issued by the Department of Driver Services; provided, however,
+70 that no license or identification card issued pursuant to Code Section 40-5-21.1 shall
+71 satisfy the requirements of this paragraph."
+72 SECTION 4.
+73 Article 2 of Chapter 5 of Title 40 of the Official Code of Georgia Annotated, relating to
+74 issuance, expiration, and renewal of drivers' licenses, is amended by revising Code
+75 Section 40-5-29, relating to license to be carried and exhibited on demand, as follows:
+76 "40-5-29.
+77 (a) Every licensee shall have his or her driver's license in his or her immediate possession
+78 at all times when operating a motor vehicle. Any person who has a receipt issued by the
+79 department reflecting issuance, renewal, replacement, or reinstatement of his or her driver's
+80 license in his or her immediate possession shall be considered to have such license in his
+81 or her immediate possession if such is confirmed to be valid by the department or through
+82 the Georgia Crime Information Center. The department may establish by rule and
+83 regulation the term of such receipt. Notwithstanding the foregoing, no receipt issued by
+84 the department shall be accepted as proof of such person's identity for any other purpose,
+85 including but not limited to proof of voter identification or proof of age for purposes of
+86 purchasing alcoholic beverages.
+87 (b)(1) Every licensee required pursuant to subsection (a) of this Code section to possess
+88 his or her license shall display his or her license upon the demand of a law enforcement
+89 officer. When records of the department indicate that a license has been issued in an
+90 electronic format, a law enforcement officer may demand such display be made by
+91 physical format. In such instances, if a law enforcement officer demands display of the
+92 physical format, the licensee the department has issued a licensee a license in an
+93 electronic format and a law enforcement officer possesses the proper equipment, such law
+94 enforcement officer shall accept such license upon a wireless telecommunications device
+H. B. 296
+- 4 -
+
+25 HB 296/AP
+95 as satisfactory proof of compliance with the requirements of this Code section. A
+96 licensee issued a license in an electronic format shall not be compelled to display an
+97 electronic format of his or her license nor release his or her wireless telecommunications
+98 device to the officer. A refusal to comply with such demand not only shall constitute a
+99 violation of this subsection but shall also give rise to a presumption of a violation of
+100 subsection (a) of this Code section and of Code Section 40-5-20 when such licensee
+101 displays the physical format of his or her license upon the demand of a law enforcement
+102 officer.
+103 (2) Any person utilizing a wireless telecommunications device to display his or her
+104 license in electronic format in order to comply with subsection (a) of this Code section
+105 shall not be considered to have consented to a search of such device by a law enforcement
+106 officer. No person shall be compelled to release his or her wireless telecommunications
+107 device to a law enforcement officer pursuant to this Code section.
+108 (3) As used in For purposes of this subsection, the term 'wireless telecommunications
+109 device' shall have the same meaning as provided set forth in Code Section 40-6-241.
+110 (4) By July 1, 2027, all law enforcement officers shall acquire equipment capable of
+111 verifying a license issued in an electronic format.
+112 (c) A person convicted of a violation of subsection (a) of this Code section shall be fined
+113 no more than $10.00 if he or she produces in court a license theretofore issued to him or
+114 her and valid at the time of his or her arrest."
+115 SECTION 5.
+116 Code Section 48-5C-1 of the Official Code of Georgia Annotated, relating to alternative ad
+117 valorem taxation of motor vehicles and title ad valorem tax fee, is amended in subsection (d)
+118 by repealing paragraph (7.1) and by adding a new paragraph to read as follows:
+119 "(19)(A) As used in this paragraph, the term:
+H. B. 296
+- 5 -
+
+25 HB 296/AP
+120 (i) 'For-hire charter bus or motor coach' means a motor vehicle designed for carrying
+121 more than 15 passengers and used for the transportation of persons for compensation.
+122 (ii) 'Special modified rental vehicle' means a motor vehicle that has been significantly
+123 modified at a manufacturing facility in this state, provided that:
+124 (I) Such manufacturing facility is operated by the owner of such motor vehicle;
+125 (II) Such owner primarily uses such motor vehicle by renting or leasing it without
+126 a driver to businesses;
+127 (III) Such rental or lease transactions are subject to Georgia state and local sales
+128 and use taxes; and
+129 (IV) Such owner provides the department with an affidavit affirming that the
+130 vehicle has been significantly modified and that the other qualifications of this
+131 definition have been met for such vehicle.
+132 (B) In the case of for-hire charter buses or motor coaches or special modified rental
+133 vehicles, the person applying for a certificate of title shall be required to pay title ad
+134 valorem tax fees in the amount of 50 percent of the amount which would otherwise be
+135 due and payable under this subsection at the time of filing the application for a
+136 certificate of title, and the remaining 50 percent shall be paid within 12 months
+137 following the filing of such application."
+138 SECTION 6.
+139 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 296
+- 6 -
+
+[DELETED: 5H0,4,6,htht6,1,hs o a l t p a w t d t a l o t r t p o e a t i o C S 4 o t O C o G A r t]
+[DELETED: 5H]
+[DELETED: 5H a t a p w i a n o w i u t d m a a h i t c o s a r o t r f a i f a i C S 2 r t h l a d w G f a m o t c m]
+[DELETED: 5H e a r o d l i a b r C G C I C  T d m e b r a f t l t d h i a l a l i a]
+[DELETED: 5H]
+[DELETED: 5H a p u t s a t t o f t a f  o t a t r 5 p s b p w 1 m]

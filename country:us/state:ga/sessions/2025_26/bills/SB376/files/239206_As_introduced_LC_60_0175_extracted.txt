@@ -1,0 +1,446 @@
+Title: Senate Bill 376
+Official Title: Senate Bill 376
+Number of Sections: 1
+Source: versions - As introduced LC 60 0175
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+25 LC 60 0175
+By: Senator Robertson of the 29th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling
+2 and other trade practices, so as to enact the "Georgia Restaurant Franchise Relations Act";
+3 to prohibit a franchisor from terminating a franchise except under certain circumstances; to
+4 provide for circumstances which warrant the termination of a franchise; to provide conditions
+5 for arbitration; to provide for the renewal of a franchise; to prohibit a franchisor from
+6 discriminating against franchise operations over franchisor owned operations; to prohibit
+7 forum selection; to provide that a franchisor shall provide an opportunity for the survivor of
+8 a deceased franchisee to operate the franchise; to provide for definitions; to provide for
+9 penalties; to provide for related matters; to provide for an effective date and applicability; to
+10 repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling and other
+14 trade practices, is amended by enacting a new article to read as follows:
+S. B. 376
+- 1 -
+25 LC 60 0175
+15 "ARTICLE 37
+16 Part 1
+17 10-1-960.
+18 This chapter shall be known and may be cited as the 'Georgia Restaurant Franchise
+19 Relations Act.'
+20 10-1-961.
+21 As used in this chapter, the term:
+22 (1) 'Area franchise' means any contract or agreement between a franchisor and a
+23 subfranchisor whereby the subfranchisor is granted the right, for consideration given in
+24 whole or in part for such right, to sell or negotiate the sale of franchises in the name or
+25 on behalf of the franchisor.
+26 (2)(A) 'Franchise' means a contract or agreement, either expressed or implied, whether
+27 oral or written, between two or more persons by which:
+28 (i) A franchisee is granted the right to engage in the business of offering, selling, or
+29 distributing food or food services under a marketing plan or system prescribed in
+30 substantial part by a franchisor;
+31 (ii) The operation of the franchisee's business pursuant to that plan or system is
+32 substantially associated with the franchisor's trademark, trade dress, service mark,
+33 trade name, logotype, advertising, or other commercial symbol designating the
+34 franchisor or its affiliate; and
+35 (iii) The franchisee is required to pay, directly or indirectly, a franchise fee.
+36 (B) Such term does not include any of the following:
+37 (i) Lease departments, licenses, or concessions at or with a general merchandise retail
+38 establishment where the lease department, licensee, or concessionaire is incidental
+39 and ancillary to the general commercial operation of the retail establishment. Sales
+S. B. 376
+- 2 -
+25 LC 60 0175
+40 of a lease department, license, or concessionaire are incidental and ancillary to the
+41 general commercial operation of the retail establishment if they amount to less than
+42 10 percent of the establishment's sales; or
+43 (ii) A nonprofit organization operated on a cooperative basis by and for independent
+44 retailers which wholesales goods and services primarily to its member retailers and
+45 in which:
+46 (I) Control and ownership of each member is substantially equal;
+47 (II) Membership is limited to those who will use the services furnished by the
+48 organization;
+49 (III) Transfer of ownership is prohibited or limited;
+50 (IV) Capital investments receive no return;
+51 (V) Substantially equal benefits pass to the members on the basis of patronage of
+52 the organization;
+53 (VI) Members are not personally liable for obligations of the organization in the
+54 absence of a direct undertaking or authorization by them;
+55 (VII) Services of the organization are furnished primarily for the use of the
+56 members;
+57 (VIII) Each member and prospective member is provided with an offering circular;
+58 (IX) No part of the receipts, income, or profit of the organization is paid to any
+59 profit-making entity, except for arm's length payments for necessary goods and
+60 services, and members are not required to purchase goods or services from any
+61 designated profit-making entity; and
+62 (X) The nonprofit organization is subject to an action for rescission or damages if
+63 the organization fraudulently induced the plaintiff to join the organization.
+64 (3) 'Franchisee' means a person to whom a franchise is granted.
+65 (4) 'Franchise fee' means any fee or charge that a franchisee or subfranchisor is required
+66 to pay or agrees to pay for the right to enter into a business under a franchise agreement,
+S. B. 376
+- 3 -
+25 LC 60 0175
+67 including, but not limited to, any such payment for such goods and services; provided,
+68 however, that the following shall not be considered the payment of a franchise fee:
+69 (A) The purchase or agreement to purchase goods at a bona fide wholesale price if no
+70 obligation is imposed upon the purchaser to purchase or pay for a quantity of such
+71 goods in excess of that which a reasonable businessperson normally would purchase by
+72 way of a starting inventory or supply or to maintain an ongoing inventory or supply;
+73 (B) The payment of a reasonable service charge to the issuer of a credit card by an
+74 establishment accepting or honoring such credit card;
+75 (C) The payment, directly or indirectly, of a franchise fee which, on an annual basis,
+76 does not exceed the sum of $100.00; or
+77 (D) The payment of a sum of not exceeding $1,000.00 annually on account of the
+78 purchase price or rental of fixtures, equipment, or other tangible property to be utilized
+79 in, and which is necessary for, the operation of the franchised business, if the price or
+80 rental so charged does not exceed the cost which would be incurred by the franchisee
+81 acquiring the item or items from other persons or in the open market.
+82 (5) 'Franchisor' is a person who grants or has granted a franchise.
+83 (6) 'Person' means an individual, a corporation, a partnership, a limited liability
+84 company, a joint venture, an association, a joint stock company, a trust, or an
+85 unincorporated organization.
+86 Part 2
+87 10-1-965.
+88 Except as otherwise provided by this chapter, no franchisor may terminate a franchise prior
+89 to the expiration of its term, except for good cause. Good cause shall include, but shall not
+90 be limited to, the failure of the franchisee to comply with any lawful requirement of the
+91 franchise agreement after being given at least 90 days' notice to cure the failure. If the
+S. B. 376
+- 4 -
+25 LC 60 0175
+92 franchisor is the sole provider of goods or services under the terms of the franchise
+93 agreement, the franchisor may not suspend the sale of goods or the provision of services
+94 during the period allowed to cure any such failure.
+95 10-1-966.
+96 All notices of termination or nonrenewal required by this chapter shall:
+97 (1) Be in writing;
+98 (2) Be posted by registered, certified, or other receipted mail, delivered by email or by
+99 other electronic means, or personally delivered to the franchisee; and
+100 (3) Contain a statement of intent to terminate or not to renew the franchise, together with
+101 the reasons therefor and the effective date of such termination, nonrenewal, or expiration.
+102 10-1-967.
+103 If, during the period in which the franchise is in effect, there occur any of the following
+104 events which are relevant to the franchise, immediate notice of termination without an
+105 opportunity to cure shall be deemed reasonable:
+106 (1) The franchisee or the business to which the franchise relates is declared bankrupt or
+107 judicially determined to be insolvent, or all or a substantial part of the assets thereof are
+108 assigned to or for the benefit of any creditor, or the franchisee admits his or her inability
+109 to pay his or her debts as they come due;
+110 (2) The franchisor and franchisee agree in writing to terminate the franchise;
+111 (3) The franchisee makes any material misrepresentations relating to the acquisition of
+112 the franchise business or the franchisee engages in conduct which reflects materially and
+113 unfavorably upon the operation and reputation of the franchise business or system;
+114 (4) The franchisee repeatedly fails to comply with one or more requirements of the
+115 franchise, but in no event where the franchisee takes corrective action pursuant to Code
+116 Section 10-1-965 to remedy such failure after proper notice;
+S. B. 376
+- 5 -
+25 LC 60 0175
+117 (5) The franchised business or business premises of the franchise is seized, taken over,
+118 or foreclosed by a government official in the exercise of his or her duties or seized, taken
+119 over, or foreclosed by a creditor, lienholder, or lessor if:
+120 (A) A final judgment against the franchisee remains unsatisfied for 30 days unless a
+121 supersedeas or other appeal bond has been filed; or
+122 (B) A levy of execution has been made upon the license granted by the franchise
+123 agreement or upon any property used in the franchised business, and it is not discharged
+124 within five days of such levy; or
+125 (6) The franchisee is convicted of a felony or any other criminal misconduct which is
+126 relevant to the operation of the franchise.
+127 10-1-968.
+128 Nothing contained in this article shall limit the right of a franchisor and franchisee to agree
+129 before or after a dispute has arisen to binding arbitration of claims under this chapter,
+130 provided that:
+131 (1) The standards applied in such arbitration are not less than the requirements specified
+132 in this chapter; and
+133 (2) The arbitrator or arbitrators employed in such arbitration are chosen from a list of
+134 impartial arbitrators supplied by the American Arbitration Association or other impartial
+135 person.
+136 10-1-969.
+137 If a franchisor consents to a franchisee continuing to operate a franchise for 30 days or
+138 more after the expiration of a franchise agreement, such franchise agreement shall be
+139 deemed to have been renewed for the same term and under the same conditions as the
+140 original agreement. For purposes of this Code section, a failure to take affirmative action
+141 to prevent operation shall be considered a consent to operate.
+S. B. 376
+- 6 -
+25 LC 60 0175
+142 Part 3
+143 10-1-975.
+144 If a franchisor operates facilities in this state, it may not require higher standards with
+145 regard to physical plant, employee attire, product offerings, or pricing or in any other
+146 material way differentiate a franchise facility from a facility owned or operated by the
+147 franchisor.
+148 10-1-976.
+149 Any condition, stipulation, or provision in a franchise agreement requiring the application
+150 of the law of another state or selecting venue in a particular court is void and
+151 unenforceable.
+152 10-1-977.
+153 No franchisor shall deny the surviving spouse, heirs, or estate of a deceased franchisee or
+154 the majority shareholder of the franchisee the opportunity to continue to participate in the
+155 ownership of the franchise under the franchise agreement between the franchisee and
+156 franchisor. No franchisor shall require any training or qualification for any such person for
+157 a period of six months following the death of the franchisee or principal shareholder;
+158 provided, however, that, during such period, the surviving spouse, heirs, or estate of the
+159 deceased shall maintain all lawful standards and obligations of the franchise.
+160 10-1-978.
+161 Any condition, stipulation, or provision purporting to bind any person to waive compliance
+162 with any provision of this chapter is contrary to public policy and therefore void.
+S. B. 376
+- 7 -
+25 LC 60 0175
+163 10-1-979.
+164 The provisions of this article shall apply to any franchise where either the franchisee is
+165 domiciled in this state or the franchised business is or has been operated in this state.
+166 10-1-980.
+167 Any violation of this article by a franchisor shall be an unfair trade practice subject to the
+168 provisions of Part 2 of Article 15 of this chapter, the 'Fair Business Practices Act of 1975.'
+169 In addition, any individual who is harmed as a result of a violation of this article shall have
+170 a cause of action against the person whose violation caused the harm."
+171 SECTION 2.
+172 This Act shall become effective on July 1, 2025, and shall apply to all franchises entered into
+173 on or after such effective date, and to any renewals, modifications, or extensions of such
+174 franchises entered into on or after such effective date.
+175 SECTION 3.
+176 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 376
+- 8 -
+[DELETED: 5L]
+[DELETED: 5L c s b k a m b c a t ' R F  ' f m a c o a b a f a  n l a o o c s d t]
+[DELETED: 5L  S o t o a f p f t u o t]
+[DELETED: 5L  ' m a i a c a p a l l a j v a a a j s c a t o a]
+[DELETED: 5L i t s p o g o s u t o t f]
+[DELETED: 5L]
+[DELETED: 5L t l o a s o s v i a p c i v a]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 60 0175
+Senate Bill 376
+By: Senator Robertson of the 29th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling
+2 and other trade practices, so as to enact the "Georgia Restaurant Franchise Relations Act";
+3 to prohibit a franchisor from terminating a franchise except under certain circumstances; to
+4 provide for circumstances which warrant the termination of a franchise; to provide conditions
+5 for arbitration; to provide for the renewal of a franchise; to prohibit a franchisor from
+6 discriminating against franchise operations over franchisor owned operations; to prohibit
+7 forum selection; to provide that a franchisor shall provide an opportunity for the survivor of
+8 a deceased franchisee to operate the franchise; to provide for definitions; to provide for
+9 penalties; to provide for related matters; to provide for an effective date and applicability; to
+10 repeal conflicting laws; and for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling and other
+14 trade practices, is amended by enacting a new article to read as follows:
+S. B. 376
+- 1 -
+
+25 LC 60 0175
+15 "ARTICLE 37
+16 Part 1
+17 10-1-960.
+18 This chapter shall be known and may be cited as the 'Georgia Restaurant Franchise
+19 Relations Act.'
+20 10-1-961.
+21 As used in this chapter, the term:
+22 (1) 'Area franchise' means any contract or agreement between a franchisor and a
+23 subfranchisor whereby the subfranchisor is granted the right, for consideration given in
+24 whole or in part for such right, to sell or negotiate the sale of franchises in the name or
+25 on behalf of the franchisor.
+26 (2)(A) 'Franchise' means a contract or agreement, either expressed or implied, whether
+27 oral or written, between two or more persons by which:
+28 (i) A franchisee is granted the right to engage in the business of offering, selling, or
+29 distributing food or food services under a marketing plan or system prescribed in
+30 substantial part by a franchisor;
+31 (ii) The operation of the franchisee's business pursuant to that plan or system is
+32 substantially associated with the franchisor's trademark, trade dress, service mark,
+33 trade name, logotype, advertising, or other commercial symbol designating the
+34 franchisor or its affiliate; and
+35 (iii) The franchisee is required to pay, directly or indirectly, a franchise fee.
+36 (B) Such term does not include any of the following:
+37 (i) Lease departments, licenses, or concessions at or with a general merchandise retail
+38 establishment where the lease department, licensee, or concessionaire is incidental
+39 and ancillary to the general commercial operation of the retail establishment. Sales
+S. B. 376
+- 2 -
+
+25 LC 60 0175
+40 of a lease department, license, or concessionaire are incidental and ancillary to the
+41 general commercial operation of the retail establishment if they amount to less than
+42 10 percent of the establishment's sales; or
+43 (ii) A nonprofit organization operated on a cooperative basis by and for independent
+44 retailers which wholesales goods and services primarily to its member retailers and
+45 in which:
+46 (I) Control and ownership of each member is substantially equal;
+47 (II) Membership is limited to those who will use the services furnished by the
+48 organization;
+49 (III) Transfer of ownership is prohibited or limited;
+50 (IV) Capital investments receive no return;
+51 (V) Substantially equal benefits pass to the members on the basis of patronage of
+52 the organization;
+53 (VI) Members are not personally liable for obligations of the organization in the
+54 absence of a direct undertaking or authorization by them;
+55 (VII) Services of the organization are furnished primarily for the use of the
+56 members;
+57 (VIII) Each member and prospective member is provided with an offering circular;
+58 (IX) No part of the receipts, income, or profit of the organization is paid to any
+59 profit-making entity, except for arm's length payments for necessary goods and
+60 services, and members are not required to purchase goods or services from any
+61 designated profit-making entity; and
+62 (X) The nonprofit organization is subject to an action for rescission or damages if
+63 the organization fraudulently induced the plaintiff to join the organization.
+64 (3) 'Franchisee' means a person to whom a franchise is granted.
+65 (4) 'Franchise fee' means any fee or charge that a franchisee or subfranchisor is required
+66 to pay or agrees to pay for the right to enter into a business under a franchise agreement,
+S. B. 376
+- 3 -
+
+25 LC 60 0175
+67 including, but not limited to, any such payment for such goods and services; provided,
+68 however, that the following shall not be considered the payment of a franchise fee:
+69 (A) The purchase or agreement to purchase goods at a bona fide wholesale price if no
+70 obligation is imposed upon the purchaser to purchase or pay for a quantity of such
+71 goods in excess of that which a reasonable businessperson normally would purchase by
+72 way of a starting inventory or supply or to maintain an ongoing inventory or supply;
+73 (B) The payment of a reasonable service charge to the issuer of a credit card by an
+74 establishment accepting or honoring such credit card;
+75 (C) The payment, directly or indirectly, of a franchise fee which, on an annual basis,
+76 does not exceed the sum of $100.00; or
+77 (D) The payment of a sum of not exceeding $1,000.00 annually on account of the
+78 purchase price or rental of fixtures, equipment, or other tangible property to be utilized
+79 in, and which is necessary for, the operation of the franchised business, if the price or
+80 rental so charged does not exceed the cost which would be incurred by the franchisee
+81 acquiring the item or items from other persons or in the open market.
+82 (5) 'Franchisor' is a person who grants or has granted a franchise.
+83 (6) 'Person' means an individual, a corporation, a partnership, a limited liability
+84 company, a joint venture, an association, a joint stock company, a trust, or an
+85 unincorporated organization.
+86 Part 2
+87 10-1-965.
+88 Except as otherwise provided by this chapter, no franchisor may terminate a franchise prior
+89 to the expiration of its term, except for good cause. Good cause shall include, but shall not
+90 be limited to, the failure of the franchisee to comply with any lawful requirement of the
+91 franchise agreement after being given at least 90 days' notice to cure the failure. If the
+S. B. 376
+- 4 -
+
+25 LC 60 0175
+92 franchisor is the sole provider of goods or services under the terms of the franchise
+93 agreement, the franchisor may not suspend the sale of goods or the provision of services
+94 during the period allowed to cure any such failure.
+95 10-1-966.
+96 All notices of termination or nonrenewal required by this chapter shall:
+97 (1) Be in writing;
+98 (2) Be posted by registered, certified, or other receipted mail, delivered by email or by
+99 other electronic means, or personally delivered to the franchisee; and
+100 (3) Contain a statement of intent to terminate or not to renew the franchise, together with
+101 the reasons therefor and the effective date of such termination, nonrenewal, or expiration.
+102 10-1-967.
+103 If, during the period in which the franchise is in effect, there occur any of the following
+104 events which are relevant to the franchise, immediate notice of termination without an
+105 opportunity to cure shall be deemed reasonable:
+106 (1) The franchisee or the business to which the franchise relates is declared bankrupt or
+107 judicially determined to be insolvent, or all or a substantial part of the assets thereof are
+108 assigned to or for the benefit of any creditor, or the franchisee admits his or her inability
+109 to pay his or her debts as they come due;
+110 (2) The franchisor and franchisee agree in writing to terminate the franchise;
+111 (3) The franchisee makes any material misrepresentations relating to the acquisition of
+112 the franchise business or the franchisee engages in conduct which reflects materially and
+113 unfavorably upon the operation and reputation of the franchise business or system;
+114 (4) The franchisee repeatedly fails to comply with one or more requirements of the
+115 franchise, but in no event where the franchisee takes corrective action pursuant to Code
+116 Section 10-1-965 to remedy such failure after proper notice;
+S. B. 376
+- 5 -
+
+25 LC 60 0175
+117 (5) The franchised business or business premises of the franchise is seized, taken over,
+118 or foreclosed by a government official in the exercise of his or her duties or seized, taken
+119 over, or foreclosed by a creditor, lienholder, or lessor if:
+120 (A) A final judgment against the franchisee remains unsatisfied for 30 days unless a
+121 supersedeas or other appeal bond has been filed; or
+122 (B) A levy of execution has been made upon the license granted by the franchise
+123 agreement or upon any property used in the franchised business, and it is not discharged
+124 within five days of such levy; or
+125 (6) The franchisee is convicted of a felony or any other criminal misconduct which is
+126 relevant to the operation of the franchise.
+127 10-1-968.
+128 Nothing contained in this article shall limit the right of a franchisor and franchisee to agree
+129 before or after a dispute has arisen to binding arbitration of claims under this chapter,
+130 provided that:
+131 (1) The standards applied in such arbitration are not less than the requirements specified
+132 in this chapter; and
+133 (2) The arbitrator or arbitrators employed in such arbitration are chosen from a list of
+134 impartial arbitrators supplied by the American Arbitration Association or other impartial
+135 person.
+136 10-1-969.
+137 If a franchisor consents to a franchisee continuing to operate a franchise for 30 days or
+138 more after the expiration of a franchise agreement, such franchise agreement shall be
+139 deemed to have been renewed for the same term and under the same conditions as the
+140 original agreement. For purposes of this Code section, a failure to take affirmative action
+141 to prevent operation shall be considered a consent to operate.
+S. B. 376
+- 6 -
+
+25 LC 60 0175
+142 Part 3
+143 10-1-975.
+144 If a franchisor operates facilities in this state, it may not require higher standards with
+145 regard to physical plant, employee attire, product offerings, or pricing or in any other
+146 material way differentiate a franchise facility from a facility owned or operated by the
+147 franchisor.
+148 10-1-976.
+149 Any condition, stipulation, or provision in a franchise agreement requiring the application
+150 of the law of another state or selecting venue in a particular court is void and
+151 unenforceable.
+152 10-1-977.
+153 No franchisor shall deny the surviving spouse, heirs, or estate of a deceased franchisee or
+154 the majority shareholder of the franchisee the opportunity to continue to participate in the
+155 ownership of the franchise under the franchise agreement between the franchisee and
+156 franchisor. No franchisor shall require any training or qualification for any such person for
+157 a period of six months following the death of the franchisee or principal shareholder;
+158 provided, however, that, during such period, the surviving spouse, heirs, or estate of the
+159 deceased shall maintain all lawful standards and obligations of the franchise.
+160 10-1-978.
+161 Any condition, stipulation, or provision purporting to bind any person to waive compliance
+162 with any provision of this chapter is contrary to public policy and therefore void.
+S. B. 376
+- 7 -
+
+25 LC 60 0175
+163 10-1-979.
+164 The provisions of this article shall apply to any franchise where either the franchisee is
+165 domiciled in this state or the franchised business is or has been operated in this state.
+166 10-1-980.
+167 Any violation of this article by a franchisor shall be an unfair trade practice subject to the
+168 provisions of Part 2 of Article 15 of this chapter, the 'Fair Business Practices Act of 1975.'
+169 In addition, any individual who is harmed as a result of a violation of this article shall have
+170 a cause of action against the person whose violation caused the harm."
+171 SECTION 2.
+172 This Act shall become effective on July 1, 2025, and shall apply to all franchises entered into
+173 on or after such effective date, and to any renewals, modifications, or extensions of such
+174 franchises entered into on or after such effective date.
+175 SECTION 3.
+176 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 376
+- 8 -
+
+[DELETED: 5L]
+[DELETED: 5L c s b k a m b c a t ' R F  ' f m a c o a b a f a  n l a o o c s d t]
+[DELETED: 5L  S o t o a f p f t u o t]
+[DELETED: 5L  ' m a i a c a p a l l a j v a a a j s c a t o a]
+[DELETED: 5L i t s p o g o s u t o t f]
+[DELETED: 5L]
+[DELETED: 5L t l o a s o s v i a p c i v a]
+[DELETED: 5L]

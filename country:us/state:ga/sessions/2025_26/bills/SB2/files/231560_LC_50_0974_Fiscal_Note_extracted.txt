@@ -1,0 +1,235 @@
+Title: Senate Bill 2 (LC 50 0974)
+Official Title: Senate Bill 2 (LC 50 0974)
+Number of Sections: 2
+Source: versions - LC 50 0974 Fiscal Note
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Greg S. Griffin
+State Auditor
+January 17, 2025
+Honorable Chuck Hufstetler
+Chairman, Senate Finance
+121-C State Capitol
+Atlanta, GA 30334
+SUBJECT: Fiscal Note
+Dear Chairman Hufstetler:
+The bill would amend Georgia’s income tax code to exclude tip income from taxation. Under current law,
+tip income is included in the calculation of federal and Georgia Adjusted Gross Income (AGI) and taxed
+as ordinary income. The bill would be effective for tax years beginning on or after January 1, 2025.
+The bill language and fiscal impact is identical to that of LC 50 0953, for which we released a fiscal note
+on November 21, 2024.
+Impact on State Revenue
+Georgia State University’s Fiscal Research Center (FRC) estimated that the bill would reduce state
+revenue by the amounts shown in Table 1. The estimates assume that employers and employees do not
+change compensation structures as a result of the bill (or a change in federal tax policy regarding tips).
+The appendix provides details of the analysis.
+Table 1. Estimated State Revenue Effects of LC 50 0974
+($ millions) FY 2025 FY 2026 FY 2027 FY 2028 FY 2029
+High Case ($13.4) ($110.0) ($88.5) ($94.2) ($100.2)
+Low Case ($9.9) ($80.5) ($64.1) ($67.5) ($71.2)
+Impact on State Expenditures
+The Department of Revenue (DOR) would be able to implement the bill’s provisions without additional
+funding. However, information technology changes would take approximately 12 weeks, equating to
+approximately $129,000.
+Respectfully,
+Greg S. Griffin Richard Dunn, Director
+State Auditor Office of Planning and Budget
+270 Washington Street, SW, Suite 4-101 Atlanta, Georgia 30334 | Phone 404.656.2180
+Fiscal Note for Senate Bill 2 (LC 50 0974)
+Page 2
+GSG/RD/mt
+Analysis by the Fiscal Research Center
+Certain aspects of tip income and its taxation have been highlighted by recent research and reporting.
+While only currently taxed tips are relevant for this analysis, tip income is believed to be
+underreported for federal income taxes, and technological advancement in recent years have rapidly
+expanded the occupations receiving tips and the occasions in which tips are collected. Additionally,
+the Tax Foundation, Committee for a Responsible Federal Budget, Budget Lab, and American
+Enterprise Institute all estimated the static fiscal impact of a federal exemption of tip income to be
+more than $100 billion between FY 2025–34, with estimates averaging $115 billion. Static fiscal
+impacts are estimates assuming employers and employees do not engage in behavioral changes due
+to the policy. This analysis makes the same static assumption. If wages are redefined or reclassified as
+tips, resulting from the passage of this exemption, the revenue impacts would be larger.
+The estimated fiscal impacts of the proposed changes are based on the following data and
+assumptions:
+• IRS Statistics of Income (SOI) data for tax years (TY) 2016–18 indicate $38.3 billion was
+recorded as tip income on W-2s in TY 2018 (most recent data available), which had been
+increasing annually by 7.2 percent since TY 2016.
+• Two sources were used to estimate the tipped income figures up to 2023. The high estimate is
+based on the SOI TY 2016–18 trend, indicating national tip income would be $55.0 billion in
+TY 2023. The second source is based on wage growth in Georgia for tipped occupations:
+waitresses and waiters; bartenders; hairdressers, hairstylists, and cosmetologists; barbers;
+dining room workers in specific industries; and couriers and messengers. These occupations’
+wages, after weighting for numbers of employees in each, grew at 5.7 percent annually
+between 2018 and 2023. The low estimate is based on this growth rate and indicates that
+national tip income would be $50.9 billion in TY 2023.
+• National tip income was shared down to Georgia based on Georgia’s share of national wages
+for the same list of tipped occupations in 2023: 2.69 percent.
+• The Budget Lab at Yale University produced a report regarding the recent federal proposals to
+exempt tipped income from the federal income tax. Their report expected tipped income to
+continue to grow rapidly through 2026 and settle into growth of 5.2 percent per year after
+
+Section 2:
+2026. The high estimate assumes 9 percent growth through TY 2026 and 6.4 percent
+thereafter, and the low estimate assumes 7 percent growth through TY 2026 and 5.4 percent
+thereafter.
+• DOR individual income tax data were used to simulate the portion of tipped income that
+would be effectively exempted and not already exempted through provisions in Georgia’s
+income tax code. The simulation was completed using the following assumptions and steps:
+Income tax records were restricted to those with income similar to those of the tipped
+o
+wage occupations, averaging $29,000 annually with a standard deviation of $796.
+The Budget Lab report, based on data from the Survey of Income and Program
+o
+Participation (SIPP), estimated that tipped workers earned a large portion of wage
+income as well. Based on their findings, each record was assigned a tipped wage, which
+averaged 40 percent of total income with a standard deviation share of 10 percent of
+income.
+Calculating taxable income under the current income tax structure in Georgia, before
+o
+and after the simulated tipped waged was excluded, indicates that 74 percent of tipped
+Fiscal Note for Senate Bill 2 (LC 50 0974)
+Page 3
+wages would effectively reduce taxable income, after accounting for other exemptions
+and deductions. The high estimates assume that 85 percent of tipped wages would
+reduce taxable income, and the low estimates assume 70 percent.
+Table 2 presents the high and low estimates for tipped income, as well as effectively excluded tip
+income, for Georgia from TY 2025–30. The bill is effective January 1, 2025, and is assumed to reduce
+FY 2025 revenue through reduced withholding. The fiscal impact for FY 2025 is based on two months
+of reduced withholding upon being signed into law in late April. The remaining 10-month impact for
+the tax year affects FY 2026, increasing the fiscal impact in that year larger than 12 months of
+exempted tip income. Normalized full-year fiscal impacts start in FY 2027 and are based on a 50-50
+TY to FY fiscal split.
+For the revenue impacts presented in Table 1 the effective reduction in taxable income shown in
+Table 2 is multiplied by the current law statutory rate of 5.39 percent. This rate is scheduled to be
+reduced if certain requirements are met each year, beginning as early as TY 2025. If these rate
+reductions occur, the impact of the proposed tip income exclusion would be smaller.
+Table 2. High and Low Estimates of Tip Income in Georgia, TY 2025–30
+($ millions) TY 2025 TY 2026 TY 2027 TY 2028 TY 2029 TY 2030
+Total W-2 Tip Income
+High Case $1,759.2 $1,871.8 $1,991.6 $2,119.0 $2,254.7 $2,399.0
+Low Case $1,568.8 $1,653.6 $1,742.9 $1,837.0 $1,936.2 $2,040.7
+Effective Taxable Income Reduction
+High Case $1,495.3 $1,591.0 $1,692.8 $1,801.2 $1,916.5 $2,039.1
+Low Case $1,098.2 $1,157.5 $1,220.0 $1,285.9 $1,355.3 $1,428.5
+[DELETED:  F F F F F ( ( ( ( ( ( ( ( R O]
+[DELETED:  T T T T T $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $]
+
+
+================================================================================
+
+Raw Text:
+Greg S. Griffin
+State Auditor
+January 17, 2025
+Honorable Chuck Hufstetler
+Chairman, Senate Finance
+121-C State Capitol
+Atlanta, GA 30334
+SUBJECT: Fiscal Note
+Senate Bill 2 (LC 50 0974)
+Dear Chairman Hufstetler:
+The bill would amend Georgia’s income tax code to exclude tip income from taxation. Under current law,
+tip income is included in the calculation of federal and Georgia Adjusted Gross Income (AGI) and taxed
+as ordinary income. The bill would be effective for tax years beginning on or after January 1, 2025.
+The bill language and fiscal impact is identical to that of LC 50 0953, for which we released a fiscal note
+on November 21, 2024.
+Impact on State Revenue
+Georgia State University’s Fiscal Research Center (FRC) estimated that the bill would reduce state
+revenue by the amounts shown in Table 1. The estimates assume that employers and employees do not
+change compensation structures as a result of the bill (or a change in federal tax policy regarding tips).
+The appendix provides details of the analysis.
+Table 1. Estimated State Revenue Effects of LC 50 0974
+($ millions) FY 2025 FY 2026 FY 2027 FY 2028 FY 2029
+High Case ($13.4) ($110.0) ($88.5) ($94.2) ($100.2)
+Low Case ($9.9) ($80.5) ($64.1) ($67.5) ($71.2)
+Impact on State Expenditures
+The Department of Revenue (DOR) would be able to implement the bill’s provisions without additional
+funding. However, information technology changes would take approximately 12 weeks, equating to
+approximately $129,000.
+Respectfully,
+Greg S. Griffin Richard Dunn, Director
+State Auditor Office of Planning and Budget
+270 Washington Street, SW, Suite 4-101 Atlanta, Georgia 30334 | Phone 404.656.2180
+
+Fiscal Note for Senate Bill 2 (LC 50 0974)
+Page 2
+GSG/RD/mt
+Analysis by the Fiscal Research Center
+Certain aspects of tip income and its taxation have been highlighted by recent research and reporting.
+While only currently taxed tips are relevant for this analysis, tip income is believed to be
+underreported for federal income taxes, and technological advancement in recent years have rapidly
+expanded the occupations receiving tips and the occasions in which tips are collected. Additionally,
+the Tax Foundation, Committee for a Responsible Federal Budget, Budget Lab, and American
+Enterprise Institute all estimated the static fiscal impact of a federal exemption of tip income to be
+more than $100 billion between FY 2025–34, with estimates averaging $115 billion. Static fiscal
+impacts are estimates assuming employers and employees do not engage in behavioral changes due
+to the policy. This analysis makes the same static assumption. If wages are redefined or reclassified as
+tips, resulting from the passage of this exemption, the revenue impacts would be larger.
+The estimated fiscal impacts of the proposed changes are based on the following data and
+assumptions:
+• IRS Statistics of Income (SOI) data for tax years (TY) 2016–18 indicate $38.3 billion was
+recorded as tip income on W-2s in TY 2018 (most recent data available), which had been
+increasing annually by 7.2 percent since TY 2016.
+• Two sources were used to estimate the tipped income figures up to 2023. The high estimate is
+based on the SOI TY 2016–18 trend, indicating national tip income would be $55.0 billion in
+TY 2023. The second source is based on wage growth in Georgia for tipped occupations:
+waitresses and waiters; bartenders; hairdressers, hairstylists, and cosmetologists; barbers;
+dining room workers in specific industries; and couriers and messengers. These occupations’
+wages, after weighting for numbers of employees in each, grew at 5.7 percent annually
+between 2018 and 2023. The low estimate is based on this growth rate and indicates that
+national tip income would be $50.9 billion in TY 2023.
+• National tip income was shared down to Georgia based on Georgia’s share of national wages
+for the same list of tipped occupations in 2023: 2.69 percent.
+• The Budget Lab at Yale University produced a report regarding the recent federal proposals to
+exempt tipped income from the federal income tax. Their report expected tipped income to
+continue to grow rapidly through 2026 and settle into growth of 5.2 percent per year after
+2026. The high estimate assumes 9 percent growth through TY 2026 and 6.4 percent
+thereafter, and the low estimate assumes 7 percent growth through TY 2026 and 5.4 percent
+thereafter.
+• DOR individual income tax data were used to simulate the portion of tipped income that
+would be effectively exempted and not already exempted through provisions in Georgia’s
+income tax code. The simulation was completed using the following assumptions and steps:
+Income tax records were restricted to those with income similar to those of the tipped
+o
+wage occupations, averaging $29,000 annually with a standard deviation of $796.
+The Budget Lab report, based on data from the Survey of Income and Program
+o
+Participation (SIPP), estimated that tipped workers earned a large portion of wage
+income as well. Based on their findings, each record was assigned a tipped wage, which
+averaged 40 percent of total income with a standard deviation share of 10 percent of
+income.
+Calculating taxable income under the current income tax structure in Georgia, before
+o
+and after the simulated tipped waged was excluded, indicates that 74 percent of tipped
+
+Fiscal Note for Senate Bill 2 (LC 50 0974)
+Page 3
+wages would effectively reduce taxable income, after accounting for other exemptions
+and deductions. The high estimates assume that 85 percent of tipped wages would
+reduce taxable income, and the low estimates assume 70 percent.
+Table 2 presents the high and low estimates for tipped income, as well as effectively excluded tip
+income, for Georgia from TY 2025–30. The bill is effective January 1, 2025, and is assumed to reduce
+FY 2025 revenue through reduced withholding. The fiscal impact for FY 2025 is based on two months
+of reduced withholding upon being signed into law in late April. The remaining 10-month impact for
+the tax year affects FY 2026, increasing the fiscal impact in that year larger than 12 months of
+exempted tip income. Normalized full-year fiscal impacts start in FY 2027 and are based on a 50-50
+TY to FY fiscal split.
+For the revenue impacts presented in Table 1 the effective reduction in taxable income shown in
+Table 2 is multiplied by the current law statutory rate of 5.39 percent. This rate is scheduled to be
+reduced if certain requirements are met each year, beginning as early as TY 2025. If these rate
+reductions occur, the impact of the proposed tip income exclusion would be smaller.
+Table 2. High and Low Estimates of Tip Income in Georgia, TY 2025–30
+($ millions) TY 2025 TY 2026 TY 2027 TY 2028 TY 2029 TY 2030
+Total W-2 Tip Income
+High Case $1,759.2 $1,871.8 $1,991.6 $2,119.0 $2,254.7 $2,399.0
+Low Case $1,568.8 $1,653.6 $1,742.9 $1,837.0 $1,936.2 $2,040.7
+Effective Taxable Income Reduction
+High Case $1,495.3 $1,591.0 $1,692.8 $1,801.2 $1,916.5 $2,039.1
+Low Case $1,098.2 $1,157.5 $1,220.0 $1,285.9 $1,355.3 $1,428.5
+
+[DELETED:  F F F F F ( ( ( ( ( ( ( ( R O]
+[DELETED:  T T T T T $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $ $]

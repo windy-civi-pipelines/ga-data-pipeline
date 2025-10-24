@@ -1,0 +1,137 @@
+Title: House Bill 390
+Official Title: House Bill 390
+Number of Sections: 1
+Source: versions - LC 39 4592/a
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4592
+By: Representatives Fleming of the 114th, Hagan of the 156th, Hitchens of the 161st, Scoggins
+of the 14th, McDonald III of the 26th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 11 of Title 16 and Code Section 17-6-12 of the Official Code
+2 of Georgia Annotated, relating to offenses against public order and unsecured judicial
+3 release, requirement, effect of failure of person charged to appear for trial, and consideration
+4 of criminal record, respectively, so as to provide for the crime of interference with a first
+5 responder; to provide for penalties; to include such offense in the list of bail restricted
+6 offenses; to provide for definitions; to provide for a short title; to provide for related matters;
+7 to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 This Act shall be known and may be cited as the "HALO Act."
+11 SECTION 2.
+12 Article 2 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to
+13 offenses against public order, is amended by adding a new Code section to read as follows:
+14 "16-11-46.
+15 (a) As used in this Code section, the term:
+H. B. 390
+- 1 -
+25 LC 39 4592
+16 (1) 'First responder' means any firefighter, as defined in Code Section 16-10-24.1; peace
+17 officer, as defined in Code Section 35-8-2; and emergency medical technician, as defined
+18 in Code Section 16-10-24.2, who provides on-site care until the arrival and departure of
+19 an ambulance service licensed under Chapter 11 of Title 31 or the termination of official
+20 duties at the location of an emergency.
+21 (2) 'Harass' means to knowingly and willfully engage in any conduct directed toward a
+22 first responder which intentionally causes substantial emotional distress in that first
+23 responder and serves no legitimate purpose.
+24 (b) A person commits the offense of interference with a first responder when he or she,
+25 after receiving a verbal warning not to approach from a person he or she knows or
+26 reasonably should know is a first responder who is engaged in the lawful performance of
+27 a legal duty, knowingly and willfully violates such warning and approaches or remains
+28 within 25 feet of the first responder with the intent to:
+29 (1) Impede or interfere with the first responder's ability to perform such duty;
+30 (2) Threaten the first responder with physical harm; or
+31 (3) Harass the first responder.
+32 (c) A person convicted pursuant to this Code section shall be guilty of a misdemeanor of
+33 a high and aggravated nature."
+34 SECTION 3.
+35 Code Section 17-6-12 of the Official Code of Georgia Annotated, relating to unsecured
+36 judicial release, requirement, effect of failure of person charged to appear for trial, and
+37 consideration of criminal record, is amended in subsection (a) by striking "or" at the end of
+38 subparagraph (DDD), by replacing the period at the end of subparagraph (EEE) with "; or",
+39 and by adding a new subparagraph to read as follows:
+40 "(FFF) Interfering with, threatening, or harassing a first responder at the scene of an
+41 emergency, as described in Code Section 16-11-46."
+H. B. 390
+- 2 -
+25 LC 39 4592
+42 SECTION 4.
+43 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 390
+- 3 -
+[DELETED: 5L4,6,1,hths4,6,ht G A r t o a p o a u j]
+[DELETED: 5L r a v w n t a f a p h o s k o]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4592
+House Bill 390
+By: Representatives Fleming of the 114th, Hagan of the 156th, Hitchens of the 161st, Scoggins
+of the 14th, McDonald III of the 26th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 11 of Title 16 and Code Section 17-6-12 of the Official Code
+2 of Georgia Annotated, relating to offenses against public order and unsecured judicial
+3 release, requirement, effect of failure of person charged to appear for trial, and consideration
+4 of criminal record, respectively, so as to provide for the crime of interference with a first
+5 responder; to provide for penalties; to include such offense in the list of bail restricted
+6 offenses; to provide for definitions; to provide for a short title; to provide for related matters;
+7 to repeal conflicting laws; and for other purposes.
+8 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+9 SECTION 1.
+10 This Act shall be known and may be cited as the "HALO Act."
+11 SECTION 2.
+12 Article 2 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated, relating to
+13 offenses against public order, is amended by adding a new Code section to read as follows:
+14 "16-11-46.
+15 (a) As used in this Code section, the term:
+H. B. 390
+- 1 -
+
+25 LC 39 4592
+16 (1) 'First responder' means any firefighter, as defined in Code Section 16-10-24.1; peace
+17 officer, as defined in Code Section 35-8-2; and emergency medical technician, as defined
+18 in Code Section 16-10-24.2, who provides on-site care until the arrival and departure of
+19 an ambulance service licensed under Chapter 11 of Title 31 or the termination of official
+20 duties at the location of an emergency.
+21 (2) 'Harass' means to knowingly and willfully engage in any conduct directed toward a
+22 first responder which intentionally causes substantial emotional distress in that first
+23 responder and serves no legitimate purpose.
+24 (b) A person commits the offense of interference with a first responder when he or she,
+25 after receiving a verbal warning not to approach from a person he or she knows or
+26 reasonably should know is a first responder who is engaged in the lawful performance of
+27 a legal duty, knowingly and willfully violates such warning and approaches or remains
+28 within 25 feet of the first responder with the intent to:
+29 (1) Impede or interfere with the first responder's ability to perform such duty;
+30 (2) Threaten the first responder with physical harm; or
+31 (3) Harass the first responder.
+32 (c) A person convicted pursuant to this Code section shall be guilty of a misdemeanor of
+33 a high and aggravated nature."
+34 SECTION 3.
+35 Code Section 17-6-12 of the Official Code of Georgia Annotated, relating to unsecured
+36 judicial release, requirement, effect of failure of person charged to appear for trial, and
+37 consideration of criminal record, is amended in subsection (a) by striking "or" at the end of
+38 subparagraph (DDD), by replacing the period at the end of subparagraph (EEE) with "; or",
+39 and by adding a new subparagraph to read as follows:
+40 "(FFF) Interfering with, threatening, or harassing a first responder at the scene of an
+41 emergency, as described in Code Section 16-11-46."
+H. B. 390
+- 2 -
+
+25 LC 39 4592
+42 SECTION 4.
+43 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 390
+- 3 -
+
+[DELETED: 5L4,6,1,hths4,6,ht G A r t o a p o a u j]
+[DELETED: 5L r a v w n t a f a p h o s k o]
+[DELETED: 5L]

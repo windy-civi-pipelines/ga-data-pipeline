@@ -1,0 +1,122 @@
+Title: Senators Kirkpatrick of the 32nd, Anderson of the 24th, Brass of the 6th, Robertson of the
+Official Title: Senators Kirkpatrick of the 32nd, Anderson of the 24th, Brass of the 6th, Robertson of the
+Number of Sections: 1
+Source: versions - Sen Floor Amend 1 AM 39 0459
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 Sen Floor Amend 1 AM 39 0459
+ADOPTED
+29th, Esteves of the 35th, and others offered the following amendment #1:
+1 Amend HB 308 (LC 39 4652S) by replacing line 8 with the following:
+2 to provide a sentencing court with authority to order the installation of a device which limits
+3 the speed of a motor vehicle as part of the punishment for conviction of the offense of
+4 reckless stunt driving; to provide for procedures and conditions upon issuance of such orders;
+5 to provide for notification to the Department of Revenue; to provide for a penalty; to revise
+6 and provide for definitions; to provide that fingerprints shall not be obtained for offenses
+7 relating to operation of a motor vehicle with unauthorized levels of window or windshield
+8 tinting or unlawful installation of such; to amend Code Section 48-5-473 of the Official Code
+9 By replacing "such vehicles" with "miniature on-road vehicles" on line 11.
+10 By inserting the following between lines 200 and 201:
+11 Said title is further amended in Code Section 40-6-390.1, relating to reckless stunt driving,
+12 by adding a new subsection to read as follows:
+13 "(b.1)(1) As used in this subsection, the term 'intelligent speed assistance device' means
+14 a device designed to be installed within a motor vehicle to actively monitor and prevent
+15 the operator from exceeding a preset speed. Such term shall not include any technology
+16 provided by the motor vehicle manufacturer as a component of a motor vehicle that
+17 controls or affects the speed of a motor vehicle.
+18 (2) Upon conviction of a violation of this Code section and in addition to the punishment
+19 provided for in subsection (a) of this Code section, a court shall be authorized to order
+20 the installation of an intelligent speed assistance device upon the motor vehicle operated
+21 by the offender during such violation when the offender is the registered owner of such
+- 1 -
+25 Sen Floor Amend 1 AM 39 0459
+22 motor vehicle as shown in the records of the Department of Revenue. Such order shall
+23 set the maximum speed limit for an intelligent speed assistance device installed upon a
+24 motor vehicle at a speed limit of no greater than 20 percent above the posted speed limit.
+25 An intelligent speed assistance device shall be installed within ten days of the issuance
+26 of such order and remain on the vehicle for a period of time ordered by the court which
+27 shall be no less than six months. The costs relating to the installation of an intelligent
+28 speed assistance device upon a motor vehicle and any monitoring thereof shall be borne
+29 by the offender. Any court which orders an intelligent speed assistance device to be
+30 placed upon a motor vehicle pursuant to this subsection shall provide the Department of
+31 Revenue with a copy of such order. The records of the Department of Revenue shall
+32 contain a record reflecting that the motor vehicle shall only be operated when equipped
+33 with a functioning intelligent speed assistance device. The operation of a motor vehicle
+34 without an intelligent speed assistance device for which an order for installation of an
+35 intelligent speed assistance device has been issued pursuant to this subsection by the
+36 offender issued such order shall be punished as for a misdemeanor."
+37 SECTION 11.
+38 Said title is further amended in Code Section 40-8-73.1, relating to tinting of windows or
+39 windshields of motor vehicles, by revising subsection (h) as follows:
+40 "(h) Any person who violates subsection (b) or (e) of this Code section shall be guilty of
+41 a misdemeanor; provided, however, that no fingerprints shall be obtained for a violation
+42 of this Code section."
+43 SECTION 12.
+44 By renumbering the remaining sections of the bill accordingly.
+- 2 -
+[DELETED: 5SAttrtartB0B1S2b3(4a5t6p7c8(9p0t1b]
+[DELETED: 5S2m3s4m5A6o7s8s9b0p1R2c3w4w5i6o7S8S9w0(1a2o3S4B]
+
+
+================================================================================
+
+Raw Text:
+25 Sen Floor Amend 1 AM 39 0459
+ADOPTED
+Senators Kirkpatrick of the 32nd, Anderson of the 24th, Brass of the 6th, Robertson of the
+29th, Esteves of the 35th, and others offered the following amendment #1:
+1 Amend HB 308 (LC 39 4652S) by replacing line 8 with the following:
+2 to provide a sentencing court with authority to order the installation of a device which limits
+3 the speed of a motor vehicle as part of the punishment for conviction of the offense of
+4 reckless stunt driving; to provide for procedures and conditions upon issuance of such orders;
+5 to provide for notification to the Department of Revenue; to provide for a penalty; to revise
+6 and provide for definitions; to provide that fingerprints shall not be obtained for offenses
+7 relating to operation of a motor vehicle with unauthorized levels of window or windshield
+8 tinting or unlawful installation of such; to amend Code Section 48-5-473 of the Official Code
+9 By replacing "such vehicles" with "miniature on-road vehicles" on line 11.
+10 By inserting the following between lines 200 and 201:
+11 Said title is further amended in Code Section 40-6-390.1, relating to reckless stunt driving,
+12 by adding a new subsection to read as follows:
+13 "(b.1)(1) As used in this subsection, the term 'intelligent speed assistance device' means
+14 a device designed to be installed within a motor vehicle to actively monitor and prevent
+15 the operator from exceeding a preset speed. Such term shall not include any technology
+16 provided by the motor vehicle manufacturer as a component of a motor vehicle that
+17 controls or affects the speed of a motor vehicle.
+18 (2) Upon conviction of a violation of this Code section and in addition to the punishment
+19 provided for in subsection (a) of this Code section, a court shall be authorized to order
+20 the installation of an intelligent speed assistance device upon the motor vehicle operated
+21 by the offender during such violation when the offender is the registered owner of such
+- 1 -
+
+25 Sen Floor Amend 1 AM 39 0459
+22 motor vehicle as shown in the records of the Department of Revenue. Such order shall
+23 set the maximum speed limit for an intelligent speed assistance device installed upon a
+24 motor vehicle at a speed limit of no greater than 20 percent above the posted speed limit.
+25 An intelligent speed assistance device shall be installed within ten days of the issuance
+26 of such order and remain on the vehicle for a period of time ordered by the court which
+27 shall be no less than six months. The costs relating to the installation of an intelligent
+28 speed assistance device upon a motor vehicle and any monitoring thereof shall be borne
+29 by the offender. Any court which orders an intelligent speed assistance device to be
+30 placed upon a motor vehicle pursuant to this subsection shall provide the Department of
+31 Revenue with a copy of such order. The records of the Department of Revenue shall
+32 contain a record reflecting that the motor vehicle shall only be operated when equipped
+33 with a functioning intelligent speed assistance device. The operation of a motor vehicle
+34 without an intelligent speed assistance device for which an order for installation of an
+35 intelligent speed assistance device has been issued pursuant to this subsection by the
+36 offender issued such order shall be punished as for a misdemeanor."
+37 SECTION 11.
+38 Said title is further amended in Code Section 40-8-73.1, relating to tinting of windows or
+39 windshields of motor vehicles, by revising subsection (h) as follows:
+40 "(h) Any person who violates subsection (b) or (e) of this Code section shall be guilty of
+41 a misdemeanor; provided, however, that no fingerprints shall be obtained for a violation
+42 of this Code section."
+43 SECTION 12.
+44 By renumbering the remaining sections of the bill accordingly.
+- 2 -
+
+[DELETED: 5SAttrtartB0B1S2b3(4a5t6p7c8(9p0t1b]
+[DELETED: 5S2m3s4m5A6o7s8s9b0p1R2c3w4w5i6o7S8S9w0(1a2o3S4B]

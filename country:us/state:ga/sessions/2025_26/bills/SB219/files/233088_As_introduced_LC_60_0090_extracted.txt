@@ -1,0 +1,184 @@
+Title: Senate Bill 219
+Official Title: Senate Bill 219
+Number of Sections: 1
+Source: versions - As introduced LC 60 0090
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+25 LC 60 0090
+By: Senators James of the 28th, Rahman of the 5th, Davenport of the 17th, Jones of the 10th,
+Harbison of the 15th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 30 of the Official Code of Georgia Annotated, relating to handicapped
+2 persons, so as to provide for access to employee toilet facilities in retail establishments; to
+3 provide for definitions; to provide for exceptions; to provide for immunity from liability
+4 related to use of such toilet facilities; to provide for a criminal penalty; to provide for a short
+5 title; to provide for related matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 This Act shall be known and may be cited as the "Restroom Access Act."
+9 SECTION 2.
+10 Title 30 of the Official Code of Georgia Annotated, relating to handicapped persons, is
+11 amended by adding a new chapter to read as follows:
+S. B. 219
+- 1 -
+25 LC 60 0090
+12 "CHAPTER 11
+13 30-11-1.
+14 As used in this chapter, the term:
+15 (1) 'Customer' means an individual who is lawfully on the premises of a retail
+16 establishment.
+17 (2) 'Eligible medical condition' means Crohn's disease, ulcerative colitis, any other
+18 inflammatory bowel disease, irritable bowel syndrome, or any other medical condition
+19 that requires immediate access to a toilet facility or that requires use of an ostomy device.
+20 (3) 'Healthcare provider' means a licensed physician, physician assistant, or nurse
+21 practitioner.
+22 (4) 'Ostomy device' means a medical device that creates an artificial passage for the
+23 elimination of body waste.
+24 (5) 'Retail establishment' means a place of business open to the general public for the
+25 sale of goods or services.
+26 30-11-2.
+27 (a) Any retail establishment that has a toilet facility for employee use, which typically does
+28 not permit customer access to such employee toilet facility, shall allow a customer to use
+29 such toilet facility during normal business hours if the toilet facility is maintained in a
+30 reasonably safe manner and all of the following conditions are met:
+31 (1) The customer requesting access to the employee toilet facility presents a copy of a
+32 written statement, signed and issued by a healthcare provider on such provider's
+33 letterhead or of a facility with which the healthcare provider is associated that indicates
+34 the customer suffers from an eligible medical condition;
+35 (2) A public restroom is not immediately accessible to the customer;
+S. B. 219
+- 2 -
+25 LC 60 0090
+36 (3) At the time the request for access to the employee toilet facility is made, three or
+37 more employees of the retail establishment are working; and
+38 (4) The employee toilet facility is located in an area of the retail establishment where
+39 providing access would not create an obvious risk to the health or safety of the customer
+40 or an obvious security risk to the retail establishment.
+41 (b) This Code section shall not apply to a retail establishment that:
+42 (1) Sells prescription drugs, if the employee toilet facility is located in an area in which
+43 the customer might gain access to any pharmaceuticals; and
+44 (2) Maintains records or information that is subject to the federal Health Insurance
+45 Portability and Accountability Act of 1996, P.L. 104-191, if the employee toilet facility
+46 is located in an area in which such records or information might be accessed.
+47 30-11-3.
+48 (a) A retail establishment or an employee of a retail establishment shall not be liable for
+49 any acts or omissions in allowing a customer access to an employee toilet facility pursuant
+50 to the provisions of this chapter, if such acts and omissions meet all of the following:
+51 (1) Do not constitute gross, willful, or wanton negligence on the part of the retail
+52 establishment or employee of the retail establishment;
+53 (2) Occurred in an area of the retail establishment that is not otherwise accessible to
+54 customers; and
+55 (3) Resulted in injury to or death of the customer or an individual other than an employee
+56 accompanying the customer to the employee toilet facility.
+57 (b) No retail establishment shall be required to make any physical change to an employee
+58 toilet facility to effectuate the purposes of this chapter.
+59 30-11-4.
+60 Any person who violates this chapter shall be guilty of a misdemeanor."
+S. B. 219
+- 3 -
+25 LC 60 0090
+61 SECTION 3.
+62 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 219
+- 4 -
+[DELETED: 5L]
+[DELETED: 5L  ' m a i w i l o t p o a r  ' p m a l p p a o n s s a i b a h p o s p]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 60 0090
+Senate Bill 219
+By: Senators James of the 28th, Rahman of the 5th, Davenport of the 17th, Jones of the 10th,
+Harbison of the 15th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 30 of the Official Code of Georgia Annotated, relating to handicapped
+2 persons, so as to provide for access to employee toilet facilities in retail establishments; to
+3 provide for definitions; to provide for exceptions; to provide for immunity from liability
+4 related to use of such toilet facilities; to provide for a criminal penalty; to provide for a short
+5 title; to provide for related matters; to repeal conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 This Act shall be known and may be cited as the "Restroom Access Act."
+9 SECTION 2.
+10 Title 30 of the Official Code of Georgia Annotated, relating to handicapped persons, is
+11 amended by adding a new chapter to read as follows:
+S. B. 219
+- 1 -
+
+25 LC 60 0090
+12 "CHAPTER 11
+13 30-11-1.
+14 As used in this chapter, the term:
+15 (1) 'Customer' means an individual who is lawfully on the premises of a retail
+16 establishment.
+17 (2) 'Eligible medical condition' means Crohn's disease, ulcerative colitis, any other
+18 inflammatory bowel disease, irritable bowel syndrome, or any other medical condition
+19 that requires immediate access to a toilet facility or that requires use of an ostomy device.
+20 (3) 'Healthcare provider' means a licensed physician, physician assistant, or nurse
+21 practitioner.
+22 (4) 'Ostomy device' means a medical device that creates an artificial passage for the
+23 elimination of body waste.
+24 (5) 'Retail establishment' means a place of business open to the general public for the
+25 sale of goods or services.
+26 30-11-2.
+27 (a) Any retail establishment that has a toilet facility for employee use, which typically does
+28 not permit customer access to such employee toilet facility, shall allow a customer to use
+29 such toilet facility during normal business hours if the toilet facility is maintained in a
+30 reasonably safe manner and all of the following conditions are met:
+31 (1) The customer requesting access to the employee toilet facility presents a copy of a
+32 written statement, signed and issued by a healthcare provider on such provider's
+33 letterhead or of a facility with which the healthcare provider is associated that indicates
+34 the customer suffers from an eligible medical condition;
+35 (2) A public restroom is not immediately accessible to the customer;
+S. B. 219
+- 2 -
+
+25 LC 60 0090
+36 (3) At the time the request for access to the employee toilet facility is made, three or
+37 more employees of the retail establishment are working; and
+38 (4) The employee toilet facility is located in an area of the retail establishment where
+39 providing access would not create an obvious risk to the health or safety of the customer
+40 or an obvious security risk to the retail establishment.
+41 (b) This Code section shall not apply to a retail establishment that:
+42 (1) Sells prescription drugs, if the employee toilet facility is located in an area in which
+43 the customer might gain access to any pharmaceuticals; and
+44 (2) Maintains records or information that is subject to the federal Health Insurance
+45 Portability and Accountability Act of 1996, P.L. 104-191, if the employee toilet facility
+46 is located in an area in which such records or information might be accessed.
+47 30-11-3.
+48 (a) A retail establishment or an employee of a retail establishment shall not be liable for
+49 any acts or omissions in allowing a customer access to an employee toilet facility pursuant
+50 to the provisions of this chapter, if such acts and omissions meet all of the following:
+51 (1) Do not constitute gross, willful, or wanton negligence on the part of the retail
+52 establishment or employee of the retail establishment;
+53 (2) Occurred in an area of the retail establishment that is not otherwise accessible to
+54 customers; and
+55 (3) Resulted in injury to or death of the customer or an individual other than an employee
+56 accompanying the customer to the employee toilet facility.
+57 (b) No retail establishment shall be required to make any physical change to an employee
+58 toilet facility to effectuate the purposes of this chapter.
+59 30-11-4.
+60 Any person who violates this chapter shall be guilty of a misdemeanor."
+S. B. 219
+- 3 -
+
+25 LC 60 0090
+61 SECTION 3.
+62 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 219
+- 4 -
+
+[DELETED: 5L]
+[DELETED: 5L  ' m a i w i l o t p o a r  ' p m a l p p a o n s s a i b a h p o s p]
+[DELETED: 5L]
+[DELETED: 5L]

@@ -1,0 +1,385 @@
+Title: Senate Bill 371
+Official Title: Senate Bill 371
+Number of Sections: 1
+Source: versions - As introduced LC 62 0214
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+25 LC 62 0214
+By: Senator Strickland of the 42nd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 37 and Title 42 of the Official Code of Georgia, relating to mental health and
+2 penal institutions, respectively, so as to establish a grant program to create peer support
+3 programs in hospitals; to create peer support programs for individuals in penal institutions;
+4 to provide for quarterly and annual reports; to provide for consultation and cooperation with
+5 agencies, courts, organizations, and any entity which interacts with individuals who are
+6 incarcerated, on parole, or on probation to establish peer mentor programs; to provide for
+7 rules and regulations; to provide for related matters; to repeal conflicting laws; and for other
+8 purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Title 37 of the Official Code of Georgia Annotated, relating to mental health, is amended in
+12 Chapter 1, relating to governing and regulation of mental health, by revising paragraph (6)
+13 of Code Section 37-1-20, relating to obligations of the Department of Behavioral Health and
+14 Developmental Disabilities, as follows:
+15 "(6) Establish and support programs for the training of professional and technical
+16 personnel and certified peer specialists, as well as regional advisory councils and
+S. B. 371
+- 1 -
+25 LC 62 0214
+17 community service boards. Certified peer specialists may be designated by area of focus,
+18 such as mental health or addictive disease, or by personnel, such as youth or parent, and
+19 shall include a designation for maternal mental health;"
+20 SECTION 2.
+21 Said title is further amended by revising Chapter 8, which is reserved, as follows:
+22 "CHAPTER 8
+23 37-8-1.
+24 As used in this chapter, the term:
+25 (1) 'Addiction recovery support center' means a peer-led community based program
+26 offering nonclinical support and activities for individuals and families of individuals who
+27 are in recovery from substance use disorders as defined by department policy.
+28 (2) 'Certification training body' means an entity approved by the department to provide
+29 training and testing for certified peer specialists in accordance with department policies.
+30 (3) 'Certified peer specialist' means an individual who is trained and certified to provide
+31 ongoing support to individuals and families of individuals who are receiving mental
+32 health or substance use recovery supports and services. A certified peer specialist works
+33 from the perspective of his or her lived experience to help build environments conducive
+34 to recovery. Certified peer specialists promote hope, personal responsibility,
+35 empowerment, education, and self-determination in the communities served. Such term
+36 includes the following certified peer specialist designations recognized by the
+37 department:
+38 (A) Certified Peer Specialist-Mental Health or CPS-MH;
+39 (B) Certified Peer Specialist-Addictive Disease or CPS-AD;
+40 (C) Certified Peer Specialist-Youth or CPS-Y;
+S. B. 371
+- 2 -
+25 LC 62 0214
+41 (D) Certified Peer Specialist-Parent or CPS-P; and
+42 (E) Other ancillary peer credentials, such as forensic peer mentors, which may be
+43 added by the department designated training entity.
+44 (4) 'Department' means the Department of Behavioral Health and Developmental
+45 Disabilities and includes its duly authorized agents and designees.
+46 (5) 'Peer support program' means services rendered to individuals in need of support that
+47 are provided by a certified peer specialist. Such term includes, but is not limited to,
+48 individual peer recovery coaching, group peer check-ins, advocacy, mutual aid support
+49 groups, connection to treatment services, harm reduction services, connection to
+50 medication for substance use disorder or alcohol use disorder, housing support,
+51 transportation support, food insecurity support, acquiring identification, job placement,
+52 or connections to other resources within the community. Reserved.
+53 37-8-2.
+54 (a) Peer specialists working in department services are required to be certified by the
+55 department.
+56 (b) Only the department shall certify individuals who complete training and testing
+57 provided by certification training bodies. In addition to the training standards set by the
+58 department, certified peer specialists shall be required to complete continuing education
+59 on working in hospital settings and job readiness and workforce reentry.
+60 37-8-3.
+61 (a) In order to encourage and ensure the establishment of peer support programs for
+62 individuals presenting with substance use disorders in hospitals throughout this state, the
+63 department shall award grants, subject to appropriations from the General Assembly, to
+64 hospitals or local addiction recovery support centers that seek to implement such programs
+S. B. 371
+- 3 -
+25 LC 62 0214
+65 and that demonstrate a need for financial assistance to develop the necessary infrastructure,
+66 including personnel and equipment.
+67 (b) A hospital or addiction recovery support center seeking to implement a peer support
+68 program for individuals presenting to hospitals with substance use disorders pursuant to
+69 this Code section may apply to the department for a grant, in a manner and on a form
+70 required by the department, and shall provide such information as the department deems
+71 necessary to determine if the hospital or addiction recovery support center is eligible for
+72 the grant.
+73 (c) The department may provide grants to as many hospitals or addiction recovery support
+74 centers as it deems appropriate, subject to appropriations, taking into consideration
+75 adequate geographic diversity with respect to locations.
+76 (d) The department shall annually prepare and submit a report to the Governor, the
+77 President of the Senate, the Speaker of the House of Representatives, and the chairpersons
+78 of the House Committee on Public and Community Health and the Senate Health and
+79 Human Services Committee for distribution to their committee members indicating the
+80 total number of hospitals and addiction recovery support centers that applied for grants
+81 pursuant to this Code section, the number of applicants that were determined by the
+82 department to be eligible for such grants, the total number of grants awarded, the name and
+83 address of each grantee hospital or addiction recovery support center, the amount of the
+84 award to each grantee hospital or addiction recovery support center, and the amount of each
+85 award disbursed to the grantee hospital or addiction recovery support center.
+86 37-8-4.
+87 The department shall contract on an annual basis with an independent organization, entity,
+88 or consultant possessing expertise in the practice of peer support programs led by certified
+89 peer specialists for individuals presenting with substance use disorders to serve as a
+90 technical assistance provider for the grantees. The department, in consultation with the
+S. B. 371
+- 4 -
+25 LC 62 0214
+91 grantees, shall review the performance of such technical assistance provider annually and
+92 determine whether it is appropriate to seek a different technical assistance provider or
+93 contract with the same technical assistance provider for the following year.
+94 37-8-5.
+95 (a) Prior to the commencement of funding for the peer support programs under Code
+96 Section 37-8-3, the department shall contract with an independent organization, entity, or
+97 consultant possessing expertise in the evaluation and quality improvement of peer support
+98 programs and policies to evaluate and make quality improvement recommendations on:
+99 (1) The effectiveness of such peer support programs in reducing criminal justice
+100 interactions among vulnerable individuals with substance use disorders;
+101 (2) The cost-effectiveness of such peer support programs, including the impact on
+102 spending within the public behavioral health care system on the individuals receiving
+103 peer support and spending within the criminal justice system on the arrest, incarceration,
+104 and prosecution of such individuals;
+105 (3) Differences in implementation of such peer support programs among the grantees and
+106 the impact of such differences on program outcomes;
+107 (4) The impact of such peer support programs on the behavioral health care system at
+108 large, including any unintended impacts; and
+109 (5) The perceptions of such peer support programs and their effectiveness among
+110 participating individuals, behavioral health care providers, and program staff.
+111 (b) As a condition for participation in the grant program, the department shall require each
+112 grantee to agree to share program information data with the contracted organization, entity,
+113 or consultant as the department may require and to make reasonable accommodation for
+114 such organization, entity, or consultant to have access to the grantee's site and the
+115 individuals served. The department shall further ensure that the contracted organization,
+S. B. 371
+- 5 -
+25 LC 62 0214
+116 entity, or consultant is able to perform its functions consistent with all state and federal
+117 restrictions on the privacy of personal health information.
+118 (c) In contracting with the organization, entity, or consultant, the department shall require
+119 such organization, entity, or consultant to submit a quarterly report on the effectiveness of
+120 the peer support programs for individuals presenting with behavioral health conditions to
+121 the Governor, the chairpersons of the House Committee on Public and Community Health
+122 and the Senate Health and Human Services Committee, and the Office of Health Strategy
+123 and Coordination.
+124 37-8-6.
+125 (a) The department shall adopt and prescribe rules and regulations necessary or appropriate
+126 to administer and carry out the grant program provided for in this chapter.
+127 (b) The department shall adopt and prescribe rules and regulations necessary or
+128 appropriate to establish a forensic peer mentor training program as provided in Article 7
+129 of Chapter 3 of Title 42."
+130 SECTION 3.
+131 Title 42 of the Official Code of Georgia Annotated, relating to penal institutions, is amended
+132 in Chapter 3, relating to community supervision and transition, by adding a new article to
+133 read as follows:
+134 "ARTICLE 7
+135 42-3-120.
+136 (a) The Department of Corrections and DCS shall establish forensic peer mentor programs
+137 in every state prison, county jail, and municipal jail.
+S. B. 371
+- 6 -
+25 LC 62 0214
+138 (b) Such forensic peer mentor programs shall be led by individuals who are certified peer
+139 specialists pursuant to Chapter 8 of Title 37.
+140 (c) The Department of Corrections and DCS shall adopt rules and regulations necessary
+141 to establish such programs in every state prison, county jail, and municipal jail.
+142 42-3-121.
+143 The Department of Corrections and DCS shall consult and coordinate with agencies,
+144 departments, organizations, courts, and any entity which interacts with individuals who are
+145 incarcerated, on parole, or on probation to establish forensic peer mentor programs led by
+146 certified peer specialists, including, but not limited to, individuals in probation programs,
+147 accountability courts, day reporting centers, recovery housing or residences, and other
+148 mental health or drug diversion programs."
+149 SECTION 4.
+150 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 371
+- 7 -
+[DELETED: 5L  E a s p f t t o p a t a c p s a w a r a c a]
+[DELETED: 5L r  C p s p h p r t f c p s d r b t]
+[DELETED: 5L  ' m t D o B H a D c t t s h r s c t f s u d o a u d h s  O t d s c i w c t a t]
+[DELETED: 5L a i d a s t a t i c s f i p w s u d t s a ]
+[DELETED: 5L  T e o s p s p i r c j  T p o s p s p a t e a o e o c t h a t t g s a t]
+[DELETED: 5L  T d s a a p r a r n o]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 62 0214
+Senate Bill 371
+By: Senator Strickland of the 42nd
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 37 and Title 42 of the Official Code of Georgia, relating to mental health and
+2 penal institutions, respectively, so as to establish a grant program to create peer support
+3 programs in hospitals; to create peer support programs for individuals in penal institutions;
+4 to provide for quarterly and annual reports; to provide for consultation and cooperation with
+5 agencies, courts, organizations, and any entity which interacts with individuals who are
+6 incarcerated, on parole, or on probation to establish peer mentor programs; to provide for
+7 rules and regulations; to provide for related matters; to repeal conflicting laws; and for other
+8 purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Title 37 of the Official Code of Georgia Annotated, relating to mental health, is amended in
+12 Chapter 1, relating to governing and regulation of mental health, by revising paragraph (6)
+13 of Code Section 37-1-20, relating to obligations of the Department of Behavioral Health and
+14 Developmental Disabilities, as follows:
+15 "(6) Establish and support programs for the training of professional and technical
+16 personnel and certified peer specialists, as well as regional advisory councils and
+S. B. 371
+- 1 -
+
+25 LC 62 0214
+17 community service boards. Certified peer specialists may be designated by area of focus,
+18 such as mental health or addictive disease, or by personnel, such as youth or parent, and
+19 shall include a designation for maternal mental health;"
+20 SECTION 2.
+21 Said title is further amended by revising Chapter 8, which is reserved, as follows:
+22 "CHAPTER 8
+23 37-8-1.
+24 As used in this chapter, the term:
+25 (1) 'Addiction recovery support center' means a peer-led community based program
+26 offering nonclinical support and activities for individuals and families of individuals who
+27 are in recovery from substance use disorders as defined by department policy.
+28 (2) 'Certification training body' means an entity approved by the department to provide
+29 training and testing for certified peer specialists in accordance with department policies.
+30 (3) 'Certified peer specialist' means an individual who is trained and certified to provide
+31 ongoing support to individuals and families of individuals who are receiving mental
+32 health or substance use recovery supports and services. A certified peer specialist works
+33 from the perspective of his or her lived experience to help build environments conducive
+34 to recovery. Certified peer specialists promote hope, personal responsibility,
+35 empowerment, education, and self-determination in the communities served. Such term
+36 includes the following certified peer specialist designations recognized by the
+37 department:
+38 (A) Certified Peer Specialist-Mental Health or CPS-MH;
+39 (B) Certified Peer Specialist-Addictive Disease or CPS-AD;
+40 (C) Certified Peer Specialist-Youth or CPS-Y;
+S. B. 371
+- 2 -
+
+25 LC 62 0214
+41 (D) Certified Peer Specialist-Parent or CPS-P; and
+42 (E) Other ancillary peer credentials, such as forensic peer mentors, which may be
+43 added by the department designated training entity.
+44 (4) 'Department' means the Department of Behavioral Health and Developmental
+45 Disabilities and includes its duly authorized agents and designees.
+46 (5) 'Peer support program' means services rendered to individuals in need of support that
+47 are provided by a certified peer specialist. Such term includes, but is not limited to,
+48 individual peer recovery coaching, group peer check-ins, advocacy, mutual aid support
+49 groups, connection to treatment services, harm reduction services, connection to
+50 medication for substance use disorder or alcohol use disorder, housing support,
+51 transportation support, food insecurity support, acquiring identification, job placement,
+52 or connections to other resources within the community. Reserved.
+53 37-8-2.
+54 (a) Peer specialists working in department services are required to be certified by the
+55 department.
+56 (b) Only the department shall certify individuals who complete training and testing
+57 provided by certification training bodies. In addition to the training standards set by the
+58 department, certified peer specialists shall be required to complete continuing education
+59 on working in hospital settings and job readiness and workforce reentry.
+60 37-8-3.
+61 (a) In order to encourage and ensure the establishment of peer support programs for
+62 individuals presenting with substance use disorders in hospitals throughout this state, the
+63 department shall award grants, subject to appropriations from the General Assembly, to
+64 hospitals or local addiction recovery support centers that seek to implement such programs
+S. B. 371
+- 3 -
+
+25 LC 62 0214
+65 and that demonstrate a need for financial assistance to develop the necessary infrastructure,
+66 including personnel and equipment.
+67 (b) A hospital or addiction recovery support center seeking to implement a peer support
+68 program for individuals presenting to hospitals with substance use disorders pursuant to
+69 this Code section may apply to the department for a grant, in a manner and on a form
+70 required by the department, and shall provide such information as the department deems
+71 necessary to determine if the hospital or addiction recovery support center is eligible for
+72 the grant.
+73 (c) The department may provide grants to as many hospitals or addiction recovery support
+74 centers as it deems appropriate, subject to appropriations, taking into consideration
+75 adequate geographic diversity with respect to locations.
+76 (d) The department shall annually prepare and submit a report to the Governor, the
+77 President of the Senate, the Speaker of the House of Representatives, and the chairpersons
+78 of the House Committee on Public and Community Health and the Senate Health and
+79 Human Services Committee for distribution to their committee members indicating the
+80 total number of hospitals and addiction recovery support centers that applied for grants
+81 pursuant to this Code section, the number of applicants that were determined by the
+82 department to be eligible for such grants, the total number of grants awarded, the name and
+83 address of each grantee hospital or addiction recovery support center, the amount of the
+84 award to each grantee hospital or addiction recovery support center, and the amount of each
+85 award disbursed to the grantee hospital or addiction recovery support center.
+86 37-8-4.
+87 The department shall contract on an annual basis with an independent organization, entity,
+88 or consultant possessing expertise in the practice of peer support programs led by certified
+89 peer specialists for individuals presenting with substance use disorders to serve as a
+90 technical assistance provider for the grantees. The department, in consultation with the
+S. B. 371
+- 4 -
+
+25 LC 62 0214
+91 grantees, shall review the performance of such technical assistance provider annually and
+92 determine whether it is appropriate to seek a different technical assistance provider or
+93 contract with the same technical assistance provider for the following year.
+94 37-8-5.
+95 (a) Prior to the commencement of funding for the peer support programs under Code
+96 Section 37-8-3, the department shall contract with an independent organization, entity, or
+97 consultant possessing expertise in the evaluation and quality improvement of peer support
+98 programs and policies to evaluate and make quality improvement recommendations on:
+99 (1) The effectiveness of such peer support programs in reducing criminal justice
+100 interactions among vulnerable individuals with substance use disorders;
+101 (2) The cost-effectiveness of such peer support programs, including the impact on
+102 spending within the public behavioral health care system on the individuals receiving
+103 peer support and spending within the criminal justice system on the arrest, incarceration,
+104 and prosecution of such individuals;
+105 (3) Differences in implementation of such peer support programs among the grantees and
+106 the impact of such differences on program outcomes;
+107 (4) The impact of such peer support programs on the behavioral health care system at
+108 large, including any unintended impacts; and
+109 (5) The perceptions of such peer support programs and their effectiveness among
+110 participating individuals, behavioral health care providers, and program staff.
+111 (b) As a condition for participation in the grant program, the department shall require each
+112 grantee to agree to share program information data with the contracted organization, entity,
+113 or consultant as the department may require and to make reasonable accommodation for
+114 such organization, entity, or consultant to have access to the grantee's site and the
+115 individuals served. The department shall further ensure that the contracted organization,
+S. B. 371
+- 5 -
+
+25 LC 62 0214
+116 entity, or consultant is able to perform its functions consistent with all state and federal
+117 restrictions on the privacy of personal health information.
+118 (c) In contracting with the organization, entity, or consultant, the department shall require
+119 such organization, entity, or consultant to submit a quarterly report on the effectiveness of
+120 the peer support programs for individuals presenting with behavioral health conditions to
+121 the Governor, the chairpersons of the House Committee on Public and Community Health
+122 and the Senate Health and Human Services Committee, and the Office of Health Strategy
+123 and Coordination.
+124 37-8-6.
+125 (a) The department shall adopt and prescribe rules and regulations necessary or appropriate
+126 to administer and carry out the grant program provided for in this chapter.
+127 (b) The department shall adopt and prescribe rules and regulations necessary or
+128 appropriate to establish a forensic peer mentor training program as provided in Article 7
+129 of Chapter 3 of Title 42."
+130 SECTION 3.
+131 Title 42 of the Official Code of Georgia Annotated, relating to penal institutions, is amended
+132 in Chapter 3, relating to community supervision and transition, by adding a new article to
+133 read as follows:
+134 "ARTICLE 7
+135 42-3-120.
+136 (a) The Department of Corrections and DCS shall establish forensic peer mentor programs
+137 in every state prison, county jail, and municipal jail.
+S. B. 371
+- 6 -
+
+25 LC 62 0214
+138 (b) Such forensic peer mentor programs shall be led by individuals who are certified peer
+139 specialists pursuant to Chapter 8 of Title 37.
+140 (c) The Department of Corrections and DCS shall adopt rules and regulations necessary
+141 to establish such programs in every state prison, county jail, and municipal jail.
+142 42-3-121.
+143 The Department of Corrections and DCS shall consult and coordinate with agencies,
+144 departments, organizations, courts, and any entity which interacts with individuals who are
+145 incarcerated, on parole, or on probation to establish forensic peer mentor programs led by
+146 certified peer specialists, including, but not limited to, individuals in probation programs,
+147 accountability courts, day reporting centers, recovery housing or residences, and other
+148 mental health or drug diversion programs."
+149 SECTION 4.
+150 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 371
+- 7 -
+
+[DELETED: 5L  E a s p f t t o p a t a c p s a w a r a c a]
+[DELETED: 5L r  C p s p h p r t f c p s d r b t]
+[DELETED: 5L  ' m t D o B H a D c t t s h r s c t f s u d o a u d h s  O t d s c i w c t a t]
+[DELETED: 5L a i d a s t a t i c s f i p w s u d t s a ]
+[DELETED: 5L  T e o s p s p i r c j  T p o s p s p a t e a o e o c t h a t t g s a t]
+[DELETED: 5L  T d s a a p r a r n o]
+[DELETED: 5L]

@@ -1,0 +1,100 @@
+Title: House Bill 220
+Official Title: House Bill 220
+Number of Sections: 1
+Source: versions - LC 52 0706/a
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0706
+By: Representatives Momtahan of the 17th, Carpenter of the 4th, Gunter of the 8th, and New
+of the 40th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 33 of the Official Code of Georgia Annotated, relating to kinds
+2 of insurance, limits of risks, and reinsurance, so as to provide for an insurer under a liability
+3 insurance policy to pay a third party and the senior lienholder under certain circumstances;
+4 to provide for an effective date and applicability; to provide for related matters; to repeal
+5 conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 7 of Title 33 of the Official Code of Georgia Annotated, relating to kinds of
+9 insurance, limits of risks, and reinsurance, is amended in Code Section 33-7-11.1, relating
+10 to commencement of liability of insurer to pay benefits to third party on behalf of insured and
+11 applicability of the Code section, by revising subsections (c) and (d) as follows:
+12 "(c) When making any payment to a third party for damage to an automobile for any loss,
+13 the insurer shall pay the third party and the senior lienholder of record, if any, as their
+14 interests may appear on the records of ownership and shall have printed on the loss
+15 estimate, if prepared directly by the insurer, the following:
+H. B. 220
+- 1 -
+25 LC 52 0706
+16 'Failure to use the insurance proceeds in accordance with a security agreement between
+17 you and a lienholder, if any, may be a violation of Code Section 16-8-4 of the O.C.G.A.
+18 If you have any questions, contact your lending institution.'
+19 This subsection does not apply if the insurer does not prepare the loss estimate or if the
+20 estimate is not prepared in the State of Georgia.
+21 (d) The provisions of this Code section shall be applicable to all automobile liability or
+22 motor vehicle liability insurance policies that pay benefits to a third party on behalf of an
+23 insured for the loss of use and towing and storage costs of such motor vehicle issued,
+24 delivered, or renewed in this state on or after January 1, 2009."
+25 SECTION 2.
+26 This Act shall become effective on July 1, 2025, and shall apply to all liability insurance
+27 policies issued, delivered, issued for delivery, or renewed in this state on or after such date.
+28 SECTION 3.
+29 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 220
+- 2 -
+[DELETED: 5L7,4,8,htht0 7 o T 3 o t O C o G A r t k o t r]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0706
+House Bill 220
+By: Representatives Momtahan of the 17th, Carpenter of the 4th, Gunter of the 8th, and New
+of the 40th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 33 of the Official Code of Georgia Annotated, relating to kinds
+2 of insurance, limits of risks, and reinsurance, so as to provide for an insurer under a liability
+3 insurance policy to pay a third party and the senior lienholder under certain circumstances;
+4 to provide for an effective date and applicability; to provide for related matters; to repeal
+5 conflicting laws; and for other purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 7 of Title 33 of the Official Code of Georgia Annotated, relating to kinds of
+9 insurance, limits of risks, and reinsurance, is amended in Code Section 33-7-11.1, relating
+10 to commencement of liability of insurer to pay benefits to third party on behalf of insured and
+11 applicability of the Code section, by revising subsections (c) and (d) as follows:
+12 "(c) When making any payment to a third party for damage to an automobile for any loss,
+13 the insurer shall pay the third party and the senior lienholder of record, if any, as their
+14 interests may appear on the records of ownership and shall have printed on the loss
+15 estimate, if prepared directly by the insurer, the following:
+H. B. 220
+- 1 -
+
+25 LC 52 0706
+16 'Failure to use the insurance proceeds in accordance with a security agreement between
+17 you and a lienholder, if any, may be a violation of Code Section 16-8-4 of the O.C.G.A.
+18 If you have any questions, contact your lending institution.'
+19 This subsection does not apply if the insurer does not prepare the loss estimate or if the
+20 estimate is not prepared in the State of Georgia.
+21 (d) The provisions of this Code section shall be applicable to all automobile liability or
+22 motor vehicle liability insurance policies that pay benefits to a third party on behalf of an
+23 insured for the loss of use and towing and storage costs of such motor vehicle issued,
+24 delivered, or renewed in this state on or after January 1, 2009."
+25 SECTION 2.
+26 This Act shall become effective on July 1, 2025, and shall apply to all liability insurance
+27 policies issued, delivered, issued for delivery, or renewed in this state on or after such date.
+28 SECTION 3.
+29 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 220
+- 2 -
+
+[DELETED: 5L7,4,8,htht0 7 o T 3 o t O C o G A r t k o t r]
+[DELETED: 5L]

@@ -1,0 +1,919 @@
+Title: House Bill 115 (COMMITTEE SUBSTITUTE)
+Official Title: House Bill 115 (COMMITTEE SUBSTITUTE)
+Number of Sections: 1
+Source: versions - LC 39 4617S/hss
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4617S
+By: Representatives Petrea of the 166th, Stephens of the 164th, Franklin of the 160th,
+Townsend of the 179th, DeLoach of the 167th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 52 of the Official Code of Georgia Annotated, relating to
+2 registration, operation, and sale of watercraft, so as to provide for certain notice upon
+3 registration of a vessel with the Department of Natural Resources; to provide for
+4 performance of unattended vessel checks; to revise procedures for notice to owners of
+5 abandoned vessels; to revise procedures for removal of abandoned vessels; to provide for
+6 penalties for failure to remove an abandoned vessel from public waters or public property;
+7 to establish a criminal violation for failure to retrieve an abandoned vessel from public waters
+8 or public property after receipt of notice; to provide for an exception; to authorize restitution
+9 to the Department of Natural Resources for the cost of removal, storage, and disposal of
+10 abandoned vessels; to provide for definitions; to provide for related matters; to repeal
+11 conflicting laws; and for other purposes.
+12 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+13 SECTION 1.
+14 Chapter 7 of Title 52 of the Official Code of Georgia Annotated, relating to registration,
+15 operation, and sale of watercraft, is amended in Code Section 52-7-5, relating to numbering
+16 of vessels, requirements, and fees, by adding a new subsection to read as follows:
+H. B. 115 (SUB)
+- 1 -
+25 LC 39 4617S
+17 "(d.1) The application for registration of vessels pursuant to this Code section shall include
+18 a statement informing the applicant of the criminal consequences for failure to remove an
+19 abandoned vessel from public waters of this state or public property pursuant to
+20 subsection (d) of Code Section 52-7-72.1."
+21 SECTION 2.
+22 Said chapter is further amended in Code Section 52-7-70, relating to definitions relative to
+23 abandoned vessels, by adding a new paragraph to read as follows:
+24 "(2.1) 'Public waters' means any waters within the territorial limits of this state and the
+25 marginal sea adjacent to this state and the high seas when navigated as a part of a journey
+26 or ride to or from the shore of this state. Such term shall not include privately owned
+27 ponds or lakes not open to the public."
+28 SECTION 3.
+29 Said chapter is further amended by adding a new Code section to read as follows:
+30 "52-7-70.1.
+31 (a) Any law enforcement officer or individual authorized by the Department of Natural
+32 Resources who discovers a vessel on public property or in public waters that has been left
+33 unattended shall immediately perform an unattended vessel check on such vessel, unless
+34 an unattended vessel check card is displayed on such vessel indicating that such check has
+35 been previously performed. For purposes of this Code section, the term 'unattended vessel
+36 check' means and consists of such actions as are reasonably necessary to determine that the
+37 unattended vessel does not contain an injured or incapacitated person and to determine that
+38 the unattended vessel does not pose a threat to public health or safety.
+39 (b) Any law enforcement officer or individual authorized by the Department of Natural
+40 Resources who completes an unattended vessel check shall attach the completed
+41 unattended vessel check card to the vessel. Unattended vessel check cards shall be in such
+H. B. 115 (SUB)
+- 2 -
+25 LC 39 4617S
+42 form and shall be attached to vessels in such manner as determined by the Department of
+43 Natural Resources.
+44 (c) It shall be unlawful for any person other than a law enforcement officer or individual
+45 authorized by the Department of Natural Resources to attach any object purporting to be
+46 an unattended vessel check card to a vessel. Any person convicted of violating this
+47 subsection shall be guilty of a misdemeanor.
+48 (d) Within 24 hours of completing an unattended vessel check or discovering an
+49 unattended vessel which displays an unattended vessel check card issued by a law
+50 enforcement officer or individual authorized by the Department of Natural Resources, a
+51 law enforcement officer shall query the criminal justice information system to determine
+52 if the unattended vessel has been entered into such system as a stolen vessel. If the
+53 unattended vessel has been reported as stolen, the law enforcement officer shall notify the
+54 Department of Natural Resources and the law enforcement agency that filed such report,
+55 providing the location of the vessel. The law enforcement agency receiving such
+56 notification shall then notify the owner of the vessel of the location of the vessel.
+57 (e) Failure of a law enforcement officer or the Department of Natural Resources to comply
+58 with any provision of this Code section shall not limit the remedies available to any person
+59 pursuant to this article."
+60 SECTION 4.
+61 Said chapter is further amended by revising Code Section 52-7-71, relating to removal and
+62 storage of vessels and procedure, as follows:
+63 "52-7-71.
+64 (a) Any person who that removes a vessel from public property or public water at the
+65 request of a law enforcement officer or stores such vessel shall, if the owner of the vessel
+66 is unknown, seek the identity of and address of the last known registered owner of such
+67 vessel from the law enforcement officer requesting removal of such vessel or such officer's
+H. B. 115 (SUB)
+- 3 -
+25 LC 39 4617S
+68 agency Department of Natural Resources within 72 hours of removal. If a person removing
+69 or storing the vessel has knowledge of facts which reasonably indicate that the vessel is
+70 registered or titled in a certain other state, such person shall check the vessel records of that
+71 other state in the attempt to ascertain the identity of the owner of the vessel.
+72 (b)(1) Any person who that removes a vessel from private property or private waters at
+73 the request of the property owner or stores such vessel shall, if the owner of the vessel is
+74 unknown, notify in writing a local law enforcement agency of the location of the vessel,
+75 the vessel certificate of number, and the hull identification number, model, year, and
+76 make of the vessel, if known or if readily ascertainable, within 72 hours of the removal
+77 of such vessel and shall seek from the local law enforcement agency seek the identity of
+78 and address of the last known registered owner of such vessel and any information
+79 indicating that such vessel is a stolen vessel from the Department of Natural Resources
+80 within 72 hours of removal. If a person removing or storing the vessel has knowledge
+81 of facts which reasonably indicate that the vessel is registered or titled in a certain other
+82 state, such person shall check the vessel records of that other state in the attempt to
+83 ascertain the identity of the owner of the vessel.
+84 (2) Any person that removes a vessel pursuant to this subsection shall submit notification
+85 of the removal by hand delivery, electronic transmission, or telephonic facsimile
+86 transmission to the law enforcement agency with jurisdiction over the location from
+87 where the vessel was removed no later than one day after submission of the request
+88 required by paragraph (1) of this subsection. Within 24 hours of receipt of such
+89 notification of removal of a vessel from private property, the local law enforcement
+90 agency shall query the criminal justice information system to determine if such vessel has
+91 been entered into the criminal justice information system as a stolen vessel. If the vessel
+92 has been reported as stolen, the local law enforcement agency shall notify the law
+93 enforcement agency that filed such report, providing the name and address of the person
+94 who submitted the notice of removal. The law enforcement agency receiving such
+H. B. 115 (SUB)
+- 4 -
+25 LC 39 4617S
+95 notification shall then notify the person who filed the police report for the stolen vessel
+96 of the location of such vessel and the contact information for the person that removed the
+97 vessel.
+98 (c) The Department of Natural Resources may charge a fee of no more than $2.00 for any
+99 information requested pursuant to this Code section. Such department shall furnish the
+100 requested owner information no later than five days from the date the request was received
+101 or when the information is made available. If any vessel removed under conditions set
+102 forth in subsection (a) or (b) of this Code section is determined to be a stolen vessel, the
+103 local law enforcement officer or agency shall notify the Georgia Crime Information Center
+104 and the owner, if known, of the location of such vessel within 72 hours after receiving
+105 notice that such vessel is a stolen vessel.
+106 (d) If any vessel removed under conditions set forth in subsection (a) or (b) of this Code
+107 section is determined not to be a stolen vessel or is not a vessel being repaired by a repair
+108 facility or is not being stored by an insurance company providing insurance to cover
+109 damages to the vessel, the person removing or storing such vessel shall, within seven
+110 calendar days of the day such vessel was removed, notify the owner, if known, by:
+111 (1) By certified or registered mail or statutory overnight delivery within seven calendar
+112 days of removal, notify the owner of the location of such vessel, the fees connected with
+113 removal and storage of such vessel, and the fact that such vessel will be deemed
+114 abandoned under this article unless the owner redeems such vessel within 30 days of the
+115 date such vessel was removed of its removal, the fact that the person removing or storing
+116 the vessel has the right to petition the court to foreclose a lien for all amounts owed, and
+117 the fact that a court may order the sale of the vessel to satisfy such debt; or
+118 (2) By advertisement in a newspaper of general circulation in the county from where the
+119 vessel was removed or, if there is no newspaper in such county, at the county courthouse
+120 in such place where other public notices are posted, when an owner cannot be
+121 ascertained. Such advertisement shall run in the newspaper once a week for two
+H. B. 115 (SUB)
+- 5 -
+25 LC 39 4617S
+122 consecutive weeks or shall remain posted at the courthouse for two consecutive weeks.
+123 The advertisement shall contain a complete description of the vessel, its certificate of
+124 number and hull identification number, the location from where such vessel was initially
+125 removed, the present location of such vessel, the fact that if such vessel is not redeemed
+126 within 30 days of its removal such vessel shall be deemed abandoned, the fact that the
+127 person removing or storing the vessel has the right to petition the court to foreclose a lien
+128 for all amounts owed, and the fact that a court may order the sale of the vessel to satisfy
+129 such debt.
+130 (e) If the person identified as the an owner fails to redeem such vessel as described in
+131 subsection (d) of this Code section, or if a vessel being repaired by a repair facility or being
+132 stored by an insurance company providing insurance to cover damages to the vessel
+133 becomes abandoned, the person removing or storing such vessel shall, within seven
+134 calendar days of the day such vessel became an abandoned vessel, give notice in writing,
+135 by sworn statement, to the Department of Natural Resources stating the vessel certificate
+136 of number, the hull identification number, the fact that such vessel is an abandoned vessel,
+137 the model, year, and make of the vessel, if known or if readily ascertainable, the date the
+138 vessel became an abandoned vessel, the date the vessel was removed, and the present
+139 location of such vessel and requesting the name and address of all owners, lessors, lessees,
+140 security interest holders, and lienholders of such vessel. If a person removing or storing
+141 the vessel has knowledge of facts which reasonably indicate that the vessel is registered or
+142 titled in a certain other state, such person shall check the vessel records of that other state
+143 in the attempt to ascertain the identity of the owner of the vessel.
+144 (e.1)(f)(1)(A) Upon notice to the Department of Natural Resources as described in
+145 subsection (e) of this Code section, then the commissioner may revoke, suspend, deny,
+146 or refuse to renew any vessel certificate of number or commercial fishing boat license
+147 required by this title or Title 27 which is held by or has been applied for by the person
+148 owner who holds the current registration for such vessel, until all fees connected with
+H. B. 115 (SUB)
+- 6 -
+25 LC 39 4617S
+149 removal and storage of the vessel have been paid and any lien acquired under Code
+150 Section 52-7-73 for such fees has been satisfied. Such owner The person shall be
+151 notified of the proposed order for revocation, suspension, denial, or nonrenewal
+152 personally or by a letter sent by certified mail or statutory overnight delivery to the
+153 name and address indicated on the application for the certificate of number or license,
+154 or both. The proposed order for revocation, suspension, denial, or nonrenewal shall
+155 become final 30 days after issuance if not appealed as provided in this paragraph.
+156 (B) Any person whose vessel certificate of number or commercial fishing boat license
+157 is proposed for revocation, suspension, denial, or nonrenewal under this paragraph shall
+158 have the right to enter an appeal in the superior court of the county of his or her
+159 residence or in the Superior Court of Fulton County. Such appeal shall name the
+160 commissioner as defendant and must shall be filed within 30 days from the date the
+161 notice of the proposed order was sent. The person filing the appeal shall neither be
+162 required to post any bond nor to pay the costs in advance. If the person so desires, the
+163 appeal may be heard by the judge at term or in chambers or by a jury at the first term.
+164 The hearing on the appeal shall be de novo, but no appeal shall act as a supersedeas of
+165 any orders or acts of the department.
+166 (2)(A) Upon notice to the Department of Natural Resources as described in
+167 subsection (e) of this Code section and delivery of a copy of such notice to the state
+168 revenue commissioner, then the state revenue commissioner may revoke, suspend,
+169 deny, or refuse to renew any motor vehicle registration required by Title 40 which is
+170 held by or has been applied for by the person owner who holds the current registration
+171 for such vessel, until all fees connected with removal and storage of the vessel have
+172 been paid and any lien acquired under Code Section 52-7-73 for such fees has been
+173 satisfied. Such owner The person shall be notified of the proposed order for revocation,
+174 suspension, denial, or nonrenewal personally or by a letter sent by certified mail or
+175 statutory overnight delivery to the name and address indicated on the application for the
+H. B. 115 (SUB)
+- 7 -
+25 LC 39 4617S
+176 registration. The proposed order for revocation, suspension, denial, or nonrenewal shall
+177 become final 30 days after issuance if not appealed as provided in this paragraph.
+178 (B) Any person whose motor vehicle registration is proposed for revocation,
+179 suspension, denial, or nonrenewal under this paragraph shall have the right to enter an
+180 appeal in the superior court of the county of his or her residence or in the Superior
+181 Court of Fulton County. Such appeal shall name the state revenue commissioner as
+182 defendant and must shall be filed within 30 days from the date the notice of the
+183 proposed order was sent. The person filing the appeal shall neither be required to post
+184 any bond nor to pay the costs in advance. If the person so desires, the appeal may be
+185 heard by the judge at term or in chambers or by a jury at the first term. The hearing on
+186 the appeal shall be de novo, but no appeal shall act as a supersedeas of any orders or
+187 acts of the department.
+188 (f) Upon ascertaining the owner of such vessel, the person removing or storing such vessel
+189 shall, within five calendar days, by certified or registered mail or statutory overnight
+190 delivery, notify the owner, lessors, lessees, security interest holders, and lienholders of the
+191 vessel of the location of such vessel and of the fact that such vessel is deemed abandoned
+192 and shall be disposed of if not redeemed.
+193 (g) If the identity of the owner of such vessel cannot be ascertained, the person removing
+194 or storing such vessel shall place an advertisement in a newspaper of general circulation
+195 in the county where such vessel was obtained or, if there is no newspaper in such county,
+196 shall post such advertisement at the county courthouse in such place where other public
+197 notices are posted. Such advertisement shall run in the newspaper once a week for two
+198 consecutive weeks or shall remain posted at the courthouse for two consecutive weeks.
+199 The advertisement shall contain a complete description of the vessel, its certificate of
+200 number and hull identification number, the location from where such vessel was initially
+201 removed, the present location of such vessel, and the fact that such vessel is deemed
+202 abandoned and shall be disposed of if not redeemed.
+H. B. 115 (SUB)
+- 8 -
+25 LC 39 4617S
+203 (h) Reserved.
+204 (i)(g) Any person storing a vessel under the provisions of this Code section shall notify the
+205 Department of Natural Resources if the vessel is recovered, is claimed by the owner, is
+206 determined to be stolen, or is for any reason no longer an abandoned vessel. Such notice
+207 shall be provided within seven calendar days of such event.
+208 (j)(h) If vessel information on the abandoned vessel is not in the files of the Department
+209 of Natural Resources, the department may require such other information or confirmation
+210 as it determines is necessary or appropriate to determine the identity of the vessel.
+211 (k)(i) Any person who does not provide the notice and information required by this Code
+212 section shall not be entitled to any storage fees.
+213 (l)(j) Any person who knowingly provides false or misleading information when providing
+214 any notice or information as required by this Code section shall be guilty of a misdemeanor
+215 and, upon conviction thereof, shall be punished as for a misdemeanor."
+216 SECTION 5.
+217 Said chapter is further amended by revising Code Section 52-7-72, relating to authority of
+218 peace officer to cause removal of unattended vessels, notifications, and duties, as follows:
+219 "52-7-72.
+220 (a) Any peace law enforcement officer who finds a vessel which has been left unattended
+221 in or upon any public waters or other public property for a period of at least five days, if
+222 such peace officer reasonably believes that the person who left such vessel unattended does
+223 not intend to return and remove such vessel, shall notify the Department of Natural
+224 Resources of such finding in accordance with subsection (d) of this Code section and as
+225 evidenced by the date of issuance on the unattended vessel check card attached to such
+226 vessel pursuant to Code Section 52-7-70.1, may cause such vessel to be removed to a
+227 garage or other place of safety.
+H. B. 115 (SUB)
+- 9 -
+25 LC 39 4617S
+228 (b)(1) Any peace law enforcement officer who finds a vessel which has been left
+229 unattended in or upon any public waters or other public property, when such vessel poses
+230 a threat to public health or safety, shall notify the Department of Natural Resources of
+231 such finding in accordance with subsection (d) of this Code section and may immediately
+232 cause such vessel to be removed to a garage or other place of safety.
+233 (2) Within 24 hours of causing an unattended vessel to be removed pursuant to
+234 paragraph (1) of this subsection, the law enforcement officer causing such removal shall
+235 query the criminal justice information system to determine if the unattended vessel has
+236 been entered into the criminal justice information system as a stolen vessel. If the
+237 removed vessel has been reported as stolen, the law enforcement officer shall notify the
+238 law enforcement agency that filed such report, providing the location of the vessel or the
+239 name of the person that removed the vessel. The law enforcement agency receiving such
+240 notification shall then notify the person who filed the police report for the stolen vessel
+241 of the location of the vessel.
+242 (c) Any peace law enforcement officer who, under the provisions of this Code section,
+243 causes any vessel to be removed to a garage or other place of safety shall be liable for gross
+244 negligence only.
+245 (d)(1) Any peace law enforcement officer who finds a vessel under such conditions as
+246 described in subsection (a) or (b) of this Code section shall within 72 hours from the time
+247 of such finding:
+248 (A) Notify notify the Department of Natural Resources of the description of the vessel,
+249 whether the vessel has been removed or not, and, if removed, the location to which such
+250 vessel has been removed; and.
+251 (B) If available on the Georgia Crime Information Center Network, determine the
+252 name and address of the last known registered owner of such vessel. If vessel
+253 information is not in the files of the Department of Natural Resources, the department
+H. B. 115 (SUB)
+- 10 -
+25 LC 39 4617S
+254 may require such other information or confirmation as it determines is necessary or
+255 appropriate to determine the identity of the vessel.
+256 (2) If any such vessel is determined to be a stolen vessel, the local law enforcement
+257 officer or agency shall notify the Georgia Crime Information Center and the owner, if
+258 known, of the location of such vessel within 72 hours after receiving notice that such
+259 vessel is a stolen vessel.
+260 (3) If the vessel is removed and the name and address of the last known registered owner
+261 of the vessel is obtained from the Georgia Crime Information Center, the peace officer
+262 who causes the vessel to be removed shall, within three calendar days of removal, make
+263 available to the person removing such vessel the name and address of the last known
+264 registered owner of such vessel. If such information is not available, the peace officer
+265 shall, within three calendar days of removal, notify the person removing or storing such
+266 vessel of such fact."
+267 SECTION 6.
+268 Said chapter is further amended by revising Code Section 52-7-72.1, relating to penalty for
+269 failing to remove unattended vessel, as follows:
+270 "52-7-72.1.
+271 (a)(1) If any vessel for which the Department of Natural Resources and the Georgia
+272 Crime Information Center have has received notice pursuant to subsection (d) of Code
+273 Section 52-7-72 has not been removed and is determined not to be a stolen vessel, the
+274 commissioner may proceed to take action against the owner as provided by provisions
+275 of this Code section shall apply.
+276 (2) If any vessel for which the Department of Natural Resources and the Georgia Crime
+277 Information Center have has received notice pursuant to subsection (d) of Code
+278 Section 52-7-72 has been removed, the provisions of this Code section shall not apply
+279 and the provisions of Code Section 52-7-71 shall apply instead.
+H. B. 115 (SUB)
+- 11 -
+25 LC 39 4617S
+280 (b)(1) Within seven calendar days of receipt of the notice required pursuant to
+281 subsection (d) of Code Section 52-7-72 that a vessel has not been removed and has been
+282 determined not be a stolen vessel, the Department of Natural Resources shall, by certified
+283 or registered mail or statutory overnight delivery, notify the owner of the location of such
+284 vessel and that if such vessel is not removed within 30 days the vessel will be deemed
+285 abandoned under this article and:
+286 (A) Shall be subject to a lien for actual or projected costs for the removal, storage, and
+287 sale of such vessel;
+288 (B) Failure to remove the vessel may result in the revocation, suspension, denial, or
+289 refusal to renew a motor vehicle registration, vessel certificate of number, or
+290 commercial fishing boat license of a vessel owner that has registered such vessel with
+291 the Department of Natural Resources;
+292 (C) That the owner shall be liable to the department for damages for the removal,
+293 storage, and disposal of the vessel; and
+294 (D) Failure to remove the vessel may result in the criminal prosecution of a vessel
+295 owner that has registered such vessel with the Department of Natural Resources.
+296 (2) The requirement for removal of a vessel within 30 days pursuant to this subsection
+297 shall be inapplicable within 36 months of a declaration by the Governor of a state of
+298 emergency due to a natural disaster affecting the location of the vessel.
+299 (b)(c)(1)(A) The commissioner of the Department of Natural Resources shall be
+300 authorized to Upon notice to the Department of Natural Resources as described in
+301 subsection (d) of Code Section 52-7-72, then the commissioner may revoke, suspend,
+302 deny, or refuse to renew any vessel certificate of number or commercial fishing boat
+303 license required by this title or Title 27 which is held by or has been applied for by a
+304 person who owns the vessel, until the owner a vessel owner that has registered such
+305 vessel with the Department of Natural Resources which has become abandoned that has
+306 been notified in accordance with subsection (b) of this Code section, until such person
+H. B. 115 (SUB)
+- 12 -
+25 LC 39 4617S
+307 restores and resumes operation of the vessel or removes it from public waters or public
+308 property. The person shall be notified of the proposed order for revocation, suspension,
+309 denial, or nonrenewal personally or by a letter sent by certified mail or statutory
+310 overnight delivery to the name and address indicated on the application for the
+311 certificate of number or license, or both. The proposed order for revocation,
+312 suspension, denial, or nonrenewal shall become final 30 days after issuance if not
+313 appealed as provided in this paragraph.
+314 (B) Any person whose vessel certificate of number or commercial fishing boat license
+315 is proposed for revocation, suspension, denial, or nonrenewal under this paragraph shall
+316 have the right to enter an appeal in the superior court of the county of his or her
+317 residence or in the Superior Court of Fulton County. Such appeal shall name the
+318 commissioner as defendant and must shall be filed within 30 days from the date the
+319 notice of the proposed order was sent. The person filing the appeal shall neither be
+320 required to post any bond nor to pay the costs in advance. If the person so desires, the
+321 appeal may be heard by the judge at term or in chambers or by a jury at the first term.
+322 The hearing on the appeal shall be de novo, but no appeal shall act as a supersedeas of
+323 any orders or acts of the department.
+324 (2)(A) Upon notice to the Department of Natural Resources as described in
+325 subsection (d) of Code Section 52-7-72 and delivery of a copy of such notice to the
+326 state revenue commissioner, then the The state revenue commissioner may shall be
+327 authorized to revoke, suspend, deny, or refuse to renew any motor vehicle registration
+328 required by Title 40 which is held by or has been applied for by a person who owns the
+329 vessel, until the owner a vessel owner that has registered such vessel with the
+330 Department of Natural Resources which has become abandoned that has been notified
+331 in accordance with subsection (b) of this Code section, until such person restores and
+332 resumes operation of the vessel or removes it from public waters or public property.
+333 The person shall be notified of the proposed order for revocation, suspension, denial,
+H. B. 115 (SUB)
+- 13 -
+25 LC 39 4617S
+334 or nonrenewal personally or by a letter sent by certified mail or statutory overnight
+335 delivery to the name and address indicated on the application for the registration. The
+336 proposed order for revocation, suspension, denial, or nonrenewal shall become final 30
+337 days after issuance if not appealed as provided in this paragraph.
+338 (B) Any person whose motor vehicle registration is proposed for revocation,
+339 suspension, denial, or nonrenewal under this paragraph shall have the right to enter an
+340 appeal in the superior court of the county of his or her residence or in the Superior
+341 Court of Fulton County. Such appeal shall name the state revenue commissioner as
+342 defendant and must shall be filed within 30 days from the date the notice of the
+343 proposed order was sent. The person filing the appeal shall neither be required to post
+344 any bond nor to pay the costs in advance. If the person so desires, the appeal may be
+345 heard by the judge at term or in chambers or by a jury at the first term. The hearing on
+346 the appeal shall be de novo, but no appeal shall act as a supersedeas of any orders or
+347 acts of the department.
+348 (d) Any vessel owner that has registered such vessel with the Department of Natural
+349 Resources that fails to remove such vessel from public waters or public property within 30
+350 days receipt of the notice issued pursuant to subsection (b) of this Code section shall be
+351 guilty of a misdemeanor of a high and aggravated nature and, upon conviction thereof,
+352 shall be punished by a fine not to exceed $5,000.00 or by confinement for a term not to
+353 exceed 12 months, or both; provided, however, that the requirement for removal of a vessel
+354 within 30 days pursuant to this subsection shall be inapplicable within 36 months of a
+355 declaration by the Governor of a state of emergency due to a natural disaster affecting the
+356 location of the vessel. Upon a second or subsequent offense for failure to remove an
+357 abandoned vessel from public waters or public property, a vessel owner that has registered
+358 such vessel with the Department of Natural Resources shall be guilty of a felony and, upon
+359 conviction thereof, shall be punished by a fine not to exceed $50,000.00 or by
+360 imprisonment for a term not to exceed five years, or both. In addition to any other penalty
+H. B. 115 (SUB)
+- 14 -
+25 LC 39 4617S
+361 authorized by law for failure to remove an abandoned vessel from public waters or public
+362 property, the court may order a person convicted pursuant to this subsection to make
+363 restitution to Department of Natural Resources for the reasonable costs or damages
+364 associated with failure to remove the vessel, including the cost of removal, storage, and
+365 disposal of such vessel. Restitution made pursuant to this subsection shall not preclude the
+366 Department of Natural Resources from obtaining any other civil or criminal remedy
+367 available under any other provision of law. The restitution authorized by this Code section
+368 shall be supplemental and not exclusive."
+369 SECTION 7.
+370 Said chapter is further amended in Code Section 52-7-74, relating to procedure for
+371 foreclosure, by revising paragraph (2) as follows:
+372 "(2) The person desiring to foreclose a lien on an abandoned vessel shall, by certified or
+373 registered mail or statutory overnight delivery, make a demand upon the owner for the
+374 payment of the reasonable fees for removal and storage plus the costs of any
+375 advertisement. Such written demand shall include an itemized statement of all charges.
+376 No such written demand shall be required if the identity of the owner cannot be
+377 ascertained and the notice requirements of paragraph (2) of subsection (g) (d) of Code
+378 Section 52-7-71 have been complied with;"
+379 SECTION 8.
+380 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 115 (SUB)
+- 15 -
+[DELETED: 5L R P o t 16, S o t 14, F o t 10htht9,7,ht o a v w t D o N R t p f v t p f d t p f r m t r]
+[DELETED: 5L v f p w o t s o p p p t w c a u v c s a t c]
+[DELETED: 5L  W 2 h o c a u v c o d a v w d a u v c c i b a l t l o t v  T l e a r s]
+[DELETED: 5L t r b h d e t o t f b p ( o t s  W 2 h o r o s b r a s t l l e a s n t l]
+[DELETED: 5L a s o s v a t f t s v w b d s p w o p n a p w a o c b  S a s r i t n o a w f t]
+[DELETED: 5L c a t p r o s s v s w s]
+[DELETED: 5L o t p o f r s d o n  U n t t D o N R a d i]
+[DELETED: 5L  A p w m v r i p f r f]
+[DELETED: 5L i t r a r s v s n t D o N]
+[DELETED: 5L a v  W 2 h o c a u v t b r p t a a o t l k r o o s v  I v]
+[DELETED: 5L C h h r n p t s ( o C]
+[DELETED: 5L  W s c d o r o t n r p t t r a m v r v c o n o o]
+[DELETED: 5L d t t n a a i o t a f t o n o l o b  T p o f r  U n t t D o N R a d i u t o a v o t h r s v w t]
+[DELETED: 5L  A p w m v r i p f r t d t s b p b a f n t e $ o b]
+[DELETED: 5L t D o N R f t r c o d o N R f o a o c o c r c i f a i C S 5 r t p f o t r f f r a s p t c o a s w d s b r i t i o t o c b]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4617S
+House Bill 115 (COMMITTEE SUBSTITUTE)
+By: Representatives Petrea of the 166th, Stephens of the 164th, Franklin of the 160th,
+Townsend of the 179th, DeLoach of the 167th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 52 of the Official Code of Georgia Annotated, relating to
+2 registration, operation, and sale of watercraft, so as to provide for certain notice upon
+3 registration of a vessel with the Department of Natural Resources; to provide for
+4 performance of unattended vessel checks; to revise procedures for notice to owners of
+5 abandoned vessels; to revise procedures for removal of abandoned vessels; to provide for
+6 penalties for failure to remove an abandoned vessel from public waters or public property;
+7 to establish a criminal violation for failure to retrieve an abandoned vessel from public waters
+8 or public property after receipt of notice; to provide for an exception; to authorize restitution
+9 to the Department of Natural Resources for the cost of removal, storage, and disposal of
+10 abandoned vessels; to provide for definitions; to provide for related matters; to repeal
+11 conflicting laws; and for other purposes.
+12 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+13 SECTION 1.
+14 Chapter 7 of Title 52 of the Official Code of Georgia Annotated, relating to registration,
+15 operation, and sale of watercraft, is amended in Code Section 52-7-5, relating to numbering
+16 of vessels, requirements, and fees, by adding a new subsection to read as follows:
+H. B. 115 (SUB)
+- 1 -
+
+25 LC 39 4617S
+17 "(d.1) The application for registration of vessels pursuant to this Code section shall include
+18 a statement informing the applicant of the criminal consequences for failure to remove an
+19 abandoned vessel from public waters of this state or public property pursuant to
+20 subsection (d) of Code Section 52-7-72.1."
+21 SECTION 2.
+22 Said chapter is further amended in Code Section 52-7-70, relating to definitions relative to
+23 abandoned vessels, by adding a new paragraph to read as follows:
+24 "(2.1) 'Public waters' means any waters within the territorial limits of this state and the
+25 marginal sea adjacent to this state and the high seas when navigated as a part of a journey
+26 or ride to or from the shore of this state. Such term shall not include privately owned
+27 ponds or lakes not open to the public."
+28 SECTION 3.
+29 Said chapter is further amended by adding a new Code section to read as follows:
+30 "52-7-70.1.
+31 (a) Any law enforcement officer or individual authorized by the Department of Natural
+32 Resources who discovers a vessel on public property or in public waters that has been left
+33 unattended shall immediately perform an unattended vessel check on such vessel, unless
+34 an unattended vessel check card is displayed on such vessel indicating that such check has
+35 been previously performed. For purposes of this Code section, the term 'unattended vessel
+36 check' means and consists of such actions as are reasonably necessary to determine that the
+37 unattended vessel does not contain an injured or incapacitated person and to determine that
+38 the unattended vessel does not pose a threat to public health or safety.
+39 (b) Any law enforcement officer or individual authorized by the Department of Natural
+40 Resources who completes an unattended vessel check shall attach the completed
+41 unattended vessel check card to the vessel. Unattended vessel check cards shall be in such
+H. B. 115 (SUB)
+- 2 -
+
+25 LC 39 4617S
+42 form and shall be attached to vessels in such manner as determined by the Department of
+43 Natural Resources.
+44 (c) It shall be unlawful for any person other than a law enforcement officer or individual
+45 authorized by the Department of Natural Resources to attach any object purporting to be
+46 an unattended vessel check card to a vessel. Any person convicted of violating this
+47 subsection shall be guilty of a misdemeanor.
+48 (d) Within 24 hours of completing an unattended vessel check or discovering an
+49 unattended vessel which displays an unattended vessel check card issued by a law
+50 enforcement officer or individual authorized by the Department of Natural Resources, a
+51 law enforcement officer shall query the criminal justice information system to determine
+52 if the unattended vessel has been entered into such system as a stolen vessel. If the
+53 unattended vessel has been reported as stolen, the law enforcement officer shall notify the
+54 Department of Natural Resources and the law enforcement agency that filed such report,
+55 providing the location of the vessel. The law enforcement agency receiving such
+56 notification shall then notify the owner of the vessel of the location of the vessel.
+57 (e) Failure of a law enforcement officer or the Department of Natural Resources to comply
+58 with any provision of this Code section shall not limit the remedies available to any person
+59 pursuant to this article."
+60 SECTION 4.
+61 Said chapter is further amended by revising Code Section 52-7-71, relating to removal and
+62 storage of vessels and procedure, as follows:
+63 "52-7-71.
+64 (a) Any person who that removes a vessel from public property or public water at the
+65 request of a law enforcement officer or stores such vessel shall, if the owner of the vessel
+66 is unknown, seek the identity of and address of the last known registered owner of such
+67 vessel from the law enforcement officer requesting removal of such vessel or such officer's
+H. B. 115 (SUB)
+- 3 -
+
+25 LC 39 4617S
+68 agency Department of Natural Resources within 72 hours of removal. If a person removing
+69 or storing the vessel has knowledge of facts which reasonably indicate that the vessel is
+70 registered or titled in a certain other state, such person shall check the vessel records of that
+71 other state in the attempt to ascertain the identity of the owner of the vessel.
+72 (b)(1) Any person who that removes a vessel from private property or private waters at
+73 the request of the property owner or stores such vessel shall, if the owner of the vessel is
+74 unknown, notify in writing a local law enforcement agency of the location of the vessel,
+75 the vessel certificate of number, and the hull identification number, model, year, and
+76 make of the vessel, if known or if readily ascertainable, within 72 hours of the removal
+77 of such vessel and shall seek from the local law enforcement agency seek the identity of
+78 and address of the last known registered owner of such vessel and any information
+79 indicating that such vessel is a stolen vessel from the Department of Natural Resources
+80 within 72 hours of removal. If a person removing or storing the vessel has knowledge
+81 of facts which reasonably indicate that the vessel is registered or titled in a certain other
+82 state, such person shall check the vessel records of that other state in the attempt to
+83 ascertain the identity of the owner of the vessel.
+84 (2) Any person that removes a vessel pursuant to this subsection shall submit notification
+85 of the removal by hand delivery, electronic transmission, or telephonic facsimile
+86 transmission to the law enforcement agency with jurisdiction over the location from
+87 where the vessel was removed no later than one day after submission of the request
+88 required by paragraph (1) of this subsection. Within 24 hours of receipt of such
+89 notification of removal of a vessel from private property, the local law enforcement
+90 agency shall query the criminal justice information system to determine if such vessel has
+91 been entered into the criminal justice information system as a stolen vessel. If the vessel
+92 has been reported as stolen, the local law enforcement agency shall notify the law
+93 enforcement agency that filed such report, providing the name and address of the person
+94 who submitted the notice of removal. The law enforcement agency receiving such
+H. B. 115 (SUB)
+- 4 -
+
+25 LC 39 4617S
+95 notification shall then notify the person who filed the police report for the stolen vessel
+96 of the location of such vessel and the contact information for the person that removed the
+97 vessel.
+98 (c) The Department of Natural Resources may charge a fee of no more than $2.00 for any
+99 information requested pursuant to this Code section. Such department shall furnish the
+100 requested owner information no later than five days from the date the request was received
+101 or when the information is made available. If any vessel removed under conditions set
+102 forth in subsection (a) or (b) of this Code section is determined to be a stolen vessel, the
+103 local law enforcement officer or agency shall notify the Georgia Crime Information Center
+104 and the owner, if known, of the location of such vessel within 72 hours after receiving
+105 notice that such vessel is a stolen vessel.
+106 (d) If any vessel removed under conditions set forth in subsection (a) or (b) of this Code
+107 section is determined not to be a stolen vessel or is not a vessel being repaired by a repair
+108 facility or is not being stored by an insurance company providing insurance to cover
+109 damages to the vessel, the person removing or storing such vessel shall, within seven
+110 calendar days of the day such vessel was removed, notify the owner, if known, by:
+111 (1) By certified or registered mail or statutory overnight delivery within seven calendar
+112 days of removal, notify the owner of the location of such vessel, the fees connected with
+113 removal and storage of such vessel, and the fact that such vessel will be deemed
+114 abandoned under this article unless the owner redeems such vessel within 30 days of the
+115 date such vessel was removed of its removal, the fact that the person removing or storing
+116 the vessel has the right to petition the court to foreclose a lien for all amounts owed, and
+117 the fact that a court may order the sale of the vessel to satisfy such debt; or
+118 (2) By advertisement in a newspaper of general circulation in the county from where the
+119 vessel was removed or, if there is no newspaper in such county, at the county courthouse
+120 in such place where other public notices are posted, when an owner cannot be
+121 ascertained. Such advertisement shall run in the newspaper once a week for two
+H. B. 115 (SUB)
+- 5 -
+
+25 LC 39 4617S
+122 consecutive weeks or shall remain posted at the courthouse for two consecutive weeks.
+123 The advertisement shall contain a complete description of the vessel, its certificate of
+124 number and hull identification number, the location from where such vessel was initially
+125 removed, the present location of such vessel, the fact that if such vessel is not redeemed
+126 within 30 days of its removal such vessel shall be deemed abandoned, the fact that the
+127 person removing or storing the vessel has the right to petition the court to foreclose a lien
+128 for all amounts owed, and the fact that a court may order the sale of the vessel to satisfy
+129 such debt.
+130 (e) If the person identified as the an owner fails to redeem such vessel as described in
+131 subsection (d) of this Code section, or if a vessel being repaired by a repair facility or being
+132 stored by an insurance company providing insurance to cover damages to the vessel
+133 becomes abandoned, the person removing or storing such vessel shall, within seven
+134 calendar days of the day such vessel became an abandoned vessel, give notice in writing,
+135 by sworn statement, to the Department of Natural Resources stating the vessel certificate
+136 of number, the hull identification number, the fact that such vessel is an abandoned vessel,
+137 the model, year, and make of the vessel, if known or if readily ascertainable, the date the
+138 vessel became an abandoned vessel, the date the vessel was removed, and the present
+139 location of such vessel and requesting the name and address of all owners, lessors, lessees,
+140 security interest holders, and lienholders of such vessel. If a person removing or storing
+141 the vessel has knowledge of facts which reasonably indicate that the vessel is registered or
+142 titled in a certain other state, such person shall check the vessel records of that other state
+143 in the attempt to ascertain the identity of the owner of the vessel.
+144 (e.1)(f)(1)(A) Upon notice to the Department of Natural Resources as described in
+145 subsection (e) of this Code section, then the commissioner may revoke, suspend, deny,
+146 or refuse to renew any vessel certificate of number or commercial fishing boat license
+147 required by this title or Title 27 which is held by or has been applied for by the person
+148 owner who holds the current registration for such vessel, until all fees connected with
+H. B. 115 (SUB)
+- 6 -
+
+25 LC 39 4617S
+149 removal and storage of the vessel have been paid and any lien acquired under Code
+150 Section 52-7-73 for such fees has been satisfied. Such owner The person shall be
+151 notified of the proposed order for revocation, suspension, denial, or nonrenewal
+152 personally or by a letter sent by certified mail or statutory overnight delivery to the
+153 name and address indicated on the application for the certificate of number or license,
+154 or both. The proposed order for revocation, suspension, denial, or nonrenewal shall
+155 become final 30 days after issuance if not appealed as provided in this paragraph.
+156 (B) Any person whose vessel certificate of number or commercial fishing boat license
+157 is proposed for revocation, suspension, denial, or nonrenewal under this paragraph shall
+158 have the right to enter an appeal in the superior court of the county of his or her
+159 residence or in the Superior Court of Fulton County. Such appeal shall name the
+160 commissioner as defendant and must shall be filed within 30 days from the date the
+161 notice of the proposed order was sent. The person filing the appeal shall neither be
+162 required to post any bond nor to pay the costs in advance. If the person so desires, the
+163 appeal may be heard by the judge at term or in chambers or by a jury at the first term.
+164 The hearing on the appeal shall be de novo, but no appeal shall act as a supersedeas of
+165 any orders or acts of the department.
+166 (2)(A) Upon notice to the Department of Natural Resources as described in
+167 subsection (e) of this Code section and delivery of a copy of such notice to the state
+168 revenue commissioner, then the state revenue commissioner may revoke, suspend,
+169 deny, or refuse to renew any motor vehicle registration required by Title 40 which is
+170 held by or has been applied for by the person owner who holds the current registration
+171 for such vessel, until all fees connected with removal and storage of the vessel have
+172 been paid and any lien acquired under Code Section 52-7-73 for such fees has been
+173 satisfied. Such owner The person shall be notified of the proposed order for revocation,
+174 suspension, denial, or nonrenewal personally or by a letter sent by certified mail or
+175 statutory overnight delivery to the name and address indicated on the application for the
+H. B. 115 (SUB)
+- 7 -
+
+25 LC 39 4617S
+176 registration. The proposed order for revocation, suspension, denial, or nonrenewal shall
+177 become final 30 days after issuance if not appealed as provided in this paragraph.
+178 (B) Any person whose motor vehicle registration is proposed for revocation,
+179 suspension, denial, or nonrenewal under this paragraph shall have the right to enter an
+180 appeal in the superior court of the county of his or her residence or in the Superior
+181 Court of Fulton County. Such appeal shall name the state revenue commissioner as
+182 defendant and must shall be filed within 30 days from the date the notice of the
+183 proposed order was sent. The person filing the appeal shall neither be required to post
+184 any bond nor to pay the costs in advance. If the person so desires, the appeal may be
+185 heard by the judge at term or in chambers or by a jury at the first term. The hearing on
+186 the appeal shall be de novo, but no appeal shall act as a supersedeas of any orders or
+187 acts of the department.
+188 (f) Upon ascertaining the owner of such vessel, the person removing or storing such vessel
+189 shall, within five calendar days, by certified or registered mail or statutory overnight
+190 delivery, notify the owner, lessors, lessees, security interest holders, and lienholders of the
+191 vessel of the location of such vessel and of the fact that such vessel is deemed abandoned
+192 and shall be disposed of if not redeemed.
+193 (g) If the identity of the owner of such vessel cannot be ascertained, the person removing
+194 or storing such vessel shall place an advertisement in a newspaper of general circulation
+195 in the county where such vessel was obtained or, if there is no newspaper in such county,
+196 shall post such advertisement at the county courthouse in such place where other public
+197 notices are posted. Such advertisement shall run in the newspaper once a week for two
+198 consecutive weeks or shall remain posted at the courthouse for two consecutive weeks.
+199 The advertisement shall contain a complete description of the vessel, its certificate of
+200 number and hull identification number, the location from where such vessel was initially
+201 removed, the present location of such vessel, and the fact that such vessel is deemed
+202 abandoned and shall be disposed of if not redeemed.
+H. B. 115 (SUB)
+- 8 -
+
+25 LC 39 4617S
+203 (h) Reserved.
+204 (i)(g) Any person storing a vessel under the provisions of this Code section shall notify the
+205 Department of Natural Resources if the vessel is recovered, is claimed by the owner, is
+206 determined to be stolen, or is for any reason no longer an abandoned vessel. Such notice
+207 shall be provided within seven calendar days of such event.
+208 (j)(h) If vessel information on the abandoned vessel is not in the files of the Department
+209 of Natural Resources, the department may require such other information or confirmation
+210 as it determines is necessary or appropriate to determine the identity of the vessel.
+211 (k)(i) Any person who does not provide the notice and information required by this Code
+212 section shall not be entitled to any storage fees.
+213 (l)(j) Any person who knowingly provides false or misleading information when providing
+214 any notice or information as required by this Code section shall be guilty of a misdemeanor
+215 and, upon conviction thereof, shall be punished as for a misdemeanor."
+216 SECTION 5.
+217 Said chapter is further amended by revising Code Section 52-7-72, relating to authority of
+218 peace officer to cause removal of unattended vessels, notifications, and duties, as follows:
+219 "52-7-72.
+220 (a) Any peace law enforcement officer who finds a vessel which has been left unattended
+221 in or upon any public waters or other public property for a period of at least five days, if
+222 such peace officer reasonably believes that the person who left such vessel unattended does
+223 not intend to return and remove such vessel, shall notify the Department of Natural
+224 Resources of such finding in accordance with subsection (d) of this Code section and as
+225 evidenced by the date of issuance on the unattended vessel check card attached to such
+226 vessel pursuant to Code Section 52-7-70.1, may cause such vessel to be removed to a
+227 garage or other place of safety.
+H. B. 115 (SUB)
+- 9 -
+
+25 LC 39 4617S
+228 (b)(1) Any peace law enforcement officer who finds a vessel which has been left
+229 unattended in or upon any public waters or other public property, when such vessel poses
+230 a threat to public health or safety, shall notify the Department of Natural Resources of
+231 such finding in accordance with subsection (d) of this Code section and may immediately
+232 cause such vessel to be removed to a garage or other place of safety.
+233 (2) Within 24 hours of causing an unattended vessel to be removed pursuant to
+234 paragraph (1) of this subsection, the law enforcement officer causing such removal shall
+235 query the criminal justice information system to determine if the unattended vessel has
+236 been entered into the criminal justice information system as a stolen vessel. If the
+237 removed vessel has been reported as stolen, the law enforcement officer shall notify the
+238 law enforcement agency that filed such report, providing the location of the vessel or the
+239 name of the person that removed the vessel. The law enforcement agency receiving such
+240 notification shall then notify the person who filed the police report for the stolen vessel
+241 of the location of the vessel.
+242 (c) Any peace law enforcement officer who, under the provisions of this Code section,
+243 causes any vessel to be removed to a garage or other place of safety shall be liable for gross
+244 negligence only.
+245 (d)(1) Any peace law enforcement officer who finds a vessel under such conditions as
+246 described in subsection (a) or (b) of this Code section shall within 72 hours from the time
+247 of such finding:
+248 (A) Notify notify the Department of Natural Resources of the description of the vessel,
+249 whether the vessel has been removed or not, and, if removed, the location to which such
+250 vessel has been removed; and.
+251 (B) If available on the Georgia Crime Information Center Network, determine the
+252 name and address of the last known registered owner of such vessel. If vessel
+253 information is not in the files of the Department of Natural Resources, the department
+H. B. 115 (SUB)
+- 10 -
+
+25 LC 39 4617S
+254 may require such other information or confirmation as it determines is necessary or
+255 appropriate to determine the identity of the vessel.
+256 (2) If any such vessel is determined to be a stolen vessel, the local law enforcement
+257 officer or agency shall notify the Georgia Crime Information Center and the owner, if
+258 known, of the location of such vessel within 72 hours after receiving notice that such
+259 vessel is a stolen vessel.
+260 (3) If the vessel is removed and the name and address of the last known registered owner
+261 of the vessel is obtained from the Georgia Crime Information Center, the peace officer
+262 who causes the vessel to be removed shall, within three calendar days of removal, make
+263 available to the person removing such vessel the name and address of the last known
+264 registered owner of such vessel. If such information is not available, the peace officer
+265 shall, within three calendar days of removal, notify the person removing or storing such
+266 vessel of such fact."
+267 SECTION 6.
+268 Said chapter is further amended by revising Code Section 52-7-72.1, relating to penalty for
+269 failing to remove unattended vessel, as follows:
+270 "52-7-72.1.
+271 (a)(1) If any vessel for which the Department of Natural Resources and the Georgia
+272 Crime Information Center have has received notice pursuant to subsection (d) of Code
+273 Section 52-7-72 has not been removed and is determined not to be a stolen vessel, the
+274 commissioner may proceed to take action against the owner as provided by provisions
+275 of this Code section shall apply.
+276 (2) If any vessel for which the Department of Natural Resources and the Georgia Crime
+277 Information Center have has received notice pursuant to subsection (d) of Code
+278 Section 52-7-72 has been removed, the provisions of this Code section shall not apply
+279 and the provisions of Code Section 52-7-71 shall apply instead.
+H. B. 115 (SUB)
+- 11 -
+
+25 LC 39 4617S
+280 (b)(1) Within seven calendar days of receipt of the notice required pursuant to
+281 subsection (d) of Code Section 52-7-72 that a vessel has not been removed and has been
+282 determined not be a stolen vessel, the Department of Natural Resources shall, by certified
+283 or registered mail or statutory overnight delivery, notify the owner of the location of such
+284 vessel and that if such vessel is not removed within 30 days the vessel will be deemed
+285 abandoned under this article and:
+286 (A) Shall be subject to a lien for actual or projected costs for the removal, storage, and
+287 sale of such vessel;
+288 (B) Failure to remove the vessel may result in the revocation, suspension, denial, or
+289 refusal to renew a motor vehicle registration, vessel certificate of number, or
+290 commercial fishing boat license of a vessel owner that has registered such vessel with
+291 the Department of Natural Resources;
+292 (C) That the owner shall be liable to the department for damages for the removal,
+293 storage, and disposal of the vessel; and
+294 (D) Failure to remove the vessel may result in the criminal prosecution of a vessel
+295 owner that has registered such vessel with the Department of Natural Resources.
+296 (2) The requirement for removal of a vessel within 30 days pursuant to this subsection
+297 shall be inapplicable within 36 months of a declaration by the Governor of a state of
+298 emergency due to a natural disaster affecting the location of the vessel.
+299 (b)(c)(1)(A) The commissioner of the Department of Natural Resources shall be
+300 authorized to Upon notice to the Department of Natural Resources as described in
+301 subsection (d) of Code Section 52-7-72, then the commissioner may revoke, suspend,
+302 deny, or refuse to renew any vessel certificate of number or commercial fishing boat
+303 license required by this title or Title 27 which is held by or has been applied for by a
+304 person who owns the vessel, until the owner a vessel owner that has registered such
+305 vessel with the Department of Natural Resources which has become abandoned that has
+306 been notified in accordance with subsection (b) of this Code section, until such person
+H. B. 115 (SUB)
+- 12 -
+
+25 LC 39 4617S
+307 restores and resumes operation of the vessel or removes it from public waters or public
+308 property. The person shall be notified of the proposed order for revocation, suspension,
+309 denial, or nonrenewal personally or by a letter sent by certified mail or statutory
+310 overnight delivery to the name and address indicated on the application for the
+311 certificate of number or license, or both. The proposed order for revocation,
+312 suspension, denial, or nonrenewal shall become final 30 days after issuance if not
+313 appealed as provided in this paragraph.
+314 (B) Any person whose vessel certificate of number or commercial fishing boat license
+315 is proposed for revocation, suspension, denial, or nonrenewal under this paragraph shall
+316 have the right to enter an appeal in the superior court of the county of his or her
+317 residence or in the Superior Court of Fulton County. Such appeal shall name the
+318 commissioner as defendant and must shall be filed within 30 days from the date the
+319 notice of the proposed order was sent. The person filing the appeal shall neither be
+320 required to post any bond nor to pay the costs in advance. If the person so desires, the
+321 appeal may be heard by the judge at term or in chambers or by a jury at the first term.
+322 The hearing on the appeal shall be de novo, but no appeal shall act as a supersedeas of
+323 any orders or acts of the department.
+324 (2)(A) Upon notice to the Department of Natural Resources as described in
+325 subsection (d) of Code Section 52-7-72 and delivery of a copy of such notice to the
+326 state revenue commissioner, then the The state revenue commissioner may shall be
+327 authorized to revoke, suspend, deny, or refuse to renew any motor vehicle registration
+328 required by Title 40 which is held by or has been applied for by a person who owns the
+329 vessel, until the owner a vessel owner that has registered such vessel with the
+330 Department of Natural Resources which has become abandoned that has been notified
+331 in accordance with subsection (b) of this Code section, until such person restores and
+332 resumes operation of the vessel or removes it from public waters or public property.
+333 The person shall be notified of the proposed order for revocation, suspension, denial,
+H. B. 115 (SUB)
+- 13 -
+
+25 LC 39 4617S
+334 or nonrenewal personally or by a letter sent by certified mail or statutory overnight
+335 delivery to the name and address indicated on the application for the registration. The
+336 proposed order for revocation, suspension, denial, or nonrenewal shall become final 30
+337 days after issuance if not appealed as provided in this paragraph.
+338 (B) Any person whose motor vehicle registration is proposed for revocation,
+339 suspension, denial, or nonrenewal under this paragraph shall have the right to enter an
+340 appeal in the superior court of the county of his or her residence or in the Superior
+341 Court of Fulton County. Such appeal shall name the state revenue commissioner as
+342 defendant and must shall be filed within 30 days from the date the notice of the
+343 proposed order was sent. The person filing the appeal shall neither be required to post
+344 any bond nor to pay the costs in advance. If the person so desires, the appeal may be
+345 heard by the judge at term or in chambers or by a jury at the first term. The hearing on
+346 the appeal shall be de novo, but no appeal shall act as a supersedeas of any orders or
+347 acts of the department.
+348 (d) Any vessel owner that has registered such vessel with the Department of Natural
+349 Resources that fails to remove such vessel from public waters or public property within 30
+350 days receipt of the notice issued pursuant to subsection (b) of this Code section shall be
+351 guilty of a misdemeanor of a high and aggravated nature and, upon conviction thereof,
+352 shall be punished by a fine not to exceed $5,000.00 or by confinement for a term not to
+353 exceed 12 months, or both; provided, however, that the requirement for removal of a vessel
+354 within 30 days pursuant to this subsection shall be inapplicable within 36 months of a
+355 declaration by the Governor of a state of emergency due to a natural disaster affecting the
+356 location of the vessel. Upon a second or subsequent offense for failure to remove an
+357 abandoned vessel from public waters or public property, a vessel owner that has registered
+358 such vessel with the Department of Natural Resources shall be guilty of a felony and, upon
+359 conviction thereof, shall be punished by a fine not to exceed $50,000.00 or by
+360 imprisonment for a term not to exceed five years, or both. In addition to any other penalty
+H. B. 115 (SUB)
+- 14 -
+
+25 LC 39 4617S
+361 authorized by law for failure to remove an abandoned vessel from public waters or public
+362 property, the court may order a person convicted pursuant to this subsection to make
+363 restitution to Department of Natural Resources for the reasonable costs or damages
+364 associated with failure to remove the vessel, including the cost of removal, storage, and
+365 disposal of such vessel. Restitution made pursuant to this subsection shall not preclude the
+366 Department of Natural Resources from obtaining any other civil or criminal remedy
+367 available under any other provision of law. The restitution authorized by this Code section
+368 shall be supplemental and not exclusive."
+369 SECTION 7.
+370 Said chapter is further amended in Code Section 52-7-74, relating to procedure for
+371 foreclosure, by revising paragraph (2) as follows:
+372 "(2) The person desiring to foreclose a lien on an abandoned vessel shall, by certified or
+373 registered mail or statutory overnight delivery, make a demand upon the owner for the
+374 payment of the reasonable fees for removal and storage plus the costs of any
+375 advertisement. Such written demand shall include an itemized statement of all charges.
+376 No such written demand shall be required if the identity of the owner cannot be
+377 ascertained and the notice requirements of paragraph (2) of subsection (g) (d) of Code
+378 Section 52-7-71 have been complied with;"
+379 SECTION 8.
+380 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 115 (SUB)
+- 15 -
+
+[DELETED: 5L R P o t 16, S o t 14, F o t 10htht9,7,ht o a v w t D o N R t p f v t p f d t p f r m t r]
+[DELETED: 5L v f p w o t s o p p p t w c a u v c s a t c]
+[DELETED: 5L  W 2 h o c a u v c o d a v w d a u v c c i b a l t l o t v  T l e a r s]
+[DELETED: 5L t r b h d e t o t f b p ( o t s  W 2 h o r o s b r a s t l l e a s n t l]
+[DELETED: 5L a s o s v a t f t s v w b d s p w o p n a p w a o c b  S a s r i t n o a w f t]
+[DELETED: 5L c a t p r o s s v s w s]
+[DELETED: 5L o t p o f r s d o n  U n t t D o N R a d i]
+[DELETED: 5L  A p w m v r i p f r f]
+[DELETED: 5L i t r a r s v s n t D o N]
+[DELETED: 5L a v  W 2 h o c a u v t b r p t a a o t l k r o o s v  I v]
+[DELETED: 5L C h h r n p t s ( o C]
+[DELETED: 5L  W s c d o r o t n r p t t r a m v r v c o n o o]
+[DELETED: 5L d t t n a a i o t a f t o n o l o b  T p o f r  U n t t D o N R a d i u t o a v o t h r s v w t]
+[DELETED: 5L  A p w m v r i p f r t d t s b p b a f n t e $ o b]
+[DELETED: 5L t D o N R f t r c o d o N R f o a o c o c r c i f a i C S 5 r t p f o t r f f r a s p t c o a s w d s b r i t i o t o c b]

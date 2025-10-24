@@ -1,0 +1,619 @@
+Title: Senate Bill 176
+Official Title: Senate Bill 176
+Number of Sections: 1
+Source: versions - As introduced LC 49 2193
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+25 LC 49 2193
+By: Senators Robertson of the 29th, Albers of the 56th, Summers of the 13th, Williams of
+the 25th, Dixon of the 45th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure,
+2 so as to establish the "Victims of Wrongful Incarceration Compensation Act"; to provide for
+3 a short title; to provide for eligibility; to provide for definitions; to provide for the
+4 compensation of wrongfully incarcerated persons; to provide for procedures allowing an
+5 exonerated person to petition the sentencing court or other court of competent jurisdiction
+6 for an order that he or she be eligible for compensation; to provide for procedures for
+7 prosecuting authorities to respond to such petitions; to provide for hearings; to provide for
+8 dismissal; to provide for ineligibility; to provide for requisition procedures and for
+9 certification of eligibility for compensation; to provide for criminal records checks; to
+10 provide for the calculation, payment, and limit of such compensation; to provide for waivers
+11 and release; to provide for related matters; to provide an effective date; to repeal conflicting
+12 laws; and for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+14 SECTION 1.
+15 Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, is
+16 amended by adding a new chapter to read as follows:
+S. B. 176
+- 1 -
+25 LC 49 2193
+17 "CHAPTER 22
+18 17-22-1.
+19 This chapter shall be known and may be cited as the 'Wrongful Incarceration Compensation
+20 Act.'
+21 17-22-2.
+22 As used in this chapter, the term:
+23 (1) 'Competent evidence' means evidence that is legally admissible.
+24 (2) 'Department' means the Department of Law.
+25 (3) 'Exonerated' or 'exonerating' means when a person:
+26 (A) Has been pardoned based upon a finding of innocence by the State Board of
+27 Pardons and Paroles;
+28 (B) Was granted a new trial and, upon retrial, has been acquitted; or
+29 (C) Has had his or her judgment of conviction reversed or vacated or was granted a
+30 new trial, and the indictment or accusation dismissed or nolle prossed, based on the
+31 existence of verifiable competent and material substantive evidence of such person's
+32 actual innocence.
+33 (4) 'Material evidence' means evidence that is relevant and of sufficient importance to
+34 be allowed into evidence
+35 (5) 'Serious violent felony' shall have the same meaning as provided in Code Section
+36 17-10-6.1.
+37 (6) 'Substantive evidence' means evidence that supports a fact in issue relative to the
+38 necessary elements of a charge. Such term shall not include evidence relative to
+39 procedural or collateral issues.
+S. B. 176
+- 2 -
+25 LC 49 2193
+40 17-22-3.
+41 (a) To be eligible for compensation under this chapter, an exonerated person shall set forth
+42 a claim of wrongful incarceration under oath and with particularity by filing a petition with
+43 the sentencing court, with a copy of the petition and notice provided to the prosecuting
+44 authority in the criminal case for which the exonerated person was incarcerated. At a
+45 minimum, the petition shall state that:
+46 (1) Verifiable competent and material substantive evidence of the petitioner's actual
+47 innocence exists and shall describe with particularity the nature and significance of such
+48 evidence of actual innocence; and
+49 (2) The petitioner is not ineligible for compensation under the provisions of Code
+50 Section 17-22-4.
+51 (b) The petition provided for in subsection (a) of this Code section shall be filed with the
+52 court:
+53 (1) Within 90 days after a final order exonerating the petitioner, if such order becomes
+54 final on or after July 1, 2025; or
+55 (2) By June 30, 2026, if such exonerating order became final prior to July 1, 2025.
+56 (c) The prosecuting authority in the criminal case for which the exonerated person was
+57 incarcerated shall be provided with a copy of the petition provided for in subsection (a) of
+58 this Code section and shall respond to the petition within 30 days of receipt of such petition
+59 by:
+60 (1) Certifying to the court that, based upon the petition and the verifiable competent and
+61 material substantive evidence of actual innocence, no further criminal proceedings will
+62 be initiated by the prosecuting authority, that no questions of fact remain as to the
+63 petitioner's wrongful incarceration, and that the petitioner is not ineligible for
+64 compensation under the provisions of Code Section 17-22-4; or
+65 (2) Contesting:
+S. B. 176
+- 3 -
+25 LC 49 2193
+66 (A) Whether the petitioner is ineligible for compensation under the provisions of Code
+67 Section 17-22-4; or
+68 (B) The nature, significance, or effect of the evidence of the petitioner's alleged actual
+69 innocence or the facts related to the petitioner's alleged wrongful incarceration.
+70 (d) Following a prosecuting authority's response under paragraph (1) of subsection (c) of
+71 this Code section, the court shall be authorized to issue an order:
+72 (1) That the petitioner is eligible for compensation under this chapter, based upon:
+73 (A) The verifiable competent and material substantive evidence of the petitioner's
+74 actual innocence;
+75 (B) The prosecuting authority's certification provided pursuant to paragraph (1) of
+76 subsection (c) of this Code section; and
+77 (C) The court's finding that the petitioner has presented verifiable competent and
+78 material substantive evidence that the petitioner committed neither the act nor the
+79 offense that served as the basis for the incarceration, and that the petitioner did not aid,
+80 abet, or act as an accomplice to a person who committed such act or offense; and
+81 (2) That the petitioner is not ineligible for compensation under the provisions of Code
+82 Section 17-22-4.
+83 (e) Following a prosecuting authority's response under subparagraph (c)(2)(A) of this Code
+84 section, the court shall make a determination from the pleadings and supporting
+85 documentation whether, by clear and convincing evidence, the petitioner is ineligible for
+86 compensation under the provisions of Code Section 17-22-4. If the court finds the
+87 petitioner ineligible under the provisions of Code Section 17-22-4, it shall be authorized
+88 to dismiss the petition with a written order setting forth the court's findings.
+89 (f) Following a prosecuting authority's response under subparagraph (c)(2)(B) of this Code
+90 section, and the court determines that the petitioner is not ineligible for compensation under
+91 the provisions of Code Section 17-22-4, a hearing shall be conducted no later than 120 days
+92 after the prosecuting authority's response to determine whether the petitioner has proved
+S. B. 176
+- 4 -
+25 LC 49 2193
+93 by clear and convincing evidence that the petitioner committed neither the act nor the
+94 offense that served as the basis for the incarceration, and that the petitioner did not aid,
+95 abet, or act as an accomplice to a person who committed such act or offense.
+96 (g) If the court concludes that the petitioner is eligible for compensation under this chapter,
+97 such court shall be authorized to include in its order a certification to the department that:
+98 (1) The petitioner has met his or her burden of establishing by clear and convincing
+99 evidence that the petitioner committed neither the act nor the offense that served as the
+100 basis for the incarceration, and that the petitioner did not aid, abet, or act as an
+101 accomplice to a person who committed the act or offense; and
+102 (2) The establishment of the method by which an exonerated person may petition to be
+103 deemed eligible for compensation under this chapter in no way creates any right of due
+104 process beyond those set forth herein, nor is there created any right to further petition or
+105 appeal beyond the scope of the method set forth herein.
+106 17-22-4.
+107 An exonerated person shall not be eligible for compensation under this chapter if:
+108 (1) Before the exonerated person's wrongful incarceration, he or she was convicted of,
+109 or pled guilty or nolo contendere to, regardless of adjudication, any serious violent
+110 felony, or a crime committed in another jurisdiction the elements of which would
+111 constitute a serious violent felony in this state, or a crime committed against the United
+112 States which is designated a serious violent felony, excluding any delinquency
+113 disposition;
+114 (2) Before the exonerated person's wrongful incarceration, he or she was convicted of,
+115 or pled guilty or nolo contendere to, regardless of adjudication, more than one felony that
+116 is not a serious violent felony, or more than one crime committed in another jurisdiction,
+117 the elements of which would constitute a felony in this state, or more than one crime
+S. B. 176
+- 5 -
+25 LC 49 2193
+118 committed against the United States which is designated a felony, excluding any
+119 delinquency disposition;
+120 (3) During the exonerated person's wrongful incarceration, he or she was convicted of,
+121 or pled guilty or nolo contendere to, regardless of adjudication, any serious violent
+122 felony;
+123 (4) During the exonerated person's wrongful incarceration, he or she was convicted of,
+124 or pled guilty or nolo contendere to, regardless of adjudication, more than one felony that
+125 is not a serious violent felony; or
+126 (5) During the exonerated person's wrongful incarceration, he or she was also serving a
+127 concurrent sentence for another felony for which the person was not wrongfully
+128 incarcerated.
+129 17-22-5.
+130 (a) An exonerated person who has been found by a court of competent jurisdiction to be
+131 eligible for compensation under this chapter pursuant to either subsection (d) or (g) of Code
+132 Section 17-22-3 shall initiate his or her requisition for such compensation no more than two
+133 years after the entry of the order that includes such finding.
+134 (b) The requisition provided for in subsection (a) of this Code section shall be delivered
+135 to the department in person or by registered or certified mail or statutory overnight delivery
+136 and shall include:
+137 (1) A certified copy of his or her exonerating order;
+138 (2) A certified copy of the order issued pursuant to subsection (d) or (g) of Code Section
+139 17-22-3 finding that he or she is eligible for compensation under this chapter;
+140 (3) Certified copies of the original judgment and sentence;
+141 (4) Documentation demonstrating the length of the sentence served, including
+142 documentation from the Department of Corrections regarding his or her admission into
+143 and release from the custody of the Department of Corrections;
+S. B. 176
+- 6 -
+25 LC 49 2193
+144 (5) Positive proof of identification, including two full sets of fingerprints administered
+145 by a law enforcement agency and a current form of photo identification, demonstrating
+146 that the person requisitioning compensation is the same individual who was exonerated;
+147 (6) All supporting documentation of any fine, penalty, or court costs imposed that were
+148 actually paid by the exonerated person; and
+149 (7) All supporting documentation of the amount of any reasonable attorney's fees and
+150 expenses incurred and paid by the exonerated person in connection with all criminal
+151 proceedings and appeals regarding his or her wrongful incarceration.
+152 (c) Upon receipt of a requisition made pursuant to and in accordance with subsections (a)
+153 and (b) of this Code section, the department shall examine such requisition and within 30
+154 calendar days shall notify the exonerated person of any errors or omissions and may
+155 request any additional information relevant to the review of the requisition. The
+156 exonerated person shall have 15 days after proper notification of any existing errors or
+157 omissions to supplement or amend the requisition. The department shall not deny any
+158 requisition for failure of the exonerated person to correct an error or omission or supply
+159 additional information unless the department timely notified the exonerated person of such
+160 errors or omissions or requested the additional information within the 30 day period
+161 specified in this subsection. The department shall process and review each completed
+162 requisition within 90 calendar days. Once the department determines whether a requisition
+163 meets the requirements set forth in this chapter, it shall notify the exonerated person and
+164 the prosecuting authority within five business days of such determination.
+165 (d) The department shall forward two full sets of fingerprints of the exonerated person to
+166 the Georgia Crime Information Center, which shall submit the fingerprints to the Federal
+167 Bureau of Investigation for a search of bureau records and an appropriate report and shall
+168 promptly conduct a search of state records based upon the fingerprints. After receiving the
+169 report from the Georgia Crime Information Center and the Federal Bureau of Investigation,
+170 the department shall review such records.
+S. B. 176
+- 7 -
+25 LC 49 2193
+171 (e) When the department determines that the exonerated person meets the requirements
+172 of this chapter, the department shall certify in writing that such person is eligible for and
+173 entitled to compensation under this chapter, subject to the provisions in Code Section
+174 17-22-6, and shall provide a copy of such certification to the exonerated person and the
+175 prosecuting authority within five business days of such determination.
+176 (f) Prior to the department's approval of the exonerated person's requisition for
+177 compensation under this chapter, the exonerated person shall sign a release and waiver on
+178 behalf of himself or herself and his or her heirs, successors, and assigns, forever releasing
+179 the state or any agency, instrumentality, or any political subdivision thereof, the
+180 prosecuting authority, and the sentencing court from all present or future claims that the
+181 exonerated person or his or her heirs, successors, or assigns may have against such entities
+182 arising out of the facts in connection with the wrongful incarceration for which
+183 compensation is being sought under this chapter.
+184 (g)(1) An exonerated person shall not be authorized to submit a requisition for
+185 compensation under this chapter if he or she has a lawsuit pending against the state or any
+186 agency, instrumentality, or any political subdivision thereof, the prosecuting authority,
+187 or the sentencing court in state or federal court requesting compensation arising out of the
+188 facts in connection with his or her conviction and incarceration.
+189 (2) Any amount of compensation calculated and paid under this chapter is intended to
+190 provide the sole, final, and exclusive compensation by the state or any agency,
+191 instrumentality, or any political subdivision thereof, the prosecuting authority, or the
+192 sentencing court for any and all present and future claims arising out of the facts in
+193 connection with the exonerated person's wrongful incarceration.
+194 (h) No estate of or personal representative for a decedent shall be entitled to requisition or
+195 otherwise seek compensation under this chapter on behalf of the decedent.
+S. B. 176
+- 8 -
+25 LC 49 2193
+196 17-22-6.
+197 (a)(1) Except as otherwise provided in this chapter and subject to the limitations and
+198 procedures prescribed in paragraph (2) of this subsection, an exonerated person who has
+199 been certified by the department as eligible for and entitled to compensation under this
+200 chapter shall be entitled to:
+201 (A) Monetary compensation for wrongful incarceration, which shall be calculated at
+202 a rate of $50,000.00 for each year of wrongful incarceration, prorated as necessary to
+203 account for a portion of a year;
+204 (B) A waiver of tuition and fees for up to 120 hours of instruction at any institution of
+205 the University System of Georgia or unit of the Technical College System of Georgia,
+206 if the exonerated person meets and maintains the regular admission requirements of
+207 such postsecondary educational institution, remains registered at such postsecondary
+208 educational institution, and makes satisfactory academic progress as defined by the
+209 postsecondary educational institution in which such person is enrolled;
+210 (C) The amount of any fine, penalty, or court costs imposed and paid by the exonerated
+211 person;
+212 (D) The amount of any reasonable attorney's fees and expenses incurred and paid by
+213 the exonerated person in connection with all criminal proceedings and appeals
+214 regarding the wrongful incarceration, to be calculated by the department based upon the
+215 supporting documentation submitted as specified in Code Section 17-22-5; and
+216 (E) Notwithstanding any provision of law to the contrary, immediate administrative
+217 expunction of the exonerated person's criminal record of or relating to his or her
+218 wrongful incarceration. The Department of Law and the Department of Public Safety
+219 shall, upon a determination that an exonerated person is eligible for and entitled to
+220 compensation under this chapter, immediately take all action necessary to
+221 administratively expunge the exonerated person's criminal record of or related to his or
+222 her wrongful incarceration. All fees for this process shall be waived.
+S. B. 176
+- 9 -
+25 LC 49 2193
+223 (2) The total amount of compensation calculated as provided for in subparagraphs (A),
+224 (C), and (D) of paragraph (1) of this subsection shall not exceed $1 million. No further
+225 award for attorney's fees, lobbying fees, costs, or other similar expenses shall be made
+226 by the state.
+227 (b) In calculating any monetary compensation under paragraph (1) of subsection (a) of this
+228 Code section:
+229 (1) An exonerated person who is placed on parole or community supervision while
+230 serving the sentence resulting from his or her conviction leading to his or her wrongful
+231 incarceration and who commits no more than one felony that is not a serious violent
+232 felony which results in revocation of the parole or community supervision shall be
+233 eligible for compensation for the total number of years incarcerated; and
+234 (2) An exonerated person who commits one serious violent felony or more than one
+235 felony that is not a serious violent felony that results in revocation of such parole or
+236 community supervision shall be ineligible for any compensation under paragraph (1) of
+237 subsection (a) of this Code section.
+238 (c) Within 12 months after receiving the department's certification that the exonerated
+239 person is eligible for and entitled to compensation under this chapter, the prosecuting
+240 authority shall execute all necessary agreements to implement this chapter and to maximize
+241 the benefit to such exonerated person.
+242 17-22-7.
+243 Any payment made under this chapter shall not constitute a waiver of any defense of
+244 sovereign immunity."
+245 SECTION 2.
+246 This Act shall become effective on July 1, 2025.
+S. B. 176
+- 10 -
+25 LC 49 2193
+247 SECTION 3.
+248 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 176
+- 11 -
+[DELETED: 5L s t t p f e t p f d t p f t t p f i t p f r p a f o e f c t p f c r c t 1 o t O C o G A r t c p i]
+[DELETED: 5L e o a c S t s n i e r t]
+[DELETED: 5L w i a t t p i n i f]
+[DELETED: 5L t c s m a d f t p a s u t p o C S 1  I t c f t]
+[DELETED: 5L f t i a t t p d n a a o a a a o a c c i a j t e o w w w i d a s v f e a d]
+[DELETED: 5L a t U S w i d a f e a s f a f f w t p w n w  D d t l o t s s i]
+[DELETED: 5L a a i r t t r o t r  T o]
+[DELETED: 5L  P t t d a o t e p r f s o a a i o a p s t t o o t f i c w t w i f w  A e p s n b a t s a r f t s f a e c b t s o a a]
+[DELETED: 5L e p i c w a c p a a u t c i t a a n t]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 49 2193
+Senate Bill 176
+By: Senators Robertson of the 29th, Albers of the 56th, Summers of the 13th, Williams of
+the 25th, Dixon of the 45th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure,
+2 so as to establish the "Victims of Wrongful Incarceration Compensation Act"; to provide for
+3 a short title; to provide for eligibility; to provide for definitions; to provide for the
+4 compensation of wrongfully incarcerated persons; to provide for procedures allowing an
+5 exonerated person to petition the sentencing court or other court of competent jurisdiction
+6 for an order that he or she be eligible for compensation; to provide for procedures for
+7 prosecuting authorities to respond to such petitions; to provide for hearings; to provide for
+8 dismissal; to provide for ineligibility; to provide for requisition procedures and for
+9 certification of eligibility for compensation; to provide for criminal records checks; to
+10 provide for the calculation, payment, and limit of such compensation; to provide for waivers
+11 and release; to provide for related matters; to provide an effective date; to repeal conflicting
+12 laws; and for other purposes.
+13 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+14 SECTION 1.
+15 Title 17 of the Official Code of Georgia Annotated, relating to criminal procedure, is
+16 amended by adding a new chapter to read as follows:
+S. B. 176
+- 1 -
+
+25 LC 49 2193
+17 "CHAPTER 22
+18 17-22-1.
+19 This chapter shall be known and may be cited as the 'Wrongful Incarceration Compensation
+20 Act.'
+21 17-22-2.
+22 As used in this chapter, the term:
+23 (1) 'Competent evidence' means evidence that is legally admissible.
+24 (2) 'Department' means the Department of Law.
+25 (3) 'Exonerated' or 'exonerating' means when a person:
+26 (A) Has been pardoned based upon a finding of innocence by the State Board of
+27 Pardons and Paroles;
+28 (B) Was granted a new trial and, upon retrial, has been acquitted; or
+29 (C) Has had his or her judgment of conviction reversed or vacated or was granted a
+30 new trial, and the indictment or accusation dismissed or nolle prossed, based on the
+31 existence of verifiable competent and material substantive evidence of such person's
+32 actual innocence.
+33 (4) 'Material evidence' means evidence that is relevant and of sufficient importance to
+34 be allowed into evidence
+35 (5) 'Serious violent felony' shall have the same meaning as provided in Code Section
+36 17-10-6.1.
+37 (6) 'Substantive evidence' means evidence that supports a fact in issue relative to the
+38 necessary elements of a charge. Such term shall not include evidence relative to
+39 procedural or collateral issues.
+S. B. 176
+- 2 -
+
+25 LC 49 2193
+40 17-22-3.
+41 (a) To be eligible for compensation under this chapter, an exonerated person shall set forth
+42 a claim of wrongful incarceration under oath and with particularity by filing a petition with
+43 the sentencing court, with a copy of the petition and notice provided to the prosecuting
+44 authority in the criminal case for which the exonerated person was incarcerated. At a
+45 minimum, the petition shall state that:
+46 (1) Verifiable competent and material substantive evidence of the petitioner's actual
+47 innocence exists and shall describe with particularity the nature and significance of such
+48 evidence of actual innocence; and
+49 (2) The petitioner is not ineligible for compensation under the provisions of Code
+50 Section 17-22-4.
+51 (b) The petition provided for in subsection (a) of this Code section shall be filed with the
+52 court:
+53 (1) Within 90 days after a final order exonerating the petitioner, if such order becomes
+54 final on or after July 1, 2025; or
+55 (2) By June 30, 2026, if such exonerating order became final prior to July 1, 2025.
+56 (c) The prosecuting authority in the criminal case for which the exonerated person was
+57 incarcerated shall be provided with a copy of the petition provided for in subsection (a) of
+58 this Code section and shall respond to the petition within 30 days of receipt of such petition
+59 by:
+60 (1) Certifying to the court that, based upon the petition and the verifiable competent and
+61 material substantive evidence of actual innocence, no further criminal proceedings will
+62 be initiated by the prosecuting authority, that no questions of fact remain as to the
+63 petitioner's wrongful incarceration, and that the petitioner is not ineligible for
+64 compensation under the provisions of Code Section 17-22-4; or
+65 (2) Contesting:
+S. B. 176
+- 3 -
+
+25 LC 49 2193
+66 (A) Whether the petitioner is ineligible for compensation under the provisions of Code
+67 Section 17-22-4; or
+68 (B) The nature, significance, or effect of the evidence of the petitioner's alleged actual
+69 innocence or the facts related to the petitioner's alleged wrongful incarceration.
+70 (d) Following a prosecuting authority's response under paragraph (1) of subsection (c) of
+71 this Code section, the court shall be authorized to issue an order:
+72 (1) That the petitioner is eligible for compensation under this chapter, based upon:
+73 (A) The verifiable competent and material substantive evidence of the petitioner's
+74 actual innocence;
+75 (B) The prosecuting authority's certification provided pursuant to paragraph (1) of
+76 subsection (c) of this Code section; and
+77 (C) The court's finding that the petitioner has presented verifiable competent and
+78 material substantive evidence that the petitioner committed neither the act nor the
+79 offense that served as the basis for the incarceration, and that the petitioner did not aid,
+80 abet, or act as an accomplice to a person who committed such act or offense; and
+81 (2) That the petitioner is not ineligible for compensation under the provisions of Code
+82 Section 17-22-4.
+83 (e) Following a prosecuting authority's response under subparagraph (c)(2)(A) of this Code
+84 section, the court shall make a determination from the pleadings and supporting
+85 documentation whether, by clear and convincing evidence, the petitioner is ineligible for
+86 compensation under the provisions of Code Section 17-22-4. If the court finds the
+87 petitioner ineligible under the provisions of Code Section 17-22-4, it shall be authorized
+88 to dismiss the petition with a written order setting forth the court's findings.
+89 (f) Following a prosecuting authority's response under subparagraph (c)(2)(B) of this Code
+90 section, and the court determines that the petitioner is not ineligible for compensation under
+91 the provisions of Code Section 17-22-4, a hearing shall be conducted no later than 120 days
+92 after the prosecuting authority's response to determine whether the petitioner has proved
+S. B. 176
+- 4 -
+
+25 LC 49 2193
+93 by clear and convincing evidence that the petitioner committed neither the act nor the
+94 offense that served as the basis for the incarceration, and that the petitioner did not aid,
+95 abet, or act as an accomplice to a person who committed such act or offense.
+96 (g) If the court concludes that the petitioner is eligible for compensation under this chapter,
+97 such court shall be authorized to include in its order a certification to the department that:
+98 (1) The petitioner has met his or her burden of establishing by clear and convincing
+99 evidence that the petitioner committed neither the act nor the offense that served as the
+100 basis for the incarceration, and that the petitioner did not aid, abet, or act as an
+101 accomplice to a person who committed the act or offense; and
+102 (2) The establishment of the method by which an exonerated person may petition to be
+103 deemed eligible for compensation under this chapter in no way creates any right of due
+104 process beyond those set forth herein, nor is there created any right to further petition or
+105 appeal beyond the scope of the method set forth herein.
+106 17-22-4.
+107 An exonerated person shall not be eligible for compensation under this chapter if:
+108 (1) Before the exonerated person's wrongful incarceration, he or she was convicted of,
+109 or pled guilty or nolo contendere to, regardless of adjudication, any serious violent
+110 felony, or a crime committed in another jurisdiction the elements of which would
+111 constitute a serious violent felony in this state, or a crime committed against the United
+112 States which is designated a serious violent felony, excluding any delinquency
+113 disposition;
+114 (2) Before the exonerated person's wrongful incarceration, he or she was convicted of,
+115 or pled guilty or nolo contendere to, regardless of adjudication, more than one felony that
+116 is not a serious violent felony, or more than one crime committed in another jurisdiction,
+117 the elements of which would constitute a felony in this state, or more than one crime
+S. B. 176
+- 5 -
+
+25 LC 49 2193
+118 committed against the United States which is designated a felony, excluding any
+119 delinquency disposition;
+120 (3) During the exonerated person's wrongful incarceration, he or she was convicted of,
+121 or pled guilty or nolo contendere to, regardless of adjudication, any serious violent
+122 felony;
+123 (4) During the exonerated person's wrongful incarceration, he or she was convicted of,
+124 or pled guilty or nolo contendere to, regardless of adjudication, more than one felony that
+125 is not a serious violent felony; or
+126 (5) During the exonerated person's wrongful incarceration, he or she was also serving a
+127 concurrent sentence for another felony for which the person was not wrongfully
+128 incarcerated.
+129 17-22-5.
+130 (a) An exonerated person who has been found by a court of competent jurisdiction to be
+131 eligible for compensation under this chapter pursuant to either subsection (d) or (g) of Code
+132 Section 17-22-3 shall initiate his or her requisition for such compensation no more than two
+133 years after the entry of the order that includes such finding.
+134 (b) The requisition provided for in subsection (a) of this Code section shall be delivered
+135 to the department in person or by registered or certified mail or statutory overnight delivery
+136 and shall include:
+137 (1) A certified copy of his or her exonerating order;
+138 (2) A certified copy of the order issued pursuant to subsection (d) or (g) of Code Section
+139 17-22-3 finding that he or she is eligible for compensation under this chapter;
+140 (3) Certified copies of the original judgment and sentence;
+141 (4) Documentation demonstrating the length of the sentence served, including
+142 documentation from the Department of Corrections regarding his or her admission into
+143 and release from the custody of the Department of Corrections;
+S. B. 176
+- 6 -
+
+25 LC 49 2193
+144 (5) Positive proof of identification, including two full sets of fingerprints administered
+145 by a law enforcement agency and a current form of photo identification, demonstrating
+146 that the person requisitioning compensation is the same individual who was exonerated;
+147 (6) All supporting documentation of any fine, penalty, or court costs imposed that were
+148 actually paid by the exonerated person; and
+149 (7) All supporting documentation of the amount of any reasonable attorney's fees and
+150 expenses incurred and paid by the exonerated person in connection with all criminal
+151 proceedings and appeals regarding his or her wrongful incarceration.
+152 (c) Upon receipt of a requisition made pursuant to and in accordance with subsections (a)
+153 and (b) of this Code section, the department shall examine such requisition and within 30
+154 calendar days shall notify the exonerated person of any errors or omissions and may
+155 request any additional information relevant to the review of the requisition. The
+156 exonerated person shall have 15 days after proper notification of any existing errors or
+157 omissions to supplement or amend the requisition. The department shall not deny any
+158 requisition for failure of the exonerated person to correct an error or omission or supply
+159 additional information unless the department timely notified the exonerated person of such
+160 errors or omissions or requested the additional information within the 30 day period
+161 specified in this subsection. The department shall process and review each completed
+162 requisition within 90 calendar days. Once the department determines whether a requisition
+163 meets the requirements set forth in this chapter, it shall notify the exonerated person and
+164 the prosecuting authority within five business days of such determination.
+165 (d) The department shall forward two full sets of fingerprints of the exonerated person to
+166 the Georgia Crime Information Center, which shall submit the fingerprints to the Federal
+167 Bureau of Investigation for a search of bureau records and an appropriate report and shall
+168 promptly conduct a search of state records based upon the fingerprints. After receiving the
+169 report from the Georgia Crime Information Center and the Federal Bureau of Investigation,
+170 the department shall review such records.
+S. B. 176
+- 7 -
+
+25 LC 49 2193
+171 (e) When the department determines that the exonerated person meets the requirements
+172 of this chapter, the department shall certify in writing that such person is eligible for and
+173 entitled to compensation under this chapter, subject to the provisions in Code Section
+174 17-22-6, and shall provide a copy of such certification to the exonerated person and the
+175 prosecuting authority within five business days of such determination.
+176 (f) Prior to the department's approval of the exonerated person's requisition for
+177 compensation under this chapter, the exonerated person shall sign a release and waiver on
+178 behalf of himself or herself and his or her heirs, successors, and assigns, forever releasing
+179 the state or any agency, instrumentality, or any political subdivision thereof, the
+180 prosecuting authority, and the sentencing court from all present or future claims that the
+181 exonerated person or his or her heirs, successors, or assigns may have against such entities
+182 arising out of the facts in connection with the wrongful incarceration for which
+183 compensation is being sought under this chapter.
+184 (g)(1) An exonerated person shall not be authorized to submit a requisition for
+185 compensation under this chapter if he or she has a lawsuit pending against the state or any
+186 agency, instrumentality, or any political subdivision thereof, the prosecuting authority,
+187 or the sentencing court in state or federal court requesting compensation arising out of the
+188 facts in connection with his or her conviction and incarceration.
+189 (2) Any amount of compensation calculated and paid under this chapter is intended to
+190 provide the sole, final, and exclusive compensation by the state or any agency,
+191 instrumentality, or any political subdivision thereof, the prosecuting authority, or the
+192 sentencing court for any and all present and future claims arising out of the facts in
+193 connection with the exonerated person's wrongful incarceration.
+194 (h) No estate of or personal representative for a decedent shall be entitled to requisition or
+195 otherwise seek compensation under this chapter on behalf of the decedent.
+S. B. 176
+- 8 -
+
+25 LC 49 2193
+196 17-22-6.
+197 (a)(1) Except as otherwise provided in this chapter and subject to the limitations and
+198 procedures prescribed in paragraph (2) of this subsection, an exonerated person who has
+199 been certified by the department as eligible for and entitled to compensation under this
+200 chapter shall be entitled to:
+201 (A) Monetary compensation for wrongful incarceration, which shall be calculated at
+202 a rate of $50,000.00 for each year of wrongful incarceration, prorated as necessary to
+203 account for a portion of a year;
+204 (B) A waiver of tuition and fees for up to 120 hours of instruction at any institution of
+205 the University System of Georgia or unit of the Technical College System of Georgia,
+206 if the exonerated person meets and maintains the regular admission requirements of
+207 such postsecondary educational institution, remains registered at such postsecondary
+208 educational institution, and makes satisfactory academic progress as defined by the
+209 postsecondary educational institution in which such person is enrolled;
+210 (C) The amount of any fine, penalty, or court costs imposed and paid by the exonerated
+211 person;
+212 (D) The amount of any reasonable attorney's fees and expenses incurred and paid by
+213 the exonerated person in connection with all criminal proceedings and appeals
+214 regarding the wrongful incarceration, to be calculated by the department based upon the
+215 supporting documentation submitted as specified in Code Section 17-22-5; and
+216 (E) Notwithstanding any provision of law to the contrary, immediate administrative
+217 expunction of the exonerated person's criminal record of or relating to his or her
+218 wrongful incarceration. The Department of Law and the Department of Public Safety
+219 shall, upon a determination that an exonerated person is eligible for and entitled to
+220 compensation under this chapter, immediately take all action necessary to
+221 administratively expunge the exonerated person's criminal record of or related to his or
+222 her wrongful incarceration. All fees for this process shall be waived.
+S. B. 176
+- 9 -
+
+25 LC 49 2193
+223 (2) The total amount of compensation calculated as provided for in subparagraphs (A),
+224 (C), and (D) of paragraph (1) of this subsection shall not exceed $1 million. No further
+225 award for attorney's fees, lobbying fees, costs, or other similar expenses shall be made
+226 by the state.
+227 (b) In calculating any monetary compensation under paragraph (1) of subsection (a) of this
+228 Code section:
+229 (1) An exonerated person who is placed on parole or community supervision while
+230 serving the sentence resulting from his or her conviction leading to his or her wrongful
+231 incarceration and who commits no more than one felony that is not a serious violent
+232 felony which results in revocation of the parole or community supervision shall be
+233 eligible for compensation for the total number of years incarcerated; and
+234 (2) An exonerated person who commits one serious violent felony or more than one
+235 felony that is not a serious violent felony that results in revocation of such parole or
+236 community supervision shall be ineligible for any compensation under paragraph (1) of
+237 subsection (a) of this Code section.
+238 (c) Within 12 months after receiving the department's certification that the exonerated
+239 person is eligible for and entitled to compensation under this chapter, the prosecuting
+240 authority shall execute all necessary agreements to implement this chapter and to maximize
+241 the benefit to such exonerated person.
+242 17-22-7.
+243 Any payment made under this chapter shall not constitute a waiver of any defense of
+244 sovereign immunity."
+245 SECTION 2.
+246 This Act shall become effective on July 1, 2025.
+S. B. 176
+- 10 -
+
+25 LC 49 2193
+247 SECTION 3.
+248 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 176
+- 11 -
+
+[DELETED: 5L s t t p f e t p f d t p f t t p f i t p f r p a f o e f c t p f c r c t 1 o t O C o G A r t c p i]
+[DELETED: 5L e o a c S t s n i e r t]
+[DELETED: 5L w i a t t p i n i f]
+[DELETED: 5L t c s m a d f t p a s u t p o C S 1  I t c f t]
+[DELETED: 5L f t i a t t p d n a a o a a a o a c c i a j t e o w w w i d a s v f e a d]
+[DELETED: 5L a t U S w i d a f e a s f a f f w t p w n w  D d t l o t s s i]
+[DELETED: 5L a a i r t t r o t r  T o]
+[DELETED: 5L  P t t d a o t e p r f s o a a i o a p s t t o o t f i c w t w i f w  A e p s n b a t s a r f t s f a e c b t s o a a]
+[DELETED: 5L e p i c w a c p a a u t c i t a a n t]
+[DELETED: 5L]
+[DELETED: 5L]

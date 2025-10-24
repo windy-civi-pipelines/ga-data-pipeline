@@ -1,0 +1,397 @@
+Title: Senate Bill 365
+Official Title: Senate Bill 365
+Number of Sections: 1
+Source: versions - As introduced LC 60 0162
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+25 LC 60 0162
+By: Senators Watson of the 11th, Goodman of the 8th, Anderson of the 24th, Echols of the
+49th, Moore of the 53rd and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 2 and 4 of the Official Code of Georgia Annotated, relating to agriculture
+2 and animals, respectively, so as to enhance transparency with respect to the marketing of
+3 produce and meat in this state; to provide for routine testing of produce for prohibited
+4 substances by large-scale organic produce producers; to provide for health risk management
+5 procedures with respect to the same; to provide for source verification and disclosure
+6 requirements by large-scale grassfed meat producers; to provide for disclosures, testing, and
+7 health risk management procedures with respect to older cattle; to provide for routine avian
+8 influenza testing by large-scale pasture-raised poultry producers; to provide for health risk
+9 management procedures with respect to the same; to provide for penalties; to provide for
+10 definitions; to provide for a short title; to provide for related matters; to provide for an
+11 effective date; to repeal conflicting laws; and for other purposes.
+12 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+13 SECTION 1.
+14 This Act shall be known and may be cited as the "Georgia Meat and Organic Produce
+15 Transparency and Safety Act."
+S. B. 365
+- 1 -
+25 LC 60 0162
+16 SECTION 2.
+17 Title 2 of the Official Code of Georgia Annotated, relating agriculture, is amended in
+18 Chapter 21, relating to organic certification and labeling, by adding a new Code section to
+19 read follows:
+20 "2-21-3.1.
+21 (a) As used in this Code section, the term:
+22 (1) 'Large-scale organic produce producer' means any person engaged in the production
+23 of organic produce in this state with annual gross sales of at least $500,000.00 per year.
+24 (2) 'Organic produce' means any fruit, vegetable, mushroom, sprout, peanut, tree nut,
+25 or herb labeled, advertised, or otherwise marketed as organic. Such term shall not
+26 include the small, hard fruits or seeds of arable crops, or the crops bearing these fruits or
+27 seeds, that are primarily grown and processed for use as meal, flour, baked goods,
+28 cereals, and oils, rather than for direct consumption as small, hard fruits or seeds.
+29 (b)(1) On or after January 1, 2026, large-scale organic produce producers shall conduct
+30 routine testing of organic produce as follows:
+31 (A) A minimum of 3 percent of organic produce shall be randomly selected and tested
+32 on a monthly basis for prohibited substances as defined in 21 C.F.R. 205.105;
+33 (B) Testing shall be conducted by a facility approved by the United States Department
+34 of Agriculture for organic testing; and
+35 (C) Records of all testing shall be maintained for a minimum of five years and made
+36 available to the department upon request.
+37 (2) If, during testing pursuant to paragraph (1) of this subsection, any prohibited
+38 substance is detected at a level exceeding any federal limits, the producer shall:
+39 (A) Immediately notify the department and United States Department of Agriculture
+40 Animal and Plant Health Inspection Service; and
+41 (B) Cease sales and distribution of any affected organic produce until further guidance
+42 is provided by state and federal authorities."
+S. B. 365
+- 2 -
+25 LC 60 0162
+43 SECTION 3.
+44 Title 4 of the Official Code of Georgia Annotated, relating to animals, is amended in Article
+45 1 of Chapter 6, relating to livestock dealers, by adding a new Code section to read as
+46 follows:
+47 "4-6-13.
+48 (a) As used in this Code section, the term:
+49 (1) 'Culling' means any process of removing certain livestock from primary meat
+50 production activities, including, but not limited to, sale through livestock markets, sale
+51 for processing due to health or age factors, or transfer to nonspecialty production systems.
+52 (2) 'Grassfed meat producer' means any person engaged in the production, processing,
+53 or sale of meat, including beef, pork, lamb, and goat, but excluding poultry, labeled,
+54 advertised, or otherwise marketed as grassfed, pasture-raised, or regeneratively raised,
+55 or under similar animal-raising claims.
+56 (3) 'Large-scale grassfed meat producer' means a grassfed meat producer located in this
+57 state with annual gross sales of meat products of at least $1 million per year.
+58 (4) 'Large-scale pasture-raised poultry producer' means a pasture-raised poultry producer
+59 located in this state with annual gross sales of poultry products of at least $250,000.00
+60 per year.
+61 (5) 'Livestock market' means any facility where livestock are bought, sold, or traded
+62 through public or private sale, including, but not limited to, auctions, stockyards, and
+63 trading barns.
+64 (6) 'Older cattle' means any cattle over five years of age at the time of slaughter.
+65 (7) 'Pasture-raised poultry producer' means any person engaged in the production,
+66 processing, or sale of poultry labeled, advertised, or otherwise marketed as pasture-raised
+67 or free-range, or under similar animal-raising claims.
+68 (8) 'Regeneratively raised' means, with respect to livestock, raised under a system of
+69 farming that seeks to improve soil health, biodiversity, and ecosystem resilience.
+S. B. 365
+- 3 -
+25 LC 60 0162
+70 (9) 'Specified risk material' means, with respect to cattle, tissues considered to be of high
+71 risk for potentially carrying transmissible spongiform encephalopathies, including, but
+72 not limited to, the brain and spinal cord tissues.
+73 (b)(1) All large-scale grassfed meat producers shall maintain records sufficient to verify
+74 the source and management history of all livestock used in their meat production,
+75 including, but not limited to:
+76 (A) Livestock birth records;
+77 (B) Livestock feeding records;
+78 (C) Any transfer of ownership or transportation of livestock; and
+79 (D) Any other documentation required by the United States Department of Agriculture.
+80 (2) Such records shall be made available for inspection by the department upon request
+81 and retained for a minimum of five years.
+82 (c)(1) All large-scale grassfed meat producers that label, advertise, or otherwise market
+83 meat produced from livestock as grassfed, pasture-raised, or regeneratively raised, or
+84 under similar animal-raising claims shall include a clearly legible and conspicuous
+85 written disclosure stating whether the livestock:
+86 (A) Has been sold through a livestock market or auction;
+87 (B) Has been subject to culling prior to final sale;
+88 (C) Has been continuously managed under the specified production protocols without
+89 interruption;
+90 (D) Received feed that deviates from the marketed designation, such as grassfed cattle
+91 receiving grain at any point; and
+92 (E) Were over the age of five years at the time of slaughter.
+93 (2) Such disclosure shall be made available at the point of sale, on packaging or
+94 promotional materials, and on any official website or sales platform used by the
+95 large-scale grassfed meat producer.
+S. B. 365
+- 4 -
+25 LC 60 0162
+96 (d)(1) All large-scale grassfed meat producers that sell beef produced from older cattle
+97 shall publicly disclose this fact through:
+98 (A) A clearly legible and conspicuous label on the packaging stating: 'This beef is from
+99 cattle over 5 years of age.'; and
+100 (B) Online sales listings or menus specifying when beef is sourced from older cattle.
+101 (2)(A) All older cattle used to produce beef shall undergo testing of specified risk
+102 materials at the time of slaughter for transmissible spongiform encephalopathies,
+103 including, but not limited to, testing for abnormal prion proteins linked to bovine
+104 spongiform encephalopathy, in accordance with any requirements set forth by the
+105 United States Department of Agriculture.
+106 (B) A large-scale grassfed meat producer shall dispose of any specified risk materials
+107 in accordance with any requirements set forth by the United States Department of
+108 Agriculture and the United States Food and Drug Administration.
+109 (C) A large-scale grassfed meat producer shall maintain documentation proving
+110 compliance with subparagraph (A) of this paragraph for no less than five years.
+111 (3) If a positive case of transmissible spongiform encephalopathies is detected, the
+112 large-scale grassfed meat producer shall immediately:
+113 (A) Notify the department and United States Department of Agriculture Animal and
+114 Plant Health Inspection Service; and
+115 (B) Cease sales and distribution of any beef products from the affected herd and follow
+116 any requirements set forth by the department and the United States Department of
+117 Agriculture.
+118 (e)(1) All large-scale pasture-raised poultry producers shall conduct routine avian
+119 influenza testing as follows:
+120 (A) A minimum of 3 percent of live poultry flocks shall be tested on a weekly basis for
+121 highly pathogenic avian influenza and low pathogenic avian influenza;
+S. B. 365
+- 5 -
+25 LC 60 0162
+122 (B) Testing shall be conducted by an accredited laboratory using United States
+123 Department of Agriculture approved methods; and
+124 (C) Records of all testing shall be maintained for a minimum of five years and made
+125 available to the department upon request.
+126 (2) If a positive case of highly pathogenic avian influenza is detected, the large-scale
+127 pasture-raised poultry producer shall immediately:
+128 (A) Notify the department and United States Department of Agriculture Animal and
+129 Plant Health Inspection Service;
+130 (B) Cease sales and distribution of poultry products from the affected flock until
+131 further guidance is provided by state and federal authorities; and
+132 (C) Implement biosecurity measures to prevent disease spread, including flock culling
+133 if required by United States Department of Agriculture regulations.
+134 (3) Any failure to comply with avian influenza testing requirements set forth in this
+135 subsection shall result in penalties as outlined in subsection (g) of this Code section.
+136 (f)(1) Large-scale grassfed meat producers and large-scale pasture-raised poultry
+137 producers that label, advertise, or otherwise market multiple types of meat as grassfed,
+138 pasture-raised, free-range, or regeneratively raised, or under similar animal-raising claims
+139 shall ensure separate and verifiable tracking for each species.
+140 (2) Large-scale grassfed meat producers and large-scale pasture-raised poultry producers
+141 engaged in direct-to-consumer online sales shall provide consumers with accessible
+142 sourcing verification through a scannable QR code, public webpage, or other verifiable
+143 digital record.
+144 (g) Any large-scale grassfed meat producer or large-scale pasture-raised poultry producer
+145 found in violation of this Code section shall be subject to:
+146 (1) A civil penalty not to exceed $5,000.00 per violation for a first offense;
+147 (2) A civil penalty not to exceed $10,000.00 per violation for subsequent offenses; and
+S. B. 365
+- 6 -
+25 LC 60 0162
+148 (3) Revocation or suspension of such producer's ability to market or sell meat or poultry
+149 products within this state under the designations of grassfed pasture-raised, free-range,
+150 or regeneratively raised, or under similar animal-raising claims for repeated
+151 noncompliance."
+152 SECTION 4.
+153 This Act shall become effective on January 1, 2026.
+154 SECTION 5.
+155 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 365
+- 7 -
+[DELETED: 5L w r t t s t p f s v a d]
+[DELETED: 5L i a  I d t p t p ( o t s a p]
+[DELETED: 5L  ' m a p o r c l f p m  ' p p m a p e i t p]
+[DELETED: 5L s a m h o a l u i t m p s a c s i a c l a c  S d s b m a a t p o s o p o m a o a o w o s p u b t]
+[DELETED: 5L a t t o s f t s e  A l g m p s m d p  A l p p p s c r a]
+[DELETED: 5L  T s b c b a a l u U S  L g m p a l p p]
+[DELETED: 5L r r o u s a c f r]
+
+
+================================================================================
+
+Raw Text:
+25 LC 60 0162
+Senate Bill 365
+By: Senators Watson of the 11th, Goodman of the 8th, Anderson of the 24th, Echols of the
+49th, Moore of the 53rd and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Titles 2 and 4 of the Official Code of Georgia Annotated, relating to agriculture
+2 and animals, respectively, so as to enhance transparency with respect to the marketing of
+3 produce and meat in this state; to provide for routine testing of produce for prohibited
+4 substances by large-scale organic produce producers; to provide for health risk management
+5 procedures with respect to the same; to provide for source verification and disclosure
+6 requirements by large-scale grassfed meat producers; to provide for disclosures, testing, and
+7 health risk management procedures with respect to older cattle; to provide for routine avian
+8 influenza testing by large-scale pasture-raised poultry producers; to provide for health risk
+9 management procedures with respect to the same; to provide for penalties; to provide for
+10 definitions; to provide for a short title; to provide for related matters; to provide for an
+11 effective date; to repeal conflicting laws; and for other purposes.
+12 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+13 SECTION 1.
+14 This Act shall be known and may be cited as the "Georgia Meat and Organic Produce
+15 Transparency and Safety Act."
+S. B. 365
+- 1 -
+
+25 LC 60 0162
+16 SECTION 2.
+17 Title 2 of the Official Code of Georgia Annotated, relating agriculture, is amended in
+18 Chapter 21, relating to organic certification and labeling, by adding a new Code section to
+19 read follows:
+20 "2-21-3.1.
+21 (a) As used in this Code section, the term:
+22 (1) 'Large-scale organic produce producer' means any person engaged in the production
+23 of organic produce in this state with annual gross sales of at least $500,000.00 per year.
+24 (2) 'Organic produce' means any fruit, vegetable, mushroom, sprout, peanut, tree nut,
+25 or herb labeled, advertised, or otherwise marketed as organic. Such term shall not
+26 include the small, hard fruits or seeds of arable crops, or the crops bearing these fruits or
+27 seeds, that are primarily grown and processed for use as meal, flour, baked goods,
+28 cereals, and oils, rather than for direct consumption as small, hard fruits or seeds.
+29 (b)(1) On or after January 1, 2026, large-scale organic produce producers shall conduct
+30 routine testing of organic produce as follows:
+31 (A) A minimum of 3 percent of organic produce shall be randomly selected and tested
+32 on a monthly basis for prohibited substances as defined in 21 C.F.R. 205.105;
+33 (B) Testing shall be conducted by a facility approved by the United States Department
+34 of Agriculture for organic testing; and
+35 (C) Records of all testing shall be maintained for a minimum of five years and made
+36 available to the department upon request.
+37 (2) If, during testing pursuant to paragraph (1) of this subsection, any prohibited
+38 substance is detected at a level exceeding any federal limits, the producer shall:
+39 (A) Immediately notify the department and United States Department of Agriculture
+40 Animal and Plant Health Inspection Service; and
+41 (B) Cease sales and distribution of any affected organic produce until further guidance
+42 is provided by state and federal authorities."
+S. B. 365
+- 2 -
+
+25 LC 60 0162
+43 SECTION 3.
+44 Title 4 of the Official Code of Georgia Annotated, relating to animals, is amended in Article
+45 1 of Chapter 6, relating to livestock dealers, by adding a new Code section to read as
+46 follows:
+47 "4-6-13.
+48 (a) As used in this Code section, the term:
+49 (1) 'Culling' means any process of removing certain livestock from primary meat
+50 production activities, including, but not limited to, sale through livestock markets, sale
+51 for processing due to health or age factors, or transfer to nonspecialty production systems.
+52 (2) 'Grassfed meat producer' means any person engaged in the production, processing,
+53 or sale of meat, including beef, pork, lamb, and goat, but excluding poultry, labeled,
+54 advertised, or otherwise marketed as grassfed, pasture-raised, or regeneratively raised,
+55 or under similar animal-raising claims.
+56 (3) 'Large-scale grassfed meat producer' means a grassfed meat producer located in this
+57 state with annual gross sales of meat products of at least $1 million per year.
+58 (4) 'Large-scale pasture-raised poultry producer' means a pasture-raised poultry producer
+59 located in this state with annual gross sales of poultry products of at least $250,000.00
+60 per year.
+61 (5) 'Livestock market' means any facility where livestock are bought, sold, or traded
+62 through public or private sale, including, but not limited to, auctions, stockyards, and
+63 trading barns.
+64 (6) 'Older cattle' means any cattle over five years of age at the time of slaughter.
+65 (7) 'Pasture-raised poultry producer' means any person engaged in the production,
+66 processing, or sale of poultry labeled, advertised, or otherwise marketed as pasture-raised
+67 or free-range, or under similar animal-raising claims.
+68 (8) 'Regeneratively raised' means, with respect to livestock, raised under a system of
+69 farming that seeks to improve soil health, biodiversity, and ecosystem resilience.
+S. B. 365
+- 3 -
+
+25 LC 60 0162
+70 (9) 'Specified risk material' means, with respect to cattle, tissues considered to be of high
+71 risk for potentially carrying transmissible spongiform encephalopathies, including, but
+72 not limited to, the brain and spinal cord tissues.
+73 (b)(1) All large-scale grassfed meat producers shall maintain records sufficient to verify
+74 the source and management history of all livestock used in their meat production,
+75 including, but not limited to:
+76 (A) Livestock birth records;
+77 (B) Livestock feeding records;
+78 (C) Any transfer of ownership or transportation of livestock; and
+79 (D) Any other documentation required by the United States Department of Agriculture.
+80 (2) Such records shall be made available for inspection by the department upon request
+81 and retained for a minimum of five years.
+82 (c)(1) All large-scale grassfed meat producers that label, advertise, or otherwise market
+83 meat produced from livestock as grassfed, pasture-raised, or regeneratively raised, or
+84 under similar animal-raising claims shall include a clearly legible and conspicuous
+85 written disclosure stating whether the livestock:
+86 (A) Has been sold through a livestock market or auction;
+87 (B) Has been subject to culling prior to final sale;
+88 (C) Has been continuously managed under the specified production protocols without
+89 interruption;
+90 (D) Received feed that deviates from the marketed designation, such as grassfed cattle
+91 receiving grain at any point; and
+92 (E) Were over the age of five years at the time of slaughter.
+93 (2) Such disclosure shall be made available at the point of sale, on packaging or
+94 promotional materials, and on any official website or sales platform used by the
+95 large-scale grassfed meat producer.
+S. B. 365
+- 4 -
+
+25 LC 60 0162
+96 (d)(1) All large-scale grassfed meat producers that sell beef produced from older cattle
+97 shall publicly disclose this fact through:
+98 (A) A clearly legible and conspicuous label on the packaging stating: 'This beef is from
+99 cattle over 5 years of age.'; and
+100 (B) Online sales listings or menus specifying when beef is sourced from older cattle.
+101 (2)(A) All older cattle used to produce beef shall undergo testing of specified risk
+102 materials at the time of slaughter for transmissible spongiform encephalopathies,
+103 including, but not limited to, testing for abnormal prion proteins linked to bovine
+104 spongiform encephalopathy, in accordance with any requirements set forth by the
+105 United States Department of Agriculture.
+106 (B) A large-scale grassfed meat producer shall dispose of any specified risk materials
+107 in accordance with any requirements set forth by the United States Department of
+108 Agriculture and the United States Food and Drug Administration.
+109 (C) A large-scale grassfed meat producer shall maintain documentation proving
+110 compliance with subparagraph (A) of this paragraph for no less than five years.
+111 (3) If a positive case of transmissible spongiform encephalopathies is detected, the
+112 large-scale grassfed meat producer shall immediately:
+113 (A) Notify the department and United States Department of Agriculture Animal and
+114 Plant Health Inspection Service; and
+115 (B) Cease sales and distribution of any beef products from the affected herd and follow
+116 any requirements set forth by the department and the United States Department of
+117 Agriculture.
+118 (e)(1) All large-scale pasture-raised poultry producers shall conduct routine avian
+119 influenza testing as follows:
+120 (A) A minimum of 3 percent of live poultry flocks shall be tested on a weekly basis for
+121 highly pathogenic avian influenza and low pathogenic avian influenza;
+S. B. 365
+- 5 -
+
+25 LC 60 0162
+122 (B) Testing shall be conducted by an accredited laboratory using United States
+123 Department of Agriculture approved methods; and
+124 (C) Records of all testing shall be maintained for a minimum of five years and made
+125 available to the department upon request.
+126 (2) If a positive case of highly pathogenic avian influenza is detected, the large-scale
+127 pasture-raised poultry producer shall immediately:
+128 (A) Notify the department and United States Department of Agriculture Animal and
+129 Plant Health Inspection Service;
+130 (B) Cease sales and distribution of poultry products from the affected flock until
+131 further guidance is provided by state and federal authorities; and
+132 (C) Implement biosecurity measures to prevent disease spread, including flock culling
+133 if required by United States Department of Agriculture regulations.
+134 (3) Any failure to comply with avian influenza testing requirements set forth in this
+135 subsection shall result in penalties as outlined in subsection (g) of this Code section.
+136 (f)(1) Large-scale grassfed meat producers and large-scale pasture-raised poultry
+137 producers that label, advertise, or otherwise market multiple types of meat as grassfed,
+138 pasture-raised, free-range, or regeneratively raised, or under similar animal-raising claims
+139 shall ensure separate and verifiable tracking for each species.
+140 (2) Large-scale grassfed meat producers and large-scale pasture-raised poultry producers
+141 engaged in direct-to-consumer online sales shall provide consumers with accessible
+142 sourcing verification through a scannable QR code, public webpage, or other verifiable
+143 digital record.
+144 (g) Any large-scale grassfed meat producer or large-scale pasture-raised poultry producer
+145 found in violation of this Code section shall be subject to:
+146 (1) A civil penalty not to exceed $5,000.00 per violation for a first offense;
+147 (2) A civil penalty not to exceed $10,000.00 per violation for subsequent offenses; and
+S. B. 365
+- 6 -
+
+25 LC 60 0162
+148 (3) Revocation or suspension of such producer's ability to market or sell meat or poultry
+149 products within this state under the designations of grassfed pasture-raised, free-range,
+150 or regeneratively raised, or under similar animal-raising claims for repeated
+151 noncompliance."
+152 SECTION 4.
+153 This Act shall become effective on January 1, 2026.
+154 SECTION 5.
+155 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 365
+- 7 -
+
+[DELETED: 5L w r t t s t p f s v a d]
+[DELETED: 5L i a  I d t p t p ( o t s a p]
+[DELETED: 5L  ' m a p o r c l f p m  ' p p m a p e i t p]
+[DELETED: 5L s a m h o a l u i t m p s a c s i a c l a c  S d s b m a a t p o s o p o m a o a o w o s p u b t]
+[DELETED: 5L a t t o s f t s e  A l g m p s m d p  A l p p p s c r a]
+[DELETED: 5L  T s b c b a a l u U S  L g m p a l p p]
+[DELETED: 5L r r o u s a c f r]

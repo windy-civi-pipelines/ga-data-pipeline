@@ -1,0 +1,259 @@
+Title: House Bill 124
+Official Title: House Bill 124
+Number of Sections: 1
+Source: versions - LC 52 0603/a
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+25 LC 52 0603
+By: Representatives Scoggins of the 14th, Hawkins of the 27th, Hatchett of the 155th, Clark
+of the 100th, Newton of the 127th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 24 of Title 33 and Article 1 of Chapter 18 of Title 45 of the
+2 Official Code of Georgia Annotated, relating to general provisions relative to insurance and
+3 the state employees' health insurance plan and post-employment health benefit fund,
+4 respectively, so as to require coverage for healthcare services for pediatric autoimmune
+5 neuropsychiatric disorders associated with streptococcal infection (PANDAS) and pediatric
+6 acute onset neuropsychiatric syndrome (PANS) in accordance with nationally recognized
+7 clinical practice guidelines; to provide for definitions; to allow for deductibles; to prohibit
+8 special deductibles; to provide for rules and regulations; to provide for related matters; to
+9 repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+13 general provisions relative to insurance, is amended by adding a new Code section to read
+14 as follows:
+15 "33-24-59.34.
+16 (a) As used in this Code section, the term:
+H. B. 124
+- 1 -
+25 LC 52 0603
+17 (1) 'Health benefit policy' means any individual or group plan, policy, or contract for
+18 healthcare services issued, delivered, issued for delivery, or renewed in this state which
+19 provides major medical benefits, including those contracts executed by the State of
+20 Georgia on behalf of state employees under Article 1 of Chapter 18 of Title 45, by a
+21 health care corporation, health maintenance organization, preferred provider organization,
+22 accident and sickness insurer, fraternal benefit society, hospital service corporation,
+23 medical service corporation, or other insurer or similar entity. Such term shall not
+24 include any self-insured health benefit plan subject to the exclusive jurisdiction of the
+25 federal Employee Retirement Income Security Act of 1974, 29 U.S.C. Section 1001,
+26 et seq.
+27 (2) 'Nationally recognized clinical practice guidelines' means evidence based clinical
+28 practice guidelines developed by independent organizations or medical professional
+29 societies utilizing a transparent methodology and reporting structure and with a
+30 conflict-of-interest policy. Such guidelines establish standards of care informed by a
+31 systematic review of evidence and an assessment of the benefits and risks of alternative
+32 care options and include recommendations intended to optimize patient care.
+33 (3) 'Pediatric acute onset neuropsychiatric syndrome' or 'PANS' means a class of acute
+34 onset obsessive compulsive or tic disorders or other behavioral changes presenting in
+35 children and adolescents that are not otherwise explained by another known neurologic
+36 or medical disorder.
+37 (4) 'Pediatric autoimmune neuropsychiatric disorders associated with streptococcal
+38 infections' or 'PANDAS' means a condition in which a streptococcal infection in a child
+39 or adolescent causes the abrupt onset of clinically significant obsessions, compulsions,
+40 tics, or other neuropsychiatric symptoms or behavioral changes, or a relapsing and
+41 remitting course of symptom severity.
+H. B. 124
+- 2 -
+25 LC 52 0603
+42 (b) All health benefit policies renewed or issued on or after July 1, 2025, shall include
+43 coverage for healthcare services for PANDAS or PANS for an individual covered under
+44 such policy as provided in this Code section.
+45 (c) Healthcare services for PANDAS or PANS for an individual covered under a health
+46 benefit policy shall be covered for the purposes of diagnosis, treatment, appropriate
+47 management, or ongoing monitoring of a covered person's disorder when such services are
+48 supported by nationally recognized clinical practice guidelines.
+49 (d) The benefits in a health benefit policy as provided for in this Code section shall be
+50 subject to the same deductibles, coinsurance, copayment provisions, and other limitations
+51 established for all covered benefits within such health benefit policy. Special deductibles,
+52 coinsurance, copayment, and other limitations that are not generally applicable to other
+53 healthcare services covered by a health benefit policy shall not be imposed on coverage for
+54 healthcare services for PANDAS or PANS.
+55 (e) The Commissioner shall promulgate rules and regulations necessary to implement the
+56 provisions of this Code section."
+57 SECTION 2.
+58 Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia Annotated, relating to the
+59 state employees' insurance health insurance plan and post-employment health benefit fund,
+60 is amended by adding a new Code section to read as follows:
+61 "45-18-4.2.
+62 (a) As used in this Code section, the term:
+63 (1) 'Nationally recognized clinical practice guidelines' means evidence based clinical
+64 practice guidelines developed by independent organizations or medical professional
+65 societies utilizing a transparent methodology and reporting structure and with a
+66 conflict-of-interest policy. Such guidelines establish standards of care informed by a
+H. B. 124
+- 3 -
+25 LC 52 0603
+67 systematic review of evidence and an assessment of the benefits and risks of alternative
+68 care options and include recommendations intended to optimize patient care.
+69 (2) 'Pediatric acute onset neuropsychiatric syndrome' or 'PANS' means a class of acute
+70 onset obsessive compulsive or tic disorders or other behavioral changes presenting in
+71 children and adolescents that are not otherwise explained by another known neurologic
+72 or medical disorder.
+73 (3) 'Pediatric autoimmune neuropsychiatric disorders associated with streptococcal
+74 infections' or 'PANDAS' means a condition in which a streptococcal infection in a child
+75 or adolescent causes the abrupt onset of clinically significant obsessions, compulsions,
+76 tics, or other neuropsychiatric symptoms or behavioral changes, or a relapsing and
+77 remitting course of symptom severity.
+78 (4) 'State health benefit plan' means the health insurance plan or plans established
+79 pursuant to this article and Part 6 of Article 17 of Chapter 2 of Title 20 for state and
+80 public employees, dependents, and retirees.
+81 (b) Beginning January 1, 2026, the state health benefit plan shall include coverage for
+82 healthcare services for PANDAS or PANS for an individual covered under such policy as
+83 provided in this Code section.
+84 (c) Healthcare services for PANDAS or PANS for an individual covered under the state
+85 health benefit plan shall be covered for the purposes of diagnosis, treatment, appropriate
+86 management, or ongoing monitoring of a covered person's disorder when such services are
+87 supported by nationally recognized clinical practice guidelines.
+88 (d) The benefits in the state health benefit plan as provided for in this Code section shall
+89 be subject to the same deductibles, coinsurance, copayment provisions, and other
+90 limitations established for all covered benefits within such plan. Special deductibles,
+91 coinsurance, copayment, and other limitations that are not generally applicable to
+92 healthcare services covered by such plan shall not be imposed on coverage for healthcare
+93 services for PANDAS or PANS."
+H. B. 124
+- 4 -
+25 LC 52 0603
+94 SECTION 3.
+95 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 124
+- 5 -
+[DELETED: 5L4,7,5,htht0,7,ht s e h i p a p h b f]
+[DELETED: 5L u a t m a r s a w   ' a n d a w s o o n s o b c o a r a]
+[DELETED: 5L p s b c f t p o d t a u a t m a r s a w ]
+[DELETED: 5L  ' a n d a w s o o n s o b c o a r a s t t s d c c p a o c a o l t a n g a t]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 52 0603
+House Bill 124
+By: Representatives Scoggins of the 14th, Hawkins of the 27th, Hatchett of the 155th, Clark
+of the 100th, Newton of the 127th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 1 of Chapter 24 of Title 33 and Article 1 of Chapter 18 of Title 45 of the
+2 Official Code of Georgia Annotated, relating to general provisions relative to insurance and
+3 the state employees' health insurance plan and post-employment health benefit fund,
+4 respectively, so as to require coverage for healthcare services for pediatric autoimmune
+5 neuropsychiatric disorders associated with streptococcal infection (PANDAS) and pediatric
+6 acute onset neuropsychiatric syndrome (PANS) in accordance with nationally recognized
+7 clinical practice guidelines; to provide for definitions; to allow for deductibles; to prohibit
+8 special deductibles; to provide for rules and regulations; to provide for related matters; to
+9 repeal conflicting laws; and for other purposes.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+11 SECTION 1.
+12 Article 1 of Chapter 24 of Title 33 of the Official Code of Georgia Annotated, relating to
+13 general provisions relative to insurance, is amended by adding a new Code section to read
+14 as follows:
+15 "33-24-59.34.
+16 (a) As used in this Code section, the term:
+H. B. 124
+- 1 -
+
+25 LC 52 0603
+17 (1) 'Health benefit policy' means any individual or group plan, policy, or contract for
+18 healthcare services issued, delivered, issued for delivery, or renewed in this state which
+19 provides major medical benefits, including those contracts executed by the State of
+20 Georgia on behalf of state employees under Article 1 of Chapter 18 of Title 45, by a
+21 health care corporation, health maintenance organization, preferred provider organization,
+22 accident and sickness insurer, fraternal benefit society, hospital service corporation,
+23 medical service corporation, or other insurer or similar entity. Such term shall not
+24 include any self-insured health benefit plan subject to the exclusive jurisdiction of the
+25 federal Employee Retirement Income Security Act of 1974, 29 U.S.C. Section 1001,
+26 et seq.
+27 (2) 'Nationally recognized clinical practice guidelines' means evidence based clinical
+28 practice guidelines developed by independent organizations or medical professional
+29 societies utilizing a transparent methodology and reporting structure and with a
+30 conflict-of-interest policy. Such guidelines establish standards of care informed by a
+31 systematic review of evidence and an assessment of the benefits and risks of alternative
+32 care options and include recommendations intended to optimize patient care.
+33 (3) 'Pediatric acute onset neuropsychiatric syndrome' or 'PANS' means a class of acute
+34 onset obsessive compulsive or tic disorders or other behavioral changes presenting in
+35 children and adolescents that are not otherwise explained by another known neurologic
+36 or medical disorder.
+37 (4) 'Pediatric autoimmune neuropsychiatric disorders associated with streptococcal
+38 infections' or 'PANDAS' means a condition in which a streptococcal infection in a child
+39 or adolescent causes the abrupt onset of clinically significant obsessions, compulsions,
+40 tics, or other neuropsychiatric symptoms or behavioral changes, or a relapsing and
+41 remitting course of symptom severity.
+H. B. 124
+- 2 -
+
+25 LC 52 0603
+42 (b) All health benefit policies renewed or issued on or after July 1, 2025, shall include
+43 coverage for healthcare services for PANDAS or PANS for an individual covered under
+44 such policy as provided in this Code section.
+45 (c) Healthcare services for PANDAS or PANS for an individual covered under a health
+46 benefit policy shall be covered for the purposes of diagnosis, treatment, appropriate
+47 management, or ongoing monitoring of a covered person's disorder when such services are
+48 supported by nationally recognized clinical practice guidelines.
+49 (d) The benefits in a health benefit policy as provided for in this Code section shall be
+50 subject to the same deductibles, coinsurance, copayment provisions, and other limitations
+51 established for all covered benefits within such health benefit policy. Special deductibles,
+52 coinsurance, copayment, and other limitations that are not generally applicable to other
+53 healthcare services covered by a health benefit policy shall not be imposed on coverage for
+54 healthcare services for PANDAS or PANS.
+55 (e) The Commissioner shall promulgate rules and regulations necessary to implement the
+56 provisions of this Code section."
+57 SECTION 2.
+58 Article 1 of Chapter 18 of Title 45 of the Official Code of Georgia Annotated, relating to the
+59 state employees' insurance health insurance plan and post-employment health benefit fund,
+60 is amended by adding a new Code section to read as follows:
+61 "45-18-4.2.
+62 (a) As used in this Code section, the term:
+63 (1) 'Nationally recognized clinical practice guidelines' means evidence based clinical
+64 practice guidelines developed by independent organizations or medical professional
+65 societies utilizing a transparent methodology and reporting structure and with a
+66 conflict-of-interest policy. Such guidelines establish standards of care informed by a
+H. B. 124
+- 3 -
+
+25 LC 52 0603
+67 systematic review of evidence and an assessment of the benefits and risks of alternative
+68 care options and include recommendations intended to optimize patient care.
+69 (2) 'Pediatric acute onset neuropsychiatric syndrome' or 'PANS' means a class of acute
+70 onset obsessive compulsive or tic disorders or other behavioral changes presenting in
+71 children and adolescents that are not otherwise explained by another known neurologic
+72 or medical disorder.
+73 (3) 'Pediatric autoimmune neuropsychiatric disorders associated with streptococcal
+74 infections' or 'PANDAS' means a condition in which a streptococcal infection in a child
+75 or adolescent causes the abrupt onset of clinically significant obsessions, compulsions,
+76 tics, or other neuropsychiatric symptoms or behavioral changes, or a relapsing and
+77 remitting course of symptom severity.
+78 (4) 'State health benefit plan' means the health insurance plan or plans established
+79 pursuant to this article and Part 6 of Article 17 of Chapter 2 of Title 20 for state and
+80 public employees, dependents, and retirees.
+81 (b) Beginning January 1, 2026, the state health benefit plan shall include coverage for
+82 healthcare services for PANDAS or PANS for an individual covered under such policy as
+83 provided in this Code section.
+84 (c) Healthcare services for PANDAS or PANS for an individual covered under the state
+85 health benefit plan shall be covered for the purposes of diagnosis, treatment, appropriate
+86 management, or ongoing monitoring of a covered person's disorder when such services are
+87 supported by nationally recognized clinical practice guidelines.
+88 (d) The benefits in the state health benefit plan as provided for in this Code section shall
+89 be subject to the same deductibles, coinsurance, copayment provisions, and other
+90 limitations established for all covered benefits within such plan. Special deductibles,
+91 coinsurance, copayment, and other limitations that are not generally applicable to
+92 healthcare services covered by such plan shall not be imposed on coverage for healthcare
+93 services for PANDAS or PANS."
+H. B. 124
+- 4 -
+
+25 LC 52 0603
+94 SECTION 3.
+95 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 124
+- 5 -
+
+[DELETED: 5L4,7,5,htht0,7,ht s e h i p a p h b f]
+[DELETED: 5L u a t m a r s a w   ' a n d a w s o o n s o b c o a r a]
+[DELETED: 5L p s b c f t p o d t a u a t m a r s a w ]
+[DELETED: 5L  ' a n d a w s o o n s o b c o a r a s t t s d c c p a o c a o l t a n g a t]
+[DELETED: 5L]

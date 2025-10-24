@@ -1,0 +1,625 @@
+Title: House Bill 579 (AS PASSED HOUSE AND SENATE)
+Official Title: House Bill 579 (AS PASSED HOUSE AND SENATE)
+Number of Sections: 1
+Source: versions - HB 579/AP*
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0580S/AP
+By: Representatives Reeves of the 99th, Hatchett of the 155th, Wiedower of the 121st, Prince
+of the 132nd, Fleming of the 114th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 43 of the Official Code of Georgia Annotated, relating to professions and
+2 businesses, so as to revise provisions relating to licensure to engage in the practice of a
+3 profession, business, or trade in this state; to revise provisions relating to meetings of
+4 professional licensing boards; to revise provisions relating to the roster of licensees; to revise
+5 provisions relating to the duties of the division director; to provide for the review and
+6 granting of applications for the issuance, renewal, or reinstatement of licenses by the director
+7 of the professional licensing boards division; to revise provisions relating to the renewal of
+8 professional licenses; to revise provisions relating to the removal of members of a
+9 professional licensing board; to require that the rules and regulations promulgated by
+10 professional licensing boards be designed to protect the health, safety, and welfare of the
+11 public; to repeal provisions creating separate standards committees of the Georgia Composite
+12 Board of Professional Counselors, Social Workers, and Marriage and Family Therapists; to
+13 provide for an effective date; to provide for related matters; to repeal conflicting laws; and
+14 for other purposes.
+15 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 579
+- 1 -
+25 LC 55 0580S/AP
+16 PART I
+17 SECTION 1-1.
+18 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+19 is amended by revising Code Section 43-1-2, relating to appointment and powers of division
+20 director, members and meetings of professional licenses board, examination standards, roster
+21 of licensees, and funding, as follows:
+22 "43-1-2.
+23 (a)(1) There is created within the office of the Secretary of State the professional
+24 licensing boards division as successor to the office of the joint-secretary of the state
+25 examining boards. The Secretary of State is authorized and directed to appoint a director
+26 of the professional licensing boards division.
+27 (2) Any action of the joint-secretary taken with regard to any state examining board prior
+28 to July 1, 2000, shall thereafter be deemed to be action taken by the director of the
+29 professional licensing boards division and that division director shall thereafter act in the
+30 stead of such joint-secretary and succeed to the powers and duties of the joint-secretary
+31 with regard to those state examining boards. The rights, privileges, entitlements, or
+32 duties of parties to contracts, leases, agreements, or other transactions entered into by the
+33 joint-secretary prior to July 1, 2000, shall continue to exist and shall not be impaired or
+34 diminished by reason of the succession of the division director to the powers and duties
+35 of the joint-secretary.
+36 (b) The salary of the division director shall be fixed by the Secretary of State, and he or
+37 she shall hold office at the pleasure of the Secretary of State.
+38 (c) The Secretary of State, notwithstanding any other provisions of law to the contrary,
+39 shall employ personnel as deemed necessary to carry out this chapter and to provide for all
+40 services required by each of the professional licensing boards and shall establish within the
+H. B. 579
+- 2 -
+25 LC 55 0580S/AP
+41 guidelines provided by the laws and rules and regulations of the State Personnel Board the
+42 qualifications of such personnel.
+43 (d) The division director, with the approval of the Secretary of State, notwithstanding any
+44 other provisions of law to the contrary, shall enter into such contracts as are deemed
+45 necessary to carry out this chapter to provide for all services required by each of the
+46 professional licensing boards.
+47 (e) The Secretary of State, notwithstanding any other provisions of law to the contrary,
+48 shall have the power to employ and shall set the qualifications and salary for a deputy
+49 division director and shall appoint executive directors as required who shall act in the
+50 absence of the division director and who shall perform such other functions of the division
+51 director under this chapter as the division director may designate. The deputy division
+52 director and executive directors as appointed shall be in the unclassified service and shall
+53 be excluded from the classified service as defined in Article 1 of Chapter 20 of Title 45.
+54 (f) Notwithstanding any other provisions of law to the contrary, each member of the
+55 various professional licensing boards may receive the expense allowance as provided by
+56 subsection (b) of Code Section 45-7-21 and the same mileage allowance for the use of a
+57 personal car as that received by all other state officials and employees or a travel allowance
+58 of actual transportation cost if traveling by public carrier within the state. Any board
+59 member shall also be reimbursed for any conference or meeting registration fee incurred
+60 in the performance of his or her duties as a board member. For each day's service outside
+61 of the state as a board member, such member shall receive actual expenses as an expense
+62 allowance as well as the same mileage allowance for the use of a personal car as that
+63 received by other state officials and employees or a travel allowance of actual
+64 transportation cost if traveling by public carrier or by rental motor vehicle. Expense
+65 vouchers submitted by members of the various professional licensing boards are subject
+66 to approval of the president or chairperson of the respective board and the division director.
+H. B. 579
+- 3 -
+25 LC 55 0580S/AP
+67 (g) All meetings and hearings of the respective professional licensing boards shall be held
+68 in the capitol, at the site of the office of the respective board, or at such other site as may
+69 be requested by the chairperson or president of a professional licensing board and approved
+70 by the division director.
+71 (h) A majority of the appointed members of a professional licensing board shall constitute
+72 a quorum for the transaction of business by that board.
+73 (h.1) Members of a professional licensing board shall serve until the expiration of the term
+74 for which they were appointed and until their successors have been appointed and qualified
+75 unless otherwise specified under the provisions of this title.
+76 (i) A schedule of all meetings and hearings of the various professional licensing boards
+77 shall be maintained at the office of the division director and be available for public review.
+78 (j)(1) The division director may establish administrative standards for the examination
+79 of applicants for licensure by the various professional licensing boards, notwithstanding
+80 any other provisions of law to the contrary. These administrative standards may include
+81 the setting of date, time, and location of examinations, subject to the approval of the
+82 respective professional licensing boards. Notwithstanding any other provisions of law
+83 to the contrary, examination criteria, examination grading procedures, examination fees,
+84 examination passing score requirements, and other matters pertaining to the examination
+85 of applicants for licensure may be adopted by rules of the respective professional
+86 licensing boards as necessary to implement such examination standards. Examination
+87 standards, including examination criteria, grading procedures, and passing score
+88 requirements, developed in agreement or in conjunction with a national association of
+89 state boards or other related national association for the administration of a nationally
+90 recognized uniform examination may be adopted in lieu of state standards by the
+91 respective professional licensing boards.
+92 (2)(A) Notwithstanding any other provision of this title to the contrary, whenever an
+93 applicant for the issuance of a license is required to obtain prior approval from a
+H. B. 579
+- 4 -
+25 LC 55 0580S/AP
+94 professional licensing board before such applicant is permitted to take an examination
+95 required in connection with such license, the division director shall be authorized to
+96 grant such approval on behalf of the applicable professional licensing board, provided
+97 that the division director is able to determine that the applicant has satisfied all other
+98 requirements that may be provided in this title or in the rules and regulations of the
+99 professional licensing board for such applicant to take such examination.
+100 (B) Nothing in this paragraph shall prevent a professional licensing board from
+101 granting or denying its approval for any applicant seeking the issuance of a license to
+102 take an examination required in connection with such license, and such grant or denial
+103 of approval from a professional licensing board with respect to a particular applicant
+104 shall not be contradicted by the division director acting under the authorization
+105 provided in this paragraph.
+106 (C) As used in this paragraph, the term 'license' shall have the same meaning as set
+107 forth in Code Section 43-1-3.1.
+108 (k) The division director shall prepare and maintain a roster containing the names and
+109 addresses of all current licensees for each of the various professional licensing boards as
+110 well as all persons, other than any person who fails to renew his or her license for a period
+111 of 45 days or less, who have been issued a public cease and desist order by a professional
+112 licensing board pursuant to Code Section 43-1-20.1 for engaging in the practice of a
+113 business or profession without a license. A copy of this such roster for each professional
+114 licensing board, except for home addresses of licensees, shall be made available on the
+115 public website of the secretary of state and shall include, in one location, the names of
+116 licensees and persons issued cease and desist orders. A copy of the roster, except for home
+117 addresses of licensees, shall also be made available to any person upon request at a fee
+118 prescribed by the division director sufficient to cover the cost of printing and distribution.
+119 The following shall be treated as confidential and need not be disclosed without the
+120 approval of the professional licensing board to which application is made:
+H. B. 579
+- 5 -
+25 LC 55 0580S/AP
+121 (1) Applications and other personal information, including home addresses, submitted
+122 by applicants, except to the applicant, staff, and the board;
+123 (2) Information, favorable or unfavorable, submitted by a reference source concerning
+124 an applicant, except to the staff and the board;
+125 (3) Examination questions and other examination materials, except to the staff and the
+126 board; and
+127 (4) The deliberations of the board with respect to an application, an examination, a
+128 complaint, an investigation, or a disciplinary proceeding, except as may be contained in
+129 official board minutes.
+130 (l) Funding for the office of the division director and the various professional licensing
+131 boards served by such office shall be contained in a common budget unit as defined in
+132 Part 1 of Article 4 of Chapter 12 of Title 45, the 'Budget Act.'"
+133 SECTION 1-2.
+134 Said title is further amended in Code Section 43-1-3, relating to duties of the division director
+135 and serving notice or process on boards through the division director, by revising subsection
+136 (a) as follows:
+137 "(a) It shall be the duty of the division director:
+138 (1) To bring together and keep all records relating to the professional licensing boards;
+139 (2) To receive all applications for licenses;
+140 (3) To review and grant applications for the issuance, renewal, or reinstatement of
+141 licenses in accordance with the provisions of Code Section 43-1-3.1;
+142 (4) With the consent of the board concerned, to schedule the time and place for
+143 examinations;
+144 (4)(5) To schedule the time and place for all hearings;
+145 (5)(6) To issue certificates upon authority of the professional licensing board concerned;
+146 and
+H. B. 579
+- 6 -
+25 LC 55 0580S/AP
+147 (6)(7) Except as otherwise provided by law, to collect all fees required by law in
+148 connection with the licensing of trades and professions under such boards and to remit
+149 the same to the state treasurer for deposit into the general fund of the state.
+150 Notwithstanding any other provision of law, the division director is authorized to retain
+151 all funds received as collection fees for use in defraying the cost of collection of fees
+152 required under this chapter; provided, however, that nothing in this Code section shall be
+153 construed so as to allow the division director to retain any funds required by the
+154 Constitution of Georgia to be paid into the state treasury; and provided, further, that the
+155 division director shall comply with all provisions of Part 1 of Article 4 of Chapter 12 of
+156 Title 45, the 'Budget Act,' except Code Section 45-12-92, prior to expending any such
+157 funds."
+158 SECTION 1-3.
+159 Said title is further amended by adding a new Code section to read as follows:
+160 "43-1-3.1.
+161 (a) As used in this Code section, the term 'license' means any license, certificate, permit,
+162 registration, or other document that is issued by a professional licensing board and that is
+163 required under this title for a person to engage in the practice of a profession, business, or
+164 trade in this state. Such term shall include, without limitation, any expedited license,
+165 temporary license, special license, or license by endorsement that is issued by a
+166 professional licensing board under this title.
+167 (b)(1) Notwithstanding any provision of this title to the contrary, the division director
+168 shall be authorized to review each application for the issuance, renewal, or reinstatement
+169 of a license and, upon determining that an application furnishes evidence that the
+170 applicant has achieved or satisfied all of the qualifications, attainments, and other
+171 conditions required for the issuance, renewal, or reinstatement of a particular license
+172 under the provisions of this title or under the rules and regulations promulgated pursuant
+H. B. 579
+- 7 -
+25 LC 55 0580S/AP
+173 to this title, shall be authorized, on behalf of the applicable professional licensing board,
+174 to issue the license to or renew or reinstate the license of the applicant.
+175 (2) Whenever the division director reviews any application for the issuance, renewal, or
+176 reinstatement of a license pursuant to paragraph (1) of this subsection and cannot
+177 determine, based on such application, that the applicant has achieved or satisfied all of
+178 the qualifications, attainments, and other conditions required for the issuance, renewal,
+179 or reinstatement of the license under the provisions of this title or under the rules and
+180 regulations promulgated pursuant to this title, the division director shall not take any
+181 action on the application and shall forward the application to the applicable professional
+182 licensing board who shall then review, consider, and either grant or deny the application
+183 in a timely manner.
+184 (c) Nothing in this Code section shall prevent a professional licensing board from
+185 reviewing applications for the issuance, renewal, or reinstatement of a license that is issued
+186 by such professional licensing board and granting or denying such applications. Any such
+187 application which a professional licensing board has granted or denied shall not be
+188 reviewed or considered by the division director and, if the division director is in the process
+189 of reviewing or considering such application at the time the professional licensing board
+190 grants or denies such application, the division director shall cease his or her review of such
+191 application and shall not take any further action on the application.
+192 (d) When it is necessary for the division director, in connection with his or her review of
+193 an application for the issuance, renewal, or reinstatement of a license under subsection (b)
+194 of this Code section, to determine whether the applicant has satisfied any postsecondary
+195 education requirements required for the issuance, renewal, or reinstatement of such license,
+196 the division director shall not be required to obtain official transcripts evidencing the
+197 satisfaction of such education requirements from the relevant postsecondary education
+198 institution, provided that the division director is able to obtain confirmation, through other
+199 reliable means, from the postsecondary education institution that such education
+H. B. 579
+- 8 -
+25 LC 55 0580S/AP
+200 requirements have been satisfied. Each postsecondary education institution in this state is
+201 encouraged to work with the division director to develop such alternative method of
+202 confirming the satisfaction of education requirements as provided in this title."
+203 SECTION 1-4.
+204 Said title is further amended by revising Code Section 43-1-4, relating to expiration, renewal,
+205 and penalty dates of licenses and certificates; duration of validity, and renewals, as follows:
+206 "43-1-4.
+207 (a) The division director shall determine the expiration, renewal, and penalty dates for
+208 each license and certificate issued by the professional licensing boards through the office
+209 of the division director which is subject to renewal. Before becoming effective, these
+210 expiration, renewal, and penalty dates must be approved by the respective professional
+211 licensing boards.
+212 (b) Each Notwithstanding any provision of this title to the contrary, each license and
+213 certificate issued by the professional licensing boards through the office of the division
+214 director which are subject to renewal shall be valid for up to two years and shall be
+215 renewable biennially on the renewal date established by the division director, as approved
+216 by the respective professional licensing boards. Any such license or certificate shall be
+217 renewable for up to 45 days after the expiration of such license or certificate, provided that
+218 the licensee or the certificate holder has satisfied all requirements and paid all fees relating
+219 to the renewal of such license or certificate as provided in this title or in the rules and
+220 regulations promulgated pursuant to this title.
+221 (c) The division director is authorized to adopt the necessary rules and regulations to
+222 implement the biennial renewal of licenses and certificates in such manner as to ensure that
+223 the number of renewals is reasonably evenly distributed throughout each two-year period."
+H. B. 579
+- 9 -
+25 LC 55 0580S/AP
+224 SECTION 1-5.
+225 Said title is further amended by revising Code Section 43-1-17, relating to removal from
+226 office member of a professional licensing board, as follows:
+227 "43-1-17.
+228 The Governor, after notice and opportunity for hearing, may remove from office any
+229 member of a professional licensing board for any of the following:
+230 (1) Inability or neglect to perform the duties required of members;
+231 (2) Incompetence; or
+232 (3) Dishonest conduct."
+233 SECTION 1-6.
+234 Said title is further amended by revising Code Section 43-1-26, which is reserved, as follows:
+235 "43-1-26.
+236 Notwithstanding any provision of this title to the contrary, the power of each professional
+237 licensing board to promulgate rules and regulations as provided in this title shall be limited
+238 to the promulgation of rules and regulations that are designed to protect the health, safety,
+239 and welfare of the public regarding the particular profession, business, or trade that is
+240 regulated by such professional licensing board Reserved."
+241 PART II
+242 SECTION 2-1.
+243 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+244 is amended by repealing in its entirety Code Section 43-10A-6, relating to separate standards
+245 committees for professional counseling specialty, social work specialty, and marriage and
+246 family therapy specialty, and designating said Code section as reserved.
+H. B. 579
+- 10 -
+25 LC 55 0580S/AP
+247 PART III
+248 SECTION 3-1.
+249 This Act shall become effective on July 1, 2026.
+250 SECTION 3-2.
+251 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 579
+- 11 -
+[DELETED: 5L9,5,1,hths2,4,dt t m l t r p r t t r o m o  l b t r t t r a r p b]
+[DELETED: 5L]
+[DELETED: 5L b o s o a e o a t a o a]
+[DELETED: 5L a f l m b a b r o t r p i e c g p a p s u e m b a i l o s s b t]
+[DELETED: 5L  N i t p s p a p l b f n b c b t d d a u t a]
+[DELETED: 5L  W t c o t b c t s t t a p f]
+[DELETED: 5L s t t s t f d i t g f o t s s a t a t d d t r a f r b t l s l o l b e t i i b  a l a u d t a a f e t t h a o s a o t q a a o]
+[DELETED: 5L o a l p t p ( o t s a c  N i t C s s p a p l b f w a p l b h g o d s n b m f t p e i t s e]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0580S/AP
+House Bill 579 (AS PASSED HOUSE AND SENATE)
+By: Representatives Reeves of the 99th, Hatchett of the 155th, Wiedower of the 121st, Prince
+of the 132nd, Fleming of the 114th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 43 of the Official Code of Georgia Annotated, relating to professions and
+2 businesses, so as to revise provisions relating to licensure to engage in the practice of a
+3 profession, business, or trade in this state; to revise provisions relating to meetings of
+4 professional licensing boards; to revise provisions relating to the roster of licensees; to revise
+5 provisions relating to the duties of the division director; to provide for the review and
+6 granting of applications for the issuance, renewal, or reinstatement of licenses by the director
+7 of the professional licensing boards division; to revise provisions relating to the renewal of
+8 professional licenses; to revise provisions relating to the removal of members of a
+9 professional licensing board; to require that the rules and regulations promulgated by
+10 professional licensing boards be designed to protect the health, safety, and welfare of the
+11 public; to repeal provisions creating separate standards committees of the Georgia Composite
+12 Board of Professional Counselors, Social Workers, and Marriage and Family Therapists; to
+13 provide for an effective date; to provide for related matters; to repeal conflicting laws; and
+14 for other purposes.
+15 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+H. B. 579
+- 1 -
+
+25 LC 55 0580S/AP
+16 PART I
+17 SECTION 1-1.
+18 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+19 is amended by revising Code Section 43-1-2, relating to appointment and powers of division
+20 director, members and meetings of professional licenses board, examination standards, roster
+21 of licensees, and funding, as follows:
+22 "43-1-2.
+23 (a)(1) There is created within the office of the Secretary of State the professional
+24 licensing boards division as successor to the office of the joint-secretary of the state
+25 examining boards. The Secretary of State is authorized and directed to appoint a director
+26 of the professional licensing boards division.
+27 (2) Any action of the joint-secretary taken with regard to any state examining board prior
+28 to July 1, 2000, shall thereafter be deemed to be action taken by the director of the
+29 professional licensing boards division and that division director shall thereafter act in the
+30 stead of such joint-secretary and succeed to the powers and duties of the joint-secretary
+31 with regard to those state examining boards. The rights, privileges, entitlements, or
+32 duties of parties to contracts, leases, agreements, or other transactions entered into by the
+33 joint-secretary prior to July 1, 2000, shall continue to exist and shall not be impaired or
+34 diminished by reason of the succession of the division director to the powers and duties
+35 of the joint-secretary.
+36 (b) The salary of the division director shall be fixed by the Secretary of State, and he or
+37 she shall hold office at the pleasure of the Secretary of State.
+38 (c) The Secretary of State, notwithstanding any other provisions of law to the contrary,
+39 shall employ personnel as deemed necessary to carry out this chapter and to provide for all
+40 services required by each of the professional licensing boards and shall establish within the
+H. B. 579
+- 2 -
+
+25 LC 55 0580S/AP
+41 guidelines provided by the laws and rules and regulations of the State Personnel Board the
+42 qualifications of such personnel.
+43 (d) The division director, with the approval of the Secretary of State, notwithstanding any
+44 other provisions of law to the contrary, shall enter into such contracts as are deemed
+45 necessary to carry out this chapter to provide for all services required by each of the
+46 professional licensing boards.
+47 (e) The Secretary of State, notwithstanding any other provisions of law to the contrary,
+48 shall have the power to employ and shall set the qualifications and salary for a deputy
+49 division director and shall appoint executive directors as required who shall act in the
+50 absence of the division director and who shall perform such other functions of the division
+51 director under this chapter as the division director may designate. The deputy division
+52 director and executive directors as appointed shall be in the unclassified service and shall
+53 be excluded from the classified service as defined in Article 1 of Chapter 20 of Title 45.
+54 (f) Notwithstanding any other provisions of law to the contrary, each member of the
+55 various professional licensing boards may receive the expense allowance as provided by
+56 subsection (b) of Code Section 45-7-21 and the same mileage allowance for the use of a
+57 personal car as that received by all other state officials and employees or a travel allowance
+58 of actual transportation cost if traveling by public carrier within the state. Any board
+59 member shall also be reimbursed for any conference or meeting registration fee incurred
+60 in the performance of his or her duties as a board member. For each day's service outside
+61 of the state as a board member, such member shall receive actual expenses as an expense
+62 allowance as well as the same mileage allowance for the use of a personal car as that
+63 received by other state officials and employees or a travel allowance of actual
+64 transportation cost if traveling by public carrier or by rental motor vehicle. Expense
+65 vouchers submitted by members of the various professional licensing boards are subject
+66 to approval of the president or chairperson of the respective board and the division director.
+H. B. 579
+- 3 -
+
+25 LC 55 0580S/AP
+67 (g) All meetings and hearings of the respective professional licensing boards shall be held
+68 in the capitol, at the site of the office of the respective board, or at such other site as may
+69 be requested by the chairperson or president of a professional licensing board and approved
+70 by the division director.
+71 (h) A majority of the appointed members of a professional licensing board shall constitute
+72 a quorum for the transaction of business by that board.
+73 (h.1) Members of a professional licensing board shall serve until the expiration of the term
+74 for which they were appointed and until their successors have been appointed and qualified
+75 unless otherwise specified under the provisions of this title.
+76 (i) A schedule of all meetings and hearings of the various professional licensing boards
+77 shall be maintained at the office of the division director and be available for public review.
+78 (j)(1) The division director may establish administrative standards for the examination
+79 of applicants for licensure by the various professional licensing boards, notwithstanding
+80 any other provisions of law to the contrary. These administrative standards may include
+81 the setting of date, time, and location of examinations, subject to the approval of the
+82 respective professional licensing boards. Notwithstanding any other provisions of law
+83 to the contrary, examination criteria, examination grading procedures, examination fees,
+84 examination passing score requirements, and other matters pertaining to the examination
+85 of applicants for licensure may be adopted by rules of the respective professional
+86 licensing boards as necessary to implement such examination standards. Examination
+87 standards, including examination criteria, grading procedures, and passing score
+88 requirements, developed in agreement or in conjunction with a national association of
+89 state boards or other related national association for the administration of a nationally
+90 recognized uniform examination may be adopted in lieu of state standards by the
+91 respective professional licensing boards.
+92 (2)(A) Notwithstanding any other provision of this title to the contrary, whenever an
+93 applicant for the issuance of a license is required to obtain prior approval from a
+H. B. 579
+- 4 -
+
+25 LC 55 0580S/AP
+94 professional licensing board before such applicant is permitted to take an examination
+95 required in connection with such license, the division director shall be authorized to
+96 grant such approval on behalf of the applicable professional licensing board, provided
+97 that the division director is able to determine that the applicant has satisfied all other
+98 requirements that may be provided in this title or in the rules and regulations of the
+99 professional licensing board for such applicant to take such examination.
+100 (B) Nothing in this paragraph shall prevent a professional licensing board from
+101 granting or denying its approval for any applicant seeking the issuance of a license to
+102 take an examination required in connection with such license, and such grant or denial
+103 of approval from a professional licensing board with respect to a particular applicant
+104 shall not be contradicted by the division director acting under the authorization
+105 provided in this paragraph.
+106 (C) As used in this paragraph, the term 'license' shall have the same meaning as set
+107 forth in Code Section 43-1-3.1.
+108 (k) The division director shall prepare and maintain a roster containing the names and
+109 addresses of all current licensees for each of the various professional licensing boards as
+110 well as all persons, other than any person who fails to renew his or her license for a period
+111 of 45 days or less, who have been issued a public cease and desist order by a professional
+112 licensing board pursuant to Code Section 43-1-20.1 for engaging in the practice of a
+113 business or profession without a license. A copy of this such roster for each professional
+114 licensing board, except for home addresses of licensees, shall be made available on the
+115 public website of the secretary of state and shall include, in one location, the names of
+116 licensees and persons issued cease and desist orders. A copy of the roster, except for home
+117 addresses of licensees, shall also be made available to any person upon request at a fee
+118 prescribed by the division director sufficient to cover the cost of printing and distribution.
+119 The following shall be treated as confidential and need not be disclosed without the
+120 approval of the professional licensing board to which application is made:
+H. B. 579
+- 5 -
+
+25 LC 55 0580S/AP
+121 (1) Applications and other personal information, including home addresses, submitted
+122 by applicants, except to the applicant, staff, and the board;
+123 (2) Information, favorable or unfavorable, submitted by a reference source concerning
+124 an applicant, except to the staff and the board;
+125 (3) Examination questions and other examination materials, except to the staff and the
+126 board; and
+127 (4) The deliberations of the board with respect to an application, an examination, a
+128 complaint, an investigation, or a disciplinary proceeding, except as may be contained in
+129 official board minutes.
+130 (l) Funding for the office of the division director and the various professional licensing
+131 boards served by such office shall be contained in a common budget unit as defined in
+132 Part 1 of Article 4 of Chapter 12 of Title 45, the 'Budget Act.'"
+133 SECTION 1-2.
+134 Said title is further amended in Code Section 43-1-3, relating to duties of the division director
+135 and serving notice or process on boards through the division director, by revising subsection
+136 (a) as follows:
+137 "(a) It shall be the duty of the division director:
+138 (1) To bring together and keep all records relating to the professional licensing boards;
+139 (2) To receive all applications for licenses;
+140 (3) To review and grant applications for the issuance, renewal, or reinstatement of
+141 licenses in accordance with the provisions of Code Section 43-1-3.1;
+142 (4) With the consent of the board concerned, to schedule the time and place for
+143 examinations;
+144 (4)(5) To schedule the time and place for all hearings;
+145 (5)(6) To issue certificates upon authority of the professional licensing board concerned;
+146 and
+H. B. 579
+- 6 -
+
+25 LC 55 0580S/AP
+147 (6)(7) Except as otherwise provided by law, to collect all fees required by law in
+148 connection with the licensing of trades and professions under such boards and to remit
+149 the same to the state treasurer for deposit into the general fund of the state.
+150 Notwithstanding any other provision of law, the division director is authorized to retain
+151 all funds received as collection fees for use in defraying the cost of collection of fees
+152 required under this chapter; provided, however, that nothing in this Code section shall be
+153 construed so as to allow the division director to retain any funds required by the
+154 Constitution of Georgia to be paid into the state treasury; and provided, further, that the
+155 division director shall comply with all provisions of Part 1 of Article 4 of Chapter 12 of
+156 Title 45, the 'Budget Act,' except Code Section 45-12-92, prior to expending any such
+157 funds."
+158 SECTION 1-3.
+159 Said title is further amended by adding a new Code section to read as follows:
+160 "43-1-3.1.
+161 (a) As used in this Code section, the term 'license' means any license, certificate, permit,
+162 registration, or other document that is issued by a professional licensing board and that is
+163 required under this title for a person to engage in the practice of a profession, business, or
+164 trade in this state. Such term shall include, without limitation, any expedited license,
+165 temporary license, special license, or license by endorsement that is issued by a
+166 professional licensing board under this title.
+167 (b)(1) Notwithstanding any provision of this title to the contrary, the division director
+168 shall be authorized to review each application for the issuance, renewal, or reinstatement
+169 of a license and, upon determining that an application furnishes evidence that the
+170 applicant has achieved or satisfied all of the qualifications, attainments, and other
+171 conditions required for the issuance, renewal, or reinstatement of a particular license
+172 under the provisions of this title or under the rules and regulations promulgated pursuant
+H. B. 579
+- 7 -
+
+25 LC 55 0580S/AP
+173 to this title, shall be authorized, on behalf of the applicable professional licensing board,
+174 to issue the license to or renew or reinstate the license of the applicant.
+175 (2) Whenever the division director reviews any application for the issuance, renewal, or
+176 reinstatement of a license pursuant to paragraph (1) of this subsection and cannot
+177 determine, based on such application, that the applicant has achieved or satisfied all of
+178 the qualifications, attainments, and other conditions required for the issuance, renewal,
+179 or reinstatement of the license under the provisions of this title or under the rules and
+180 regulations promulgated pursuant to this title, the division director shall not take any
+181 action on the application and shall forward the application to the applicable professional
+182 licensing board who shall then review, consider, and either grant or deny the application
+183 in a timely manner.
+184 (c) Nothing in this Code section shall prevent a professional licensing board from
+185 reviewing applications for the issuance, renewal, or reinstatement of a license that is issued
+186 by such professional licensing board and granting or denying such applications. Any such
+187 application which a professional licensing board has granted or denied shall not be
+188 reviewed or considered by the division director and, if the division director is in the process
+189 of reviewing or considering such application at the time the professional licensing board
+190 grants or denies such application, the division director shall cease his or her review of such
+191 application and shall not take any further action on the application.
+192 (d) When it is necessary for the division director, in connection with his or her review of
+193 an application for the issuance, renewal, or reinstatement of a license under subsection (b)
+194 of this Code section, to determine whether the applicant has satisfied any postsecondary
+195 education requirements required for the issuance, renewal, or reinstatement of such license,
+196 the division director shall not be required to obtain official transcripts evidencing the
+197 satisfaction of such education requirements from the relevant postsecondary education
+198 institution, provided that the division director is able to obtain confirmation, through other
+199 reliable means, from the postsecondary education institution that such education
+H. B. 579
+- 8 -
+
+25 LC 55 0580S/AP
+200 requirements have been satisfied. Each postsecondary education institution in this state is
+201 encouraged to work with the division director to develop such alternative method of
+202 confirming the satisfaction of education requirements as provided in this title."
+203 SECTION 1-4.
+204 Said title is further amended by revising Code Section 43-1-4, relating to expiration, renewal,
+205 and penalty dates of licenses and certificates; duration of validity, and renewals, as follows:
+206 "43-1-4.
+207 (a) The division director shall determine the expiration, renewal, and penalty dates for
+208 each license and certificate issued by the professional licensing boards through the office
+209 of the division director which is subject to renewal. Before becoming effective, these
+210 expiration, renewal, and penalty dates must be approved by the respective professional
+211 licensing boards.
+212 (b) Each Notwithstanding any provision of this title to the contrary, each license and
+213 certificate issued by the professional licensing boards through the office of the division
+214 director which are subject to renewal shall be valid for up to two years and shall be
+215 renewable biennially on the renewal date established by the division director, as approved
+216 by the respective professional licensing boards. Any such license or certificate shall be
+217 renewable for up to 45 days after the expiration of such license or certificate, provided that
+218 the licensee or the certificate holder has satisfied all requirements and paid all fees relating
+219 to the renewal of such license or certificate as provided in this title or in the rules and
+220 regulations promulgated pursuant to this title.
+221 (c) The division director is authorized to adopt the necessary rules and regulations to
+222 implement the biennial renewal of licenses and certificates in such manner as to ensure that
+223 the number of renewals is reasonably evenly distributed throughout each two-year period."
+H. B. 579
+- 9 -
+
+25 LC 55 0580S/AP
+224 SECTION 1-5.
+225 Said title is further amended by revising Code Section 43-1-17, relating to removal from
+226 office member of a professional licensing board, as follows:
+227 "43-1-17.
+228 The Governor, after notice and opportunity for hearing, may remove from office any
+229 member of a professional licensing board for any of the following:
+230 (1) Inability or neglect to perform the duties required of members;
+231 (2) Incompetence; or
+232 (3) Dishonest conduct."
+233 SECTION 1-6.
+234 Said title is further amended by revising Code Section 43-1-26, which is reserved, as follows:
+235 "43-1-26.
+236 Notwithstanding any provision of this title to the contrary, the power of each professional
+237 licensing board to promulgate rules and regulations as provided in this title shall be limited
+238 to the promulgation of rules and regulations that are designed to protect the health, safety,
+239 and welfare of the public regarding the particular profession, business, or trade that is
+240 regulated by such professional licensing board Reserved."
+241 PART II
+242 SECTION 2-1.
+243 Title 43 of the Official Code of Georgia Annotated, relating to professions and businesses,
+244 is amended by repealing in its entirety Code Section 43-10A-6, relating to separate standards
+245 committees for professional counseling specialty, social work specialty, and marriage and
+246 family therapy specialty, and designating said Code section as reserved.
+H. B. 579
+- 10 -
+
+25 LC 55 0580S/AP
+247 PART III
+248 SECTION 3-1.
+249 This Act shall become effective on July 1, 2026.
+250 SECTION 3-2.
+251 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 579
+- 11 -
+
+[DELETED: 5L9,5,1,hths2,4,dt t m l t r p r t t r o m o  l b t r t t r a r p b]
+[DELETED: 5L]
+[DELETED: 5L b o s o a e o a t a o a]
+[DELETED: 5L a f l m b a b r o t r p i e c g p a p s u e m b a i l o s s b t]
+[DELETED: 5L  N i t p s p a p l b f n b c b t d d a u t a]
+[DELETED: 5L  W t c o t b c t s t t a p f]
+[DELETED: 5L s t t s t f d i t g f o t s s a t a t d d t r a f r b t l s l o l b e t i i b  a l a u d t a a f e t t h a o s a o t q a a o]
+[DELETED: 5L o a l p t p ( o t s a c  N i t C s s p a p l b f w a p l b h g o d s n b m f t p e i t s e]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L]

@@ -1,0 +1,511 @@
+Title: House Bill 308
+Official Title: House Bill 308
+Number of Sections: 1
+Source: versions - LC 39 4568/a
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+25 LC 39 4568
+By: Representatives Clifton of the 131st, Wiedower of the 121st, Rhodes of the 124th, Corbett
+of the 174th, Dickey of the 134th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles and
+2 traffic, so as to provide for the operation of miniature on-road vehicles on certain highways;
+3 to provide for standards for registration of such vehicles; to provide for issuance of license
+4 plates for miniature on-road vehicles; to provide for an annual licensing fee for such vehicles;
+5 to provide for issuance of certificates of title by the Department of Revenue for such
+6 vehicles; to provide for equipment and operating standards for such vehicles; to provide local
+7 authorities with the power to prohibit operation of miniature on-road vehicles; to require
+8 posting of notice of such prohibition upon highways; to revise and provide for a definition;
+9 to provide for related matters; to provide for an effective date; to repeal conflicting laws; and
+10 for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles and traffic, is
+14 amended in Code Section 40-1-1, relating to definitions, by revising paragraph (27.1) and
+15 adding a new paragraph to read as follows:
+H. B. 308
+- 1 -
+25 LC 39 4568
+16 "(27.1) 'Miniature on-road vehicle' means any motorized vehicle designed and
+17 manufactured for use upon roadways in another country that has been imported into the
+18 United States with a valid certificate of title or registration from the exporting country
+19 and in compliance with all federal importation requirements and which has the following
+20 characteristics:
+21 (A) Has the capability to transport persons;
+22 (B) Operates between 25 miles per hour (40.2 kilometers per hour) and 65 miles per
+23 hour (104.6 kilometers per hour);
+24 (C) Has an overall width of 80 inches (2,030 millimeters) or less, exclusive of
+25 accessories or attachments;
+26 (D) Is designed to travel on four or more wheels;
+27 (E) Uses a steering wheel for steering control;
+28 (F) Contains a nonstraddle seat;
+29 (G) Has a gross vehicle weight rating of less than 4,000 pounds (1,814 kilograms); and
+30 (H) Is not designed or manufactured as a golf cart, all-terrain vehicle, or multipurpose
+31 off-highway vehicle.
+32 (27.2) 'Minimal risk condition' means a low-risk operating mode in which a fully
+33 autonomous vehicle operating without a human driver achieves a reasonably safe state,
+34 such as bringing the vehicle to a complete stop, upon experiencing a failure of the
+35 vehicle's automated driving system that renders the vehicle unable to perform the entire
+36 dynamic driving task."
+37 SECTION 2.
+38 Said title is further amended in Code Section 40-2-27, relating to registration of motor
+39 vehicles not manufactured to comply with federal emission and safety standards, certificate
+40 of registration for an assembled motor vehicle or motorcycle or a converted motor vehicle,
+41 and former military motor vehicles, by revising subsection (e) as follows:
+H. B. 308
+- 2 -
+25 LC 39 4568
+42 "(e) The provisions of subsection (a) of this Code section shall not apply to applications
+43 for certificates of registration for former military motor vehicles that are less than 25 years
+44 old and manufactured for the United States military, or multipurpose off-highway vehicles
+45 manufactured after January 1, 2000, or miniature on-road vehicles manufactured more than
+46 25 years prior to application; provided, however, that the exception provided by this
+47 subsection shall be applicable to miniature on-road vehicles manufactured less than 25
+48 years prior to application that have been modified by an importer registered with the United
+49 States Department of Transportation to comply with applicable federal motor vehicle safety
+50 standards issued pursuant to 49 U.S.C. Section 30101, et seq., and certified by such
+51 importer as such."
+52 SECTION 3.
+53 Said title is further amended in Code Section 40-2-31, relating to license plate design,
+54 retention of manufacturing and delivery costs, revalidation, county, and "In God We Trust"
+55 decals, by revising subsection (b) as follows:
+56 "(b) License plates issued pursuant to this chapter shall be at least six inches wide and not
+57 less than 12 inches in length, except that motorcycle license plates shall be at least four
+58 inches wide and not less than seven inches in length and license plates for low-speed
+59 vehicles, miniature on-road vehicles, and multipurpose off-highway vehicles shall be a size
+60 determined by the commissioner. All license plates shall show in boldface characters the
+61 month and year of expiration, the serial number, and either the full name or the
+62 abbreviation of the name of the state, shall designate the county from which the license
+63 plate was issued unless specifically stated otherwise in this chapter, and shall show such
+64 other distinctive markings as in the judgment of the commissioner may be deemed
+65 advisable, so as to indicate the class of weight of the vehicle for which the license plate was
+66 issued. Any license plate for a low-speed vehicle, miniature on-road vehicle, or
+67 multipurpose off-highway vehicle shall designate the vehicle as such. Such plates may also
+H. B. 308
+- 3 -
+25 LC 39 4568
+68 bear such figures, characters, letters, or combinations thereof as in the judgment of the
+69 commissioner will to the best advantage advertise, popularize, and otherwise promote
+70 Georgia as the 'Peach State.' Plates issued during the years 2026 through 2030 shall
+71 include the design approved pursuant to Code Section 40-2-31.1. Except for license plates
+72 issued pursuant to Article 2B of this chapter, any license plate issued pursuant to this
+73 chapter shall be of such strength and quality that the plate shall provide a minimum service
+74 period of at least five years. The commissioner shall adopt rules and regulations, pursuant
+75 to the provisions of Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act,' for
+76 the design and issuance of new license plates and to implement the other provisions of this
+77 Code section."
+78 SECTION 4.
+79 Said title is further amended in said Code section, as in effect on January 1, 2032, by revising
+80 subsection (b) as follows:
+81 "(b) License plates issued pursuant to this chapter shall be at least six inches wide and not
+82 less than 12 inches in length, except that motorcycle license plates shall be at least four
+83 inches wide and not less than seven inches in length and license plates for low-speed
+84 vehicles, miniature on-road vehicles, and multipurpose off-highway vehicles shall be a size
+85 determined by the commissioner. All license plates shall show in boldface characters the
+86 month and year of expiration, the serial number, and either the full name or the
+87 abbreviation of the name of the state, shall designate the county from which the license
+88 plate was issued unless specifically stated otherwise in this chapter, and shall show such
+89 other distinctive markings as in the judgment of the commissioner may be deemed
+90 advisable, so as to indicate the class of weight of the vehicle for which the license plate was
+91 issued. Any license plate for a low-speed vehicle, miniature on-road vehicle, or
+92 multipurpose off-highway vehicle shall designate the vehicle as such. Such plates may also
+93 bear such figures, characters, letters, or combinations thereof as in the judgment of the
+H. B. 308
+- 4 -
+25 LC 39 4568
+94 commissioner will to the best advantage advertise, popularize, and otherwise promote
+95 Georgia as the 'Peach State.' Except for license plates issued pursuant to Article 2B of this
+96 chapter, any license plate issued pursuant to this chapter shall be of such strength and
+97 quality that the plate shall provide a minimum service period of at least five years. The
+98 commissioner shall adopt rules and regulations, pursuant to the provisions of Chapter 13
+99 of Title 50, the 'Georgia Administrative Procedure Act,' for the design and issuance of new
+100 license plates and to implement the other provisions of this Code section."
+101 SECTION 5.
+102 Said title is further amended in Code Section 40-2-33, relating to issuance of license plates
+103 and decals, transfer of registration to a digital license plate, compensation of tag agents, and
+104 required identification, by revising paragraph (2.1) of subsection (a) as follows:
+105 "(2.1) The commissioner may provide for the issuance of a temporary operating permit
+106 for any multipurpose off-highway miniature on-road vehicle, to be displayed until such
+107 time as a license plate of the design required by Code Section 40-2-31 has been issued
+108 to the registrant as a replacement for such temporary operating permit; provided,
+109 however, that any such temporary operating permit shall designate the multipurpose
+110 off-highway miniature on-road vehicle as such; and provided, further, that the
+111 commissioner shall make available for issuance multipurpose off-highway miniature
+112 on-road vehicle license plates of the design required by Code Section 40-2-31 not later
+113 than January 1, 2024 2025."
+114 SECTION 6.
+115 Said title is further amended in Code Section 40-2-151, relating to annual license fees for
+116 operation of vehicles, fee for permanent licensing of certain trailers, and fee for new
+117 passenger car with paid title ad valorem taxes, by revising paragraph (2) of subsection (a) as
+118 follows:
+H. B. 308
+- 5 -
+25 LC 39 4568
+119 "(2) For each motorcycle, miniature on-road vehicle, or multipurpose
+120 off-highway vehicle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20.00"
+121 SECTION 7.
+122 Said title is further amended in Code Section 40-3-30.1, relating to standards for issuance to
+123 assembled motor vehicle and motorcycle or converted motor vehicle, inspections,
+124 unconventional motor vehicle or motorcycle not to be titled or registered, and exception, by
+125 revising subsection (f) as follows:
+126 "(f) Unconventional motor vehicles or motorcycles shall not be titled or registered;
+127 provided, however, that a multipurpose off-highway vehicle manufactured after January
+128 1, 2000, the following unconventional motor vehicles shall be registered upon proper
+129 application and payment of the required fee:
+130 (1) A multipurpose off-highway vehicle manufactured after January 1, 2000;
+131 (2) A miniature on-road vehicle manufactured more than 25 years prior to application;
+132 and
+133 (3) A miniature on-road vehicle manufactured less than 25 years prior to application that
+134 has been modified by an importer registered with the United States Department of
+135 Transportation to comply with applicable federal motor vehicle safety standards issued
+136 pursuant to 49 U.S.C. Section 30101, et seq., and certified by such importer as such."
+137 SECTION 8.
+138 Said title is further amended by revising Part 5 of Article 13 of Chapter 6, relating to
+139 low-speed or multipurpose off-highway vehicles, as follows:
+H. B. 308
+- 6 -
+25 LC 39 4568
+140 "Part 5
+141 40-6-359.
+142 Multipurpose off-highway vehicles and miniature on-road vehicles shall be equipped with:
+143 (1) Headlights;
+144 (2) Brake lights;
+145 (3) Taillights;
+146 (4) A rearview mirror; and
+147 (5) Safety belts.
+148 40-6-360.
+149 Every person operating a low-speed vehicle, miniature on-road vehicle, or multipurpose
+150 off-highway vehicle shall be granted all the rights and shall be subject to all the duties
+151 applicable to the driver of any other vehicle under this chapter except as to special
+152 regulations in this part and except as to those provisions of this chapter which by their
+153 nature can have no application.
+154 40-6-361.
+155 (a) All low-speed vehicles, miniature on-road vehicles, and multipurpose off-highway
+156 vehicles are entitled to full use of a lane, and no motor vehicle shall be driven in such a
+157 manner as to deprive any such vehicles of the full use of a lane.
+158 (b) The operator of a low-speed vehicle, miniature on-road vehicle, or multipurpose
+159 off-highway vehicle shall not overtake and pass in the same lane occupied by the vehicle
+160 being overtaken.
+161 (c) No person shall operate a low-speed vehicle, miniature on-road vehicle, or
+162 multipurpose off-highway vehicle between lanes of traffic or between adjacent lines or
+163 rows of vehicles.
+H. B. 308
+- 7 -
+25 LC 39 4568
+164 (d) Low-speed vehicles, miniature on-road vehicles, and multipurpose off-highway
+165 vehicles shall not be operated two or more abreast in a single lane.
+166 40-6-362.
+167 (a) Low-speed vehicles shall be operated only on any highway where the posted speed
+168 limit does not exceed 35 miles per hour. The operator of a low-speed vehicle shall not
+169 operate such vehicle on any highway where the posted speed limit exceeds 35 miles per
+170 hour.
+171 (b) Multipurpose off-highway vehicles shall be operated only on highways that are part
+172 of a county road system and shall be authorized to cross highways that are part of a
+173 municipal street system or are part of the state highway system.
+174 (c) Miniature on-road vehicles shall be operated only on highways that are part of a
+175 municipal street system or county road system, provided that such operation has not been
+176 prohibited through ordinance or resolution within a local jurisdiction, and shall be
+177 authorized to cross highways that are part of the state highway system."
+178 SECTION 9.
+179 Said title is further amended in Code Section 40-6-371, relating to powers of local authorities
+180 generally, by revising paragraphs (18.1) through (20) of and adding a new paragraph to
+181 subsection (a) and by revising subsection (c) to read as follows:
+182 "(18.1)(19) Regulating the operation of electric personal assistive mobility devices,
+183 provided that such regulations are no less restrictive than those imposed by Part 2A of
+184 Article 13 of this chapter;
+185 (18.2)(20) Regulating the operation of personal transportation vehicles, provided that
+186 such regulations comply with Parts 3 and 6 of Article 13 of this chapter;
+187 (21) Prohibiting the operation of miniature on-road vehicles as authorized in Code
+188 Section 40-6-362;
+H. B. 308
+- 8 -
+25 LC 39 4568
+189 (19)(22) Adopting and enforcing such temporary or experimental regulations as may be
+190 necessary to cover emergencies or special conditions; or
+191 (20)(23) Adopting such other traffic regulations as are specifically authorized by this
+192 chapter."
+193 "(c) No ordinance or regulation enacted under paragraph (4), (5), (6), (8), (9), (10), (11),
+194 (12), (13), (14), (15), (16), (17), (18), or (18.2) (20), or (21) of subsection (a) of this Code
+195 section shall be effective until official traffic-control devices giving notice of such local
+196 traffic regulations are erected upon or at the entrances to the highway or the part thereof
+197 affected as may be most appropriate."
+198 SECTION 10.
+199 (a) Except as otherwise provided for in subsection (b) of this section, this Act shall become
+200 effective on October 1, 2025.
+201 (b) Section 4 of this Act shall become effective on January 1, 2032.
+202 SECTION 11.
+203 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 308
+- 9 -
+[DELETED: 5L1,1,4,tstt4,4,ht p f i o c o t b t D o R f s]
+[DELETED: 5L  ' o v m a m v d a  H a o w o 8 i ( m o l e o  ' r c m a l o m i w a f]
+[DELETED: 5L e a a y o e t s n a e t f n o t d m a i t j o t c m b d  A l p f a l v m o v o]
+[DELETED: 5L a y o e t s n a e t f n o t d m a i t j o t c m b d  A l p f a l v m o v o]
+[DELETED: 5L t r a a r f s t o p p m o v a s a p f t t o v f f p l o c t a f f n]
+[DELETED: 5L  F e m m o v o me.............................................2 m v a m o c m v i  U m v o m s n b t o r b m b a i r w t U S D o]
+[DELETED: 5L t t d o a o v u t c e a t s  N p s o a l v m o v o]
+[DELETED: 5L  L v m o v a m o t o o r w a l j a s b]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 39 4568
+House Bill 308
+By: Representatives Clifton of the 131st, Wiedower of the 121st, Rhodes of the 124th, Corbett
+of the 174th, Dickey of the 134th, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles and
+2 traffic, so as to provide for the operation of miniature on-road vehicles on certain highways;
+3 to provide for standards for registration of such vehicles; to provide for issuance of license
+4 plates for miniature on-road vehicles; to provide for an annual licensing fee for such vehicles;
+5 to provide for issuance of certificates of title by the Department of Revenue for such
+6 vehicles; to provide for equipment and operating standards for such vehicles; to provide local
+7 authorities with the power to prohibit operation of miniature on-road vehicles; to require
+8 posting of notice of such prohibition upon highways; to revise and provide for a definition;
+9 to provide for related matters; to provide for an effective date; to repeal conflicting laws; and
+10 for other purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Title 40 of the Official Code of Georgia Annotated, relating to motor vehicles and traffic, is
+14 amended in Code Section 40-1-1, relating to definitions, by revising paragraph (27.1) and
+15 adding a new paragraph to read as follows:
+H. B. 308
+- 1 -
+
+25 LC 39 4568
+16 "(27.1) 'Miniature on-road vehicle' means any motorized vehicle designed and
+17 manufactured for use upon roadways in another country that has been imported into the
+18 United States with a valid certificate of title or registration from the exporting country
+19 and in compliance with all federal importation requirements and which has the following
+20 characteristics:
+21 (A) Has the capability to transport persons;
+22 (B) Operates between 25 miles per hour (40.2 kilometers per hour) and 65 miles per
+23 hour (104.6 kilometers per hour);
+24 (C) Has an overall width of 80 inches (2,030 millimeters) or less, exclusive of
+25 accessories or attachments;
+26 (D) Is designed to travel on four or more wheels;
+27 (E) Uses a steering wheel for steering control;
+28 (F) Contains a nonstraddle seat;
+29 (G) Has a gross vehicle weight rating of less than 4,000 pounds (1,814 kilograms); and
+30 (H) Is not designed or manufactured as a golf cart, all-terrain vehicle, or multipurpose
+31 off-highway vehicle.
+32 (27.2) 'Minimal risk condition' means a low-risk operating mode in which a fully
+33 autonomous vehicle operating without a human driver achieves a reasonably safe state,
+34 such as bringing the vehicle to a complete stop, upon experiencing a failure of the
+35 vehicle's automated driving system that renders the vehicle unable to perform the entire
+36 dynamic driving task."
+37 SECTION 2.
+38 Said title is further amended in Code Section 40-2-27, relating to registration of motor
+39 vehicles not manufactured to comply with federal emission and safety standards, certificate
+40 of registration for an assembled motor vehicle or motorcycle or a converted motor vehicle,
+41 and former military motor vehicles, by revising subsection (e) as follows:
+H. B. 308
+- 2 -
+
+25 LC 39 4568
+42 "(e) The provisions of subsection (a) of this Code section shall not apply to applications
+43 for certificates of registration for former military motor vehicles that are less than 25 years
+44 old and manufactured for the United States military, or multipurpose off-highway vehicles
+45 manufactured after January 1, 2000, or miniature on-road vehicles manufactured more than
+46 25 years prior to application; provided, however, that the exception provided by this
+47 subsection shall be applicable to miniature on-road vehicles manufactured less than 25
+48 years prior to application that have been modified by an importer registered with the United
+49 States Department of Transportation to comply with applicable federal motor vehicle safety
+50 standards issued pursuant to 49 U.S.C. Section 30101, et seq., and certified by such
+51 importer as such."
+52 SECTION 3.
+53 Said title is further amended in Code Section 40-2-31, relating to license plate design,
+54 retention of manufacturing and delivery costs, revalidation, county, and "In God We Trust"
+55 decals, by revising subsection (b) as follows:
+56 "(b) License plates issued pursuant to this chapter shall be at least six inches wide and not
+57 less than 12 inches in length, except that motorcycle license plates shall be at least four
+58 inches wide and not less than seven inches in length and license plates for low-speed
+59 vehicles, miniature on-road vehicles, and multipurpose off-highway vehicles shall be a size
+60 determined by the commissioner. All license plates shall show in boldface characters the
+61 month and year of expiration, the serial number, and either the full name or the
+62 abbreviation of the name of the state, shall designate the county from which the license
+63 plate was issued unless specifically stated otherwise in this chapter, and shall show such
+64 other distinctive markings as in the judgment of the commissioner may be deemed
+65 advisable, so as to indicate the class of weight of the vehicle for which the license plate was
+66 issued. Any license plate for a low-speed vehicle, miniature on-road vehicle, or
+67 multipurpose off-highway vehicle shall designate the vehicle as such. Such plates may also
+H. B. 308
+- 3 -
+
+25 LC 39 4568
+68 bear such figures, characters, letters, or combinations thereof as in the judgment of the
+69 commissioner will to the best advantage advertise, popularize, and otherwise promote
+70 Georgia as the 'Peach State.' Plates issued during the years 2026 through 2030 shall
+71 include the design approved pursuant to Code Section 40-2-31.1. Except for license plates
+72 issued pursuant to Article 2B of this chapter, any license plate issued pursuant to this
+73 chapter shall be of such strength and quality that the plate shall provide a minimum service
+74 period of at least five years. The commissioner shall adopt rules and regulations, pursuant
+75 to the provisions of Chapter 13 of Title 50, the 'Georgia Administrative Procedure Act,' for
+76 the design and issuance of new license plates and to implement the other provisions of this
+77 Code section."
+78 SECTION 4.
+79 Said title is further amended in said Code section, as in effect on January 1, 2032, by revising
+80 subsection (b) as follows:
+81 "(b) License plates issued pursuant to this chapter shall be at least six inches wide and not
+82 less than 12 inches in length, except that motorcycle license plates shall be at least four
+83 inches wide and not less than seven inches in length and license plates for low-speed
+84 vehicles, miniature on-road vehicles, and multipurpose off-highway vehicles shall be a size
+85 determined by the commissioner. All license plates shall show in boldface characters the
+86 month and year of expiration, the serial number, and either the full name or the
+87 abbreviation of the name of the state, shall designate the county from which the license
+88 plate was issued unless specifically stated otherwise in this chapter, and shall show such
+89 other distinctive markings as in the judgment of the commissioner may be deemed
+90 advisable, so as to indicate the class of weight of the vehicle for which the license plate was
+91 issued. Any license plate for a low-speed vehicle, miniature on-road vehicle, or
+92 multipurpose off-highway vehicle shall designate the vehicle as such. Such plates may also
+93 bear such figures, characters, letters, or combinations thereof as in the judgment of the
+H. B. 308
+- 4 -
+
+25 LC 39 4568
+94 commissioner will to the best advantage advertise, popularize, and otherwise promote
+95 Georgia as the 'Peach State.' Except for license plates issued pursuant to Article 2B of this
+96 chapter, any license plate issued pursuant to this chapter shall be of such strength and
+97 quality that the plate shall provide a minimum service period of at least five years. The
+98 commissioner shall adopt rules and regulations, pursuant to the provisions of Chapter 13
+99 of Title 50, the 'Georgia Administrative Procedure Act,' for the design and issuance of new
+100 license plates and to implement the other provisions of this Code section."
+101 SECTION 5.
+102 Said title is further amended in Code Section 40-2-33, relating to issuance of license plates
+103 and decals, transfer of registration to a digital license plate, compensation of tag agents, and
+104 required identification, by revising paragraph (2.1) of subsection (a) as follows:
+105 "(2.1) The commissioner may provide for the issuance of a temporary operating permit
+106 for any multipurpose off-highway miniature on-road vehicle, to be displayed until such
+107 time as a license plate of the design required by Code Section 40-2-31 has been issued
+108 to the registrant as a replacement for such temporary operating permit; provided,
+109 however, that any such temporary operating permit shall designate the multipurpose
+110 off-highway miniature on-road vehicle as such; and provided, further, that the
+111 commissioner shall make available for issuance multipurpose off-highway miniature
+112 on-road vehicle license plates of the design required by Code Section 40-2-31 not later
+113 than January 1, 2024 2025."
+114 SECTION 6.
+115 Said title is further amended in Code Section 40-2-151, relating to annual license fees for
+116 operation of vehicles, fee for permanent licensing of certain trailers, and fee for new
+117 passenger car with paid title ad valorem taxes, by revising paragraph (2) of subsection (a) as
+118 follows:
+H. B. 308
+- 5 -
+
+25 LC 39 4568
+119 "(2) For each motorcycle, miniature on-road vehicle, or multipurpose
+120 off-highway vehicle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20.00"
+121 SECTION 7.
+122 Said title is further amended in Code Section 40-3-30.1, relating to standards for issuance to
+123 assembled motor vehicle and motorcycle or converted motor vehicle, inspections,
+124 unconventional motor vehicle or motorcycle not to be titled or registered, and exception, by
+125 revising subsection (f) as follows:
+126 "(f) Unconventional motor vehicles or motorcycles shall not be titled or registered;
+127 provided, however, that a multipurpose off-highway vehicle manufactured after January
+128 1, 2000, the following unconventional motor vehicles shall be registered upon proper
+129 application and payment of the required fee:
+130 (1) A multipurpose off-highway vehicle manufactured after January 1, 2000;
+131 (2) A miniature on-road vehicle manufactured more than 25 years prior to application;
+132 and
+133 (3) A miniature on-road vehicle manufactured less than 25 years prior to application that
+134 has been modified by an importer registered with the United States Department of
+135 Transportation to comply with applicable federal motor vehicle safety standards issued
+136 pursuant to 49 U.S.C. Section 30101, et seq., and certified by such importer as such."
+137 SECTION 8.
+138 Said title is further amended by revising Part 5 of Article 13 of Chapter 6, relating to
+139 low-speed or multipurpose off-highway vehicles, as follows:
+H. B. 308
+- 6 -
+
+25 LC 39 4568
+140 "Part 5
+141 40-6-359.
+142 Multipurpose off-highway vehicles and miniature on-road vehicles shall be equipped with:
+143 (1) Headlights;
+144 (2) Brake lights;
+145 (3) Taillights;
+146 (4) A rearview mirror; and
+147 (5) Safety belts.
+148 40-6-360.
+149 Every person operating a low-speed vehicle, miniature on-road vehicle, or multipurpose
+150 off-highway vehicle shall be granted all the rights and shall be subject to all the duties
+151 applicable to the driver of any other vehicle under this chapter except as to special
+152 regulations in this part and except as to those provisions of this chapter which by their
+153 nature can have no application.
+154 40-6-361.
+155 (a) All low-speed vehicles, miniature on-road vehicles, and multipurpose off-highway
+156 vehicles are entitled to full use of a lane, and no motor vehicle shall be driven in such a
+157 manner as to deprive any such vehicles of the full use of a lane.
+158 (b) The operator of a low-speed vehicle, miniature on-road vehicle, or multipurpose
+159 off-highway vehicle shall not overtake and pass in the same lane occupied by the vehicle
+160 being overtaken.
+161 (c) No person shall operate a low-speed vehicle, miniature on-road vehicle, or
+162 multipurpose off-highway vehicle between lanes of traffic or between adjacent lines or
+163 rows of vehicles.
+H. B. 308
+- 7 -
+
+25 LC 39 4568
+164 (d) Low-speed vehicles, miniature on-road vehicles, and multipurpose off-highway
+165 vehicles shall not be operated two or more abreast in a single lane.
+166 40-6-362.
+167 (a) Low-speed vehicles shall be operated only on any highway where the posted speed
+168 limit does not exceed 35 miles per hour. The operator of a low-speed vehicle shall not
+169 operate such vehicle on any highway where the posted speed limit exceeds 35 miles per
+170 hour.
+171 (b) Multipurpose off-highway vehicles shall be operated only on highways that are part
+172 of a county road system and shall be authorized to cross highways that are part of a
+173 municipal street system or are part of the state highway system.
+174 (c) Miniature on-road vehicles shall be operated only on highways that are part of a
+175 municipal street system or county road system, provided that such operation has not been
+176 prohibited through ordinance or resolution within a local jurisdiction, and shall be
+177 authorized to cross highways that are part of the state highway system."
+178 SECTION 9.
+179 Said title is further amended in Code Section 40-6-371, relating to powers of local authorities
+180 generally, by revising paragraphs (18.1) through (20) of and adding a new paragraph to
+181 subsection (a) and by revising subsection (c) to read as follows:
+182 "(18.1)(19) Regulating the operation of electric personal assistive mobility devices,
+183 provided that such regulations are no less restrictive than those imposed by Part 2A of
+184 Article 13 of this chapter;
+185 (18.2)(20) Regulating the operation of personal transportation vehicles, provided that
+186 such regulations comply with Parts 3 and 6 of Article 13 of this chapter;
+187 (21) Prohibiting the operation of miniature on-road vehicles as authorized in Code
+188 Section 40-6-362;
+H. B. 308
+- 8 -
+
+25 LC 39 4568
+189 (19)(22) Adopting and enforcing such temporary or experimental regulations as may be
+190 necessary to cover emergencies or special conditions; or
+191 (20)(23) Adopting such other traffic regulations as are specifically authorized by this
+192 chapter."
+193 "(c) No ordinance or regulation enacted under paragraph (4), (5), (6), (8), (9), (10), (11),
+194 (12), (13), (14), (15), (16), (17), (18), or (18.2) (20), or (21) of subsection (a) of this Code
+195 section shall be effective until official traffic-control devices giving notice of such local
+196 traffic regulations are erected upon or at the entrances to the highway or the part thereof
+197 affected as may be most appropriate."
+198 SECTION 10.
+199 (a) Except as otherwise provided for in subsection (b) of this section, this Act shall become
+200 effective on October 1, 2025.
+201 (b) Section 4 of this Act shall become effective on January 1, 2032.
+202 SECTION 11.
+203 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 308
+- 9 -
+
+[DELETED: 5L1,1,4,tstt4,4,ht p f i o c o t b t D o R f s]
+[DELETED: 5L  ' o v m a m v d a  H a o w o 8 i ( m o l e o  ' r c m a l o m i w a f]
+[DELETED: 5L e a a y o e t s n a e t f n o t d m a i t j o t c m b d  A l p f a l v m o v o]
+[DELETED: 5L a y o e t s n a e t f n o t d m a i t j o t c m b d  A l p f a l v m o v o]
+[DELETED: 5L t r a a r f s t o p p m o v a s a p f t t o v f f p l o c t a f f n]
+[DELETED: 5L  F e m m o v o me.............................................2 m v a m o c m v i  U m v o m s n b t o r b m b a i r w t U S D o]
+[DELETED: 5L t t d o a o v u t c e a t s  N p s o a l v m o v o]
+[DELETED: 5L  L v m o v a m o t o o r w a l j a s b]
+[DELETED: 5L]

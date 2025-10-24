@@ -1,0 +1,161 @@
+Title: Senate Bill 49
+Official Title: Senate Bill 49
+Number of Sections: 1
+Source: versions - As Introduced LC 49 2097
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 LC 57 0185
+By: Senators Parent of the 44th, Jones II of the 22nd, Merritt of the 9th, Halpern of the 39th,
+Harbison of the 15th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 3 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia
+2 Annotated, relating to carrying and possession of firearms, so as to establish the offense of
+3 making a firearm accessible to a child; to provide for definitions; to provide for exceptions
+4 and affirmative defenses; to provide for criminal penalties; to require a notice by certain
+5 firearm dealers; to provide for related matters; to repeal conflicting laws; and for other
+6 purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Part 3 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated,
+10 relating to carrying and possession of firearms, is amended by adding a new Code section to
+11 read as follows:
+12 "16-11-132.1.
+13 (a) As used in this Code section, the term:
+14 (1) 'Child' means a person younger than 17 years of age.
+15 (2) 'Dealer' shall have the same meaning as provided for under Code Section 16-11-171.
+16 (3) 'Family' means a parent, grandparent, or sibling.
+S. B. 49
+- 1 -
+25 LC 57 0185
+17 (4) 'Readily dischargeable firearm' means a firearm that is loaded with ammunition,
+18 whether or not a round is in the chamber.
+19 (5) 'Secure' means to take steps that a reasonable person would believe sufficient to
+20 prevent the access to a readily dischargeable firearm by a child, including, but not limited
+21 to, placing a firearm in a locked container or temporarily rendering the firearm inoperable
+22 by a trigger lock or other means.
+23 (b) Except where possession of a firearm by a child is lawful under Code
+24 Section 16-11-132, a person commits the offense of making a firearm accessible to a child
+25 if such child gains access to a readily dischargeable firearm, and the person with criminal
+26 negligence:
+27 (1) Failed to secure the firearm; or
+28 (2) Left the firearm in a place to which the person knew or should have known the child
+29 could gain access.
+30 (c) It shall be an affirmative defense to prosecution under this Code section that the child's
+31 access to the firearm:
+32 (1) Was supervised by a person older than 18 years of age and was for hunting, sporting,
+33 or other lawful purposes;
+34 (2) Consisted of lawful defense by the child of people or property; or
+35 (3) Was gained by entering property in violation of the law.
+36 (d)(1) Except as provided under paragraph (2) of this subsection, a violation of
+37 subsection (b) of this Code section shall be a misdemeanor.
+38 (2) A violation of subsection (b) of this Code section shall be a misdemeanor of a high
+39 and aggravated nature when the child discharges the firearm and causes death or serious
+40 bodily injury to himself or herself or another person.
+41 (3) No person who commits a violation of subsection (b) of this Code section shall be
+42 arrested before the seventh day after the date on which the offense was committed if:
+43 (A) Such person is family of the child who discharged the firearm; and
+S. B. 49
+- 2 -
+25 LC 57 0185
+44 (B) The child, in discharging the firearm, caused the death of or serious injury to such
+45 child.
+46 (e)(1) A dealer shall post in a conspicuous position on the premises where the dealer
+47 conducts business a sign that contains the following warning in block letters not less than
+48 one inch in height:
+49 'IT IS UNLAWFUL TO STORE, TRANSPORT, OR ABANDON AN UNSECURED
+50 FIREARM IN A PLACE WHERE CHILDREN ARE LIKELY TO BE AND CAN
+51 OBTAIN ACCESS TO THE FIREARM.'
+52 (2) A violation of this subsection shall be a misdemeanor punishable by a fine of not
+53 more than $500.00."
+54 SECTION 2.
+55 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 49
+- 3 -
+[DELETED: 5L]
+[DELETED: 5L  E w p o a f b a c i l u C  E a p u p ( o t s a v o]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 57 0185
+Senate Bill 49
+By: Senators Parent of the 44th, Jones II of the 22nd, Merritt of the 9th, Halpern of the 39th,
+Harbison of the 15th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 3 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia
+2 Annotated, relating to carrying and possession of firearms, so as to establish the offense of
+3 making a firearm accessible to a child; to provide for definitions; to provide for exceptions
+4 and affirmative defenses; to provide for criminal penalties; to require a notice by certain
+5 firearm dealers; to provide for related matters; to repeal conflicting laws; and for other
+6 purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Part 3 of Article 4 of Chapter 11 of Title 16 of the Official Code of Georgia Annotated,
+10 relating to carrying and possession of firearms, is amended by adding a new Code section to
+11 read as follows:
+12 "16-11-132.1.
+13 (a) As used in this Code section, the term:
+14 (1) 'Child' means a person younger than 17 years of age.
+15 (2) 'Dealer' shall have the same meaning as provided for under Code Section 16-11-171.
+16 (3) 'Family' means a parent, grandparent, or sibling.
+S. B. 49
+- 1 -
+
+25 LC 57 0185
+17 (4) 'Readily dischargeable firearm' means a firearm that is loaded with ammunition,
+18 whether or not a round is in the chamber.
+19 (5) 'Secure' means to take steps that a reasonable person would believe sufficient to
+20 prevent the access to a readily dischargeable firearm by a child, including, but not limited
+21 to, placing a firearm in a locked container or temporarily rendering the firearm inoperable
+22 by a trigger lock or other means.
+23 (b) Except where possession of a firearm by a child is lawful under Code
+24 Section 16-11-132, a person commits the offense of making a firearm accessible to a child
+25 if such child gains access to a readily dischargeable firearm, and the person with criminal
+26 negligence:
+27 (1) Failed to secure the firearm; or
+28 (2) Left the firearm in a place to which the person knew or should have known the child
+29 could gain access.
+30 (c) It shall be an affirmative defense to prosecution under this Code section that the child's
+31 access to the firearm:
+32 (1) Was supervised by a person older than 18 years of age and was for hunting, sporting,
+33 or other lawful purposes;
+34 (2) Consisted of lawful defense by the child of people or property; or
+35 (3) Was gained by entering property in violation of the law.
+36 (d)(1) Except as provided under paragraph (2) of this subsection, a violation of
+37 subsection (b) of this Code section shall be a misdemeanor.
+38 (2) A violation of subsection (b) of this Code section shall be a misdemeanor of a high
+39 and aggravated nature when the child discharges the firearm and causes death or serious
+40 bodily injury to himself or herself or another person.
+41 (3) No person who commits a violation of subsection (b) of this Code section shall be
+42 arrested before the seventh day after the date on which the offense was committed if:
+43 (A) Such person is family of the child who discharged the firearm; and
+S. B. 49
+- 2 -
+
+25 LC 57 0185
+44 (B) The child, in discharging the firearm, caused the death of or serious injury to such
+45 child.
+46 (e)(1) A dealer shall post in a conspicuous position on the premises where the dealer
+47 conducts business a sign that contains the following warning in block letters not less than
+48 one inch in height:
+49 'IT IS UNLAWFUL TO STORE, TRANSPORT, OR ABANDON AN UNSECURED
+50 FIREARM IN A PLACE WHERE CHILDREN ARE LIKELY TO BE AND CAN
+51 OBTAIN ACCESS TO THE FIREARM.'
+52 (2) A violation of this subsection shall be a misdemeanor punishable by a fine of not
+53 more than $500.00."
+54 SECTION 2.
+55 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 49
+- 3 -
+
+[DELETED: 5L]
+[DELETED: 5L  E w p o a f b a c i l u C  E a p u p ( o t s a v o]
+[DELETED: 5L]

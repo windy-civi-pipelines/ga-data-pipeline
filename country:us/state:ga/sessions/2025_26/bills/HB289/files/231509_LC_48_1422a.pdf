@@ -1,0 +1,678 @@
+25 LC 48 1422
+House Bill 289
+By: Representatives Gullett of the 19th, Efstration of the 104th, Williamson of the 112th, Jones
+of the 25th, Holcomb of the 101st, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 2 of Chapter 6 of Title 15 and Article 1 of Chapter 17 of Title 45 of the
+2 Official Code of Georgia Annotated, relating to clerks of superior courts and general
+3 provisions regarding notaries public, respectively, so as to provide for remote online notaries
+4 public and remote online notarizations; to revise and provide for definitions; to revise the
+5 powers of the Georgia Superior Court Clerks' Cooperative Authority; to provide for
+6 requirements for remote online notaries public and remote online notarization; to provide that
+7 the Georgia Superior Court Clerks' Cooperative Authority may adopt certain standards for
+8 remote online notarization; to provide for application and appointment as a remote online
+9 notary public; to provide requirements for electronic journaling; to amend Part 2 of Article
+10 15 of Chapter 1 of Title 10, Part 1 of Article 1 of Chapter 2 of Title 44 and Article 4 of
+11 Chapter 18 of Title 50 of the Official Code of Georgia Annotated, relating to the "Fair
+12 Business Practices Act of 1975," recording of deeds and other real property transactions and
+13 inspection of public records, respectively, so as to provide for an unfair or deceptive practice
+14 in consumer transactions in the recording of certain residential real estate documents; to
+15 revise recordation standards for deeds and other real property transactions requiring an
+16 official and an unofficial witness; to provide for the electronic execution of instruments,
+17 documents, deeds, and real estate documents; to provide that certain records of remote online
+H. B. 289
+- 1 -
+
+25 LC 48 1422
+18 notarization processes shall not be subject to public disclosure; to provide for related matters;
+19 to provide an effective date; to repeal conflicting laws; and for other purposes.
+20 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+21 PART I
+22 SECTION 1-1.
+23 Article 2 of Chapter 6 of Title 15 of the Official Code of Georgia Annotated, relating to
+24 clerks of superior courts, is amended by revising paragraphs (8) and (9) and by adding a new
+25 paragraph to subsection (d) of Code Section 15-6-94, relating to the Georgia Superior Court
+26 Clerks' Cooperative Authority, to read as follows:
+27 "(8) To exercise any power granted by the laws of this state to public or private
+28 corporations which is not in conflict with the public purpose of the authority; and
+29 (9) To issue technical standards for remote online notarization pursuant to Article 1 of
+30 Chapter 17 of Title 45; and
+31 (9)(10) To do all things necessary or convenient to carry out the powers conferred by this
+32 Code section and to carry out such duties and activities as are specifically imposed upon
+33 the authority by law."
+34 SECTION 1-2.
+35 Article 1 of Chapter 17 of Title 45 of the Official Code of Georgia Annotated, relating to
+36 general provisions regarding notaries public, is amended by revising Code Section 45-17-1,
+37 relating to definitions, as follows:
+38 "45-17-1.
+39 As used in this article, the term:
+40 (1) 'Appear', 'personally appear', and 'in the presence of' mean:
+H. B. 289
+- 2 -
+
+25 LC 48 1422
+41 (A) Being in the same physical location as another individual and close enough to see,
+42 hear, communicate with, and exchange tangible identification credentials with such
+43 individual; or
+44 (B) Interacting with another individual by means of communication technology that
+45 complies with the provisions of this article.
+46 (2) 'Attesting', and 'attestation', and 'attested' are synonymous and mean the notarial act
+47 of witnessing or attesting a signature or execution of a deed or other written instrument,
+48 where such notarial act does not involve the taking of an acknowledgment, the
+49 administering of an oath or affirmation, the taking of a verification, or the certification
+50 of a copy.
+51 (3) 'Communication technology' means an electronic device or process that allows a
+52 remote online notary public physically located in this state and a remotely located
+53 individual to communicate with each other simultaneously by sight and sound and which,
+54 as necessary, makes reasonable accommodations for individuals with vision, hearing, or
+55 speech impediments.
+56 (4) 'Credential analysis' means a process or service operating according to the standards
+57 through which a third-party business entity affirms the validity of a government issued
+58 identification credential through review of public or proprietary data sources.
+59 (5) 'Digital signature' means an electronic signature that embeds registered personal key
+60 infrastructure technology into the signing process and provides for the authentication of
+61 the identity of a remote online notary public, confirmation of the signed document's
+62 contents, and for the nonrepudiation of the notary's electronic signature. The digital
+63 signature shall be made pursuant to and associated with a digital certificate issued by a
+64 trusted service provider which is attached to or logically associated with an electronic
+65 document and adopted by a notary public with the intent to sign an electronic document
+66 in the official capacity as a notary. Such term means an electronic signature that is, and
+67 shall be, made in compliance with the standards adopted pursuant to this article by the
+H. B. 289
+- 3 -
+
+25 LC 48 1422
+68 Georgia Superior Court Clerks' Cooperative Authority based on the Digital Signature
+69 Standard (DSS) of the National Institute of Standards and Technology (NIST).
+70 (6) 'Electronic' means relating to technology having electrical, digital, magnetic,
+71 wireless, optical, electromagnetic, or similar capabilities.
+72 (7) 'Electronic document' and 'electronic record' mean information created, generated,
+73 sent, communicated, received, or stored by electronic means.
+74 (8) 'Electronic in-person notarization' means the notarization of an electronic record
+75 when the signer or signers of the record are in the physical presence of the notary public
+76 and that include the notary's electronic notarial certificate, the notary's digital signature,
+77 and electronic signatures of each signer.
+78 (9) 'Electronic journal' means a record kept by the remote online notary public to track
+79 and document each notarial act performed, as provided by subsection (a) of Code Section
+80 45-17-8.5.
+81 (10) 'Electronic notarial certificate' means the electronic form of an acknowledgment,
+82 jurat, verification by oath or affirmation, or verification of witness or attestation that is
+83 completed by a notary performing an electronic in-person notarization and:
+84 (A) Contains the notary public's digital signature, electronic seal, title, and commission
+85 expiration date; or
+86 (B) Otherwise conforms to the requirements for an acknowledgment, jurat, verification
+87 by oath or affirmation, or verification of witness or attestation under the laws of this
+88 state.
+89 (11) 'Electronic seal' means information within a notarized electronic document that
+90 confirms the remote online notary public's, or electronic in-person notary public's, name,
+91 jurisdiction, commission expiration date, commission number, and otherwise generally
+92 corresponds to information in notary public seals used on paper documents.
+H. B. 289
+- 4 -
+
+25 LC 48 1422
+93 (12) 'Electronic signature' means an electronic sound, symbol, or process attached to or
+94 logically associated with an electronic record and executed or adopted by an individual
+95 with the intent to sign the electronic document or record.
+96 (13) 'Identity proofing' means a process or service operating pursuant to the standards
+97 through which credential analysis and authentication confirms the identity of an
+98 individual.
+99 (2)(14) 'Notarial act' means any act that a notary public is authorized by law to perform
+100 and includes, without limitation, attestation, the taking of an acknowledgment, the
+101 administration of an oath or affirmation, the taking of a verification upon an oath or
+102 affirmation, and the certification of a copy.
+103 (3)(15) 'Notarial certificate' means the notary's documentation of a notarial act.
+104 (16) 'Notary' and 'notary public' mean a person who has been granted a commission by
+105 a clerk of superior court pursuant to Code Section 45-17-2.3.
+106 (17) 'Original appointment' means a notary public appointment other than a remote
+107 online notary public appointment.
+108 (18) 'Real estate document' means any instrument, document, or deed entitled to
+109 recordation in the real property records or lien indices or recording records maintained
+110 by the clerk of superior court, and any instrument or document executed in connection
+111 with the conveyance of land whether recorded or not.
+112 (19) 'Remote online notarial certificate' is the electronic form of an acknowledgment,
+113 jurat, verification by oath or affirmation, or verification of witness or attestation that is
+114 completed by a remote online notary public performing a remote online notarization and:
+115 (A) Contains the remote online notary public's digital signature, electronic seal, title,
+116 and commission expiration date;
+117 (B) Contains the date and location address of the signer or signers and the location
+118 address of the remote online notary public;
+H. B. 289
+- 5 -
+
+25 LC 48 1422
+119 (C) Contains a statement that the signer or signers executing the electronic document
+120 or making the acknowledgment, jurat, oath, affirmation, verification, or attestation
+121 appeared remotely online;
+122 (D) Otherwise conforms to the requirements for an acknowledgment, jurat, verification
+123 by oath or affirmation, or verification of witness or attestation under the laws of this
+124 state; and
+125 (E) Contains a statement that the signer or signers affirmatively agreed to electronic
+126 execution and remote online notarization.
+127 (20) 'Remote online notarization' or 'remote online notarial act' means a notarial act
+128 performed by a remote online notary public by means of communication technology
+129 according to the provisions of this article.
+130 (21) 'Remote online notary public' means a notary public who has been commissioned
+131 as a remote online notary public to perform online notarizations under this article.
+132 (22) 'Remote presentation' means transmission to the remote online notary public
+133 through communication technology of an image of a government issued identification
+134 credential that is of sufficient quality to enable the remote online notary public to:
+135 (A) Identify the individual seeking the remote online notary public's services; and
+136 (B) Perform credential analysis.
+137 (23) 'Remotely located individual' means an individual who is not in the physical
+138 presence of the remote online notary public.
+139 (24) 'Repository' means a third-party business entity authorized to transact business in
+140 this state that is in the business of retaining electronic journals and copies of audiovisual
+141 recordings of remote online notarizations according to Code Section 45-17-8.5.
+142 (25) 'Signer' means an individual whose electronic signature is notarized in an electronic
+143 in-person notarization or a remote online notarization or is making an oath or affirmation
+144 or an acknowledgment, other than in the capacity of a witness, for a document which is
+145 to be notarized by an electronic in-person notarization or a remote online notarization.
+H. B. 289
+- 6 -
+
+25 LC 48 1422
+146 (26) 'Standards' means the remote online notary standards as shall be adopted by the
+147 Georgia Superior Court Clerks' Cooperative Authority."
+148 SECTION 1-3.
+149 Said article is further amended by revising Code Section 45-17-6, relating to seal of office,
+150 as follows:
+151 "45-17-6.
+152 (a)(1) For the authentication of his or her notarial acts, each notary public must provide
+153 a seal of office, which seal shall have for its impression his the notary's name, the words
+154 'Notary Public,' the name of the state, and the county of his residence the notary's
+155 appointment; or it shall have for its impression his the notary's name and the words
+156 'Notary Public, Georgia, State at Large.' Notaries commissioned or renewing their
+157 commission after July 1, 1985, shall provide a seal of office which shall have for its
+158 impression the notary's name, the words 'Notary Public,' the name of the state, and the
+159 county of his the notary's appointment. The embossment of notarial certificates by the
+160 notary's seal shall be authorized but not necessary, and the use of a rubber or other type
+161 stamp shall be sufficient for imprinting the notary's seal on paper notarial certificates. A
+162 scrawl shall not be a sufficient notary seal. An official notarial act must be documented
+163 by the notary's seal. An electronic seal shall be used for purposes of any electronic
+164 in-person notarization or remote online notarization.
+165 (2) No document executed prior to July 1, 1986, which would otherwise be eligible for
+166 recording in the real property records maintained by any clerk of superior court or
+167 constitute record notice or actual notice of any matter to any person shall be ineligible for
+168 recording or fail to constitute such notice because of noncompliance with the requirement
+169 that the document contain a notary seal.
+170 (b) It shall be unlawful for any person, firm, or corporation to supply a notary public seal
+171 to any person unless the person has presented the duplicate original of the certificate
+H. B. 289
+- 7 -
+
+25 LC 48 1422
+172 commissioning the person as a notary public. It shall be unlawful for any person to order
+173 or obtain a notary public seal unless such person is commissioned as a notary public."
+174 SECTION 1-4.
+175 Said article is further amended by revising subsection (a) of Code Section 45-17-8.1, relating
+176 to signature and date of notarial act, as follows:
+177 "(a) Except as otherwise provided in this Code section, in documenting a notarial act, a
+178 notary public shall sign on the notarial certification, digitally in the case of electronic
+179 in-person notarization or remote online notarization or by hand in ink in all other cases,
+180 only and exactly the name indicated on the notary's commission and shall record on the
+181 notarial certification the exact date of the notarial act."
+182 SECTION 1-5.
+183 Said article is further amended by adding new Code sections to read as follows:
+184 "45-17-8.3.
+185 (a) Prior to January 1, 2026, the Georgia Superior Court Clerks' Cooperative Authority
+186 shall adopt standards for remote online notarization in accordance with this article.
+187 (b) The Georgia Superior Court Clerks' Cooperative Authority may confer with any
+188 appropriate state agency on matters relating to equipment, security, and technological
+189 aspects of the remote online notarization standards.
+190 (c) In the adoption of any standards it may adopt pursuant to this article, the Georgia
+191 Superior Court Clerks' Cooperative Authority shall consider the most recent standards
+192 established by relevant national bodies, including, but not limited to, the Mortgage Industry
+193 Standards Maintenance Organization (MISMO) and the National Association of Secretaries
+194 of State (NASS).
+H. B. 289
+- 8 -
+
+25 LC 48 1422
+195 45-17-8.4.
+196 (a) Appointment as a notary public in this state shall be a requirement and condition
+197 precedent for appointment as a remote online notary public.
+198 (b) Before each application for appointment as a remote online notary public, an individual
+199 shall complete a course of instruction provided by the Georgia Superior Court Clerks'
+200 Cooperative Authority and pass an examination based on such course. The content of the
+201 course shall include notarial standards and procedures, the standards, and ethical
+202 obligations pertaining to electronic in-person notarization and remote online notarization
+203 in this article or in any other law. Such course may be taken in conjunction with any
+204 course required by the clerk of superior court for an original appointment. The standards
+205 for such course shall be developed and maintained and administered by the Georgia
+206 Superior Court Clerks' Cooperative Authority.
+207 (c) Except for a remote online notary public as commissioned under subsection (h) of this
+208 Code section, effective January 1, 2026, an individual who meets the qualifications for
+209 becoming a notary public of this state desiring to be appointed as a remote online notary
+210 public shall submit an application to the clerk of superior court of the county of the
+211 applicant's current residence. In the event that such applicant is the holder of an unexpired
+212 notary commission issued from a county other than the county of the applicant's current
+213 residence, such applicant shall officially resign the unexpired commission and make new
+214 application to the clerk of superior court for the county of current residence for both a
+215 notary commission and appointment as a remote online notary public. An application may
+216 request both an original appointment or renewal and a remote online notary public
+217 appointment. The application for a remote online notary public appointment shall set forth
+218 the declaration that the notary meets the qualifications for remote online notarization as
+219 provided by this article. Such application shall include, but shall not be limited to:
+220 (1) The applicant's legal name to be used in acting as a notary public;
+221 (2) Email address of the applicant;
+H. B. 289
+- 9 -
+
+25 LC 48 1422
+222 (3) Telephone number of the applicant;
+223 (4) Proof of successful completion by the applicant of the course and examination
+224 required by subsection (b) of this Code section;
+225 (5) A physical residential address of the applicant in this state if a resident of this state;
+226 (6) The business address of the applicant in this state if the applicant is a resident of a
+227 state bordering this state who maintains a business or profession in the State of Georgia
+228 or who is regularly employed in this state.
+229 (7) Evidence that the notary surety bond prescribed by this article for the performance
+230 or remote online notarial acts has been issued;
+231 (8) The identity of the technology provider the remote online notary public intends to use
+232 for remote online notarization and the repository to be used by such notary for
+233 maintenance of his or her electronic journal and audiovisual recordings. The technology
+234 provider, communication technology, and repository selected by the remote online notary
+235 public must conform to standards;
+236 (9) A certification that the applicant will comply with this article and the standards;
+237 (10) Disclosure of any and all license or commission revocations or other governmental
+238 disciplinary actions against the applicant; and
+239 (11) Any other information, evidence, or declaration requested by the clerk of superior
+240 court.
+241 (d) The fee for submitting an application for appointment as a remote online notary shall
+242 be the same fee as for an application for an original appointment pursuant to Code Section
+243 45-17-4. One fee shall be collected for each of the following:
+244 (1) An application for an appointment as a remote online notary public;
+245 (2) An application for a notary commission renewal and an appointment as a remote
+246 online notary public; or
+247 (3) An application for an original or new notary commission and appointment as a
+248 remote online notary public.
+H. B. 289
+- 10 -
+
+25 LC 48 1422
+249 (e) Upon the applicant's fulfillment of the requirements for commission or appointment
+250 under this chapter, the clerk of superior court may approve or deny the commission or
+251 appointment based on Code Section 45-17-2.3 and the provisions of this article, and upon
+252 approval shall issue to the applicant an appointment as a remote online notary public and
+253 a unique remote online notary public commission number.
+254 (f) Unless terminated pursuant to this article, the term of commission to perform remote
+255 online notarization shall coincide with the term of the original appointment or any renewal
+256 thereof.
+257 (g) Upon approval of the application to be appointed a remote online notary public by the
+258 clerk of superior court, such notary shall:
+259 (1) Be authorized to perform remote online notarization pursuant to this article;
+260 (2) Maintain a notary surety bond in the amount of $2,000.00;
+261 (3) Except for a remote online notary public as appointed under subsection (h) of this
+262 Code section, maintain a residential domicile and physical presence in this state; and
+263 (4) Promptly notify the appointing clerk of superior court, with a copy to the Georgia
+264 Superior Court Clerks' Cooperative Authority, of any change in the information provided
+265 in the remote online notary public application, including, but not limited to, legal name,
+266 email address, telephone number, physical residential address, any change in the
+267 technology or repository provider used by such online notary public, and the name and
+268 address of the repository used by such remote online notary public for maintenance of his
+269 or her electronic journal.
+270 (h)(1) Any person who is a resident of a state bordering this state and who carries on a
+271 business or profession in the State of Georgia or who is regularly employed in this state
+272 may be appointed as a remote online notary public by the clerk of the superior court of
+273 the county in which the person carries on said profession, business, or employment.
+H. B. 289
+- 11 -
+
+25 LC 48 1422
+274 (2) Such person wishing to be appointed as a remote online notary public shall meet all
+275 the requirements of Code Section 45-17-2 as to an original appointment and this article
+276 as to a remote online notary public appointment.
+277 (3) In addition to the submission requirements for an original appointment under Code
+278 Section 45-17-2.1, such individual shall submit the application for a remote online notary
+279 public as required in this article to the clerk of superior court in the county in which such
+280 individual carries on such profession, business, or employment. The clerk of superior
+281 court shall approve or deny such application based on the provisions of this article and
+282 Code Section 45-17-2.3. Upon approval and payment of the usual fees to the clerk, the
+283 applicant shall be issued a unique remote online notary public commission number and
+284 shall be authorized to perform all duties and exercise all of the powers and authorities
+285 relating to remote online notary publics who are residents of this state.
+286 45-17-8.5.
+287 (a) Each remote online notary public shall keep a secure, permanent, tamper-evident
+288 electronic journal in accordance with the provisions of this article and the standards with
+289 entries for each remote online notarization. A journal entry shall at a minimum include the:
+290 (1) Date and time of the remote online notarization;
+291 (2) Type of remote online notarial act;
+292 (3) Type, title, or description of the electronic document or proceeding;
+293 (4) Name and address of each signer involved in the transaction or proceeding notarized
+294 by such notary;
+295 (5) Confirmation of identify based on evidence of identity presented for each signer
+296 involved in the transaction or proceeding in the form of:
+297 (A) Notation of the type of identification document provided to the remote online
+298 notary public pursuant to the credential analysis; and
+299 (B) A description and results of each identity proofing performed;
+H. B. 289
+- 12 -
+
+25 LC 48 1422
+300 (6) Physical location of the signer or signers of the document at the time of notarization;
+301 (7) Physical location of the remote online notary public at the time of remote online
+302 notarization; and
+303 (8) The fee, if any, charged for the remote online notarization.
+304 (b) The electronic journal shall be retained and maintained for at least ten years after the
+305 date of the last remote online notarial transaction performed.
+306 (c) Each remote online notary public shall cause an electronic copy of each electronic
+307 journal entry to be promptly transmitted to and retained by a repository for retention. Each
+308 repository receiving any journal or journal entry shall securely retain and maintain such
+309 electronic journal for a minimum of ten years following the last submission of an electronic
+310 journal entry by a remote online notary public.
+311 (d) Each remote online notary public shall create an audiovisual recording of the
+312 performance of the remote online notarial act as evidence of participant identity, type of
+313 participant identification presented, and the validity of the notarial act.
+314 (e) Each remote online notary public shall cause an electronic copy of each audiovisual
+315 recording to be immediately transmitted to and retained by a repository. Each repository
+316 receiving any audiovisual recording shall securely retain and maintain such audiovisual
+317 recording for a minimum of ten years following submission of the last audiovisual
+318 recording submitted by a remote online notary public.
+319 (f)(1) In the adoption of any standards regarding remote online notarization, the Georgia
+320 Superior Court Clerks' Cooperative Authority shall consider the most recent guidance or
+321 model standards proposed by relevant organizations recognized in such field of practice,
+322 including, but not limited to, the Mortgage Industry Standards Maintenance Organization
+323 (MISMO) and the National Association of Secretaries of State (NASS).
+324 (2) In the adoption of any standards regarding digital signatures, the Georgia Superior
+325 Court Clerks' Cooperative Authority shall consider the most recent guidance or model
+326 standards proposed by relevant organizations recognized in such field of practice,
+H. B. 289
+- 13 -
+
+25 LC 48 1422
+327 including, but not limited to, the Digital Signature Standard (DSS) of the National
+328 Institute of Standards and Technology (NIST).
+329 (g) A remote online notary public shall take reasonable steps to:
+330 (1) Ensure the integrity, security, and authenticity of each remote online notarization;
+331 (2) Maintain a backup of each electronic journal required by subsection (a) of this Code
+332 section and the recording required by subsection (d) of this Code section; and
+333 (3) Protect the backup record from unauthorized use.
+334 45-17-8.6.
+335 (a) A notary public physically located in this state may perform electronic in-person
+336 notarization in accordance with this article and the standards for an individual who is in the
+337 physical presence of the notary public.
+338 (b) A remote online notary public physically located in this state may perform remote
+339 online notarization using communication technology in accordance with this article and the
+340 standards for a remotely located individual who is physically located:
+341 (1) In this state;
+342 (2) Outside this state but within the United States; or
+343 (3) Outside the United States if:
+344 (A) The remote online notary public has no actual knowledge that the act of making
+345 the statement or signing the electronic record is prohibited in the jurisdiction in which
+346 the person is located; and
+347 (B) The signer placing his or her electronic signature on the electronic record confirms
+348 to the remote online notary public that the requested remote online notarial act and the
+349 electronic record:
+350 (i) Are part of or pertain to a matter that is to be filed with or is currently before a
+351 court, governmental entity, or other entity in the United States;
+352 (ii) Relate to property located in the United States; or
+H. B. 289
+- 14 -
+
+25 LC 48 1422
+353 (iii) Relate to a transaction that is substantively connected to the United States.
+354 45-17-8.7.
+355 (a) A notary public and a remote online notary public shall take reasonable steps to ensure
+356 that any registered device or digital certificate used to create an electronic signature or the
+357 notary's or remote online notary public's digital signature is current, valid, and has not been
+358 revoked or terminated by the device's or certificate's issuing or registering authority.
+359 (b) The duties of the notary public and the remote online notary public, in addition to the
+360 duties provided for in Code Section 45-17-8, are to:
+361 (1) Keep his or her electronic record, electronic signature, and electronic seal secure and
+362 under his or her exclusive control;
+363 (2) Not allow another person to use his or her electronic record, digital signature, or
+364 electronic seal. A remote online notary public may use such remote online notary
+365 public's digital signature only for performing electronic in-person notarization or remote
+366 online notarization and a notary public may use such notary public's digital signature only
+367 for performing electronic in-person notarization;
+368 (3) Attach his or her digital signature and seal to the remote online notarial certificate of
+369 an electronic document in a manner that is conducive to independent verification and
+370 renders evident any subsequent change or modification to the electronic document; and
+371 (4) Immediately notify an appropriate law enforcement agency and appointing clerk of
+372 superior court, with a copy to the Georgia Superior Court Clerks' Cooperative Authority,
+373 of the theft or vandalism of such notary's or remote online notary public's electronic
+374 record, digital signature, or electronic seal. A notary public or a remote online notary
+375 public shall immediately notify the appointing clerk of superior court, with a copy to the
+376 Georgia Superior Court Clerks' Cooperative Authority, if his or her electronic record,
+377 digital signature, or electronic seal has been lost or used by another person.
+H. B. 289
+- 15 -
+
+25 LC 48 1422
+378 45-17-8.8.
+379 (a) In performing a remote online notarization, a remote online notary public shall verify
+380 the identity of a signer creating an electronic signature at the time that the signature is taken
+381 by using secure communication technology that meets the requirements of this article and
+382 any standards adopted under this article; provided, however, that a failure to provide an
+383 accommodation shall not invalidate an otherwise valid notarial act. Identity shall be
+384 verified by each of the following:
+385 (1) Remote presentation by the person creating the electronic signature of a valid
+386 government issued identification credential, including a passport or driver's license, that
+387 contains the signature and a photograph of such person;
+388 (2) Credential analysis; and
+389 (3) Successful verified identity proofing.
+390 (b) The remote online notary public's communication technology provider and repository
+391 shall take reasonable steps to ensure that the communication technology used for a remote
+392 online notarization is secure from unauthorized interception. Each provider of
+393 communication technology products or services for remote online notarization in this state
+394 shall cause such products or services to comply with all provisions of this article and the
+395 standards relating to remote online notarization. Prior to providing remote online notary
+396 public products or services, a communication technology provider shall present a certificate
+397 of compliance to the remote online notary public affirming that such products and services
+398 comply with the provisions of this article and the standards pursuant to this article.
+399 (c) A remote online notary public shall require his or her communication technology
+400 provider used to comply with the provisions of this article and the standards.
+401 (d) A remote online notarial act meeting the provisions of this Code section shall satisfy
+402 the requirement of any law of this state relating to a notarial act that requires a signer to
+403 appear or personally appear before a notary or that the notarial act be performed in the
+H. B. 289
+- 16 -
+
+25 LC 48 1422
+404 presence of a notary, except for a notarial act pursuant to a law governing the creation and
+405 execution of wills, codicils, or testamentary trusts.
+406 (e) An electronic document executed by a signer and notarized under this article by a
+407 remote online notary public shall be deemed to be executed in this state.
+408 45-17-8.9.
+409 (a) A remote online notary public or the remote online notary public's employer may
+410 charge a fee for performance of remote online notarization in an amount not to exceed
+411 $25.00 per remote online notarization.
+412 (b) A notary public or a remote online notary public whose commission terminates shall
+413 destroy or delete the coding, disk, certificate, card, software, hardware, or password that
+414 enables the electronic affixation of the notary public's or remote online notary public's
+415 official digital signature and electronic seal.
+416 (c) Any person that, without authorization, knowingly obtains, conceals, damages,
+417 destroys, or deletes the coding, disk, certificate, card, software, hardware, or password
+418 enabling a notary public or a remote online notary public to affix a digital signature or
+419 electronic seal shall, upon conviction thereof, be guilty of a misdemeanor and punished
+420 pursuant to Code Section 45-17-20.
+421 45-17-8.10.
+422 (a) Nothing in this article shall be construed to alter or supersede any provision of law as
+423 set forth under Article 3 of Chapter 19 of Title 15 or any opinion or ruling by the Supreme
+424 Court of Georgia pertaining to the unauthorized practice of law in this state, including, but
+425 not limited to, the requirement that a licensed Georgia attorney shall supervise a real estate
+426 closing for real property located in this state.
+H. B. 289
+- 17 -
+
+25 LC 48 1422
+427 (b) A remote online notary public who is not a licensed Georgia attorney shall be
+428 prohibited from rendering services or advice that constitutes the practice of law in this
+429 state.
+430 45-17-8.11.
+431 (a) Any public official in this state, including all public officials of county and municipal
+432 government entities, shall be authorized to accept as an original a reproduction of any
+433 document executed using electronic signatures or electronic signatures and remote online
+434 notarization.
+435 (b) Any requirement that an instrument, document, deed, or real estate document be
+436 attested or acknowledged by a notary public and the requirement of confirmation of
+437 identity of the document signer, oath taker, or affirmant contained in 45-17-8 is satisfied
+438 by a remote online notarial act or an electronic in-person notarial act meeting the
+439 requirements of this article.
+440 (c) A remote online notarial act performed by a remote online notary public commissioned
+441 or registered in another state shall have the same effect under the laws of this state as if
+442 performed by a notary public appointed in this state.
+443 (d) A notary public or a remote online notary public shall not perform any notarial act by
+444 electronic in-person notarization or remote online notarial act by remote online notarization
+445 if the notarial act or remote online notarial act is pursuant to a law governing the creation
+446 and execution of any will, codicil or testamentary trust.
+447 SECTION 1-6.
+448 Said article is further amended by revising Code Section 45-17-9, relating to where notarial
+449 acts may be exercised, as follows:
+H. B. 289
+- 18 -
+
+25 LC 48 1422
+450 "45-17-9.
+451 Notarial acts or remote online notarial acts may be exercised in or from any county in the
+452 this state."
+453 SECTION 1-7.
+454 Said article is further amended by revising Code Section 45-17-17, relating to resignation of
+455 commission, return of papers, and destruction of seal, as follows:
+456 "45-17-17.
+457 A person who wishes to resign a notarial commission or remote online notarial
+458 appointment shall send a signed letter of resignation to the appointing clerk of superior
+459 court, with a copy to the Georgia Superior Court Clerks' Cooperative Authority, and all
+460 papers of commission or appointment. The resigning notary public or remote online notary
+461 public shall destroy or delete the official notarial seal."
+462 SECTION 1-8.
+463 Said article is further amended by revising Code Section 45-17-18, relating to destruction of
+464 seal upon expiration or denial of renewal of commission, as follows:
+465 "45-17-18.
+466 A notary public or remote online notary public whose commission or appointment expires
+467 and who does not apply for renewal of such commission or appointment or whose
+468 application for renewal of a commission or appointment is denied shall destroy or delete
+469 the official notary seal."
+H. B. 289
+- 19 -
+
+25 LC 48 1422
+470 PART II
+471 SECTION 2-1.
+472 Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated,
+473 relating to the "Fair Business Practices Act of 1975," is amended by revising paragraphs (33),
+474 (34), and 35 of and by adding a new paragraph to subsection (b) of Code Section 10-1-393,
+475 relating to unfair or deceptive practices in consumer transactions unlawful and examples, to
+476 read as follows:
+477 "(33)(A) For any person, firm, partnership, association, or corporation to issue a gift
+478 certificate, store gift card, or general use gift card without:
+479 (i) Including the terms of the gift certificate, store gift card, or general use gift card
+480 in the packaging which accompanies the certificate or card at the time of purchase,
+481 as well as making such terms available upon request; and
+482 (ii) Conspicuously printing the expiration date, if applicable, on the certificate or card
+483 and conspicuously printing the amount of any dormancy or nonuse fees on:
+484 (I) The certificate or card; or
+485 (II) A sticker affixed to the certificate or card.
+486 A gift certificate, store gift card, or general use gift card shall be valid in accordance
+487 with its terms in exchange for merchandise or services.
+488 (B) As used in this paragraph, the term:
+489 (i) 'General use gift card' means a plastic card or other electronic payment device
+490 which is usable at multiple, unaffiliated merchants or service providers; is issued in
+491 an amount which amount may or may not be, at the option of the issuer, increased in
+492 value or reloaded if requested by the holder; is purchased or loaded on a prepaid basis
+493 by a consumer; and is honored upon presentation by merchants for goods or services.
+494 (ii) 'Gift certificate' means a written promise that is usable at a single merchant or an
+495 affiliated group of merchants that share the same name, mark, or logo; is issued in a
+H. B. 289
+- 20 -
+
+25 LC 48 1422
+496 specified amount and cannot be increased in value on the face thereof; is purchased
+497 on a prepaid basis by a consumer in exchange for payment; and is honored upon
+498 presentation for goods or services by such single merchant or affiliated group of
+499 merchants that share the same name, mark, or logo.
+500 (iii) 'Store gift card' means a plastic card or other electronic payment device which
+501 is usable at a single merchant or an affiliated group of merchants that share the same
+502 name, mark, or logo; is issued in a specified amount and may or may not be increased
+503 in value or reloaded; is purchased on a prepaid basis by a consumer in exchange for
+504 payment; and is honored upon presentation for goods or services by such single
+505 merchant or affiliated group of merchants that share the same name, mark, or logo;
+506 (34) For any person, firm, partnership, business, association, or corporation to willfully
+507 and knowingly accept or use an individual taxpayer identification number issued by the
+508 Internal Revenue Service for fraudulent purposes and in violation of federal law; and
+509 (35) Knowingly presenting for recording a one-to-four family residential real estate
+510 document to the clerk of superior court that the presenter knew at the time of presentation
+511 resulted from actions that constitute the unauthorized practice of law in violation of
+512 paragraph (2) or (4) of Code Section 15-19-50 or any advisory opinions issued by the
+513 Supreme Court of Georgia related to either such paragraph; and
+514 (35) (36) Failure to comply with the provisions of Code Section 10-6A-9 or 10-6A-10
+515 regarding brokerage engagements and options to enter into brokerage engagements."
+516 SECTION 2-2.
+517 Part 1 of Article 1 of Chapter 2 of Title 44 of the Official Code of Georgia Annotated,
+518 relating to recording of deeds and other real property transactions, is amended by adding a
+519 new subsection to Code Section 44-2-14, relating to requirements for recordation, to read as
+520 follows:
+H. B. 289
+- 21 -
+
+25 LC 48 1422
+521 "(e) Any instrument presented to the clerk of superior court for recordation that requires
+522 an official and an unofficial witness may be admitted to record if the authorized signatures
+523 of both witnesses and any required seals are present on or in such document. The clerk
+524 shall have no further duty to examine the circumstances of the witnessing, or witnesses,
+525 method or location of same."
+526 SECTION 2-3.
+527 Said part is further amended by adding a new Code section to read as follows:
+528 "44-2-31.
+529 (a) Any requirement that a real estate document be witnessed, attested, or acknowledged
+530 by an unofficial witness is satisfied if:
+531 (1) The witness is physically present with the signer, personally sees the signer execute
+532 such real estate document by hand in ink; or
+533 (2) The witness is physically present with the signer, personally sees the signer
+534 electronically execute the real estate document, or is physically present in this state and
+535 sees the signer electronically execute such real estate document by the use of
+536 communication technology in accordance with Chapter 17 of Title 45, and electronically
+537 executes the real estate document by the use of communication technology in accordance
+538 with Chapter 17 of Title 45.
+539 (b) Terms used in this Code Section shall have the same meanings set forth in Code
+540 Section 45-17-1."
+541 SECTION 2-4.
+542 Article 4 of Chapter 18 of Title 50 of the Official Code of Georgia Annotated, relating to
+543 inspection of public records, is amended by revising paragraphs (51) and (52) of and by
+544 adding a new paragraph to subsection (a) of Code Section 50-18-72, relating to when public
+545 disclosure not required, to read as follows:
+H. B. 289
+- 22 -
+
+25 LC 48 1422
+546 "(51) Reports submitted to the Department of Revenue, the Atlanta-region Transit Link
+547 'ATL' Authority, or the Department of Transportation by a for-hire ground transport
+548 service provider as required pursuant to Code Section 48-13-143; or
+549 (52) Any information, including, but not limited to, data and records, prohibited from
+550 disclosure pursuant to Code Section 50-18-160. ; or
+551 (53) Records consisting of any audiovisual recording of the performance of a remote
+552 online notarization process as provided for by Code Section 45-17-8.5."
+553 PART III
+554 SECTION 3-1.
+555 This Act shall become effective upon its approval by the Governor or upon its becoming law
+556 without such approval.
+557 SECTION 3-2.
+558 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 289
+- 23 -
+
+[DELETED: 5L9,4,2,htht5,1,hs C o G A r t c o s c a g o t G S C C C A t p f]
+[DELETED: 5L  T e a p g b t l o t s t p o p]
+[DELETED: 5L s n a d n i t t o a a t o n p p l i t s a a r l]
+[DELETED: 5L  ' m r t t h e d m]
+[DELETED: 5L w c a a a c t i o a i w l a t t o a a t  ' e d m a i d o d e t]
+[DELETED: 5L  ' p m t t t r o n p  ' l i m a i w i n i t p]
+[DELETED: 5L P t n o t s a t c o h r t n P G S a L  N c o r t]
+[DELETED: 5L]
+[DELETED: 5L s i n s a p t s a e s c s b d a m a a b t G b a o a o r a a r o n p]
+[DELETED: 5L r o n a t r t b u b s n f]
+[DELETED: 5L a t n p r a a c i t]
+[DELETED: 5L]
+[DELETED: 5L  E r o n p s c a a r o t f a m o t y f s o t l a p b r o r i s f o p]
+[DELETED: 5L b n l t t D S S ( o t N]
+[DELETED: 5L]
+[DELETED: 5L  R p b t p c t e o a v n i s f u i  E p o]
+[DELETED: 5L  A p t w a k o c d]
+[DELETED: 5L  A r o n p w i n a l G a s b o a b a n p a t r o c o a r o n a o a e i n a m t]
+[DELETED: 5L p w w t r a n c o r o n w d n a f r o s c o a o w]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L  T w i p p w t s p s t s t s e e s r e d b t u o]
+[DELETED: 5L]

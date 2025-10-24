@@ -1,0 +1,131 @@
+25 LC 56 0310
+Senate Bill 178
+By: Senators Dolezal of the 27th, Beach of the 21st, Dixon of the 45th ans Esteves of the
+35th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Article 3 of Chapter 17 of Title 50 of the Official Code of Georgia Annotated,
+2 relating to state depositories, so as to provide for the State Depository Board to allow the
+3 state treasurer to invest in Bitcoin; to provide for a limit on such investment; to provide for
+4 requirements for the safe handling of such assets; to provide for the loaning of such assets;
+5 to provide for definitions; to provide for related matters; to repeal conflicting laws; and for
+6 other purposes.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+8 SECTION 1.
+9 Article 3 of Chapter 17 of Title 50 of the Official Code of Georgia Annotated, relating to
+10 state depositories, is amended by revising subsection (b) of Code Section 50-17-63, relating
+11 to deposit of demand funds, investment of funds, reports, remittance of interest earned, motor
+12 fuel tax revenues, as follows:
+13 "(b) All departments, boards, bureaus, and other agencies of the state shall report to the
+14 board, on such forms and at such times as the board may prescribe, such information as the
+15 board may reasonably require concerning deposits and withdrawals pursuant to this Code
+S. B. 178
+- 1 -
+
+25 LC 56 0310
+16 section and shall enable the board to determine compliance with this Code section. Interest
+17 earned on state funds withdrawn from the state treasury on approved budgets shall be
+18 remitted to the Office of the State Treasurer by each department, board, bureau, or agency
+19 and placed in the general fund. The board may permit the state treasurer to invest in any
+20 one or more of the following: bankers' acceptances; commercial paper; bonds, bills,
+21 certificates of indebtedness, notes, or other obligations of the United States and its
+22 subsidiary corporations and instrumentalities or entities sanctioned or authorized by the
+23 United States government including, but not limited to, obligations or securities issued or
+24 guaranteed by Banks for Cooperatives regulated by the Farm Credit Administration, the
+25 Commodity Credit Corporation, Farm Credit Banks regulated by the Farm Credit
+26 Administration, Federal Assets Financing Trusts, the Federal Financing Bank, Federal
+27 Home Loan Banks, the Federal Home Loan Mortgage Corporation, the Federal National
+28 Mortgage Association, the Financial Assistance Corporation chartered by the Farm Credit
+29 Administration, the Government National Mortgage Association, the Import-Export Bank,
+30 Production Credit Associations regulated by the Farm Credit Administration, the
+31 Resolution Trust Corporation, and the Tennessee Valley Authority; obligations of
+32 corporations organized under the laws of this state or any other state but only if the
+33 corporation has a market capitalization equivalent to $100 million; provided, however, that
+34 such obligation shall be listed as investment grade by a nationally recognized rating
+35 agency; the shares of any mutual fund the investments of which are limited to securities of
+36 the type described in this subsection and distributions from which are treated for federal
+37 income tax purposes in the same manner as the interest on said obligations, provided that
+38 at the time of investment such obligations, or the obligations held by any such unit
+39 investment trust or the obligations held or to be acquired by any such mutual fund, are
+40 limited to obligations which are rated within one of the top two rating categories of any
+41 nationally recognized rating service or any rating service recognized by the commissioner
+42 of banking and finance, and no others, or to securities lending transactions involving
+S. B. 178
+- 2 -
+
+25 LC 56 0310
+43 securities of the type described in this subsection; bonds, notes, warrants, and other
+44 securities not in default which are the direct obligations of the government of any foreign
+45 country which the International Monetary Fund lists as an industrialized country and for
+46 which the full faith and credit of such government has been pledged for the payment of
+47 principal and interest, provided that such securities are listed as investment grade by a
+48 nationally recognized rating agency; Bitcoin, as such term is defined in Code Section
+49 50-17-68; or obligations issued, assumed, or guaranteed by the International Bank for
+50 Reconstruction and Development or the International Financial Corporation, provided that
+51 such securities are listed as investment grade by a nationally recognized rating agency;
+52 provided, however, that interest earned on the investment of motor fuel tax revenues shall
+53 be defined as motor fuel tax revenues and shall be appropriated in conformity with and
+54 pursuant to Article III, Section IX, Paragraph VI(b) of the Constitution of Georgia. The
+55 board may also permit the state treasurer to lend any of the securities of the type identified
+56 in this subsection subject to the limitations of subsection (b) of Code Section 50-5A-7 and
+57 this chapter."
+58 SECTION 2.
+59 Said article is further amended by adding a new Code section to read as follows:
+60 "50-17-68.
+61 (a) As used in this Code section, the term:
+62 (1) 'Bitcoin' means the decentralized digital currency hosted on the public blockchain by
+63 the same name.
+64 (2) 'Exchange traded product' means any financial instrument that is approved by the
+65 Securities and Exchange Commission or the Commodity Futures Trading Commission
+66 that is traded on a federally regulated exchange and derives its value from an underlying
+67 pool of assets, such as stocks, bonds, commodities, or indexes.
+S. B. 178
+- 3 -
+
+25 LC 56 0310
+68 (3) 'Private key' means a unique element of cryptographic data used for signing
+69 transactions on a blockchain.
+70 (4) 'Qualified custodian' means any federal or state chartered bank, trust company, or
+71 special purpose depository institution or a company regulated by the state which holds
+72 digital assets for an approved exchange traded product.
+73 (5) 'Secure custody solution' means a technological product or blended product and
+74 service which has all of the following characteristics:
+75 (A) The private keys that secure digital assets are exclusively known by and accessible
+76 by the government entity;
+77 (B) The private keys that secure digital assets are exclusively contained within an
+78 encrypted environment and accessible only via end-to-end encrypted channels;
+79 (C) The private keys that secure digital assets are never contained in, accessible by, or
+80 controllable via a smartphone;
+81 (D) Any hardware that contains the private keys that secure digital assets is maintained
+82 in at least two geographically diversified secure data centers;
+83 (E) The secure custody solution enforces a multiparty governance structure for
+84 authorizing transactions, enforces user access controls, and logs all user initiated
+85 actions;
+86 (F) The provider of the secure custody solution has implemented a disaster recovery
+87 protocol that ensures customer access to assets in the event the provider becomes
+88 unavailable; and
+89 (G) The secure custody solution undergoes regular code audits and penetration testing
+90 from audit firms.
+91 (b) The board shall not permit the state treasurer to invest more than 5 percent of any fund
+92 into Bitcoin.
+93 (c) Any digital assets acquired pursuant to this chapter shall be held:
+94 (1) Directly through the use of a secure custody solution;
+S. B. 178
+- 4 -
+
+25 LC 56 0310
+95 (2) On behalf of the state by a qualified custodian; or
+96 (3) In the form of an exchange traded product issued by a registered investment
+97 company.
+98 (d) The board may permit the state treasurer to loan digital assets, so long as such loan
+99 does not increase the financial risk to the state."
+100 SECTION 3.
+101 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 178
+- 5 -
+
+[DELETED: 5L]
+[DELETED: 5L o m o t f b a c p b b o i n o o o o t U S a i C C F C B r b t F C C A r b t F C A t T C a t T V A o o o s b l a i g b a n r r t t o i s o o t o h b a s u]
+[DELETED: 5L o t t d i t s b n w a o]
+[DELETED: 5L  ' k m a u e o c d u f s  T s c s e a m g s f t e u a c a l a u i]
+[DELETED: 5L  I t f o a e t p i b a r i]

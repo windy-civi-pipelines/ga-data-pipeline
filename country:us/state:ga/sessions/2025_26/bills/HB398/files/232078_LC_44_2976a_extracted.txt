@@ -1,0 +1,586 @@
+Title: House Bill 398
+Official Title: House Bill 398
+Number of Sections: 1
+Source: versions - LC 44 2976/a
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+25 LC 44 2976
+By: Representatives Hagan of the 156th, Gaines of the 120th, Dempsey of the 13th, Camp of
+the 135th, Prince of the 132nd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2 of Title 26 of the Official Code of Georgia Annotated, relating to
+2 standards, labeling, and adulteration of food, so as to authorize the production and sale of
+3 cottage food items with certain exemptions, requirements, and disclosures; to provide for
+4 definitions; to provide for inspections; to provide for a civil penalty; to provide for
+5 conforming changes; to amend Chapter 60 of Title 36 of the Official Code of Georgia
+6 Annotated, relating to general provisions applicable to counties and municipal corporations,
+7 so as to prohibit local regulation of cottage food items; to provide for related matters; to
+8 repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Chapter 2 of Title 26 of the Official Code of Georgia Annotated, relating to standards,
+12 labeling, and adulteration of food, is amended by adding a new article to read as follows:
+H. B. 398
+- 1 -
+25 LC 44 2976
+13 "ARTICLE 19
+14 26-2-470.
+15 As used in this article, the term:
+16 (1) 'Commissioner' means the Commissioner of Agriculture.
+17 (2) 'Cottage food item' means a non-potentially hazardous food or nonalcoholic beverage
+18 intended for human consumption that is produced and, if packaged, packaged at the
+19 residential property of the producer. The term 'cottage food item' shall not include
+20 alcoholic beverages, foods containing cannabis, or raw milk.
+21 (3) 'Cottage food operator' means a person who produces cottage food items at a
+22 residential property for sale to consumers or sellers pursuant to this article.
+23 (4) 'Cottage food production operation' means an individual, operating out of the
+24 individual's home kitchen, who prepares, processes, packages, stores, and distributes
+25 non-potentially hazardous foods for sale directly to a person, including online and by mail
+26 order, or to any food sales establishment, as that term is defined in Code Section 26-2-21.
+27 (5) 'Department' means the Department of Agriculture of this state.
+28 (6) 'Home kitchen' means a kitchen primarily intended for use by the residents of a home.
+29 (7) 'Non-potentially hazardous foods' means cottage food items that do not require
+30 temperature control for safety because they are not capable of supporting the rapid
+31 growth of pathogenic or toxigenic microorganisms or the growth and toxin production
+32 of Clostridium botulinum. The term 'non-potentially hazardous foods' includes, but is not
+33 limited to, baked goods such as loaf breads, rolls, biscuits and cakes, except those whose
+34 fillings require refrigeration or have high moisture content; jams, jellies, and preserves,
+35 except fruit butters when their commercial sterility may be affected by reduced sugar or
+36 pectin levels; uncut fruits and vegetables; dried fruits; dry herbs, seasonings, and
+37 mixtures; cereals, trail mixes, and granola; coated and uncoated nuts; vinegars and
+H. B. 398
+- 2 -
+25 LC 44 2976
+38 flavored vinegars; dill pickles; confections; fudge; dry soup mixes; roasted coffee beans;
+39 dry pasta; and popcorn, popcorn balls, and cotton candy.
+40 (8) 'Potentially hazardous foods' means cottage food items requiring temperature control
+41 for safety because they are capable of supporting the rapid growth of pathogenic or
+42 toxigenic microorganisms or the growth and toxin production of Clostridium botulinum.
+43 (9) 'Produce' means to prepare a food item by cooking, baking, drying, mixing, cutting,
+44 dehydrating, growing, raising, or other process.
+45 (10) 'Producer' means a person who produces a cottage food item pursuant to this article.
+46 (11) 'Seller' means any person, except a cottage food operator, who sells a cottage food
+47 item to a consumer, including, but not limited to, an agent of the producer or a third-party
+48 vendor.
+49 (12) 'Third-party vendor' means a retail store, grocery store, restaurant, or other similar
+50 store.
+51 26-2-471.
+52 (a) It shall be unlawful for any person to operate as a cottage food operator not in
+53 compliance with this article.
+54 (b) This article shall not apply to a person who sells non-potentially hazardous foods at a
+55 bake sale affiliated with a nonprofit, charitable, or religious organization.
+56 26-2-472.
+57 Cottage food production operations may only sell, or offer to sell, food items directly to a
+58 person, including online and by mail order, or to retail food sales establishments, including
+59 grocery stores and restaurants. Food produced from a cottage food production operation,
+60 and in compliance with the requirements of this article, shall be considered to be from an
+61 approved source, as required of a retail food sales establishment pursuant to department
+62 regulations. Any retail food sales establishment, including any grocery store, that sells or
+H. B. 398
+- 3 -
+25 LC 44 2976
+63 offers to sell cottage food products must post signage according to specifications as
+64 promulgated by the department indicating that cottage food products are not subject to
+65 commercial food regulations or inspection.
+66 26-2-473.
+67 (a) Except as provided in subsection (c) of this Code section, a cottage food operator or
+68 seller shall provide the following information to consumers of a cottage food item:
+69 (1)(A) The business name, address, and telephone number of the cottage food operator;
+70 or
+71 (B) A cottage food operator or seller may elect, in lieu of providing an address
+72 pursuant to subparagraph (A) of this paragraph, to provide an identification number to
+73 be provided by the department upon written request; and
+74 (2) The following statement in at least 10 point font: 'This product was produced at a
+75 residential property that is exempt from state inspection. This product may contain
+76 allergens.'
+77 (b) Such information shall be provided:
+78 (1) On a label affixed to the package, if the cottage food item is packaged;
+79 (2) On a label affixed to the container, if the cottage food item is offered for sale from
+80 a bulk container;
+81 (3) On a placard displayed at the point of sale, if the cottage food item is neither
+82 packaged nor offered for sale from a bulk container; or
+83 (4) On the webpage on which the cottage food item is offered for sale, if the cottage food
+84 item is offered for sale on the internet.
+85 (c)(1) If the cottage food item is sold by telephone or custom order, the seller may
+86 choose not to display the information required by subsection (a) of this Code section but
+87 shall disclose to consumers that the cottage food item:
+88 (A) Is produced at a residential property that is exempt from state inspection; and
+H. B. 398
+- 4 -
+25 LC 44 2976
+89 (B) May contain allergens.
+90 (2) The seller shall have the information required by paragraphs (1) through (3) of
+91 subsection (a) of this Code section readily available and shall provide it to consumers
+92 upon request.
+93 (d) In addition to the labeling requirements provided in subsections (a) and (b) of this
+94 Code section, if the cottage food item is sold by a third-party vendor, the item shall be
+95 displayed in a separate section of the store or in a separate display case from non-cottage
+96 food items. The third-party vendor shall conspicuously label the separate section or display
+97 case as containing cottage food items that are exempt from state inspection.
+98 26-2-474.
+99 The Commissioner shall be authorized to enforce the provisions of this article and shall
+100 have the authority to adopt any rules or regulations necessary to carry out said enforcement.
+101 Nothing in this article shall be construed to prevent the department from conducting an
+102 investigation into a reported foodborne illness.
+103 26-2-475.
+104 Any person who willfully fails to comply with any provision of this article or violates any
+105 rule or regulation adopted pursuant to this article shall be given a written warning. Upon
+106 a second or subsequent violation, such person shall be assessed a civil penalty of not more
+107 than $75.00 per violation.
+108 26-2-476.
+109 (a) The department may inspect the residence of a cottage food operator to investigate a
+110 consumer complaint, a report of foodborne illness, or other public health emergency.
+111 (b) Such inspection shall be limited to the areas of the residence used by the cottage food
+112 operator.
+H. B. 398
+- 5 -
+25 LC 44 2976
+113 (c) Except in emergency situations, the department shall schedule an inspection with the
+114 cottage food operator in advance. A cottage food operator may request an administrative
+115 warrant prior to an inspection.
+116 26-2-477.
+117 Nothing in this article shall be construed to:
+118 (1) Exempt a cottage food operator or seller from any applicable federal law, including,
+119 but not limited to, any federal law prohibiting the sale of certain food items in interstate
+120 commerce;
+121 (2) Preclude the production or sale of food items otherwise allowed by federal, state, or
+122 local law;
+123 (3) Preclude the sale of live animals or portions of live animals before slaughter for
+124 future delivery;
+125 (4) Amend or otherwise alter any rule or regulation related to other goods and services
+126 provided where cottage food items are produced or sold;
+127 (5) Exempt a cottage food operator or seller from any applicable tax law;
+128 (6) Exempt a cottage food operator or seller from any applicable fishing or hunting law;
+129 or
+130 (7) Exempt a cottage food operator or seller from any applicable law of another state.
+131 26-2-478.
+132 (a) In addition to the regulation of cottage food items under this article by the department
+133 and the Commissioner, the governing authority of any county or municipality may elect to
+134 prohibit cottage food operators from selling cottage food items through third-party vendors
+135 within its jurisdiction through the adoption of an ordinance providing as much. Any such
+136 ordinance shall only be adopted at a hearing occurring at least 15 but not more than 45 days
+137 after a notice of the hearing is published within a newspaper of general circulation within
+H. B. 398
+- 6 -
+25 LC 44 2976
+138 the territorial boundaries of the local government. Any such county or municipality may
+139 employ its local board of health to assist in such matters.
+140 (b) No ordinance authorized under subsection (a) of this Code section shall become
+141 effective until the county or municipality notifies the Commissioner and the department of
+142 such ordinance prior to the effective date of the required ordinance.
+143 (c) Neither the Commissioner, nor the department, shall be responsible or liable for any
+144 prohibition or regulation enacted by ordinance pursuant to subsection (a) of this Code
+145 section."
+146 SECTION 2.
+147 Said chapter is further amended in Article 2, relating to adulteration and misbranding of food,
+148 by revising paragraph (5) of subsection (a) of Code Section 26-2-21, relating to definitions,
+149 as follows:
+150 "(5) 'Food sales establishment' means retail and wholesale grocery stores; retail seafood
+151 stores and places of business; food processing plants, except those food processing plants
+152 which are currently required to obtain a license from the Commissioner under any other
+153 provision of law; bakeries; confectioneries; fruit, nuts, and vegetable stores or roadside
+154 stands; wholesale sandwich and salad manufacturers, including vending machines and
+155 operations connected therewith; and places of business and similar establishments,
+156 mobile or permanent, engaged in the sale of food primarily for consumption off the
+157 premises. Within a food sales establishment, there may be a food service component, not
+158 separately operated, which may serve customers on site. This food service component
+159 shall be considered as part of the food sales establishment. Such term shall not include:
+160 (A) The food sales component of any food service establishment defined in Code
+161 Section 26-2-370;
+162 (B) Food service establishments as defined in Code Section 26-2-370;
+H. B. 398
+- 7 -
+25 LC 44 2976
+163 (C) Establishments engaged in the sale of food primarily for consumption off the
+164 premises if such sale is an authorized part of and occurs upon the site of a fair or
+165 festival which:
+166 (i) Is sponsored by a political subdivision of this state; and
+167 (ii) Lasts 120 hours or less;
+168 (D) Establishments engaged in the boiling, bottling, and sale of sugar cane syrup or
+169 sorghum syrup within this state, provided that such bottles contain a label listing the
+170 producer's name and street address, all added ingredients, and the net weight or volume
+171 of the product; or
+172 (E) Nonprofit food sales and food service provided under a permit issued pursuant to
+173 Article 14 of this chapter;
+174 (F) Cottage food operators as provided for in Code Section 26-2-471; or
+175 (G) A person selling non-potentially hazardous foods, as defined in Code
+176 Section 26-2-470, at a bake sale affiliated with a nonprofit, charitable, or religious
+177 organization."
+178 SECTION 3.
+179 Said chapter is further amended in Article 6, relating to meat, poultry, and dairy processing
+180 plants, by revising paragraph (3) of Code Section 26-2-200, relating to definitions, as
+181 follows:
+182 "(3) 'Meat, poultry, or dairy processing plant' means: any abattoir, slaughterhouse,
+183 poultry killing or processing plant, milk depot, milk processing plant, or any other
+184 establishment for the killing, storage, dressing, manufacture, preparation, or processing
+185 of any animal, fowl, or dairy product or any by-product thereof for human consumption.
+186 Such term shall not include cottage food operators as provided for in Code
+187 Section 26-2-471."
+H. B. 398
+- 8 -
+25 LC 44 2976
+188 SECTION 4.
+189 Said chapter is further amended in Article 13, relating to food service establishments, by
+190 revising paragraph (2) of Code Section 26-2-370, relating to definitions, as follows:
+191 "(2) 'Food service establishment' means establishments for the preparation and serving
+192 of meals, lunches, short orders, sandwiches, frozen desserts, or other edible products
+193 either for carry out or service within the establishment. Such term includes restaurants;
+194 coffee shops; cafeterias; short order cafes; luncheonettes; taverns; lunchrooms; places
+195 which retail sandwiches or salads; soda fountains; institutions, both public and private;
+196 mobile food service establishments; industrial cafeterias; catering establishments; and
+197 similar facilities by whatever name called. Within a food service establishment, there
+198 may be a food sales component, not separately operated. This food sales component shall
+199 be considered as part of the food service establishment. Such term shall not include:
+200 (A) A food sales establishment, as defined in Code Section 26-2-21, except as
+201 otherwise stated in this paragraph;
+202 (B) The food service component of any food sales establishment defined in Code
+203 Section 26-2-21;
+204 (C) Any outdoor recreation activity sponsored by the state, a county, a municipality,
+205 or any department or entity thereof, any outdoor or indoor (other than school cafeteria
+206 food service) public school function, or any outdoor private school function;
+207 (D) Any organization which is operating on its own property or on the property of a
+208 party that has provided written consent for the use of such property for such purpose
+209 and which is exempt from taxes under paragraph (1) of subsection (a) of Code
+210 Section 48-7-25 or under Section 501(d) or paragraphs (1) through (8) or
+211 paragraph (10) of Section 501(c) of the Internal Revenue Code for the purpose of
+212 operating a house or other residential structures where seriously ill or injured children
+213 and their families are provided temporary accommodations in proximity to their
+H. B. 398
+- 9 -
+25 LC 44 2976
+214 treatment hospitals and where food is prepared, served, transported, or stored by
+215 volunteer personnel;
+216 (E) Establishments for the preparation and serving of meals, lunches, short orders,
+217 sandwiches, frozen desserts, or other edible products if such preparation or serving is
+218 an authorized part of and occurs upon the site of an event which:
+219 (i) Is sponsored by a political subdivision of this state;
+220 (ii) Is held on the property of such sponsor or on the property of a party that has
+221 provided written consent for use of such property for such event; and
+222 (iii) Lasts 120 hours or less; or
+223 (F) Nonprofit food sales and food service provided under a permit issued pursuant to
+224 Article 14 of this chapter; or
+225 (G) Cottage food operators as provided for in Code Section 26-2-471."
+226 SECTION 5.
+227 Chapter 60 of Title 36 of the Official Code of Georgia Annotated, relating to general
+228 provisions applicable to counties and municipal corporations, is amended by adding a new
+229 Code section to read as follows:
+230 "36-60-33.
+231 Except as authorized under and in accordance with Code Section 26-2-478, no county or
+232 municipality shall prohibit or regulate cottage food items as such term defined in Code
+233 Section 26-2-470. No county or municipality shall prohibit commercial delivery
+234 companies from delivering cottage food items."
+235 SECTION 6.
+236 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 398
+- 10 -
+[DELETED: 5L6,0,3,htht5,2,hn t p f i t p f a c p t p f]
+[DELETED: 5L  ' f o m a p w p c f i a   ' f p o m a i o o o t l u f a v d f d h s a c t m a g c a u n v a]
+[DELETED: 5L c f]
+[DELETED: 5L t s c f p m p s a t s a o p]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L c t a p o b a s e]
+[DELETED: 5L  A p s n h f a d i C b r p ( o C S 2 r t d a a k t s n i c f o a p f i C]
+[DELETED: 5L  A f s e a d i C S 2 e a w i e f t u p ( o s ( o C 4 o u S 5 o p ( t ( o t f a p t a i p t t]
+[DELETED: 5L h a w f i p s t o s b t O 2  N c o m s p c d]
+
+
+================================================================================
+
+Raw Text:
+25 LC 44 2976
+House Bill 398
+By: Representatives Hagan of the 156th, Gaines of the 120th, Dempsey of the 13th, Camp of
+the 135th, Prince of the 132nd, and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 2 of Title 26 of the Official Code of Georgia Annotated, relating to
+2 standards, labeling, and adulteration of food, so as to authorize the production and sale of
+3 cottage food items with certain exemptions, requirements, and disclosures; to provide for
+4 definitions; to provide for inspections; to provide for a civil penalty; to provide for
+5 conforming changes; to amend Chapter 60 of Title 36 of the Official Code of Georgia
+6 Annotated, relating to general provisions applicable to counties and municipal corporations,
+7 so as to prohibit local regulation of cottage food items; to provide for related matters; to
+8 repeal conflicting laws; and for other purposes.
+9 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+10 SECTION 1.
+11 Chapter 2 of Title 26 of the Official Code of Georgia Annotated, relating to standards,
+12 labeling, and adulteration of food, is amended by adding a new article to read as follows:
+H. B. 398
+- 1 -
+
+25 LC 44 2976
+13 "ARTICLE 19
+14 26-2-470.
+15 As used in this article, the term:
+16 (1) 'Commissioner' means the Commissioner of Agriculture.
+17 (2) 'Cottage food item' means a non-potentially hazardous food or nonalcoholic beverage
+18 intended for human consumption that is produced and, if packaged, packaged at the
+19 residential property of the producer. The term 'cottage food item' shall not include
+20 alcoholic beverages, foods containing cannabis, or raw milk.
+21 (3) 'Cottage food operator' means a person who produces cottage food items at a
+22 residential property for sale to consumers or sellers pursuant to this article.
+23 (4) 'Cottage food production operation' means an individual, operating out of the
+24 individual's home kitchen, who prepares, processes, packages, stores, and distributes
+25 non-potentially hazardous foods for sale directly to a person, including online and by mail
+26 order, or to any food sales establishment, as that term is defined in Code Section 26-2-21.
+27 (5) 'Department' means the Department of Agriculture of this state.
+28 (6) 'Home kitchen' means a kitchen primarily intended for use by the residents of a home.
+29 (7) 'Non-potentially hazardous foods' means cottage food items that do not require
+30 temperature control for safety because they are not capable of supporting the rapid
+31 growth of pathogenic or toxigenic microorganisms or the growth and toxin production
+32 of Clostridium botulinum. The term 'non-potentially hazardous foods' includes, but is not
+33 limited to, baked goods such as loaf breads, rolls, biscuits and cakes, except those whose
+34 fillings require refrigeration or have high moisture content; jams, jellies, and preserves,
+35 except fruit butters when their commercial sterility may be affected by reduced sugar or
+36 pectin levels; uncut fruits and vegetables; dried fruits; dry herbs, seasonings, and
+37 mixtures; cereals, trail mixes, and granola; coated and uncoated nuts; vinegars and
+H. B. 398
+- 2 -
+
+25 LC 44 2976
+38 flavored vinegars; dill pickles; confections; fudge; dry soup mixes; roasted coffee beans;
+39 dry pasta; and popcorn, popcorn balls, and cotton candy.
+40 (8) 'Potentially hazardous foods' means cottage food items requiring temperature control
+41 for safety because they are capable of supporting the rapid growth of pathogenic or
+42 toxigenic microorganisms or the growth and toxin production of Clostridium botulinum.
+43 (9) 'Produce' means to prepare a food item by cooking, baking, drying, mixing, cutting,
+44 dehydrating, growing, raising, or other process.
+45 (10) 'Producer' means a person who produces a cottage food item pursuant to this article.
+46 (11) 'Seller' means any person, except a cottage food operator, who sells a cottage food
+47 item to a consumer, including, but not limited to, an agent of the producer or a third-party
+48 vendor.
+49 (12) 'Third-party vendor' means a retail store, grocery store, restaurant, or other similar
+50 store.
+51 26-2-471.
+52 (a) It shall be unlawful for any person to operate as a cottage food operator not in
+53 compliance with this article.
+54 (b) This article shall not apply to a person who sells non-potentially hazardous foods at a
+55 bake sale affiliated with a nonprofit, charitable, or religious organization.
+56 26-2-472.
+57 Cottage food production operations may only sell, or offer to sell, food items directly to a
+58 person, including online and by mail order, or to retail food sales establishments, including
+59 grocery stores and restaurants. Food produced from a cottage food production operation,
+60 and in compliance with the requirements of this article, shall be considered to be from an
+61 approved source, as required of a retail food sales establishment pursuant to department
+62 regulations. Any retail food sales establishment, including any grocery store, that sells or
+H. B. 398
+- 3 -
+
+25 LC 44 2976
+63 offers to sell cottage food products must post signage according to specifications as
+64 promulgated by the department indicating that cottage food products are not subject to
+65 commercial food regulations or inspection.
+66 26-2-473.
+67 (a) Except as provided in subsection (c) of this Code section, a cottage food operator or
+68 seller shall provide the following information to consumers of a cottage food item:
+69 (1)(A) The business name, address, and telephone number of the cottage food operator;
+70 or
+71 (B) A cottage food operator or seller may elect, in lieu of providing an address
+72 pursuant to subparagraph (A) of this paragraph, to provide an identification number to
+73 be provided by the department upon written request; and
+74 (2) The following statement in at least 10 point font: 'This product was produced at a
+75 residential property that is exempt from state inspection. This product may contain
+76 allergens.'
+77 (b) Such information shall be provided:
+78 (1) On a label affixed to the package, if the cottage food item is packaged;
+79 (2) On a label affixed to the container, if the cottage food item is offered for sale from
+80 a bulk container;
+81 (3) On a placard displayed at the point of sale, if the cottage food item is neither
+82 packaged nor offered for sale from a bulk container; or
+83 (4) On the webpage on which the cottage food item is offered for sale, if the cottage food
+84 item is offered for sale on the internet.
+85 (c)(1) If the cottage food item is sold by telephone or custom order, the seller may
+86 choose not to display the information required by subsection (a) of this Code section but
+87 shall disclose to consumers that the cottage food item:
+88 (A) Is produced at a residential property that is exempt from state inspection; and
+H. B. 398
+- 4 -
+
+25 LC 44 2976
+89 (B) May contain allergens.
+90 (2) The seller shall have the information required by paragraphs (1) through (3) of
+91 subsection (a) of this Code section readily available and shall provide it to consumers
+92 upon request.
+93 (d) In addition to the labeling requirements provided in subsections (a) and (b) of this
+94 Code section, if the cottage food item is sold by a third-party vendor, the item shall be
+95 displayed in a separate section of the store or in a separate display case from non-cottage
+96 food items. The third-party vendor shall conspicuously label the separate section or display
+97 case as containing cottage food items that are exempt from state inspection.
+98 26-2-474.
+99 The Commissioner shall be authorized to enforce the provisions of this article and shall
+100 have the authority to adopt any rules or regulations necessary to carry out said enforcement.
+101 Nothing in this article shall be construed to prevent the department from conducting an
+102 investigation into a reported foodborne illness.
+103 26-2-475.
+104 Any person who willfully fails to comply with any provision of this article or violates any
+105 rule or regulation adopted pursuant to this article shall be given a written warning. Upon
+106 a second or subsequent violation, such person shall be assessed a civil penalty of not more
+107 than $75.00 per violation.
+108 26-2-476.
+109 (a) The department may inspect the residence of a cottage food operator to investigate a
+110 consumer complaint, a report of foodborne illness, or other public health emergency.
+111 (b) Such inspection shall be limited to the areas of the residence used by the cottage food
+112 operator.
+H. B. 398
+- 5 -
+
+25 LC 44 2976
+113 (c) Except in emergency situations, the department shall schedule an inspection with the
+114 cottage food operator in advance. A cottage food operator may request an administrative
+115 warrant prior to an inspection.
+116 26-2-477.
+117 Nothing in this article shall be construed to:
+118 (1) Exempt a cottage food operator or seller from any applicable federal law, including,
+119 but not limited to, any federal law prohibiting the sale of certain food items in interstate
+120 commerce;
+121 (2) Preclude the production or sale of food items otherwise allowed by federal, state, or
+122 local law;
+123 (3) Preclude the sale of live animals or portions of live animals before slaughter for
+124 future delivery;
+125 (4) Amend or otherwise alter any rule or regulation related to other goods and services
+126 provided where cottage food items are produced or sold;
+127 (5) Exempt a cottage food operator or seller from any applicable tax law;
+128 (6) Exempt a cottage food operator or seller from any applicable fishing or hunting law;
+129 or
+130 (7) Exempt a cottage food operator or seller from any applicable law of another state.
+131 26-2-478.
+132 (a) In addition to the regulation of cottage food items under this article by the department
+133 and the Commissioner, the governing authority of any county or municipality may elect to
+134 prohibit cottage food operators from selling cottage food items through third-party vendors
+135 within its jurisdiction through the adoption of an ordinance providing as much. Any such
+136 ordinance shall only be adopted at a hearing occurring at least 15 but not more than 45 days
+137 after a notice of the hearing is published within a newspaper of general circulation within
+H. B. 398
+- 6 -
+
+25 LC 44 2976
+138 the territorial boundaries of the local government. Any such county or municipality may
+139 employ its local board of health to assist in such matters.
+140 (b) No ordinance authorized under subsection (a) of this Code section shall become
+141 effective until the county or municipality notifies the Commissioner and the department of
+142 such ordinance prior to the effective date of the required ordinance.
+143 (c) Neither the Commissioner, nor the department, shall be responsible or liable for any
+144 prohibition or regulation enacted by ordinance pursuant to subsection (a) of this Code
+145 section."
+146 SECTION 2.
+147 Said chapter is further amended in Article 2, relating to adulteration and misbranding of food,
+148 by revising paragraph (5) of subsection (a) of Code Section 26-2-21, relating to definitions,
+149 as follows:
+150 "(5) 'Food sales establishment' means retail and wholesale grocery stores; retail seafood
+151 stores and places of business; food processing plants, except those food processing plants
+152 which are currently required to obtain a license from the Commissioner under any other
+153 provision of law; bakeries; confectioneries; fruit, nuts, and vegetable stores or roadside
+154 stands; wholesale sandwich and salad manufacturers, including vending machines and
+155 operations connected therewith; and places of business and similar establishments,
+156 mobile or permanent, engaged in the sale of food primarily for consumption off the
+157 premises. Within a food sales establishment, there may be a food service component, not
+158 separately operated, which may serve customers on site. This food service component
+159 shall be considered as part of the food sales establishment. Such term shall not include:
+160 (A) The food sales component of any food service establishment defined in Code
+161 Section 26-2-370;
+162 (B) Food service establishments as defined in Code Section 26-2-370;
+H. B. 398
+- 7 -
+
+25 LC 44 2976
+163 (C) Establishments engaged in the sale of food primarily for consumption off the
+164 premises if such sale is an authorized part of and occurs upon the site of a fair or
+165 festival which:
+166 (i) Is sponsored by a political subdivision of this state; and
+167 (ii) Lasts 120 hours or less;
+168 (D) Establishments engaged in the boiling, bottling, and sale of sugar cane syrup or
+169 sorghum syrup within this state, provided that such bottles contain a label listing the
+170 producer's name and street address, all added ingredients, and the net weight or volume
+171 of the product; or
+172 (E) Nonprofit food sales and food service provided under a permit issued pursuant to
+173 Article 14 of this chapter;
+174 (F) Cottage food operators as provided for in Code Section 26-2-471; or
+175 (G) A person selling non-potentially hazardous foods, as defined in Code
+176 Section 26-2-470, at a bake sale affiliated with a nonprofit, charitable, or religious
+177 organization."
+178 SECTION 3.
+179 Said chapter is further amended in Article 6, relating to meat, poultry, and dairy processing
+180 plants, by revising paragraph (3) of Code Section 26-2-200, relating to definitions, as
+181 follows:
+182 "(3) 'Meat, poultry, or dairy processing plant' means: any abattoir, slaughterhouse,
+183 poultry killing or processing plant, milk depot, milk processing plant, or any other
+184 establishment for the killing, storage, dressing, manufacture, preparation, or processing
+185 of any animal, fowl, or dairy product or any by-product thereof for human consumption.
+186 Such term shall not include cottage food operators as provided for in Code
+187 Section 26-2-471."
+H. B. 398
+- 8 -
+
+25 LC 44 2976
+188 SECTION 4.
+189 Said chapter is further amended in Article 13, relating to food service establishments, by
+190 revising paragraph (2) of Code Section 26-2-370, relating to definitions, as follows:
+191 "(2) 'Food service establishment' means establishments for the preparation and serving
+192 of meals, lunches, short orders, sandwiches, frozen desserts, or other edible products
+193 either for carry out or service within the establishment. Such term includes restaurants;
+194 coffee shops; cafeterias; short order cafes; luncheonettes; taverns; lunchrooms; places
+195 which retail sandwiches or salads; soda fountains; institutions, both public and private;
+196 mobile food service establishments; industrial cafeterias; catering establishments; and
+197 similar facilities by whatever name called. Within a food service establishment, there
+198 may be a food sales component, not separately operated. This food sales component shall
+199 be considered as part of the food service establishment. Such term shall not include:
+200 (A) A food sales establishment, as defined in Code Section 26-2-21, except as
+201 otherwise stated in this paragraph;
+202 (B) The food service component of any food sales establishment defined in Code
+203 Section 26-2-21;
+204 (C) Any outdoor recreation activity sponsored by the state, a county, a municipality,
+205 or any department or entity thereof, any outdoor or indoor (other than school cafeteria
+206 food service) public school function, or any outdoor private school function;
+207 (D) Any organization which is operating on its own property or on the property of a
+208 party that has provided written consent for the use of such property for such purpose
+209 and which is exempt from taxes under paragraph (1) of subsection (a) of Code
+210 Section 48-7-25 or under Section 501(d) or paragraphs (1) through (8) or
+211 paragraph (10) of Section 501(c) of the Internal Revenue Code for the purpose of
+212 operating a house or other residential structures where seriously ill or injured children
+213 and their families are provided temporary accommodations in proximity to their
+H. B. 398
+- 9 -
+
+25 LC 44 2976
+214 treatment hospitals and where food is prepared, served, transported, or stored by
+215 volunteer personnel;
+216 (E) Establishments for the preparation and serving of meals, lunches, short orders,
+217 sandwiches, frozen desserts, or other edible products if such preparation or serving is
+218 an authorized part of and occurs upon the site of an event which:
+219 (i) Is sponsored by a political subdivision of this state;
+220 (ii) Is held on the property of such sponsor or on the property of a party that has
+221 provided written consent for use of such property for such event; and
+222 (iii) Lasts 120 hours or less; or
+223 (F) Nonprofit food sales and food service provided under a permit issued pursuant to
+224 Article 14 of this chapter; or
+225 (G) Cottage food operators as provided for in Code Section 26-2-471."
+226 SECTION 5.
+227 Chapter 60 of Title 36 of the Official Code of Georgia Annotated, relating to general
+228 provisions applicable to counties and municipal corporations, is amended by adding a new
+229 Code section to read as follows:
+230 "36-60-33.
+231 Except as authorized under and in accordance with Code Section 26-2-478, no county or
+232 municipality shall prohibit or regulate cottage food items as such term defined in Code
+233 Section 26-2-470. No county or municipality shall prohibit commercial delivery
+234 companies from delivering cottage food items."
+235 SECTION 6.
+236 All laws and parts of laws in conflict with this Act are repealed.
+H. B. 398
+- 10 -
+
+[DELETED: 5L6,0,3,htht5,2,hn t p f i t p f a c p t p f]
+[DELETED: 5L  ' f o m a p w p c f i a   ' f p o m a i o o o t l u f a v d f d h s a c t m a g c a u n v a]
+[DELETED: 5L c f]
+[DELETED: 5L t s c f p m p s a t s a o p]
+[DELETED: 5L]
+[DELETED: 5L]
+[DELETED: 5L c t a p o b a s e]
+[DELETED: 5L  A p s n h f a d i C b r p ( o C S 2 r t d a a k t s n i c f o a p f i C]
+[DELETED: 5L  A f s e a d i C S 2 e a w i e f t u p ( o s ( o C 4 o u S 5 o p ( t ( o t f a p t a i p t t]
+[DELETED: 5L h a w f i p s t o s b t O 2  N c o m s p c d]

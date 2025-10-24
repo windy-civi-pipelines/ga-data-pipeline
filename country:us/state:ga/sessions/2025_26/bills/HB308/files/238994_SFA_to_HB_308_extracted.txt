@@ -1,0 +1,157 @@
+Title: 1 Amend HB 308 (LC 39 4652S) by replacing line 8 with the following:
+Official Title: 1 Amend HB 308 (LC 39 4652S) by replacing line 8 with the following:
+Number of Sections: 1
+Source: versions - SFA to HB 308
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+25 HB 308/SFA
+SENATE AMENDMENT TO HB 308
+ADOPTED SENATE
+2 to provide a sentencing court with authority to order the installation of a device which limits
+3 the speed of a motor vehicle as part of the punishment for conviction of the offense of
+4 reckless stunt driving; to provide for procedures and conditions upon issuance of such orders;
+5 to provide for notification to the Department of Revenue; to provide for a penalty; to revise
+6 and provide for definitions; to provide that fingerprints shall not be obtained for offenses
+7 relating to operation of a motor vehicle with unauthorized levels of window or windshield
+8 tinting or unlawful installation of such; to revise and provide for a definition; to provide for
+9 the issuance of a refusal to sign citation; to provide for a penalty; to amend Code Section
+10 48-5-473 of the Official Code
+11 By replacing "such vehicles" with "miniature on-road vehicles" on line 11.
+12 By inserting the following between lines 200 and 201:
+13 Said title is further amended in Code Section 40-6-390.1, relating to reckless stunt driving,
+14 by adding a new subsection to read as follows:
+15 "(b.1)(1) As used in this subsection, the term 'intelligent speed assistance device' means
+16 a device designed to be installed within a motor vehicle to actively monitor and prevent
+17 the operator from exceeding a preset speed. Such term shall not include any technology
+18 provided by the motor vehicle manufacturer as a component of a motor vehicle that
+19 controls or affects the speed of a motor vehicle.
+20 (2) Upon conviction of a violation of this Code section and in addition to the punishment
+21 provided for in subsection (a) of this Code section, a court shall be authorized to order
+22 the installation of an intelligent speed assistance device upon the motor vehicle operated
+- 1 -
+25 HB 308/SFA
+23 by the offender during such violation when the offender is the registered owner of such
+24 motor vehicle as shown in the records of the Department of Revenue. Such order shall
+25 set the maximum speed limit for an intelligent speed assistance device installed upon a
+26 motor vehicle at a speed limit of no greater than 20 percent above the posted speed limit.
+27 An intelligent speed assistance device shall be installed within ten days of the issuance
+28 of such order and remain on the vehicle for a period of time ordered by the court which
+29 shall be no less than six months. The costs relating to the installation of an intelligent
+30 speed assistance device upon a motor vehicle and any monitoring thereof shall be borne
+31 by the offender. Any court which orders an intelligent speed assistance device to be
+32 placed upon a motor vehicle pursuant to this subsection shall provide the Department of
+33 Revenue with a copy of such order. The records of the Department of Revenue shall
+34 contain a record reflecting that the motor vehicle shall only be operated when equipped
+35 with a functioning intelligent speed assistance device. The operation of a motor vehicle
+36 without an intelligent speed assistance device for which an order for installation of an
+37 intelligent speed assistance device has been issued pursuant to this subsection by the
+38 offender issued such order shall be punished as for a misdemeanor."
+39 SECTION 11.
+40 Said title is further amended in Code Section 40-8-73.1, relating to tinting of windows or
+41 windshields of motor vehicles, by revising subsection (h) as follows:
+42 "(h) Any person who violates subsection (b) or (e) of this Code section shall be guilty of
+43 a misdemeanor; provided, however, that no fingerprints shall be obtained for a violation
+44 of this Code section."
+45 SECTION 12.
+- 2 -
+25 HB 308/SFA
+46 Said title is further amended in Code Section 40-13-2.1, relating to signature on citations
+47 required, effect of failure to sign, exemption for out-of-state drivers, and electronic capture
+48 of signature, by revising subsection (a) as follows:
+49 "(a) A person who is issued a citation as provided in this chapter or Code Section 17-6-11,
+50 relating to display of driver's license in lieu of bail, shall may sign the citation to
+51 acknowledge receipt of the citation and of his or her obligation to appear for trial. The
+52 officer shall advise the person that signing the citation is not an admission of guilt and that
+53 failure to sign will result in the person having to post a cash bond appear for trial. If the
+54 person refuses to sign the citation, it shall constitute reasonable cause to believe that the
+55 person will not appear at trial and the officer shall write 'Refusal to Sign' on such citation
+56 and shall give the citation to such person. The officer may bring the person before a
+57 judicial officer or traffic violations bureau to post a bond as is otherwise provided by law."
+58 SECTION 13.
+59 By renumbering the remaining sections of the bill accordingly.
+- 3 -
+[DELETED: 5HAttrtartt041B2B3S4b6a7t8p9c0(1p2t]
+[DELETED: 5H3b4m5s6m7A8o9s0s1b2p3R4c5w6w7i8o9S0S1w2(3a4o5S]
+[DELETED: 5H6S7r8o9(0r t d o d l i l o b s m s t c t1a2o3f4p5p6a7j8S9B]
+
+
+================================================================================
+
+Raw Text:
+25 HB 308/SFA
+SENATE AMENDMENT TO HB 308
+ADOPTED SENATE
+1 Amend HB 308 (LC 39 4652S) by replacing line 8 with the following:
+2 to provide a sentencing court with authority to order the installation of a device which limits
+3 the speed of a motor vehicle as part of the punishment for conviction of the offense of
+4 reckless stunt driving; to provide for procedures and conditions upon issuance of such orders;
+5 to provide for notification to the Department of Revenue; to provide for a penalty; to revise
+6 and provide for definitions; to provide that fingerprints shall not be obtained for offenses
+7 relating to operation of a motor vehicle with unauthorized levels of window or windshield
+8 tinting or unlawful installation of such; to revise and provide for a definition; to provide for
+9 the issuance of a refusal to sign citation; to provide for a penalty; to amend Code Section
+10 48-5-473 of the Official Code
+11 By replacing "such vehicles" with "miniature on-road vehicles" on line 11.
+12 By inserting the following between lines 200 and 201:
+13 Said title is further amended in Code Section 40-6-390.1, relating to reckless stunt driving,
+14 by adding a new subsection to read as follows:
+15 "(b.1)(1) As used in this subsection, the term 'intelligent speed assistance device' means
+16 a device designed to be installed within a motor vehicle to actively monitor and prevent
+17 the operator from exceeding a preset speed. Such term shall not include any technology
+18 provided by the motor vehicle manufacturer as a component of a motor vehicle that
+19 controls or affects the speed of a motor vehicle.
+20 (2) Upon conviction of a violation of this Code section and in addition to the punishment
+21 provided for in subsection (a) of this Code section, a court shall be authorized to order
+22 the installation of an intelligent speed assistance device upon the motor vehicle operated
+- 1 -
+
+25 HB 308/SFA
+23 by the offender during such violation when the offender is the registered owner of such
+24 motor vehicle as shown in the records of the Department of Revenue. Such order shall
+25 set the maximum speed limit for an intelligent speed assistance device installed upon a
+26 motor vehicle at a speed limit of no greater than 20 percent above the posted speed limit.
+27 An intelligent speed assistance device shall be installed within ten days of the issuance
+28 of such order and remain on the vehicle for a period of time ordered by the court which
+29 shall be no less than six months. The costs relating to the installation of an intelligent
+30 speed assistance device upon a motor vehicle and any monitoring thereof shall be borne
+31 by the offender. Any court which orders an intelligent speed assistance device to be
+32 placed upon a motor vehicle pursuant to this subsection shall provide the Department of
+33 Revenue with a copy of such order. The records of the Department of Revenue shall
+34 contain a record reflecting that the motor vehicle shall only be operated when equipped
+35 with a functioning intelligent speed assistance device. The operation of a motor vehicle
+36 without an intelligent speed assistance device for which an order for installation of an
+37 intelligent speed assistance device has been issued pursuant to this subsection by the
+38 offender issued such order shall be punished as for a misdemeanor."
+39 SECTION 11.
+40 Said title is further amended in Code Section 40-8-73.1, relating to tinting of windows or
+41 windshields of motor vehicles, by revising subsection (h) as follows:
+42 "(h) Any person who violates subsection (b) or (e) of this Code section shall be guilty of
+43 a misdemeanor; provided, however, that no fingerprints shall be obtained for a violation
+44 of this Code section."
+45 SECTION 12.
+- 2 -
+
+25 HB 308/SFA
+46 Said title is further amended in Code Section 40-13-2.1, relating to signature on citations
+47 required, effect of failure to sign, exemption for out-of-state drivers, and electronic capture
+48 of signature, by revising subsection (a) as follows:
+49 "(a) A person who is issued a citation as provided in this chapter or Code Section 17-6-11,
+50 relating to display of driver's license in lieu of bail, shall may sign the citation to
+51 acknowledge receipt of the citation and of his or her obligation to appear for trial. The
+52 officer shall advise the person that signing the citation is not an admission of guilt and that
+53 failure to sign will result in the person having to post a cash bond appear for trial. If the
+54 person refuses to sign the citation, it shall constitute reasonable cause to believe that the
+55 person will not appear at trial and the officer shall write 'Refusal to Sign' on such citation
+56 and shall give the citation to such person. The officer may bring the person before a
+57 judicial officer or traffic violations bureau to post a bond as is otherwise provided by law."
+58 SECTION 13.
+59 By renumbering the remaining sections of the bill accordingly.
+- 3 -
+
+[DELETED: 5HAttrtartt041B2B3S4b6a7t8p9c0(1p2t]
+[DELETED: 5H3b4m5s6m7A8o9s0s1b2p3R4c5w6w7i8o9S0S1w2(3a4o5S]
+[DELETED: 5H6S7r8o9(0r t d o d l i l o b s m s t c t1a2o3f4p5p6a7j8S9B]

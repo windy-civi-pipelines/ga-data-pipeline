@@ -1,0 +1,342 @@
+Title: Senate Bill 282
+Official Title: Senate Bill 282
+Number of Sections: 1
+Source: versions - As Introduced LC 55 0560
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+25 LC 55 0560
+By: Senators Goodman of the 8th, Jackson of the 41st, Sims of the 12th, Williams of the 25th
+and Echols of the 49th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia
+2 Annotated, the "Fair Business Practices Act of 1975," so as to provide requirements for
+3 earned wage access services; to provide for fees that may be charged for such services; to
+4 provide for prohibitions; to provide for consumer protections; to provide that earned wage
+5 access payments are nonrecourse; to provide that earned wage access services shall not be
+6 considered lending activity or money transmission; to provide that earned wage access
+7 services are not in violation of laws regarding deductions from payroll and earned but unpaid
+8 income; to provide that permitted fees are not interest; to provide for definitions; to provide
+9 for applicability; to provide for related matters; to repeal conflicting laws; and for other
+10 purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, the
+14 "Fair Business Practices Act of 1975," is amended by adding a new Code section to read as
+15 follows:
+S. B. 282
+- 1 -
+25 LC 55 0560
+16 "10-1-393.20.
+17 (a) As used in this Code section, the term:
+18 (1) 'Consumer' means an individual who indicates to a provider that he or she resides in
+19 the State of Georgia. A provider may use the mailing address or state of residence
+20 provided by a consumer or a consumer's employer to determine the consumer's state of
+21 residence for purposes of this Code section.
+22 (2) 'Consumer directed wage access services' means the business of offering or providing
+23 earned wage access services directly to a consumer based on the consumer's
+24 representation and the provider's reasonable determination of the consumer's earned but
+25 unpaid income, which may include, but is not limited to, time and attendance data,
+26 geolocation data, access to obligor systems, payroll systems, and paycheck history.
+27 (3) 'Earned but unpaid income' means salary, wages, compensation, or other income that
+28 a consumer or an employer has represented, and that a provider has reasonably
+29 determined, has been earned by or accrued to the benefit of the consumer in exchange for
+30 the consumer's provision of services to the employer or on behalf of the employer,
+31 including on an hourly, project based, piecework, or other basis and including when the
+32 consumer is acting as an independent contractor of the employer, but has not, at the time
+33 of the payment of proceeds, been paid to the consumer by the employer.
+34 (4) 'Earned wage access services' means the business of providing consumer directed
+35 wage access services, employer integrated wage access services, or both.
+36 (5) 'Earned wage access services provider' or 'provider' means a person that is in the
+37 business of offering or providing earned wage access services to consumers.
+38 (6) 'Employer' means:
+39 (A) A person who employs a consumer; or
+40 (B) Any other person who is contractually obligated to pay a consumer earned but
+41 unpaid income in exchange for a consumer's provision of services to the employer or
+42 on behalf of the employer, including on an hourly, project based, piecework, or other
+S. B. 282
+- 2 -
+25 LC 55 0560
+43 basis and including where the consumer is acting as an independent contractor with
+44 respect to the employer. Such term does not mean a customer of an employer or any
+45 other person whose obligation to make a payment of salary, wages, compensation, or
+46 other income to a consumer is not based on the provision of services by that consumer
+47 for or on behalf of such person.
+48 (7) 'Employer integrated wage access services' means the business of delivering to
+49 consumers earned but unpaid income.
+50 (8) 'Fee' means:
+51 (A) A fee imposed by a provider for delivery or expedited delivery of proceeds to a
+52 consumer;
+53 (B) A subscription or membership fee imposed by a provider for a bona fide group of
+54 services that includes earned wage access services; or
+55 (C) An amount of money paid by an employer to a provider on a consumer's behalf,
+56 which entitles the consumer to receive proceeds at reduced or no cost to the consumer.
+57 (9) 'Outstanding proceeds' means a payment of proceeds to a consumer by a provider that
+58 has not yet been repaid to such provider.
+59 (10) 'Person' means a business entity other than an individual.
+60 (b) An earned wage access services provider shall:
+61 (1) Develop and implement policies and procedures to respond to questions raised by
+62 consumers and address complaints from consumers;
+63 (2) Whenever it offers a consumer the option to receive proceeds for a fee, offer such
+64 consumer at least one reasonable option to obtain proceeds at no cost and clearly explain
+65 to the consumer how to choose such no-cost option;
+66 (3) Before entering into an agreement with a consumer for the provision of earned wage
+67 access services:
+68 (A) Inform the consumer of his or her rights under the agreement; and
+S. B. 282
+- 3 -
+25 LC 55 0560
+69 (B) Fully and clearly disclose all fees or a schedule of fees associated with the earned
+70 wage access services;
+71 (4) Inform the consumer of the fact of any material changes to the terms and conditions
+72 of the earned wage access services before implementing those changes for such
+73 consumer;
+74 (5) Allow the consumer to cancel use of the provider's earned wage access services at
+75 any time, without incurring a cancellation fee imposed by the provider;
+76 (6) Provide proceeds to a consumer via any means mutually agreed upon by the
+77 consumer and the provider;
+78 (7) Comply with all local, state, and federal privacy and information security laws;
+79 (8) In any case in which such provider will seek repayment of outstanding earned wage
+80 access payments or payment of fees from a consumer, inform the consumer when the
+81 provider will make its first attempt to seek such repayment or payment; and
+82 (9) In any case in which such provider will seek repayment of outstanding proceeds or
+83 payment of fees in connection with the activities covered by this Code section from a
+84 consumer's depository institution account via electronic funds transfer:
+85 (A) Comply with the federal Electronic Funds Transfer Act, 15 U.S.C. Section 1693,
+86 et seq., and its implementing regulations; and
+87 (B) Reimburse the consumer for the full amount of any overdraft or insufficient funds
+88 fees imposed on a consumer by the consumer's depository institution that were caused
+89 by the provider attempting to seek payment of any outstanding proceeds or fees on a
+90 date before, or in an incorrect amount from, the date or amount disclosed to the
+91 consumer; provided, however, that a provider is not subject to the requirements in this
+92 subparagraph with respect to payments of outstanding proceeds or fees incurred by a
+93 consumer through fraudulent or other unlawful means.
+94 (c) No earned wage access services provider shall:
+S. B. 282
+- 4 -
+25 LC 55 0560
+95 (1) Share with an employer a portion of any fees, tips, gratuities, or other donations that
+96 were received from or charged to a consumer for earned wage access services. Any
+97 payment from the employer to the earned wage access services provider set forth in an
+98 agreement between the employer and earned wage access services provider shall not be
+99 considered a violation of this paragraph;
+100 (2) Charge a customer a fee that exceeds, per transaction, the greater of $5.00 or 5
+101 percent of proceeds provided to a customer.
+102 (3) Charge a consumer a late fee, a deferral fee, interest, or any other penalty or charge
+103 for the consumer's failure to repay outstanding proceeds or fees;
+104 (4) Require a consumer's credit report or credit score issued by a consumer reporting
+105 agency to determine a consumer's eligibility for earned wage access services;
+106 (5) Accept repayment of outstanding proceeds or fees from a consumer via a credit card
+107 or charge card;
+108 (6) Report to a consumer credit reporting agency or a third-party debt collector any
+109 information about the consumer regarding the inability of the provider to be repaid
+110 outstanding proceeds or fees; or
+111 (7) Compel or attempt to compel payment by a consumer of any outstanding proceeds
+112 or fees to the provider through any of the following means:
+113 (A) A civil suit against the consumer;
+114 (B) Use of a third party to pursue collection from the consumer on the provider's
+115 behalf;
+116 (C) The sale of outstanding amounts to a third-party debt collector or debt buyer for
+117 collection from the consumer; or
+118 (D) Use of unsolicited outbound telephone calls.
+119 (d) No earned wage access services that comply with this Code section shall be considered
+120 lending activity or money transmission or in violation of or noncompliance with any law
+121 governing deductions from payroll, salary, wages, compensation or other income, or the
+S. B. 282
+- 5 -
+25 LC 55 0560
+122 purchase, sale, or assignment of, or an order for, earned but unpaid income, nor shall
+123 earned wage access payments that comply with this Code section be considered loans. No
+124 fees permitted under this Code section shall be considered interest.
+125 (e) Failure to comply with the provisions of this Code section shall be considered an unfair
+126 or deceptive act or practice which is unlawful and which shall be punishable by the
+127 provisions of this part."
+128 SECTION 2.
+129 This Act shall apply to agreements for earned wage access services that are entered into or
+130 renewed on or after July 1, 2025.
+131 SECTION 3.
+132 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 282
+- 6 -
+[DELETED: 5L]
+[DELETED: 5L w a s d t a c b o t c c o a e h r a t a p h r]
+[DELETED: 5L]
+[DELETED: 5L t e w a s b i t c f s  P p t a c v a m m a u b t b o i a i a f t d o a d t t]
+[DELETED: 5L]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 55 0560
+Senate Bill 282
+By: Senators Goodman of the 8th, Jackson of the 41st, Sims of the 12th, Williams of the 25th
+and Echols of the 49th
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia
+2 Annotated, the "Fair Business Practices Act of 1975," so as to provide requirements for
+3 earned wage access services; to provide for fees that may be charged for such services; to
+4 provide for prohibitions; to provide for consumer protections; to provide that earned wage
+5 access payments are nonrecourse; to provide that earned wage access services shall not be
+6 considered lending activity or money transmission; to provide that earned wage access
+7 services are not in violation of laws regarding deductions from payroll and earned but unpaid
+8 income; to provide that permitted fees are not interest; to provide for definitions; to provide
+9 for applicability; to provide for related matters; to repeal conflicting laws; and for other
+10 purposes.
+11 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+12 SECTION 1.
+13 Part 2 of Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, the
+14 "Fair Business Practices Act of 1975," is amended by adding a new Code section to read as
+15 follows:
+S. B. 282
+- 1 -
+
+25 LC 55 0560
+16 "10-1-393.20.
+17 (a) As used in this Code section, the term:
+18 (1) 'Consumer' means an individual who indicates to a provider that he or she resides in
+19 the State of Georgia. A provider may use the mailing address or state of residence
+20 provided by a consumer or a consumer's employer to determine the consumer's state of
+21 residence for purposes of this Code section.
+22 (2) 'Consumer directed wage access services' means the business of offering or providing
+23 earned wage access services directly to a consumer based on the consumer's
+24 representation and the provider's reasonable determination of the consumer's earned but
+25 unpaid income, which may include, but is not limited to, time and attendance data,
+26 geolocation data, access to obligor systems, payroll systems, and paycheck history.
+27 (3) 'Earned but unpaid income' means salary, wages, compensation, or other income that
+28 a consumer or an employer has represented, and that a provider has reasonably
+29 determined, has been earned by or accrued to the benefit of the consumer in exchange for
+30 the consumer's provision of services to the employer or on behalf of the employer,
+31 including on an hourly, project based, piecework, or other basis and including when the
+32 consumer is acting as an independent contractor of the employer, but has not, at the time
+33 of the payment of proceeds, been paid to the consumer by the employer.
+34 (4) 'Earned wage access services' means the business of providing consumer directed
+35 wage access services, employer integrated wage access services, or both.
+36 (5) 'Earned wage access services provider' or 'provider' means a person that is in the
+37 business of offering or providing earned wage access services to consumers.
+38 (6) 'Employer' means:
+39 (A) A person who employs a consumer; or
+40 (B) Any other person who is contractually obligated to pay a consumer earned but
+41 unpaid income in exchange for a consumer's provision of services to the employer or
+42 on behalf of the employer, including on an hourly, project based, piecework, or other
+S. B. 282
+- 2 -
+
+25 LC 55 0560
+43 basis and including where the consumer is acting as an independent contractor with
+44 respect to the employer. Such term does not mean a customer of an employer or any
+45 other person whose obligation to make a payment of salary, wages, compensation, or
+46 other income to a consumer is not based on the provision of services by that consumer
+47 for or on behalf of such person.
+48 (7) 'Employer integrated wage access services' means the business of delivering to
+49 consumers earned but unpaid income.
+50 (8) 'Fee' means:
+51 (A) A fee imposed by a provider for delivery or expedited delivery of proceeds to a
+52 consumer;
+53 (B) A subscription or membership fee imposed by a provider for a bona fide group of
+54 services that includes earned wage access services; or
+55 (C) An amount of money paid by an employer to a provider on a consumer's behalf,
+56 which entitles the consumer to receive proceeds at reduced or no cost to the consumer.
+57 (9) 'Outstanding proceeds' means a payment of proceeds to a consumer by a provider that
+58 has not yet been repaid to such provider.
+59 (10) 'Person' means a business entity other than an individual.
+60 (b) An earned wage access services provider shall:
+61 (1) Develop and implement policies and procedures to respond to questions raised by
+62 consumers and address complaints from consumers;
+63 (2) Whenever it offers a consumer the option to receive proceeds for a fee, offer such
+64 consumer at least one reasonable option to obtain proceeds at no cost and clearly explain
+65 to the consumer how to choose such no-cost option;
+66 (3) Before entering into an agreement with a consumer for the provision of earned wage
+67 access services:
+68 (A) Inform the consumer of his or her rights under the agreement; and
+S. B. 282
+- 3 -
+
+25 LC 55 0560
+69 (B) Fully and clearly disclose all fees or a schedule of fees associated with the earned
+70 wage access services;
+71 (4) Inform the consumer of the fact of any material changes to the terms and conditions
+72 of the earned wage access services before implementing those changes for such
+73 consumer;
+74 (5) Allow the consumer to cancel use of the provider's earned wage access services at
+75 any time, without incurring a cancellation fee imposed by the provider;
+76 (6) Provide proceeds to a consumer via any means mutually agreed upon by the
+77 consumer and the provider;
+78 (7) Comply with all local, state, and federal privacy and information security laws;
+79 (8) In any case in which such provider will seek repayment of outstanding earned wage
+80 access payments or payment of fees from a consumer, inform the consumer when the
+81 provider will make its first attempt to seek such repayment or payment; and
+82 (9) In any case in which such provider will seek repayment of outstanding proceeds or
+83 payment of fees in connection with the activities covered by this Code section from a
+84 consumer's depository institution account via electronic funds transfer:
+85 (A) Comply with the federal Electronic Funds Transfer Act, 15 U.S.C. Section 1693,
+86 et seq., and its implementing regulations; and
+87 (B) Reimburse the consumer for the full amount of any overdraft or insufficient funds
+88 fees imposed on a consumer by the consumer's depository institution that were caused
+89 by the provider attempting to seek payment of any outstanding proceeds or fees on a
+90 date before, or in an incorrect amount from, the date or amount disclosed to the
+91 consumer; provided, however, that a provider is not subject to the requirements in this
+92 subparagraph with respect to payments of outstanding proceeds or fees incurred by a
+93 consumer through fraudulent or other unlawful means.
+94 (c) No earned wage access services provider shall:
+S. B. 282
+- 4 -
+
+25 LC 55 0560
+95 (1) Share with an employer a portion of any fees, tips, gratuities, or other donations that
+96 were received from or charged to a consumer for earned wage access services. Any
+97 payment from the employer to the earned wage access services provider set forth in an
+98 agreement between the employer and earned wage access services provider shall not be
+99 considered a violation of this paragraph;
+100 (2) Charge a customer a fee that exceeds, per transaction, the greater of $5.00 or 5
+101 percent of proceeds provided to a customer.
+102 (3) Charge a consumer a late fee, a deferral fee, interest, or any other penalty or charge
+103 for the consumer's failure to repay outstanding proceeds or fees;
+104 (4) Require a consumer's credit report or credit score issued by a consumer reporting
+105 agency to determine a consumer's eligibility for earned wage access services;
+106 (5) Accept repayment of outstanding proceeds or fees from a consumer via a credit card
+107 or charge card;
+108 (6) Report to a consumer credit reporting agency or a third-party debt collector any
+109 information about the consumer regarding the inability of the provider to be repaid
+110 outstanding proceeds or fees; or
+111 (7) Compel or attempt to compel payment by a consumer of any outstanding proceeds
+112 or fees to the provider through any of the following means:
+113 (A) A civil suit against the consumer;
+114 (B) Use of a third party to pursue collection from the consumer on the provider's
+115 behalf;
+116 (C) The sale of outstanding amounts to a third-party debt collector or debt buyer for
+117 collection from the consumer; or
+118 (D) Use of unsolicited outbound telephone calls.
+119 (d) No earned wage access services that comply with this Code section shall be considered
+120 lending activity or money transmission or in violation of or noncompliance with any law
+121 governing deductions from payroll, salary, wages, compensation or other income, or the
+S. B. 282
+- 5 -
+
+25 LC 55 0560
+122 purchase, sale, or assignment of, or an order for, earned but unpaid income, nor shall
+123 earned wage access payments that comply with this Code section be considered loans. No
+124 fees permitted under this Code section shall be considered interest.
+125 (e) Failure to comply with the provisions of this Code section shall be considered an unfair
+126 or deceptive act or practice which is unlawful and which shall be punishable by the
+127 provisions of this part."
+128 SECTION 2.
+129 This Act shall apply to agreements for earned wage access services that are entered into or
+130 renewed on or after July 1, 2025.
+131 SECTION 3.
+132 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 282
+- 6 -
+
+[DELETED: 5L]
+[DELETED: 5L w a s d t a c b o t c c o a e h r a t a p h r]
+[DELETED: 5L]
+[DELETED: 5L t e w a s b i t c f s  P p t a c v a m m a u b t b o i a i a f t d o a d t t]
+[DELETED: 5L]
+[DELETED: 5L]

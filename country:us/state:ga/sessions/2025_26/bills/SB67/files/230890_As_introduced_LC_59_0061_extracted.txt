@@ -1,0 +1,94 @@
+Title: Senate Bill 67
+Official Title: Senate Bill 67
+Number of Sections: 1
+Source: versions - As introduced LC 59 0061
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+25 LC 59 0061
+By: Senators Parent of the 44th, Esteves of the 35th, Jackson of the 41st, Jones II of the 22nd,
+Orrock of the 36th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+2 income taxes, so as to provide for an income tax credit equal to 20 percent of the federal
+3 earned income tax credit; to provide for rules and regulations; to provide for related matters;
+4 to provide for an effective date and applicability; to repeal conflicting laws; and for other
+5 purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes,
+9 is amended by adding a new Code section to read as follows:
+10 "48-7-29.28.
+11 (a) A taxpayer shall be allowed a credit against the tax imposed by Code Section 48-7-20
+12 in an amount equal to 20 percent of the federal credit that such taxpayer is allowed under
+13 Section 32 of the Internal Revenue Code. Such credit shall be allowed only if the
+14 individual would have received the federal credit allowed under Section 32 of the Internal
+15 Revenue Code after adding any carryforward of a net operating loss that was deducted
+16 pursuant to such section in determining eligibility for the federal credit.
+S. B. 67
+- 1 -
+25 LC 59 0061
+17 (b) If the total amount of the tax credit provided for in this Code section exceeds the
+18 taxpayer's income tax liability for a taxable year, such excess funds shall be refunded to the
+19 taxpayer.
+20 (c) The commissioner shall be authorized to promulgate rules and regulations necessary
+21 to implement and administer the provisions of this Code section."
+22 SECTION 2.
+23 This Act shall become effective on July 1, 2025, and shall be applicable to all taxable years
+24 beginning on or after January 1, 2025.
+25 SECTION 3.
+26 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 67
+- 2 -
+[DELETED: 5L 3 o t I R C  S c s b a o i t]
+[DELETED: 5L]
+
+
+================================================================================
+
+Raw Text:
+25 LC 59 0061
+Senate Bill 67
+By: Senators Parent of the 44th, Esteves of the 35th, Jackson of the 41st, Jones II of the 22nd,
+Orrock of the 36th and others
+A BILL TO BE ENTITLED
+AN ACT
+1 To amend Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to
+2 income taxes, so as to provide for an income tax credit equal to 20 percent of the federal
+3 earned income tax credit; to provide for rules and regulations; to provide for related matters;
+4 to provide for an effective date and applicability; to repeal conflicting laws; and for other
+5 purposes.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+7 SECTION 1.
+8 Chapter 7 of Title 48 of the Official Code of Georgia Annotated, relating to income taxes,
+9 is amended by adding a new Code section to read as follows:
+10 "48-7-29.28.
+11 (a) A taxpayer shall be allowed a credit against the tax imposed by Code Section 48-7-20
+12 in an amount equal to 20 percent of the federal credit that such taxpayer is allowed under
+13 Section 32 of the Internal Revenue Code. Such credit shall be allowed only if the
+14 individual would have received the federal credit allowed under Section 32 of the Internal
+15 Revenue Code after adding any carryforward of a net operating loss that was deducted
+16 pursuant to such section in determining eligibility for the federal credit.
+S. B. 67
+- 1 -
+
+25 LC 59 0061
+17 (b) If the total amount of the tax credit provided for in this Code section exceeds the
+18 taxpayer's income tax liability for a taxable year, such excess funds shall be refunded to the
+19 taxpayer.
+20 (c) The commissioner shall be authorized to promulgate rules and regulations necessary
+21 to implement and administer the provisions of this Code section."
+22 SECTION 2.
+23 This Act shall become effective on July 1, 2025, and shall be applicable to all taxable years
+24 beginning on or after January 1, 2025.
+25 SECTION 3.
+26 All laws and parts of laws in conflict with this Act are repealed.
+S. B. 67
+- 2 -
+
+[DELETED: 5L 3 o t I R C  S c s b a o i t]
+[DELETED: 5L]
